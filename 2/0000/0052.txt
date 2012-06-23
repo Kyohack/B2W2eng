@@ -1,3 +1,3 @@
-Would you like to return to the receptionist \ xfffe to retire from the area \ xf000ȁ \ x0001 \ x0000? \ xfffe
+Would you like to return to the receptionist\xfffeto retire from the area\xf000ȁ\x0001\x0000?\xfffe
 Yes
 No
