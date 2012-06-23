@@ -1,413 +1,413 @@
-ふしぎな　おくりもの　へ　ようこそ！
-おくりものを　うけとる
-カードアルバムを　みる
-やめる
-ふしぎな　おくりものを　うけとるため\xfffeつうしんを　かいしします\xf000븀\x0000\xfffeよろしいですか？
+Welcome to Mystery Gift!
+RECEIVE GIFT
+CHECK THE CARD ALBUM
+QUIT
+The communication channel must be opened\xfffeto receive Mystery Gifts.\xf000븀\x0000\xfffeIs that OK？
 Yes
 No
-おくりものの　うけとりかたを\xfffeえらんで　ください
-ワイヤレスで　うけとる
-Ｗｉ－Ｆｉで　うけとる
-せきがいせんで　うけとる
-もどる
-おくりものの　うけとりかたを\xfffeえらんで　ください
-いらないカードを　１まい　えらんで\xfffeすててください\xf000븁\x0000
-カードを　すてないと\xfffeおくりものを　もらえません\xf000븀\x0000\xfffeよろしいですか？
+Please choose how you want to\xfffereceive your gift.
+GET VIA WIRELESS
+GET VIA NINTENDO WFC
+GET VIA INFRARED
+BACK
+Please choose how you want to\xfffereceive your gift.
+Please throw away one card you no longer\xfffeneed to keep.\xf000븁\x0000
+You must throw away one card\xfffeto receive a Mystery Gift.\xf000븀\x0000\xfffeIs that OK?
 Yes
 No
-ＤＳワイヤレスつうしん　を\xfffeかいし　します
+DS Wireless Communications will\xfffebe launched.
 Yes
 No
-Ｗｉ－Ｆｉコネクション　に\xfffeせつぞく　しますか？
+Connect to Nintendo Wi-Fi Connection?
 Yes
 No
-せきがいせん　つうしんを\xfffeかいし　します\xf000븁\x0000\xfffeじぶんと　あいての\xfffeＤＳカードを　むきあわせて\xf000븀\x0000\xfffe「はい」を　えらんでください\xf000븁\x0000
+Infrared Communications will\xfffebe launched.\xf000븁\x0000\xfffePlease point your Nintendo Game Card\xfffeat the other person's Game Card\xf000븀\x0000\xfffeand press the A Button.\xf000븁\x0000
 Yes
 No
-おくりものを　さがしています\xfffeしばらく　おまちください……
-うけとる　おくりものを\xfffeえらんで　ください
-おくりものの　うけとりを\xfffeやめますか？
+Searching for a gift.\xfffePlease wait...
+Choose the gift you want to receive.
+Cancel receiving this gift?
 Yes
 No
-この　おくりものを\xfffeうけとりますか？
+Receive this gift?
 Yes
 No
-おくりものを　うけとっています\xfffeでんげんを　きらないで　ください……
-おくりものを　うけとりました！\xf000븁\x0000\xfffeポケモンセンターにいる\xfffeはいたついん　から　うけとってね！\xf000븁\x0000
-アルバムを　ほぞん　しています……\xfffeでんげんを　きらないで　ください
-ふしぎなカードを　どうしますか？
-いれかえる
-すてる
-もどる
-おくりものを　もらっていないので\xfffeすてることは　できません！\xf000븁\x0000\xfffeポケモンセンターに　いる\xfffeはいたついんから　もらってください\xf000븁\x0000
-カードを　すてました\xf000븁\x0000
-いれかえるカードを　えらんでください
-この　カードを　すてても\xfffeよろしいですか？
+Receiving your gift.\xfffeDon't turn off the power.
+The gift has been received!\xf000븁\x0000\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.\xf000븁\x0000
+Saving your Card Album...\xfffeDon't turn off the power.
+What would you like to do with this\xfffeWonder Card?
+Swap
+Trash
+Back
+This card cannot be thrown away because\xfffeyou have not received the gift yet.\xf000븁\x0000\xfffePlease pick up the gift from the\xfffedeliveryman in any Pokémon Center.\xf000븁\x0000
+The card has been thrown away.\xf000븁\x0000
+Please select a card to swap with.
+Is it OK to throw away this card?
 Yes
 No
-どの　せつめいを　ききますか？
-ふしぎな　おくりもの　について
-カードアルバム　について
-アルバムが　いっぱいのとき
-もどる
-せつめいを　きく
-ふしぎな　おくりもの　では\xfffeつうしんを　つかって\xf000븀\x0000\xfffeすてきな　おくりものが　うけとれます\xf000븁\x0000\xfffeおくりものを　うけとれたら\xfffeぼうけんを　かいし　して\xf000븀\x0000\xfffeポケモンセンターに　いる\xf000븀\x0000\xfffeはいたついんから　もらってください\xf000븁\x0000
-ふしぎな　おくりものを　うけとると\xfffeカードアルバムに\xf000븀\x0000\xfffeふしぎなカードが　かざられます\xf000븁\x0000\xfffeふしぎなカードを　みると\xfffeはいたついんから\xf000븀\x0000\xfffeおくりものを　うけとったか　どうかの\xf000븀\x0000\xfffeかくにんが　できます\xf000븁\x0000\xfffeまだ　もらっていない　おくりものは\xfffeうけとりに　いきましょう\xf000븁\x0000\xfffeなお　アルバムに　ほぞん　できる\xfffeかずには　かぎりが　あります\xf000븁\x0000\xfffeぼうけんを　はじめていて\xfffeポケモンレポートが　あるときは\xf000븀\x0000\xfffe１２まい　まで　ほぞん　できます\xf000븁\x0000\xfffeぼうけんを　はじめるまえで\xfffeポケモンレポートが　ないときは\xf000븀\x0000\xfffe３まい　まで　ほぞん　できます\xf000븁\x0000\xfffeカードが　いっぱいになると　あらたに\xfffeおくりものを　うけとれなく　なるので\xf000븀\x0000\xfffeアルバムを　せいり　してください\xf000븁\x0000
-カードアルバムが　いっぱいに　なると\xfffeおくりものが　うけとれなく　なります\xf000븁\x0000\xfffeあらたに　おくりものを\xfffeうけとりたい　ときは\xf000븁\x0000\xfffeはいたついんから　うけとっている\xfffeふしぎなカードを　えらび　Ａボタンを\xf000븀\x0000\xfffeおして　せいり　してください\xf000븁\x0000\xfffeアルバムに　ある　すべての\xfffeおくりものを　もらっていないときは\xf000븁\x0000\xfffeぼうけんを　さいかいして\xfffeポケモンセンターに　いる\xf000븀\x0000\xfffeはいたついんから　うけとってください\xf000븁\x0000
-ふしぎな　おくりものを　うけとると\xfffeカードアルバムに\xf000븀\x0000\xfffeふしぎなカードが　かざられます\xf000븁\x0000\xfffeふしぎなカードを　みると\xfffeはいたついんから\xf000븀\x0000\xfffeおくりものを　うけとったか　どうかの\xf000븀\x0000\xfffeかくにんが　できます\xf000븁\x0000\xfffeまだ　もらっていない　おくりものは\xfffeうけとりに　いきましょう\xf000븁\x0000\xfffeなお　アルバムに　ほぞん　できる\xfffeかずには　かぎりが　あります\xf000븁\x0000\xfffeぼうけんを　はじめている　ばあいは\xfffe１２まい　まで\xf000븁\x0000\xfffeぼうけんを　はじめていない　ばあいは\xfffe３まい　までです\xf000븁\x0000\xfffeカードが　いっぱいになると　あらたに\xfffeおくりものを　うけとれなく　なるので\xf000븀\x0000\xfffeアルバムを　せいり　してください\xf000븁\x0000
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください……
-はいたついんが　もっている\xfffeおくりものが　いっぱい　です！\xf000븁\x0000\xfffeぼうけんを　さいかいして\xfffeポケモンセンターに　いる\xf000븀\x0000\xfffeはいたついんから\xf000븀\x0000\xfffeおくりものを　うけとってください\xf000븁\x0000
-この　おくりものは\xfffeいちど　うけとったことが　あるので\xf000븀\x0000\xfffeうけとることが　できません！\xf000븁\x0000
-おくりもの　が\xfffeみつかりません　でした\xf000븁\x0000
-もうしこみ　が　きょひ　されました\xf000븁\x0000
-ふしぎなカードが　いっぱい　です！\xf000븁\x0000\xfffeおくりものを\xfffeうけとることが　できません！\xf000븁\x0000\xfffeふしぎなカードを\xfffeせいり　しますか？
+What would you like to know about?
+ABOUT MYSTERY GIFT
+ABOUT THE CARD ALBUM
+WHEN THE ALBUM IS FULL
+BACK
+INFO
+Mystery Gift allows you\xfffeto receive great gifts\xf000븀\x0000\xfffethrough various communication modes.\xf000븁\x0000\xfffeOnce you have received a gift,\xfffeplease go to any Pokémon Center and\xf000븀\x0000\xfffepick it up from the deliveryman.\xf000븁\x0000
+When you've received your Mystery Gift,\xfffeyour Wonder Card will be displayed\xf000븀\x0000\xfffein the Card Album.\xf000븁\x0000\xfffeYou can check the card to see\xfffeif you've picked up the gift\xf000븀\x0000\xfffefrom a deliveryman.\xf000븁\x0000\xfffeMake sure to pick up gifts\xfffethat are waiting for you.\xf000븁\x0000\xfffeThere is a limit to how many\xfffecards you can save in the Album.\xf000븁\x0000\xfffeYou can store up to 12 cards if you\xfffehave previously saved your game.\xf000븁\x0000\xfffeIf you don't have a saved game yet,\xfffeyou can store up to three cards.\xf000븁\x0000\xfffeWhen the card slots are full, you will not\xfffebe able to receive any more. Please delete\xf000븀\x0000\xfffesome from the Album.\xf000븁\x0000
+When the Card Album is full,\xfffeyou cannot receive new cards.\xf000븁\x0000\xfffeTo receive new cards,\xfffechoose a Wonder Card and\xf000븀\x0000\xfffepress the A Button to throw it away.\xf000븁\x0000\xfffeIf you have gifts waiting,\xfffego to any Pokémon Center\xf000븁\x0000\xfffeand pick up your gifts\xfffefrom the deliveryman.\xf000븁\x0000
+When you've received a Mystery Gift,\xfffeyour Wonder Card will be displayed\xf000븀\x0000\xfffein the Card Album.\xf000븁\x0000\xfffeYou can check the card to see\xfffeif you've picked up the gift\xf000븀\x0000\xfffefrom a deliveryman.\xf000븁\x0000\xfffeMake sure to pick up gifts\xfffethat are waiting for you.\xf000븁\x0000\xfffeThere is a limit to how many \xfffecards you can save in the Album.\xf000븁\x0000\xfffeYou can store up to 12 cards if you have\xfffepreviously saved your game.\xf000븁\x0000\xfffeIf you don't have a saved game yet,\xfffeyou can store up to three cards.\xf000븁\x0000\xfffeWhen the card slots are full, you will not\xfffebe able to receive any more. Please delete\xf000븀\x0000\xfffesome from the Album.\xf000븁\x0000
+Communicating. Please stand by...
+Our deliveryman is currently overloaded\xfffewith gifts for you!\xf000븁\x0000\xfffePlease go see him at any Pokémon Center\xfffeand pick up your gifts.\xf000븁\x0000
+You've already received this gift.\xfffeYou may not get another one.\xf000븁\x0000
+There were no gifts to be found...\xf000븁\x0000
+Your application was rejected.\xf000븁\x0000
+You are out of room for Wonder Cards.\xf000븁\x0000\xfffeYou may not accept another gift until you\xfffethrow away one or more Wonder Cards.
 Yes
 No
-おくりものを　うけとるのに\xfffeしっぱい　しました\xf000븁\x0000
-おくりものを　みつけましたが\xfffeこの　バージョンでは\xf000븀\x0000\xfffeうけとることが　できません\xf000븁\x0000
-ゲームを　はじめて　いないので\xfffeこれ　いじょうは　うけとれません\xf000븀\x0000\xfffeぼうけんを　スタートしましょう！\xf000븁\x0000
-カードアルバム
-Ａ：せいりする
-やめる
+There was a problem\xfffewith receiving the gift.\xf000븁\x0000
+A gift was found, but it\xfffecan't be received in this version.\xf000븀\x0000
+You cannot receive any more gifts until \xfffeyou have a saved game.\xf000븀\x0000\xfffePlease start a new game and save it.\xf000븁\x0000
+CARD ALBUM
+A Button: Sort
+BACK
 \xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
-ふしぎなカード
-もらったひづけ
+Wonder Card
+Date received
 \xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
 Ａ：おわる
 　
-ポケモンえいがを　みにきてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１０を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１１を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１２を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１３を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１４を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１５を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１６を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１７を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１８を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０１９を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンえいが２０２０を　\xfffeみにきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンセンターに　きてくれて\xfffeありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンタートウキョーに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターオーサカに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターフクオカに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターナゴヤに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターサッポロに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンセンターヨコハマに　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
-ポケモンワールドチャンピオンシップスに\xfffeさんかしてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１０に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１１に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１２に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１３に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１４に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１５に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１６に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１７に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１８に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０１９に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＷＣＳ２０２０に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓに　きてくれて　\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１１に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１２に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１３に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１４に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１５に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１６に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１７に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１８に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０１９に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｗｏｒｌｄｓ２０２０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔに\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１０に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１１に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１２に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１３に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１４に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１５に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１６に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１７に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１０に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１１に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１２に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１３に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１４に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１５に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１６に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１７に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１８に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０１９に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ＶＧＣ２０２０に　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-イベントに　きてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンの　イベントに　きてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンを　あそんでくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おみせに　きてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-バトルたいかいに　さんかしてくれて　\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ゲームイベントに　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ゲームイベントからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンだいすきクラブからの\xfffeプレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンサンデーを　みてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンサンデーからの\xfffeプレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-チャレンジひろばに　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-チャレンジひろばからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルチャレンジに　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルチャレンジからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-トレーナーズコートに　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-トレーナーズコートからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルツアーに　さんかしてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルツアーからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンの　コンサートに　きてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンの　アニメを　みてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ダウンロード　してくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンレンジャーを　あそんでくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-レンジャーユニオンから\xfffeポケモンほごの　いらいが　きたぞ！\xfffeポケモンは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-レンジャーユニオンから\xfffeタマゴほごの　いらいが　きたぞ！\xfffeタマゴは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンドリームワールドを　\xfffeあそんでくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンドリームワールドからの　\xfffeプレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ＰＤＷを　あそんでくれて　\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ＰＤＷからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンイベント２０１０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１１に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１２に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１３に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１４に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１５に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１６に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１７に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１８に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０１９に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンイベント２０２０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタに　きてくれて　\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１１に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１２に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１３に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１４に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１５に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１６に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１７に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１８に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０１９に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケモンフェスタ２０２０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパークに　きてくれて　\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパークからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケパーク２０１０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１１に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１２に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１３に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１４に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１５に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１６に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１７に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１８に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０１９に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-ポケパーク２０２０に　\xfffeきてくれて　ありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！\xfffe
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-おくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！
-ポケモンえいがを\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１０を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１１を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１２を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１３を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１４を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１５を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１６を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１７を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１８を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０１９を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンえいが２０２０を　\xfffeみにきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターに\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンタートウキョーに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターオーサカに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターフクオカに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターナゴヤに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターサッポロに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンセンターヨコハマに　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンワールドチャンピオンシップス\xfffeにさんかしてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１０に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１１に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１２に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１３に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１４に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１５に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１６に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１７に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１８に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０１９に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＷＣＳ２０２０に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓに　きてくれて　\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１０に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１１に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１２に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１３に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１４に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１５に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１６に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１７に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１８に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０１９に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｗｏｒｌｄｓ２０２０に　\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔに\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１０に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１１に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１２に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１３に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１４に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１５に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１６に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１７に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１８に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０１９に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-Ｖｉｄｅｏ Ｇａｍｅ Ｅｖｅｎｔ\xfffe２０２０に　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１０に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１１に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１２に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１３に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１４に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１５に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１６に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１７に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１８に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０１９に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＶＧＣ２０２０に　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-イベントに　きてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンの　イベントに　きてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンを　あそんでくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-おみせに　きてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-バトルたいかいに　さんかしてくれて　\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ゲームイベントに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ゲームイベントからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンだいすきクラブからの\xfffeプレゼント！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンサンデーを　みてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンサンデーからの\xfffeプレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
+Thank you for coming to see\xfffethe Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2010 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2011 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2012 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2013 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2014 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2015 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2016 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2017 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2018 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2019 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to see\xfffethe 2020 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffethe Pokémon Center!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
+Thank you for coming to\xfffethe Pokémon Center Tokyo!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
+Thank you for coming to\xfffethe Pokémon Center Osaka!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
+Thank you for coming to\xfffethe Pokémon Center Fukuoka!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
+Thank you for coming to\xfffethe Pokémon Center Nagoya!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
+Thank you for coming to\xfffethe Pokémon Center Sapporo!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
+Thank you for coming to\xfffethe Pokémon Center Yokohama!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
+Thank you for participating in the\xfffePokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2010 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2011 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2012 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2013 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2014 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2015 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2016 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2017 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2018 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2019 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in the\xfffe2020 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2010 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2011 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2012 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2013 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2014 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2015 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2016 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2017 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2018 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2019 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the\xfffe2020 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffePokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2010 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2011 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2012 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2013 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2014 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2015 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2016 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2017 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2018 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2019 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2020 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2010\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2011\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2012\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2013\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2014\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2015\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2016\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2017\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2018\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2019\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for participating in a 2020\xfffePokémon Video Game Championships event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Thank you for coming to the event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for playing Pokémon!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the store!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for participating in\xfffethe Battle Competition!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for participating in\xfffethe video-game event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a gift from the video game event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a present from\xfffethe Pokémon Fan Club!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for watching Pokémon Sunday!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a gift from Pokémon Sunday!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for participating in\xfffethe Challenge Plaza!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a gift from the\xfffeChallenge Plaza!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for participating in\xfffethe Battle Challenge!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a gift from the\xfffeBattle Challenge!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for participating in\xfffethe Trainers' Court!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a gift from the\xfffeTrainers' Court!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for participating in\xfffethe Battle Tour!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a gift from the Battle Tour!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffethe Pokémon Concert!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for watching\xfffethe Pokémon animation!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for playing over\xfffeNintendo Wi-Fi Connection!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for receiving this distribution!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for playing the\xfffePokémon Ranger series game!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+The Ranger Union requests that you\xfffeprotect a Pokémon.\xfffePlease pick it up from the\xfffedeliveryman in any Pokémon Center.
+The Ranger Union requests that you\xfffeprotect an Egg.\xfffePlease pick it up from the\xfffedeliveryman in any Pokémon Center.
+Thank you for playing in the\xfffePokémon Dream World!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a gift from the\xfffePokémon Dream World!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for playing in the Pokémon DW!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a gift from the Pokémon DW!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2010 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2011 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2012 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2013 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2014 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2015 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2016 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2017 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2018 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2019 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to a\xfffe2020 Pokémon event!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2010!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2011!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2012!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2013!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2014!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2015!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2016!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2017!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2018!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2019!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffePokémon Festa 2020!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the POKÉPARK!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a gift from the POKÉPARK!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2010!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2011!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2012!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2013!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2014!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2015!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2016!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2017!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2018!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2019!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to the\xfffePOKÉPARK in 2020!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming\xfffeto see the Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2010 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2011 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2012 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2013 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2014 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2015 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2016 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2017 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2018 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2019 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to see\xfffethe 2020 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffethe Pokémon Center!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffethe Pokémon Center Tokyo!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffethe Pokémon Center Osaka!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffethe Pokémon Center Fukuoka!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffethe Pokémon Center Nagoya!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffethe Pokémon Center Sapporo!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffethe Pokémon Center Yokohama!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in\xfffethe Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2010 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2011 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2012 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2013 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2014 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2015 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2016 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2017 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2018 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2019 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in the\xfffe2020 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2010 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2011 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2012 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2013 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2014 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2015 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2016 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2017 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2018 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2019 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffe2020 Pokémon World Championships!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffePokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2010 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2011 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2012 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2013 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2014 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2015 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2016 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2017 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2018 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2019 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2020 Pokémon Video Game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2010\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2011\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2012\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2013\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2014\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2015\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2016\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2017\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2018\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2019\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in a 2020\xfffePokémon Video Game Championships event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for playing Pokémon!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the store!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating in\xfffethe Battle Competition!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for participating\xfffein the video-game event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+This is a gift from the video-game event!\xfffePlease pick up your gift from \xfffethe deliveryman in any Pokémon Center.
+This is a present from\xfffethe Pokémon Fan Club!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for watching Pokémon Sunday!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+This is a gift from Pokémon Sunday!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
 チャレンジひろばに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
 チャレンジひろばからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
 バトルチャレンジに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
