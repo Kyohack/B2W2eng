@@ -1,24 +1,24 @@
-おとこのひと
-おんなのこ
-おんなのひと
-おとこのこ
-クール
-キュート
-エレガント
-ユニーク
-こせいてき
-バランスがいい
-クールきょく
-キュートきょく
-エレガントきょく
-ユニークきょく
-はいしんきょく
-はいしんダミー
-みみ
-あたま
-かお
-かお
-からだ
-こし
-うで
-かお
+Contact The People
+Girl
+Woman
+Boy
+Cool
+Cute
+Elegant
+Unique
+This Opponent
+A Good Balance
+Cool Office
+Cute Office
+Elegant Song
+Unique Song
+Transmission Song
+Dummy Transmission
+Ear
+Head
+Face
+Face
+Body
+Strain
+Arm
+Face
