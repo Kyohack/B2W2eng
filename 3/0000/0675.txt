@@ -1,60 +1,60 @@
-グローバルターミナルへ\xfffeようこそ！\xf000븁\x0000
-Ｗｉ－Ｆｉコネクションを\xfffeごりよう　ですか？
-それでは　また　おこしください
-Ｗｉ－Ｆｉ　せつぞくを\xfffeかいし　しますか？
+Welcome to the Global Terminal!\xf000븁\x0000
+Would you like to use\xfffeNintendo Wi-Fi Connection?
+Please do visit again.
+Connect to Nintendo Wi-Fi Connection?
 それでは　こちらへ　どうぞ！\xf000븁\x0000
-グローバルターミナルでは\xfffeＷｉ－Ｆｉコネクションに　せつぞくして\xf000븁\x0000\xfffeとおくにいる　みしらぬひとと\xfffeつうしんを　つかって\xf000븀\x0000\xfffeたいせんや　こうかん　などができます\xf000븁\x0000\xfffeくわしくは　それぞれの　しせつの\xfffeせつめいを　おききください\xf000븁\x0000
-ただいま　じゅんびちゅう　です！\xfffeまた　あとで　おこしください
+In the Global Terminal, you can battle or\xfffetrade Pokémon with Pokémon fans from\xf000븁\x0000\xfffearound the world by connecting to\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffeFor details, please listen to the\xfffeexplanation at each facility.
+This area is under construction.\xfffePlease come back later.
 てもちに　つれていけない\xfffeポケモンが　います
-つうしんエラーが　はっせいしました
-ランダムマッチ
-ＧＴＳ
+A communication error has occured.
+Random Matchup
+Global Trade
 ミュージカルショット
 バトルビデオ
-せつめいを　きく
-やめる
-ＧＴＳで　ポケモン　こうかんを\xfffeおこないますか？
-ＧＴＳでは\xfffeとおくにいる　みしらぬひとと\xf000븀\x0000\xfffeポケモンこうかんが　できます\xf000븁\x0000\xfffeＧＴＳの　こうかんには\xfffeＧＴＳと　ＧＴＳネゴシエーションの\xf000븀\x0000\xfffe２しゅるい　あります\xf000븁\x0000\xfffeそれぞれ　こうかんの　ほうほうが\xfffeかわりますので　ごちゅういください\xf000븁\x0000
-ＧＴＳ
-ＧＴＳネゴシエーション
-せつめいを　きく
-もどる
-ポケモン　グローバル　こうかんを\xfffeしますか？
-こうかん　する
-せつめいを　きく
-もどる
-ＧＴＳでは　ポケモンを　あずけること\xfffeポケモンを　さがすことの\xf000븁\x0000\xfffe２つの　ほうほうで\xfffeポケモンこうかんを　おこないます\xf000븁\x0000
-くわしい　せつめいを\xfffeごきぼうですか？
-おきゃくさまが　こうかんに　だしたい\xfffeポケモンを　あずけて　いただきます\xf000븁\x0000\xfffeそのときに　おきゃくさまが\xfffeほしいポケモンを　おたずねします\xf000븁\x0000\xfffeおあずかりしている　あいだに\xfffeじょうけんにあう　かたが\xf000븀\x0000\xfffeみつかったら　こうかんせいりつです\xf000븁\x0000
-わたしどもが　おあずかりしている\xfffeたくさんのポケモンの　なかから\xf000븁\x0000\xfffeほしいポケモンを\xfffeさがすことも　できます\xf000븁\x0000\xfffeそのポケモンと　こうかんするときに\xfffeあずけていたかたの　ほしいポケモンを\xf000븀\x0000\xfffeかわりに　おあずかりします\xf000븁\x0000
-ポケモンを　あずけるって？
-ポケモンを　さがすって？
-わかった
-ポケモン　グローバル　こうかん\xfffeこうしょうを　かいし　しますか？
-こうしょうを　かいし　する
-せつめいを　きく
-もどる
-ＧＴＳネゴシエーション　では\xfffeどんな　ポケモンを　こうかんしたいか\xf000븀\x0000\xfffeこうかんじょうけんを　きめて\xf000븁\x0000\xfffeおなじ　じょうけんの　かたが\xfffeみつかったら\xf000븁\x0000\xfffeそのかたと　ネゴシエーション\xfffeこうかんを　おこなうことが　できます\xf000븁\x0000\xfffeこうかんを　おこなうためには\xfffeてもちに　ポケモンが　２ひきいじょう\xf000븀\x0000\xfffeひつように　なります\xf000븁\x0000
-くわしい　せつめいを\xfffeごきぼう　ですか？
-ネゴシエーションこうかん　とは\xfffeあいてに　さしだしたい\xf000븀\x0000\xfffeポケモンを　３ひき　えらび\xf000븁\x0000\xfffeそのあと　あいてが　さしだした\xfffe３ひきの　ポケモンのなかから\xf000븀\x0000\xfffeほしいポケモンを　１ひき　えらびあう\xf000븀\x0000\xfffeこうかんの　ことです\xf000븁\x0000
-こうかんじょうけん　には\xfffeこうかんしたい　レベル\xf000븀\x0000\xfffeほしいポケモン　あげるポケモン　の\xf000븀\x0000\xfffe３つの　じょうけんが　あります\xf000븁\x0000\xfffeそれぞれの　こうかんじょうけんが\xfffeいっちしたかたと\xf000븀\x0000\xfffeこうかんを　することが　できます\xf000븁\x0000\xfffeまた　いちど　こうかんした　かたと\xfffeまちあわせる　ことができる\xf000븀\x0000\xfffeまちあわせこうかんも　あります\xf000븁\x0000
-ネゴシエーションこうかん　って？
-こうかんじょうけんって？
-わかった
+Info
+Cancel
+Would you like to make a Global Trade?
+You may trade Pokémon with other Pokémon fans from around the world with\xfffeGlobal Trade.\xf000븁\x0000\xfffeGlobal Trade has two forms: GTS and\xfffeGTS Negotiations.\xf000븁\x0000\xfffePlease be careful, because each has a\xfffedifferent way of trading.
+GTS
+GTS Negotiations
+Info
+Back
+Would you like to make a GTS trade?
+Trade
+Info
+Back
+You may trade Pokémon in two ways when\xfffe using GTS.\xf000븁\x0000\xfffeYou may offer a Pokémon for trade\xfffeor search among offered Pokémon.
+Should I describe things in\xfffegreater detail?
+You will be asked to put up the\xfffePokémon you are offering to trade.\xf000븁\x0000\xfffeAt that time, you will be asked what\xfffePokémon you would like in return.\xf000븁\x0000\xfffeIf the other player offers your desired\xfffePokémon in return for your offered\xf000븁\x0000\xfffePokémon, the trade will go through.\xf000븁\x0000
+You may search among the Pokémon\xfffethat are offered by other Trainers.\xf000븁\x0000\xfffeThey will identify what Pokémon\xfffetheir Trainers want back in return.\xf000븁\x0000\xfffeIf you find one that you want, you\xfffemust provide us with the kind of\xf000븁\x0000\xfffePokémon wanted in return.\xf000븁\x0000
+Offer Pokémon?
+Seek Pokémon?
+Understood
+Would you like to start\xfffePokémon GTS Negotiations?
+Start Negotiations
+Info
+Back
+In GTS Negotiations, you set the trading\xfffeconditions based on what kinds of\xf000븁\x0000\xfffePokémon you'd like to trade.\xf000븁\x0000\xfffeIf you find a person with matching\xfffeconditions, you may proceed to a\xf000븁\x0000\xfffeNegotiation Trade with that person.\xf000븁\x0000\xfffeIn order to trade, you need to have two\xfffeor more Pokémon in your party.\xf000븁\x0000
+Should I describe things in\xfffegreater detail?
+In a Negotiation Trade, each person\xfffeoffers three Pokémon to trade.\xf000븁\x0000\xfffeThen, each person will choose one of the\xfffeother person's three Pokémon.\xf000븁\x0000
+You can set three conditions in a\xfffeNegotiation Trade: the level of Pokémon\xf000븁\x0000\xfffeto trade, the Pokémon you want to\xf000븁\x0000\xfffereceive, and the Pokémon up for offer.\xf000븁\x0000\xfffeYou may trade with a person whose\xfffeconditions match yours, or choose\xf000븁\x0000\xfffeTrade Rendezvous to try another trade\xf000븁\x0000\xfffewith a previous trading partner.\xf000븁\x0000
+Negotiation Trade?
+Trading Conditions?
+Understood
 バトルビデオを　みますか？
 バトルビデオでは　おてもちの\xfffeバトルレコーダーを　つかって\xf000븁\x0000\xfffeじぶんで　とった　バトルビデオを\xfffeはっぴょうしたり\xf000븁\x0000\xfffeほかの　トレーナーの　バトルビデオを\xfffeみる　ことが　できます\xf000븁\x0000\xfffeみたい　バトルビデオは\xfffeポケモンや　しせつや\xf000븀\x0000\xfffeにんきランキング　などから\xf000븀\x0000\xfffeけんさく　することが　できます\xf000븁\x0000\xfffeまた　おくった　バトルビデオには\xfffe１２ケタの　ナンバーが　つきます\xf000븁\x0000\xfffeこの　ナンバーを　ともだちに\xfffeおしえる　ことで\xf000븁\x0000\xfffeじぶんの　バトルビデオを\xfffeともだちに　みせることも　できます\xf000븁\x0000
 みる
-せつめいを　きく
-もどる
+Info
+Back
 ミュージカルショットを　みますか？
 ミュージカルショットでは　おてもちの\xfffeバトルレコーダーを　つかって\xf000븁\x0000\xfffeライモンシティの\xfffeポケモンミュージカルで　とった\xf000븀\x0000\xfffeしゃしんを　はっぴょう　できます\xf000븁\x0000\xfffeみんなが　とった　しゃしんも\xfffeすきな　ポケモンごとに\xf000븀\x0000\xfffeみることが　できます\xf000븁\x0000
 みる
 せつめいを　きく
 もどる
-ランダムマッチに\xfffeちょうせん　しますか？
-ちょうせんする
-せつめいを　きく
-やめる
+Would you like to take the\xfffeRandom Matchup challenge?
+Challenge
+Info
+Back
 ランダムマッチでは\xfffeとおくにいる　みしらぬひとと\xf000븀\x0000\xfffeつうしんたいせんが　できます\xf000븁\x0000\xfffeランダムマッチには\xfffeシングル　ダブル　トリプル\xf000븀\x0000\xfffeローテーション　シューターの\xf000븀\x0000\xfffe５つの　たいせんルールと\xf000븁\x0000\xfffeフリーと　レーティングの\xfffe２つの　モードが　あります\xf000븁\x0000\xfffeフリーモードは　だれでも\xfffeじゆうに　さんか　できます\xf000븁\x0000\xfffeレーティングモードは\xfffeゲームシンクせっていを　おこない\xf000븁\x0000\xfffeおてもとの　パソコンで\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスして\xf000븁\x0000\xfffeゲームシンクＩＤコードを\xfffeとうろくすることで　さんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xfffe（ポケモングローバルリンク）\xf000븁\x0000
 くわしい　せつめいを　ききますか？
 フリーモード　について
@@ -64,21 +64,21 @@
 フリーモードは\xfffeとおくにいる　みしらぬひとと\xf000븀\x0000\xfffeてがるに　たいせんする　モードです\xf000븁\x0000\xfffeポケモンを　そだてたら\xfffeきがるに　ちょうせん　してください\xf000븁\x0000
 レーティングモードは\xfffeたいせんを　きわめたい　ひとに\xf000븀\x0000\xfffeおすすめの　モードです\xf000븁\x0000\xfffeつうしんを　つなげたとき\xfffeレーティングの　ちかい　ひとと\xf000븀\x0000\xfffeたいせん　しやすく　なります\xf000븁\x0000\xfffeレーティングは\xfffe１５００から　スタートして\xf000븀\x0000\xfffeかつと　あがり　まけると　さがります\xf000븁\x0000\xfffeレーティングが　たかいほど\xfffeつよい　トレーナーと　なるので\xf000븁\x0000\xfffeぜひ　ちょうせんして\xfffeいまの　レベルを　たしかめてください\xf000븁\x0000\xfffeさいごに　さんかちゅうの\xfffeちゅういが　ひとつ　あります\xf000븁\x0000\xfffeレーティングモードの　せいせきは\xfffeＤＳほんたいを　かえて\xf000븁\x0000\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく　すると\xf000븁\x0000\xfffeそれまでの　せいせきが\xfffeすべて　きえてしまいます\xf000븁\x0000\xfffeさんかちゅう　ＤＳほんたいを\xfffeかえるときは　ごちゅうい　ください\xf000븁\x0000
 ランダムマッチでは　いくつかの\xfffeとくべつな　ルールが　あります\xf000븁\x0000\xfffeポケモンの　レベルが　５１いじょうの\xfffeばあいは　すべて　５０に　なります\xf000븁\x0000\xfffeポケモンの　なまえは\xfffeニックネームで　よびません\xf000븁\x0000\xfffeまた　たいせんに　さんかさせる\xfffeポケモンを　えらぶとき\xf000븁\x0000\xfffeたいせんちゅう　ポケモンに\xfffeめいれいを　するとき\xf000븁\x0000\xfffeそれぞれに\xfffeせいげん　じかんが　あります\xf000븁\x0000\xfffeせいげん　じかんを　こえると\xfffeポケモンの　わざは\xf000븀\x0000\xfffeじどうで　えらばれることに　なるので\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000\xfffeなお　たいせんにも\xfffeせいげん　じかんが　あります\xf000븁\x0000\xfffeせいげん　じかんを　こえても\xfffeしょうぶが　つかない　ときは\xf000븁\x0000\xfffeはんていにより　かちまけを\xfffeけってい　します\xf000븁\x0000
-どの　たいせんを　しますか？
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-シューターバトル
-もどる
-シングルバトルに\xfffeちょうせん　しますか？
-ダブルバトルに\xfffeちょうせん　しますか？
-トリプルバトルに\xfffeちょうせん　しますか？
-ローテーションバトルに\xfffeちょうせん　しますか？
-シューターバトルに\xfffeちょうせん　しますか？
-けってい
-ルールを　きく
-やめる
+Which Battle would you like\xfffeto choose?
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Launcher Battle
+Back
+Would you like to take the\xfffeSingle Battle challenge?
+Would you like to take the\xfffeDouble Battle challenge?
+Would you like to take the\xfffeTriple Battle challenge?
+Would you like to take the\xfffeRotation Battle challenge?
+Would you like to take the\xfffeLauncher Battle challenge?
+Confirm
+Rules
+Back
 シングルバトルは　ポケモンが\xfffe３～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe３ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
 ダブルバトルは　ポケモンが\xfffe４～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe４ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
 トリプルバトルは　ポケモンが\xfffe６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe６ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
