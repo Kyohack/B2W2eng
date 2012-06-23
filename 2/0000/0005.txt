@@ -1,3 +1,3 @@
-The save data could not be accessed. \xfffePlease turn the power off and\xfffereinsert the DS Game Card.
-There was an error saving the data. \xfffePlease turn the power off and\xfffereinsert the DS Game Card.
-Error saving data.\xfffeThe backup memory has failed.\xfffeThe game may be played,\xfffebut it is impossible to save.\xfffePlease turn off the power.
+The save data could not be\xfffeaccessed.\xfffe\xfffePlease turn the power off and\xfffereinsert the Game Card.
+The save data could not be\xfffeaccessed.\xfffe\xfffePlease turn the power off and\xfffereinsert the Game Card.
+The save data could not be accessed.\xfffe\xfffePlease turn off the power \xfffeand reinsert the DS Card.
