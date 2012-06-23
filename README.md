@@ -1,4 +1,4 @@
-B2W2FRA
+B2W2eng
 =======
 
 Pokemon Black2 Å& White2 English Translation by PokeStation
