@@ -18,39 +18,39 @@ Time Limit:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
 PREVIOUS RECORD
-Colosseum Single,\xfffeせいげんなし
-Colosseum Single,\xfffeフラット
-Colosseum Single,\xfffeせいげんなし シューターあり
-Colosseum Single,\xfffeフラット　シューターあり
-Colosseum Double,\xfffeせいげんなし
-Colosseum Double,\xfffeフラット
-Colosseum Double,\xfffeせいげんなし シューターあり
-Colosseum Double,\xfffeフラット　シューターあり
-Colosseum Triple,\xfffeせいげんなし
-Colosseum Triple,\xfffeフラット
-Colosseum Triple,\xfffeせいげんなし シューターあり
-Colosseum Triple,\xfffeフラット　シューターあり
-Colosseum Rotation,\xfffeせいげんなし
-Colosseum Rotation,\xfffeフラット
-Colosseum Rotation,\xfffeせいげんなし シューターあり
-Colosseum Rotation,\xfffeフラット　シューターあり
-Colosseum Multi,\xfffeせいげんなし
-Colosseum Multi,\xfffeフラット
-Colosseum Multi,\xfffeせいげんなし シューターあり
-Colosseum Multi,\xfffeフラット　シューターあり
+Colosseum Single,\xfffeNo Restrictions
+Colosseum Single,\xfffeFlat
+Colosseum Single,\xfffeNo Restrictions, Launcher On
+Colosseum Single,\xfffeFlat, Launcher On
+Colosseum Double,\xfffeNo Restrictions
+Colosseum Double,\xfffeFlat
+Colosseum Double,\xfffeNo Restrictions, Launcher On
+Colosseum Double,\xfffeFlat, Launcher On
+Colosseum Triple,\xfffeNo Restrictions
+Colosseum Triple,\xfffeFlat
+Colosseum Triple,\xfffeNo Restrictions, Launcher On
+Colosseum Triple,\xfffeFlat, Launcher On
+Colosseum Rotation,\xfffeNo Restrictions
+Colosseum Rotation,\xfffeFlat
+Colosseum Rotation,\xfffeNo Restrictions, Launcher On
+Colosseum Rotation,\xfffeFlat, Launcher On
+Colosseum Multi,\xfffeNo Restrictions
+Colosseum Multi,\xfffeFlat
+Colosseum Multi,\xfffeNo Restrictions, Launcher On
+Colosseum Multi,\xfffeFlat, Launcher On
 Battle Subway,\xfffeSingle
 Battle Subway,\xfffeDouble
 Battle Subway,\xfffeMulti
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
+Random Matchup, Free\xfffeSingle
+Random Matchup, Free\xfffeDouble
+Random Matchup, Free\xfffeTriple
+Random Matchup, Free\xfffeRotation
+Random Matchup, Free\xfffeLauncher Battle
+Random Matchup, Rating\xfffeSingle
+Random Matchup, Rating\xfffeDouble
+Random Matchup, Rating\xfffeTriple
+Random Matchup, Rating\xfffeRotation
+Random Matchup, Rating\xfffeLauncher Battle
 たいかい　シングル\xfffeシューターなし
 たいかい　シングル\xfffeシューターあり
 たいかい　ダブル\xfffeシューターなし
