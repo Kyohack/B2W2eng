@@ -159,8 +159,8 @@ Please choose the Pokémon you want to see.
 \xf000봃\x0001\x0000Rating
 \xf000봂\x0000はい
 \xf000봂\x0000いいえ
-はい
-いいえ
+Yes
+No
 Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
 コロシアム　シングル\xfffeせいげんなし
 コロシアム　シングル\xfffeフラット
