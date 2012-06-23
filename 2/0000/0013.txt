@@ -56,38 +56,38 @@ MACHINE
 CHECKS
 SIMPLE
 SPECIAL
-モノクロ
+MONOCHROME
 TEAM PLASMA
 ポケウッド
-ＰＷＴ
-キュレム１
-キュレム２
-レシラム
-ゼクロム
-もどる
-まえへ
-つぎへ
-てもちポケモン
-ボックスリスト
-バトルボックス
+PWT
+KYUREM 1
+KYUREM 2
+RESHIRAM
+ZEKROM
+BACK
+PREVIOUS
+NEXT
+PARTY ⒆⒇
+BOX LIST
+BATTLE BOX
 ボックスをきりかえる
 もちものせいり
-ようすをみる
-もちもの
-マーキング
-にがす
-つれていく
-あずける
-やめる
-いどうする
-いどうする
-ねかせる
-けってい
-やめる
+SUMMARY
+HELD ITEMS
+MARKING
+RELEASE
+WITHDRAW
+DEPOSIT
+CANCEL
+MOVE
+MOVE
+TUCK IN
+CONFIRM
+CANCEL
 いれかえ
-やめる
-やめる
-ボックスを\xfffeきりかえる
+CANCEL
+CANCEL
+Switch Pokémon\xfffe to box?
 かべがみを\xfffeはりかえる
 ポケモンを\xfffeあずける
 Bag
