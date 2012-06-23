@@ -1,7 +1,7 @@
 B2W2eng
 =======
 
-Pokemon Black2 &amp; White2 English Translation by PokeStation
+Pokemon Black2 Å& White2 English Translation by PokeStation
 
 Contributors:
 Kyohack
