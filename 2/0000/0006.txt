@@ -2,21 +2,21 @@ USE
 TRASH
 REGISTER
 GIVE
-タグをみる
-けってい
-おりる
-もどる
-やめる
-みせる
-ダミー
-キャンセル
-もちもの
-メール
-あずかる
-あずける
-みる
-なし
-かいじょ
+VIEW
+CONFIRM
+RUN
+BACK
+CLOSE
+SHOW
+DUMMY
+CANCEL
+BAG
+MAIL
+TAKE
+GIVE
+CHECK
+NOTHING
+DESELECT
 ？？？
 ？？？？？
 ／
@@ -32,111 +32,111 @@ GIVE
 →
 ＩＤＮｏ
 　
-カーソル
-まえに　もどります！
-なにを　しますか？
-あげる
+Cursor
+Go back!
+What now?
+Give
 \xf000Ȃ\x0001\x0000
 ×
-のみ
+Drink
 \xf000ȃ\x0001\x0000まい
-とじる
-\xf000ĉ\x0001\x0000を　どうしますか？
-ここで　メールを\xfffeかくことは　できません！
-ポケモンが　いませんよ！
-\xf000ĉ\x0001\x0000を　いどうさせます
-\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-ここでは　\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-\xf000ĉ\x0001\x0000を\xfffeいくつ　あずけますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000ȁ\x0001\x0001コ　あずけました
-これいじょう　あずけられません！
-これは　たいせつなもの　なので\xfffeすてることが　できません！
-\xf000ĉ\x0001\x0000を　いくつ　すてますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてました
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてても　よろしいですか？
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-ここでは　おりられない！
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-あなたの　コイン　\xf000Ȅ\x0001\x0000まい
-わざマシンを　きどうした！
-ひでんマシンを　きどうした！
-なかには　\xf000ć\x0001\x0000が\xfffeきろく　されていた！\xf000븁\x0000\xfffe\xf000ć\x0001\x0000を\xfffeポケモンに　おぼえさせますか？
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
-まだ　まえに　つかった\xfffeスプレーの　こうかが　のこってます！
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しやすくなった！
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しにくくなった！
-ボックスが　いっぱい　です！
-こなの　りょう　\xf000ȃ\x0001\x0000
+Close
+What about \xf000ĉ\x0001\x0000?
+You cannot write\xfffemail here！
+There's no Pokemon!
+Move \xf000ĉ\x0001\x0000.
+You can't give them\xfffe\xf000ĉ\x0001\x0000!
+You can't give them\xfffe\xf000ĉ\x0001\x0000 here!
+Store how many\xfffe\xf000ĉ\x0001\x0000?
+You stored\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
+You can't store any more!
+This is an important item\xfffeso you can't throw it away！
+Throw away how many\xfffe\xf000ĉ\x0001\x0000(s)?
+Threw away \xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s).
+Is it OK to throw away\xfffe\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s)?
+Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
+You can't dismount your bike here!
+Like Professor Araragi said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
+Your Coins:　\xf000Ȅ\x0001\x0000
+Booted up an TM!
+Booted up an HM!
+It contained　\xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeto a Pokémon?
+\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001!
+Since a Repel’s effects still linger,\xfffeyou can’t use this now!
+\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be lured!
+\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be repelled!
+The box is full!
+Powders:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
-きのみのこな
-ポケモンのふえを　ふいた！\xfffeうーん！　すばらしい　ねいろだ！
-ポケモンのふえを　ふいた！
-ふえのねを　きいた\xfffeポケモンは　めを　さました
-いどう
-\xf000ĉ\x0001\x0000を\xfffeかいとることは　できません
-\xf000ĉ\x0001\x0000を\xfffeいくつ　うりますか？
-それなら　\xf000Ȇ\x0001\x0000円で\xfffeおひきとり　いたしましょう
-\xf000ĉ\x0001\x0000を　わたして\xfffe\xf000Ȇ\x0001\x0001円を　うけとった
-おこづかい
-\xf000Ȇ\x0001\x0000円
-×\xf000ȁ\x0001\x0000
-＋\xf000Ȇ\x0001\x0000円
+Berry Powder
+Played the Poke Flute!\xfffeWow! That sounds great!
+Played the Poke Flute!
+The Pokemon heard the\xfffeflute and woke up.
+Move
+You cannot buy\xfffe\xf000ĉ\x0001\x0000.
+Sell how many\xfffe\xf000ĉ\x0001\x0000?
+I can pay　¥\xf000Ȇ\x0001\x0000.\xfffeWould that be OK?
+Turned over the \xf000ĉ\x0001\x0000\xfffeand recieved ¥\xf000Ȇ\x0001\x0001.
+Money
+¥\xf000Ȇ\x0001\x0000
+x\xf000ȁ\x0001\x0000
++¥\xf000Ȇ\x0001\x0000
 Yes
 No
-うる
+Sell
 ×\xf000Ȃ\x0001\x0000
-とりだす
+Withdraw
 ＰＰ
-いりょく
-めいちゅう
-ぶんるい
+Power
+Accuracy
+Category
 \xf000ȁ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-シール　\xf000ȃ\x0001\x0000まい
-アクセサリー　\xf000Ȃ\x0001\x0000こ\xfffeかべがみ　　　　\xf000ȁ\x0001\x0001まい
-バッグを　とじます
-うめる
-ひらく
-たまった　バトルポイント\xfffe\xf000ȃ\x0001\x0000ＢＰ
-タイプ
-バッグに　いれてある　どうぐを\xfffeべんりボタンに　とうろく　できます
-べんりボタンに　とうろく　できる\xfffeどうぐは　２つ　までです！
-ＧＢプレイヤーの　でんげんを　\xfffeいれた！
-ＧＢプレイヤーの　でんげんを\xfffeきった！
-\xf000ĉ\x0001\x0000は　つかえません
-たからぶくろ　の　なかを\xfffeのぞいた！
-\xf000ĉ\x0001\x0000　を\xfffeとりだした！
-\xf000ĉ\x0001\x0000　を\xfffe\xf000ĉ\x0001\x0001　に　しまった
-ぜんぶ　とりだした！
-なかには　なにも\xfffeなかった……
-しかし　いっぱいで\xfffeとりだせ　なかった……
-バッテリー　が　たりない！\xfffeじゅうでん　かんりょうまで\xf000븀\x0000\xfffeあと　\xf000ȁ\x0001\x0000ほ　
-くさむらは\xfffeしずか　だった……
-ポフィンのかず
+Seals:　\xf000ȃ\x0001\x0000
+Accessories:　\xf000Ȃ\x0001\x0000\xfffeBackdrops:　　　　\xf000ȁ\x0001\x0001
+Close bag
+Bury
+Open
+Saved Battle Points:\xfffe\xf000ȃ\x0001\x0000 BP
+Type
+A Key Item in the Bag can be assigned\xfffeto this button for instant use.
+You can only register up to two items\xfffeto buttons!
+Turned on the power for\xfffeGB Sounds!
+Turned off the power for\xfffeGB Sounds!
+Can't use the \xf000ĉ\x0001\x0000.
+Peeked into treasure bag!
+Took out \xf000ĉ\x0001\x0000!
+Put away \xf000ĉ\x0001\x0000\xfffe in \xf000ĉ\x0001\x0001.
+You took out everything!
+There was nothing inside...
+However, you could not\xfffetake it out...
+Battery power low!\xfffePlease wait \xf000븀\x0000\xf000ȁ\x0001\x0000 steps until\xfffeit is charged!
+The grass lands\xfffewere quiet...
+Poffins:
 \xf000Ȃ\x0001\x0000／１００
-りょうりに　つかう　きのみを\xfffeバッグから　えらんで　ください！
-ふたりで　いるときは\xfffe\xf000ĉ\x0001\x0001は　つかえません！
-いまは　それどころじゃ　ない！
-どうぐ　ポケット\xfffeぼうけんに　やくだつ\xfffeべんりな　どうぐを　いれます
-かいふく　ポケット\xfffeポケモンの　ＨＰや　ＰＰを\xfffeかいふくさせる　どうぐを　いれます
-ボール　ポケット\xfffeさまざまな　しゅるいの\xfffeモンスターボールを　いれます
-わざマシン　ポケット\xfffeさまざまな　しゅるいの\xfffeわざマシンを　いれます
-きのみ　ポケット\xfffeたくさんの　きのみを\xfffeせいりして　いれます
-メール　ポケット\xfffeカラフルな　びんせんを\xfffeせいりして　いれます
-せんとうよう　ポケット\xfffeポケモンしょうぶで　やくだつ\xfffeどうぐを　いれます
-たいせつなもの　ポケット\xfffeぼうけんに　なくてはならない\xfffeどうぐを　いれます
-とめる
+Please pick a powder\xfffeto cook with!
+Can’t be used when you have someone\xfffewith you!
+You can’t be doing that now!
+Item Pocket\xfffeFor items that will be useful during your\xfffeadventure.
+Medicine Pocket\xfffeFor items to regain your Pokémon’s\xfffeHP and PP.
+Poké Ball Pocket\xfffeFor all different types of Poké Balls.
+TMs and HMs Pocket\xfffeFor all different types of TMs and HMs.
+Berry Pocket\xfffeFor sorting and storing different\xfffeBerries.
+Mail Pocket\xfffeFor sorting and storing vibrant\xfffestationery.
+Battle Items Pocket\xfffeFor items that are useful during battle.
+Key Items Pocket\xfffeFor items that are indispensable for\xfffeyour adventure.
+Stop
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 Yes
 No
 \xf000봂\x0000\xf000ĉ\x0001\x0000
-もっていません
-ダークストーンを　つかったが\xfffeまったく　はんのう　しない……
-ライトストーンを　つかったが\xfffeまったく　はんのう　しない……
-もちものを　せいり　しました！
+Empty!
+You used a Dark Stone\xfffebut nothing happened...
+You used a Light Stone\xfffebut nothing happened...
+Your items have been\xfffeorganized!
 \xf000Ē\x0001\x0000
 しゅるいじゅんに\xfffeもちものを　せいり　しました！
 なまえじゅんに\xfffeもちものを　せいり　しました！
