@@ -1,3 +1,3 @@
-The save data could not be accessed.\xfffeePlease turn the power off and\xfffereinsert the Game Card.
-The save data could not be accessed.\xfffe\xfffePlease turn the power off and\xfffereinsert the Game Card.
-The save data could not be\xfffe\xfffeバックアップきのうの　こしょう\xfffeまたは　じゅみょうが　きました\xfffeセーブすることは　できませんが\xfffeゲームを　あそぶことはできます\xfffe\xfffeでんげんを　きってください
+The save data could not be\xfffeaccessed.\xfffe\xfffePlease turn the power off and\xfffereinsert the Game Card.
+The save data could not be\xfffeaccessed.\xfffe\xfffePlease turn the power off and\xfffereinsert the Game Card.
+The save data could not be accessed.\xfffe\xfffePlease turn off the power \xfffeand reinsert the DS Card.
