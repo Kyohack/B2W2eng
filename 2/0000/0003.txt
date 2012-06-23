@@ -1,61 +1,61 @@
-いまの　しょうぶを\xfffeバトルビデオに　きろく　しますか？
+Do you want to record to \ xfffe battle video of the game now?
 Yes
 No
-いまの　しょうぶの　きろくは\xfffeのこりませんが　よろしいですか？
+Are you sure you want recording of the game now does not remain \ xfffe?
 Yes
 No
-ぜんかいの　バトルビデオを　けして\xfffeうわがき　しても　よろしいですか？
+Are you sure you want to overwrite \ xfffe turn off the video of the last battle?
 Yes
 No
-バトルビデオに　きろくちゅう　です！\xfffeでんげんを　きらないでください
-たたかいが　きろく　されました！
-ふぐあいにより\xfffeきろく　できませんでした
-あいてを　まっています\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません
-この　しょうぶは　ろくが　できません
+Video is being recorded in the battle! \ Please do not fit the power xfffe
+Battle has been recorded!
+Was unable to record \ xfffe Due to a bug
+Please wait \ xfffe are waiting for your opponent!
+Please wait for a while and this opponent \ xfffe can not be good!
+Partner and this can not be good
+This fight can not be good
 Select Time
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-ぜんかいの　きろく
-コロシアム　シングル\xfffeせいげんなし
-コロシアム　シングル\xfffeフラット
-コロシアム　シングル\xfffeせいげんなし シューターあり
-コロシアム　シングル\xfffeフラット　シューターあり
-コロシアム　ダブル\xfffeせいげんなし
-コロシアム　ダブル\xfffeフラット
-コロシアム　ダブル\xfffeせいげんなし シューターあり
-コロシアム　ダブル\xfffeフラット　シューターあり
-コロシアム　トリプル\xfffeせいげんなし
-コロシアム　トリプル\xfffeフラット
-コロシアム　トリプル\xfffeせいげんなし シューターあり
-コロシアム　トリプル\xfffeフラット　シューターあり
-コロシアム　ローテーション\xfffeせいげんなし
-コロシアム　ローテーション\xfffeフラット
-コロシアム　ローテーション\xfffeせいげんなし シューターあり
-コロシアム　ローテーション\xfffeフラット　シューターあり
-コロシアム　マルチ\xfffeせいげんなし
-コロシアム　マルチ\xfffeフラット
-コロシアム　マルチ\xfffeせいげんなし シューターあり
-コロシアム　マルチ\xfffeフラット　シューターあり
-バトルサブウェイ\xfffeシングル
-バトルサブウェイ\xfffeダブル
-バトルサブウェイ\xfffeマルチ
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
+The previous record
+No limit Colosseum single \ xfffe
+Colosseum single \ xfffe flat
+There is no limit Colosseum single shooter \ xfffe
+There are single Coliseum \ xfffe flat shooter
+No limit Coliseum double \ xfffe
+Coliseum double \ xfffe flat
+There is no limit Shooter Coliseum double \ xfffe
+There Coliseum double \ xfffe flat shooter
+No limit triple Coliseum \ xfffe
+Coliseum triple \ xfffe flat
+There is no limit Shooter Coliseum triple \ xfffe
+There are triple Coliseum \ xfffe flat shooter
+No limit rotation Coliseum \ xfffe
+Coliseum rotation \ xfffe flat
+There is no limit Shooter Coliseum rotation \ xfffe
+There Coliseum rotation \ xfffe flat shooter
+Coliseum no limit multi \ xfffe
+Coliseum multi \ xfffe flat
+There is no limit Shooter Coliseum multi \ xfffe
+There Coliseum multi \ xfffe flat shooter
+Subway Battle \ xfffe single
+Subway Battle \ xfffe double
+Subway Battle \ xfffe multi-
+Random match free \ xfffe single
+Random match free \ xfffe double
+Random match free \ xfffe triple
+Random match free \ xfffe rotation
+Random match free \ xfffe Shooter Battle
+Random match rating \ xfffe single
+Random match rating \ xfffe double
+Random match rating \ xfffe triple
+Random match rating \ xfffe rotation
+Random match rating \ xfffe Shooter Battle
+No single \ xfffe Shooter Games
+There are single \ xfffe Shooter Games
+No double \ xfffe Shooter Games
+There are double \ xfffe Shooter Games
+No triple \ xfffe Shooter Games
+There are triple \ xfffe Shooter Games
+There is no rotation. \ Xfffe Shooter Games
+There is a rotation \ xfffe Shooter Games
