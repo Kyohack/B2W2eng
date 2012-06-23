@@ -408,183 +408,183 @@ This is a gift from the video-game event!\xfffePlease pick up your gift from \xf
 This is a present from\xfffethe Pokémon Fan Club!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
 Thank you for watching Pokémon Sunday!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
 This is a gift from Pokémon Sunday!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-チャレンジひろばに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-チャレンジひろばからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルチャレンジに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-バトルチャレンジからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-トレーナーズコートに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-トレーナーズコートからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-バトルツアーに　さんかしてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-バトルツアーからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケモンの　コンサートに　きてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンの　アニメを　みてくれて\xfffeありがとう！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-Ｗｉ－Ｆｉコネクションを　\xfffeあそんでくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ダウンロード　してくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンレンジャーを　あそんでくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-レンジャーユニオンから\xfffeポケモンほごの　いらいが　きたぞ！\xfffeポケモンは　はいたついんが\xfffeおわたししました！
-レンジャーユニオンから\xfffeタマゴほごの　いらいが　きたぞ！\xfffeタマゴは　はいたついんが\xfffeおわたししました！
-ポケモンドリームワールドを　\xfffeあそんでくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンドリームワールドからの　\xfffeプレゼント！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＰＤＷを　あそんでくれて　\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ＰＤＷからの　プレゼント！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１１に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１２に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１３に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１４に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１５に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１６に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１７に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１８に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０１９に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンイベント２０２０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタに　きてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１１に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１２に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１３に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１４に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１５に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１６に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１７に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１８に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０１９に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケモンフェスタ２０２０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパークに　きてくれて\xfffeありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパークからの　プレゼント！\xfffeおくりものは　ポケモンセンターにいる\xfffeはいたついんから　うけとってね！！\xfffe
-ポケパーク２０１０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１１に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１２に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１３に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１４に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１５に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１６に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１７に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１８に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０１９に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-ポケパーク２０２０に\xfffeきてくれて　ありがとう！\xfffeこの　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
-この　おくりものは　はいたついんが\xfffeおわたししました！
+Thank you for participating in\xfffethe Challenge Plaza!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+This is a gift from the\xfffeChallenge Plaza!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for participating in\xfffethe Battle Challenge!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+This is a gift from the\xfffeBattle Challenge!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for participating in\xfffethe Trainers' Court!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+This is a gift from the\xfffeTrainers' Court!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for participating in\xfffethe Battle Tour!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+This is a gift from the Battle Tour!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for coming to\xfffethe Pokémon Concert!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for watching\xfffethe Pokémon animation!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Thank you for playing over\xfffeNintendo Wi-Fi Connection!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for receiving this distribution!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+Thank you for playing the\xfffePokémon Ranger series game!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+The Ranger Union requests that you\xfffeprotect a Pokémon.\xfffeYou have already picked it up\xfffefrom the deliveryman.
+The Ranger Union requested that you\xfffeprotect an Egg.\xfffeYou have already picked it up\xfffefrom the deliveryman.
+Thank you for playing in the\xfffePokémon Dream World!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+This is a gift from the\xfffePokémon Dream World!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for playing in the Pokémon DW!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+This is a gift from the Pokémon DW!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2010 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2011 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2012 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2013 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2014 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2015 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2016 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2017 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2018 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2019 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to a\xfffe2020 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2010!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2011!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2012!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2013!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2014!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2015!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2016!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2017!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2018!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2019!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to\xfffePokémon Festa 2020!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the POKÉPARK!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+This is a gift from the POKÉPARK!\xfffePlease pick up your gift from \xfffethe deliveryman in any Pokémon center.
+Thank you for coming to the\xfffePOKÉPARK in 2010!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePOKÉPARK in 2011!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePOKÉPARK in 2012!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePOKÉPARK in 2013!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePOKÉPARK in 2014!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePOKÉPARK in 2015!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePOKÉPARK in 2016!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePOKÉPARK in 2017!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePOKÉPARK in 2018!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePOKÉPARK in 2019!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+Thank you for coming to the\xfffePOKÉPARK in 2020!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
+You have already picked up your gift\xfffefrom the deliveryman.
