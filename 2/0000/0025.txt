@@ -1,5 +1,5 @@
 Turn on the C-Gear and\xfffeestablish communications?
-オンのときは　ＤＳの　ふたを　とじても\xfffeスリープ　じょうたいに　なりません\xfffeのこりでんちに　ごちゅうい　ください
+When communications are on, closing the\xfffesystem will put it into Sleep Mode if the \xfffebattery is low. Please watch the battery.
 Will you turn C-Gear off to stop\xfffecommunications?
 \xf000\xff00\x0001\x0001ちゅうい！\xf000\xff00\x0001\x0000\xfffeひこうきや　びょういんなど\xfffeむせんつうしんを　きんしに　している\xfffeばしょでは　Ｃギアの　でんげんをきって\xfffeつうしんを　せつだん　してください
 C-Gear cannot be turned on.\xfffeWireless communications are turned OFF.\xfffeTurn wireless communications ON in the System Settings.\xfffeError code: 50699
