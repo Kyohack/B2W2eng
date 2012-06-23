@@ -1,146 +1,145 @@
-無回答
-ブラック２
-ホワイト２
-男
-女
-対戦
-交換
-都会
-田舎
-頭がいい
-運動できる
-時間
-お金
-外見
-中身
-かっこいい
-かわいい
-変な
-ポカブ
-ミジュマル
-ツタージャ
-競争
-協力
+No answer
+Black ２
+White ２
+Boy
+Girl
+Battle
+Trade
+City
+Countryside
+Smart
+Can exercise
+Time
+Money
+Appearance
+Cool
+Cute
+Strange
+Tepig
+Oshawott
+Snivy
+Competition
+Cooperation
 ー
-過去に行く
-未来に行く
-必要ない
-家族
-友達
-自分
-かっこいい人
-賢い人
-面白い人
-不思議な人
-夢を追う
-現実を見る
-ー
-ー
-面白い
-かっこいい
-優しい
-お金持ち
-戦い
-集める
-お話
-ポケモン
-空を飛ぶ
-透明になる
-時間を止める
-心を読む
-使う
-貯める
-自慢する
-寄付する
-０ー５年
-５ー１０年
-１０ー１５年
-１５年ー
-外で遊ぶ
-買い物
-読書
-ゲーム
-寝てる
-ポップス
-ロック
-ジャズ
-ラップ
-クラシック
-ニュース
-ドラマ
-お笑い
-スポーツ
-アニメ
-アクション
-SF
-恋愛
-サスペンス
-コメディ
-ホラー
-アクション
-パズル
-ＲＰＧ
-アドベンチャー
-シミュレーション
-スポーツ
-仕事
-人付き合い
-趣味
-健康
-偉くなる
-ー
-運動
-読書
-音楽
-映画
-旅行
-料理
-釣り
-ゲーム
-学生
-サラリーマン
-クリエーター
-自営業
-公務員
-主婦
-芸術家
-フリーター
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
+Go to the past
+Go to the future
+Don't need
+Family
+Friend
+Myself
+Cool people
+Clever people
+Funny people
+Weird people
+Chasing a dream
+Reality
 ー
 ー
+Interesting
+Cool
+Friendly
+Rich
+Battle
+Collect
+Talk
+Pokemon
+Fly in the air
+Become clear
+Stop time
+Read minds
+Use
+Save
+Be proud
+Donate
+０ー５ Years
+５ー１０ Years
+１０ー１５ Years
+１５+ Years
+Play outdoors
+Shopping
+Reading
+Games
+Sleeping
+Pop
+Rock
+Jazz
+Rap
+Classic
+News
+Drama
+Comedy
+Sports
+Cartoons
+Action
+Sci-Fi
+Romance
+Suspense
+Comedy
+Horror
+Action
+Puzzle
+RPG
+Adventure
+Simulation
+Sports
+Work
+Interpersonal
+Hobby
+Health
+Become mighty
 ー
-ノーマル
-ほのお
-みず
-でんき
-くさ
-こおり
-かくとう
-どく
-じめん
-ひこう
-エスパー
-むし
-いわ
-ゴースト
-ドラゴン
-あく
-はがね
-０ー１０時間
-１０ー２０時間
-２０ー３０時間
-３０ー４０時間
-４０ー５０時間
-５０ー６０時間
-６０ー７０時間
-７０ー８０時間
-８０ー９０時間
-９０ー１００時間
-１００時間ー
+Exercise
+Reading
+Music
+Movies
+Travel
+Cooking
+Fishing
+Games
+Student
+Salaryman
+Creator
+Self-employed
+Public official
+Housewife
+Artist
+Freeter
+Cheren
+Homika
+Burgh
+Elesa
+Clay
+Skyla
+Drayden
+Shizui
+ー
+ー
+ー
+Normal
+Fire
+Water
+Electric
+Grass
+Ice
+Fighting
+Poison
+Ground
+Flying
+Psychic
+Bug
+Rock
+Ghost
+Dragon
+Dark
+Steel
+０ー１０ Hours
+１０ー２０ Hours
+２０ー３０ Hours
+３０ー４０ Hours
+４０ー５０ Hours
+５０ー６０ Hours
+６０ー７０ Hours
+７０ー８０ Hours
+８０ー９０ Hours
+９０ー１００ Hours
+１００+ Hours
