@@ -5,21 +5,21 @@ The game will be played in English.\xf000븁\x0000
 The game will be played in Japanese.\xf000븁\x0000
 Please wait until save\xfffedata has been created.
 Hi there!\xf000븁\x0000\xfffeWelcome to the world of Pokémon!\xf000븁\x0000
-わたしの　なまえは\xfffeアララギと　いいます\xf000븁\x0000\xfffeみんなからは\xfffeポケモンはかせ　と　よばれているわ\xf000븁\x0000
-そう！　この　せかいには\xfffeポケットモンスター\xf000븁\x0000\xfffeちぢめて「ポケモン」とよばれる\xfffeふしぎな　いきものが\xf000븀\x0000\xfffeいたる　ところに　いるの！\xf000븁\x0000
-ふしぎな　ちからを　ひめている\xfffeポケモンは　すがたかたちも\xf000븀\x0000\xfffeくらしている　ばしょも　さまざま\xf000븁\x0000\xfffeそんな　ポケモンたちと\xfffeわたしたち　にんげんは\xf000븀\x0000\xfffeなかよく　くらしているの！\xf000븁\x0000\xfffeいっしょに　いることで\xfffeおたがい　みたされたり\xf000븁\x0000\xfffeちからを　あわせ　たすけあい　\xfffeたいへんな　しごとを　こなしたり\xf000븁\x0000\xfffeなかでも　にんき　なのは\xfffeポケモンどうしを　たたかわせて\xf000븀\x0000\xfffeきずなを　ふかめる　ことね\xf000븁\x0000\xfffeで　わたしは　ポケモンたちを\xfffeけんきゅう　している　ってわけ\xf000븁\x0000
-さて　わたしの　はなしは\xfffeこれぐらいに　して……\xf000븁\x0000\xfffeあなたのことを　おしえてくれるかな\xf000븁\x0000
-あなたは　おとこのこ？\xfffeそれとも　おんなのこ？\xf000븁\x0000
-おとこのこ　なのね？\xf000븁\x0000
-おんなのこ　なのね？\xf000븁\x0000
-おとこのこ
-おんなのこ
-なまえも　しりたいな\xf000븁\x0000\xfffeあなたの　なまえを　おしえて！\xf000븁\x0000
-\xf000Ā\x0001\x0000くん　でいい？\xf000븁\x0000
-\xf000Ā\x0001\x0000さん　であってる？\xf000븁\x0000
+My name is Professor Juniper.\xfffeEveryone calls me the Pokémon Professor!\xf000븁\x0000
+That's right! This world is widely\xfffeinhabited by mysterious creatures\xf000븀\x0000\xfffecalled Pokémon!\xf000븁\x0000
+Pokémon have mysterious powers.\xfffeThey come in many shapes\xf000븀\x0000\xfffeand live in many different places.\xf000븁\x0000\xfffeWe humans live happily with Pokémon!\xfffeLiving and working together,\xf000븀\x0000\xfffewe complement each other.\xf000븁\x0000\xfffeWe help each other out to\xfffeaccomplish difficult tasks.\xf000븁\x0000\xfffeHaving Pokémon battle one another\xfffeis particularly popular, and it deepens\xf000븀\x0000\xfffethe bonds between people and Pokémon.\xf000븀\x0000\xfffeAnd that is why I research Pokémon.\xf000븁\x0000
+Well, that's enough from me...\xfffeCould you tell me about yourself?\xf000븁\x0000
+Are you a boy?\xfffeOr a girl?\xf000븁\x0000
+You're a boy, right?\xf000븁\x0000
+You're a girl, right?\xf000븁\x0000
+Boy
+Girl
+I'd like to know your name.\xf000븁\x0000\xfffePlease tell me.\xf000븁\x0000
+Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
+Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
 Yes
 No
-\xf000Ā\x0001\x0000と　いう　なまえ！\xfffeとても　ステキ　よね！\xf000븁\x0000
+So your name's \xf000Ā\x0001\x0000.\xfffeWhat a wonderful name!\xf000븁\x0000
 それでは　あなたと　いつも\xfffeいっしょに　いる　おともだちを\xf000븀\x0000\xfffeあらためて　しょうかい　するわね\xf000븁\x0000
 それでは　つぎは　あなたの\xfffeしりあいに　ついて　きかせてね\xf000븀\x0000\xfffeきんじょの　おにいさん　なんでしょ\xf000븁\x0000
 かれの　なまえも\xfffeおしえてくれるかな\xf000븁\x0000
