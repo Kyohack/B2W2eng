@@ -1,0 +1,7 @@
+In Party
+Battle Box
+Cancel
+Please select whether to use your\xfffeparty Pokémon or your Battle Box.
+L\xf000Ȃ\x0001\x0000
+\xf000\xff00\x0001\x0002♂\xf000\xff00\x0001\x0000
+\xf000\xff00\x0001\x0001♀\xf000\xff00\x0001\x0000

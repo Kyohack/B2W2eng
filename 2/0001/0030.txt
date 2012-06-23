@@ -1,0 +1,8 @@
+都合が　悪いみたい……　\xf000Ȅ\x0001\x0009
+通信エラーが\xfffe発生しました\xfffe\xfffeユニオンルームの　場合は\xfffeユニオンルームに　入りなおします\xfffeそれ以外の　場合は\xfffe最後に　レポートを書いた\xfffe場所に　もどります\xfffeＡボタンを　押してください
+通信中に　エラーが\xfffe発生しました（\xf000Ȅ\x0001\x0000）\xfffe電源を　切って\xfffe入れなおして　ください\xfffe\xfffe何度も\xfffeこのメッセージが　でるときは\xfffeサポートセンターに\xfffeお問い合わせ　ください
+通信エラーが\xfffe発生しました\xfffe\xfffeタイトル画面に　もどります\xfffeＡボタンを　押してください
+ただいま　ＧＴＳが　混み合っています\xfffeしばらく　時間を　おいて\xfffeもう一度　お試し　ください\xfffe\xfffeＷｉ－Ｆｉコネクション　から\xfffe切断しました\xfffeＡボタンを　押してください
+通信中に　エラーが\xfffe発生しました\xfffe電源を　切って\xfffe入れなおして　ください\xfffe\xfffe何度も\xfffeこのメッセージが　でるときは\xfffeサポートセンターに\xfffeお問い合わせ　ください
+通信エラーが\xfffe発生しました\xfffe\xfffeＷｉ－Ｆｉコネクション　から\xfffe切断しました\xfffe最後に　レポートを書いた\xfffe場所に　もどります\xfffeＡボタンを　押してください
+通信エラーが\xfffe発生しました\xfffe\xfffeＷｉ－Ｆｉコネクション　から\xfffe切断しました\xfffeタイトル画面に　もどります\xfffeＡボタンを　押してください

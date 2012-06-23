@@ -1,0 +1,20 @@
+Welcome to\xfffeTournament!
+バトルたいかいには\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeおこなわれる　Ｗｉ－Ｆｉたいかいと\xf000븁\x0000\xfffeイベントかいじょうで　おこなわれる\xfffeライブたいかいが　あります\xf000븁\x0000\xfffeさんかする　ポケモンは\xfffeバトルボックスに　とうろく　している\xf000븀\x0000\xfffeポケモンです\xf000븁\x0000\xfffeいちど　たいかいに　とうろく　すると\xfffeたいかい　さんかちゅうは\xf000븀\x0000\xfffeバトルボックスを\xf000븀\x0000\xfffeへんこう　できなくなるので\xf000븀\x0000\xfffeちゅうい　してください\xf000븁\x0000\xfffeたいかいに　さんかすると\xfffeデジタルせんしゅしょう　に\xf000븀\x0000\xfffeデータが　とうろく　されるので\xf000븀\x0000\xfffeかくにん　してみてください\xf000븁\x0000
+To the Wi-Fi Tournament
+To the Live Tournament
+Check your Digital Player ID
+Info
+Back
+Participate
+Ｗｉ－Ｆｉたいかいは\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスし\xf000븁\x0000\xfffeとうろく　することで\xfffeたいかいに　さんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケモングローバルリンク\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000\xfffeまた　Ｗｉ－Ｆｉたいかいや\xfffeランダムマッチの　さんかちゅうに\xf000븁\x0000\xfffeほんたいの　でんげんが　きれると\xfffe１じかん　たいかいや\xf000븀\x0000\xfffeランダムマッチで　たいせんが\xf000븀\x0000\xfffeできなくなります\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000
+Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
+たいかいへ　さんかするのを\xfffeやめますか？
+Yes
+No
+さんかを　かいじょする
+ライブたいかいに\xfffeさんか　しますか？
+ライブたいかいの\xfffeかいさいじょうほうに　ついては\xf000븀\x0000\xfffeポケットモンスターオフィシャルサイトで\xf000븀\x0000\xfffeかくにん　することが　できます\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケットモンスターオフィシャルサイト\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
+Ｗｉ－Ｆｉたいかい　または\xfffeランダムマッチの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれたため\xf000븁\x0000\xfffe１じかん\xfffeたいかいや　ランダムマッチで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeおこしください\xf000븁\x0000
+レポートに　かきこんでいます\xfffeでんげんを　きらないでください
+たいせんの　せいかを　たたえて\xfffeバトルポイントを　しんてい　いたします\xf000븁\x0000
+\xf000Ā\x0001\x0000は　バトルポイントを\xfffe\xf000ȁ\x0001\x0001ＢＰ　てにいれた！\xf000븁\x0000

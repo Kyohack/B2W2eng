@@ -1,0 +1,146 @@
+No Answer
+Black2
+White2
+Male
+Female
+Battle
+Trade
+The City
+The Country
+Smart
+Athletic
+Time
+Money
+Appearance
+Substance
+Cool
+Cute
+Strange
+Tepig
+Oshawott
+Snivy
+The Beach
+A River
+The Mountains
+Classes
+Breaks
+Lunch
+Family
+Friends
+Self
+Spring
+Summer
+Autumn
+Winter
+Sweet
+Spicy
+Sour
+Bitter
+Fun
+Cool
+Kind
+Rich
+Battles
+Collecting
+The Story
+Pokémon
+English
+Math
+Science
+Social Studies
+English
+Math
+Science
+Social Studies
+Trainer
+Professor
+Team Plasma
+Pokémon
+Play Outside
+Shopping
+Reading
+Video Games
+Sleeping Late
+Pop
+Rock
+Jazz
+Rap
+Classical
+News
+Drama
+Comedy
+Sports
+Cartoons
+Action
+Sci-Fi
+Romance
+Suspense
+Comedy
+Horror
+Baseball
+Soccer
+Basketball
+Football
+Hockey
+Martial Arts
+Red
+Green
+Blue
+Yellow
+White
+Black
+Exercising
+Reading
+Music
+Movies
+Traveling
+Cooking
+Fishing
+Video Games
+Student
+Office Worker
+Creator
+Self-Employed
+Public Official
+Homemaker
+Artist
+Job-Hopper
+Chili
+Cilan
+Cress
+Lenora
+Burgh
+Elesa
+Clay
+Skyla
+Brycen
+Iris
+Drayden
+Normal
+Fire
+Water
+Electric
+Grass
+Ice
+Fighting
+Poison
+Ground
+Flying
+Psychic
+Bug
+Rock
+Ghost
+Dragon
+Dark
+Steel
+0-10 Hours
+10-20 Hours
+20-30 Hours
+30-40 Hours
+40-50 Hours
+50-60 Hours
+60-70 Hours
+70-80 Hours
+80-90 Hours
+90-100 Hours
+100+ Hours

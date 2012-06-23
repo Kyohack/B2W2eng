@@ -1,0 +1,154 @@
+－－－－－－－－－－
+Mystery Zone
+Faraway place
+\xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
+カノコタウン
+カラクサタウン
+サンヨウシティ
+Nacrene City
+Castelia City
+Nimbasa City
+Driftveil City
+Mistralton City
+Icirrus City
+Opelucid City
+Route 1
+Route 2
+Route 3
+Route 4
+Route 5
+Route 6
+Route 7
+Route 8
+Route 9
+Route 10
+Route 11
+Route 12
+Route 13
+Route 14
+Route 15
+Route 16
+Route 17
+Route 18
+Dreamyard
+Pinwheel Forest
+Desert Resort
+Relic Castle
+Cold Storage
+Chargestone Cave
+Twist Mountain
+Dragonspiral Tower
+Victory Road
+Lacunosa Town
+Undella Town
+Anville Town
+Pokémon League
+N's Castle
+Royal Unova
+Gear Station
+Battle Subway
+Musical Theater
+Black City
+White Forest
+Unity Tower
+Wellspring Cave
+Mistralton Cave
+Rumination Field
+Celestial Tower
+Moor of Icirrus
+Shopping Mall
+Challenger's Cave
+Poké Transfer Lab
+Giant Chasm
+Liberty Garden
+P2 Laboratory
+Skyarrow Bridge
+Driftveil Drawbridge
+Tubeline Bridge
+Village Bridge
+Marvelous Bridge
+Entralink
+Abundant Shrine
+Undella Bay
+Lostlorn Forest
+Trial Chamber
+Guidance Chamber
+Entree Forest
+Nimbasa City
+Driftveil City
+Mistralton City
+Icirrus City
+Opelucid City
+Nuvema Town
+White Forest
+Black City
+Cold Storage
+Chargestone Cave
+Twist Mountain
+Dragonspiral Tower
+Giant Chasm
+Driftveil Drawbridge
+Tubeline Bridge
+Village Bridge
+Marvelous Bridge
+Route 5
+Route 6
+Route 7
+Route 8
+Route 9
+Route 11
+Route 12
+Route 13
+Route 14
+Route 15
+Route 16
+カゴメタウン
+サザナミタウン
+カラクサゲート
+サザナミゲート
+シッポウゲート
+ヒウンゲート
+ライモンゲート
+ソウリュウゲート
+ブラックゲート
+ホワイトゲート
+ブリッジゲート
+ロードゲート
+かいていいせき
+ヒオウギシティ
+タチワキシティ
+セイガイハシティ
+ポケウッド
+ジョインアベニュー
+サンギタウン
+ヤマジタウン
+１９ばんどうろ
+２０ばんどうろ
+２１ばんすいどう
+２２ばんどうろ
+２３ばんどうろ
+ヒウンげすいどう
+サンギぼくじょう
+タチワキコンビナート
+リバースマウンテン
+ストレンジャーハウス
+チャンピオンロード
+プラズマフリゲート
+こだいのぬけみち
+ヤーコンロード
+－－－－－－－－－－
+しろのじゅどう
+くろのまてんろう
+うみべのどうけつ
+こころのくうどう
+かくしあな
+マリンチューブ
+タチワキゲート
+ヒオウギゲート
+しぜんほごく
+メダルじむきょく
+ちていいせき
+いわやまのま
+ひょうざんのま
+くろがねのま
+ちかいのはやし

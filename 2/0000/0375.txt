@@ -1,0 +1,165 @@
+ -
+The stench may cause\xfffethe target to flinch.
+The Pokémon makes it rain\xfffeif it appears in battle.
+Its Speed stat is\xfffegradually boosted.
+The Pokémon is protected\xfffeagainst critical hits.
+It cannot be knocked\xfffeout with one hit.
+Prevents the use of\xfffeself-destructing moves.
+The Pokémon is protected\xfffefrom paralysis.
+Boosts the Pokémon's\xfffeevasion in a sandstorm.
+Contact with the Pokémon\xfffemay cause paralysis.
+Restores HP if hit by an\xfffeElectric-type move.
+Restores HP if hit by a\xfffeWater-type move.
+Prevents it from\xfffebecoming infatuated.
+Eliminates the effects of\xfffeweather.
+The Pokémon's accuracy\xfffeis boosted.
+Prevents the Pokémon\xfffefrom falling asleep.
+Changes the Pokémon's\xfffetype to the foe's move.
+Prevents the Pokémon\xfffefrom getting poisoned.
+It powers up Fire-type\xfffemoves if it's hit by one.
+Blocks the added effects\xfffeof attacks taken.
+Prevents the Pokémon\xfffefrom becoming confused.
+Negates all moves that\xfffeforce switching out.
+Lowers the foe's\xfffeAttack stat.
+Prevents the foe from\xfffeescaping.
+Inflicts damage to the\xfffeattacker on contact.
+Only supereffective\xfffemoves will hit.
+Gives full immunity to all\xfffeGround-type moves.
+Contact may poison or\xfffecause paralysis or sleep.
+Passes a burn, poison,\xfffeor paralysis to the foe.
+Prevents other Pokémon\xfffefrom lowering its stats.
+All status problems heal\xfffewhen it switches out.
+Draws in all Electric-type\xfffemoves to up Sp. Attack.
+Boosts the likelihood of\xfffeadded effects appearing.
+Boosts the Pokémon's\xfffeSpeed in rain.
+Boosts the Pokémon's\xfffeSpeed in sunshine.
+Raises the likelihood of\xfffemeeting wild Pokémon.
+The Pokémon copies a\xfffefoe's Ability.
+Raises the Pokémon's\xfffeAttack stat.
+Contact with the Pokémon\xfffemay poison the attacker.
+The Pokémon is protected\xfffefrom flinching.
+Prevents the Pokémon\xfffefrom becoming frozen.
+Prevents the Pokémon\xfffefrom getting a burn.
+Prevents Steel-type\xfffePokémon from escaping.
+Gives full immunity to all\xfffesound-based moves.
+The Pokémon gradually\xffferegains HP in rain.
+The Pokémon summons a\xfffesandstorm in battle.
+The Pokémon raises the\xfffefoe's PP usage.
+Ups resistance to Fire-\xfffeand Ice-type moves.
+The Pokémon awakens\xfffequickly from sleep.
+Contact with the Pokémon\xfffemay burn the attacker.
+Enables a sure getaway\xfffefrom wild Pokémon.
+Prevents other Pokémon\xfffefrom lowering accuracy.
+Prevents other Pokémon\xfffefrom lowering Attack stat.
+The Pokémon may\xfffepick up items.
+Pokémon can't attack\xfffeon consecutive turns.
+Boosts the Attack stat,\xfffebut lowers accuracy.
+Contact with the Pokémon\xfffemay cause infatuation.
+Ups Sp. Atk if another\xfffePokémon has Plus or Minus.
+Ups Sp. Atk if another\xfffePokémon has Plus or Minus.
+Castform transforms with\xfffethe weather.
+Protects the Pokémon\xfffefrom item theft.
+The Pokémon may heal its\xfffeown status problems.
+Boosts Attack if there is\xfffea status problem.
+Ups Defense if there is\xfffea status problem.
+Damages attackers\xfffeusing any draining move.
+Powers up Grass-type\xfffemoves in a pinch.
+Powers up Fire-type\xfffemoves in a pinch.
+Powers up Water-type\xfffemoves in a pinch.
+Powers up Bug-type\xfffemoves in a pinch.
+Protects the Pokémon\xfffefrom recoil damage.
+Turns the sunlight harsh\xfffeif it is in battle.
+Prevents the foe from\xfffefleeing.
+Prevents the Pokémon\xfffefrom falling asleep.
+Prevents other Pokémon\xfffefrom lowering its stats.
+Raises the Pokémon's\xfffeAttack stat.
+The Pokémon is protected\xfffeagainst critical hits.
+Eliminates the effects of\xfffeweather.
+Raises evasion if the\xfffePokémon is confused.
+Raises Speed if hit by an\xfffeElectric-type move.
+Deals more damage to a\xfffePokémon of same gender.
+Raises Speed each time\xfffethe Pokémon flinches.
+Raises evasion in a\xfffehailstorm.
+Encourages the early use\xfffeof a held Berry.
+Maxes Attack after\xfffetaking a critical hit.
+Raises Speed if a held\xfffeitem is used.
+Weakens the power of\xfffeFire-type moves.
+The Pokémon is prone to\xfffewild stat changes.
+Reduces HP if it is hot.\xfffeWater restores HP.
+Adjusts power according\xfffeto a foe's defenses.
+Boosts the power of\xfffepunching moves.
+Restores HP if the\xfffePokémon is poisoned.
+Powers up moves of the\xfffesame type.
+Increases the frequency\xfffeof multi-strike moves.
+Heals status problems if\xfffeit is raining.
+In sunshine, Sp. Atk is\xfffeboosted but HP decreases.
+Boosts Speed if there is\xfffea status problem.
+All the Pokémon's moves\xfffebecome the Normal type.
+Powers up moves if they\xfffebecome critical hits.
+The Pokémon only takes\xfffedamage from attacks.
+Ensures attacks by or\xfffeagainst the Pokémon land.
+The Pokémon moves after\xfffeall other Pokémon do.
+Powers up the Pokémon's\xfffeweaker moves.
+Prevents problems with\xfffestatus in sunny weather.
+The Pokémon can't use\xfffeany held items.
+Moves can be used\xffferegardless of Abilities.
+Heightens the critical-\xfffehit ratios of moves.
+Damages the attacker\xfffelanding the finishing hit.
+Senses a foe's\xfffedangerous moves.
+Determines what moves\xfffea foe has.
+Ignores any stat changes\xfffein the Pokémon.
+Powers up “not very\xfffeeffective" moves.
+Reduces damage from\xfffesupereffective attacks.
+Temporarily halves\xfffeAttack and Speed.
+Enables moves to hit\xfffeGhost-type Pokémon.
+Draws in all Water-type\xfffemoves to up Sp. Attack.
+The Pokémon gradually\xffferegains HP in a hailstorm.
+Reduces damage from\xfffesupereffective attacks.
+The Pokémon summons a\xfffehailstorm in battle.
+The Pokémon may gather\xfffeHoney from somewhere.
+The Pokémon can check\xfffea foe's held item.
+Powers up moves that\xfffehave recoil damage.
+Changes type to match\xfffethe held Plate.
+Powers up party Pokémon\xfffewhen it is sunny.
+Reduces a sleeping\xfffefoe's HP.
+Steals an item when hit\xfffeby another Pokémon.
+Removes added effects to\xfffeincrease move damage.
+Makes stat changes have\xfffean opposite effect.
+Makes the foe nervous and\xfffeunable to eat Berries.
+When its stats are lowered\xfffeits Attack increases.
+Lowers stats when HP\xfffebecomes half or less.
+May disable a move used\xfffeon the Pokémon.
+May heal an ally's status\xfffeconditions.
+Reduces damage done\xfffeto allies.
+Physical attacks lower\xfffeDefense and raise Speed.
+Doubles the Pokémon's\xfffeweight.
+Halves the Pokémon's\xfffeweight.
+Reduces damage when HP\xfffeis full.
+Powers up physical\xfffeattacks when poisoned.
+Powers up special attacks\xfffewhen burned.
+May create another\xfffeBerry after one is used.
+Anticipates an ally's\xfffeattack and dodges it.
+Raises one stat and\xfffelowers another.
+Protects the Pokémon from\xfffedamage from weather.
+May poison targets when a\xfffePokémon makes contact.
+Restores a little HP when\xfffewithdrawn from battle.
+Protects the Pokémon from\xfffeDefense-lowering attacks.
+Boosts the Pokémon's\xfffeSpeed in a sandstorm.
+Makes status-changing\xfffemoves more likely to miss.
+Boosts move power when\xfffethe Pokémon moves last.
+Comes out disguised as\xfffethe Pokémon in back.
+It transforms itself into\xfffethe Pokémon it is facing.
+Passes through the foe's\xfffebarrier and strikes.
+Contact with this Pokémon\xfffespreads this Ability.
+Boosts Attack after\xfffeknocking out any Pokémon.
+Raises Attack when hit by\xfffea Dark-type move.
+Some move types scare\xfffeit and boost its Speed.
+Reflects status-\xfffechanging moves.
+Boosts Attack when hit by\xfffea Grass-type move.
+Gives priority to a\xfffestatus move.
+Boosts certain moves'\xfffepower in a sandstorm.
+Inflicts damage to the\xfffePokémon on contact.
+Changes the Pokémon's\xfffeshape when HP is halved.
+Boosts the accuracy of its\xfffeallies and itself.
+Moves can be used\xffferegardless of Abilities.
+Moves can be used\xffferegardless of Abilities.

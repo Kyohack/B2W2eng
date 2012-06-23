@@ -1,0 +1,7 @@
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
+Do you want to display your Musical Photo\xfffein the Musical Theater?
+Yes
+No
+Awaiting others' decisions.\xfffePlease wait...

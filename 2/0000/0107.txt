@@ -1,0 +1,24 @@
+GAME SYNC
+Wi-Fiせってい
+Is it OK to create data \xfffeto play Game Sync?
+Creating data...\xfffePlease wait a moment.
+Yes
+No
+Saving...\xfffeDon't turn off the power.
+おてもとの　パソコンから\xfffeポケモングローバルリンクの\xfffeホームページに　アクセスして\xfffeうえの　ゲームシンクＩＤコードを\xfffeにゅうりょくすると　ゲームシンクの\xfffeせっていが　おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
+ゲームシンクＩＤコードを\xfffeはっこうしました\xfffe\xfffeうえのゲームシンクＩＤコード　は\xfffeゲームかいしじの　タイトルメニュー\xfffeゲームシンクせっていから\xfffeみなおすことが　できます\xf000븁\x0000
+おてもとのパソコンから\xfffeポケモングローバルリンクの\xfffeホームページに　アクセスして\xfffeうえのゲームシンクＩＤコードを\xfffeにゅうりょくすると　ゲームシンクの\xfffeせっていが　おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
+Game Sync ID
+The Game Sync ID\xfffeレhas been saved.
+サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０１）
+サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０２）
+つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０３）
+つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０４）
+サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０５）
+ごりようの　サービスは\xfffeしゅうりょう　いたしました\xfffe（エラーコード：１３２０６）
+つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０７）
+サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０８）
+つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０９）
+サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２１０）
+サーバーが　こんざつ　しています\xfffeせつぞく　に　しっぱいしました\xfffeじかんを　おいて　さいど\xfffeおためしください\xfffe（エラーコード：１３２１１）
+サーバーは　げんざい\xfffeメンテナンスちゅうです\xfffeメンテナンスの　しょうさいは\xfffeポケモングローバルリンクの\xfffeウェブサイトをごらんください\xfffehttp://www.pokemon-gl.com/\xfffe（エラーコード：１３２１２）
