@@ -1,121 +1,121 @@
-\xf000봂\x0000ランダムマッチ　フリーモード
-\xf000봂\x0000ランダムマッチ　レーティングモード
-\xf000봂\x0000シングルバトル
-\xf000봂\x0000ダブルバトル
-\xf000봂\x0000トリプルバトル
-\xf000봂\x0000ローテーションバトル
-\xf000봂\x0000シューターバトル
-\xf000봂\x0000\xf000Ā\x0001\x0000　のせいせき
-\xf000봃\x0001\x0000レーティング：
+\xf000봂\x0000Random Matchup Free Mode
+\xf000봂\x0000Random Matchup Rating Mode
+\xf000봂\x0000SINGLE BATTLE
+\xf000봂\x0000DOUBLE BATTLE
+\xf000봂\x0000TRIPLE BATTLE
+\xf000봂\x0000ROTATION BATTLE
+\xf000봂\x0000LAUNCHER BATTLE
+\xf000봂\x0000\xf000Ā\x0001\x0000's Record
+\xf000봃\x0001\x0000Rating:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000たいせん　かいすう：
+\xf000봃\x0001\x0000No. of Battles:
 \xf000봃\x0001\x0000\xf000ȅ\x0001\x0000
-\xf000봃\x0001\x0000かったかず：
+\xf000봃\x0001\x0000No. of Wins:
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000まけたかず：
+\xf000봃\x0001\x0000No. of Losses:
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002－\xf000ȃ\x0001\x0003.\xf000ȁ\x0001\x0004.\xf000ȁ\x0001\x0005
-とうろく　ポケモン
-とうろく　ポケモン
-とうろく　ポケモン
-すんでいるところ
-あいさつ
+\xf000봃\x0001\x0000\xf000ȁ\x0001\x0001 \xf000ȁ\x0001\x0002, \xf000ȃ\x0001\x0000 - \xf000ȁ\x0001\x0004 \xf000ȁ\x0001\x0005, \xf000ȃ\x0001\x0003
+Registered Pokémon
+Registered Pokémon
+Registered Pokémon
+LOCATION
+GREET
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
-データを　うけとっています……\xfffeしばらく　おまちください
-どの　モードで\xfffeちょうせん　しますか？
-ランダムマッチ　フリーモードを\xfffeかいし　します\xf000븁\x0000
-フリー
-レーティング
-やめる
-ランダムマッチを\xfffeおわりに　しますか？
-はい
-いいえ
-たいせん　あいてを\xfffeさがして　います……
-たいせん　あいてが\xfffeみつかりました！
-たいせん　あいてを\xfffeさがすのを　やめますか？
-ポケモンを\xfffeえらんで　ください
-データを　おくっています……\xfffeしばらく　おまちください
-たいせんを　つづけますか？
-ランダムマッチを\xfffeおわりに　しますか？
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-ランダムマッチ　レーティングモードを\xfffeかいし　します\xf000븁\x0000
-サーバー　たいきちゅう　です\xfffeしばらく　おまちください
-つうしん　たいきちゅうです……\xfffeしばらく　おまちください
-ブラック．
-ホワイト．
-ポケモンバトル　Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
-さんかする
-せつめいを　きく
-やめる
-Ｗｉ－Ｆｉたいかいは\xfffeポケモングローバルリンクで\xf000븀\x0000\xfffeとうろく　すると　さんか　できます\xf000븁\x0000\xfffeたいかいの　ルールや\xfffeかいさい　きかんは\xf000븁\x0000\xfffeポケモングロバールリンクを\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeかくにん　してください\xf000븁\x0000
-たいかいへ　さんかするのを\xfffeやめますか？
-はい
-いいえ
-たいかい　データを\xfffeさがしています……
-ポケモングローバルリンクに\xfffeゲームシンクＩＤコードが\xf000븀\x0000\xfffeとうろく　されていません\xf000븁\x0000\xfffeゲームシンク　せっていを　おこない\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページで\xf000븀\x0000\xfffeとうろくを　おこなってください\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000
-さんか　できる\xfffeたいかいが　ありません\xf000븁\x0000\xfffeバトルたいかいは　\xfffeいぜん　さんかした　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000
-さんか　できる　たいかいが\xfffeみつかりませんでした\xf000븁\x0000\xfffeまた　バトルたいかいは　\xfffeいぜん　さんかした　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000
-せんしゅしょうを　こうしん　します\xfffeでんげんを　きらないで　ください
-さんか　できる　たいかいは\xfffeげんざい　かいさい　されていません\xf000븁\x0000
-Ｗｉ－Ｆｉたいかいに　さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん　します\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても　よろしいですか？
-Ｗｉ－Ｆｉたいかいに　さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん　します\xf000븁\x0000\xfffeぜんかいの　たいかいで　おこなった\xfffeバトルボックスの　とうろくは\xf000븀\x0000\xfffeかいじょ　されます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても　よろしいですか？
-デジタルせんしゅしょうを\xfffeこうしん　しないと　たいかいに\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000\xfffeこうしんを　やめますか？
-デジタルせんしゅしょうを\xfffeこうしん　しています\xf000븁\x0000\xfffeでんげんを　きらないでください
-デジタルせんしゅしょうを\xfffeこうしん　できませんでした
-バトルボックスの　ポケモンを\xfffeたいかいに　とうろく　します\xf000븁\x0000\xfffeちゅうい！\xfffeいちど　とうろく　すると\xf000븀\x0000\xfffeさんかを　かいじょ　するまで\xf000븀\x0000\xfffeバトルボックスへ　ポケモンを\xf000븀\x0000\xfffeだしいれ　できなくなります\xf000븁\x0000\xfffeバトルボックスの　ポケモンを\xfffeとうろく　しても　よろしいですか？
-はい
-いいえ
-とうろく　するのを\xfffeやめますか？
-たいかいの　とうろくを\xfffeちゅうだん　しますか？
-データを　おくっています……\xfffeでんげんを　きらないでください
-ポケモンに　もんだいが　あるため\xfffeさんか　できませんでした\xf000븁\x0000
-たいかいへの\xfffeとうろくが　かんりょうしました！\xf000븁\x0000
-たいかいの　じょうけんを\xfffeみたしていません\xf000븁\x0000\xfffeたいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセットしてください\xf000븁\x0000
-ポケモンバトル　Ｗｉ－Ｆｉたいかい！\xfffeなにを　しますか？
-たいせんする
-さんかを　かいじょする
-やめる
-たいかいを　ちゅうだん　しますか？
-たいせんを　つづけますか？
-かいさい　きかんが　すぎました\xfffeたいかいを　しゅうりょうします\xf000븁\x0000
-バトルボックスの　とうろくを\xfffeかいじょ　しました\xf000븁\x0000
-げんざい　とうろく　している\xfffeたいかいは　ありません\xf000븁\x0000
-さんかを　かいじょすると\xfffeおなじ　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
-たいかいの　さんかを　かいじょ　します\xfffeほんとうに　よろしいですか？
-たいせん　あいてを\xfffeさがして　います……
-たいせん　あいてを\xfffeさがすのを　やめますか？
-たいせん　あいてが\xfffeみつかりました！
-たいせん　けっかを\xfffeサーバーに　おくりました\xf000븁\x0000\xfffeレーティングの　けいさんは\xfffeすこし　じかんが　かかります\xf000븁\x0000\xfffeけいさんが　おわると\xfffeたいせん　あいてを　さがすとき\xf000븀\x0000\xfffeせいせきに　はんえい　されます\xf000븁\x0000
-つうしん　たいきちゅう　です\xfffeでんげんを　きらないで　ください
-データを　うけとっています\xfffeでんげんを　きらないで　ください
-たいかい　データを\xfffeかくにん　しています……
-ポケモンバトル　Ｗｉ－Ｆｉたいかい！\xfffeたいせんを　つづけますか？
-たいせんする
-さんかを　かいじょする
-やめる
-さんか　とうろくした　たいかいは\xfffeげんざい　かいさい　されていません\xf000븁\x0000\xfffeたいかいの　にっていを\xfffeかくにんして　おまちください\xf000븁\x0000
-バトルボックスに\xfffeポケモンが　１ひきも　いません\xf000븁\x0000\xfffeたいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセットして　ください\xf000븁\x0000
-たいせんの　けっかを\xfffeサーバーに　おくりました\xf000븁\x0000
+Receiving data...\xfffePlease wait a moment.
+Which mode will you challenge?
+Random Matchup Free mode\xfffewill be launched.\xf000븁\x0000
+Free
+Rating
+Quit
+Will you quit Random Matchup?
+Yes
+No
+Searching for your opponent...
+An opponent has been found!
+Quit searching for\xfffesomeone to battle?
+Please choose your Pokémon.
+Sending data...\xfffeDon't turn off the power.
+Do you want to continue battling?
+Will you quit Random Matchup?
+Saving...\xfffeDon't turn off the power.
+Random Matchup Rating mode\xfffewill be launched.\xf000븁\x0000
+Waiting for the server...\xfffeDon't turn off the power.
+Awaiting communication...\xfffePlease stand by.
+
+
+
+Join
+Info
+Cancel
+
+
+Yes
+No
+Searching for competition data...
+Game Sync ID has not been\xffferegistered at the Pokémon Global Link.\xf000븁\x0000\xfffePlease complete the Game Sync settings\xfffeand access the Pokémon Global Link\xf000븁\x0000\xfffewebpage to register.\xfffehttp://www.pokemon-gl.com\xf000븁\x0000
+
+No competitions have been found\xfffefor you to participate in.\xf000븁\x0000\xfffeIn Battle Competition,\xfffeyou cannot participate in the same\xf000븀\x0000\xfffecompetition twice.\xf000븁\x0000
+Player ID will be updated...\xfffeDon't turn off the power.
+There are no current competitions\xfffethat you can participate in.\xf000븁\x0000
+To participate in the Wi-Fi Competition,\xfffeyou need to update your Digital Player ID.\xf000븁\x0000\xfffeIs it OK to update it?
+To participate in the Wi-Fi Competition,\xfffethe Digital Player ID will be updated.\xf000븁\x0000\xfffeThe Battle Box from the previous\xfffetournament will be unregistered.\xf000븁\x0000\xfffeIs it OK to update your Digital Player ID?
+You cannot participate\xfffewithout updating your Digital Player ID.\xf000븁\x0000\xfffeCancel this update?
+
+Unable to update your Digital Player ID.
+Your Battle Box will be registered\xfffefor the tournament.\xf000븁\x0000\xfffeCaution!\xfffeOnce registered,\xf000븀\x0000\xfffeyou will not be able to\xf000븀\x0000\xfffemove your Pokémon to or from\xf000븀\x0000\xfffeyour Battle Box.\xf000븁\x0000\xfffeWill you still register the Pokémon\xfffein your Battle Box?
+Yes
+No
+Quit registration?
+Quit the competition registration?
+Sending data...\xfffeDon't turn off the power.
+There was a problem with\xfffeyour Pokémon,\xf000븀\x0000\xfffeand they could not participate.\xf000븁\x0000
+Competition registration\xfffeis complete!\xf000븁\x0000
+The conditions for the tournament\xfffehave not been met.\xf000븁\x0000\xfffePlease place your Pokémon\xfffein the Battle Box.\xf000븁\x0000
+Pokémon Competition over Nintendo WFC!\xfffeWhat would you like to do?
+Battle
+Cancel participation
+Cancel
+Quit the competition?
+
+The competition time has run out.\xfffeThe competition has ended.\xf000븁\x0000
+Your Battle Box has been\xfffeunregistered.\xf000븁\x0000
+Currently, you have registered no\xfffecompetitions.\xf000븁\x0000
+Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000븁\x0000\xfffeIs it OK to unregister?
+You will be unregistered.\xfffeAre you sure about this?
+Searching for your opponent...
+
+Your opponent has been found!
+The battle results were\xfffesent to the server.\xf000븁\x0000\xfffeIt'll take a little time\xfffeto calculate your Rating.\xf000븁\x0000\xfffeOnce the calculation is done,\xfffeyour Rating will be updated.\xf000븁\x0000
+
+Receiving data...\xfffeDon't turn off the power.
+Checking the competition\xfffedetails...
+Pokémon Wi-Fi Competition!\xfffeDo you want to continue battling?
+Battle
+Cancel participation
+Cancel
+The competition you've registered\xfffeis not currently held.\xf000븁\x0000\xfffePlease check the competition schedule\xfffeand wait for it.\xf000븁\x0000
+There are no Pokémon in\xfffeyour Battle Box.\xf000븁\x0000\xfffePlease check the tournament\xffferules to place Pokémon\xf000븀\x0000\xfffein your Battle Box.\xf000븁\x0000
+
 L\xf000Ȃ\x0001\x0000
 ♂
 ♀
 
-この　たいかいに　さんかちゅう　です\xfffeポケモンを　とうろく　してください
-この　たいかいに　さんかちゅう　です\xfffeバトルボックスを　ロックしています
-さんかを　かいじょすると\xfffeおなじ　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
-たいかいの　さんかを　かいじょ　します\xfffeほんとうに　よろしいですか？
-かいじょちゅう　です\xfffeでんげんを　きらないで　ください
-バトルボックスの　とうろくを\xfffeかいじょ　しました\xf000븁\x0000
-この　たいかいの　かいさいは\xfffeしゅうりょう　しました
-この　たいかいは　とちゅうで\xfffeさんかを　かいじょ　しました
-デジタルせんしゅしょうの\xfffeデータが　ありません\xf000븁\x0000
-この　たいかいは\xfffeほんたいと　ＤＳカードを\xf000븀\x0000\xfffeさしかえた　ため\xf000븁\x0000\xfffeたいかい　への　さんかが\xfffeかいじょに　なりました\xf000븁\x0000
-さんかを　かいじょすると\xfffeおなじ　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
-たいかいの　さんかを　かいじょ　します\xfffeほんとうに　よろしいですか？
-たいかいへの　さんかを\xfffeかいじょ　しました\xf000븁\x0000
-もどる
-さんかの　かいじょ
-はい
-いいえ
-ポケモンに　もんだいが　あるため\xfffeさんか　できませんでした\xf000븁\x0000
+You are participating in this competition.\xfffePlease register your Pokémon.
+You are participating in this competition.\xfffeYour Battle Box is being locked.
+Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000븁\x0000\xfffeIs it OK to unregister?
+
+It is being unregistered...\xfffeDon't turn off the power.
+Your Battle Box has been\xfffeunregistered.\xf000븁\x0000
+This competition has already ended.
+You unregistered from this competition.
+You don't have any\xfffeDigital Player ID data.\xf000븁\x0000
+You've been unregistered\xfffefrom the competition, as\xf000븀\x0000\xfffeyour Game Card was inserted into\xf000븀\x0000\xfffeanother DS system.\xf000븁\x0000
+Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000븁\x0000\xfffeIs it OK to unregister?
+You will be unregistered.\xfffeAre you sure about this?
+You have been unregistered\xfffefrom the competition.\xf000븁\x0000
+Back
+Unregister
+Yes
+No
+There was a problem with\xfffeyour Pokémon,\xf000븀\x0000\xfffeand they could not participate.\xf000븁\x0000

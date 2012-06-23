@@ -1,10 +1,10 @@
-PIC_はじめまして
-PIC_こんにちは
-PIC_だいすき
-PIC_がんばれ！
-PIC_たのしい
-PIC_うれしい
-PIC_ありがとう
-PIC_さいこう
-PIC_ごめんね
-PIC_バイバイ
+絵_GOOD DAY!
+絵_HELLO!
+絵_I LOVE IT!
+絵_GOOD LUCK!
+絵_IT'S FUN!
+絵_HAPPY!
+絵_THANK YOU!
+絵_SUPER! ♪
+絵_SORRY...
+絵_BYE-BYE!

@@ -1,52 +1,52 @@
-なし
-アラバマ
-アラスカ
-アリゾナ
-アーカンソー
-カリフォルニア
-コロラド
-コネチカット
-デラウェア
-フロリダ
-ジョージア
-ハワイ
-アイダホ
-イリノイ
-インディアナ
-アイオワ
-カンザス
-ケンタッキー
-ルイジアナ
-メイン
-メリーランド
-マサチューセッツ
-ミシガン
-ミネソタ
-ミシシッピ
-ミズーリ
-モンタナ
-ネブラスカ
-ネバダ
-ニューハンプシャー
-ニュージャージー
-ニューメキシコ
-ニューヨーク
-ノースカロライナ
-ノースダコタ
-オハイオ
-オクラホマ
-オレゴン
-ペンシルバニア
-ロードアイランド
-サウスカロライナ
-サウスダコタ
-テネシー
-テキサス
-ユタ
-バーモント
-バージニア
-ワシントン
-ワシントンＤ．Ｃ．
-ウェストバージニア
-ウィスコンシン
-ワイオミング
+None
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+Washington, DC
+West Virginia
+Wisconsin
+Wyoming

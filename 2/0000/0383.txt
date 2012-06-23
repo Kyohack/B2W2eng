@@ -1,44 +1,44 @@
-ポケモントレーナー
-ポケモントレーナー
-たんぱんこぞう
-ミニスカート
-じゅくがえり
-じゅくがえり
-テニスプレイヤー
-フットボーラー
-ウエーター
-ウエートレス
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ほいくし
-えんじ
-えんじ
-ふたごちゃん
-ポケモンブリーダー
-ポケモンブリーダー
-アロエ
+Pokémon Trainer
+Pokémon Trainer
+Youngster
+Lass
+School Kid
+School Kid
+Smasher
+Linebacker
+Waiter
+Waitress
+Leader
+Leader
+Leader
+Nursery Aide
+Preschooler
+Preschooler
+Twins
+⒆⒇ Breeder
+⒆⒇ Breeder
+Leader
 no data
 no data
 no data
 no data
-ポケモンレンジャー
-ポケモンレンジャー
-さぎょういん
-バックパッカー
-バックパッカー
-つりびと
-ミュージシャン
-ダンサー
-クラウン
-げいじゅつか
-ベーカリー
-サイキッカー
-サイキッカー
+⒆⒇ Ranger
+⒆⒇ Ranger
+Worker
+Backpacker
+Backpacker
+Fisherman
+Musician
+Dancer
+Harlequin
+Artist
+Baker
+Psychic
+Psychic
 no data
-ポケモントレーナー
+⒆⒇ Trainer
 no data
-ポケモントレーナー
+⒆⒇ Trainer
 おぼっちゃま
 おじょうさま
 パイロット

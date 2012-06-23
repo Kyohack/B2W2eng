@@ -1,18 +1,18 @@
-「ＩＲ」について
-「Ｗｉ－Ｆｉ」について
-「Ｗｉ－Ｆｉ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「Ｗｉｒｅｌｅｓｓ」について
-「すれちがいログ」について
-「すれちがいログ」について
-「ちょうさレーダー」について
-「ちょうさレーダー」について
-「カスタム」について
-「オン／オフ」について
-「オン／オフ」について
+About “Infrared"
+About “Wi-Fi"
+About “Wi-Fi"
+About “Wireless"
+About “Wireless"
+About “Wireless"
+About “Wireless"
+About “Wireless"
+About “Tag Log"
+About “Tag Log"
+About “Survey Radar"
+About “Survey Radar"
+About “Customization"
+About “ON/OFF"
+About “ON/OFF"
 せきがいせんを　つかって\xfffeめのまえにいる　ともだちと　きがるに\xfffeたいせんや　こうかんが　できます。\xfffeまた　あいしょうが　わかる\xfffeフィーリングチェックや\xfffeともだちコードの　こうかんも　できます。
 ゲームシンクという　ボタンで\xfffeねむらせる　ポケモンを　えらび\xfffeＷｉ－Ｆｉコネクションで\xfffeレポートを　おくることが　できます。
 Ｗｉ－Ｆｉの　でんぱを　キャッチしても\xfffeほんたいせっていが　できていないと\xfffeＷｉ－Ｆｉに　せつぞく　できません。
@@ -28,6 +28,6 @@
 カスタムマークを　タッチすると\xfffeマークが　てんめつ　します。\xfffeボタンを　タッチしながら　うごかすと\xfffeばしょを　かえることが　できます。\xfffeまた　リングを　タッチすると\xfffeリングの　いろが　へんかします。
 でんげんマークを　タッチすると\xfffeオンと　オフを　きりかえるかの\xfffeかくにんがめんに　かわります。\xfffeオフにすると　タッチぶぶんが\xfffeくらくなり　どうじに\xfffeむせんの　つうしんが　オフになります。
 のこされた　でんりょくが\xfffeすくない　じょうたいで\xfffeＤＳの　ふたが　とじられていると\xfffeＣギアの　でんげんが\xfffeじどうてきに　オフになります。
-つぎへ
-もどる
-まえへ
+Next
+Quit
+Previous

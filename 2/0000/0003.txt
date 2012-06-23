@@ -1,46 +1,46 @@
-いまの　しょうぶを\xfffeバトルビデオに　きろく　しますか？
+Would you like to save the last battle\xfffeas your Battle Video?
 Yes
 No
-いまの　しょうぶの　きろくは\xfffeのこりませんが　よろしいですか？
+The last battle will not be saved.\xfffeOK?
 Yes
 No
-ぜんかいの　バトルビデオを　けして\xfffeうわがき　しても　よろしいですか？
+Is it OK to overwrite your existing\xfffeBattle Video?
 Yes
 No
-バトルビデオに　きろくちゅう　です！\xfffeでんげんを　きらないでください
-たたかいが　きろく　されました！
-ふぐあいにより\xfffeきろく　できませんでした
-あいてを　まっています\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません
-この　しょうぶは　ろくが　できません
-Select Time
+Saving your Battle Video...\xfffeDon't turn off the power.
+The Battle Video has been saved.
+There was an error.\xfffeThe Battle Video couldn't be saved.
+Awaiting your friend's decision...\xfffePlease wait.
+You cannot record videos\xfffewith this Trainer... Please wait.
+You cannot record videos with this Trainer.
+The last battle cannot be recorded.
+Time Limit:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-ぜんかいの　きろく
-コロシアム　シングル\xfffeせいげんなし
-コロシアム　シングル\xfffeフラット
-コロシアム　シングル\xfffeせいげんなし シューターあり
-コロシアム　シングル\xfffeフラット　シューターあり
-コロシアム　ダブル\xfffeせいげんなし
-コロシアム　ダブル\xfffeフラット
-コロシアム　ダブル\xfffeせいげんなし シューターあり
-コロシアム　ダブル\xfffeフラット　シューターあり
-コロシアム　トリプル\xfffeせいげんなし
-コロシアム　トリプル\xfffeフラット
-コロシアム　トリプル\xfffeせいげんなし シューターあり
-コロシアム　トリプル\xfffeフラット　シューターあり
-コロシアム　ローテーション\xfffeせいげんなし
-コロシアム　ローテーション\xfffeフラット
-コロシアム　ローテーション\xfffeせいげんなし シューターあり
-コロシアム　ローテーション\xfffeフラット　シューターあり
-コロシアム　マルチ\xfffeせいげんなし
-コロシアム　マルチ\xfffeフラット
-コロシアム　マルチ\xfffeせいげんなし シューターあり
-コロシアム　マルチ\xfffeフラット　シューターあり
-バトルサブウェイ\xfffeシングル
-バトルサブウェイ\xfffeダブル
-バトルサブウェイ\xfffeマルチ
+PREVIOUS RECORD
+Colosseum Single,\xfffeせいげんなし
+Colosseum Single,\xfffeフラット
+Colosseum Single,\xfffeせいげんなし シューターあり
+Colosseum Single,\xfffeフラット　シューターあり
+Colosseum Double,\xfffeせいげんなし
+Colosseum Double,\xfffeフラット
+Colosseum Double,\xfffeせいげんなし シューターあり
+Colosseum Double,\xfffeフラット　シューターあり
+Colosseum Triple,\xfffeせいげんなし
+Colosseum Triple,\xfffeフラット
+Colosseum Triple,\xfffeせいげんなし シューターあり
+Colosseum Triple,\xfffeフラット　シューターあり
+Colosseum Rotation,\xfffeせいげんなし
+Colosseum Rotation,\xfffeフラット
+Colosseum Rotation,\xfffeせいげんなし シューターあり
+Colosseum Rotation,\xfffeフラット　シューターあり
+Colosseum Multi,\xfffeせいげんなし
+Colosseum Multi,\xfffeフラット
+Colosseum Multi,\xfffeせいげんなし シューターあり
+Colosseum Multi,\xfffeフラット　シューターあり
+Battle Subway,\xfffeSingle
+Battle Subway,\xfffeDouble
+Battle Subway,\xfffeMulti
 ランダムマッチ　フリー\xfffeシングル
 ランダムマッチ　フリー\xfffeダブル
 ランダムマッチ　フリー\xfffeトリプル

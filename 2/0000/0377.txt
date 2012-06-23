@@ -1,101 +1,101 @@
-どこへ　とびますか？
+Fly to where?
 ダミー
-ここちよい　しおかぜが　ふきぬけ\xfffeなにかを　よかんさせる　いなかまち
-ポケモンけんきゅうじょ
-こうていさが　ある　おかげで\xfffeみはらしが　いいのが　とくちょう
-ポケモンセンター
-ゆきよけの　かいだんは　すみついた\xfffeひとが　ふるさとをおもい　つけたもの
-サンヨウレストラン
-ポケモンセンター
-トレーナーズスクール
-マコモのけんきゅうしつ
-１００ねんほどまえの　そうこが\xfffeさいりようされ　かっきづく　まち
-シッポウはくぶつかん
-ポケモンセンター
-カフェ　ソーコ
-わざおしえ
-じょうくうの　くもを　つらぬくような\xfffeこうそうビルが　そびえる　だいとし
-ヒウンシティジム
-ポケモンセンター
-ちょうさたいほんぶ
-せいめいはんだん
-メダルじむきょく
-ロイヤルイッシュごう
-テーマパークが　たちならび\xfffeかっき　あふれる　ごらくとし
-ライモンシティジム
-ポケモンセンター
-ミュージカルホール
-バトルサブウェイ
-ビッグスタジアム
-リトルコート
-イッシュの　げんかんと　よばれ\xfffeしなものが　いきかう　みなとまち
-ホドモエシティジム
-ポケモンセンター
-ホドモエマーケット
-わざおしえ
-かっそうろの　そばで　さいばいし\xfffeとれた　やさいを　かもつきで　はこぶ
-フキヨセシティジム
-ポケモンセンター
-わざマシンコレクター
-カーゴサービス
-ふゆは　ふりつもる　ゆきにおおわれ\xfffeいちめん　ぎんせかいとなる　まち
-セッカシティジム
-ポケモンセンター
-ポケモンだいすきクラブ
-れきしを　おもんじ　むかしからの\xfffeものを　たいせつに　している　まち
-べんりさを　ついきゅうして　むかしの\xfffeなごりを　のこさず　へんかした　まち
-ソウリュウシティジム
-ポケモンセンター
-バトルのやかた
-すべての　ポケモンジムを　せいはした\xfffeトレーナーだけが　いどむことができる
-ポケモンセンター
-むかしからの　ふうしゅうを　まもり\xfffeきそくただしく　くらす　ひとの　まち
-ポケモンセンター
-なつは　バカンスの　ひとが　つどい\xfffeにぎわう　すなはまの　ひしょち
-ポケモンセンター
-てつどうしゃりょうが　せいびされたり\xfffeていはくする　しゃりょうきちの　まち
-ひとがつどい　はってんを　つづける\xfffeきんだいてきな　ふんいきの　まち
-ポケモンセンター
-ゆたかな　しぜんに　あこがれた\xfffeひとが　かくちから　あつまる　ばしょ
-ポケモンセンター
-せかい　かっこくの　ひとびとと\xfffeこうりゅうできる　ちょうこうそうビル
-とおく　はなれた　べつちほうの\xfffeポケモンを　けんきゅうする　しせつ
-こどもや　ポケモンの　あそびばとして\xfffeつかわれている　こうじょうの　あとち
-たおれて　くうどうに　なった\xfffeきの　うろも　とおることが　できる
-かんこうきゃくに　にんきだが\xfffeリゾートとよぶには　きびしい　さばく
-かつて　えいがを　ほこるも　いつしか\xfffeすなにうもれた　おおむかしの　いせき
-うでじまんの　トレーナーたちが\xfffeトーナメントで　きそいあう
-でんきを　おびた　いしと　いしが\xfffeはんぱつして　うかんでいる　ほらあな
-しつの　いい　こうせきが　とれる\xfffeこうざんとして　ひょうばんがたかい
-いつ　だれが　たてたかも　わからない\xfffeイッシュで　もっとも　ふるい　とう
-わかれみちで　トレーナーを　はばむ\xfffeポケモンリーグ　さいごの　かんもん
-ちかづけば　わざわいが　ふりかかると\xfffeいいつたえられる　きょだいな　あな
-ひとと　ポケモンとが　じゆうに\xfffeくらせる　せかいを　ねがう　しま
-こじまに　ひっそり　たたずむ\xfffeひみつめいた　けんきゅうじょ
-しみこんだ　あまみずが　わきあがり\xfffeちかに　みずたまりを　つくりだした　
-でんせつの　けはいを　とじこめたまま\xfffeひとに　わすれさられた　ほらあな
-たましいを　じょうか　させるという\xfffeおおきな　かねが　ある　たかいとう
-たいらな　とちの　くぼみに　たまった\xfffeみずでできた　しつげんと　されている
-かつては　ひとが　すんでいた　むらで\xfffeいまも　とうじの　くうきが　ながれる
-なみが　かがやいている　として\xfffeせかいでも　ひょうばんの　うみ
-しばらく　まえまでは　なにもないのに\xfffeまよう　ばしょとして　しられていた
-きせつが　うつろい　かわる\xfffeけしきを　たのしめる　うみぞいのみち
-のどかな　ムードの　みちでは\xfffeトレーナーたちが　うでを　きそいあう
-おおくの　くさむらと　いけによって\xfffeまがりくねった　ながい　どうろ
-いせきが　はっくつされて\xfffeかいはつこうじは　ちゅうしされた
-パフォーマーが　あつまり　にぎやかな\xfffeふんいきで　つつまれている　どうろ
-ゆたかな　きぎが　おいしげり\xfffeしぜんの　みりょく　あふれる　どうろ
-ながい　くさむらに　はいらなくても\xfffeすすめるよう　いっぽんばしが　ある
-あめが　おおく　ぬかるんだ\xfffeしっちのなかには　ポケモンが　ひそむ
-ほそうされた　どうろが　はしりやすく\xfffeバイクを　あいするものが　あつまる
-ショッピングモール
-うでじまんが　つどい　きそいあう\xfffeバッジチェックのもんに　つづく　みち
-せいりゅうが　どうろないを　めぐり\xfffeうつくしい　けしきが　うまれた　みち
-あるくだけで　たのしくなってしまう\xfffeなだらかな　おかが　つらなる　ばしょ
-うみの　うえを　つらぬく　すなはまが\xfffeめいぶつの　みずぎわの　みち
-たきから　おちた　みずが　まい\xfffeきりが　たちこめる　どうろ
-きりたった　がけが　あるく　ものの\xfffeこころを　さわがせる　どうろ
-ライモンシティに　おとずれた　ひとが\xfffeきゅうけいに　くることが　おおい
+A rural town whose sea breezes give\xfffethe sense of something coming.
+Juniper Pokémon Lab
+This town offers great views\xfffedue to its many hills.
+Pokémon Center
+Entry stairs built in memory of a\xfffeformer home in a snowier climate.
+Striaton City Gym
+Pokémon Center
+Trainers' School
+Fennel's Lab
+A city established in restored\xfffestorehouses built 100 years ago.
+Nacrene City Gym
+Pokémon Center
+Nacrene Museum
+Café Warehouse
+A big city with skyscrapers\xfffepiercing the clouds.
+Castelia City Gym
+Pokémon Center
+Passerby Analytics
+Name-Rating Services
+Pokémon Massage
+Royal Unova
+A bustling city of entertainment,\xfffewith many theme parks.
+Nimbasa City Gym
+Pokémon Center
+Musical Theater
+Battle Subway
+Big Stadium
+Small Court
+A port town distributing many goods,\xfffeand a gateway to the Unova region.
+Driftveil City Gym
+Pokémon Center
+Driftveil Market
+Move Tutor's House
+Vegetables are grown by the runway\xfffeand transported by cargo plane.
+Mistralton City Gym
+Pokémon Center
+Move Family's House
+Cargo Service
+In winter, the city is covered with\xfffesnow as far as the eye can see.
+Icirrus City Gym
+Pokémon Center
+Pokémon Fan Club
+A city that respects history\xfffeand values old things.
+A convenient city of rapid change,\xfffeshowing no traces of the past.
+Opelucid City Gym
+Pokémon Center
+Battle House
+Only Trainers who win at all the\xfffePokémon Gyms may challenge it.
+Pokémon Center
+A town where all honor old customs,\xfffeliving as methodically as clockwork.
+Pokémon Center
+A summer retreat with a beach full of\xfffepeople who enjoy summer vacations.
+Pokémon Center
+A city with a rail yard where\xfffetrains park for an overhaul.
+A modern city of ongoing development\xfffethat draws people to it.
+Pokémon Center
+A place of nature's bounty, it\xfffeattracts people who long for nature.
+Pokémon Center
+A skyscraper where people from\xfffeall over the world can communicate.
+A facility to study Pokémon\xfffefrom faraway regions.
+A plant site used as a playground\xfffefor children and Pokémon.
+You can go through hollows\xfffeof fallen trees, too.
+It is a popular place for tourists,\xfffebut too harsh to be a resort.
+Ancient ruins with a glorious history,\xfffeburied in the sand as time went by.
+A lot of collected products are\xfffestored at a constant temperature.
+A cave where electrically charged\xfffestones float.
+It has a reputation as a mine\xfffelittered with valuable ore.
+The oldest tower in the Unova\xffferegion. No one knows its history.
+These steep slopes are the last\xfffeobstacle before the Pokémon League!
+Legend says if you approach this\xfffebig chasm, disasters surely follow.
+An island symbol of hope for a world\xfffewhere humans and Pokémon live free.
+Team Plasma's secret lab is located\xfffeon a quiet little island.
+This underwater pool grew from\xffferainwater soaking into the ground.
+A forgotten cave sealed with\xfffehints of a legend's presence.
+A tall tower with a large bell whose\xfffetones are said to purify the spirit.
+They say water collecting in hollows\xfffeon the flat land created the moor.
+People once lived in this village, and\xfffeit still feels the same as it did then.
+A world-famous sea of shining waves.
+A mysterious forest where people get\xfffelost despite the simple landscape.
+A small road by the shore, where you\xfffecan enjoy the seascape in peace.
+A pastoral road where novice\xfffeTrainers can challenge one another.
+A long and winding road with lots\xfffeof ponds and tall grass.
+A sandstorm delayed the road\xfffeconstruction to connect two cities.
+A busy road where\xfffeperformers gather.
+A road with many trees\xfffefor nature lovers.
+Raised walkways help you\xfffeavoid the tall grass.
+It rains a lot here, and the marshy\xfffeswamp holds many Pokémon.
+This paved road attracts\xfffethose who love bikes.
+Shopping Mall Nine
+A road leading to the Badge Check\xfffeGates, chock full of showoffs.
+Limpid streams carved beautiful\xfffescenery on this road.
+A place of fun, where it's enjoyable\xfffejust walking over its gentle hills.
+This seaside route is famous for\xfffesand bars that cross the ocean.
+A road covered with mist from\xfffethe waterfalls.
+A road whose sharp cliffs may scare\xfffesome people off.
+Many who visit Nimbasa City\xfffedrop by to take a break.
 ちけいの　かんけいで　きゅうりゅうが\xfffeはっせいし　じゆうに　すすめない
 リゾートデザートと　じつづきだったと\xfffeしてきする　けんきゅうしゃも　いる
 ４ほんの　はしらで　ささえられた\xfffeイッシュさいだい　さいちょうの　はし

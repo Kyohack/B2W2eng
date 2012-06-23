@@ -1,21 +1,21 @@
-Ｘボタン
-ＳＥＬＥＣＴ
-Ｂボタン
-らくがきツールを　つかう
-がぞうを　とめる
-らくがきを　やめる
-ペンサイズを　へんこう
-いろを　スポイト
-けしゴムに　へんこう
-らくがきツールを　とじる
-スタンプ
-らくがきモード
-ＲＥＣ
+X BUTTON
+SELECT
+B BUTTON
+Use the graffiti marker
+Freeze frame
+Quit graffiti mode
+Change pen size
+Select color with the dropper
+Use as an eraser
+Close the graffiti marker
+Stamps
+GRAFFITI MODE
+REC
 らくがき
-ＩＤ\xf000Ȅ\x0001\x0000
+ID\xf000Ȅ\x0001\x0000
 ―／―
 \xf000Ȁ\x0001\x0000／４
-ともだちを　えらんでください
+Please select your friend(s).
 ともだちを　よびだす
 さんかする
 ともだちを　よびだしちゅう！

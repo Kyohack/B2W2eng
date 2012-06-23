@@ -1,2 +1,2 @@
-モンスターボールを　つかうまえに\xfffeたいりょくを　へらすと　いいよ！
-ベル　は\xfffeモンスターボールを　つかった！
+Use a Poké Ball after\xfffelowering its HP!
+Bianca\xfffea Poké Ball!

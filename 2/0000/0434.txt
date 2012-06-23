@@ -1,9 +1,9 @@
-なし
-ちゅうおう
-きょくとう
-ほくせい
-エンボルガ
-シベリア
-みなみ
-ウラル
-きたカフカース
+None
+Central Federal District
+Far Eastern Federal District
+Northwestern Federal District
+Volga Federal District
+Siberian Federal District
+Southern Federal District
+Urals Federal District
+North Caucasian Federal District

@@ -1,63 +1,63 @@
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-Item
-Nature
-Ability
+もちもの
+せいかく
+とくせい
 \xf000ċ\x0001\x0000
-BOX １
-BOX ２
-BOX ３
-BOX ４
-BOX ５
-BOX ６
-BOX ７
-BOX ８
-BOX ９
-BOX １０
-BOX １１
-BOX １２
-BOX １３
-BOX １４
-BOX １５
-BOX １６
-BOX １７
-BOX １８
-BOX １９
-BOX ２０
-BOX ２１
-BOX ２２
-BOX ２３
-BOX ２４
+BOX 1
+BOX 2
+BOX 3
+BOX 4
+BOX 5
+BOX 6
+BOX 7
+BOX 8
+BOX 9
+BOX 10
+BOX 11
+BOX 12
+BOX 13
+BOX 14
+BOX 15
+BOX 16
+BOX 17
+BOX 18
+BOX 19
+BOX 20
+BOX 21
+BOX 22
+BOX 23
+BOX 24
 \xf000ȁ\x0001\x0000
-ジャンプする
-かべがみ
-なまえ
-やめる
-ふうけい１
-ふうけい２
-ふうけい３
-エトセトラ
+SWITCH BOX
+WALLPAPER
+NAME
+CANCEL
+SCENERY 1
+SCENERY 2
+SCENERY 3
+MISC.
 だいすき１
 だいすき２
-もり
-シティ
-さばく
-サバンナ
-いわやま
-かざん
-ゆきやま
-どうくつ
-うみべ
-かいてい
-かわ
-そら
-ポケセン
-きんぞく
-チェック
-シンプル
-スペシャル
+FOREST
+CITY
+DESERT
+SAVANNA
+CRAG
+VOLCANO
+SNOW
+CAVE
+BEACH
+SEAFLOOR
+RIVER
+SKY
+POKÉ CENTER
+MACHINE
+CHECKS
+SIMPLE
+SPECIAL
 モノクロ
-プラズマだん
+TEAM PLASMA
 ポケウッド
 ＰＷＴ
 キュレム１
@@ -73,7 +73,7 @@ BOX ２４
 ボックスをきりかえる
 もちものせいり
 ようすをみる
-Item
+もちもの
 マーキング
 にがす
 つれていく
@@ -90,33 +90,33 @@ Item
 ボックスを\xfffeきりかえる
 かべがみを\xfffeはりかえる
 ポケモンを\xfffeあずける
-バッグへ
-もたせる
-いどうする
+Bag
+Give
+Move
 ♂
 ♀
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-Nature
-Ability
-Item
+せいかく
+とくせい
+もちもの
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-なし
-？？？
-Ｌｖ．
-Ｎｏ．
-もっているわざ
-はい
-いいえ
+None
+???
+Lv.
+No.
+Moves Learned
+Yes
+No
 ボックスを　せいりする
 バトルボックス
 ポケモンを　しぼりこむ
 じょうけんを　えらび　ＯＮに　すると\xfffeしぼりこみを　おこないます。
 ポケモンの　なまえの\xfffeかしらもじを　えらんでください。
-Choose a Pokémon.\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xfffe\xf000\xff00\x0001\x0000タイプ１：　\xf000ă\x0001\x0001\xfffeタイプ２：　\xf000ă\x0001\x0002
-Choose a Pokémon.\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xf000\xff00\x0001\x0000\xfffeタイプ１：　\xf000ă\x0001\x0001\xfffeタイプ２：　ーーーー
+ポケモンを　えらんでください。\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xfffe\xf000\xff00\x0001\x0000タイプ１：　\xf000ă\x0001\x0001\xfffeタイプ２：　\xf000ă\x0001\x0002
+ポケモンを　えらんでください。\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xf000\xff00\x0001\x0000\xfffeタイプ１：　\xf000ă\x0001\x0001\xfffeタイプ２：　ーーーー
 ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　　\xf000\xff00\x0001\x0002がんばりや\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
 ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002さみしがり\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeぼうぎょが　せいちょう　しにくい。
 ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002ゆうかん\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeすばやさが　せいちょう　しにくい。
@@ -148,10 +148,10 @@ Choose a Pokémon.\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0
 ポケモンの　もちものに　ついて\xfffeえらんでください。
 ポケモンの　マーキングについて\xfffeえらんでください。
 \xf000봂\x0000なまえ
-\xf000봂\x0000Nature
-\xf000봂\x0000Ability
+\xf000봂\x0000せいかく
+\xf000봂\x0000とくせい
 \xf000봂\x0000せいべつ
-\xf000봂\x0000Item
+\xf000봂\x0000もちもの
 \xf000봂\x0000マーク
 ア
 イ
@@ -200,6 +200,6 @@ Choose a Pokémon.\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0
 ー
 ♂
 ♀
-せいべつなし
-もっている
-もっていない
+Nature
+Ability
+Item

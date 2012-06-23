@@ -1,7 +1,7 @@
-Ｃギアの　でんげんを　いれて\xfffeつうしんを　はじめますか？
+Turn on the C-Gear and\xfffeestablish communications?
 オンのときは　ＤＳの　ふたを　とじても\xfffeスリープ　じょうたいに　なりません\xfffeのこりでんちに　ごちゅうい　ください
-Ｃギアの　でんげんを　きって\xfffeつうしんを　せつだん　しますか？
+Will you turn C-Gear off to stop\xfffecommunications?
 \xf000\xff00\x0001\x0001ちゅうい！\xf000\xff00\x0001\x0000\xfffeひこうきや　びょういんなど\xfffeむせんつうしんを　きんしに　している\xfffeばしょでは　Ｃギアの　でんげんをきって\xfffeつうしんを　せつだん　してください
-Ｃギアの　でんげんを　オンにできません\xfffeほんたいの　むせんつうしんが\xfffeオフに　なっています\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
-はい
-いいえ
+C-Gear cannot be turned on.\xfffeWireless communications are turned OFF.\xfffeTurn wireless communications ON in the System Settings.\xfffeError code: 50699
+Yes
+No

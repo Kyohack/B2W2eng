@@ -1,165 +1,165 @@
-ホウエン　チャンプリボン
-シンオウ　チャンプリボン
-クールリボン
-クールリボンスーパー
-クールリボンハイパー
-クールリボンマスター
-ビューティリボン
-ビューティリボンスーパー
-ビューティリボンハイパー
-ビューティリボンマスター
-キュートリボン
-キュートリボンスーパー
-キュートリボンハイパー
-キュートリボンマスター
-ジーニアスリボン
-ジーニアスリボンスーパー
-ジーニアスリボンハイパー
-ジーニアスリボンマスター
-パワフルリボン
-パワフルリボンスーパー
-パワフルリボンハイパー
-パワフルリボンマスター
-クールリボン
-クールリボングレート
-クールリボンウルトラ
-クールリボンマスター
-ビューティリボン
-ビューティリボングレート
-ビューティリボンウルトラ
-ビューティリボンマスター
-キュートリボン
-キュートリボングレート
-キュートリボンウルトラ
-キュートリボンマスター
-ジーニアスリボン
-ジーニアスリボングレート
-ジーニアスリボンウルトラ
-ジーニアスリボンマスター
-パワフルリボン
-パワフルリボングレート
-パワフルリボンウルトラ
-パワフルリボンマスター
-ウイニングリボン
-ビクトリーリボン
-アビリティリボン
-グレートアビリティリボン
-ダブルアビリティリボン
-マルチアビリティリボン
-ペアアビリティリボン
-ワールドアビリティリボン
-ブロマイドリボン
-がんばリボン
-しゃっきリボン
-どっきリボン
-しょんぼリボン
-うっかリボン
-すっきリボン
-ぐっすリボン
-にっこリボン
-ゴージャスリボン
-ロイヤルリボン
-ゴージャスロイヤルリボン
-あしあとリボン
-レコードリボン
-レジェンドリボン
-カントリーリボン
-ナショナルリボン
-アースリボン
-ワールドリボン
-クラシックリボン
-プレミアリボン
-イベントリボン
-バースデーリボン
-スペシャルリボン
-メモリアルリボン
-ウィッシュリボン
-バトルチャンプリボン
-エリアチャンプリボン
-ナショナルチャンプリボン
-ワールドチャンプリボン
-べつちほうの　リーグで　かちぬき\xfffeでんどういり　した　きねんリボン
-シンオウで　チャンピオンに　かって\xfffeでんどういり　した　きねんリボン
-ホウエンちほう　かっこよさコンテスト\xfffeノーマルランク　ゆうしょう！
-ホウエンちほう　かっこよさコンテスト\xfffeスーパーランク　ゆうしょう！
-ホウエンちほう　かっこよさコンテスト\xfffeハイパーランク　ゆうしょう！
-ホウエンちほう　かっこよさコンテスト\xfffeマスターランク　ゆうしょう！
-ホウエンちほう　うつくしさコンテスト\xfffeノーマルランク　ゆうしょう！
-ホウエンちほう　うつくしさコンテスト\xfffeスーパーランク　ゆうしょう！
-ホウエンちほう　うつくしさコンテスト\xfffeハイパーランク　ゆうしょう！
-ホウエンちほう　うつくしさコンテスト\xfffeマスターランク　ゆうしょう！
-ホウエンちほう　かわいさコンテスト\xfffeノーマルランク　ゆうしょう！
-ホウエンちほう　かわいさコンテスト\xfffeスーパーランク　ゆうしょう！
-ホウエンちほう　かわいさコンテスト\xfffeハイパーランク　ゆうしょう！
-ホウエンちほう　かわいさコンテスト\xfffeマスターランク　ゆうしょう！
-ホウエンちほう　かしこさコンテスト\xfffeノーマルランク　ゆうしょう！
-ホウエンちほう　かしこさコンテスト\xfffeスーパーランク　ゆうしょう！
-ホウエンちほう　かしこさコンテスト\xfffeハイパーランク　ゆうしょう！
-ホウエンちほう　かしこさコンテスト\xfffeマスターランク　ゆうしょう！
-ホウエンちほう　たくましさコンテスト\xfffeノーマルランク　ゆうしょう！
-ホウエンちほう　たくましさコンテスト\xfffeスーパーランク　ゆうしょう！
-ホウエンちほう　たくましさコンテスト\xfffeハイパーランク　ゆうしょう！
-ホウエンちほう　たくましさコンテスト\xfffeマスターランク　ゆうしょう！
-スーパーコンテスト　かっこよさ　ぶもん\xfffeノーマルランク　ゆうしょう！
-スーパーコンテスト　かっこよさ　ぶもん\xfffeグレートランク　ゆうしょう！
-スーパーコンテスト　かっこよさ　ぶもん\xfffeウルトラランク　ゆうしょう！
-スーパーコンテスト　かっこよさ　ぶもん\xfffeマスターランク　ゆうしょう！
-スーパーコンテスト　うつくしさ　ぶもん\xfffeノーマルランク　ゆうしょう！
-スーパーコンテスト　うつくしさ　ぶもん\xfffeグレートランク　ゆうしょう！
-スーパーコンテスト　うつくしさ　ぶもん\xfffeウルトラランク　ゆうしょう！
-スーパーコンテスト　うつくしさ　ぶもん\xfffeマスターランク　ゆうしょう！
-スーパーコンテスト　かわいさ　ぶもん\xfffeノーマルランク　ゆうしょう！
-スーパーコンテスト　かわいさ　ぶもん\xfffeグレートランク　ゆうしょう！
-スーパーコンテスト　かわいさ　ぶもん\xfffeウルトラランク　ゆうしょう！
-スーパーコンテスト　かわいさ　ぶもん\xfffeマスターランク　ゆうしょう！
-スーパーコンテスト　かしこさ　ぶもん\xfffeノーマルランク　ゆうしょう！
-スーパーコンテスト　かしこさ　ぶもん\xfffeグレートランク　ゆうしょう！
-スーパーコンテスト　かしこさ　ぶもん\xfffeウルトラランク　ゆうしょう！
-スーパーコンテスト　かしこさ　ぶもん\xfffeマスターランク　ゆうしょう！
-スーパーコンテスト　たくましさ　ぶもん\xfffeノーマルランク　ゆうしょう！
-スーパーコンテスト　たくましさ　ぶもん\xfffeグレートランク　ゆうしょう！
-スーパーコンテスト　たくましさ　ぶもん\xfffeウルトラランク　ゆうしょう！
-スーパーコンテスト　たくましさ　ぶもん\xfffeマスターランク　ゆうしょう！
-ホウエンの　バトルタワー　レベル５０を\xfffeかちぬいた　きねんの　リボン
-ホウエンの　バトルタワー　レベル１００を\xfffeかちぬいた　きねんの　リボン
-バトルタワーで　タワータイクーンに\xfffeしょうりした　きねんの　リボン
-バトルタワーで　タワータイクーンに\xfffeしょうりした　きねんの　リボン
-バトルタワー　ダブルを\xfffeかちぬいた　きねんの　リボン
-バトルタワー　マルチを\xfffeかちぬいた　きねんの　リボン
-バトルタワー　つうしんマルチを\xfffeかちぬいた　きねんの　リボン
-Ｗｉ－Ｆｉバトルタワーを\xfffeかちぬいた　きねんの　リボン
-ホウエンで　ごうかな　にがおえの\xfffeモデルになった　きねんの　リボン
-たくさん　どりょく　している\xfffeポケモンに　おくられる　リボン
-しゃっきりする　できごとを　おもいだして\xfffeじんせいの　エネルギーとなる　リボン
-どきどきした　ことがらを　おもいだして\xfffeじんせいを　わくわくさせてくれる　リボン
-しょんぼりした　きもちを　おもいだして\xfffeじんせいの　スパイスとなる　リボン
-うっかりした　しっぱいを　おもいだして\xfffeじんせいの　エッセンスとなる　リボン
-すっきりした　けいけんを　おもいだして\xfffeじんせいを　リフレッシュさせる　リボン
-ぐっすり　ねむったことを　おもいだして\xfffeじんせいの　やすらぎとなる　リボン
-にっこり　ほほえむことを　おもいだして\xfffeじんせいを　ゆたかにしてくれる　リボン
-このうえなく　ゴージャスで\xfffeきらびやかな　かんじの　リボン
-とてつもなく　ロイヤルで\xfffeけだかい　かんじのする　リボン
-これいじょう　すばらしいものは　ない\xfffeゴージャスで　ロイヤルな　リボン
-さいこうの　あしあとを　もつ\xfffeポケモンが　もらえる　リボン
-ものすごい　きろくを　のこした\xfffeきねんの　リボン
-でんせつてき　きろくを　のこした\xfffeきねんの　リボン
-ポケモンリーグ\xfffeゆうしょう　きねんリボン
-すべての　こんなんを\xfffeのりこえた　きねんリボン
-１００にんぬき　たっせい\xfffeきねんリボン
-ポケモンリーグ\xfffeゆうしょう　きねんリボン
-ポケモンが　だいすきな　ことを\xfffeしょうめいする　きねんリボン
-きねんび　きねんリボン
-ポケモンの　イベントに\xfffeさんかした　きねんリボン
-おたんじょうび　きねん　リボン
-とくべつな　ひの　とくべつな　リボン
-とくべつな　おもいでを　きねんする　リボン
-ねがいが　かなうと　いわれている　リボン
-バトルたいかい　ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeエリアたいかい　ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeこくないたいかい　ゆうしょうきねんリボン
-ポケモンワールドチャンピオンシップス\xfffeせかいたいかい　ゆうしょうきねんリボン
-リーグリボン\xf000ȁ\x0001\x0000
-コンテストリボン\xf000ȁ\x0001\x0000
-タワーリボン\xf000ȁ\x0001\x0000
-メモリーリボン\xf000ȁ\x0001\x0000
-プレゼントリボン\xf000ȁ\x0001\x0000
+Champion Ribbon
+Sinnoh Champ Ribbon
+Cool Ribbon
+Cool Ribbon Super
+Cool Ribbon Hyper
+Cool Ribbon Master
+Beauty Ribbon
+Beauty Ribbon Super
+Beauty Ribbon Hyper
+Beauty Ribbon Master
+Cute Ribbon
+Cute Ribbon Super
+Cute Ribbon Hyper
+Cute Ribbon Master
+Smart Ribbon
+Smart Ribbon Super
+Smart Ribbon Hyper
+Smart Ribbon Master
+Tough Ribbon
+Tough Ribbon Super
+Tough Ribbon Hyper
+Tough Ribbon Master
+Cool Ribbon
+Cool Ribbon Great
+Cool Ribbon Ultra
+Cool Ribbon Master
+Beauty Ribbon
+Beauty Ribbon Great
+Beauty Ribbon Ultra
+Beauty Ribbon Master
+Cute Ribbon
+Cute Ribbon Great
+Cute Ribbon Ultra
+Cute Ribbon Master
+Smart Ribbon
+Smart Ribbon Great
+Smart Ribbon Ultra
+Smart Ribbon Master
+Tough Ribbon
+Tough Ribbon Great
+Tough Ribbon Ultra
+Tough Ribbon Master
+Winning Ribbon
+Victory Ribbon
+Ability Ribbon
+Great Ability Ribbon
+Double Ability Ribbon
+Multi Ability Ribbon
+Pair Ability Ribbon
+World Ability Ribbon
+Artist Ribbon
+Effort Ribbon
+Alert Ribbon
+Shock Ribbon
+Downcast Ribbon
+Careless Ribbon
+Relax Ribbon
+Snooze Ribbon
+Smile Ribbon
+Gorgeous Ribbon
+Royal Ribbon
+Gorgeous Royal Ribbon
+Footprint Ribbon
+Record Ribbon
+Legend Ribbon
+Country Ribbon
+National Ribbon
+Earth Ribbon
+World Ribbon
+Classic Ribbon
+Premier Ribbon
+Event Ribbon
+Birthday Ribbon
+Special Ribbon
+Souvenir Ribbon
+Wishing Ribbon
+Battle Champion Ribbon
+Regional Champion Ribbon
+National Champion Ribbon
+World Champion Ribbon
+Ribbon for clearing the Pokémon League and\xfffeentering the Hall of Fame in another region.
+Ribbon awarded for beating the Sinnoh\xfffeChampion and entering the Hall of Fame.
+Hoenn Cool Contest\xfffeNormal Rank winner!
+Hoenn Cool Contest\xfffeSuper Rank winner!
+Hoenn Cool Contest\xfffeHyper Rank winner!
+Hoenn Cool Contest\xfffeMaster Rank winner!
+Hoenn Beauty Contest\xfffeNormal Rank winner!
+Hoenn Beauty Contest\xfffeSuper Rank winner!
+Hoenn Beauty Contest\xfffeHyper Rank winner!
+Hoenn Beauty Contest\xfffeMaster Rank winner!
+Hoenn Cute Contest\xfffeNormal Rank winner!
+Hoenn Cute Contest\xfffeSuper Rank winner!
+Hoenn Cute Contest\xfffeHyper Rank winner!
+Hoenn Cute Contest\xfffeMaster Rank winner!
+Hoenn Smart Contest\xfffeNormal Rank winner!
+Hoenn Smart Contest\xfffeSuper Rank winner!
+Hoenn Smart Contest\xfffeHyper Rank winner!
+Hoenn Smart Contest\xfffeMaster Rank winner!
+Hoenn Tough Contest\xfffeNormal Rank winner!
+Hoenn Tough Contest\xfffeSuper Rank winner!
+Hoenn Tough Contest\xfffeHyper Rank winner!
+Hoenn Tough Contest\xfffeMaster Rank winner!
+Super Contest Cool Category\xfffeNormal Rank winner!
+Super Contest Cool Category\xfffeGreat Rank winner!
+Super Contest Cool Category\xfffeUltra Rank winner!
+Super Contest Cool Category\xfffeMaster Rank winner!
+Super Contest Beauty Category\xfffeNormal Rank winner!
+Super Contest Beauty Category\xfffeGreat Rank winner!
+Super Contest Beauty Category\xfffeUltra Rank winner!
+Super Contest Beauty Category\xfffeMaster Rank winner!
+Super Contest Cute Category\xfffeNormal Rank winner!
+Super Contest Cute Category\xfffeGreat Rank winner!
+Super Contest Cute Category\xfffeUltra Rank winner!
+Super Contest Cute Category\xfffeMaster Rank winner!
+Super Contest Smart Category\xfffeNormal Rank winner!
+Super Contest Smart Category\xfffeGreat Rank winner!
+Super Contest Smart Category\xfffeUltra Rank winner!
+Super Contest Smart Category\xfffeMaster Rank winner!
+Super Contest Tough Category\xfffeNormal Rank winner!
+Super Contest Tough Category\xfffeGreat Rank winner!
+Super Contest Tough Category\xfffeUltra Rank winner!
+Super Contest Tough Category\xfffeMaster Rank winner!
+Ribbon awarded for clearing Hoenn's\xfffeBattle Tower's Lv. 50 challenge.
+Ribbon awarded for clearing Hoenn's\xfffeBattle Tower's Lv. 100 challenge.
+A Ribbon awarded for defeating the\xfffeTower Tycoon at the Battle Tower.
+A Ribbon awarded for defeating the\xfffeTower Tycoon at the Battle Tower.
+A Ribbon awarded for completing the\xfffeBattle Tower Double challenge.
+A Ribbon awarded for completing the\xfffeBattle Tower Multi challenge.
+A Ribbon awarded for completing the\xfffeBattle Tower Link Multi challenge.
+A Ribbon awarded for completing the\xfffeWi-Fi Battle Tower challenge.
+Ribbon awarded for being chosen as\xfffea super sketch model in Hoenn.
+Ribbon awarded for being an\xfffeexceptionally hard worker.
+A Ribbon for recalling an invigorating\xfffeevent that created life energy.
+A Ribbon for recalling a thrilling\xfffeevent that made life more exciting.
+A Ribbon for recalling feelings of\xfffesadness that added spice to life.
+A Ribbon for recalling a careless error\xfffethat helped steer life decisions.
+A Ribbon for recalling a refreshing\xfffeevent that added sparkle to life.
+A Ribbon for recalling a deep\xfffeslumber that made life soothing.
+A Ribbon for recalling that smiles\xfffeenrich the quality of life.
+An extraordinarily gorgeous and\xfffeextravagant Ribbon.
+An incredibly regal Ribbon with an\xfffeair of nobility.
+A gorgeous and regal Ribbon that\xfffeis the peak of fabulous.
+A Ribbon awarded to a Pokémon deemed\xfffeto have a top-quality footprint.
+A Ribbon awarded for setting an\xfffeincredible record.
+A Ribbon awarded for setting a\xfffelegendary record.
+Pokémon League\xfffeChampion Ribbon
+A Ribbon awarded for overcoming all\xfffedifficult challenges.
+A Ribbon awarded for winning 100\xfffematches in a row.
+Pokémon League\xfffeChampion Ribbon
+A Ribbon that proclaims love for\xfffePokémon.
+Special Holiday Ribbon
+Pokémon Event\xfffeParticipation Ribbon
+A Ribbon to celebrate a birthday.
+A special Ribbon for a special day.
+A Ribbon to cherish a special memory.
+A Ribbon said to make your wish come true.
+Battle Competition\xfffeChampion Ribbon
+Pokémon World Championships\xfffeRegional Champion Ribbon
+Pokémon World Championships\xfffeNational Champion Ribbon
+Pokémon World Championships\xfffeWorld Champion Ribbon
+League Ribbon\xf000ȁ\x0001\x0000
+Contest Ribbon\xf000ȁ\x0001\x0000
+Tower Ribbon\xf000ȁ\x0001\x0000
+Memorial Ribbon\xf000ȁ\x0001\x0000
+Gift Ribbon\xf000ȁ\x0001\x0000

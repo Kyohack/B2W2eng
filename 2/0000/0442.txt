@@ -1,20 +1,20 @@
 
-うまれてから　しばらくの　あいだは\xfffeせなかの　タネから　えいようを\xfffeもらって　おおきく　そだつ。
-せなかの　つぼみが　ふくらみだすと\xfffeあまい　においが　ただよいはじめる。\xfffeたいりんの　はなが　さく　まえぶれ。
-あめの　ふった　よくじつは　せなかの\xfffeはなの　かおりが　つよまる。かおりに\xfffeさそわれ　ポケモンが　あつまる。
-ヒトカゲの　しっぽの　ほのおは\xfffeいのちの　ともしび。げんきな　ときは\xfffeほのおも　ちからづよく　もえあがる。
-リザードが　くらす　いわやまを\xfffeよなかに　みあげると　しっぽの\xfffeほのおが　ほしのように　みえる。
-くるしい　たたかいを　けいけんした\xfffeリザードンほど　ほのおの　おんどが\xfffeたかくなると　いわれている。
-こうらに　とじこもり　みを　まもる。\xfffeあいての　すきを　みのがさず\xfffeみずを　ふきだして　はんげきする。
-いちまんねんの　じゅみょうを　もつと\xfffeいわれている。ふさふさの　しっぽは\xfffeながいきの　シンボルとして　にんき。
-こうらの　ロケットほうから　ふきだす\xfffeすいりゅうは　ぶあつい　てっぱんも\xfffeいっぱつで　つらぬく　はかいりょく。
-あかい　しょっかくから　においを\xfffeだして　てきを　おいはらう。\xfffeだっぴを　くりかえし　おおきくなる。
-こうてつのように　かたい　カラで\xfffeやわらかい　なかみを　まもっている。\xfffeしんかするまで　じっと　たえている。
-はなの　ミツが　だいこうぶつ。\xfffeわずかな　かふんで　はなばたけの\xfffeばしょを　さがしだすことが　できる。
-まいにち　じぶんと　おなじ　おもさの\xfffeはっぱを　たべる。あたまの　ハリで\xfffeおそってきた　てきを　げきたい。
-てんてきに　みつからないように\xfffeはっぱの　うらや　えだの　すきまに\xfffeかくれて　しんかの　ときを　まつ。
-こうそくで　とびまわり　どくバリで\xfffeこうげきしたあと　すぐに　とびさる\xfffeせんぽうが　とくいわざだ。
-たたかいを　このまない　おとなしい\xfffeせいかくだが　へたに　てを　だすと\xfffeきょうれつに　はんげきされるぞ。
+For some time after its birth, it\xfffegrows by gaining nourishment from\xfffethe seed on its back.
+When the bud on its back starts\xfffeswelling, a sweet aroma wafts to\xfffeindicate the flower's coming bloom.
+After a rainy day, the flower on\xfffeits back smells stronger. The\xfffescent attracts other Pokémon.
+The fire on the tip of its tail is a\xfffemeasure of its life. If healthy,\xfffeits tail burns intensely.
+In the rocky mountains where\xfffeCHARMELEON live, their fiery\xfffetails shine at night like stars.
+It is said that CHARIZARD's fire\xfffeburns hotter if it has\xfffeexperienced harsh battles.
+It shelters itself in its shell,\xfffethen strikes back with spouts of\xfffewater at every opportunity.
+It is said to live 10,000 years.\xfffeIts furry tail is popular as a\xfffesymbol of longevity.
+The jets of water it spouts from\xfffethe rocket cannons on its shell\xfffecan punch through thick steel.
+It releases a stench from its red\xfffeantenna to repel enemies. It\xfffegrows by molting repeatedly.
+A steel-hard shell protects its\xfffetender body. It quietly endures\xfffehardships while awaiting evolution.
+It loves the honey of flowers and\xfffecan locate flower patches that\xfffehave even tiny amounts of pollen.
+It eats its weight in leaves every\xfffeday. It fends off attackers with\xfffethe needle on its head.
+While awaiting evolution, it\xfffehides from predators under\xfffeleaves and in nooks of branches.
+Its best attack involves flying\xfffearound at high speed, striking with\xfffepoison needles, then flying off.
+It is docile and prefers to avoid\xfffeconflict. If disturbed, however,\xfffeit can ferociously strike back.
 ひろい　なわばりを　とびまわりながら\xfffeえものを　さがす。はったつした\xfffeあしの　ツメで　えものを　しとめる。
 ピジョットが　ちからいっぱい\xfffeはばたくと　たいぼくも　しなるほどの\xfffeきょうふうを　まきおこす。
 １にちじゅう　エサを　さがしている。\xfffeキバは　しぬまで　のびつづけるので\xfffeかたいものを　かじって　けずる。
@@ -727,7 +727,7 @@
 うしなった　からだを　しんじつと\xfffeりそうで　うめてくれる　えいゆうを\xfffeまつ　こおりの　でんせつポケモン。
 かくごを　きめることで　ぜんしんに\xfffeちからが　みなぎって　すばやくなり\xfffeとびはねると　ざんぞうが　みえる。
 メロエッタの　かなでる　せんりつは\xfffeまわりの　ポケモンを　よろこばせたり\xfffeかなしませるほどの　パワーがある。
-３おくねんまえに　いた　ポケモン。\xfffeプラズマだんに　かいぞう　され\xfffeせなかに　ほうだいを　つけられた。
-３おくねんまえに　いた　ポケモン。\xfffeプラズマだんに　かいぞう　され\xfffeせなかに　ほうだいを　つけられた。
-３おくねんまえに　いた　ポケモン。\xfffeプラズマだんに　かいぞう　され\xfffeせなかに　ほうだいを　つけられた。
-３おくねんまえに　いた　ポケモン。\xfffeプラズマだんに　かいぞう　され\xfffeせなかに　ほうだいを　つけられた。
+Over 300 million years ago, it was feared\xfffeas the strongest of hunters.\xfffeIt has been modified by Team Plasma.
+Over 300 million years ago, it was feared\xfffeas the strongest of hunters.\xfffeIt has been modified by Team Plasma.
+Over 300 million years ago, it was feared\xfffeas the strongest of hunters.\xfffeIt has been modified by Team Plasma.
+Over 300 million years ago, it was feared\xfffeas the strongest of hunters.\xfffeIt has been modified by Team Plasma.

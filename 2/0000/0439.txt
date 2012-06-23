@@ -1,69 +1,69 @@
-Ｗｉ－Ｆｉコネクションに\xfffeせつぞく　できません\xfffe\xfffeくわしくは　ガイドブックを\xfffeごらん　ください\xfffe（\xf000Ȅ\x0001\x0000）
-Ｗｉ－Ｆｉコネクションが\xfffeこみあっている　か\xfffeサービスが\xfffeていし　しているために\xfffeせつぞく　できません\xfffeしばらく　まって\xfffeやりなおして　ください\xfffe（\xf000Ȅ\x0001\x0000）
-おきゃくさま　の\xfffeＷｉ－ＦｉコネクションＩＤは\xfffeながい　あいだ\xfffeしよう　されなかったため\xfffeさくじょ　されました\xfffe\xfffeくわしくは　ガイドブックを\xfffeごらん　ください（\xf000Ȅ\x0001\x0000）
-この　ソフトの\xfffeＷｉ－Ｆｉコネクション　サービスは\xfffeしゅうりょう　しました\xfffe\xfffeごりよう　ありがとう　ございました\xfffe（\xf000Ȅ\x0001\x0000）
-アクセスポイントが\xfffeこみあっている　ため\xfffeせつぞく　できません\xfffe\xfffeしばらく　まって\xfffeやりなおして　ください\xfffe（\xf000Ȅ\x0001\x0000）
-アクセスポイントが\xfffeみつかりません\xfffe\xfffeアクセスポイントに　ちかづいて\xfffeもういちど　おためし　ください\xfffe（\xf000Ȅ\x0001\x0000）
-せつぞく　できる\xfffeアクセスポイント　が\xfffeみつかりません\xfffe\xfffeＷｉ－Ｆｉコネクションせってい　で\xfffeせつぞくさきの　せっていを\xfffeごかくにん　ください\xfffe（\xf000Ȅ\x0001\x0000）
-ニンテンドーＷｉ－Ｆｉコネクタ　に\xfffeせつぞく　できません\xfffe\xfffeＷｉ－Ｆｉコネクションせってい　で\xfffeニンテンドーＷｉ－Ｆｉコネクタ　の\xfffeせつぞく　を　ごかくにん　ください\xfffe（\xf000Ȅ\x0001\x0000）
-Ｗｉ－Ｆｉコネクション　に\xfffeせつぞく　できません\xfffe\xfffeＷｉ－Ｆｉコネクションせってい　で\xfffeせつぞくさきの　せっていを\xfffeごかくにん　ください\xfffe（\xf000Ȅ\x0001\x0000）
-あいてからの\xfffeおうとうが　ありません\xfffeすでに　あいてが\xfffeＷｉ－Ｆｉコネクション　に\xfffeせつぞく　していない　か\xfffeあいての　ともだちてちょう　から\xfffeとうろくが　なくなった\xfffeかのうせいが　あります（\xf000Ȅ\x0001\x0000）
-つうしんエラーに　よって\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　されました\xfffe（\xf000Ȅ\x0001\x0000）
-つうしんエラーが\xfffeはっせい　しました　（\xf000Ȅ\x0001\x0000)
-ダウンロードに　しっぱい　しました\xfffe（\xf000Ȅ\x0001\x0000）
-つうしんエラー　に　よって\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　されました
-つうしんエラーが\xfffeはっせい　しました
-エラーが　はっせいした　ため\xfffeＷｉ－Ｆｉコネクションの\xfffeきのうを　しよう　できません\xfffeでんげんを　きって\xfffeやりなおして　ください\xfffe（\xf000Ȅ\x0001\x0000）
-ほんたい　の\xfffeＷｉ－Ｆｉユーザーじょうほう　が\xfffeきえた　かのうせい　が　あります\xfffe\xfffeＷｉ－Ｆｉコネクションせってい　で\xfffeせつぞくさきの　せってい　を\xfffeごかくにん　ください
-Ｗｉ－Ｆｉコネクションに\xfffeせつぞく　しますか？
-Ｗｉ－Ｆｉコネクション　では\xfffeＤＳカードと　ほんたいを\xfffeセットで　あつかいます\xfffeＤＳカードに　ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう　を\xfffeほぞん　して\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく　しますか？
-この　ほんたい　の\xfffeＷｉ－Ｆｉユーザーじょうほう　を\xfffeＤＳカードに　ほぞん　しました\xfffe\xfffeこんごの　Ｗｉ－Ｆｉコネクションへの\xfffeせつぞく　は\xfffeこの　ほんたいを\xfffeおつかい　ください
-ほんたいと　ＤＳカードの\xfffeＷｉ－Ｆｉユーザーじょうほう　が\xfffeちがうため\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく　できません
-ＤＳカードに　ほぞん　されている\xfffeＷｉ－Ｆｉユーザーじょうほう　を\xfffeこうしん　しますか？\xfffeＷｉ－Ｆｉユーザーじょうほう　を\xfffeこうしん　すると\xfffeＷｉ－Ｆｉコネクションで\xfffeこれまで　おつかいに　なっていた\xfffeデータは　うしなわれてしまいます
-Ｗｉ－Ｆｉコネクションに　せつぞくして\xfffeＷｉ－Ｆｉユーザーじょうほうを\xfffeこうしん　します。ほんとうに\xfffeこうしん　しても　よろしいですか？\xfffeちゅうい！　ともだちてちょうに\xfffeとうろくした　ともだち　すべてと\xfffeランダムマッチの　レーティングモードの\xfffeせいせきが　きえて　しまいます
-Ｗｉ－Ｆｉコネクションに　せつぞく\xfffeしています。しばらく　おまち　ください
-おつかいの　なまえ　では\xfffeＷｉ－Ｆｉコネクションを\xfffeりよう　できません\xfffe\xfffeなまえを　へんこう　して\xfffeせつぞく　しなおして　ください
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しています
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しました\xf000븂\x0001d
-はい
-いいえ
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-もうしこみを　ちゅうだん　しています\xfffeしばらく　おまちください
-Ｗｉ－Ｆｉコネクションの\xfffeせっていを　おこなうには\xfffeほんたいせっていの\xfffeインターネットの　こうもくまで\xfffeいどうして　ください
-Ｗｉ－Ｆｉひろばで　つうしんエラーが\xfffeはっせい　しました\xfffe（\xf000Ȅ\x0001\x0000）
-りようきやく　に\xfffeどういする　ひつようが　あります\xfffeほんたいせっていで　りようきやく　に\xfffeどういして　ください\xfffe（５０５９９）
-\xf000봂\x0000Ｗｉ－Ｆｉコネクションへ　せつぞく
-\xf000봂\x0000Ｗｉ－Ｆｉコネクションから　せつだん
-つうしんエラー　に　よって\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　されました\xfffe\xfffeもういちど　\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく　しますか？
-ほんとうに　こうしん　しても\xfffeよろしいですか？\xfffe\xfffeちゅうい\xfffeいま　とうろく　している\xfffeＷｉ－Ｆｉたいかいは\xfffeさんかが　かいじょに　なります
-ほんたいの　むせんつうしんが\xfffeオフに　なっています\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください\xfffe（５０６９９）
-あいてとの　せつぞくが\xfffeせつだん　されました
-つうしんエラーが　はっせいしました\xfffeでんげんを　きってください
-ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう　が\xfffeきえた　かのうせい　が　あります\xfffe\xfffeほんたい　せっていの\xfffeインターネットの　せってい　で\xfffeせつぞくさきの　せってい　を\xfffeごかくにん　ください
-Ｗｉ－Ｆｉコネクションでは\xfffeセーブデータと　ほんたいを\xfffeセットで　あつかいます\xfffeセーブデータに　ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう　を\xfffeほぞん　して\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく　しますか？
-この　ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう　を\xfffeセーブデータに\xfffeほぞん　しました\xfffeこんごの　Ｗｉ－Ｆｉコネクションへの\xfffeせつぞくは\xfffeこの　ほんたいを\xfffeおつかい　ください
-ほんたいと　セーブデータの\xfffeＷｉ－Ｆｉユーザーじょうほう　が\xfffeちがうため\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく　できません
-セーブデータに　ほぞん　されている\xfffeＷｉ－Ｆｉユーザーじょうほう　を\xfffeこうしん　しますか？\xfffeＷｉ－Ｆｉユーザーじょうほう　を\xfffeこうしん　すると\xfffeＷｉ－Ｆｉコネクションで\xfffeこれまで　おつかいに　なっていた\xfffeデータは　うしなわれてしまいます
-Ｗｉ－Ｆｉコネクションに\xfffeせつぞく　できません\xfffeくわしくは　ほんたいの\xfffeとりあつかい　せつめいしょを\xfffeごらんください\xfffe（\xf000Ȅ\x0001\x0000）
-おきゃくさまの\xfffeＷｉ－ＦｉコネクションＩＤは\xfffeながい　あいだ\xfffeしよう　されなかったため\xfffeさくじょ　されました\xfffeくわしくは　ほんたいの\xfffeとりあつかい　せつめいしょを\xfffeごらんください（\xf000Ȅ\x0001\x0000）
-せつぞく　できる\xfffeアクセスポイントが　みつかりません\xfffeほんたいせっていの\xfffeインターネットの　せっていで\xfffeせつぞくさきの　せっていを\xfffeごかくにん　ください\xfffe（\xf000Ȅ\x0001\x0000）
-Ｗｉ－Ｆｉコネクションに\xfffeせつぞく　できません\xfffeほんたいせっていの\xfffeインターネットの　せっていで\xfffeせつぞくさきの　せっていを\xfffeごかくにん　ください\xfffe（\xf000Ȅ\x0001\x0000）
-エラーが　はっせい　したため、\xfffeＷｉ－Ｆｉコネクションの\xfffeきのうを　しようできません\xfffeリセットして\xfffeやりなおしてください\xfffe（\xf000Ȅ\x0001\x0000）
-サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０１）
-サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０２）
-つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０３）
-つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０４）
-サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０５）
-ごりようの　サービスは\xfffeしゅうりょう　いたしました\xfffe（エラーコード：１３２０６）
-つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０７）
-サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０８）
-つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０９）
-サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２１０）
-サーバーが　こんざつ　しています\xfffeせつぞく　に　しっぱいしました\xfffeじかんを　おいて　さいど\xfffeおためしください\xfffe（エラーコード：１３２１１）
-サーバーは　げんざい\xfffeメンテナンスちゅうです\xfffeメンテナンスの　しょうさいは\xfffeポケモングローバルリンクの\xfffeウェブサイトをごらんください\xfffehttp://www.pokemon-gl.com/\xfffe（エラーコード：１３２１２）
-エラーが　はっせいしました\xfffeせつだんしています
-つうしんエラーが　はっせいしました\xfffe（エラーコード：１３２８０）
-つうしんエラーが　はっせいしました\xfffe（エラーコード：１３２８１）
-つうしんエラーが　はっせいしました\xfffe（エラーコード：１３２８２）
-つうしんエラーが　はっせいしました\xfffe（エラーコード：１３２８３）
+Unable to connect to Nintendo\xfffeWi-Fi Connection.\xfffe\xfffeFor help, check the software\xfffeInstruction Booklet or visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+Either Nintendo Wi-Fi Connection\xfffeis experiencing high traffic\xfffevolumes or the service is down.\xfffePlease try again later. \xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+This Nintendo Wi-Fi Connection ID\xfffewas removed because it was\xfffeinactive for a long time. \xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+Nintendo Wi-Fi Connection service\xfffefor this software has been discontinued.\xfffe\xfffeVisit support.nintendo.com for a list \xfffeof current Nintendo Wi-Fi \xfffeConnection-compatible software. \xfffeError code: \xf000Ȅ\x0001\x0000
+The access point is busy.\xfffeUnable to connect.\xfffePlease try again later.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+No access point in range.\xfffePlease try again when closer to\xfffean access point.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+No compatible access point in\xffferange. Check your connection \xfffesettings and try again. \xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+Unable to connect to the Nintendo\xfffeWi-Fi USB Connector. Check your\xfffeconnection settings in the\xfffeNintendo Wi-Fi Connection setup.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+Unable to connect to Nintendo \xfffeWi-Fi Connection. Check \xfffeyour connection settings and \xfffetry again.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+There is no response.\xfffe\xfffeEither the player has been\xfffedisconnected or you have\xfffebeen removed from the\xfffeplayer's Pal Pad.\xfffe\xfffeError code: \xf000Ȅ\x0001\x0000
+Communication error.\xfffeYou have been disconnected from\xfffeNintendo Wi-Fi Connection.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffe\xfffeError code: \xf000Ȅ\x0001\x0000
+Communication error.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffe\xfffeError code: \xf000Ȅ\x0001\x0000
+Download failed.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffe\xfffeError code: \xf000Ȅ\x0001\x0000
+Communication error.\xfffeYou have been disconnected from\xfffeNintendo Wi-Fi Connection.
+Communication error...
+Nintendo Wi-Fi Connection cannot be\xfffeused because an error has occurred.\xfffeTurn off the power and try again.\xfffeError code: \xf000Ȅ\x0001\x0000
+Your Wi-Fi User Information may have been\xfffeerased.\xfffe\xfffeCheck your connection settings with the\xfffeNintendo Wi-Fi Connection setup.\xfffe\xfffeFor help, visit support.nintendo.com.
+Connect to Nintendo Wi-Fi Connection?
+Nintendo Wi-Fi Connection treats your\xfffeNintendo DS Game Card and the system\xfffeas a set.\xfffe\xfffeSave this system's Wi-Fi User Information\xfffeto this Game Card and connect\xfffeto Nintendo Wi-Fi Connection?
+Wi-Fi User Information for this\xfffesystem has been saved to the Game Card.\xfffe\xfffeFrom now on, please use this system\xfffeto connect to Nintendo Wi-Fi Connection.
+Unable to connect to\xfffeNintendo Wi-Fi Connection\xfffebecause the Wi-Fi User\xfffeInformation from the system \xfffeand the Game Card do not match.
+Update Wi-Fi User Information\xfffesaved in the save data?\xfffeWhen you update your\xfffeWi-Fi User Information, you will\xfffelose all data that was used to\xfffeconnect to Nintendo Wi-Fi Connection.
+Connect to Nintendo Wi-Fi Connection\xfffeto update Wi-Fi User Information?\xfffe\xfffeWarning:\xfffeAll of the friends registered in your\xfffePal Pad and the Rating Mode results\xfffefor Random Matchup will be deleted.
+Connecting to Nintendo Wi-Fi\xfffeConnection... Please wait a moment...
+
+OK to disconnect from\xfffeNintendo Wi-Fi Connection?
+Disconnecting from\xfffeNintendo Wi-Fi Connection.
+You have been disconnected\xfffefrom Nintendo Wi-Fi Connection.\xf000븂\x0001d
+Yes
+No
+Saving...\xfffeDon't turn off the power.
+
+Please configure your connection settings\xfffeunder the Internet option\xfffein the System Settings.\xfffe\xfffeFor help, visit support.nintendo.com.
+
+To use this feature, you must accept\xfffethe terms of the Nintendo DSi\xfffeNetwork Services Agreement\xfffein the System Settings.\xfffe\xfffeError code: 50599
+\xf000봂\x0000Connect to Nintendo WFC
+\xf000봂\x0000Disconnect from Nintendo WFC
+Disconnected from Nintendo Wi-Fi Connection\xfffedue to communication error.\xfffe\xfffeWould you like to reconnect to\xfffeNintendo Wi-Fi Connection?
+Are you sure you want to update\xfffeWi-Fi User Information?\xfffe\xfffeWarning:\xfffeYou will be unregistered from the\xfffeWi-Fi Competition you've registered.
+Wireless communications\xfffeare turned OFF. Turn \xfffewireless communications\xfffeON in the System Settings.\xfffe\xfffeError code: 50699
+The connection with the other person\xfffehas been lost.
+Communication error.\xfffePlease turn off the power.
+Your Wi-Fi User Information\xfffemay have been erased.\xfffeCheck your connection settings\xfffeunder the Internet option in the\xfffeSystem Settings.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.
+Nintendo Wi-Fi Connection treats your\xfffesave data and Nintendo DSi system\xfffeas a set.\xfffeSave this Nintendo DSi system's\xfffeWi-Fi User Information to this save data\xfffeand connect to Nintendo Wi-Fi Connection?
+Wi-Fi User Information for this\xfffeNintendo DSi system has been\xfffesaved to the save data.\xfffeFrom now on, please use this\xfffeNintendo DSi system to connect to\xfffeNintendo Wi-Fi Connection.
+Unable to connect to\xfffeNintendo Wi-Fi Connection\xfffebecause the Wi-Fi User Information\xfffefrom the Nintendo DSi system and\xfffethe save data do not match. 
+Update Wi-Fi User Information\xfffesaved in the save data?\xfffeWhen you update your\xfffeWi-Fi User Information, you will\xfffelose all data that was used to\xfffeconnect to Nintendo Wi-Fi Connection.
+Unable to connect to\xfffeNintendo Wi-Fi Connection.\xfffe\xfffeFor details, check the\xfffeNintendo DSi Operations Manual\xfffeor visit support.nintendo.com.\xfffe\xfffeError code: \xf000Ȅ\x0001\x0000
+This Nintendo Wi-Fi Connection ID \xfffewas removed because it was\xfffeinactive for a long time.\xfffe\xfffeFor help, check the Nintendo DSi \xfffeOperations Manual or \xfffevisit support.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+No compatible access point in range. \xfffe\xfffeCheck your connection settings \xfffeunder the Internet option \xfffein the System Settings and try again.\xfffe\xfffeFor help, visit support.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+Unable to connect \xfffeto Nintendo Wi-Fi Connection.\xfffe\xfffeCheck your settings under the Internet \xfffeoption in the System Settings and try again.\xfffe\xfffeFor help, visit support.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
+Nintendo Wi-Fi Connection cannot be used\xfffebecause an error has occurred.\xfffeReset the system and try again.\xfffeError code: \xf000Ȅ\x0001\x0000
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13201
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13202
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13203
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13204
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13205
+This service has been discontinued.\xfffe\xfffeError Code: 13206
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13207
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13208
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13209
+
+The server is experiencing high\xfffetraffic volumes.\xfffeUnable to connect.\xfffePlease wait a little while and try again.\xfffe\xfffeError Code: 13211
+The server is undergoing maintenance.\xfffeYou can review the details at the\xfffePokémon Global Link website.\xfffehttp://www.pokemon-gl.com\xfffe\xfffeError Code: 13212
+Communication error.\xfffe\xfffeDisconnecting from \xfffeNintendo Wi-Fi Connection.
+Communication error.\xfffeFor help, visit support.nintendo.com.\xfffeError code: 13280
+Communication error.\xfffeFor help, visit support.nintendo.com.\xfffeError code: 13281
+Communication error.\xfffeFor help, visit support.nintendo.com.\xfffeError code: 13282
+Communication error.\xfffeFor help, visit support.nintendo.com.\xfffeError code: 13283

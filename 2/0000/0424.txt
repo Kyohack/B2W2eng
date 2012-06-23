@@ -1,17 +1,17 @@
-なし
-バーデン＝ビュルテンベルク
-バイエルン
-ベルリン
-ブランデンブルク
-ブレーメン
-ハンブルク
-ヘッセン
-メクレンブルク・フォアポメルン
-ニーダーザクセン
-ノルトライン・ベストファーレン
-ラインラント・プファルツ
-ザールラント
-ザクセン
-ザクセン・アンハルト
-シュレスビヒ・ホルシュタイン
-チューリンゲン
+None
+Baden-Württemberg
+Bayern
+Berlin
+Brandenburg
+Bremen
+Hamburg
+Hesse
+Mecklenburg-West Pomerania
+Lower Saxony
+North Rhine-Westphalia
+Rhineland-Palatinate
+Saarland
+Saxony
+Saxony-Anhalt
+Schleswig-Holstein
+Thuringia

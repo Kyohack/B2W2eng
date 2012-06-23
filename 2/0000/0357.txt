@@ -1,7 +1,7 @@
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-マルチバトル
-シューターバトル
+SINGLE BATTLE
+DOUBLE BATTLE
+TRIPLE BATTLE
+ROTATION BATTLE
+MULTI BATTLE
+LAUNCHER BATTLE
 デバッグバトル

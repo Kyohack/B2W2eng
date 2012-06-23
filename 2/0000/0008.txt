@@ -1,22 +1,22 @@
-バトルビデオ
-バトルサブウェイ
-ランダムマッチ
-やめる
-もどる
-じぶんのきろく
-だれかのきろく
-きろくをけす
-\xf000봂\x0000\xf000Ā\x0001\x0000　のきろく
-あき
+BATTLE VIDEOS
+BATTLE SUBWAY
+RANDOM MATCHUP
+CANCEL
+QUIT
+MY VIDEO
+OTHER VIDEOS
+DELETE VIDEOS
+\xf000봂\x0000\xf000Ā\x0001\x0000'S VIDEO
+EMPTY
 \xf000ȃ\x0001\x0000
-せんめ
-\xf000봂\x0000ビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
-\xf000봂\x0000ビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
-\xf000봂\x0000\xf000Ā\x0001\x0000　の　プロフィール
+Battle
+\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
+\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
+\xf000봂\x0000\xf000Ā\x0001\x0000'S PROFILE
 ねんれい
-\xf000봂\x0000\xf000ȁ\x0001\x0000がつうまれ
-\xf000봂\x0000すんでいるばしょ
-\xf000봂\x0000じこしょうかい
+\xf000봂\x0000\xf000ȁ\x0001\x0000Born in 
+\xf000봂\x0000Location
+\xf000봂\x0000Trainer's quote
 データ
 プロフィール
 
@@ -24,25 +24,25 @@
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 \xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000　のきろく
-じぶんのきろくをけす
-だれかのきろくをけす
+\xf000Ā\x0001\x0000'S VIDEO
+DELETE MY VIDEO
+DELETE OTHER VIDEOS
 あき
 \xf000Ā\x0001\x0000　のきろくをけす
 ランキングでさがす
 データをおくる
-さいしん３０けん
-くわしくさがす
-ナンバーでさがす
-しせつでさがす
-ポケモンでさがす
-おなじちいきでさがす
-つうしんたいせん
-バトルサブウェイ
-しゃしんをおくる
-しゃしんをみる
-おくる
-みたいポケモンを　えらんでください
+NEWEST 30
+SEARCH
+SEARCH BY NO.
+SEARCH BY FACILITY
+SEARCH BY POKÉMON
+SEARCH YOUR LOCATION
+LINK BATTLES
+BATTLE SUBWAY
+SEND PHOTO
+VIEW PHOTOS
+SEND
+Please choose the Pokémon you want to see.
 \xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 しゃしん

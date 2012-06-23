@@ -1,21 +1,21 @@
-\xf000봂\x0000ちょうさレーダー
-\xf000봂\x0000すれちがった　みんなのいけんを\xfffe\xf000봂\x0000ちょうさすることが　できます
-\xf000봂\x0000ちょうさを　きめる
-\xf000봂\x0000ちょうさを　みる
-\xf000봂\x0000－ちょうさ　ないよう－
-\xf000봂\x0000したの　こうもくから　ちょうさしたい\xfffe\xf000봂\x0000ないようを　１つ　えらんでください
-この　ないようを\xfffeちょうさ　しますか？
-けってい
-やめる
-\xf000봂\x0000ちょうさを　かいしします！
-\xf000봂\x0000まだ　ちょうさ\xfffe\xf000봂\x0000できていません
-\xf000봂\x0000……かいせきちゅう……
-\xf000봂\x0000－ちょうさほうこく－
-\xf000봃\x0001\x000a\xf000ȁ\x0001\x0000ばん：\xf000Ā\x0001\x0001\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0002にん\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0003％
-\xf000봃\x0001\x000aじぶんは\xfffe\xf000봃\x0001\x000a\xf000Ā\x0001\x0000
-\xf000봃\x0001\x000aきょうのにんずう\xfffe\xf000봃\x0001\x000a\xf000ȃ\x0001\x0000にん
-\xf000봃\x0001ひょうじモード：\xfffe\xf000봃\x0001\x0008きょうのにんずう
-\xf000봃\x0001\x000aごうけいにんずう\xfffe\xf000봃\x0001\x000a\xf000ȅ\x0001\x0000にん
-\xf000봃\x0001ひょうじモード：\xfffe\xf000봃\x0001\x0008ごうけいにんずう
-\xf000봃\x0001Dデータ\xfffe\xf000봃\x0001\x0014こうしんちゅう
-\xf000봂\x0000このちょうさを　みる
+\xf000봂\x0000 - SURVEY RADAR -
+\xf000봂\x0000You can poll the opinions\xfffe\xf000봂\x0000of people near you.
+\xf000봂\x0000SELECT A SURVEY
+\xf000봂\x0000CHECK SURVEY RESULTS
+\xf000봂\x0000 - THINGS TO FIND OUT -
+\xf000봂\x0000Choose from the items below\xfffe\xf000봂\x0000to start the survey.
+Do you want to ask \xfffepeople about this item?
+CONFIRM
+CANCEL
+\xf000봂\x0000The survey is starting.
+\xf000봂\x0000The survey is\xfffe\xf000봂\x0000not done yet.
+\xf000봂\x0000Analyzing the results...
+\xf000봂\x0000- SURVEY REPORT -
+\xf000봃\x0001\x000aNo. \xf000ȁ\x0001\x0000: \xf000ē\x0001\x0001\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0002 Ppl.\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0003%
+\xf000봃\x0001\x000aMy answer is\xfffe\xf000봃\x0001\x000a\xf000ē\x0001\x0000
+\xf000봃\x0001\x000aTotal met today\xfffe\xf000봃\x0001\x000a\xf000ȃ\x0001\x0000 Ppl.
+\xf000봃\x0001\x0008Display Mode:\xfffe\xf000봃\x0001\x0008People from today
+\xf000봃\x0001\x000aTotal number\xfffe\xf000봃\x0001\x000a\xf000ȅ\x0001\x0000 Ppl.
+\xf000봃\x0001\x0008Display Mode:\xfffe\xf000봃\x0001\x0008Total No. of people
+\xf000봄\x0001\x0000Updating\xfffe\xf000봄\x0001\x0000data...
+\xf000봂\x0000Check the survey results

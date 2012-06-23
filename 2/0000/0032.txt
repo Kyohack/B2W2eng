@@ -3,8 +3,8 @@ TEXT SPEED
 BATTLE SCENE
 BATTLE STYLE
 SOUND
-ENGLISH
-Wi-Fi
+CHARACTERS
+むせん
 SAVE BEFORE IR
 CONFIRM
 QUIT
@@ -16,22 +16,22 @@ OFF
 SHIFT
 SET
 STEREO
-MONO
-YES
-NO
-ON
-OFF
+モノラル
+ひらがな
+かんじ
+オン
+オフ
 SAVE
 NO SAVE
 You can choose from three different\xfffetext-scrolling speeds.
-You can choose whether to view\xfffemove animations.
 You can choose to switch Pokémon\xfffewhen an opponent's Pokémon faints.
-You can choose the way the game sounds.
-You can choose which language\xfffethe game is played in.
-You can choose to always have\xfffewireless communications turned On/Off.
-You can choose to save the game\xfffebefore C-Gear launches infrared.
-べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
-えらんだ　せっていに　かえますか？
+しょうぶの　ルールを\xfffeえらぶことが　できます
+ゲームの　おとを\xfffeえらぶことが　できます
+もじの　ひょうじを\xfffeきりかえることが　できます
+いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
+You can choose to save the game\xfffeebefore C-Gear launches infrared.
+You have saved data already.\xfffeYou cannot change this option.\xf000븁\x0000
+Would you like to make these changes?
 Yes
 No
-Dummy message
+ダミーメッセージ

@@ -1,9 +1,9 @@
 たいりょく
 Attack
 Defense
-Speed
+すばやさ
 Sp. Atk
 Sp. Def
 めいちゅうりつ
 かいひりつ
-さいだいＨＰ
+Max HP

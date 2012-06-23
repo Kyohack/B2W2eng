@@ -1,21 +1,21 @@
-なまえ
-しごと
-しゅみ
-プレイじかん
+NAME:
+WORK:
+HOBBY:
+TIME:
 \xf000ļ\x0001\x0000
 \xf000ļ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-しゅっしん
+FROM:
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-おれいをうけた　かいすう\xfffeすれちがった　にんずう
+Number of times thanked:\xfffeNumber of people passed by:
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000かい\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001にん
 \xf000Ȅ\x0001\x0001にん
 \xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
 すれちがったじかん　ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
 すれちがったじかん　ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-やせいの　\xf000ā\x0001\x0000と\xfffeせんとうちゅう　です
-とくべつな　ポケモンと\xfffeせんとうちゅう　です
+Battling　\xf000ā\x0001\x0000a\xfffewild
+Battling a\xfffespecial Pokémon
 \xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffeたいせんちゅう　です
-ジムリーダーと\xfffeたいせんちゅう　です
-とくべつな　トレーナーと\xfffeたいせんちゅう　です
+Battling a Gym Leader
+Battling a special Trainer
 \xf000ą\x0001\x0000を\xfffeいどうちゅう　です

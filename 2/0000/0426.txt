@@ -1,7 +1,7 @@
-なし
-オーランド
-ラップランド
-ひがしフィンランド
-みなみフィンランド
-オウル
-にしフィンランド
+None
+Åland Islands
+Lapland
+East Finland
+South Finland
+Oulu
+West Finland

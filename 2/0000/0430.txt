@@ -1,21 +1,21 @@
-なし
-アブルッツォ
-バジリカータ
-カラブリア
-カンパニア
-エミリア・ロマーニャ
-フリウリ・ベネツィア・ジュリア
-ラツィオ
-リグーリア
-ロンバルディア
-マルケ
-モリーゼ
-ピエモンテ
-プーリア
-サルデーニャ
-シチリア
-トスカーナ
-トレンティーノ・アルト・アディジェ
-ウンブリア
-バッレ・ダオスタ
-ベネト
+None
+Abruzzo
+Basilicata
+Calabria
+Campania
+Emilia-Romagna
+Friuli-Venezia Giulia
+Lazio
+Liguria
+Lombardy
+Marche
+Molise
+Piedmont
+Apulia
+Sardinia
+Sicily
+Tuscany
+Trentino-Alto Adige
+Umbria
+Valle d'Aosta
+Veneto

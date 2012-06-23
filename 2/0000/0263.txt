@@ -1,49 +1,49 @@
-そうぐうパワー　＋
-そうぐうパワー　＋＋
-そうぐうパワー　＋＋＋
-そうぐうパワー　ー
-そうぐうパワー　ーー
-そうぐうパワー　ーーー
-タマゴふかパワー　＋
-タマゴふかパワー　＋＋
-タマゴふかパワー　＋＋＋
-なつきパワー　＋
-なつきパワー　＋＋
-なつきパワー　＋＋＋
-やすうりパワー　＋
-やすうりパワー　＋＋
-やすうりパワー　＋＋＋
-HPかいふくパワー　＋
-HPかいふくパワー　＋＋
-HPかいふくパワー　＋＋＋
-PPかいふくパワー　＋
-PPかいふくパワー　＋＋
-PPかいふくパワー　＋＋＋
-けいけんちパワー　＋
-けいけんちパワー　＋＋
-けいけんちパワー　＋＋＋
-けいけんちパワー　ー
-けいけんちパワー　ーー
-けいけんちパワー　ーーー
-おこづかいパワー　＋
-おこづかいパワー　＋＋
-おこづかいパワー　＋＋＋
-ほかくパワー　＋
-ほかくパワー　＋＋
-ほかくパワー　＋＋＋
-タマゴふかパワー　Ｓ
-やすうりパワー　Ｓ
-なつきパワー　Ｓ
-けいけんちパワー　Ｓ
-おこづかいパワー　Ｓ
-ほかくパワー　Ｓ
-ぜんかいパワー
-タマゴふかパワー　ＭＡＸ
-やすうりパワー　ＭＡＸ
-なつきパワー　ＭＡＸ
-けいけんちパワー　ＭＡＸ
-おこづかいパワー　ＭＡＸ
-ほかくパワー　ＭＡＸ
+Encounter Power ↑
+Encounter Power ↑↑
+Encounter Power ↑↑↑
+Encounter Power ↓
+Encounter Power ↓↓
+Encounter Power ↓↓↓
+Hatching Power ↑
+Hatching Power ↑↑
+Hatching Power ↑↑↑
+Befriending Power ↑
+Befriending Power ↑↑
+Befriending Power ↑↑↑
+Bargain Power ↑
+Bargain Power ↑↑
+Bargain Power ↑↑↑
+HP Restoring Power ↑
+HP Restoring Power ↑↑
+HP Restoring Power ↑↑↑
+PP Restoring Power ↑
+PP Restoring Power ↑↑
+PP Restoring Power ↑↑↑
+Exp. Point Power ↑
+Exp. Point Power ↑↑
+Exp. Point Power ↑↑↑
+Exp. Point Power ↓
+Exp. Point Power ↓↓
+Exp. Point Power ↓↓↓
+Prize Money Power ↑
+Prize Money Power ↑↑
+Prize Money Power ↑↑↑
+Capture Power ↑
+Capture Power ↑↑
+Capture Power ↑↑↑
+Hatching Power S
+Bargain Power S
+Befriending Power S
+Exp. Point Power S
+Prize Money Power S
+Capture Power S
+Full Recovery Power
+Hatching Power MAX
+Bargain Power MAX
+Befriending Power MAX
+Exp. Point Power MAX
+Prize Money Power MAX
+Capture Power MAX
 むこう　１
 むこう　２
 むこう　ID NULL

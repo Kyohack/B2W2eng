@@ -1,11 +1,11 @@
-\xf000봂\x0000だれでも　こうかん
-\xf000봂\x0000まちあわせ　こうかん
-こうかんきぼう
-レベル
-Ｌｖ．１からＬｖ．４９
-Ｌｖ．５０
-Ｌｖ．５１からＬｖ．１００
-なんでも
+\xf000봂\x0000TRADE WITH ANYONE
+\xf000봂\x0000TRADE RENDEZVOUS
+TRADE WANTED
+LEVEL
+Lv. 1 through Lv. 49
+Lv. 50
+Lv. 51 through Lv. 100
+Any kind
 かっこいい
 かわいい
 こわい

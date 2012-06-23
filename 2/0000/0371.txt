@@ -1,16 +1,16 @@
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-Ｗｉ－Ｆｉせってい
-バトルたいかい
-ゲームシンクせってい
-てんそうマシンを　つかう
-マイクテスト
+CONTINUE
+NEW GAME
+MYSTERY GIFT
+NINTENDO WFC SETTINGS
+BATTLE COMPETITION
+GAME SYNC SETTINGS
+RELOCATOR
+MIC TEST
 イッシュリンク
 しゅじんこう
-プレイじかん　\xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-ずかん　\xf000Ȃ\x0001\x0000ひき
-バッジ　\xf000ȁ\x0001\x0000こ
+Time: \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
+Pokédex: \xf000Ȃ\x0001\x0000ひき
+Badges: \xf000ȁ\x0001\x0000こ
 \xf000Ā\x0001\x0000
 \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
 \xf000Ȃ\x0001\x0000ひき
@@ -28,22 +28,22 @@
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）
 ペアレンタルコントロールの\xfffeつうしんせいげん
 イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
-ちゅうい！
-つうしんを　はじめると\xfffeこのゲームを　さいだいげん　たのしめます\xfffeつねに　つうしんを　おこないますので\xfffeひこうきや　びょういんなど\xfffeむせんつうしんが　きんしの　ばしょでは\xfffeつうしんを　せつだんしてください\xfffeゲームちゅうの　Ｃギアがめんでも\xfffeへんこう　することが　できます
-ちゅうい！
-べつの　レポートが　かかれています\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを\xfffeかくことが　できません！\xfffeそれでも　はじめますか？
-Ａボタン　ぼうけんを　はじめる
-Ｂボタン　やめる
-つうしんを　はじめますか？
-Ｃギアの　きのうが\xfffeせいげんされますが　よろしいですか？
-レポートの　ないようが\xfffeきえてしまった！
-きえて　しまった　バトルビデオの\xfffeきろくが　あります！
-Ｃギアの　スキンデータが\xfffeきえてしまった！
-とくべつな　バトルけんていの\xfffeデータが　きえてしまった！
-ミュージカルの　えんもくデータが\xfffeきえてしまった！
-ずかんの　スキンデータが\xfffeきえてしまった！
-でんどういりポケモンの\xfffeきろくが　きえてしまった！
-ふしぎな　おくりものの\xfffeきろくが　きえてしまった！
+Warning!
+You can enjoy this game to its fullest when\xfffewireless communications are available.\xfffeWhere it's prohibited to use wireless\xfffecommunications, such as airplanes and\xfffehospitals, please set wireless\xfffecommunications to OFF.\xfffeYou can also change this setting\xfffeusing the C-Gear while playing the game.
+Warning!
+There's already a saved\xfffegame file. If you start an adventure now,\xfffeyou won't be able to save it.\xfffeAre you sure you want to start anyway?
+A Button: Begin adventure
+B Button: Return to the menu
+Launch C-Gear communications?
+Some functions of the C-Gear\xfffewill be restricted. Is that OK?
+The save file will be erased\xfffedue to corruption or damage.
+A Battle Video appears to have been\xfffeerased.
+The Skin data for C-Gear\xfffehas been erased.
+The special data for Battle Test\xfffehas been erased.
+The Musical music data\xfffehas been erased.
+The Skin data for Pokédex\xfffehas been erased.
+Your Hall of Fame data\xfffehas been erased.
+Your Mystery Gift data\xfffehas been erased.
 きえてしまった　ポケウッドの\xfffeきろくが　あります！
 キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
 きえて　しまった　ＰＷＴの\xfffeきろくが　あります！

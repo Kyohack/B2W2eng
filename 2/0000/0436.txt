@@ -1,240 +1,240 @@
-なし
-アフガニスタン
-アルバニア
-アルジェリア
-アメリカりょうサモア
-アンドラ
-アンゴラ
-アンギラ
-アンティグア・\xfffeバーブーダ
-アルゼンチン
-アルメニア
-アルバ
-オーストラリア
-オーストリア
-アゼルバイジャン
-バハマ
-バーレーン
-バングラデシュ
-バルバドス
-ベラルーシ
-ベルギー
-ベリーズ
-ベナン
-バミューダ
-ブータン
-ボリビア
-ボスニア・\xfffeヘルツェゴビナ
-ボツワナ
-ブラジル
-イギリスりょう\xfffeバージンしょとう
-ブルネイ
-ブルガリア
-ブルキナファソ
-ブルンジ
-カンボジア
-カメルーン
-カナダ
-カーボベルデ
-ケイマンしょとう
-ちゅうおうアフリカ
-チャド
-チャネルしょとう
-チリ
-ちゅうごく
-クリスマスとう
-コロンビア
-コモロ
-コンゴきょうわこく
-クックしょとう
-コスタリカ
-コートジボワール
-クロアチア
-キューバ
-キプロス
-チェコ
-きたちょうせん
-コンゴ\xfffeみんしゅきょうわこく
-ひがしティモール
-デンマーク
-ジブチ
-ドミニカ
-ドミニカきょうわこく
-エクアドル
-エジプト
-エルサルバドル
-せきどうギニア
-エリトリア
-エストニア
-エチオピア
-フォークランド\xfffe(マルビナス)しょとう
-フェローしょとう
-フィジーしょとう
-フィンランド
-フランス
-フランスりょうギアナ
-フランスりょう\xfffeポリネシア
-ガボン
-ガンビア
-グルジア
-ドイツ
-ガーナ
-ジブラルタル
-ギリシャ
-グリーンランド
-グレナダ
-グアドループとう
-グアム
-グアテマラ
-ギニア
-ギニアビサウ
-ガイアナ
-ハイチ
-ホンジュラス
-ハンガリー
-アイスランド
-インド
-インドネシア
-イラン
-イラク
-アイルランド
-マンとう
-イスラエル
-イタリア
-ジャマイカ
-スバールバル・\xfffeヤンマンエンとう
-にほん
-ヨルダン
-カシミール
-カザフスタン
-ケニア
-キリバス
-クウェート
-キルギス
-ラオス
-ラトビア
-レバノン
-レソト
-リベリア
-リビア
-リヒテンシュタイン
-リトアニア
-ルクセンブルク
-マケドニアきゅう\xfffeユーゴスラビア
-マダガスカル
-マラウイ
-マレーシア
-モルディブ
-マリ
-マルタ
-マーシャルしょとう
-マルチニーク
-モーリタニア
-モーリシャス
-マヨット
-メキシコ
-ミクロネシア
-モナコ
-モンゴル
-モンテネグロ
-モロッコ
-モザンビーク
-ミャンマー
-ナミビア
-ナウル
-ネパール
-オランダ
-オランダりょう\xfffeアンティル
-ニューカレドニア
-ニュージーランド
-ニカラグア
-ニジェール
-ナイジェリア
-ニウエ
-ノーフォークとう
-きたマリアナしょとう
-ノルウェー
-オマーン
-パキスタン
-パラオ
-パレスチナじちく
-パナマ
-パプアニューギニア
-パラグアイ
-ペルー
-フィリピン
-ピトケアン
-ポーランド
-ポルトガル
-プエルトリコ
-カタール
-かんこく
-モルドバ
-レユニオン
-ルーマニア
-ロシア
-ルワンダ
-セントヘレナとう
-セントクリストファー・\xfffeネービス
-セントルシア
-セントビンセント・\xfffeグレナディーン
-サンピエール・\xfffeミクロン
-サモア
-サンマリノ
-サントメ・プリンシペ
-サウジアラビア
-セネガル
-セルビア
-セーシェル
-シエラレオネ
-シンガポール
-スロバキア
-スロベニア
-ソロモンしょとう
-ソマリア
-みなみアフリカ
-スペイン
-スリランカ
-スーダン
-スリナム
-スワジランド
-スウェーデン
-スイス
-シリア
-たいわん
-タジキスタン
-タイ
-トーゴ
-トケラウ
-トンガ
-トリニダード・トバゴ
-チュニジア
-トルコ
-トルクメニスタン
-タークス・\xfffeカイコスしょとう
-ツバル
-ウガンダ
-ウクライナ
-アラブしゅちょうこく
-イギリス
-タンザニア
-アメリカ
-アメリカりょう\xfffeバージンしょとう
-ウルグアイ
-ウズベキスタン
-バヌアツ
-バチカン
-ベネズエラ
-ベトナム
-ワリス・フテュナしょとう
-にしサハラ
-イエメン
-ザンビア
-ジンバブエ
-いきさきを　えらんでください
-\xf000Ĥ\x0001\x0000\xfffeのフロアに　いどう　しますか？
-はい
-いいえ
+
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Christmas Island
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+North Korea
+Democratic Republic of the Congo
+Timor-Leste
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Jan Mayen Island
+Japan
+Jordan
+Kashmir
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia (FYROM)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+South Korea
+Moldova
+Réunion
+Romania
+Russian Federation
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Saint Pierre and Miquelon
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Tanzania
+United States\xfffeof America
+United States\xfffeVirgin Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Holy See (Vatican City State)
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Please select a floor.
+Will you go to the\xf000Ĥ\x0001\x0000\xfffe floor?
+Yes
+No
 \xf000Ȃ\x0001\x0002F
-？
-いどうさきが　かわっていません\xf000븁\x0000
+?
+You selected the current floor.\xf000븁\x0000

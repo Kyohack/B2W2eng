@@ -1,18 +1,18 @@
-ハイリンク
+Entralink
 ライブ\xfffe　　キャスター
-ユニオンルーム
-\xf000ȁ\x0001\x0000にん
-ワイヤレスはいしん
+Union Room
+\xf000ȁ\x0001\x0000Ppl.
+Wireless Distribution
 あり
 なし
-はい
-いいえ
-もどる
+Yes
+No
+Back
 ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
 セーブしています\xfffeしばらく　おまちください
-Ｃギア　キャッチ
+C-Gear Detected
 あり
 なし
-ハイリンク\xfffe　コネクト…
-ハイリンク\xfffe　ゲスト：\xf000Ȁ\x0001\x0000
-ハイリンク\xfffe　ミッション
+Entralink\xfffe　connecting...
+Entralink\xfffe　Guests:\xf000Ȁ\x0001\x0000
+Entralink\xfffe　Mission

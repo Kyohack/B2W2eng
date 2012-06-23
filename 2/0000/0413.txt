@@ -1,27 +1,27 @@
-トレインナンバーを\xfffeいれてください（０１ー\xf000Ȃ\x0001\x0000）\xf000븁\x0000
-ランク\xf000ȁ\x0001\x0001　トレインナンバー\xf000Ȃ\x0001\x0000の\xfffeデータを　うけとっています……
-そのトレインは　つぎの\xfffeこうしんまで　ちょうせん　できません\xf000븁\x0000
-データを　うけとりました！\xf000븁\x0000
-ちょうせんを　ちゅうし　しますか？
-トレインの　ランクを\xfffeいれてください（０１ー１０）\xf000븁\x0000
-トレインナンバーを\xfffeいれてください（０１ー\xf000Ȃ\x0001\x0000）\xf000븁\x0000
-せいせきデータを　おくっています……\xfffeでんげんを　きらないでください
-データを　おくりました\xf000븁\x0000
-うけとるのを\xfffeちゅうし　しますか？
-トレインナンバーを\xfffeいれてください（００１ー\xf000Ȃ\x0001\x0000）
-トレインナンバーを\xfffeいれてください（００１ー\xf000Ȃ\x0001\x0000）
-Ｗｉ－Ｆｉコネクションに　せつぞく
-Ｗｉ－Ｆｉトレインは\xfffeげんざい　メンテナンスちゅう　です\xf000븁\x0000\xfffeしばらく　おまちいただいたのち　\xfffeごりようください\xf000븁\x0000\xfffe（エラーコード：１３２８１）\xf000븁\x0000
-Ｗｉ－Ｆｉトレインは\xfffeげんざい　こみあって　おります\xf000븁\x0000\xfffeしばらく　おまちいただいたのち\xfffeごりようください\xf000븁\x0000\xfffe（エラーコード：１３２８２）\xf000븁\x0000
-Ｗｉ－Ｆｉトレインは\xfffeげんざい　こみあって　おります\xf000븁\x0000\xfffeしばらく　おまちいただいたのち\xfffeごりようください\xf000븁\x0000\xfffe（エラーコード：１３２６１）\xf000븁\x0000
-Ｗｉ－Ｆｉトレインに\xfffeせつぞく　できませんでした\xf000븁\x0000\xfffeうけつけに　もどります\xfffe（エラーコード：１３２６２）\xf000븁\x0000
-Ｗｉ－Ｆｉトレインに\xfffeせつぞく　できませんでした\xf000븁\x0000\xfffeうけつけに　もどります\xfffe（エラーコード：１３２６６）\xf000븁\x0000
-Ｗｉ－Ｆｉトレインとの　\xfffeつうしんが　せつだん　されました\xf000븁\x0000\xfffeうけつけに　もどります\xfffe（エラーコード：１３２６４）\xf000븁\x0000
-Ｗｉ－Ｆｉトレインとの　\xfffeつうしんが　せつだん　されました\xf000븁\x0000\xfffeうけつけに　もどります\xfffe（エラーコード：１３２６７）\xf000븁\x0000
-Ｗｉ－Ｆｉトレインに\xfffeしてい　できない　すうじです\xf000븁\x0000\xfffe（エラーコード：１３２６３）\xf000븁\x0000
-つうしんエラーが\xfffeはっせい　しました\xf000븁\x0000
-つうしんエラーが\xfffeはっせいしました\xf000븁\x0000\xfffe（エラーコード：１３２６７）\xf000븁\x0000
-ポケモンに　もんだいが　あるようです\xf000븁\x0000
-Ｗｉ－Ｆｉコネクション　から\xfffeせつだん　しています
-Ｗｉ－Ｆｉコネクション　から\xfffeせつだん　しました
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください……
+Enter the Train Number (01-\xf000ȁ\x0001\x0000).\xf000븁\x0000
+Receiving data for Rank \xf000ȁ\x0001\x0001,\xfffeTrain Number \xf000ȁ\x0001\x0000...
+You may not challenge that Train\xfffeuntil the next update.\xf000븁\x0000
+Data has been received.\xf000븁\x0000
+Cancel your challenge?
+Enter the Rank of the Train\xfffe(01-10) to check your records.\xf000븁\x0000
+Enter the Train Number (01-\xf000ȁ\x0001\x0000).\xf000븁\x0000
+Sending your record data...\xfffeDon't turn off the power.
+Your data has been sent.\xf000븁\x0000
+Would you like to cancel your data\xfffedownload?
+
+
+
+The Wi-Fi Train is currently undergoing\xfffemaintenance. Please try again later.\xf000븁\x0000\xfffeError code: 13281\xf000븁\x0000
+The Wi-Fi Train is very crowded.\xfffePlease try again later.\xf000븁\x0000\xfffeError code: 13282\xf000븁\x0000
+The Wi-Fi Train is very crowded.\xfffePlease try again later.\xf000븁\x0000\xfffeError code: 13261\xf000븁\x0000
+Unable to connect to the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13262\xf000븁\x0000
+Unable to connect to the Wi-Fi\xfffeTrain.\xf000븁\x0000\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13266\xf000븁\x0000
+You were disconnected from the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13264\xf000븁\x0000
+You were disconnected from the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13267\xf000븁\x0000
+That number cannot be specified\xfffefor the Wi-Fi Train.\xf000븁\x0000\xfffeError code: 13263\xf000븁\x0000
+
+Communication error.\xf000븁\x0000\xfffeError code: 13267\xf000븁\x0000
+There appears to be a problem\xfffewith your Pokémon.\xf000븁\x0000
+
+
+Communicating. Please stand by...

@@ -1,17 +1,17 @@
-ハイテク　ちきゅうぎ\xfffeジオネット　へ　ようこそ！\xf000븁\x0000
-なにを　しますか？
-ここでは　あなたが　じっさいに\xfffeすんでいる　ばしょを\xf000븀\x0000\xfffeとうろく　することが　できます\xf000븁\x0000\xfffeあなたが　とうろく　した　ばしょは\xfffeＤＳワイヤレスつうしん　や\xf000븀\x0000\xfffeＷｉ－Ｆｉコネクション　で\xf000븀\x0000\xfffeともだちや　しらない　だれかに\xf000븀\x0000\xfffeおくられる　ことが　あります\xf000븁\x0000\xfffeあなたが　すんでいる　ばしょを\xfffeとうろく　しますか？
-あなたが　すんでいる\xfffeばしょを　えらんでください
-あなたが　すんでいる\xfffeちいきを　えらんでください
-すんでいる　ばしょを\xfffeいちど　とうろく　すると\xf000븀\x0000\xfffeへんこう　することは　できません\xf000븁\x0000\xfffeほんとうに　この　ばしょを\xfffeとうろく　しますか？
+Welcome to Geonet, the high-tech\xfffeglobe!\xf000븁\x0000
+What would you like to do?
+You can register your location.\xfffeThat information may be provided\xf000븀\x0000\xfffeto friends and strangers through\xf000븀\x0000\xfffeDS Wireless Communications\xf000븀\x0000\xfffeor over Nintendo Wi-Fi Connection.\xf000븁\x0000\xfffeWould you like to register your\xfffelocation now?
+Please select the location\xfffewhere you live.
+Please select the area\xfffewhere you live.
+You may not change your location data\xfffeonce you have registered it.\xf000븁\x0000\xfffeDo you wish to register this location?
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
-はい
-いいえ
-いちらんを　みる
-とうろくを　する
-やめる
-みる
-あなたが　とうろくした　ばしょ\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-ポイントのうえで　Ｘボタンを　おすと\xfffeちめいを　ひょうじ　します
-やめる
+Yes
+No
+See list
+Register
+Cancel
+VIEW
+Your registered location:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+To display registered locations, line up\xfffethe cursor and press the X Button.
+QUIT

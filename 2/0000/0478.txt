@@ -1,11 +1,11 @@
-イッシュずかん
-ぜんこくずかん
-みつけたかず
-つかまえたかず
-けんさくけっか
+UNOVA POKÉDEX
+NATIONAL POKÉDEX
+SEEN
+OBTAINED
+SEARCH RESULTS
 \xf000Ȃ\x0001\x0000
 \xf000ā\x0001\x0000
-？？？？？
+?????
 \xf000Ȃ\x0001\x0000
 ぜんこく
 イッシュ

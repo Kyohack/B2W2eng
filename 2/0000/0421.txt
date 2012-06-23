@@ -1,28 +1,28 @@
-なし
-アクレ
-ロンドーニア
-アラゴーアス
-アマパ
-アマゾナス
-バイーア
-セアラー
-れんぽうく
-エスピリト・サント
-ゴイアース
-マランニョン
-マット・グロッソ
-マット・グロッソ・ド・スール
-ミナス・ジェライス
-パラー
-パライーバ
-パラナー
-ペルナンブッコ
-ピアウィー
-リオ・デ・ジャネイロ
-リオ・グランデ・ド・スール
-リオ・グランデ・ド・ノルテ
-ロライマ
-サンタ・カタリーナ
-サン・パウロ
-セルジッペ
-トカンチンス
+None
+Acre
+Rondônia
+Alagoas
+Amapá
+Amazonas
+Bahia
+Ceará
+Federal District
+Espírito Santo
+Goias
+Maranhão
+Mato Grosso
+Mato Grosso do Sul
+Minas Gerais
+Pará
+Paraíba
+Paraná
+Pernambuco
+Piauí
+Rio de Janeiro
+Rio Grande do Sul
+Rio Grande do Norte
+Roraima
+Santa Catarina
+São Paulo
+Sergipe
+Tocantins
