@@ -1,71 +1,71 @@
-タイトルメニュー
-ポケモンセンターの　せつめい
-Ｃギアの　せつめい
-メニューに　ついて
-せんとうに　ついて
-ポケモンの　じょうほう
-そのた
-つづきから　はじめる
-さいしょから　はじめる
-Mystery Gift
-バトルたいかい
-デジタルせんしゅしょう
-ゲームシンクせってい
-Ｗｉ－Ｆｉせってい
-Mic Test
-ポケモンセンター
-パソコンで　ポケモンをいれかえる
-ボックスを　せいりする
-バトルボックス
-つうしんこうかんの　はじめかた
-つうしんたいせんの　はじめかた
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-ミラクルシューター
-ユニオンルーム
-Ｗｉ－Ｆｉクラブ
-グローバルターミナル
-ともだちコード
-Ｃギア（シーギア）
-すれちがいログ
-すれちがいちょうさ　とは
-すれちがいちょうさを　うける
-すれちがいちょうさを　はじめる
-すれちがいちょうさの　ほうこく
-ＩＲ(アイアール)つうしん
-ゲームシンク
-ハイリンク
-デルパワー
-デルダマ
-バッグ
-トレーナーカード
-ポケモンずかん
-ポケモンをつかまえるコツ
-タイプとあいしょう
-「ぶつり」「とくしゅ」「へんか」
-ひんし
-どく
-まひ
-ねむり
-こおり
-やけど
-こんらん
-メロメロ
-けいけんち
-しんか
-「せいかく」と　「こせい」
-ポケルス
-ポケモンのタマゴ
-はしる
-ダウジングマシン
-ライブキャスター
-ジムバッジ
-べんりボタン
-メダルラリー
-ポケシフターでポケモンをつれてくる
-ポケシフターでポケモンをつかまえる
+MAIN MENU
+POKÉMON CENTER INFO
+C-GEAR INFO
+ABOUT “MENU"
+ABOUT “BATTLE"
+POKÉMON INFO
+OTHER TOPICS
+CONTINUE
+NEW GAME
+MYSTERY GIFT
+BATTLE COMPETITION
+DIGITAL PLAYER ID
+GAME SYNC SETTINGS
+NINTENDO Wi-Fi CONNECTION SETTINGS
+MIC TEST
+POKÉMON CENTER
+MOVE POKÉMON IN THE PC
+ORGANIZE POKÉMON IN THE PC
+BATTLE BOX
+HOW TO START A LINK TRADE
+HOW TO START A LINK BATTLE
+SINGLE BATTLE
+DOUBLE BATTLE
+TRIPLE BATTLE
+ROTATION BATTLE
+WONDER LAUNCHER
+UNION ROOM
+Wi-Fi CLUB
+GLOBAL TERMINAL
+FRIEND CODE
+C-GEAR
+TAG LOG
+WHAT IS A PASSERBY SURVEY?
+ACCEPTING A PASSERBY SURVEY REQUEST
+STARTING A PASSERBY SURVEY
+REPORTING PASSERBY SURVEY RESULTS
+INFRARED CONNECTION
+GAME SYNC
+ENTRALINK
+PASS POWER
+PASS ORB
+BAG
+TRAINER CARD
+POKÉDEX
+TIPS ON CATCHING POKÉMON
+TYPES AND TYPE MATCHUP
+“PHYSICAL," “SPECIAL," AND “STATUS"
+FAINTED
+POISON
+PARALYSIS
+SLEEP
+FROZEN
+BURNED
+CONFUSED
+INFATUATION
+EXP. POINTS
+EVOLUTION
+“NATURE" AND “CHARACTERISTIC"
+POKÉRUS
+EGGS
+RUNNING
+DOWSING MCHN
+XTRANSCEIVER
+GYM BADGES
+READY BUTTON
+FRIDAY BOX
+TRANSFER POKÉMON WITH POKÉ TRANSFER
+CATCH POKÉMON WITH POKÉ TRANSFER
 ぼうけんを　はじめたら\xfffeＸボタンで　メニューを　ひらき\xfffe「レポート」を　こまめに　かきましょう。\xfffe\xfffeレポートをかくと　ＤＳの　でんげんを\xfffeきっても　タイトルメニューの\xfffe「つづきから　はじめる」から\xfffeぼうけんの　つづきを　あそべます。
 レポートを　すべてけして　もういちど\xfffeさいしょから　ぼうけんを　はじめなおす\xfffeときは　タイトルがめんで\xfffe\xfffeうえボタン　セレクトボタン　Ｂボタン\xfffe\xfffeの　３つのボタンを\xfffeどうじに　ぜんぶ　おしてください。
 イベントかいじょうなどで　とくべつな\xfffeプレゼントを　つぎの　３つの　ほうほうで\xfffeうけとることが　できます。\xfffe・ワイヤレスつうしんで　うけとる\xfffe・Ｗｉ－Ｆｉつうしんで　うけとる\xfffe・せきがいせんつうしんで　うけとる\xfffe\xfffeイベントごとに　ほうほうが　きめられて\xfffeいますので　ごちゅういください。
