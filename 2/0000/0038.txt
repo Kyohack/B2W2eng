@@ -1,10 +1,10 @@
 ▲
-ずかん
-ポケモン
-バッグ
+POKÉDEX
+POKÉMON
+BAG
 じぶん
-レポート
-せってい
+SAVE
+OPTIONS
 　
 チャット
 　
