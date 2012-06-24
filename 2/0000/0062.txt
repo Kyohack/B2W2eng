@@ -1,47 +1,47 @@
-たいせん
-こうかん
-もどる
-ふたりで　たいせん
-４にんで　たいせん
-シングルバトル
-ダブルバトル
-トリプルバトル
-たいせん　あいてと\xfffeせきがいせんつうしんを　してください
-パートナーとなる　あいてと\xfffeせきがいせんつうしんを　してください
+BATTLE
+TRADE
+QUIT
+BATTLES FOR TWO
+BATTLES FOR FOUR
+SINGLE BATTLE
+DOUBLE BATTLE
+TRIPLE BATTLE
+Make an Infrared Connection\xfffewith your opponent(s).
+Make an Infrared Connection\xfffewith your partner.
 リーダーに　なりました！
-たいせん　あいての　リーダーと\xfffeせきがいせんつうしんを　してください
-しばらく　おまちください
-ともだちコード
-フィーリング\xfffeチェック
-ちゅうだんしますか？
-こうかんする　あいてと\xfffeせきがいせんつうしんを　してください
+Make an Infrared Connection\xfffewith your opponents' leader.
+Please wait a moment.
+FRIEND CODE
+FEELING\xfffeCHECK
+Will you quit?
+Make an Infrared Connection\xfffewith your trade partner.
 ポケモンこうかん
 てもち
 こうかんしますか？
 Ｌｖ．\xf000Ȃ\x0001\x0000
 しゅうりょうしますか？
 こうかんしました
-しばらく　おまちください
-あそぶないようが　ちがったので\xfffeさいしょに　もどります
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-Yes
-No
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-こうかんを　かいしします\xfffeしばらく　おまちください
-たいせんを　かいしします\xfffeしばらく　おまちください
-ローテーションバトル
-ともだちコードの　こうかん　あいてと\xfffeせきがいせんつうしんを　してください
-ともだちリストが　いっぱいです\xfffeともだちを　とうろく　できません
-\xf000봂\x0000とうろくにんずう\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000／３２
-けってい
-この　にんずうで　よろしいですか？
-さんかする　メンバー　ぜんいんと\xfffeせきがいせんつうしんを　してください
-えんもくを　きめた　リーダーと\xfffeせきがいせんつうしんを　してください
-\xf000Ȁ\x0001\x0000にんと　つうしんちゅう\xfffe　けっていで　すすむ
-バトルボックスで　たたかう
-てもちで　たたかう
-ともだちリストに\xfffeとうろく　しました！
-ともだちリストを\xfffeこうしん　しました！
-こうかんには　てもちの　ポケモンが\xfffe２ひき　いじょう　ひつようです
-すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000\xfffeレポートが　かけません！\xf000븁\x0000\xfffeくわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000\xfffeごらんください
-いっしょに　あそぶ　ともだちと\xfffeせきがいせんつうしんを　してください
+Please wait a moment.
+You and your friend(s) did not select the\xfffesame thing. Returning to previous menu.
+Would you like to save the game?
+YES
+NO
+Saving...\xfffeDon't turn off the power.
+The trade will be started...\xfffePlease wait a moment.
+The battle will be started...\xfffePlease wait a moment.
+ROTATION BATTLE
+Please make an Infrared Connection\xfffewith a friend to exchange Friend Codes.
+Your Friend Roster is full.\xfffeYou cannot register a new friend.
+\xf000봂\x0000Registered Friends\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000/32
+CONFIRM
+Is the number of members OK?
+Please make an Infrared Connection\xfffewith all of the participants.
+Make an Infrared Connection with the\xfffeleader who decided the show.
+Communicating with \xf000Ȁ\x0001\x0000 people.\xfffeCONFIRM: Proceed
+BATTLE USING THE BATTLE BOX
+BATTLE USING YOUR PARTY
+Your friend has been registered\xfffein the Friend Roster!
+The Friend Roster has been updated!
+You need at least two Pokémon\xfffein your party if you want to trade!
+There is already a saved game file.\xfffeIt is impossible to save.\xf000븁\x0000\xfffePlease refer to the Instruction\xfffeBooklet for details.\xf000븁\x0000\xfffePress Up + SELECT + B Button on\xfffethe title screen if you want to erase\xf000븀\x0000\xfffethe current saved game file.
+Please make an Infrared Connection\xfffewith the friend you want to play with.
