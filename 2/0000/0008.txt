@@ -29,7 +29,7 @@ DELETE MY VIDEO
 DELETE OTHER VIDEOS
 あき
 \xf000Ā\x0001\x0000　のきろくをけす
-ランキングでさがす
+SEARCH BY RANK
 データをおくる
 NEWEST 30
 SEARCH
@@ -81,10 +81,10 @@ Switch Teams
 \xf000ȁ\x0001\x0000：\xf000ā\x0001\x0001
 Last Week’s Results!
 Colosseum
-バトルフロンティア
+Battle Frontier
 SAVE
 VIEW BATTLE\xfffeVIDEO
-バトルビデオ
+BATTLE VIDEO
 NEWEST 30 BATTLE VIDEOS
 TOP-RANKED BATTLE VIDEOS\xfffeLINK BATTLE
 TOP-RANKED BATTLE VIDEOS\xfffeBATTLE SUBWAY
@@ -110,7 +110,7 @@ You haven’t set any search criteria.
 Loading Battle Video...
 There is no matching Battle Video...
 Sending the Battle Video...
-バトルビデオを　おくりました！
+Battle Video has been sent!
 \xf000봂\x0000View Profile
 \xf000봂\x0000Close Profile
 Newest 30 Battle Videos
