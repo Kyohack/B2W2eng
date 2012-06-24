@@ -1,14 +1,14 @@
-ロードちゅう……\xfffeしばらく　おまちください
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました\xf000븂\x0001<
-てんそうマシンを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-データの　よみこみに\xfffeしっぱい　しました\xfffeてんそうマシンを　しゅうりょうします
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
-データの　かきこみに\xfffeしっぱい　しました\xf000븀\x0000\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
-てんそうマシンが　きどうしています！\xfffeポケモンを　さがしていますので\xfffeこのまま　しばらく　おまちください
+Loading...\xfffePlease wait a moment.
+The game inserted is not compatible.\xfffeTurn off the power, insert a\xfffecompatible Game Card, and try again.\xf000븁\x0000
+Saving...\xfffeDon't turn off the power.
+The game has been saved. \xf000븂\x0001<
+The Relocator will close.\xfffePlease turn off the power.
+The saved data could not be accessed.\xfffeThe Relocator will close.\xf000븁\x0000
+Unable to connect to the\xfffeother DS system.\xf000븁\x0000
+Save failed...\xfffeThe Relocator will close.\xf000븁\x0000
+The Relocator is activated.\xfffeSearching for Pokémon...\xfffe\xfffePlease wait a moment.
 レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります
 ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
-Yes
-No
+YES
+NO
 デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
