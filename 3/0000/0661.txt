@@ -30,7 +30,7 @@
 つうしんちゅうです　でんげんをきらずに\xfffeおまちください…　Ｂボタンでキャンセル
 チャレンジする
 せつめいをきく
-やめる
+Back
 シングル
 ダブル
 ダウンロード
@@ -41,11 +41,11 @@
 けんてい　けっか
 ポイント
 \xf000ȃ\x0001\x0000
-ビギナーランク
-ノービスランク
-ノーマルランク
-スーパーランク
-ハイパーランク
-エリートランク
-マスターランク
-ダウンロードを　キャンセルしました！
+Beginner Rank
+Novice Rank
+Normal Rank
+Super Rank
+Hyper Rank
+Elite Rank
+Master Rank
+Has canceled the download！
