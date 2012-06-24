@@ -1,7 +1,7 @@
-れきだいの　トレーナー
-ランク\xf000ȁ\x0001\x0000
-トレインナンバー\xf000Ȃ\x0001\x0001
-すんでいる　ばしょ
+SUCCESSIVE TRAINERS
+Rank \xf000ȁ\x0001\x0000
+Train Number \xf000Ȃ\x0001\x0001
+LOCATION
 \xf000Ĥ\x0001\x0002
 \xf000ĥ\x0001\x0003
-じこしょうかい
+TRAINER'S QUOTE
