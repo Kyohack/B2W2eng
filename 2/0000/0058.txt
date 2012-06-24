@@ -1,12 +1,12 @@
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
-せきがいせんつうしんに　しっぱい\xfffeメニューに　もどります
-せきがいせんつうしんが　\xfffeつながりました！
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
+Make an Infrared Connection\xfffewith your opponent(s).
+Infrared Communication failed\xfffereturning to menu.
+Infrared Communication Succesfull.
+Make an Infrared Connection\xfffewith your trade partner.
 チェックちゅう　です\xfffeつうしんを　つづけてください
 したがめんの　メニューを\xfffeタッチで　スタート！
-チェックスタート
-ランキング
-もどる
-やめる
-フィーリングチェック
+Begin Check
+Ranking
+Back
+Quit
+Feeling Check
 シーンが　ずれました\xfffeさきへ　すすみます
