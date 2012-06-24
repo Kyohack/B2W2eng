@@ -1,7 +1,7 @@
 \xf000Ā\x0001\x0000
 ＩＤ\xf000Ȅ\x0001\x0000
-あと\xf000Ȁ\x0001\x0000にん　ひつよう
-あと\xf000Ȁ\x0001\x0000にん　まで
+After\xf000Ȁ\x0001\x0000にん　ひつよう
+After\xf000Ȁ\x0001\x0000にん　まで
 Seeking Multi Battle participants!
 Seeking Musical participants!
 Seeking Battle Subway participants!
@@ -20,7 +20,7 @@ Battle Subway will be\xfffecanceled.
 つごうの　わるくなってしまった\xfffeメンバーが　います
 There are no members.\xfffeMulti Battle will be canceled.
 Please wait.\xfffeB Button: Cancel
-そのまま　おまちください
+Please wait...
 There appears to be a problem.\xfffeMulti Battle will be canceled.\xf000븂\x0001<
 There appears to be a problem.\xfffeThe Musical will be canceled.\xf000븂\x0001<
 There appears to be a problem.\xfffeBattle Subway will be canceled.\xf000븂\x0001<
