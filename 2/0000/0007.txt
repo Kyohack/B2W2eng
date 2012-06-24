@@ -1,4 +1,4 @@
-Welcome to\xfffeBattle Competition!
+Welcome to Battle Competition!
 There are two kinds of Battle Competition.\xfffeOne is the Wi-Fi Competition, which is held\xf000븀\x0000\xfffevia Nintendo Wi-Fi Connection, and the\xf000븀\x0000\xfffeother is the Live Competition, which is\xf000븀\x0000\xfffeheld at certain events.\xf000븁\x0000\xfffeOnly Pokémon registered in your\xfffeBattle Box can participate.\xf000븁\x0000\xfffeOnce registered, you cannot move\xfffeyour Pokémon to and from your\xf000븀\x0000\xfffeBattle Box.\xf000븁\x0000\xfffeWhen you participate in a competition,\xfffeyour Digital Player ID will be updated.\xf000븀\x0000\xfffePlease check it.\xf000븁\x0000
 To the Wi-Fi Competition
 To the Live Competition
@@ -8,13 +8,9 @@ Back
 Participate
 To participate in the Wi-Fi Competition,\xfffeyou'll need to access the webpage\xf000븀\x0000\xfffeof the Pokémon Global Link to register.\xf000븀\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000\xfffePlease check the Pokémon Global Link\xfffewebpage for the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000
 Will you participate in\xfffethe Wi-Fi Competition?
-Do you want to quit\xfffethe Wi-Fi Competition?
-Yes
-No
+
+
+
 Cancel participation
 Will you participate in\xfffethe Live Competition?
 You can check the information\xffferegarding the Live Competition at the\xf000븀\x0000\xfffePokémon official website:\xf000븀\x0000\xfffehttp://www.pokemon.com.\xf000븁\x0000\xfffePlease check the Pokémon official website\xfffefor the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000
-Ｗｉ－Ｆｉたいかい　または\xfffeランダムマッチの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれたため\xf000븁\x0000\xfffe１じかん\xfffeたいかいや　ランダムマッチで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeおこしください\xf000븁\x0000
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-たいせんの　せいかを　たたえて\xfffeバトルポイントを　しんてい　いたします\xf000븁\x0000
-\xf000Ā\x0001\x0000は　バトルポイントを\xfffe\xf000ȁ\x0001\x0001ＢＰ　てにいれた！\xf000븁\x0000
