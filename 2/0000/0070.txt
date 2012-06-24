@@ -1,17 +1,17 @@
-メールボックス
+MAILBOX
 \xf000Ȁ\x0001\x0000
 ／
-やめる
-とじる
-メールを　よむ
-メールを　けす
-もたせる
-やめる
-\xf000Ā\x0001\x0000の\xfffeメールを　どうしますか？
-ないようは　きえて　しまいますが\xfffeよろしいですか？
-ないようを　けしました
-ポケモンに　もたせますか？
-ないようを　けした　メールを\xfffeバッグに　しまいました
-バッグが　いっぱいです……\xfffeメールを　すてました
-Yes
-No
+CANCEL
+CONFIRM
+READ
+ERASE
+GIVE
+CANCEL
+What would you like to do with\xfffe\xf000Ā\x0001\x0000's Mail?
+The message will be lost.\xfffeIs that OK?
+The message was erased.
+Let a Pokémon hold this Mail?
+The Mail's message was erased,\xfffeand it was put in the Bag.
+Your Bag is full...\xfffeThe Mail was discarded.
+YES
+NO
