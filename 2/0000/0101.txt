@@ -15,15 +15,15 @@ What's your message\xfffeto passersby?
 さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
 すれちがった　あいてへの\xfffeよろこびの　メッセージは？
 ポケモンの　なまえは？
-なまえを　いれてください！
-にゅうりょく　できる　すうじは\xfffe４もじ　まで　です
+Please enter the name.
+Numbers may contain\xfffeonly up to four digits.
 ゲームシンクＩＤコードが\xfffeまちがっています
 　
 　
-よろしく！
-ありがとう！
-ホワイト．
-ブラック．
+Best regards!
+Thank you!
+White.
+Black.
 ♂
 ♀
-にゅうりょくしてください
+Please enter
