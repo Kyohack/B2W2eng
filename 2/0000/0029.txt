@@ -11,36 +11,36 @@ Close the graffiti marker
 Stamps
 GRAFFITI MODE
 REC
-らくがき
+GRAFFITI
 ID\xf000Ȅ\x0001\x0000
 ―／―
 \xf000Ȁ\x0001\x0000／４
 Please select your friend(s).
-ともだちを　よびだす
-さんかする
-ともだちを　よびだしちゅう！
-ともだちを　よびだしちゅう・
-ともだちを　よびだしちゅう・・
-ともだちを　よびだしちゅう・・・
-せつぞくちゅう！
-せつぞくちゅう・
-せつぞくちゅう・・
-せつぞくちゅう・・・
-ともだちを　さがしています！
-ともだちを　さがしています・
-ともだちを　さがしています・・
-ともだちを　さがしています・・・
-ライブキャスターを\xfffeしゅうりょう　しますか？
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-Yes
-No
-リーダーが　しゅうりょうしたので　\xfffeかいさんします
-あいてが　しゅうりょうしたので　\xfffeかいさんします
-メンバーが　いなくなったので\xfffeしゅうりょうします
-よびだしに　しっぱいしました
-せつぞくに　しっぱいしました
-ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが\xfffeせいげん　されています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください
-あいての　しゅうりょうを　まっています
+CALL FRIEND(S)
+JOIN
+Calling!
+Calling.
+Calling..
+Calling...
+Connecting!
+Connecting.
+Connecting..
+Connecting...
+Searching for your friends!
+Searching for your friends.
+Searching for your friends..
+Searching for your friends...
+Would you like to stop the Xtransceiver?
+If the leader drops out, the group will\xfffebe disbanded. Is that OK?
+YES
+NO
+Since the leader dropped out,\xfffethe group will be disbanded.
+The other Trainer has left the group.\xfffeThe communication will be ended.
+There are no members.\xfffeThe communication will be ended.
+Call failed.
+Failed to connect.
+Parental Controls prohibits the transfer\xfffeof photos.\xfffeIf you wish to send them, please change\xfffethe System Settings to allow this.
+Waiting for the other player to finish...
 ただいま　『\xf000Ĝ\x0001\x0000』の\xfffeさんかしゃを　ぼしゅうちゅうです！\xfffeしめきりまで　あと\xf000ȁ\x0001\x0001びょうです！
 『\xf000Ĝ\x0001\x0000』の\xfffeかいしまで　しばらくおまちください
 『\xf000Ĝ\x0001\x0000』が\xfffeちゅうし　されました
