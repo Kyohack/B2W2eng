@@ -138,24 +138,24 @@ You used a Dark Stone\xfffebut nothing happened...
 You used a Light Stone\xfffebut nothing happened...
 Your items have been\xfffeorganized!
 \xf000Ē\x0001\x0000
-しゅるいじゅんに\xfffeもちものを　せいり　しました！
-なまえじゅんに\xfffeもちものを　せいり　しました！
+\xfffewants to organize by type!
+\xfffewants to organize by name!
 おおいじゅんに\xfffeもちものを　せいり　しました！
-すくないじゅんに\xfffeもちものを　せいり　しました！
+\xfffewants to organize in ascending order!
 ぜんぶ
 フリースペースへ
 もとのポケットへ
-さがしたい　しゅるいを\xfffeえらんで　ください
+Please select the\xfffeyou are looking for!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
-どの　ならびに　かえますか？
-しゅるいじゅん
-なまえじゅん
+How do you want to organize?
+By type
+By name
 おおいじゅん
-すくないじゅん
-ばんごうじゅん
+Least to most
+Numerical order
 もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-ばんごうじゅんに\xfffeもちものを　せいり　しました！
-みつかりません
-しまう
+\xfffewants to organize in numerical order!
+Not found
+Put away
