@@ -1,7 +1,7 @@
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
 チャンピオンズトーナメント
 ダウンロードトーナメント
 ホドモエトーナメント
