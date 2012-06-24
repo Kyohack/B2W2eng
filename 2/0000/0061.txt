@@ -1,11 +1,11 @@
-すきなリズムで　１０かい\xfffeしたがめんを　タッチしてください
-チェックが　おわりました　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-せきがいせんつうしんが　\xfffeつながりました！
-つうしんが　きれました\xfffeせきがいせんを　あわせてください
+Tap the Touch Screen ten times\xfffein any rhythm you like.
+Check complete. Create an Infrared\xfffeConnection with the other Trainer.
+Checking...\xfffePlease maintain the Infrared Connection.
+You've created an Infrared Connection!
+The connection was interrupted.\xfffePlease realign your infrared Game Cards.
 もどる
 タッチ　スタート
-リズムチェック
+RHYTHM CHECK
 no data
 no data
 no data
