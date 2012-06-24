@@ -1,8 +1,8 @@
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-もちもの
-せいかく
-とくせい
+ITEM
+NATURE
+ABILITY
 \xf000ċ\x0001\x0000
 BOX 1
 BOX 2
@@ -88,8 +88,8 @@ CANCEL
 CANCEL
 CANCEL
 Switch Pokémon\xfffe to box?
-かべがみを\xfffeはりかえる
-ポケモンを\xfffeあずける
+Change\xfffe Wallpaper
+Store\xfffe Pokémon
 Bag
 Give
 Move
@@ -98,9 +98,9 @@ Move
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-せいかく
-とくせい
-もちもの
+NATURE
+ABILITY
+ITEM
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 None
