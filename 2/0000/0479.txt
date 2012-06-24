@@ -1,107 +1,107 @@
-『けんさく　モード』
-じょうけんを　いれて　ください
-『けんさくの　けっか』
-みつかったかず　\xf000Ȃ\x0001\x0000
-ならびじゅんを　いれてください
-なまえの　かしらもじを　いれてください
-タイプを　いれてください
-かたちを　いれてください
-いろを　いれてください
-ポケモンが　みつかりました！
-ポケモンが　みつかりません……
-けんさく　しています……
-ならび
-なまえ
-タイプ
-いろ
-かたち
-イッシュずかん：けんさくモード
-ぜんこくずかん：けんさくモード
-リセット
-スタート
-やめる
-\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-けってい
-やめる
-ばんごうじゅん
-ごじゅうおん
-おもいじゅん
-かるいじゅん
-たかいじゅん
-ひくいじゅん
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
-――――
-／
-――――
-ア.
-イ
-ウ
-エ
-オ
-カ.
-キ
-ク
-ケ
-コ
-サ.
-シ
-ス
-セ
-ソ
-タ.
-チ
-ツ
-テ
-ト
-ナ.
-ニ
-ヌ
-ネ
-ノ
-ハ.
-ヒ
-フ
-ヘ
-ホ
-マ.
-ミ
-ム
-メ
-モ
-ヤ.
-ユ
-ヨ
-ラ.
-リ
-ル
-レ
-ロ
-ワ.
-―
-あか
-あお
-き
-みどり
-くろ
-ちゃ
-むらさき
-はい
-しろ
-もも
-――――
+"Search mode"
+Please insert the criteria
+"The results of the search"
+\ Xf000Ȃ \ x0001 \ x0000 they were not found
+Please insert the order
+Please insert the initials
+Please insert the type
+Please insert the form
+Please insert the color
+Pokemon found!
+Pokemon can not be found ......
+We are searching for ......
+Sequence
+Name
+Type
+Color
+Form
+Search mode: a picture book
+Search mode: the National Book
+Reset
+Start
+Quit
+\ xf000Ȃ \ x0001 \ x0000. \ xf000Ȁ \ x0001 \ x0001
+Decision
+Quit
+Numerical order
+Alphabetically
+Heaviest
+Jun Light
+Jun Takai
+Lowest first
+Dark
+Rock
+Physic
+Fight
+Poison
+Ice
+Ghost
+Ground
+Electric
+Grass
+Dragon
+Normal
+Steel
+Flying
+Fire
+Water
+Insect
+----
+/
+----
+Application
+Install
+You
+Error
+Options
+Months
+Keys
+Network
+Fur
+Copy
+Support
+System
+Source
+Security
+Product
+Data.
+Switch
+Star
+Test
+Client
+Scanner
+Two
+(J)
+Value
+Bruno
+Teeth
+Heath
+Frame
+F
+Host
+Machine
+Mirror
+System
+Memory
+Mode
+Ya.
+Yoo
+Yo
+Controller
+Memory
+Level
+Level
+Log
+Ring
+-
+Red
+Blue
+I
+Green
+Black
+Tea
+Purple
+Yes
+White
+Peach
+----
