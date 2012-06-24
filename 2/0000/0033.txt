@@ -2,36 +2,36 @@
 ＩＤ\xf000Ȅ\x0001\x0000
 あと\xf000Ȁ\x0001\x0000にん　ひつよう
 あと\xf000Ȁ\x0001\x0000にん　まで
-マルチバトル　ぼしゅうちゅう！
-ミュージカル　ぼしゅうちゅう！
-バトルサブウェイ　ぼしゅうちゅう！
+Seeking Multi Battle participants!
+Seeking Musical participants!
+Seeking Battle Subway participants!
 \xf000Ā\x0001\x0000\xf000봅\x0001FＩＤ：\xf000Ȅ\x0001\x0001
-さんか　メンバーを　まっています\xfffeＢボタン：やめる
-メンバーが　そろったら\xfffeＡボタン：すすむ　Ｂボタン：やめる
-\xf000Ā\x0001\x0000から　れんらくあり！\xfffeメンバーに　しますか？
-このメンバーで　よろしいですか？
-マルチバトルを　やめますか？
-ミュージカルを　やめますか？
-バトルサブウェイを　やめますか？
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-それでは　マルチバトルを\xfffeちゅうし　します
-それでは　ミュージカルを\xfffeちゅうし　します
-それでは　バトルサブウェイを\xfffeちゅうし　します
+Awaiting participating members...\xfffeB Button: Cancel
+When the group is ready:\xfffeA Button: Proceed   B Button: Cancel
+\xf000Ā\x0001\x0000 has contacted you.\xfffeAdd to your group?
+Is this group OK?
+Will you cancel Multi Battle?
+Will you cancel the Musical?
+Will you cancel Battle Subway?
+If the leader drops out, the group will\xfffebe disbanded. Is that OK?
+Multi Battle will be\xfffecanceled.
+The Musical will be\xfffecanceled.
+Battle Subway will be\xfffecanceled.
 つごうの　わるくなってしまった\xfffeメンバーが　います
-メンバーが　いなくなりました\xfffeマルチバトルを　ちゅうし　します
-そのまま　おまちください\xfffeＢボタン：やめる
+There are no members.\xfffeMulti Battle will be canceled.
+Please wait.\xfffeB Button: Cancel
 そのまま　おまちください
-つごうが　わるくなりました\xfffeマルチバトルを　ちゅうし　します\xf000븂\x0001<
-つごうが　わるくなりました\xfffeミュージカルを　ちゅうし　します\xf000븂\x0001<
-つごうが　わるくなりました\xfffeバトルサブウェイを　ちゅうし　します\xf000븂\x0001<
+There appears to be a problem.\xfffeMulti Battle will be canceled.\xf000븂\x0001<
+There appears to be a problem.\xfffeThe Musical will be canceled.\xf000븂\x0001<
+There appears to be a problem.\xfffeBattle Subway will be canceled.\xf000븂\x0001<
 \xf000ȁ\x0001\x0000:
 \xf000ȁ\x0001\x0000:\xf000Ā\x0001\x0001\xf000봅\x0001jＩＤ：\xf000Ȅ\x0001\x0002
-ミュージカルをする　ともだちを\xfffeえらんでください
-バトルサブウェイをする　ともだちを\xfffeえらんでください
-メンバーが　そろいました！\xfffeそれでは　こちらへ　どうぞ！
-\xf000Ā\x0001\x0000から　ＮＧとの\xfffeへんじが　きてしまいました……\xf000븂\x0001<
-\xf000Ā\x0001\x0000の　へんじを　まっています\xfffeＢボタン：やめる
-\xf000Ā\x0001\x0000から　ＯＫとの\xfffeへんじが　きました\xf000븂\x0001<
-そのまま　おまちください\xfffeＢボタン：やめる
-メンバーから　ぬけますか？
-つごうが　わるいみたい……\xf000븂\x0001<
+Choose the Musical you would\xfffelike to join.
+Choose the Battle Subway you would\xfffelike to join.
+The members have gathered.\xfffePlease enter the room.
+\xf000Ā\x0001\x0000 refused...\xf000븂\x0001<
+Awaiting \xf000Ā\x0001\x0000's response...\xfffeB Button: Cancel
+\xf000Ā\x0001\x0000 replied, “OK."
+Please wait.\xfffeB Button: Cancel
+Do you want to leave the group?
+There appears to be a problem...\xf000븂\x0001<
