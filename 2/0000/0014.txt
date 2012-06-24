@@ -5,52 +5,52 @@ Release this Pokémon?
 Bye-bye　\xf000Ă\x0001\x0000!
 Your party's full!
 That's your last Pokémon!
-このボックスを　どうしますか？
-どのボックスに\xfffeジャンプしますか？
-どのテーマに　しますか？
-どの　かべがみに　しますか？
-ボックスそうさを　つづけますか？
-このボックスは　いっぱいです！
-バッグが　いっぱいです！
-\xf000ĉ\x0001\x0000を　あずかった！
-\xf000ĉ\x0001\x0000を　もたせた！
-ポケモンを　タッチ！
-どのボックスへ　あずける？
+What do you want to do?
+Jump to which Box?
+Please pick a theme.
+Pick the wallpaper.
+Continue Box operations?
+The Box is full.
+The Bag is full.
+Took the \xf000ĉ\x0001\x0000.
+\xf000ĉ\x0001\x0000 is now being held.
+Which one will you take?
+Place it in which Box?
 もちものなし
 ♂
 ♀
-\xf000ĉ\x0001\x0000を　あずかりますか？
-メールをしまうことは　できません！
-\xf000ĉ\x0001\x0000を　どうしますか？
-\xf000ĉ\x0001\x0000を　しまいますか？
-\xf000ĉ\x0001\x0000を　バッグに　いれた！
-どうぐを　もつことが　できます
-メールを　はずしてください！
-タマゴを　にがすことは　できません！
+Take this \xf000ĉ\x0001\x0000?
+Mail can't be taken away.
+\xf000ĉ\x0001\x0000 is selected.
+Put away \xf000ĉ\x0001\x0000?
+Placed \xf000ĉ\x0001\x0000 in the Bag.
+It can hold an item.
+Please remove the Mail.
+You can't release an Egg.
 がったいした　キュレムは　にがせません！
-\xf000Ă\x0001\x0000が　もどってきちゃった！
-しんぱい　だったのかな……
-タマゴは　どうぐを　もてません！
-マークを　タッチしよう！
-ボックスに　おけます！
-てもちに　くわえることが　できます！
-このボックスは　いっぱいです！
-てもちが　いっぱいです！
+\xf000Ă\x0001\x0000 came back!
+Was it worried about you?
+An Egg can't hold an item.
+Touch the Mark!
+DEPOSIT POKÉMON
+WITHDRAW POKÉMON
+The Box is full.
+Your party's full!
 ポケモンを　あずける
 ポケモンを　つれていく
 ボックスを　せいりする
-もちものを　せいりする
-バトルボックス
-ねかすポケモンをえらぶ
-メールは　いどうできません！
-\xf000ĉ\x0001\x0000を　もてない！
-メールを　もっています！
-たたかうポケモンが　いなくなります！
-メールは　いどうできません！
-ここでは　メールを　もたせられません
-タマゴは　えらべません！
-\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
-このポケモンは\xfffeいまは　ねむくないみたいです
-ポケモンせんたくを　つづけますか？
-バトルボックスが　ロックされています\xfffeポケモンは　いどう　できません
-バトルボックスが　ロックされています\xfffeもちものは　へんこう　できません
+MOVE ITEMS
+BATTLE BOX
+SELECT A SLEEPY POKÉMON
+Mail cannot be moved!
+It cannot hold \xf000ĉ\x0001\x0000!
+It has Mail!
+You're out of Pokémon that can fight!
+Mail cannot be moved!
+It cannot hold Mail here.
+Eggs cannot be selected!
+\xf000Ă\x0001\x0000 will be tucked in.\xfffeOK?
+This Pokémon doesn't seem\xfffesleepy now.
+Select another Pokémon?
+Your Battle Box is locked.\xfffeYou cannot move your Pokémon.
+Your Battle Box is locked.\xfffeItems cannot be given or taken.
