@@ -1,12 +1,12 @@
 ▲
-ずかん
-ポケモン
-バッグ
-じぶん
-レポート
-せってい
+Pokédex
+Pokémon
+Bag
+TrainerCard
+Save
+Options
 　
-チャット
+Chat
 　
 リタイア
 ずかんを　せんたくしました
