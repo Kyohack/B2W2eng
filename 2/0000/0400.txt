@@ -1,7 +1,7 @@
-たいせん　したいひとは\xfffeマークを　タッチして！
-こうかん　したいひとは\xfffeマークを　タッチして！
-おえかき　したいひとは\xfffeマークを　タッチして！
-ぐるぐるこうかん　したいひとは\xfffeマークを　タッチして！
-ともだち
-あそんだひと
-ユニオンルームに　はいりました！
+Touch the Battle icon\xfffeif you want to battle!
+Touch the Trade icon\xfffeif you want to trade!
+Touch the Draw icon\xfffeif you want to draw!
+Touch the Spin Trade icon\xfffeif you want to Spin Trade!
+FRIEND
+PLAYER
+I've entered the Union Room.
