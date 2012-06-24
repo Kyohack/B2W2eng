@@ -66,14 +66,14 @@ READY BUTTON
 FRIDAY RALLY
 TRANSFER POKÉMON WITH POKÉ TRANSFER
 CATCH POKÉMON WITH POKÉ TRANSFER
-When you are playing, press the\xfffeX Button to open the menu and save often.\xfffemenu and save often.\xfffe\xfffeレポートをかくと　ＤＳの　でんげんを\xfffeきっても　タイトルメニューの\xfffe「つづきから　はじめる」から\xfffeぼうけんの　つづきを　あそべます。
-レポートを　すべてけして　もういちど\xfffeさいしょから　ぼうけんを　はじめなおす\xfffeときは　タイトルがめんで\xfffe\xfffeうえボタン　セレクトボタン　Ｂボタン\xfffe\xfffeの　３つのボタンを\xfffeどうじに　ぜんぶ　おしてください。
-イベントかいじょうなどで　とくべつな\xfffeプレゼントを　つぎの　３つの　ほうほうで\xfffeうけとることが　できます。\xfffe・ワイヤレスつうしんで　うけとる\xfffe・Ｗｉ－Ｆｉつうしんで　うけとる\xfffe・せきがいせんつうしんで　うけとる\xfffe\xfffeイベントごとに　ほうほうが　きめられて\xfffeいますので　ごちゅういください。
-ふしぎな　おくりもので　とくべつな\xfffeポケモンや　どうぐを　もらえる\xfffeふしぎなカードを　じゅしんすると\xfffeポケモンセンターに\xfffeあおい　ぼうしを　かぶった\xfffeはいたついんが　やってきます。\xfffe\xfffeはいたついんに　はなしかけて\xfffeポケモンや　どうぐを　うけとってください。
-ふしぎなカードは　１２まいまで\xfffeもっておくことが　できます。\xfffe\xfffeふしぎなカードが　いっぱいのときに\xfffeさらにカードを　うけとりたいときは\xfffe「カードアルバムを　みる」から\xfffeおくりものを　すでに　うけとったカードを\xfffeけしてください。
-Ｗｉ－Ｆｉや　イベントかいじょうで\xfffeおこなわれる　ポケモンしょうぶの\xfffeたいかいに　さんかします。\xfffe\xfffeバトルたいかいについて　くわしくは\xfffeタイトルメニューの\xfffe「バトルたいかい」にある\xfffe「せつめいを　きく」を\xfffeかくにん　してください。
-ユーザーとうろくの　ほうほうや\xfffeバトルたいかいへの　さんかのしかた\xfffeルールのかくにんなど\xfffeバトルたいかいについて　くわしいことは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
-バトルたいかいには\xfffeゲームのなかの　パソコンにある\xfffe「バトルボックス」に　とうろくされている\xfffeポケモンが　さんかします。\xfffe\xfffeいちど　とうろくすると　たいかいちゅうは\xfffeバトルボックスを　へんこうできませんので\xfffeとうろくするまえに　じっくりかんがえて\xfffeポケモンを　えらんで　ください。
+When you are playing, press the X Button\xfffeto open the menu and save often.\xfffe\xfffeOnce saved, you can select “CONTINUE"\xfffefrom the main menu to continue playing\xfffethe game from that location even if you've\xfffeturned off your Nintendo DS since.
+To delete your saved data and\xfffestart a new game, go to the\xfffetitle screen and press the\xfffefollowing buttons at the same time.\xfffe\xfffeUP + SELECT + B Button
+You can receive special gifts at events and\xfffeother locations in the following three ways.\xfffe\xfffe-GET VIA WIRELESS\xfffe-GET VIA NINTENDO WFC\xfffe-GET VIA INFRARED\xfffe\xfffePlease note that each event has its own way\xfffeof distributing gifts.
+When you receive a Wonder Card\xfffefor a special Pokémon or an item,\xfffea deliveryman with a blue cap\xfffewill appear in the Pokémon Center.\xfffe\xfffePlease talk to him to receive\xfffethe Pokémon or item.
+You can keep up to 12 Wonder Cards.\xfffe\xfffeTo receive another Wonder Card\xfffewhen you already have 12, go to\xfffe“CHECK THE CARD ALBUM"\xfffeand delete one to make room\xfffefor a new Wonder Card.
+You can participate in competitions\xfffeusing Nintendo Wi-Fi Connection\xfffeand at events.\xfffe\xfffeFor details on the Battle Competition,\xfffego to “BATTLE COMPETITION"\xfffeon the main menu and select\xfffe“Info."
+For more details on Battle Competition,\xfffeincluding Battle Competition rules and\xfffehow to register as a user,\xfffevisit the following official websites.\xfffe\xfffePokémon Global Link website\xfffeThe Official Pokémon website
+Pokémon in your Battle Box\xfffecan participate in Battle Competitions.\xfffe\xfffeOnce registered, you cannot change\xfffethe Pokémon in your Battle Box\xfffeduring the competition.\xfffe\xfffePlease carefully select the right Pokémon\xfffebefore you start the competition.
 バトルたいかいが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
 バトルたいかいへの\xfffeとうろくが　かんりょうすると\xfffeデジタルせんしゅしょうを\xfffeかくにん　できるように　なります。\xfffe\xfffeくわしいことは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」で\xfffeかくにん　してください。
 ゲームシンクせっていを　するには\xfffeあらかじめ　「Ｗｉ－Ｆｉせってい」を\xfffeすませておく　ひつようが　あります。\xfffe\xfffeＷｉ－Ｆｉせっていを　すませたあと\xfffeゲームシンクせっていを　えらぶと\xfffeあなただけの　ばんごうである\xfffe「ゲームシンクＩＤコード」が\xfffeはっこうされます。
