@@ -1,7 +1,7 @@
-\xf000Ă\x0001\x0000を　グッズで\xfffeドレスアップ　しましょう！
-ドレスアップは\xfffeこれで　よろしいですか？
-ほかの　さんかしゃの\xfffeドレスアップを　まっています
-\xf000Ċ\x0001\x0000\xfffe\xf000ı\x0001\x0001に　にあう　グッズです
-\xf000ı\x0001\x0000に　にあう　グッズを\xfffeせんとうに　ならびかえました
-グッズの　ならびの　じゅんばんを\xfffeもとに　もどしました
-リストから　グッズを　ひきだして\xfffeポケモンに　つけることが　できます
+Let's Dress Up \xf000Ă\x0001\x0000\xfffewith Props!
+Is this look OK?
+Waiting for other participants\xfffeto Dress Up.
+\xf000Ċ\x0001\x0000: A Prop that looks\xfffenice on the \xf000ı\x0001\x0001.
+Props that look nice on the \xf000ı\x0001\x0000\xfffewere sorted at the beginning.
+The order of Props was\xffferestored to the original order.
+You can pull out Props from the list\xfffeand put them on your Pokémon.
