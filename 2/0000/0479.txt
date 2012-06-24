@@ -1,107 +1,107 @@
-『けんさく　モード』
-じょうけんを　いれて　ください
-『けんさくの　けっか』
-みつかったかず　\xf000Ȃ\x0001\x0000
-ならびじゅんを　いれてください
-なまえの　かしらもじを　いれてください
-タイプを　いれてください
-かたちを　いれてください
-いろを　いれてください
-ポケモンが　みつかりました！
-ポケモンが　みつかりません……
-けんさく　しています……
-ならび
-なまえ
-タイプ
-いろ
-かたち
-イッシュずかん：けんさくモード
-ぜんこくずかん：けんさくモード
-リセット
-スタート
-やめる
+『Search Mode』
+Please enter the search criteria.
+『Search Results』
+\xf000Ȃ\x0001\x0000 was not found.
+Please enter the order.
+Please enter the first letter in the name.
+Please enter the type.
+Please enter the form.
+Please enter the color.
+Pokémon found!
+No Pokémon found...
+Searching...
+ORDER
+NAME
+TYPE
+COLOR
+FORM
+Unova Pokédex: Search Mode
+National Pokédex: Search Mode
+RESET
+START
+CANCEL
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-けってい
-やめる
-ばんごうじゅん
-ごじゅうおん
-おもいじゅん
-かるいじゅん
-たかいじゅん
-ひくいじゅん
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
+ACCEPT
+CANCEL
+Number
+A to Z
+Heavy to Light
+Light to Heavy
+Tall to Short
+Short to Tall
+Dark
+Rock
+Psychic
+Fighting
+Grass
+Ice
+Ghost
+Ground
+Electric
+Poison
+Dragon
+Normal
+Steel
+Flying
+Fire
+Water
+Bug
 ――――
 ／
 ――――
-ア.
-イ
-ウ
-エ
-オ
-カ.
-キ
-ク
-ケ
-コ
-サ.
-シ
-ス
-セ
-ソ
-タ.
-チ
-ツ
-テ
-ト
-ナ.
-ニ
-ヌ
-ネ
-ノ
-ハ.
-ヒ
-フ
-ヘ
-ホ
-マ.
-ミ
-ム
-メ
-モ
-ヤ.
-ユ
-ヨ
-ラ.
-リ
-ル
-レ
-ロ
-ワ.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ―
-あか
-あお
-き
-みどり
-くろ
-ちゃ
-むらさき
-はい
-しろ
-もも
+Red
+Blue
+Yellow
+Green
+Black
+Brown
+Purple
+Gray
+White
+Pink
 ――――
