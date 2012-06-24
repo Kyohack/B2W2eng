@@ -2,20 +2,20 @@
 ID\xf000Ȅ\x0001\x0000
 When the group is ready:\xfffeA Button: Proceed   B Button: Cancel
 Is this group OK?
-ぐるぐるこうかんを\xfffeちゅうし　しますか？
-それでは　ぐるぐるこうかんを\xfffeちゅうし　します
-つごうが　わるくなってしまった\xfffeメンバーが　います
-メンバーが　いなくなりました\xfffeぐるぐるこうかんを　ちゅうし　します
-そのまま　おまちください\xfffeＢボタン：やめる
-つごうのつかない　メンバーがいたので\xfffeぐるぐるこうかんを　ちゅうし　します
-ぐるぐるこうかんを　やめますか？
-それでは　ぐるぐるこうかんを\xfffeちゅうし　します
+Cancel the Spin Trade?
+The Spin Trade will be canceled.
+A member has dropped out.
+There are no members.\xfffeThe Spin Trade will be canceled.
+Please wait.\xfffeB Button: Cancel
+A member dropped out.\xfffeThe Spin Trade will be canceled.
+Cancel the Spin Trade?
+The Spin Trade will be canceled.
 レコードを　まぜています\xfffeでんげんを　きらないで　ください！
-ぐるぐるこうかんが　おわりました！\xfffeユニオンルームへ　いどうします
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-\xf000Ā\x0001\x0000さんが　かえりました
-リーダーの　\xf000Ă\x0001\x0000さんが\xfffeぬけたので　かいさん　します
-ぐるぐるこうかん　ぼしゅうちゅう！
-ぐるぐるこうかんちゅう！
+The Spin Trade is done!\xfffeYou will be returned to the Union Room.
+If the leader drops out, the group will\xfffebe disbanded. Is that OK?
+\xf000Ā\x0001\x0000 has left.
+\xf000Ā\x0001\x0000, the leader, has left.\xfffeThe group will be disbanded.
+Seeking a Spin Trade!
+Spin Trade in progress!
 Yes
 No
