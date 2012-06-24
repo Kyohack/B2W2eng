@@ -115,7 +115,7 @@ White Gate
 Bridge Gate
 Route Gate
 Abyssal Ruins
-ヒオウギシティ
+Blackberry City
 タチワキシティ
 セイガイハシティ
 ポケウッド
@@ -138,13 +138,13 @@ Route 23
 ヤーコンロード
 －－－－－－－－－－
 しろのじゅどう
-くろのまてんろう
-うみべのどうけつ
+Black Skyscraper
+Seaside Cave
 こころのくうどう
 かくしあな
 マリンチューブ
 タチワキゲート
-ヒオウギゲート
+Blackberry City Gate
 しぜんほごく
 メダルじむきょく
 ちていいせき
