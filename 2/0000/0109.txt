@@ -117,36 +117,36 @@ Route Gate
 Abyssal Ruins
 ヒオウギシティ
 タチワキシティ
-セイガイハシティ
-ポケウッド
-ジョインアベニュー
+Virbank City
+Pokéwood
+Join Avenue
 サンギタウン
-ヤマジタウン
+Yamaji Town
 Route 19
 Route 20
 Route 21
 Route 22
 Route 23
-ヒウンげすいどう
-サンギぼくじょう
-タチワキコンビナート
+Castelia Sewers
+Sangi Ranch
+Virbank Industrial Complex
 リバースマウンテン
-ストレンジャーハウス
-チャンピオンロード
-プラズマフリゲート
-こだいのぬけみち
-ヤーコンロード
+Stranger's House
+Victory Road
+Plasma Frigate
+Ancient Path
+Clay Road
 －－－－－－－－－－
 しろのじゅどう
 くろのまてんろう
-うみべのどうけつ
-こころのくうどう
+Seaside Cave
+Heart Hollow
 かくしあな
-マリンチューブ
+Marine Tube
 タチワキゲート
 ヒオウギゲート
 しぜんほごく
-メダルじむきょく
+Nature Sanctuary
 ちていいせき
 いわやまのま
 ひょうざんのま
