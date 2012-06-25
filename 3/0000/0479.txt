@@ -1,6 +1,6 @@
 \xf000Ā\x0001\x0000は\xfffeBooted up PC.\xf000븁\x0000
 Which PC should \xfffebe accessed?
-Amanita’s PC
+Someone’s PC
 ショウロのパソコン
 \xf000Ā\x0001\x0000 PC
 Professor’s PC
