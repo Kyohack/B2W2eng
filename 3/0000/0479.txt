@@ -1,17 +1,17 @@
 \xf000Ā\x0001\x0000は\xfffeパソコンの　スイッチを　いれた！\xf000븁\x0000
 どこの　パソコンに　せつぞくして\xfffeつうしん　しますか？
-だれかのパソコン
-ショウロのパソコン
+Someone's PC
+Amanita's PC
 \xf000Ā\x0001\x0000のパソコン
 はかせのパソコン
-きろくをみる
+Records
 ヘルプをみる
 スイッチをきる
 アララギはかせの\xfffeパソコンに　せつぞく　した！\xf000븀\x0000
-でんどういりの\xfffeデータが　こわれています\xf000븁\x0000\xfffeもういちど　でんどういり　すれば\xfffeだいじょうぶ　です\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000\xfffeはじめて　クリアした　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000\xfffeチャンピオンに　かった　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000\xfffeキュレムを　つかまえた　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
+Your Hall of Fame data is corrupted.\xf000븁\x0000\xfffeIt will be fixed if you enter the\xfffeHall of Fame again.\xf000븁\x0000
+Congratulations!\xf000븁\x0000\xfffeMore wallpapers were added\xfffeto commemorate your success.\xf000븁\x0000
+Congratulations!\xf000븁\x0000\xfffeWallpapers were added to commemorate\xfffeyour victory against the Champion.\xf000븁\x0000
+Congratulations!\xf000븁\x0000\xfffeWallpapers were added to commemorate\xfffeyour capture of Kyurem.\xf000븁\x0000
 ポケモンの　あずかりシステムを\xfffeよびだした！\xf000븁\x0000
 ポケモンを　あずける
 ポケモンを　つれていく
@@ -30,13 +30,13 @@
 せつぞくを　きる
 メールを　２０つう　まで\xfffeほぞん　することが　できます
 じぶんのパソコン　への\xfffeつうしんを　せつだん　します
-はじめてのクリア
-でんどういり
+First game clear
+Hall of Fame
 せつぞくを　きる
-きろく　システムに\xfffeせつぞく　した！\xf000븁\x0000
-はじめて　クリアしたときの\xfffeメンバーを　みることが　できます
-でんどういり　したときの\xfffeメンバーを　みることが　できます
-きろくシステム　への\xfffeつうしんを　せつだん　します
-アララギはかせの\xfffeパソコンに　せつぞく　した！\xf000븁\x0000
-ヘルプ　システムに\xfffeせつぞく　した！\xf000븁\x0000
+Accessed the Record System!\xf000븁\x0000
+You can see the members at the time\xfffewhen you first finished the game.
+You can see the members at the time\xfffewhen you entered the Hall of Fame.
+Log out of the Record System.
+Accessed Professor Juniper's PC.\xf000븁\x0000
+Accessed the Help System.\xf000븁\x0000
 　
