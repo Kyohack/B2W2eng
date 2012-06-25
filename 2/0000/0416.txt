@@ -1,80 +1,80 @@
 Ｗｉ－Ｆｉせつぞくを　かいしします
 Ｗｉ－Ｆｉコネクションに　せつぞくして\xfffeいます。　しばらく　おまちください
-\xf000Ā\x0001\x0000さんは　たいせんあいてを\xfffeぼしゅうちゅう　です
-\xf000Ā\x0001\x0000さんは　こうかんあいてを\xfffeぼしゅうちゅう　です
+\xf000Ā\x0001\x0000 is seeking someone\xfffeto battle.
+\xf000Ā\x0001\x0000 is seeking someone\xfffeto trade with.
 \xf000Ā\x0001\x0000さんは\xfffeたいきちゅう　です
-どの　あいてを　ぼしゅう　しますか？
-あいてを　ぼしゅうちゅう　です！
-ぼしゅうを　ちゅうだん　しますか？
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください……
+What would you like to seek?
+Seeking participants...
+Suspend your invitation?
+Communicating. Please stand by...
 Ｗｉ－Ｆｉせつぞくを\xfffeしゅうりょう　しますか？
 レポートを　かいています\xfffeでんげんを　きらないでください
-\xf000Ā\x0001\x0000さんが　ボイスチャットを\xfffeもうしこんで　きました！
-\xf000Ā\x0001\x0000さんは\xfffeとりこみちゅうの　ようです……
-\xf000Ā\x0001\x0000さんとは\xfffeせつぞくすることが　できません
-\xf000Ā\x0001\x0000さんに\xfffeもうしこみちゅう　です……
-\xf000Ā\x0001\x0000さんの\xfffeはんのうが　ありませんでした……
-\xf000Ā\x0001\x0000さんが　ボイスチャットを\xfffeしゅうりょう　しました
+\xf000Ā\x0001\x0000 invites you for\xfffea Voice Chat!
+\xf000Ā\x0001\x0000 appears to be busy...
+You can't connect with\xfffe\xf000Ā\x0001\x0000.
+Communicating with \xf000Ā\x0001\x0000...
+\xf000Ā\x0001\x0000 failed to respond...
+\xf000Ā\x0001\x0000 ended the Voice Chat.
 ボイスチャットを\xfffeしゅうりょう　しますか？
 Ｗｉ－Ｆｉコネクションに　せつぞく
 せつぞくちゅうの　ともだち
 Yes
 No
-たいせん
-たいせん
-たいせんちゅう
-こうかん
-こうかんちゅう
-ボイスチャット
+Battle
+Battle
+During the battle
+Trade
+During the rade
+Voice Chat
 あいてを　ぼしゅうする
 Ｗｉ－Ｆｉせつぞくを　やめる
 もうしこむ
 きろくを　みる
-やめる
+Cancel
 \xf000Ā\x0001\x0000
-グループ　\xf000Ā\x0001\x0000
-たいせんせいせき
-かち\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
-まけ\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
-ポケモンこうかん
+GROUP \xf000Ā\x0001\x0000
+BATTLE RECORD
+W: \xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+L: \xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+POKÉMON TRADES
 \xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
 りょうりかいすう
 \xf000ȃ\x0001\x0000かい
-さいごにあそんだひづけ
+DATE LAST PLAYED
 とじる
 \xf000ȃ\x0001\x0000／\xf000ȁ\x0001\x0001／\xf000ȁ\x0001\x0002
 \xf000Ā\x0001\x0000さんとの　きろくです
-\xf000Ā\x0001\x0000さんから\xfffeさんかの　もうしこみが　ありました！\xf000븂\x0001<
+\xf000Ā\x0001\x0000 wants to join you!\xf000븂\x0001<
 \xf000Ā\x0001\x0000さんと　もういちど\xfffeたいせんを　しますか？
 \xf000Ā\x0001\x0000さんと　もういちど\xfffeこうかんを　しますか？
-たいきちゅう
+Standing by...
 せつだん　する
-\xf000Ā\x0001\x0000さんは　たいせんちゅう　です
-\xf000Ā\x0001\x0000さんは　こうかんちゅう　です
-\xf000Ā\x0001\x0000さんは\xfffeボイスチャットちゅう　です
+\xf000Ā\x0001\x0000 is in a battle.
+\xf000Ā\x0001\x0000 is trading.
+\xf000Ā\x0001\x0000 is in a Voice Chat.
 でんげんを　きって\xfffeＷｉ－Ｆｉせっていを　しますか？
-もういちど　Ｗｉ－Ｆｉコネクションに\xfffeせつぞく　しますか？
+Reconnect to Nintendo WFC?
 こうかんには　てもちの　ポケモンが\xfffe２ひき　いじょう　ひつようです
-ボイスチャットを　オンにしました
-ボイスチャットを　オフにしました
-？？？
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-せいげんなし
-フラットルール
-ミラクルシューター　あり
-ミラクルシューター　なし
-あいてが　つうしんたいせんを\xfffeしゅうりょう　しました
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください……
+Voice Chat was turned on.
+Voice Chat was turned off.
+???
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+No Restrictions
+Flat rule
+Wonder Launcher On
+Wonder Launcher Off
+Your friend ended\xfffethe communication battle.
+Communicating. Please stand by...
 てもちポケモンが　１ひき　なので\xfffeダブルバトルを　あそべません！
-もうしこみを　ちゅうだん　しますか？
-この　ともだちと　あそぶと\xfffeボイスチャットが　オンに　なります\xf000븁\x0000\xfffeあそび　おわると\xfffeボイスチャットは　オフに　なります\xf000븁\x0000\xfffeこの　ともだちと　あそびますか？
-この　ともだちと　あそぶと\xfffeボイスチャットが　オフに　なります\xf000븁\x0000\xfffeあそび　おわると\xfffeボイスチャットが　オンに　なります\xf000븁\x0000\xfffeこの　ともだちと　あそびますか？
-もうしこみを\xfffeちゅうだん　しました
+Suspend your request?
+Voice Chat will be turned on\xfffewhile you are playing with this friend.\xf000븁\x0000\xfffeDo you want to play with this friend?
+Voice Chat will be turned off\xfffewhile you are playing with this friend.\xf000븁\x0000\xfffeDo you want to play with this friend?
+The request has been suspended.
 この　ともだちと\xfffeあそぶことが　できません！
-あいての　せんたくを　まっています\xfffeしばらく　おまちください
+Awaiting your friend's decision.\xfffePlease wait.
 みちぼしゅうちゅう
 じょうたいかいじょ
 つうしんエラーが　はっせいしました\xfffe\xf000Ȅ\x0001\x0000
@@ -86,65 +86,65 @@ No
 ３ＢＩＴＡＤＰＣＭ
 ４ＢＩＴＡＤＰＣＭ
 バケット
-ライブキャスター
-\xf000Ā\x0001\x0000さんは\xfffeいそがしい　みたいです
-\xf000Ā\x0001\x0000さんは\xfffeボイスチャットを　したいようです
-\xf000Ā\x0001\x0000さんは\xfffeライブキャスターちゅう　です
-\xf000Ā\x0001\x0000さんは　ライブキャスターの\xfffeあいてを　ぼしゅうちゅう　です
-せつぞくする
-\xf000Ā\x0001\x0000さんが\xfffeはなしかけて　きました……
-\xf000Ā\x0001\x0000さんと\xfffeあそびますか？
-\xf000Ā\x0001\x0000さんと\xfffeなにを　しますか？
-\xf000Ā\x0001\x0000さんと\xfffeボイスチャットを　しますか？
-\xf000Ā\x0001\x0000さんと\xfffeライブキャスターを　しますか？
-\xf000Ā\x0001\x0000さんと\xfffeこうかんを　しますか？
-けってい
-ルールをみる
-てもち
-バトルボックス
-じょうけんを　みたして　いないので\xfffeたいせん　できません
-シングルバトルの\xfffeせいげんなしを　しますか？
-ダブルバトルの\xfffeせいげんなしを　しますか？
-トリプルバトルの\xfffeせいげんなしを　しますか？
-ローテーションバトルの\xfffeせいげんなしを　しますか？
-シングルバトルの\xfffeフラットルールを　しますか？
-ダブルバトルの\xfffeフラットルールを　しますか？
-トリプルバトルの\xfffeフラットルールを　しますか？
-ローテーションバトルの\xfffeフラットルールを　しますか？
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-おさそいを　ことわりました
-ともだちの　つごうが\xfffeわるい　ようです
+Xtransceiver
+\xf000Ā\x0001\x0000 seems\xfffeto be busy.
+\xf000Ā\x0001\x0000 wants to\xfffehave a Voice Chat.
+\xf000Ā\x0001\x0000 is using\xfffethe Xtransceiver.
+\xf000Ā\x0001\x0000 is looking for someone\xfffeto chat with on the Xtransceiver.
+Connect
+\xf000Ā\x0001\x0000 has\xfffecontacted you...
+Do you want to play\xfffewith \xf000Ā\x0001\x0000?
+What would you like to\xfffedo with \xf000Ā\x0001\x0000?
+Would you like to talk with\xfffe\xf000Ā\x0001\x0000 using Voice Chat?
+Would you like to talk with\xfffe\xf000Ā\x0001\x0000 using the Xtransceiver?
+Trade with \xf000Ā\x0001\x0000?
+Confirm
+Rules
+In party
+Battle Box
+You do not meet the conditions,\xfffeso you cannot battle.
+Will you have a Single Battle\xfffewith no restrictions?
+Will you have a Double Battle\xfffewith no restrictions?
+Will you have a Triple Battle\xfffewith no restrictions?
+Will you have a Rotation Battle\xfffewith no restrictions?
+Will you have a Single Battle\xfffewith flat rules?
+Will you have a Double Battle\xfffewith flat rules?
+Will you have a Triple Battle\xfffewith flat rules?
+Will you have a Rotation Battle\xfffewith flat rules?
+Please select whether to use your\xfffeparty Pokémon or your Battle Box.
+You declined the offer.
+Your friend is apparently\xfffeunable to participate.
 L\xf000Ȃ\x0001\x0000
-\xf000\xff00\x0001\x0002♂\xf000\xff00\x0001\x0000
-\xf000\xff00\x0001\x0001♀\xf000\xff00\x0001\x0000
-\xf000Ā\x0001\x0000さんと\xfffeつづけて　あそびますか？
+\xf000\xff00\x0001\x0002⑭\xf000\xff00\x0001\x0000
+\xf000\xff00\x0001\x0001⑮\xf000\xff00\x0001\x0000
+Would you like to play with\xfffe\xf000Ā\x0001\x0000 again?
 ペアレンタルコントローラーの\xfffeせっていにより　しゃしんデータの\xf000븀\x0000\xfffeそうじゅしんが　せいげんされます\xf000븁\x0000\xfffeカメラを　つかえるように　するには\xfffeほんたいせっていに　もどり\xf000븀\x0000\xfffeせいげんを　かいじょ　してください
-こうかんには　てもちの　ポケモンが\xfffe２ひき　いじょう　ひつようです
-かいわちゅう
-Ｂボタンで　ボイスチャットを\xfffeしゅうりょう　できます
-かいわを　しゅうりょう　しました
-ともだちは　いそがしい　ようです\xfffeつうしんを　しゅうりょう　します
-\xf000Ā\x0001\x0000さんの\xfffeへんじを　まっています……
+You need at least two Pokémon\xfffeif you want to trade!
+Talking
+Press the B Button\xfffeto end Voice Chat.
+You ended the conversation.
+Your friend is busy.\xfffeEnding communication...
+Awaiting \xf000Ā\x0001\x0000's response...
 たいきちゅう
 ボイスチャットちゅう
 ライブキャスター
 ライブキャスターちゅう
-たいせんけいしき\xf000봅\x0001x：\xf000\xff00\x0001\x0002シングルバトル\xf000\xff00\x0001\x0000
-たいせんけいしき\xf000봅\x0001x：\xf000\xff00\x0001\x0002ダブルバトル\xf000\xff00\x0001\x0000
-たいせんけいしき\xf000봅\x0001x：\xf000\xff00\x0001\x0002トリプルバトル\xf000\xff00\x0001\x0000
-たいせんけいしき\xf000봅\x0001x：\xf000\xff00\x0001\x0002ローテーションバトル\xf000\xff00\x0001\x0000
-たいせんルール\xf000봅\x0001x：\xf000\xff00\x0001\x0002せいげんなし\xf000\xff00\x0001\x0000
-たいせんルール\xf000봅\x0001x：\xf000\xff00\x0001\x0002フラットルール\xf000\xff00\x0001\x0000
-ミラクルシューター\xf000봅\x0001x：\xf000\xff00\x0001\x0002あり\xf000\xff00\x0001\x0000
-ミラクルシューター\xf000봅\x0001x：\xf000\xff00\x0001\x0002なし\xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001x: \xf000\xff00\x0001\x0002Single Battle\xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001x: \xf000\xff00\x0001\x0002Double Battle\xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001x: \xf000\xff00\x0001\x0002Triple Battle\xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001x: \xf000\xff00\x0001\x0002Rotation Battle\xf000\xff00\x0001\x0000
+Battle Rule\xf000봅\x0001x: \xf000\xff00\x0001\x0002No Restrictions\xf000\xff00\x0001\x0000
+Battle Rule\xf000봅\x0001x: \xf000\xff00\x0001\x0002Flat rules\xf000\xff00\x0001\x0000
+Wonder Launcher\xf000봅\x0001x: \xf000\xff00\x0001\x0002On\xf000\xff00\x0001\x0000
+Wonder Launcher\xf000봅\x0001x: \xf000\xff00\x0001\x0002Off\xf000\xff00\x0001\x0000
 \xf000Ā\x0001\x0000さんが\xfffeたいせんを　もうしこんできました
-いまは　おはなしできないみたい
-シングル
-ダブル
-トリプル
-ローテーション
-それでは　さんかする\xfffeポケモンを　えらんでください
-それでは　さんかする　ポケモンを\xfffe３ひき　えらんでください
-それでは　さんかする　ポケモンを\xfffe４ひき　えらんでください
-それでは　さんかする　ポケモンを\xfffe６ひき　えらんでください
-カメラきのうを　つかって　ともだちに\xfffeがぞうデータを　おくります\xf000븀\x0000\xfffeよろしいですか？
+It looks like you can't talk now.
+Single
+Double
+Triple
+Rotation
+Please choose the Pokémon that\xfffewill participate.
+Please select three Pokémon that\xfffewill participate.
+Please select four Pokémon that\xfffewill participate.
+Please select six Pokémon that\xfffewill participate.
+This uses the camera function\xfffeto send image data to your friends.\xf000븀\x0000\xfffeIs this OK?
