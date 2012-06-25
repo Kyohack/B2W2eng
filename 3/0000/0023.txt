@@ -1,8 +1,8 @@
-ようこそ！\xfffeシッポウはくぶつかん　へ
+Welcome to the Nacrene Museum!
 いま　はくぶつかん　では\xfffeでんせつポケモンの　かりの　すがた\xf000븁\x0000\xfffeあの　ダークストーンの\xfffeレプリカを　てんじ　しております
 いま　はくぶつかん　では\xfffeでんせつポケモンの　かりの　すがた\xf000븁\x0000\xfffeあの　ライトストーンの\xfffeレプリカを　てんじ　しております
-うーむ！　この　こっかくは\xfffeいつみても……　ホレボレしますな\xf000븁\x0000
-どうも　わたくし\xfffeふくかんちょうの　キダチ　です\xf000븁\x0000\xfffeせっかく　いらしたのです　\xfffeかんないを　あんない　しましょう！\xf000븁\x0000
+Wow! Whenever I look at this skeleton,\xfffeI'm...fascinated.\xf000븁\x0000
+Welcome! I'm Hawes, the\xfffeassistant director.\xf000븁\x0000\xfffeSince you were kind enough to visit,\xfffeI'll give you a tour of the museum.\xf000븁\x0000
 ？？？『あんた　\xf000Ā\x0001\x0000だろ！\xfffeわざわざ　きてくれたんだね！\xf000븁\x0000\xfffeそうだ　あんた！\xfffeふたのカセキと　はねのカセキ\xf000븀\x0000\xfffeどっちが　すきだい？
 ふたのカセキ
 はねのカセキ
@@ -21,19 +21,19 @@
 ああ！\xfffeこちらです　こちら！\xf000븁\x0000\xfffeこれが　あの　ダークストーンの\xfffeレプリカ　なんですよ！\xf000븁\x0000\xfffeごぞんじ　ですか？\xfffeダークストーン！\xf000븁\x0000\xfffeでんせつポケモン　ゼクロムが\xfffeねむりに　ついたときの　すがた……\xf000븁\x0000\xfffeえっ？　ゼクロムを　みた？\xfffeそりゃ　すごい！　でしたら\xf000븀\x0000\xfffeわたしの　かいせつは　だそくですね\xf000븁\x0000
 ああ！\xfffeこちらです　こちら！\xf000븁\x0000\xfffeこれが　あの　ライトストーンの\xfffeレプリカ　なんですよ！\xf000븁\x0000\xfffeごぞんじ　ですか？\xfffeライトストーン！\xf000븁\x0000\xfffeでんせつポケモン　レシラムが\xfffeねむりに　ついたときの　すがた……\xf000븁\x0000\xfffeえっ？　レシラムを　みた？\xfffeそりゃ　すごい！　でしたら\xf000븀\x0000\xfffeわたしの　かいせつは　だそくですね\xf000븁\x0000
 つぎの　へやは　としょしつ\xfffeその　おくは　かんちょうしつ　です\xf000븁\x0000\xfffeちなみに　かんちょうの　アロエは\xfffeもと　ジムリーダー　なのです
-ホネの　ひょうほん　って\xfffeふしぎ　なんですよ……\xf000븁\x0000\xfffeきのうてきで　むだのない　デザインも\xfffeがいけん　からは　みえない\xf000븁\x0000\xfffeなんだか　ほんしつ　って　ことばを\xfffeあらわしているようで……　ホレボレです
-せかいかっこくの　めずらしいモノ……\xfffeはくぶつかんは　ロマンが　つまってる
+Skeletal specimens are so mysterious...\xf000븁\x0000\xfffeFrom the outside, you can't see their\xfffefunctional, efficient design.\xf000븁\x0000\xfffeIt's almost as if it is an embodiment of\xfffetheir former essence... So fascinating!
+Rare Pokémon from around the world...\xfffeMuseums are packed with adventure!
 かんちょうの　アロエさんは\xfffeカセキや　ポケモンのホネ　の\xf000븁\x0000\xfffeけんきゅうが　いそがしすぎて\xfffeジムリーダーを　やすんでるって！
 もしかすると　いんせきと　いっしょに\xfffeうちゅうから　やってきた\xf000븀\x0000\xfffeポケモンも　いるかもしれんのう
 ガラガラの　もつ　ふといホネ……\xf000븁\x0000\xfffeカラカラが　ははおやの　ホネを\xfffeかぶって　すごすように\xf000븁\x0000\xfffeガラガラも　したしい　だれかの\xfffeホネで　ふるって　たたかうのかしら
 あんた！\xfffeホネは　かたるのさ！\xf000븁\x0000
 あんたなら　だいじょうぶだろうけど\xfffeひとと　いけんが　ちがっても\xf000븀\x0000\xfffeそれが　あたりまえ　なんだからね\xf000븁\x0000\xfffeいちいち　もめるんじゃないよ\xfffeむしろ　たのしみなよ\xf000븀\x0000\xfffeなぜ　そうおもうのか　ってね！
-せかいじゅうを　とびまわっていた\xfffeポケモンの　ホネの　ひょうほん
-とても　がんじょうな　こうらで\xfffeまもっていた　ポケモンのカセキ
-うちゅうウイルスが\xfffeふちゃくしていた　いんせき
-さばくに　うもれていた\xfffeこだいの　まるい　いし
+This is a skeletal specimen from a\xfffePokémon that flew around the world.
+It's a Fossil of a Pokémon that was\xfffeprotected by a very hard shell.
+A meteor that has a space virus\xfffeattached to it.
+An ancient round stone that was buried\xfffein the desert.
 とくべつてんじ！\xf000븁\x0000\xfffeでんせつのポケモン　ゼクロムの\xfffeかりのすがた　ダークストーン\xf000븀\x0000\xfffeその　レプリカ
 とくべつてんじ！\xf000븁\x0000\xfffeでんせつのポケモン　レシラムの\xfffeかりのすがた　ライトストーン\xf000븀\x0000\xfffeその　レプリカ
-まだ　かいどく　されていない\xfffeもじが　きざまれた　せきばん
-むかしの　ひとびとが\xfffeまつりのときに　つけた　かめん
-とある　ポケモンが\xfffeぶきとして　もっていた　ホネ
+A plate with an unknown script carved\xfffeinto it.
+A mask that ancient people used to wear\xfffeat festivals.
+Bones that were once carried as weapons\xfffeby a certain kind of Pokémon.
