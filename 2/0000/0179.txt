@@ -68,46 +68,46 @@ TRAINER MEMO
 \xf000\xff00\x0001\x0002あまい\xf000\xff00\x0001\x0000ものが　すき。
 \xf000\xff00\x0001\x0002にがい\xf000\xff00\x0001\x0000ものが　すき。
 \xf000\xff00\x0001\x0002すっぱい\xf000\xff00\x0001\x0000ものが　すき。
-なんでも　よくたべる。
-たべるのが　だいすき。
-ひるねを　よくする。
-いねむりが　おおい。
-ものを　よく　ちらかす。
-のんびりするのが　すき。
-ちからが　じまん。
-あばれることが　すき。
-ちょっと　おこりっぽい。
-ケンカを　するのが　すき。
-ちのけが　おおい。
-からだが　じょうぶ。
-うたれ　づよい。
-ねばり　づよい。
-しんぼう　づよい。
-がまん　づよい。
-かけっこが　すき。
-ものおとに　びんかん。
-おっちょこちょい。
-すこし　おちょうしもの。
-にげるのが　はやい。
-こうきしんが　つよい。
-イタズラが　すき。
-ぬけめが　ない。
-かんがえごとが　おおい。
-とても　きちょうめん。
-きが　つよい。
-ちょっぴり　みえっぱり。
-まけんきが　つよい。
-まけずぎらい。
-ちょっぴり　ごうじょう。
+Happily eats anything.
+Loves to eat.
+Often dozes off.
+Often naps.
+Often scatter things.
+Likes to relax.
+Proud of its power.
+Likes to thrash about.
+A little quick tempered.
+Likes to fight.
+Quick tempered.
+Sturdy body.
+Capable of taking hits.
+Highly persistent.
+Good endurance.
+Good perseverence.
+Likes to run.
+Alert to sounds.
+Impetuous and silly.
+Somewhat of a clown.
+Quick to flee.
+Highly curious.
+Mischievious.
+Thoroughly cunning.
+Often lost in thought.
+Very finicky.
+Strongwilled.
+Somewhat vain.
+Strongly defiant.
+Hates to lose.
+Somewhat stubborn.
 ２０\xf000ȁ\x0001\x0005ねん\xf000ȁ\x0001\x0006がつ\xf000ȁ\x0001\x0007にち\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000から\xfffeもらった　ふしぎな\xfffeポケモンの　タマゴ。\xfffe
 ２０\xf000ȁ\x0001\x0005ねん\xf000ȁ\x0001\x0006がつ\xf000ȁ\x0001\x0007にち\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000で\xfffeてにいれた　ふしぎな\xfffeポケモンの　タマゴ。\xfffe
 ２０\xf000ȁ\x0001\x0005ねん\xf000ȁ\x0001\x0006がつ\xf000ȁ\x0001\x0007にち\xfffe\xf000\xff00\x0001\x0001\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000で\xfffeてにいれた　とっても\xfffeふしぎな　ふしぎな\xfffeポケモンの　タマゴ。\xfffe
 ２０\xf000ȁ\x0001\x0005ねん\xf000ȁ\x0001\x0006がつ\xf000ȁ\x0001\x0007にち\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000から\xfffeやってきた　とっても\xfffeふしぎな　ふしぎな\xfffeポケモンの　タマゴ。\xfffe
-「タマゴのようす」\xfffeなかから　おとが\xfffeきこえてくる！\xfffeもうすぐ　うまれそう！\xfffe
-「タマゴのようす」\xfffeときどき　うごいている\xfffeみたい。　うまれるまで\xfffeもう　ちょっとかな？
-「タマゴのようす」\xfffeなにが　うまれてくるのかな？\xfffeうまれるまで　まだまだ\xfffeじかんが　かかりそう。
-「タマゴのようす」\xfffeこの　タマゴは\xfffeうまれるまで　かなり\xfffeじかんが　かかりそう。
-のうりょく
+"The Egg Watch"\xfffeSounds can be heard\xfffecoming from inside!\xfffeIt will hatch soon!
+"The Egg Watch"\xfffeIt appears to move\pccasionally. It may\xfffebe close to hatching!
+"The Egg Watch"\xfffeWhat will hatch from\xfffethis? It doesn't seem\xfffeclose to be hatching.
+"The Egg Watch"\xfffeこの　タマゴは\xfffeうまれるまで　かなり\xfffeじかんが　かかりそう。
+STATS
 HP
 Attack
 Defense
