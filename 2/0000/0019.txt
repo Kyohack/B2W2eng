@@ -198,4 +198,4 @@ But it's not where this item\xfffecan be used!
 Sky Drop won't let \xf000Č\x0001\x0000 go!
 The match was forfeited.
 (\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
-あっ！　やせい？の\xfffe\xf000ā\x0001\x0000が　あらわれた！
+Oh!　A wild \xfffe\xf000ā\x0001\x0000が appeared?!
