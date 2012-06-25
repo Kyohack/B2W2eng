@@ -1,5 +1,5 @@
-ぼうけん
-せんとう
-おたのしみ
-ちょうせん
-とくべつ
+Adventure
+Beginning
+Fun
+Challenge
+Special
