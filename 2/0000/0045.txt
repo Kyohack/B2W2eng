@@ -6,43 +6,43 @@ Lv. 1 through Lv. 49
 Lv. 50
 Lv. 51 through Lv. 100
 Any kind
-かっこいい
-かわいい
-こわい
-へんな
-なんでも
-こうかんサーチ
-きぼうにそった　こうかんあいてを\xfffeさがしています……
-キャンセル
-あいてのじょうほうを　もらっています
-こうかんあいてが　みつかりました！
-サーチ
-こうかんする　あいてを\xfffeえらんで　ください
-こうかんきぼう　じょうけんをきめて\xfffeサーチを　おしてください
+COOL
+CUTE
+SCARY
+STRANGE
+ANY KIND
+TRADE SEARCH
+Searching for the right person\xfffeto trade with...
+CANCEL
+Getting information from the other person...
+A trade partner has been found!
+SEARCH
+Please select who you wish\xfffeto trade with.
+Please press “SEARCH" when you've\xfffechosen the desired trade conditions.
 こうかんあいて
 どちらの　こうかんを　するか\xfffeえらんで　ください
-ほしいポケモン
-あげるポケモン
-Yes
-No
-まちあわせ
-\xf000Ā\x0001\x0000 \xf000봃\x0001\x0001ＩＤ：\xf000Ȅ\x0001\x0001\xfffe\xf000Ĥ\x0001\x0002
-まだ　まちあわせが\xfffeできる　ひとは　いません
-まちあわせあいての　せんたく
-このひとと　まちあわせしますか？
-こうかんあいての　えらびかたを\xfffeきめてください
-やめる
+WANT
+HAVE
+YES
+NO
+YES
+\xf000Ā\x0001\x0000 \xf000봃\x0001\x0001ID: \xf000Ȅ\x0001\x0001\xfffe\xf000Ĥ\x0001\x0002
+You have no one to Rendezvous with...
+SELECT FOR RENDEZVOUS
+Will you Rendezvous with this person?
+Please select how your trade\xfffepartner is chosen.
+CANCEL
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-あいさつ
-\xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000かい
+GREETINGS
+\xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
 さがすのを　あきらめますか？
-こうかんを　かいしします！
-\xf000봃\x0001\x0001こうかんすう
-すんでいるばしょ
-Ｗｉ－Ｆｉコネクション　から\xfffeせつだん　しても　よろしいですか？
-こうかんには　てもちの　ポケモンが\xfffe２ひき　いじょう　ひつようです
-みんなと　まちあわせ
-いぜん　ポケモンを　こうかん\xfffeしたひとと　まちあわせますか？
+The trade will be started.
+\xf000봃\x0001\x0001NO. OF TRADES
+LOCATION
+Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
+You need at least two Pokémon\xfffeif you want to trade!
+RENDEZVOUS WITH ANY
+Will you trade with someone\xfffeyou have traded with before?
 さくじょします
 ９９ついかします
