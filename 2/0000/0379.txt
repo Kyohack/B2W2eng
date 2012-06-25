@@ -25,14 +25,14 @@ Battle Test HIGH SCORE
 ＰＷＴ　ゆうしょう　かいすう
 \xf000Ĺ\x0001\x0007に
 あんないした　ひとの　かず
-:
--- --, ---- --:--
+：
+－－－－年 －－月 －－日 －－時 －－分
 ーー：ーー
-もどる
-タッチで　めくる
-サインを　かく
-トレーナーカードに\xfffeサインを　かきますか？
-いま　かかれている　サインは\xfffeきえますが　よろしいですか？
+Cancel
+Touch Card to flip.
+Sign Card
+Want to sign \xfffeyour Trainer Card?
+Your current signature will be erased. \xfffeIs that OK?
 Hardy
 Lonely
 Brave
@@ -63,12 +63,12 @@ Quirky
 \xf000ȃ\x0001\x0000年 \xf000ȁ\x0001\x0001月 \xf000ȁ\x0001\x0002日
 \xf000ȃ\x0001\x0000年 \xf000ȁ\x0001\x0001月 \xf000ȁ\x0001\x0002日 \xf000ȁ\x0001\x0003時 \xf000ȁ\x0001\x0004分
 \xf000Ȃ\x0001\x0000ひき
-Striaton City Gym Leaders\xfffeChili, Cress, Cilan
-Triple Trouble!
-The fundamentals of Pokémon battling\xfffeare type matchups! They're important!
-Nacrene City Gym Leader\xfffeLenora
-An Archeologist with Backbone
-Curiosity is the spice of life!\xfffeWithout it, life is bland!
+Aspertia City Gym Leader\xfffeCheren
+しんりを　もとめる　もの
+みんなの　ゆめは　それぞれ　ちがう\xfffeきみは　きみが　したいことを　さがせ
+Virbank City Gym Leader\xfffeRoxie
+ポイズンライフ　ポイズンライブ！
+ともだちのため　ポケモンのため\xfffeノー！　というのも　やさしさでしょ！
 Castelia City Gym Leader\xfffeBurgh
 Premier Insect Artist
 Umm... That's right. You!\xfffeUse Bug-type Pokémon!
@@ -81,19 +81,16 @@ Ya always want to live honestly\xfffefer yerself and yer Pokémon.
 Mistralton City Gym Leader\xfffeSkyla
 The High-Flying Girl
 You’ll see smiles all around you,\xfffewith the brightest of skies above you.
-Icirrus City Gym Leader\xfffeBrycen
-Ice Mask
-Don't limit yourself to hot or cold, but\xfffeuse them both to your best advantage.
 Opelucid City Gym Leader\xfffeDrayden
 The Spartan Mayor
 Sincere Trainer,\xfffekeep growing stronger!
-Opelucid City Gym Leader\xfffeIris
-The Girl Who Knows the Hearts of Dragons
-Know what? You were very strong!\xfffeI'll never forget you, ever!
-Trio Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Seigaiha City Gym Leader\xfffeShizui
+うみよりも　うみな　おとこ！
+じんせいを　あらなみに　たとえるのも\xfffeちんぷだが　おはん　ながされるなよ！
+Basic Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
 Traded Pokémon up to Lv. 20 will\xfffeobey you.
 
-Basic Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Toxic Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
 Traded Pokémon up to Lv. 30 will\xfffeobey you.
 
 Insect Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
@@ -108,5 +105,8 @@ Traded Pokémon up to Lv. 60 will\xfffeobey you.
 Jet Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
 Traded Pokémon up to Lv. 70 will\xfffeobey you.
 
-Freeze Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Legend Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
 Traded Pokémon up to Lv. 80 will\xfffeobey you.
+
+Wave Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+All traded Pokémon, regardless of level,\xfffewill obey you.
