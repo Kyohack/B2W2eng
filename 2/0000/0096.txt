@@ -1,15 +1,15 @@
-Contact The People
-Girl
-Woman
-Boy
+Men
+Girls
+Women
+Boys
 Cool
 Cute
 Elegant
 Unique
-This Opponent
-A Good Balance
-Cool Office
-Cute Office
+Quirky
+Balanced
+Cool Song
+Cute Song
 Elegant Song
 Unique Song
 Transmission Song
@@ -19,6 +19,6 @@ Head
 Face
 Face
 Body
-Strain
+Waist
 Arm
 Face
