@@ -1,4 +1,4 @@
-\xf000Ă\x0001\x0000を　どうする？
+\xf000Ă\x0001\x0000What to do?
 マーキング　してください
 Release this Pokémon?
 \xf000Ă\x0001\x0000 was released.
@@ -6,7 +6,7 @@ Bye-bye　\xf000Ă\x0001\x0000!
 Your party's full!
 That's your last Pokémon!
 What do you want to do?
-Jump to which Box?
+Jump to which\xfffeBox?
 Please pick a theme.
 Pick the wallpaper.
 Continue Box operations?
@@ -36,9 +36,9 @@ DEPOSIT POKÉMON
 WITHDRAW POKÉMON
 The Box is full.
 Your party's full!
-ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
+DEPOSIT POKÉMON
+WITHDRAW POKÉMON
+MOVE POKÉMON
 MOVE ITEMS
 BATTLE BOX
 SELECT A SLEEPY POKÉMON
