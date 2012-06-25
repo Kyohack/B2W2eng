@@ -51,11 +51,11 @@ Random Matchup, Rating\xfffeDouble
 Random Matchup, Rating\xfffeTriple
 Random Matchup, Rating\xfffeRotation
 Random Matchup, Rating\xfffeLauncher Battle
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
+Tournament Single\xfffeLauncher Off
+Tournament Single\xfffeLauncher On
+Tournament Double\xfffeLauncher Off
+Tournament Double\xfffeLauncher On
+Tournament Triple\xfffeLauncher Off
+Tournament Triple\xfffeLauncher On
+Tournament Rotation\xfffeLauncher Off
+Tournament Rotation\xfffeLauncher On
