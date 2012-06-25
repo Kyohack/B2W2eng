@@ -1,14 +1,14 @@
 \xf000ȁ\x0001\x0000Ppl.
 Total:\xf000Ȅ\x0001\x0000
 Who will you thank?
-\xf000Ā\x0001\x0000さんに\xfffeおれいを　しました！
-\xf000Ā\x0001\x0000さんが　はつどうした\xfffe\xf000Đ\x0001\x0001を\xfffeつかいますか？
-とくしゅデルパワー　はつどう！！\xfffe\xf000Đ\x0001\x0001を\xfffeつかいますか？
-\xf000Đ\x0001\x0001を\xfffeつかいました！
-『\xf000Ĝ\x0001\x0000』と\xfffeはつげんしました！
-フェスミッション\xfffe「\xf000ŀ\x0001\x0001」に\xfffeさんか　しますか？
-とくべつな　フェスミッション\xfffe「\xf000ŀ\x0001\x0001」に\xfffeさんか　しますか？
-ほうしゅう　\xf000봃\x0001\x0008\xf000ĉ\x0001\x0003\xf000ȃ\x0001\x0004こ
+Will you use \xf000đ\x0001\x0001?\xfffe\xf000Ȃ\x0001\x0002 needed/\xf000Ȃ\x0001\x0003 held
+Use the \xf000đ\x0001\x0001\xfffethat \xf000Ā\x0001\x0000 activated?
+Special Pass Power activated!\xfffeDo you want to use\xfffe\xf000đ\x0001\x0001?
+Used \xf000đ\x0001\x0001!
+You do not have enough Pass Orbs\xfffeto use this Pass Power.\xfffe\xf000Ȃ\x0001\x0002 needed/\xf000Ȃ\x0001\x0003 held
+Using \xf000đ\x0001\x0001.\xfffeSeconds remaining: \xf000ȁ\x0001\x0005.
+Using \xf000đ\x0001\x0001.\xfffeTime remaining: \xf000Ȃ\x0001\x0004 min., \xf000ȁ\x0001\x0005 sec.
+Said “\xf000Ĝ\x0001\x0000!"
 じぶんのスコア
 ごうけい
 \xf000Ȅ\x0001\x0000
