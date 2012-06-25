@@ -1,7 +1,7 @@
-たいせん　したいひとは\xfffeマークを　タッチして！
-こうかん　したいひとは\xfffeマークを　タッチして！
-おえかき　したいひとは\xfffeマークを　タッチして！
-ぐるぐるこうかん　したいひとは\xfffeマークを　タッチして！
-ともだち
-あそんだひと
-ユニオンルームに　はいりました！
+Those who want to play by touching the \ xfffe mark!
+Those who want to exchange by touching the \ xfffe mark!
+Draw those who want then touch the \ xfffe mark!
+Circle those who want to exchange then touch the \ xfffe mark!
+Friends
+Who would play
+Joined the Union Room!
