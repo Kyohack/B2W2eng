@@ -1,42 +1,41 @@
-\xf000Ā\x0001\x0000は\xfffeパソコンの　スイッチを　いれた！\xf000븁\x0000
-どこの　パソコンに　せつぞくして\xfffeつうしん　しますか？
-だれかのパソコン
+\xf000Ā\x0001\x0000は\xfffeBooted up PC.\xf000븁\x0000
+Which PC should \xfffebe accessed?
+Amanita’s PC
 ショウロのパソコン
-\xf000Ā\x0001\x0000のパソコン
-はかせのパソコン
+\xf000Ā\x0001\x0000 PC
+Professor’s PC
 きろくをみる
-ヘルプをみる
-スイッチをきる
-アララギはかせの\xfffeパソコンに　せつぞく　した！\xf000븀\x0000
+Help
+Switch off
+Accessed Professor\xfffeJuniper’s PC.\xf000븀\x0000
 でんどういりの\xfffeデータが　こわれています\xf000븁\x0000\xfffeもういちど　でんどういり　すれば\xfffeだいじょうぶ　です\xf000븁\x0000
 おめでとうございます！\xf000븁\x0000\xfffeはじめて　クリアした　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
 おめでとうございます！\xf000븁\x0000\xfffeチャンピオンに　かった　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
 おめでとうございます！\xf000븁\x0000\xfffeキュレムを　つかまえた　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
-ポケモンの　あずかりシステムを\xfffeよびだした！\xf000븁\x0000
-ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
-もちものを　せいりする
-さようなら
-バトルボックス
-てもちの　ポケモンを\xfffeボックスに　あずけることが　できます
-ボックスに　あずけている　ポケモンを\xfffeてもちに　くわえることが　できます
-ボックスに　あずけている　ポケモンや\xfffeてもちのポケモンを　せいり　できます
-ポケモンが　もっている\xfffeどうぐを　せいり　できます
-ポケモンあずかりシステム　への\xfffeつうしんを　せつだん　します
-てもちとは　べつに　たいせんでつかう\xfffeポケモンを　とうろく　できます
-\xf000Ā\x0001\x0000の\xfffeパソコンに　せつぞく　した！\xf000븁\x0000
-メールボックス
-せつぞくを　きる
-メールを　２０つう　まで\xfffeほぞん　することが　できます
-じぶんのパソコン　への\xfffeつうしんを　せつだん　します
+The Pokémon storage system\xfffewas accessed.\xf000븁\x0000
+Deposit Pokémon
+Withdraw Pokémon
+Move Pokémon
+Move Items
+No Thanks!
+Battle box
+Pokémon in your party may be stored\xfffein the storage system’s boxes.
+Pokémon stored in boxes man be added\xfffeto your party.
+You may sort the Pokémon in the boxes\xfffeand in your party.
+You may sort the items held by your\xfffePokémon in boxes and in your party. 
+Log out of the\xfffePokémon Storage system.
+You can register Pokémon you will use in \xfffebattles against other players.
+\xf000Ā\x0001\x0000の\xfffeAccessed Windies PC\xf000븁\x0000
+Mail Box
+Log out
+Up to 20 pieces\xfffeof mail can be stored.
+Log out\xfffeof the PC 
 はじめてのクリア
 でんどういり
-せつぞくを　きる
+Log out
 きろく　システムに\xfffeせつぞく　した！\xf000븁\x0000
 はじめて　クリアしたときの\xfffeメンバーを　みることが　できます
 でんどういり　したときの\xfffeメンバーを　みることが　できます
 きろくシステム　への\xfffeつうしんを　せつだん　します
 アララギはかせの\xfffeパソコンに　せつぞく　した！\xf000븁\x0000
 ヘルプ　システムに\xfffeせつぞく　した！\xf000븁\x0000
-　
