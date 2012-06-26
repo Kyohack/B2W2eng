@@ -26,9 +26,9 @@ You may sort the items held by your\xfffePokémon in boxes and in your party.
 Log out of the\xfffePokémon Storage system.
 You can register Pokémon you will use in \xfffebattles against other players.
 \xf000Ā\x0001\x0000の\xfffeパソコンに　せつぞく　した！\xf000븁\x0000
-メールボックス
-せつぞくを　きる
-メールを　２０つう　まで\xfffeほぞん　することが　できます
+Mailbox
+Switch off
+You can save upto /xffe20 e-mails!
 じぶんのパソコン　への\xfffeつうしんを　せつだん　します
 はじめてのクリア
 でんどういり
