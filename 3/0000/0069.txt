@@ -1,22 +1,22 @@
-イッシュちほうで　もらえる\xfffeかずかずの　ジムバッジ！\xf000븀\x0000\xfffeせつめいを　ききたいかい？
-ほいほい\xfffeしりたくなったら　またきなさい
-ベーシックバッジを　もっていると\xfffeレベル２０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-トキシックバッジを　もっていると\xfffeレベル３０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ビートルバッジを　もっていると\xfffeレベル４０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ボルトバッジを　もっていると\xfffeレベル５０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-クエイクバッジを　もっていると\xfffeレベル６０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ジェットバッジを　もっていると\xfffeレベル７０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-レジェンドバッジを　もっていると\xfffeレベル８０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ウェーブバッジを　もっていると\xfffeすべての　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-どの　バッジの\xfffeせつめいを　ききたい？
-ベーシックバッジ
-トキシックバッジ
-ビートルバッジ
-ボルトバッジ
-クエイクバッジ
-ジェットバッジ
-レジェンドバッジ
-ウェーブバッジ
-やめる
-ビルから　まちを……\xfffeみおろすと　ふるえるよ……\xf000븁\x0000\xfffeだって　わがはい\xfffeたかいところ　こわいもん……
-グォフッ　グォフッ！
+Some city of the Unova Region\xfffeholds a special Gym Badge!\xf000븀\x0000\xfffeWant to hear me out?
+Ho ho!\xfffeCome back soon!
+Basic Badge allows traded\xfffePokémon that are Lv. 20 or under\xf000븀\x0000\xfffeto obey you.\xf000븁\x0000
+Toxic Badge allows traded\xfffePokémon that are Lv. 30 or under\xf000븀\x0000\xfffeto obey you.\xf000븁\x0000
+Insect Badge allows traded\xfffePokémon that are Lv. 40 or under\xf000븀\x0000\xfffeto obey you.\xf000븁\x0000
+Bolt Badge allows traded\xfffePokémon that are Lv. 50 or under\xf000븀\x0000\xfffeto obey you.\xf000븁\x0000
+Quake Badge allows traded\xfffePokémon that are Lv. 60 or under\xf000븀\x0000\xfffeto obey you.\xf000븁\x0000
+Jet Badge allows traded\xfffePokémon that are Lv. 70 or under\xf000븀\x0000\xfffeto obey you.\xf000븁\x0000
+Legend Badge allows traded\xfffePokémon that are Lv. 80 or under\xf000븀\x0000\xfffeto obey you.\xf000븁\x0000
+Wave Badge allows all\xfffetraded Pokémon\xf000븀\x0000\xfffeto obey you.\xf000븁\x0000
+Which Badge would\xfffeyou like to hear about?
+Basic Badge
+Toxic Badge
+Insect Badge
+Bolt Badge
+Quake Badge
+Jet Badge
+Legend Badge
+Wave Badge
+Back
+When I look down from\xfffethis building, I trembled...\xf000븁\x0000\xfffeGuess I don't like staying\xfffein heights...
+Groaf! Groaf!
