@@ -23,7 +23,7 @@ So your name's \xf000Ā\x0001\x0000.\xfffeWhat a wonderful name!\xf000븁\x0000
 Who's that friend of yours?\xf000븀\x0000\xfffeWill you introduce me?\xf000븁\x0000
 Your friend lives in the neighborhood.\xfffeI'd like to get to know him.\xf000븁\x0000
 What's his name?\xfffePlease tell me.\xf000븁\x0000
-
+Ｈｕｇｈ
 デフォ１
 デフォ２
 じぶんできめる
