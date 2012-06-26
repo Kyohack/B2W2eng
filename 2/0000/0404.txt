@@ -1,52 +1,52 @@
-トーナメントダウンロード
-\xf000Ļ\x0001\x0000
-バトルルール：
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-トーナメントないよう：
-ほぞんした　トーナメント
-でられないポケモン
-もたせられない　どうぐ
-もたせられない　わざ
-なし
-トーナメントデータを　さがしています\xfffeしばらく　おまちください……
-ほぞんしたい　トーナメントを\xfffeえらんで　ください\xf000븁\x0000
-Ｗｉ－Ｆｉコネクションを\xfffeおわりに　しますか？
-Yes
+Download tournament
+\ Xf000Ļ \ X0001 \ x0000
+Battle Rules:
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Tournament internal use:
+Tournament saved
+Pokemon can not be
+Tool not remembering
+Not remembering moves
 No
-\xf000Ļ\x0001\x0000　を\xfffeほぞん　しますか？
+Please wait \ xfffe looking for a tournament data ......
+\ Xf000 븁 \ x0000 Please select \ xfffe the tournament you want to save
+Do you want to end \ xfffe the Wi-Fi connection?
 Yes
-No
-この　トーナメントは\xfffeすでに　ほぞん　しています\xf000븁\x0000
-トーナメントデータを\xfffeうけとりました！\xf000븁\x0000
-トーナメントを　ほぞん　しています\xfffeでんげんを　きらないでください……
-トーナメントデータを\xfffeほぞん　しました\xf000븁\x0000
-トーナメントデータが　いっぱいです\xfffeデータを　けしてください\xf000븁\x0000
-トーナメントデータを\xfffeけすのを　やめますか？
+Not
+\ Do you want to save \ xfffe the xf000Ļ \ x0001 \ x0000?
 Yes
-No
-\xf000Ļ\x0001\x0000　を\xfffeけしても　いいですか？
+Not
+This tournament \ xf000 븁 \ x0000 has already saved \ xfffe
+I received \ xfffe the tournament data! \ Xf000 븁 \ x0000
+Please do not fit the power \ xfffe have to save the tournament ......
+\ Xf000 븁 \ x0000 has been saved \ xfffe the tournament data
+\ Xf000 븁 \ x0000 Please turn off the \ xfffe data tournament is full of data
+Do you stop to turn off \ xfffe the tournament data?
 Yes
-No
-\xf000Ļ\x0001\x0000　を\xfffeほんとうに　けしても　いいですか？
+Not
+\ Can I erase \ xfffe the xf000Ļ \ x0001 \ x0000?
 Yes
-No
-トーナメントデータを\xfffeけしました\xf000븁\x0000
-データが　みつかりませんでした\xf000븁\x0000
-データが　みつかりませんでした\xf000븁\x0000
-データが　みつかりませんでした\xf000븁\x0000
-\xf000Ļ\x0001\x0000　を\xfffeどうしますか？
-くわしく　みる
-やめる
-さんかする　トーナメントを\xfffeえらんでください\xf000븁\x0000
-\xf000Ļ\x0001\x0000　に\xfffeさんか　しますか？
-さんか　する
-くわしく　みる
-やめる
+Not
+\ Can I really poppy \ xfffe the xf000Ļ \ x0001 \ x0000?
+Yes
+Not
+\ Xf000 븁 \ x0000 have been removed \ xfffe the tournament data
+\ Xf000 븁 \ x0000 data could not be found
+\ Xf000 븁 \ x0000 data could not be found
+\ Xf000 븁 \ x0000 data could not be found
+\ What do you do \ xfffe the xf000Ļ \ x0001 \ x0000?
+Read more
+Quit
+\ Xf000 븁 \ x0000 Please select \ xfffe the tournament to participate
+\ Do you want to participate \ xfffe to xf000Ļ \ x0001 \ x0000?
+Participate
+Read more
+Quit
 \xf000ā\x0001\x0000
-\xf000ĉ\x0001\x0000
-\xf000ć\x0001\x0000
-ほぞんする
-トーナメントダウンロードを\xfffeしゅうりょう　しますか？
+\ Xf000ĉ \ X0001 \ x0000
+\ Xf000ć \ X0001 \ x0000
+Save
+Are you sure you want to quit \ xfffe the tournament download?
