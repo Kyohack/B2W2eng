@@ -1,113 +1,113 @@
 テスト
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　シングルトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　ダブルトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　マルチトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　Ｗｉ－Ｆｉトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　スーパーシングルトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーシングルトレインは\xfffeシングルトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　スーパーダブルトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーダブルトレインは\xfffeダブルトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　スーパーマルチトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーマルチトレインは\xfffeマルチトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Single Train here.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Double Train here.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Multi Train here.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Wi-Fi Train here.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Super Single Train here.\xf000븁\x0000
+Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Single Train is\xfffeonly for those who beat the Single Train.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Super Double Train here.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI am sorry, but this Super Double Train\xfffeis only for those who beat\xf000븀\x0000\xfffethe Double Train.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Super Multi Train here.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI am sorry, but this Super Multi Train is\xfffeonly for those who beat the Multi Train.\xf000븁\x0000
 test
-げんざい　\xf000Ā\x0001\x0000さまは\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000
-シングルトレインでは　ポケモン\xfffe３ひきで　バトルを　おこないます\xf000븁\x0000\xfffeポケモンは　３ひき　すべて\xfffeちがう　ポケモンで　なくてはならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべてちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　このしせつでは　ポケモンは\xfffeすべて　レベル５０の　ポケモン\xf000븀\x0000\xfffeとなって　たたかうことに　なります\xf000븁\x0000\xfffeたたかいのば　となる　れっしゃは\xfffe７りょう　へんせいと　なっており\xf000븁\x0000\xfffe７にんの　トレーナーと\xfffeたたかうことに　なります\xf000븁\x0000
-みごと　７にんを　たおせたら\xfffeえきに　とうちゃくし　バトルポイントを\xf000븀\x0000\xfffeかくとく　することが　できますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000\xfffeなお　とちゅうで　ちょうせんを\xfffeちゅうだん　したい　ばあいは\xf000븀\x0000\xfffeしっかりと　レポートを　かいて\xf000븀\x0000\xfffeおわらせないと　ちょうせんが\xf000븀\x0000\xfffeむこうに　なるので　じゅうぶんに\xf000븀\x0000\xfffeちゅうい　してください！\xf000븁\x0000
-ダブルトレインでは　ポケモン\xfffe４ひきで　バトルを　おこないます\xf000븁\x0000\xfffeポケモンは　４ひき　すべて\xfffeちがう　ポケモンで　なくてはならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべてちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　このしせつでは　ポケモンは\xfffeすべて　レベル５０の　ポケモン\xf000븀\x0000\xfffeとなって　たたかうことに　なります\xf000븁\x0000\xfffeたたかいのば　となる　れっしゃは\xfffe７りょう　へんせいと　なっており\xf000븁\x0000\xfffe７にんの　トレーナーと\xfffeたたかうことに　なります\xf000븁\x0000
-みごと　７にんを　たおせたら\xfffeえきに　とうちゃくし　バトルポイントを\xf000븀\x0000\xfffeかくとく　することが　できますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000\xfffeなお　とちゅうで　ちょうせんを\xfffeちゅうだん　したい　ばあいは\xf000븀\x0000\xfffeしっかりと　レポートを　かいて\xf000븀\x0000\xfffeおわらせないと　ちょうせんが\xf000븀\x0000\xfffeむこうに　なるので　じゅうぶんに\xf000븀\x0000\xfffeちゅうい　してください！\xf000븁\x0000
-マルチトレインでは　トレーナー\xfffeふたりで　ポケモンを　２ひきずつ\xf000븀\x0000\xfffeもちより　きょうりょくして\xf000븀\x0000\xfffeマルチバトルで　たたかいます\xf000븁\x0000\xfffeポケモンは　４ひき　すべて\xfffeちがう　ポケモンで　なくてはならず\xf000븁\x0000\xfffeひとりのポケモン　２ひきに　おなじ\xfffeどうぐを　もたせることは　できません\xf000븁\x0000\xfffeまた　このしせつでは　ポケモンは\xfffeすべて　レベル５０の　ポケモン\xf000븀\x0000\xfffeとなって　たたかうことに　なります\xf000븁\x0000\xfffeたたかいのば　となる　れっしゃは\xfffe７りょう　へんせいと　なっており\xf000븁\x0000\xfffe７くみの　トレーナーと\xfffeたたかうことに　なります\xf000븁\x0000
-みごと　７くみ　たおせたら\xfffeえきに　とうちゃくし　バトルポイントを\xf000븀\x0000\xfffeかくとく　することが　できますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000\xfffeなお　とちゅうで　ちょうせんを\xfffeちゅうだん　したい　ばあいは\xf000븀\x0000\xfffeしっかりと　レポートを　かいて\xf000븀\x0000\xfffeおわらせないと　ちょうせんが\xf000븀\x0000\xfffeむこうに　なるので　じゅうぶんに\xf000븀\x0000\xfffeちゅうい　してください！\xf000븁\x0000
-Ｗｉ－Ｆｉトレインでは　ポケモン\xfffe３ひきで　バトルを　おこないます\xf000븁\x0000\xfffeポケモンは　３ひき　すべて\xfffeちがう　ポケモンで　なくてはならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべてちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　このしせつでは　ポケモンは\xfffeすべて　レベル５０の　ポケモン\xf000븀\x0000\xfffeとなって　たたかうことに　なります\xf000븁\x0000\xfffeたたかいのば　となる　れっしゃは\xfffe７りょう　へんせいと　なっており\xf000븁\x0000\xfffe７にんの　トレーナーと\xfffeたたかうことに　なります\xf000븁\x0000
-たいせんあいては　Ｗｉ－Ｆｉから\xfffeぜんこくの　つわものが　やってきます\xf000븁\x0000\xfffeみごと　７にんを　たおせたら\xfffeえきに　とうちゃくし　バトルポイントを\xf000븀\x0000\xfffeかくとく　することが　できますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000\xfffeそして　もしかすると　あなたが\xfffeそのれっしゃに　とうじょう\xf000븀\x0000\xfffeできるかも　しれません！\xf000븁\x0000\xfffeまた　Ｗｉ－Ｆｉトレインでは\xfffeランクシステムを　さいようしています\xf000븁\x0000\xfffeかちつづけると　あなたの　ランクは\xfffeあがり　まけていくと　さがります\xf000븁\x0000\xfffeかちつづけて　より　つよい　あいてと\xfffeたたかって　ください\xf000븁\x0000\xfffeなお　とちゅうで　ちょうせんを\xfffeちゅうだん　したい　ばあいは\xf000븀\x0000\xfffeしっかりと　レポートを　かいて\xf000븀\x0000\xfffeおわらせないと　ちょうせんが\xf000븀\x0000\xfffeむこうに　なるので　じゅうぶんに\xf000븀\x0000\xfffeちゅうい　してください！\xf000븁\x0000
-シングルトレインに\xfffeじょうしゃ　しますか
-ダブルトレインに\xfffeじょうしゃ　しますか
-マルチトレインに\xfffeじょうしゃ　しますか
-Ｗｉ－Ｆｉトレインに\xfffeじょうしゃ　しますか
-スーパーシングルトレインに\xfffeじょうしゃ　しますか
-スーパーダブルトレインに\xfffeじょうしゃ　しますか
-スーパーマルチトレインに\xfffeじょうしゃ　しますか
+Currently, \xf000Ā\x0001\x0000 has\xfffewon \xf000ȃ\x0001\x0001 battles in a row.\xf000븁\x0000
+In the Single Train, you will battle\xfffeusing three Pokémon.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Single Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000븁\x0000
+If you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
+In the Double Train, you will battle\xfffeusing four Pokémon.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Double Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000븁\x0000
+If you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
+In the Multi Train, you and a friend will\xfffeteam up to battle another team of two\xf000븀\x0000\xfffeTrainers. Everyone will use two Pokémon.\xf000븁\x0000\xfffeA team cannot have duplicate Pokémon,\xfffeand the two Pokémon of one Trainer\xf000븀\x0000\xfffecannot hold the same item.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Multi Train has seven cars, so you\xfffewill battle seven pairs of Trainers.\xf000븁\x0000
+If you manage to defeat all seven pairs,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
+In the Wi-Fi Train, you will battle\xfffeusing three Pokémon.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Wi-Fi Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000븁\x0000
+Your opponents will come from around the\xfffeworld via Nintendo Wi-Fi Connection.\xf000븁\x0000\xfffeIf you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeThe Wi-Fi Train has a ranking system.\xf000븁\x0000\xfffeIf you keep winning, your rank will go up,\xfffeand if you lose, it will go down.\xf000븁\x0000\xfffeKeep winning and fight against\xfffestronger opponents.\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
+Would you like to board\xfffethe Single Train?
+Would you like to board\xfffethe Double Train?
+Would you like to board\xfffethe Multi Train?
+Would you like to board\xfffethe Wi-Fi Train?
+Would you like to board\xfffethe Super Single Train?
+Would you like to board\xfffethe Super Double Train?
+Would you like to board\xfffethe Super Multi Train?
 test
 おきゃくさま！\xf000븁\x0000\xfffeさんかできる　ポケモンが\xfffe\xf000Ȁ\x0001\x0000ひき　いません\xf000븁\x0000\xfffeさんかするには　しゅるいが　ちがう\xfffeポケモンを　\xf000Ȁ\x0001\x0000ひき　よういし\xf000븀\x0000\xfffeちがう　どうぐに　してください
 test
-それでは　さんかする　ポケモンを\xfffeえらんで　ください\xf000븁\x0000
-それでは　シングルトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　ダブルトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　マルチトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　Ｗｉ－Ｆｉトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000\xfffeじゅんびは　よろしいですか？
-それでは　スーパーシングルトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　スーパーダブルトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　スーパーマルチトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-レポートを　かいて\xfffeいったん　ちゅうだん　しますか？
-おまちしておりました\xf000븁\x0000\xfffeバトルサブウェイへの　チャレンジを\xfffeさいかい　しますか？
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-それでは　ちゅうだんした　ところまで\xfffeごあんない　いたします\xf000븁\x0000
-おつかれさまでした！\xf000븁\x0000\xfffeつづきを　チャレンジする　ばあいは\xfffeまた　おこし　ください\xf000븁\x0000
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-おきゃくさま！\xf000븁\x0000\xfffeぜんかい　ちゃんと　レポートを　かいて\xfffeしゅうりょう　しませんでしたね？\xf000븁\x0000\xfffeもうしわけ　ありませんが　そのばあい\xfffeちょうせんは　むこうと　なります\xf000븁\x0000
-それでは　またの　ごりようを\xfffeおまちして　おります！
-じょうしゃする
-せつめいをきく
-やめる
-れきだいのきろく
-まえのトレイン
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-てもち
-バトルボックス
-やめる
-つうしんで　おともだちと\xfffeいっしょに　ちょうせん　しますか？
-\xf000Ā\x0001\x0000さまの　げんざいの　ランクは\xfffe\xf000ȁ\x0001\x0001　です\xf000븁\x0000
-おまちしておりました！\xf000븁\x0000\xfffeぜんかいの　せいせきを\xfffeＷｉ－Ｆｉコネクションに\xf000븀\x0000\xfffeおくって　いませんが\xf000븀\x0000\xfffeこれから　おくりますか？
-せいせきを　Ｗｉ－Ｆｉコネクションに\xfffeおくりました！\xf000븁\x0000
-ランク\xf000ȁ\x0001\x0000　トレインナンバー\xf000Ȃ\x0001\x0001の\xfffeれきだいの　きろくを　うけとりました\xf000븁\x0000\xfffeおもてに　せっちされた\xfffeせいせきモニターで\xf000븀\x0000\xfffeごかくにん　ください\xf000븁\x0000
-ふたりの　うち　ひとりが\xfffeリーダーになる　を　えらび\xf000븁\x0000\xfffeもう　ひとりは　グループにはいる　を\xfffeえらんでください
-おともだちと　おなじ\xfffe\xf000ā\x0001\x0000を　えらんで　います！\xf000븁\x0000\xfffeおともだちと　そうだん　してから\xfffeまた　おこし　ください\xf000븁\x0000
-おともだちと　おなじ　\xf000ā\x0001\x0000や\xfffe\xf000ā\x0001\x0001を　えらんで　います！\xf000븁\x0000\xfffeおともだちと　そうだん　してから\xfffeまた　おこし　ください\xf000븁\x0000
-おともだちと　えらんだ\xfffeトレインが　ちがって　います！\xf000븁\x0000\xfffeおともだちと　そうだん　してから\xfffeまた　おこし　ください\xf000븁\x0000
-やあ　ひさしぶり！\xfffeキョウヘイだよ　おぼえてる？\xf000븁\x0000\xfffeきみ　マルチトレインに\xfffeちょうせんするの　はじめて　だろ？\xf000븁\x0000\xfffeマルチトレインに　ちょうせんするには\xfffeパートナーが　ひつようなんだ\xf000븁\x0000
-あら！\xfffeメイだけど　おぼえてる？\xf000븁\x0000\xfffeあなた　マルチトレインに\xfffeちょうせんするの　はじめて　だよね？\xf000븁\x0000\xfffeマルチトレインに　ちょうせんするには\xfffeパートナーが　ひつようなのよ\xf000븁\x0000
-こんにちは！　\xf000Ā\x0001\x0000ちゃん！\xfffeまた　あったね！\xf000븁\x0000
-こんにちは！　\xf000Ā\x0001\x0000くん！\xfffeまた　あったわね！\xf000븁\x0000
-あれ　きょうは　ひとり？\xf000븁\x0000\xfffeだったら　じぶんと\xfffeコンビを　くもうよ！\xf000븁\x0000\xfffeよし！　どんな　ポケモンを\xfffeさんか　させようか？
-あら　ひとり　なの？\xf000븁\x0000\xfffeよかったら　あたしと\xfffeコンビを　くんでほしいな！\xf000븁\x0000\xfffeね！　じゃあ　あたしは　どんな\xfffeポケモンを　さんか　させようかな？
-こうげきじゅうし
-ぼうぎょじゅうし
-バランスじゅうし
-りょうかい！　それじゃあ\xfffeこうげきじゅうしで　いくよ！\xf000븁\x0000
-りょうかい！　それじゃあ\xfffeぼうぎょじゅうしで　いくよ！\xf000븁\x0000
-りょうかい！　それじゃあ\xfffeバランスじゅうしで　いくよ！\xf000븁\x0000
-うん！　こうげきじゅうし　ね！\xfffeさいこうの　ペアに　なろうね！！\xf000븁\x0000
-うん！　ぼうぎょじゅうし　ね！\xfffeさいこうの　ペアに　なろうね！！\xf000븁\x0000
-うん！　バランスじゅうし　ね！\xfffeさいこうの　ペアに　なろうね！！\xf000븁\x0000
-あっ　そうか！\xfffeじゅんびが　できていないのか\xf000븁\x0000
-あっ　そうか！\xfffeじゅんびが　できていないのね\xf000븁\x0000
-リーダーになる
-グループにはいる
-ＤＳワイヤレスつうしん　を\xfffeかいし　しますか？
+Please select the Pokémon you wish\xfffeto enter.\xf000븁\x0000
+Now, please board\xfffethe Single Train!\xf000븁\x0000
+Now, please board\xfffethe Double Train!\xf000븁\x0000
+Now, please board\xfffethe Multi Train!\xf000븁\x0000
+Now, please board\xfffethe Wi-Fi Train!\xf000븁\x0000\xfffeAre you ready?
+Now, please board\xfffethe Super Single Train!\xf000븁\x0000
+Now, please board\xfffethe Super Double Train!\xf000븁\x0000
+Now, please board\xfffethe Super Multi Train!\xf000븁\x0000
+Would you like to save and interrupt\xfffeyour challenge?
+It's good to see you back.\xf000븁\x0000\xfffeWould you like to resume your challenge\xfffeat the Battle Subway?
+Saving...\xfffeDon't turn off the power.
+Now, I will guide you to the place\xfffewhere you interrupted your challenge.\xf000븁\x0000
+Thank you for playing!\xf000븁\x0000\xfffeIf you want to resume your challenge,\xfffeplease visit us again.\xf000븁\x0000
+Saving...\xfffeDon't turn off the power.
+Excuse me!\xf000븁\x0000\xfffeYou didn't save before you quit your\xfffechallenge last time.\xf000븁\x0000\xfffeI am sorry, but you'll have to start\xfffeyour challenge over again.\xf000븁\x0000
+We hope to see you again!
+Board
+Info
+Cancel
+Successive records
+Earlier train
+Please select whether to use your\xfffeparty Pokémon or your Battle Box.
+In party
+Battle Box
+Cancel
+Would you like to communicate with a\xfffefriend and take this challenge together?
+\xf000Ā\x0001\x0000's current rank is \xf000ȁ\x0001\x0001.\xf000븁\x0000
+It's good to see you back.\xf000븁\x0000\xfffeYour previous results were not sent out\xfffeusing Nintendo Wi-Fi Connection.\xf000븀\x0000\xfffeWould you like to send them now?
+Your results were sent out using\xfffeNintendo Wi-Fi Connection!\xf000븁\x0000
+I've downloaded the Rank \xf000ȁ\x0001\x0000\xfffeTrain No. \xf000Ȃ\x0001\x0001's successive records.\xf000븁\x0000\xfffePlease confirm on the Performance\xfffeMonitor outside this platform.\xf000븁\x0000
+Please decide which of you two will\xfffebecome the leader.\xf000븁\x0000\xfffeThe other player must then choose\xfffe“Join group."
+Both Trainers have chosen the\xfffePokémon \xf000ā\x0001\x0000.\xf000븁\x0000\xfffePlease confer with the other Trainer\xfffeand choose different Pokémon.\xf000븁\x0000
+Both Trainers have chosen the Pokémon\xfffe\xf000ā\x0001\x0000 and \xf000ā\x0001\x0001.\xf000븁\x0000\xfffePlease confer with the other Trainer\xfffeand choose different Pokémon.\xf000븁\x0000
+You and the other Trainer have chosen\xfffedifferent trains.\xf000븁\x0000\xfffePlease confer with the other Trainer\xfffeand come back again.\xf000븁\x0000
+Hi! I'm Hilbert!\xf000븁\x0000\xfffeIt's your first time challenging the\xfffeMulti Train, right?\xf000븁\x0000\xfffeWell, you need a partner!\xf000븁\x0000
+Hi! I'm Hilda!\xf000븁\x0000\xfffeYou're challenging the Multi Train for the\xfffefirst time, right?\xf000븁\x0000\xfffeYou can't take this challenge alone.\xfffeYou need a partner!\xf000븁\x0000
+Hi, \xf000Ā\x0001\x0000!\xfffeGood to see you again!\xf000븁\x0000
+Hi, \xf000Ā\x0001\x0000!\xfffeNice to see you again!\xf000븁\x0000
+Are you looking for a partner?\xf000븁\x0000\xfffeThen why don't you team up\xfffewith me? Yeah! It'll be great!\xf000븁\x0000\xfffeWhat sort of Pokémon should I use?
+Are you here by yourself today?\xf000븁\x0000\xfffeWhy don't you team up with me, then?\xfffeIt'll be fun!\xf000븁\x0000\xfffeWhat sort of Pokémon should I use?
+FOCUSED ON ATTACK
+FOCUSED ON DEFENSE
+FOCUSED ON BALANCE
+OK. I'll focus on Attack!\xfffeThen, let's begin!\xf000븁\x0000
+OK. I'll focus on Defense!\xfffeThen, let's begin!\xf000븁\x0000
+OK. I'll focus on a balance between\xfffeAttack and Defense! Let's begin!\xf000븁\x0000
+OK. I'll focus on Attack!\xfffeThen, let's begin!\xf000븁\x0000
+OK. I'll focus on Defense!\xfffeThen, let's begin!\xf000븁\x0000
+OK. I'll focus on a balance between\xfffeAttack and Defense! Let's begin!\xf000븁\x0000
+You don't want to team up with me?\xfffeOK then, bye!\xf000븁\x0000
+You don't want to team up with me?\xfffeOK then, bye!\xf000븁\x0000
+Become leader
+Join group
+Launch DS Wireless Communications?
 つうしんの　せつだんに\xfffeしっぱい　しました
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-ざんねんながら　こんかい　ランクが\xfffe\xf000ȁ\x0001\x0000に　さがって　しまいました……\xf000븁\x0000
-せきがいせんつうしんと\xfffeＤＳワイヤレスつうしん\xf000븁\x0000\xfffeどちらに　されますか？
-せきがいせんつうしん
-ＤＳワイヤレスつうしん
-せきがいせんつうしん　および\xfffeＤＳワイヤレスつうしんを\xf000븀\x0000\xfffeかいし　しますか？
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーシングルトレインは\xfffeシングルトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーダブルトレインは\xfffeダブルトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーマルチトレインは\xfffeマルチトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-たのしかったね！\xfffeまた　いっしょに　たたかおうよ！\xf000븁\x0000
-たのしかったね！\xfffeまた　いっしょに　たたかおうね！\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーシングルトレインは\xfffeただいま　じゅんびちゅうです\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーダブルトレインは\xfffeただいま　じゅんびちゅうです\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーマルチトレインは\xfffeただいま　じゅんびちゅうです\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　Ｗｉ－Ｆｉトレインは\xfffeただいま　じゅんびちゅうです\xf000븁\x0000
-こんかいの　せいせきを　Ｗｉ－Ｆｉ\xfffeコネクションに　おくりますか？
-つうしん　たいきちゅう
-ぼくは　どんな　ポケモンを\xfffeさんか　させればいい？
-わたしは　どんな　ポケモンを\xfffeさんか　させればいい？
-げんざい　\xf000Ā\x0001\x0000さまは\xfffeトレーナーとマルチ　が\xf000븀\x0000\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000
-げんざい　\xf000Ā\x0001\x0000さまは\xfffeともだちとマルチ　が\xf000븀\x0000\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000
-げんざい　\xf000Ā\x0001\x0000さまは\xfffeトレーナーとマルチ　が\xf000븀\x0000\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000\xfffeともだちとマルチ　が\xfffe\xf000ȃ\x0001\x0002れんしょうちゅう　です\xf000븁\x0000
+Saving...\xfffeDon't turn off the power.
+Unfortunately, you have been\xfffedemoted to Rank \xf000ȁ\x0001\x0000...\xf000븁\x0000
+Would you like to use\xfffeInfrared Communication or\xf000븀\x0000\xfffeDS Wireless Communications?
+Infrared Communication
+DS Wireless Communications
+Would you like to launch\xfffeInfrared Communication and\xf000븀\x0000\xfffeDS Wireless Communications?
+Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Single Train is\xfffeonly for those who beat the Single Train.\xf000븁\x0000
+Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Double Train is\xfffeonly for those who beat the Double Train.\xf000븁\x0000
+Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Multi Train is\xfffeonly for those who beat the Multi Train.\xf000븁\x0000
+That was awesome!\xfffeLet's battle together again!\xf000븁\x0000
+That was really fun!\xfffeLet's battle together again!\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Super Single Train\xfffeisn't ready yet.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Super Double Train\xfffeisn't ready yet.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Super Multi Train\xfffeisn't ready yet.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Wi-Fi Train\xfffeisn't ready yet.\xf000븁\x0000
+Would you like to send these\xffferesults using Nintendo WFC?
+Communicating. Please stand by...
+What kinds of Pokémon\xfffeshould I enter?
+What kinds of Pokémon\xfffeshould I enter?
+\xf000Ā\x0001\x0000 achieved a win streak\xfffeof \xf000ȃ\x0001\x0001 in the Multi Train challenge\xf000븀\x0000\xfffewith a Trainer.\xf000븁\x0000
+\xf000Ā\x0001\x0000 achieved a win streak of \xf000ȃ\x0001\x0001\xfffein the Multi Train challenge with a friend.\xf000븁\x0000
+\xf000Ā\x0001\x0000 achieved a win streak of\xfffe\xf000ȃ\x0001\x0001 in the Multi Train challenge with a\xf000븀\x0000\xfffeTrainer and a win streak of \xf000ȃ\x0001\x0002 in\xf000븀\x0000\xfffethe Multi Train challenge with a friend.\xf000븁\x0000
 NO DATA
-カナワタウンいき　でんしゃに\xfffeじょうしゃ　しますか？
-まもなく　はっしゃ　いたします\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　またの　ごりようを\xfffeおまちして　おります！
-それでは　またの　ごりようを\xfffeおまちして　おります！\xf000븁\x0000
+Would you like to board\xfffethe train to Anville Town?
+The train is leaving the station shortly.\xfffeAll aboard!\xf000븁\x0000
+We hope to see you again!
+We hope to see you again!\xf000븁\x0000
