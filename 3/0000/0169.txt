@@ -1,14 +1,14 @@
 \xf000Ā\x0001\x0000さーん\xf000븁\x0000
-\xf000Ā\x0001\x0001『よお！\xfffeポケモンは　てにいれたかよ？\xf000븁\x0000\xfffeこの　あたりには\xfffeポケモントレーナーが　いなくて\xf000븀\x0000\xfffeオレも　たいくつ　なんだよ！\xf000븁\x0000
-えっ？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000
-ベルって　ひとが\xfffeポケモンを　くれる？　ほんとかよ\xf000븁\x0000
-\xf000Ā\x0001\x0001のいもうと『\xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffe……ポケモンを　もらったら\xfffeぜったいに　たいせつに　してあげてね\xf000븁\x0000
-\xf000Ā\x0001\x0001『……そうだよな\xf000븁\x0000
-よし！　オマエの\xfffeポケモンを　もらいに　いくぞ！\xf000븁\x0000\xfffeオレには　やることが　ある！\xf000븁\x0000\xfffeそのために\xfffeあいぼうの　ポケモン　いがいにも\xf000븀\x0000\xfffeたよれる　にんげんが　いるんだよ\xf000븁\x0000\xfffeそう！　オマエだよ　オマエ！\xfffeオマエ　センスが　ありそうだからな\xf000븁\x0000
+\xf000Ā\x0001\x0001: Yo！\xfffeGot your Pokémon already?\xf000븁\x0000\xfffeThis area is totally\xfffeboring without Pokémon Trainer!\xf000븀\x0000\xfffeI'm so boared!\xf000븁\x0000
+What?\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000
+Bianka will give us\xfffeour Pokémon? Really?\xf000븁\x0000
+\xf000Ā\x0001\x0001's sister:\xf000Ā\x0001\x0000 \xf000븁\x0000\xfffe……Once you got a Pokémon\xfffeyou should treasure it.\xf000븁\x0000
+\xf000Ā\x0001\x0001:……That's right\xf000븁\x0000
+Allright!　You will\xfffeget your Pokémon!\xf000븁\x0000\xfffeI have to do it!\xf000븁\x0000\xfffeそのために\xfffeあいぼうの　ポケモン　いがいにも\xf000븀\x0000\xfffeたよれる　にんげんが　いるんだよ\xf000븁\x0000\xfffeそう！　オマエだよ　オマエ！\xfffeオマエ　センスが　ありそうだからな\xf000븁\x0000
 さきに　かえってな\xf000븁\x0000
 はーい！　おにいちゃん\xf000븁\x0000\xfffeじゃーねー　\xf000Ā\x0001\x0000さん\xf000븁\x0000
-\xf000Ā\x0001\x0001『よーし！\xfffeベル　って　ひとを　さがせッ！！
-\xf000Ā\x0001\x0001『オイ！\xfffeたかだいも　チェックしておくか？
+\xf000Ā\x0001\x0001: Good!\xfffeLet's look for Bianka!!
+\xf000Ā\x0001\x0001: Hey!!\xfffeHave you checked the elevation yet?
 \xf000Ā\x0001\x0001『それにしても\xf000븁\x0000\xfffeポケモンを　もらえるなんて\xfffeすごい　ラッキーだな　オマエ！
 \xf000Ā\x0001\x0001『ポケモンを　もらったら\xfffeとうぜん　たびに　でるよな\xf000븁\x0000\xfffeそのときは　ちょっと\xfffeオレの　てつだいを　してもらうぜ
 \xf000Ā\x0001\x0001『はやく\xfffeベルって　ひと　さがそうぜッ！
