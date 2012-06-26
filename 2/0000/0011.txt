@@ -9,67 +9,67 @@ You do not have enough Pass Orbs\xfffeto use this Pass Power.\xfffe\xf000Ȃ\x000
 Using \xf000đ\x0001\x0001.\xfffeSeconds remaining: \xf000ȁ\x0001\x0005.
 Using \xf000đ\x0001\x0001.\xfffeTime remaining: \xf000Ȃ\x0001\x0004 min., \xf000ȁ\x0001\x0005 sec.
 Said “\xf000Ĝ\x0001\x0000!"
-じぶんのスコア
-ごうけい
+MY SCORE
+TOTAL
 \xf000Ȅ\x0001\x0000
-のこりじかん
+REMAINING TIME
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 CHECK
 YES
 NO
 CHECK
 CLOSE
-げんき？
-『\xf000Ā\x0001\x0000』さんが\xfffeちかくに　います
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001との\xfffeせんとうを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001との\xfffeせんとうに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンとの\xfffeせんとうを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンとの\xfffeせんとうに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000Ď\x0001\x0001の　\xf000Ā\x0001\x0002との\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000Ď\x0001\x0001の　\xf000Ā\x0001\x0002との\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeジムリーダーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeジムリーダーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんを　かいし　しました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffeたいせんに　しょうり　しました！
-\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x0001を\xfffeつかまえました！
-\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンを\xfffeつかまえました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の\xfffeレベルが　あがりました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が　しんかして\xfffe\xf000ā\x0001\x0001に　なりました！
-アクションIDと並びを同一にするための\xfffeダミーメッセージです
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\xfffeみつけました！
-\xf000Ā\x0001\x0000さんの\xfffeプレイじかんが　\xf000Ȃ\x0001\x0001じかんを\xfffeこえました！
-\xf000Ā\x0001\x0000さんの\xfffeポケモンずかんが　かんせい　しました！
-\xf000Ā\x0001\x0000さんの\xfffeおれいかいすうが　\xf000Ȃ\x0001\x0001かいを\xfffeこえました！
-\xf000Ā\x0001\x0000さんが\xfffeユニオンルームの　うけつけにいます
-\xf000Ā\x0001\x0000さんから\xfffeかんしゃ　されました！
-げんざい　\xf000ā\x0001\x0001を\xfffeはいしんちゅう　です！
-げんざい　\xf000ĉ\x0001\x0001を\xfffeはいしんちゅう　です！
-げんざい　ふしぎな　おくりものを\xfffeはいしんちゅう　です！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　こうげきが\xfffeきゅうしょに　あたりました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が　こうげきを\xfffeきゅうしょに　うけました！
-\xf000Ā\x0001\x0000さんは\xfffeせんとうから　にげだしました！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　ＨＰが\xfffeのこりすくない　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　ＰＰが\xfffeのこりすくない　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\xfffeひんしの　じょうたいです！
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\xfffeじょうたいいじょうです！
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\xfffeつかっています
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ć\x0001\x0001を\xfffeつかっています
-\xf000Ā\x0001\x0000さんは\xfffeタマゴを　うけとりました
-\xf000Ā\x0001\x0000さんの　タマゴから\xfffe\xf000ā\x0001\x0001が　うまれました！
-\xf000Ā\x0001\x0000さんは\xfffeかいものちゅうです
-\xf000Ā\x0001\x0000さんは\xfffeバトルサブウェイに\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは\xfffeバトルサブウェイで\xfffe\xf000Ȁ\x0001\x0001れんしょうちゅうです！
-\xf000Ā\x0001\x0000さんは\xfffeバトルサブウェイで\xfffeトロフィーを　てにいれました！
-\xf000Ā\x0001\x0000さんは\xfffeトライアルハウスに\xfffeちょうせんしました
-\xf000Ā\x0001\x0000さんは\xfffeトライアルハウスで\xfffe\xf000Ľ\x0001\x0001に　にんていされました！
-\xf000Ā\x0001\x0000さんは\xfffeかんらんしゃに　のりました
-\xf000Ā\x0001\x0000さんは\xfffeポケシフターに　はいりました
-\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002は　ミュージカルに\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは　うけとった\xfffe\xf000Đ\x0001\x0001を\xfffeつかいました！
-\xf000Ā\x0001\x0000さんが\xfffe『\xf000Ĝ\x0001\x0001』と\xfffeはつげんしました
-アクションIDと並びを同一にするための\xfffeダミーメッセージです
+Hiya!
+\xf000Ā\x0001\x0000 is nearby.
+\xf000Ā\x0001\x0000 started battling\xfffea wild \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 won the battle\xfffewith the wild \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 started battling\xfffea special Pokémon!
+\xf000Ā\x0001\x0000 won the battle\xfffewith the special Pokémon!
+\xf000Ā\x0001\x0000 started a battle with\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
+\xf000Ā\x0001\x0000 won the battle with\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
+\xf000Ā\x0001\x0000 started a battle\xfffewith a Gym Leader!
+\xf000Ā\x0001\x0000 won the battle\xfffewith the Gym Leader!
+\xf000Ā\x0001\x0000 started a battle\xfffewith a special Trainer!
+\xf000Ā\x0001\x0000 won the battle\xfffewith a special Trainer!
+\xf000Ā\x0001\x0000 started a battle\xfffewith a special Trainer!
+\xf000Ā\x0001\x0000 won the battle\xfffewith a special Trainer!
+\xf000Ā\x0001\x0000 caught a\xfffewild \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 caught\xfffea special Pokémon!
+\xf000Ā\x0001\x0000's \xf000Ă\x0001\x0002's\xfffelevel went up!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 evolved\xfffeinto \xf000ā\x0001\x0001!
+Action IDと並びを同一にするための\xfffeDummy Messageです
+\xf000Ā\x0001\x0000 found\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000's playing time has\xfffeexceeded \xf000Ȃ\x0001\x0001 hours!
+\xf000Ā\x0001\x0000 completed the\xfffePokédex!
+\xf000Ā\x0001\x0000 has been thanked\xfffemore than \xf000Ȃ\x0001\x0001 times!
+\xf000Ā\x0001\x0000 is in the reception\xfffearea of the Union Room.
+\xf000Ā\x0001\x0000 thanked you!
+\xf000ā\x0001\x0001 is currently\xfffebeing distributed!
+The \xf000ĉ\x0001\x0001 is currently being\xfffedistributed!
+A Mystery Gift is currently\xfffebeing distributed!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002's attack\xfffewas a critical hit!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 took\xfffea critical hit!
+\xf000Ā\x0001\x0000 escaped\xfffefrom the battle!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas very low HP!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas very low PP!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas fainted!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas a status condition!
+\xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 used\xfffe\xf000ć\x0001\x0001!
+\xf000Ā\x0001\x0000 received\xfffean Egg!
+\xf000ā\x0001\x0001 hatched from\xfffe\xf000Ā\x0001\x0000's Egg!\xfffe
+\xf000Ā\x0001\x0000 is\xfffeshopping.
+\xf000Ā\x0001\x0000 is in a\xfffeBattle Subway challenge.
+\xf000Ā\x0001\x0000 has\xfffe\xf000Ȁ\x0001\x0001 straight wins\xfffein the Battle Subway!
+\xf000Ā\x0001\x0000 won\xfffea trophy in the Battle Subway!
+\xf000Ā\x0001\x0000 challenged\xfffethe Battle Institute.
+\xf000Ā\x0001\x0000 was certified as\xfffe\xf000Ɓ\x0001\x0001 in\xfffethe Battle Institute!
+\xf000Ā\x0001\x0000 got on\xfffethe Ferris wheel.
+\xf000Ā\x0001\x0000 entered\xfffethe Poké Transfer.
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is currently\xfffeparticipating in the Musical contest.
+\xf000Ā\x0001\x0000 used the received\xfffe\xf000đ\x0001\x0001!
+\xf000Ā\x0001\x0000 said\xfffe“\xf000Ĝ\x0001\x0001."
+Action IDと並びを同一にするための\xfffeDummy Messageです
 \xf000Ā\x0001\x0000さんは\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　さつえいちゅうです
 \xf000Ā\x0001\x0000さんは\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　かんしょうちゅうです
 \xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001に\xfffeちょうせんちゅうです
