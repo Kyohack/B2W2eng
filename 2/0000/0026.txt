@@ -8,8 +8,8 @@ No
 Yes
 No
 Back
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-セーブしています\xfffeしばらく　おまちください
+Would you like to\xfffesave the game?
+Saving...\xfffePlease wait
 C-Gear Detected
 Yes
 No
