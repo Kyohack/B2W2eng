@@ -1,7 +1,7 @@
-Those who want to play by touching the \ xfffe mark!
-Those who want to exchange by touching the \ xfffe mark!
-Draw those who want then touch the \ xfffe mark!
-Circle those who want to exchange then touch the \ xfffe mark!
-Friends
-Who would play
-Joined the Union Room!
+Touch the Battle icon\xfffeif you want to battle!
+Touch the Trade icon\xfffeif you want to trade!
+Touch the Draw icon\xfffeif you want to draw!
+Touch the Spin Trade icon\xfffeif you want to Spin Trade!
+FRIEND
+PLAYER
+I've entered the Union Room.
