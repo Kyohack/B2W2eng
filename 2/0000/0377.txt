@@ -1,5 +1,5 @@
 Fly to where?
-ダミー
+Dummy
 A rural town whose sea breezes give\xfffethe sense of something coming.
 Juniper Pokémon Lab
 This town offers great views\xfffedue to its many hills.
@@ -96,15 +96,15 @@ This seaside route is famous for\xfffesand bars that cross the ocean.
 A road covered with mist from\xfffethe waterfalls.
 A road whose sharp cliffs may scare\xfffesome people off.
 Many who visit Nimbasa City\xfffedrop by to take a break.
-ちけいの　かんけいで　きゅうりゅうが\xfffeはっせいし　じゆうに　すすめない
-リゾートデザートと　じつづきだったと\xfffeしてきする　けんきゅうしゃも　いる
-４ほんの　はしらで　ささえられた\xfffeイッシュさいだい　さいちょうの　はし
-ふねの　うんこうに　あわせて\xfffeあがったり　さがったりする　はし
-ちかてつが　とおりぬけても\xfffeびくともしない　こうてつの　はし
-イッシュを　かいたくした　ひとびとが\xfffeつくり　くらしはじめた　ふるい　はし
-どんな　しょうげきも　やわらげるよう\xfffeデザインされた　さいせんたんの　はし
-イッシュの　ちゅうしんに　ある\xfffeふしぎな　パワーが　やどる　ばしょ
-つよさを　もとめる　トレーナーが\xfffeきけんを　かえりみずに　はいりこむ
+The fast current here makes it\xfffedifficult to surf.
+Some researchers believe it was once\xfffecontiguous with Desert Resort.
+The biggest, longest bridge in Unova\xfffehas four supporting towers.
+A drawbridge raises and lowers,\xfffedepending on the ship schedules.
+A sturdy steel bridge that won't\xfffebudge an inch when trains cross it.
+An old bridge that settlers of the\xfffeUnova region built and now live on.
+The most advanced bridge in Unova,\xfffedesigned to soften any impact.
+In the middle of the Unova region,\xfffeit is a place of mysterious power.
+Trainers seeking further strength\xfffeenter the cavern despite the risks.
 イッシュを　みわたせるほど　たかい\xfffeやまの　すそのに　ひろがる　まち
 ヒオウギシティジム
 トレーナーズスクール
