@@ -1,6 +1,6 @@
 GAME SYNC
 Wi-Fi Settings
-もどる
+Back
 Would you like to save the game?
 Yes
 No
@@ -13,7 +13,7 @@ The Pokémon is being woken up...\xfffeDon't turn off the power.
 \xf000Ă\x0001\x0000 has woken up!
 Please wait a moment...
 \xf000Ă\x0001\x0000 fell\xfffeasleep. It's sleeping soundly!
-\xf000Ă\x0001\x0000が　めをさました！
+\xf000Ă\x0001\x0000 has woken up！
 Game Sync has run out of energy.\xfffeIt will take one day to recharge it.
 This Pokémon is not dreaming yet.
 ポケモンを　おこしますか？
