@@ -12,6 +12,8 @@ Glitch
 ZoroarkX
 Vinnymac
 
+Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
+
 Tips:
 If you are unsure of a translation, leave it alone!
 If you need some help on Pokemon specific content, try visiting http://http://bulbapedia.bulbagarden.net!
