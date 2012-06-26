@@ -51,11 +51,11 @@ Random Matchup, Rating\xfffeDouble
 Random Matchup, Rating\xfffeTriple
 Random Matchup, Rating\xfffeRotation
 Random Matchup, Rating\xfffeLauncher Battle
-Single Battle \xfffe without Launcher
-Single Battle \xfffe with Launcher
-Double Battle \xfffe without Launcher
-Double Battle \xfffe with Launcher
-Triple Battle \xfffe without launcher
-triple Battle \xfffe with launcher
-Rotation Battle \xfffewithout launcher
-Rotation Battle \xfffewith launcher
+Single Battle\xfffewithout Launcher
+Single Battle\xfffewith Launcher
+Double Battle\xfffewithout Launcher
+Double Battle\xfffewith Launcher
+Triple Battle\xfffewithout launcher
+Triple Battle\xfffewith launcher
+Rotation Battle\xfffewithout launcher
+Rotation Battle\xfffewith launcher
