@@ -198,8 +198,8 @@
 
 
 
+One form
 
-あるすがた
 
 
 
@@ -348,8 +348,7 @@
 
 
 
-
-ポワルンのすがた
+Normal
 
 
 
@@ -410,8 +409,8 @@
 
 
 
-くさきのミノ
-くさきのミノ
+Plant Cloak
+Plant Cloak
 
 
 
@@ -419,9 +418,9 @@
 
 
 
-ネガフォルム
-にしのうみ
-にしのうみ
+Overcast Form
+West Sea
+West Sea
 
 
 
@@ -477,7 +476,7 @@
 
 
 
-ロトムのすがた
+Rotom
 
 
 
@@ -485,13 +484,13 @@
 
 
 
-アナザーフォルム
+Altered Forme
 
 
 
 
-ランドフォルム
-アルセウスのすがた
+Land Forme
+Arceus
 
 
 
@@ -548,12 +547,12 @@
 
 
 
-あかすじのすがた
+Red-Striped Form
 
 
 
 
-ノーマルモード
+Standard Mode
 
 
 
@@ -583,8 +582,8 @@
 
 
 
-はるのすがた
-はるのすがた
+Spring Form
+Spring Form
 
 
 
@@ -649,84 +648,84 @@
 ボイスフォルム
 ゲノセクトのすがた
 
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-たいようのすがた
-あまみずのすがた
-ゆきぐものすがた
-アタックフォルム
-ディフェンスフォルム
-スピードフォルム
-すなちのミノ
-ゴミのミノ
-すなちのミノ
-ゴミのミノ
-ポジフォルム
-ひがしのうみ
-ひがしのうみ
-ヒートロトム
-ウォッシュロトム
-フロストロトム
-スピンロトム
-カットロトム
-オリジンフォルム
-スカイフォルム
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-あおすじのすがた
-ダルマモード
-なつのすがた
-あきのすがた
-ふゆのすがた
-なつのすがた
-あきのすがた
-ふゆのすがた
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+One form
+Sunny Form
+Rainy Form
+Snowy Form
+Attack Forme
+Defense Forme
+Speed Forme
+Sandy Cloak
+Trash Cloak
+Sandy Cloak
+Trash Cloak
+Sunshine Form
+East Sea
+East Sea
+Heat Rotom
+Wash Rotom
+Frost Rotom
+Fan Rotom
+Mow Rotom
+Origin Forme
+Sky Forme
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Arceus
+Blue-Striped Form
+Zen Mode
+Summer Form
+Autumn Form
+Winter Form
+Summer Form
+Autumn Form
+Winter Form
 れいじゅうフォルム
 れいじゅうフォルム
 れいじゅうフォルム
 ホワイトキュレム
 ブラックキュレム
 かくごのすがた
-ステップフォルム
+Pirouette Forme
 ゲノセクトのすがた
 ゲノセクトのすがた
 ゲノセクトのすがた
