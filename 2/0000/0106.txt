@@ -1,5 +1,5 @@
-ゆめで　であった\xfffe\xf000Ă\x0001\x0000が　あらわれた！
-おいで　\xf000Ă\x0001\x0000！
-やったー！\xfffe\xf000Ă\x0001\x0000が　なかまになった！
-\xf000Ā\x0001\x0000は　どうする？
-\xf000Ā\x0001\x0000は　たちさった……
+The \xf000Ă\x0001\x0000 your Pokémon saw in the\xfffedream appeared!
+Come here, \xf000Ă\x0001\x0000!
+Yes!\xfffe\xf000Ă\x0001\x0000 has joined your party!
+What will \xf000Ā\x0001\x0000 do?
+\xf000Ā\x0001\x0000 left...
