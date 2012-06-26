@@ -1,18 +1,18 @@
-ひだりておやゆびを　ガイドに　そって\xfffeやさしくゆっくり　タッチ　してください
-\xf000Ā\x0001\x0000さんとの\xfffeシンクロを　チェックしています……
-ひだりておやゆびを　そのままに\xfffeみぎておやゆびを　ガイドに　タッチ！
-チェックが　おわりました　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-せきがいせんつうしんが\xfffeつながりました！
-つうしんが　きれました　あいてと\xfffeせきがいせんつうしんを　してください
-もどる
+Place your left thumb in the\xfffeoutline gently.
+Checking how synchronized\xfffeyou are with \xf000Ā\x0001\x0000...
+Keep your left thumb steady,\xfffeand put your right thumb on the outline.
+Check complete. Create an Infrared\xfffeConnection with the other Trainer.
+Checking...\xfffePlease maintain the Infrared Connection.
+You've created an Infrared Connection!
+The connection was interrupted.\xfffePlease create a new Infrared Connection.
+BACK
 no data
 no data
 no data
-タッチしても　はんのうが　ないときは\xfffeもういちど　タッチ　してください
+If nothing happens, place your thumb\xfffeon the outline again.
 no data
 no data
 no data
 no data
-シンクロチェック
-がめんから　ゆびを　はなして\xfffeひだりてから　やりなおしてください
+SYNC CHECK
+Please remove both your thumbs from the\xfffescreen, and start again with the left thumb.
