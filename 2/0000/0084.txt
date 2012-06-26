@@ -1,6 +1,6 @@
-ビギナー
-ルーキー
-エリート
-マスター
-レジェンド
-レジェンド
+Beginner
+Rookie
+Elite
+Master
+Legend
+Legend
