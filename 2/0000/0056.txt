@@ -3,9 +3,9 @@
 ひだりておやゆびを　そのままに\xfffeみぎておやゆびを　ガイドに　タッチ！
 チェックが　おわりました　あいてと\xfffeせきがいせんつうしんを　してください
 チェックちゅう　です\xfffeつうしんを　つづけてください
-せきがいせんつうしんが\xfffeつながりました！
+Infrared Connection Succesfull!
 つうしんが　きれました　あいてと\xfffeせきがいせんつうしんを　してください
-もどる
+Back
 no data
 no data
 no data
