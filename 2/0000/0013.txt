@@ -1,8 +1,8 @@
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-もちもの
-せいかく
-とくせい
+HELD ITEM
+NATURE
+ABILITY
 \xf000ċ\x0001\x0000
 BOX 1
 BOX 2
