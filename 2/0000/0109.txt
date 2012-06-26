@@ -34,7 +34,7 @@ Dreamyard
 Pinwheel Forest
 Desert Resort
 Relic Castle
-Cold Storage
+World Tournament
 Chargestone Cave
 Twist Mountain
 Dragonspiral Tower
@@ -116,37 +116,37 @@ Bridge Gate
 Route Gate
 Abyssal Ruins
 Aspertia City
-タチワキシティ
-セイガイハシティ
-ポケウッド
-ジョインアベニュー
-サンギタウン
-ヤマジタウン
+Virbank City
+Seigaha City
+Pokéwood
+Join Avenue
+Sangi Town
+Yamaji Town
 Route 19
 Route 20
 Route 21
 Route 22
 Route 23
-ヒウンげすいどう
-サンギぼくじょう
-タチワキコンビナート
-リバースマウンテン
-ストレンジャーハウス
-チャンピオンロード
-プラズマフリゲート
-こだいのぬけみち
-ヤーコンロード
+Castelia Sewers
+Sangi Ranch
+Virbank Combinator
+Rebirth Mountain
+Stranger's House
+Victory Road
+Plasma Frigate
+Ancient Path
+Clay Road
 －－－－－－－－－－
 しろのじゅどう
 くろのまてんろう
-うみべのどうけつ
-こころのくうどう
+Seaside Cave
+Heart Hollow
 かくしあな
-マリンチューブ
+Marine Tube
 タチワキゲート
-Aspertia Gate
+ヒオウギゲート
 しぜんほごく
-メダルじむきょく
+Nature Sanctuary
 ちていいせき
 いわやまのま
 ひょうざんのま
