@@ -1,13 +1,13 @@
-アララギはかせが　ポケモンの\xfffeちょうさを　なさっている\xf000븁\x0000\xfffeタワーオブヘブンは\xfffe７ばんどうろを　いった　さきだよ！\xf000븁\x0000\xfffeとちゅうで　まよわないよう\xfffeかんばんに　ちゅうい　してくださいね
-はかせの　ちょうさも\xfffeひとだんらく　したようですね\xf000븁\x0000\xfffeということで\xfffeアタシの　ひこうきに　のりますか？
-ウフフ\xfffeそれでは　とばしますよ！
-りょうかい！\xfffeじゅんびが　できたら　はなしてね
-ね　ひこうきに　のる？\xfffeアタシ　はやく　とびたいな
-アララギ『ハーイ！\xfffeおまたせ　しちゃったようね\xf000븁\x0000\xfffeフウロに　おねがいして\xfffeひこうきを　だしてもらいましょ！
-さあ　フウロ！\xfffeヤマジタウンへ　おねがいよ！\xf000븁\x0000
-ベル『ふえええ……\xf000븁\x0000\xfffeまって……　ください……\xfffeあたしも　ひこうきに　のりますよお\xf000븁\x0000\xfffeリ……　リバースマウンテンの\xfffeちょうさを　したいんですう……\xf000븁\x0000
-アララギ『あら！？　ベルったら\xfffeすっかり　けんきゅうしゃの　かおね！\xf000븁\x0000\xfffeじゃあ　みんなで　いっしょに\xfffeヤマジタウンに　まいりましょう！！\xf000븁\x0000
-フウロ『うふふ\xfffeみなさん　おそろい　ですね！\xf000븁\x0000\xfffeそれでは\xfffeレッツ　フライト　です！\xf000븁\x0000
+Professor Juniper went ahead\xfffeto the Celestial Tower\xf000븁\x0000\xfffeat Route 7\xfffefor her research.\xf000븁\x0000\xfffeIf you happened to get lost,\xffferead the road signs!
+Professor seems to\xfffebe finished with her research here.\xf000븁\x0000\xfffeThat means\xfffeit's time to fly!
+Hee hee...\xfffeLet's fly together!
+Understood!\xfffeLet me know when you are ready.
+Are you boarding now?\xfffeI want to fly now!
+Juniper: Hey!\xfffeSorry for letting you wait.\xf000븁\x0000\xfffeSkyla, let's\xfffetake off immediately!
+Skyla,\xfffetake us to Yamaji Town!\xf000븁\x0000
+Bel: Huff... Huff...\xf000븁\x0000\xfffeWait... Wait for me...\xfffeI want to fly too.\xf000븁\x0000\xfffeI... I have research to do\xfffeat Rebirth Mountain...\xf000븁\x0000
+Juniper: Oh my! Bel,\xfffeyou are just like a researcher!\xf000븁\x0000\xfffeEverybody, \xfffelet's go to Yamaji Town together!!\xf000븁\x0000
+Skyla: Hee hee!\xfffeAre you ready!?\xf000븁\x0000\xfffeWell then...\xfffeLet's fly!!\xf000븁\x0000
 こんにちは！\xf000븁\x0000\xfffeすばやく　たくさん　おとどけ！\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000\xfffeひとも　のせますけど　そちらは\xfffeジムリーダー　しだい　なんです
 すばやく　たくさん　おとどけ！\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000\xfffeひこうきに　のって\xfffeヤマジタウンに　いかれますか？
 わかりました！　それでは\xfffeフウロさんに　れんらく　しますので\xf000븀\x0000\xfffeひこうきに　のって　おまちください\xf000븁\x0000
@@ -15,20 +15,20 @@
 すばやく　たくさん　おとどけ！\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000
 あ……！\xfffeそれは　きょかしょう！\xf000븁\x0000\xfffeイッシュちほう　から\xfffeとおくとおく　はなれた\xf000븀\x0000\xfffeしぜんほごくへ　いくための　もの！\xf000븁\x0000\xfffeそれでは\xfffeしぜんほごくに　いかれますか？
 すばやく　たくさん　おとどけ！\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000\xfffeこんかいは　どちらに　いかれますか？
-ヤマジタウン
-しぜんほごく
-やめる
+Yamaji Town
+Nature Conservatory
+Cancel
 わざ「そらをとぶ」の　いきさきは\xfffeいちど　いった　ポケモンセンターだよ
 ひこうきの　こうぞうを　しらないと\xfffeせいびは　できないだろ？\xf000븁\x0000\xfffeポケモンしょうぶも　おなじさ\xfffeポケモンに　くわしいほど　かてるだろ
-おっ　きみ！\xf000븁\x0000\xfffeひこうタイプか　エスパータイプの\xfffeポケモンを　つれているかい？\xf000븁\x0000
-あっ！\xfffe\xf000ā\x0001\x0000が　いるね\xf000븁\x0000\xfffeちょっと　たかいところの\xfffeにもつを　とるのを　てつだってよ！\xf000븁\x0000
-サンキュー！\xfffeこれ　おだちんがわり\xf000븁\x0000
-ポケモンが　いてくれて\xfffeほんと　たすかるよね！
-……そっかー\xf000븁\x0000\xfffeひこうポケモンや　エスパーポケモンに\xfffeてつだって　もらいたかったなー
+Hey, you!\xf000븁\x0000\xfffeDo you have any Flying or Psychic\xfffePokémon with you?\xf000븁\x0000
+Ah!\xfffe\xf000ā\x0001\x0000が　いるね\xf000븁\x0000\xfffeCould you help me\xfffeget my luggage? It's stuck!\xf000븁\x0000
+Thank you!\xfffeI'll give you a reward!\xf000븁\x0000
+Pokemon really do save lives,\xfffedon't they?
+I see...\xf000븁\x0000\xfffeひこうポケモンや　エスパーポケモンに\xfffeてつだって　もらいたかったなー
 ちゅるるるわ！！
-ムムッ！　きみは……\xf000븁\x0000\xfffe『エースパイロット』の\xfffeメダルを　もっていないのかい！？\xf000븁\x0000\xfffeそうか……　ぼくたち　パイロットが\xfffeあこがれて　やまない　メダル\xf000븀\x0000\xfffeきみなら　もっているかと　おもったが
-もし　『エースパイロット』の\xfffeメダルを　てにいれたら\xf000븀\x0000\xfffeぜひ　ぼくに　みせに　きてね
-おおッ！　キミは！\xf000븁\x0000\xfffe『エースパイロット』の\xfffeメダルを　もっているんだね！？\xf000븁\x0000\xfffeこ　これが……\xf000븁\x0000\xfffeおおぞらの　ロマンに　あふれた\xfffe『エースパイロット』の　メダル！\xf000븀\x0000\xfffeカッコイイ……\xf000븁\x0000\xfffeハッ！　みせて　くれて\xfffeどうも　ありがとう！
+What!? You don't have the\xf000븁\x0000\xfffe『Ace Pilot』\xfffemedal!?\xf000븁\x0000\xfffeI see... We pilots\xfffeare yearning for that medal.\xf000븀\x0000\xfffeI was almost certain that you would have it.
+If you ever receive the\xfffe『Ace Pilot』 medal,\xf000븀\x0000\xfffeplease show it to me!
+You... You!\xf000븁\x0000\xfffethe『Ace Pilot』medal.\xfffeYou have it, don't you!?\xf000븁\x0000\xfffeTh- This is...\xf000븁\x0000\xfffethe 『Ace Pilot』 medal\xfffethat everyone wants!\xf000븀\x0000\xfffeSo cool...\xf000븁\x0000\xfffePlease let me take a look!\xfffeThank you so much!
 『エースパイロット』……\xfffeあまい　ひびき　だ……\xf000븁\x0000\xfffeそらを　じゆうに　とびまわった\xfffeキミの　ポケモンに　カンパイ！\xf000븁\x0000\xfffeぼくも　ひこうきの\xfffeそうじゅう　がんばるぞー！
 そらのまち　フキヨセに　ようこそ！\xfffeきねんに　これを　どうぞ！\xf000븁\x0000
 するどいくちばし　という　どうぐを\xfffeポケモンに　もたせてあげると\xf000븁\x0000\xfffeひこうタイプの　わざの\xfffeいりょくが　アップ　するのよ！
