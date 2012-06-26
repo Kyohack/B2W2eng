@@ -1,5 +1,5 @@
-みつけた　かず
-つかまえた　かず
+Found
+Captured
 JPN
 ENG
 FRA
@@ -175,16 +175,16 @@ WT
 リストに　もどります
 Give a nickname to the \xf000ā\x0001\x0000caught \xfffe?
 Give a nickname to the \xf000ā\x0001\x0000caught \xfffe?
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in PokéStation.net PC!
 \xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in PokéStation's PC!
-Information
-Map/Area
-Voice/Cry
-Forme/Forms
-Compare
+\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in Amanita's PC!
+INFO
+AREA
+CRY
+FORMS
+COMPARE
 \xf000Ȁ\x0001\x0000'\xf000ȁ\x0001\x0001"
-Forms seen
-Shiny seen
+FORMS SEEN
+SHINY SEEN
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
 (Shiny)
@@ -200,7 +200,7 @@ GR.
 ALTEZ.
 ALT.
 키
-Weight
+WT
 POIDS
 GEW.
 PESO
