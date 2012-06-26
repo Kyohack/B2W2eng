@@ -51,11 +51,11 @@ Random Matchup, Rating\xfffeDouble
 Random Matchup, Rating\xfffeTriple
 Random Matchup, Rating\xfffeRotation
 Random Matchup, Rating\xfffeLauncher Battle
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
+Single Battle \xfffe without Launcher
+Single Battle \xfffe with Launcher
+Double Battle \xfffe without Launcher
+Double Battle \xfffe with Launcher
+Triple Battle \xfffe without launcher
+triple Battle \xfffe with launcher
+Rotation Battle \xfffewithout launcher
+Rotation Battle \xfffewith launcher
