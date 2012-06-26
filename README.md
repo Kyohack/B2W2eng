@@ -20,7 +20,7 @@ If you need some help on Pokemon specific content, try visiting http://http://bu
 Automatic Translator are FORBIDDEN!
 
 //Join us for a discussion:
-//irc.bitsjoint.net
-//#pokestation
+irc.bitsjoint.net
+#pokestation
 
 Thanks for all the translations so far!
