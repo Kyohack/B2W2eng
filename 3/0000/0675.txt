@@ -2,19 +2,19 @@ Welcome to the Global Terminal!\xf000븁\x0000
 Would you like to use\xfffeNintendo Wi-Fi Connection?
 Please do visit again.
 Connect to Nintendo Wi-Fi Connection?
-Take a look here！\xf000븁\x0000
+Right this way, please.\xf000븁\x0000
 In the Global Terminal, you can battle or\xfffetrade Pokémon with Pokémon fans from\xf000븁\x0000\xfffearound the world by connecting to\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffeFor details, please listen to the\xfffeexplanation at each facility.
-This area is under construction.\xfffePlease come back later.
-You do not have\xfffePokemon
-A communication error has occured.
+Sorry, we're getting things ready.\xfffePlease come back later.
+You have at least one Pokémon\xfffethat can't be taken in.
+Communication error.
 Random Matchup
 Global Trade
-ミュージカルショット
+Musical Photos
 Battle Videos
 Info
 Cancel
 Would you like to make a Global Trade?
-You may trade Pokémon with other Pokémon fans from around the world with\xfffeGlobal Trade.\xf000븁\x0000\xfffeGlobal Trade has two forms: GTS and\xfffeGTS Negotiations.\xf000븁\x0000\xfffePlease be careful, because each has a\xfffedifferent way of trading.
+You may trade Pokémon with other\xfffePokémon fans from around the world with\xfffeGlobal Trade.\xf000븁\x0000\xfffeGlobal Trade has two forms: GTS and\xfffeGTS Negotiations.\xf000븁\x0000\xfffePlease be careful, because each has a\xfffedifferent way of trading.
 GTS
 GTS Negotiations
 Info
@@ -41,29 +41,29 @@ You can set three conditions in a\xfffeNegotiation Trade: the level of Pokémon\
 Negotiation Trade?
 Trading Conditions?
 Understood
-Do you want to see the battle video?
-バトルビデオでは　おてもちの\xfffeバトルレコーダーを　つかって\xf000븁\x0000\xfffeじぶんで　とった　バトルビデオを\xfffeはっぴょうしたり\xf000븁\x0000\xfffeほかの　トレーナーの　バトルビデオを\xfffeみる　ことが　できます\xf000븁\x0000\xfffeみたい　バトルビデオは\xfffeポケモンや　しせつや\xf000븀\x0000\xfffeにんきランキング　などから\xf000븀\x0000\xfffeけんさく　することが　できます\xf000븁\x0000\xfffeまた　おくった　バトルビデオには\xfffe１２ケタの　ナンバーが　つきます\xf000븁\x0000\xfffeこの　ナンバーを　ともだちに\xfffeおしえる　ことで\xf000븁\x0000\xfffeじぶんの　バトルビデオを\xfffeともだちに　みせることも　できます\xf000븁\x0000
-View
+Would you like to view or upload\xfffeBattle Videos?
+With Battle Videos, you may post a\xfffeBattle Video you took with your\xf000븀\x0000\xfffeVs. Recorder or view Battle Videos from\xf000븀\x0000\xfffeother Trainers.\xf000븁\x0000\xfffeYou may search the Battle Videos by\xfffePokémon, battle facility, ranking, etc.\xf000븁\x0000\xfffeThe Battle Video you post will be assigned\xfffea 12-digit code.\xf000븁\x0000\xfffeYour friends may view your Battle Video\xfffeby entering this 12-digit code here.\xf000븁\x0000
+View or upload
 Info
 Back
-ミュージカルショットを　みますか？
-ミュージカルショットでは　おてもちの\xfffeバトルレコーダーを　つかって\xf000븁\x0000\xfffeライモンシティの\xfffeポケモンミュージカルで　とった\xf000븀\x0000\xfffeしゃしんを　はっぴょう　できます\xf000븁\x0000\xfffeみんなが　とった　しゃしんも\xfffeすきな　ポケモンごとに\xf000븀\x0000\xfffeみることが　できます\xf000븁\x0000
-View
+Would you like to view or upload\xfffeMusical Photos?
+With Musical Photos, you may post a photo\xfffeyou took at the Pokémon Musical in\xf000븀\x0000\xfffeNimbasa City by using the Vs. Recorder.\xf000븁\x0000\xfffeYou may also view photos taken by other\xfffepeople, sorted by the Pokémon you like.\xf000븁\x0000
+View or upload
 せつめいを　きく
 Back
 Would you like to take the\xfffeRandom Matchup challenge?
 Challenge
 Info
 Back
-ランダムマッチでは\xfffeとおくにいる　みしらぬひとと\xf000븀\x0000\xfffeつうしんたいせんが　できます\xf000븁\x0000\xfffeランダムマッチには\xfffeシングル　ダブル　トリプル\xf000븀\x0000\xfffeローテーション　シューターの\xf000븀\x0000\xfffe５つの　たいせんルールと\xf000븁\x0000\xfffeフリーと　レーティングの\xfffe２つの　モードが　あります\xf000븁\x0000\xfffeフリーモードは　だれでも\xfffeじゆうに　さんか　できます\xf000븁\x0000\xfffeレーティングモードは\xfffeゲームシンクせっていを　おこない\xf000븁\x0000\xfffeおてもとの　パソコンで\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスして\xf000븁\x0000\xfffeゲームシンクＩＤコードを\xfffeとうろくすることで　さんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xfffe（ポケモングローバルリンク）\xf000븁\x0000
-Do you want a detailed discription?
-フリーモード　について
-About the ratings mode
-Some special rules about
-was found
-フリーモードは\xfffeとおくにいる　みしらぬひとと\xf000븀\x0000\xfffeてがるに　たいせんする　モードです\xf000븁\x0000\xfffeポケモンを　そだてたら\xfffeきがるに　ちょうせん　してください\xf000븁\x0000
-レーティングモードは\xfffeたいせんを　きわめたい　ひとに\xf000븀\x0000\xfffeおすすめの　モードです\xf000븁\x0000\xfffeつうしんを　つなげたとき\xfffeレーティングの　ちかい　ひとと\xf000븀\x0000\xfffeたいせん　しやすく　なります\xf000븁\x0000\xfffeレーティングは\xfffe１５００から　スタートして\xf000븀\x0000\xfffeかつと　あがり　まけると　さがります\xf000븁\x0000\xfffeレーティングが　たかいほど\xfffeつよい　トレーナーと　なるので\xf000븁\x0000\xfffeぜひ　ちょうせんして\xfffeいまの　レベルを　たしかめてください\xf000븁\x0000\xfffeさいごに　さんかちゅうの\xfffeちゅういが　ひとつ　あります\xf000븁\x0000\xfffeレーティングモードの　せいせきは\xfffeＤＳほんたいを　かえて\xf000븁\x0000\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく　すると\xf000븁\x0000\xfffeそれまでの　せいせきが\xfffeすべて　きえてしまいます\xf000븁\x0000\xfffeさんかちゅう　ＤＳほんたいを\xfffeかえるときは　ごちゅうい　ください\xf000븁\x0000
-ランダムマッチでは　いくつかの\xfffeとくべつな　ルールが　あります\xf000븁\x0000\xfffeポケモンの　レベルが　５１いじょうの\xfffeばあいは　すべて　５０に　なります\xf000븁\x0000\xfffeポケモンの　なまえは\xfffeニックネームで　よびません\xf000븁\x0000\xfffeまた　たいせんに　さんかさせる\xfffeポケモンを　えらぶとき\xf000븁\x0000\xfffeたいせんちゅう　ポケモンに\xfffeめいれいを　するとき\xf000븁\x0000\xfffeそれぞれに\xfffeせいげん　じかんが　あります\xf000븁\x0000\xfffeせいげん　じかんを　こえると\xfffeポケモンの　わざは\xf000븀\x0000\xfffeじどうで　えらばれることに　なるので\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000\xfffeなお　たいせんにも\xfffeせいげん　じかんが　あります\xf000븁\x0000\xfffeせいげん　じかんを　こえても\xfffeしょうぶが　つかない　ときは\xf000븁\x0000\xfffeはんていにより　かちまけを\xfffeけってい　します\xf000븁\x0000
+A Random Matchup is a battle with other\xfffePokémon fans from around the world.\xf000븁\x0000\xfffeThere are five kinds of Random Matchups:\xfffeSingle, Double, Triple, Rotation,\xf000븀\x0000\xfffeand Launcher.\xf000븁\x0000\xfffeAlso, Random Matchups have two modes:\xfffeFree mode and Rating mode.\xf000븁\x0000\xfffeIn Free mode, everyone can participate\xfffein battles freely.\xf000븁\x0000\xfffeIn Rating mode, you may participate in\xfffebattles after you set Game Sync, access\xf000븀\x0000\xfffethe Pokémon Global Link website with your\xf000븀\x0000\xfffecomputer, and register your\xf000븀\x0000\xfffeGame Sync ID.\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xfffe(Pokémon Global Link)\xf000븁\x0000
+Would you like to know more details?
+Free Mode
+Rating Mode
+Special Rules
+Understood
+Free mode is for casual battles against\xfffeother Pokémon fans around the world.\xf000븁\x0000\xfffeFeel free to challenge it!\xf000븁\x0000
+Rating mode is recommended for those who\xfffewant to master battles.\xf000븁\x0000\xfffeWhen communication is established, you\xfffeare likely to battle against a person with\xf000븀\x0000\xfffea similar Rating.\xf000븁\x0000\xfffeYour Rating starts at 1500. When you win,\xfffeit goes up. When you lose, it goes down.\xf000븁\x0000\xfffeSo the higher your Rating is, the\xfffestronger you are as a Trainer!\xf000븁\x0000\xfffeThere's one thing you should be careful\xfffeabout in Rating mode.\xf000븁\x0000\xfffeYour record and Rating will be erased if\xfffeyou connect to Nintendo Wi-Fi Connection\xf000븀\x0000\xfffewith a different DS System.\xf000븁\x0000\xfffeSo please be careful if you switch!\xf000븁\x0000
+There are several special rules\xfffefor Random Matchups.\xf000븁\x0000\xfffeAny Pokémon higher than Lv. 50 will be\xfffeset to that level for the battle.\xf000븁\x0000\xfffePokémon nicknames won't be used.\xf000븁\x0000\xfffeYou have a limited time to choose Pokémon\xfffefor a battle and to give orders to your\xf000븀\x0000\xfffePokémon during the battle.\xf000븁\x0000\xfffeDon't exceed the time limit,\xfffeor your Pokémon and its moves\xf000븀\x0000\xfffewill be chosen for you!\xf000븁\x0000\xfffeThere's also a time limit on the battle.\xf000븁\x0000\xfffeThe winner will be determined when time\xffferuns out, even if both sides still have\xf000븀\x0000\xfffePokémon standing.\xf000븁\x0000
 Which Battle would you like\xfffeto choose?
 Single Battle
 Double Battle
@@ -79,23 +79,23 @@ Would you like to take the\xfffeLauncher Battle challenge?
 Confirm
 Rules
 Back
-シングルバトルは　ポケモンが\xfffe３～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe３ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-ダブルバトルは　ポケモンが\xfffe４～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe４ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-トリプルバトルは　ポケモンが\xfffe６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe６ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-ローテーションバトルは　ポケモンが\xfffe４～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe４ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-シューターバトルは\xfffeミラクルシューターありの\xf000븀\x0000\xfffeトリプルバトルを　おこないます\xf000븀\x0000\xfffeポケモンが　６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe６ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-てもち
+For a Single Battle, you need to have\xfffethree to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose three Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
+For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
+For a Triple Battle, you need to have\xfffesix Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen decide their order and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
+In a Rotation Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
+In a Launcher Battle, you have a\xfffeTriple Battle with your Wonder Launcher.\xf000븀\x0000\xfffeYou need to have six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen decide their order and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
+Please choose whether to use Pokémon\xfffefrom your party or Battle Box.
+Party
 Battle Box
-Back
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-けってい
+Cancel
+Please choose whether to use Pokémon\xfffefrom your party or Battle Box.
+Confirm
 Battle Box
-Back
-……あら？\xf000븁\x0000\xfffeおきゃくさま　てもちも　ボックスも\xfffeポケモンで　いっぱい　ですよ\xf000븁\x0000\xfffeＧＴＳを　ごりように　なるには\xfffeてもち　か　ボックス　に\xf000븀\x0000\xfffeあきを　つくって　ください\xf000븁\x0000
-……あら？\xfffeおきゃくさま！\xf000븁\x0000\xfffeポケモンを　てもちに　２ひきいじょう\xfffeおもちで　ないと\xf000븀\x0000\xfffeＧＴＳを　ごりよう　いただけません\xf000븁\x0000
-……あら？\xfffeおきゃくさま！\xf000븁\x0000\xfffeポケモンを　てもちに　２ひきいじょう\xfffeおもちで　ないと\xf000븀\x0000\xfffeＧＴＳネゴシエーションを\xf000븀\x0000\xfffeごりよう　いただけません\xf000븁\x0000
-グローバルターミナルでは\xfffeＷｉ－Ｆｉコネクションに　せつぞくして\xf000븁\x0000\xfffeとおくにいる　みしらぬひとと\xfffeつうしんを　つかって\xf000븀\x0000\xfffeこうかんが　できます\xf000븁\x0000\xfffeくわしくは　それぞれの　しせつの\xfffeせつめいを　おききください\xf000븁\x0000
+Cancel
+Uh-oh!\xf000븁\x0000\xfffeI'm sorry, but your party and all your\xfffePC Boxes are full.\xf000븁\x0000\xfffeTo use the GTS, you must have\xffferoom in your party or in a PC Box.\xf000븁\x0000
+Uh-oh!\xf000븁\x0000\xfffeYou need at least two Pokémon in your\xfffeparty to use the GTS.\xf000븁\x0000
+Uh-oh!\xf000븁\x0000\xfffeYou need at least two Pokémon in your\xfffeparty to use GTS Negotiations.\xf000븁\x0000
+In the Global Terminal, you can battle or\xfffetrade Pokémon with Pokémon fans from\xf000븀\x0000\xfffearound the world by connecting to\xf000븀\x0000\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffeFor details, please listen to the\xfffeexplanation at each facility.\xf000븁\x0000
 ランダムマッチ　または\xfffeＷｉ－Ｆｉたいかいの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれたため\xf000븁\x0000\xfffe１じかん\xfffeランダムマッチや　たいかいで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeおこしください
 でんげんの　せつだんに　ついて
 ランダムマッチ　または\xfffeＷｉ－Ｆｉたいかいの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれると\xf000븁\x0000\xfffe１じかん　ランダムマッチや　たいかいで\xfffeたいせんが　できなくなります\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000
