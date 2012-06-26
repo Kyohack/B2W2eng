@@ -1,6 +1,6 @@
-でんどういり　おめでとう！
-おしまい
-ゲームクリア　おめでとう！
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないで　ください
-\xf000Ā\x0001\x0000は\xfffeレポートに　しっかり　かきのこした！
-レポートが　かけませんでした
+Congratulations on entering\xfffethe Hall of Fame!
+The End
+Congratulations on clearing\xfffethe game!
+Saving...\xfffeDon't turn off the power.
+\xf000Ā\x0001\x0000 saved the game.
+There is already a saved game file.\xfffeIt is impossible to save.
