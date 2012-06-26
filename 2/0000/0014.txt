@@ -1,5 +1,5 @@
-\xf000Ă\x0001\x0000What to do?
-マーキング　してください
+\xf000Ă\x0001\x0000 is selected.
+Please mark.
 Release this Pokémon?
 \xf000Ă\x0001\x0000 was released.
 Bye-bye　\xf000Ă\x0001\x0000!
@@ -16,7 +16,7 @@ Took the \xf000ĉ\x0001\x0000.
 \xf000ĉ\x0001\x0000 is now being held.
 Which one will you take?
 Place it in which Box?
-もちものなし
+No held item
 ♂
 ♀
 Take this \xf000ĉ\x0001\x0000?
