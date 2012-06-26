@@ -19,8 +19,8 @@ If you are unsure of a translation, leave it alone!
 If you need some help on Pokemon specific content, try visiting http://http://bulbapedia.bulbagarden.net!
 Automatic Translator are FORBIDDEN!
 
-//Join us for a discussion:
+/*Join us for a discussion:
 irc.bitsjoint.net
-#pokestation
+#pokestation*/
 
 Thanks for all the translations so far!
