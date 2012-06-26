@@ -115,7 +115,7 @@ White Gate
 Bridge Gate
 Route Gate
 Abyssal Ruins
-ヒオウギシティ
+Aspertia City
 タチワキシティ
 セイガイハシティ
 ポケウッド
@@ -144,7 +144,7 @@ Route 23
 かくしあな
 マリンチューブ
 タチワキゲート
-ヒオウギゲート
+Aspertia Gate
 しぜんほごく
 メダルじむきょく
 ちていいせき
