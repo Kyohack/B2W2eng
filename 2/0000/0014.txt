@@ -1,5 +1,5 @@
 \xf000Ă\x0001\x0000What to do?
-マーキング　してください
+Please mark.
 Release this Pokémon?
 \xf000Ă\x0001\x0000 was released.
 Bye-bye　\xf000Ă\x0001\x0000!
@@ -16,7 +16,7 @@ Took the \xf000ĉ\x0001\x0000.
 \xf000ĉ\x0001\x0000 is now being held.
 Which one will you take?
 Place it in which Box?
-もちものなし
+No held item
 ♂
 ♀
 Take this \xf000ĉ\x0001\x0000?
@@ -27,7 +27,7 @@ Placed \xf000ĉ\x0001\x0000 in the Bag.
 It can hold an item.
 Please remove the Mail.
 You can't release an Egg.
-がったいした　キュレムは　にがせません！
+You can't release a fused Kyurem.
 \xf000Ă\x0001\x0000 came back!
 Was it worried about you?
 An Egg can't hold an item.
