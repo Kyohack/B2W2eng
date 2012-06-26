@@ -1,4 +1,4 @@
 \xf000ă\x0001\x0000は　たおれた！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001の　てもとには\xfffeたたかえる　ポケモンが　いない！\xf000븁\x0000\xfffe\xf000Ď\x0001\x0002の　\xf000Ā\x0001\x0003\xfffeとの　しょうぶに　まけた……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は　しょうきんとして\xfffe\xf000ȅ\x0001\x0004円　しはらった\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は\xfffeめのまえが　まっくらに　なった！
 \xf000ă\x0001\x0000は　たおれた！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001の　てもとには\xfffeたたかえる　ポケモンが　いない！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は　あわてて\xfffe\xf000ȅ\x0001\x0003円　なくしてしまった……\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は\xfffeめのまえが　まっくらに　なった！
-つかれて　うごけなくなった　ひんしの\xfffeポケモンたちを　かばいながら\xfffe\xf000Ā\x0001\x0001は　いそいで\xfffeポケモンセンターに　もどるのであった
-つかれて　うごけなくなった　ひんしの\xfffeポケモンたちを　かばいながら\xfffe\xf000Ā\x0001\x0001は　いそいで\xfffeじたくに　もどるのであった
+\xf000Ā\x0001\x0001 scurried to\xfffea Pokémon Center, protecting\xfffethe exhausted and fainted\xfffePokémon from further harm...
+\xf000Ā\x0001\x0001 scurried back\xfffehome, protecting the exhausted\xfffeand fainted Pokémon \xfffefrom further harm...
