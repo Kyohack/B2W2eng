@@ -30,7 +30,7 @@ DELETE OTHER VIDEOS
 あき
 \xf000Ā\x0001\x0000　のきろくをけす
 SEARCH BY RANK
-データをおくる
+SEND DATA
 NEWEST 30
 SEARCH
 SEARCH BY NO.
@@ -43,9 +43,9 @@ SEND PHOTO
 VIEW PHOTOS
 SEND
 Please choose the Pokémon you want to see.
-\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
+Photo of \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
-しゃしん
+Photo
 Send Box Data
 View Box Data
 Favorite
@@ -54,8 +54,8 @@ Cute
 Suggested
 Fun
 Select
-ボックス
-くわしくみる
+Box
+View Photo
 ア
 カ
 サ
@@ -70,9 +70,9 @@ This Week’s Rankings
 Last Week’s Rankings
 Switch Rankings
 Switch Teams
-チーム：トレーナータイプ
-チーム：うまれたつき
-チーム：すきなポケモン
+Team：Trainer Type
+Team：Birth Month
+team：Favorite Pokémon
 \xf000Ā\x0001\x0001：\xf000Ď\x0001\x0000
 \xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000がつうまれ
 \xf000Ā\x0001\x0001：\xf000ā\x0001\x0000
@@ -123,7 +123,7 @@ There is no Battle Video to send.
 \xf000ȁ\x0001\x0000
 つうしんたいせん
 BATTLE SUBWAY
-すんでいるばしょ\xfffe\xf000Ĥ\x0001\x0000
+Location: \xfffe\xf000Ĥ\x0001\x0000
 \xf000봂\x0000SINGLE TRAIN
 \xf000봂\x0000DOUBLE TRAIN
 \xf000봂\x0000MULTI TRAIN
