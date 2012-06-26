@@ -1,260 +1,260 @@
-ディレクター
-うんの　たかお
-プランニング　ディレクター
-さいとう　まさふみ
-プログラム　ディレクター
-たまだ　そうすけ
-アート　ディレクター
-うんの　たかお
-シナリオ
-まつみや　としのぶ
-プログラム
-リーダー
-もり　あきと
-いわさわ　みゆき
-なぎはし　とおる
-いちらく　かつひこ
-おのうえ　まさゆき
-たなか　りょうた
-ポケモンＢＷ　プログラム
-わたなべ　てつや
-そがべ　ひさし
-おおの　かつみ
-たや　まさお
-なかむら　ひろゆき
-さいとう　のぞむ
-たかはし　ともや
-ほさか　げんや
-ありいずみ　のぶひこ
-おばた　としひろ
-かわだ　こうじ
-まつだ　よしのり
-かがや　けいた
-ポケモン　キャラクター　ディレクター
-すぎもり　けん
-ポケモン　デザイン
-すぎもり　けん
-うんの　たかお
-ふじわら　もとふみ
-よしだ　ひろのぶ
-とやま　けんきち
-ふちの　ひろき
-おおむら　ゆうすけ
-つるた　さや
-リ　ヒョンジョン
-いべ　まな
-たのうえ　れいこ
-ふじわら　まいこ
-みずたに　めぐみ
-おおくぼ　ともひこ
-ジェイムス　ターナー
-にしだ　あつこ
-もりつぐ　けいこ
-きたかぜ　ともひろ
-２Ｄ　グラフィック　デザイン
-リーダー
-よしだ　ひろのぶ
-とやま　けんきち
-つるた　さや
-みずたに　めぐみ
-おおむら　ゆうすけ
-３Ｄ　グラフィック　デザイン
-リーダー
-おおくぼ　ともひこ
-ふちの　ひろき
-いべ　まな
-おおたに　まよ
-かわもと　ゆき
-ふじわら　もとふみ
-まつざき　つばさ
-しいやま　ゆきこ
-たかお　ゆういちろう
-わたなべ　あつし
-トレーナー　メイン　デザイン
-おおむら　ゆうすけ
-トレーナー　デザイン
-いべ　まな
-みずたに　めぐみ
-バトル　グラフィック　デザイン
-よしだ　ひろのぶ
-バトル　エフェクト　デザイン
-ふじわら　もとふみ
-ＵＩ　グラフィック　メイン　デザイン
-とやま　けんきち
-デモ　ムービー　デザイン
-うんの　たかお
-ポケモンＢＷ　グラフィック　デザイン
-リ　ヒョンジョン
-たのうえ　れいこ
-ふじわら　まいこ
-ジェイムス　ターナー
-もりつぐ　けいこ
-きたかぜ　ともひろ
-ポケモン　せってい　＆　ずかん　テキスト
-まつみや　としのぶ
-おんがく
-いちのせ　ごう
-さとう　ひとみ
-ポケモン　ボイス
-いちのせ　ごう
-サウンド　エフェクト
-さとう　ひとみ
-たにぐち　てるお
-セイガイハシティ
-１９ばんどうろ
-２３ばんどうろなど
-ジョインアベニューなど
-さっきょく　＆　へんきょく
-さっきょく　＆　へんきょく
-いちのせ　ごう
-さとう　ひとみ
-ポケモンＢＷ　おんがく
-ますだ　じゅんいち
-かげやま　しょうた
-あだち　みなこ
-ゲームデザイン
-リーダー
-しもやまだ　てるゆき
-リーダー
-なかつい　すぐる
-リーダー
-まつみや　としのぶ
-にしの　こうじ
-みずぐち　まい
-すぎなか　かつのり
-なかむら　あきら
-いとう　ひろと
-むらかみ　なおと
-テキスト
-まつみや　としのぶ
-なかつい　すぐる
-いとう　ひろと
-よしかわ　ひかる
-スクリプトせってい
-みずぐち　まい
-すぎなか　かつのり
-ふじむら　そういちろう
-マップデザイン
-なかつい　すぐる
-すぎなか　かつのり
-なかむら　あきら
-にしの　こうじ
-あさおか　ようへい
-むろい　かずき
-パラメーターせっけい
-にしの　こうじ
-いとう　ひろと
-ポケウッド　せっけい
-なかつい　すぐる
-ポケモンワールドトーナメント　せっけい
-すぎなか　かつのり
-まつみや　としのぶ
-ハイリンクフェス　せっけい
-さいとう　まさふみ
-ジョインアベニュー　せっけい
-しもやまだ　てるゆき
-ポケモンＢＷ　ゲームデザイン
-もりもと　しげき
-まつしま　けんじ
-おおた　てつじ
-おおもり　しげる
-ひろ　なかむら
-いわお　かずまさ
-ほずみ　ゆきこ
-かわちまる　たけし
-たかはし　ただし
-３ＤＳれんどう　せっけい
-うんの　たかお
-さいとう　まさふみ
-３ＤＳれんどう　プログラム
-いさり　やすのり
-ポケモンＢＷ　Wi-Fi　サーバー　かいはつ
-やまぐち　たかひろ
-やまぐち　りょう
-にわ　かずとも
-たけうち　たかあき
-いしかわ　みきひろ
-ポケモングローバルリンク　せっけい
-たかはし　まきこ
-よしかわ　けいいち
-うわい　しん
-ベースメントファクトリープロダクション
-デバッグマネージメント
-たにかわ　ゆうき
-なかじま もとき
-おおはし　あきこ
-たむら　たけし
-デバッグ
-マリオクラブ
-Ｂ　＆　Ｗ　こうそう
-ますだ　じゅんいち
-スペシャルサンクス
-とみなが　けんじ
-もり　ゆういちろう
-たじり　よしお
-ささき　ていこ
-えんどう　えみ
-さとう　あさみ
-ふかせ　ながあき
-はまの　さちこ
-すなが　はるか
-たかだ　けいすけ
-つる　ひろあき 
-いとう　けんじろう 
-おおはし　みきこ
-こむら　ともたか 
-すぎもと　あつし
-ふくなが　すすむ 
-うつのみや　たかと
-みやはら　としお 
-かわもと　たく
-のもと　がくじ 
-むらた　かなこ
-たきざわ　みちこ
-まつなが　みつよ
-ふるたに　しょう
-おおにし　たかひろ
-つみた　ゆういちろう
-ふじた　おさむ 
-そが　まさゆき 
-なかやま　ようこ
-なかた　かよ
-むらかわ　てるき
-あんどう　かおり
-ひろまつ　こうたろう
-あくね　ひろし
-こまい　だいすけ
-むかい　としお
-たかはら　ちあき
-アートワーク
-いたに　きよみ
-なかみち　さちこ
-グローバライズ
-なかお　のりこ
-いちばやし　ひろのり
-ふるかわ　しゅうへい
-にのみや　けい
-まつしま　けんじ
-じょうほうかんり
-よねだ　とうや
-はらぐち　しほ
-なかい　ゆうた
-さくらい　ゆうり
-コーディネーター
-こほり　しゅんすけ
-かじわら　あやこ
-きなし　あきら
-あらき　ひであき
-おかだ　ゆうき
-プロデューサー
-ますだ　じゅんいち
-やまがみ　ひとし
-えがみ　しゅうさく
-エグゼクティブ　プロデューサー
-たじり　さとし
-いわた　さとる
-いしはら　つねかず
-かいはつ
-ゲームフリーク
-ポケットモンスターブラック２
-ポケットモンスターホワイト２
+Director
+Takao Unno
+Planning Director
+Masafumi Saito
+Program director
+Tamada SoYu
+Art Director
+Takao Unno
+Scenario
+Toshinobu Matsumiya
+Program
+Leader
+Akito Mori
+Miyuki Iwasawa
+Nikki Bridge and Nagi
+Katsuhiko Ichiraku
+Masayuki Onoe
+Ryota Tanaka
+Pokemon BW program
+Tetsuya Watanabe
+Hisashi Sogabe
+Katsumi Ohno
+Taya Masao
+Hiroyuki Nakamura
+Saito, N.
+Tomoya Takahashi
+Hosaka wilderness
+Nobuhiko Ariizumi
+Toshihiro Obata
+Koji Kawada
+Yoshinori Matsuda
+Kagaya Keita
+Pokemon character director
+Ken Sugimori
+Pokemon design
+Ken Sugimori
+Takao Unno
+Fumi original Fujiwara
+Hironobu Yoshida
+Toyama Kenkichi
+Hiroki on brink
+Omura, Yusuke
+Saya Tsuruta
+Re-Hyun
+You should not have
+Reiko Tagami
+Maiko Fujiwara
+Mizutani, Megumi
+Okubo, Tomohiko
+James Turner
+Atsuko Nishida
+Keiko Mori pour
+Tomohiro north wind
+2D Graphic Design
+Leader
+Hironobu Yoshida
+Toyama Kenkichi
+Saya Tsuruta
+Mizutani, Megumi
+Omura, Yusuke
+3D Graphic Design
+Leader
+Okubo, Tomohiko
+Hiroki on brink
+You should not have
+Otani Mayo
+Kawamoto snow
+Fumi original Fujiwara
+Matsuzaki wings
+Yukiko and the new
+Y. Takao
+Atsushi Watanabe
+Trainer the main design
+Omura, Yusuke
+Trainer design
+You should not have
+Mizutani, Megumi
+Battle graphics design
+Hironobu Yoshida
+Battle design effect
+Fumi original Fujiwara
+UI graphic design main
+Toyama Kenkichi
+Design demo movie
+Takao Unno
+Pokemon BW graphic design
+Re-Hyun
+Reiko Tagami
+Maiko Fujiwara
+James Turner
+Keiko Mori pour
+Tomohiro north wind
+Pokemon picture book text and setting
+Toshinobu Matsumiya
+Music
+Tsuyoshi Ichinose
+Hitomi Sato
+Pokemon voice
+Tsuyoshi Ichinose
+Sound effects
+Hitomi Sato
+Taniguchi, Akio
+Seigaihashiti
+Bando filtrate 19
+Bando 23 such as a furnace
+Avenue, such as join
+Arranger and composer
+Arranger and composer
+Tsuyoshi Ichinose
+Hitomi Sato
+Pokemon music BW
+Junichi Masuda
+Shota Kageyama
+Minako Adachi
+Game design
+Leader
+Teruyuki Shimoyamada
+Leader
+Some elder with
+Leader
+Toshinobu Matsumiya
+Koji Nishino
+My Mizuguchi
+Katsunori Sugi-chu
+Akira Nakamura
+Hiroto Ito
+Murakami Naoto
+Text
+Toshinobu Matsumiya
+Some elder with
+Hiroto Ito
+Hikaru Yoshikawa
+Script configuration
+My Mizuguchi
+Katsunori Sugi-chu
+Soichiro Fujimura
+Map Design
+Some elder with
+Katsunori Sugi-chu
+Akira Nakamura
+Koji Nishino
+Yohei Asaoka
+Kazuki Muroi
+Parameter proportioning
+Koji Nishino
+Hiroto Ito
+Pokeuddo proportioning
+Some elder with
+Proportioning Pokemon World Tournament
+Katsunori Sugi-chu
+Toshinobu Matsumiya
+High proportioning link Fes
+Masafumi Saito
+Join proportioning Avenue
+Teruyuki Shimoyamada
+BW Pokemon game design
+Shigeki Morimoto
+Kenji Matsushima
+Tetsuji Ota
+Shigeru Omori
+Hiro Nakamura
+Kazumasa Iwao
+Yukiko Hidemi
+Takeshi Kawachi Maru
+However, Takahashi
+3DS interlocking proportioning
+Takao Unno
+Masafumi Saito
+Program in conjunction 3DS
+Yasunori rummaged
+Pokemon BW Wi-Fi server development
+Takahiro Yamaguchi
+Ryo Yamaguchi
+Niwa Kazutomo
+Takeuchi, Takaaki
+Ishikawa Mikihiro
+Pokemon Global Link proportioning
+Makiko Takahashi
+Keiichi Yoshikawa
+Shin will dwarf
+Basement Factory Productions
+Management debug
+Yuki Tanigawa
+Motoki Nakajima
+Akiko Ohashi
+Takeshi Tamura
+Debug
+Mario Club
+B & W plan
+Junichi Masuda
+Special Thanks
+Kenji Tominaga
+Yuichiro Mori
+Yoshio Tajiri
+Sasaki teichoic
+Emi Endo
+Asami Sato
+Naka Aki Fukase
+Sachiko Hamano
+Haruka Sunaga
+Keisuke Takada
+Hiroaki Tsuru 
+Kenjiro Ito 
+Mikiko Ohashi
+Tomotaka hamlet 
+Atsushi Sugimoto
+Susumu Fukunaga 
+Height and Utsunomiya
+Miyahara, Toshio 
+Kawamoto want
+Lottery is under the 
+Kanako Murata
+Michiko Takizawa
+Mitsuyo Matsunaga
+Furuya Sho
+Takahiro Onishi
+Yuichiro Tsumita
+Osamu Fujita 
+Soga, Masayuki 
+Yoko Nakayama
+Nakata, Kayo
+Murakawa Teruki
+Kaori Ando
+Kotaro Hiromatsu
+Hiroshi Akune
+Daisuke Komai
+Toshio Mukai
+Chiaki plateau
+Artwork
+Itani, Kiyomi
+Sachiko Nakamichi
+Globalize
+Noriko Nakao
+Yusuke Ichi Bayashi
+Shuhei Furukawa
+Kei Ninomiya
+Kenji Matsushima
+Information management
+Toya Yoneda
+Shiho blastopore
+Yuta Nakai
+Yuri Sakurai
+Coordinator
+Shunsuke Kohori
+Kajiwara, Ayako
+Akira Kinashi
+Hideaki Araki
+Yuki Okada
+Producer
+Junichi Masuda
+Hitoshi Yamagami
+Shusaku Egami
+Executive Producer
+Satoshi Tajiri
+Satoru Iwata
+Koichi Ishihara
+Development
+Game freak
+Pokemon Black 2
+Pokemon White 2
