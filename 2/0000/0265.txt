@@ -1,6 +1,6 @@
 ーーーー
-パワー１ばん
-パワー２ばん
-パワー３ばん
-パワー４ばん
-パワー５ばん
+First Power
+Second Power
+Third Power
+Fourth Power
+Fifth Power
