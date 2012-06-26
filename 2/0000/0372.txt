@@ -1,9 +1,9 @@
-たいりょく
+Health
 Attack
 Defense
-すばやさ
+Speed
 Sp. Atk
 Sp. Def
-めいちゅうりつ
-かいひりつ
+Accuracy
+Evasion
 Max HP
