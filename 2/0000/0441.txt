@@ -1,71 +1,71 @@
-みつけた　かず
-つかまえた　かず
+No. Seen
+No. Caught
 JPN
 ENG
 FRA
 GER
 ITA
 SPA
-せつめい
+Details
 \xf000Ȃ\x0001\x0000
 HT
 WT
-『けんさく　モード』
-じょうけんを　いれて　ください
-『けんさくの　けっか』
-みつかったかず　\xf000Ȃ\x0001\x0000
-ずかんの　ならびを　してい　します
-なまえの　かしらもじを　してい　します
-タイプを　してい　します
-おもさの　はんいを　してい　します
-たかさの　はんいを　してい　します
-かたちを　してい　します
-せいそく　ちいきを　してい　します
-じょうけんを　みたす　ポケモンが
-みつかりませんでした……
-けんさく　しています……
-ならびじゅん
-なまえ
-タイプ
-たかさ
-おもさ
-ちいき
-かたち
-カントー
-ジョウト
-リセット
-スタート
-やめる
+『Search Mode』
+Please enter the search criteria.
+『Search Results』
+RESULTS　\xf000Ȃ\x0001\x0000
+Select the Pokédex listing mode.
+List by the first letter in the name.
+List by type.
+List by weight range.
+List by height range.
+List by body style.
+List by area.
+No matching Pokémon were found.
+Not found...
+Searching...
+Order
+Name
+Type
+HT
+WT
+Area
+Shape
+Kanto
+Johto
+Reset
+Start
+Cancel
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-けってい
-やめる
-ばんごう
-ごじゅうおん
-おもい
-かるい
-たかい
-ひくい
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
+Accept
+Cancel
+Numerical
+A to Z
+Heaviest
+Lightest
+Tallest
+Shortest
+Dark
+Rock
+Psychic
+Fight
+Grass
+Ice
+Ghost
+Ground
+Electric
+Poison
+Dragon
+Normal
+Steel
+Flying
+Fire
+Water
+Bug
 ーーーー
-ジョウト
-カントー
-ふめい
+Johto
+Kanto
+Unknown
 ーーーー
 ア
 イ
@@ -112,83 +112,83 @@ WT
 ロ
 ワ
 ー
-オスのすがた
-メスのすがた
-にしのうみ
-ひがしのうみ
-くさきのミノ
-すなちのミノ
-ゴミのミノ
-あるすがた
-にほんごのずかん
-えいごのずかん
-フランスごのずかん
-ドイツごのずかん
-イタリアごのずかん
-スペインごのずかん
-せいそくち　ふめい
-あさ
-ひる
-よる
-きりかえ
+Male
+Female
+West Sea
+East Sea
+Plant Cloak
+Sandy Cloak
+Trash Cloak
+One form
+JP Pokédex
+EN Pokédex
+FR Pokédex
+GE Pokédex
+IT Pokédex
+SP Pokédex
+Area Unknown
+Morning
+Day
+Night
+Switch
 \xf000ą\x0001\x0000
-すべて　ひょうじ
-すべて　ひょうじ
-おおきさ　くらべ
-おもさ　くらべ
+Show all
+Show all
+Height Check
+Weight Check
 １．６０ｍ
 １．４８ｍ
 ４５．０ｋｇ
 ３８．０ｋｇ
-ぶんぷ
-おおきさ
-ポケモンずかん　とうろく　かんりょう！
-ノーマルフォルム
-アタックフォルム
-ディフェンスフォルム
-スピードフォルム
-ランドフォルム
-スカイフォルム
-アナザーフォルム
-オリジンフォルム
-ロトムのすがた
-ヒートロトム
-ウォッシュロトム
-フロストロトム
-スピンロトム
-カットロトム
+Area
+Size
+Pokédex registration completed.
+Normal Forme
+Attack Forme
+Defense Forme
+Speed Forme
+Land Forme
+Sky Forme
+Altered Forme
+Origin Forme
+Rotom
+Heat Rotom
+Wash Rotom
+Frost Rotom
+Fan Rotom
+Mow Rotom
 \xf000ā\x0001\x0000のすがた
-ポワルンのすがた
-たいようのすがた
-あまみずのすがた
-ゆきぐものすがた
-ネガフォルム
-ポジフォルム
-ギザみみ
+Normal
+Sunny Form
+Rainy Form
+Snowy Form
+Overcast Form
+Sunshine Form
+Spiky-eared
 \xf000ā\x0001\x0000：
-みくらべる
-\xf000ā\x0001\x0000を　みくらべる
-すがた
-きりかえる
-もどる
-もどる
-リストに　もどります
-Give a nickname to the \xf000ā\x0001\x0000caught \xfffe?
-Give a nickname to the \xf000ā\x0001\x0000caught \xfffe?
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in PokéStation.net PC!
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in PokéStation's PC!
-Information
-Map/Area
-Voice/Cry
-Forme/Forms
 Compare
+Compare \xf000ā\x0001\x0000
+Forms
+Switch
+Cancel
+Cancel
+Return to list
+Give a nickname to the\xfffecaught \xf000ā\x0001\x0000?
+Give a nickname to the\xfffecaught \xf000ā\x0001\x0000?
+\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in someone's PC!
+\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in Amanita's PC!
+INFO
+AREA
+CRY
+FORMS
+COMPARE
 \xf000Ȁ\x0001\x0000'\xf000ȁ\x0001\x0001"
-Forms seen
-Shiny seen
+FORMS SEEN
+SHINY SEEN
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
 (Shiny)
-\xf000ā\x0001\x0000's Area
+\xf000ā\x0001\x0000's AREA
 Spring
 Summer
 Autumn
@@ -200,7 +200,7 @@ GR.
 ALTEZ.
 ALT.
 키
-Weight
+WT
 POIDS
 GEW.
 PESO
