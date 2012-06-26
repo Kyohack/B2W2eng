@@ -7,13 +7,13 @@ SAVE
 OPTIONS　　
 CHAT
 　
-リタイア
-ずかんを　せんたくしました
-ポケモンステータスを　せんたくしました
-バッグを　せんたくしました
-トレーナーカードを　せんたくしました
-レポートを　せんたくしました
-せっていを　せんたくしました
-ポケモンレポートに　かきこんでいます
-ポケモンレポートに\xfffeしっかり　かきのこした！
-つうしんちゅうは　レポートを　かけません
+Retire
+Pokédex selected.
+Pokémon Status selected.
+Bag selected.
+Trainer Card selected.
+Save selected.
+Options selected.
+Now saving.
+The game was\xfffesuccessfully saved!
+Can't save while communicating.
