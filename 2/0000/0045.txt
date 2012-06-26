@@ -19,8 +19,8 @@ A trade partner has been found!
 SEARCH
 Please select who you wish\xfffeto trade with.
 Please press “SEARCH" when you've\xfffechosen the desired trade conditions.
-こうかんあいて
-どちらの　こうかんを　するか\xfffeえらんで　ください
+Lets trade
+Please choose to trade or to\xfffe
 WANT
 HAVE
 YES
@@ -36,7 +36,7 @@ CANCEL
 GREETINGS
 \xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
-さがすのを　あきらめますか？
+Stop searching?
 The trade will be started.
 \xf000봃\x0001\x0001NO. OF TRADES
 LOCATION
