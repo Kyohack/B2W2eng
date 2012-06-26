@@ -1,33 +1,33 @@
-GAME SYNC
-Wi-Fi Settings
+Spiel Synchro.
+Wi-Fi Einstellungen
 もどる
-Would you like to save the game?
-Yes
-No
-Saving...\xfffeDon't turn off the power.
-Do you want to choose the\xfffeNintendo Wi-Fi Connection settings?
-The Pokémon has been tucked in.\xfffeDon't turn off the power...
-Save complete!
-Is it OK to wake up this Pokémon?
-The Pokémon is being woken up...\xfffeDon't turn off the power.
-\xf000Ă\x0001\x0000 has woken up!
-Please wait a moment...
-\xf000Ă\x0001\x0000 fell\xfffeasleep. It's sleeping soundly!
+Moechtest du das Spiel speichern?
+Ja
+Nein
+Speichere...\xfffeBitte Schalte das Geraet nciht aus.
+Moechtest du die\xfffeNintendo Wi-Fi Einstellungen auswaehlen?
+Das Pokémon wurde versteckt.\xfffeBitte schalte das Gereat nicht aus...
+Gespeichert!
+Moechtest du das Pokémon aufwecken?
+Das Pokémon wurde afugeweckt...\xfffeBitte schalte das Geraet ncith aus.
+\xf000Ă\x0001\x0000 ist aufgewacht!
+Bitte warte einen Moment...
+\xf000Ă\x0001\x0000 fell\xfffeaschlaeft. Es schlaeft tief und fest!
 \xf000Ă\x0001\x0000が　めをさました！
-Game Sync has run out of energy.\xfffeIt will take one day to recharge it.
-This Pokémon is not dreaming yet.
+Die Spiele Synchro. hat keine Energie mehr.\xfffeEs braucht 1 Tag um sich aufzuladen.
+Das Pokémon schlaeft noch nicht.
 ポケモンを　おこしますか？
-There are no Pokémon in your PC that can\xfffebe sent to the Pokémon Dream World.
-This Pokémon is dreaming.
-You haven't yet received the\xfffeDream Remnants from last time.\xf000븁\x0000\xfffeYou'll lose it if you wake this Pokémon up\xfffeto receive new Dream Remnants.\xf000븁\x0000\xfffeIs it OK to wake up this Pokémon?
-\xf000Ă\x0001\x0000 has gained\xfffe\xf000ȁ\x0001\x0001 level(s).
-C-Gear skin has changed.\xfffeMusical show has changed.\xfffePokédex skin has changed.
-C-Gear skin has changed.
-Musical show has changed.
-Pokédex skin has changed.
-C-Gear skin has changed.\xfffeMusical show has changed.
-Musical show has changed.\xfffePokédex skin has changed.
-C-Gear skin has changed.\xfffePokédex skin has changed.
+In der Box sind keine Pokémon\xfffedie in die Traumwelt gesendet werden koennen.
+Das Pokémon schlaeft.
+Du hast bis jetz noch keine\xfffeTraum Reste bekommen.\xf000븁\x0000\xfffeDu wirst sie verlieren,\xfffewenn du das Pokémon aufweckst.\xf000븁\x0000\xfffeTrotzdem aufwecken?
+\xf000Ă\x0001\x0000 ist\xfffe\xf000ȁ\x0001\x0001 Level gestiegen.
+C-Gear Skin wurde gewechselt.\xfffeMusikshow wurde geaendert.\xfffePokédex Skin wurde geaendert.
+C-Gear skin wurde gewechselt.
+Musikshow wurde geaendert.
+Pokédex skin wurde gewechselt.
+C-Gear skin wurde gewechselt.\xfffeMusikshow wurde geaendert.
+Musikshow wurde geaendert.\xfffePokédex skin wurde gewechselt.
+C-Gear skin wurde gewechselt.\xfffePokédex skin wurde gewechselt.
 An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13201
 An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13202
 A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xfffeplease refer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13203
