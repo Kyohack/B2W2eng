@@ -1,5 +1,5 @@
 Entralink
-Xtransceiver
+Xtransceiver\xfffe
 Union Room
 \xf000ȁ\x0001\x0000Ppl.
 Wireless Distribution
@@ -9,7 +9,7 @@ Yes
 No
 Back
 ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-セーブしています\xfffeしばらく　おまちください
+Now saving.\xfffePlease wait.
 C-Gear Detected
 Yes
 No
