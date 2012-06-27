@@ -3,8 +3,8 @@ Check complete. Create an Infrared\xfffeConnection with the other Trainer.
 Checking...\xfffePlease maintain the Infrared Connection.
 You've created an Infrared Connection!
 The connection was interrupted.\xfffePlease realign your infrared Game Cards.
-もどる
-タッチ　スタート
+Back
+Press Start button.
 RHYTHM CHECK
 no data
 no data
