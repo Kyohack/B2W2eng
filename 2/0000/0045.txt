@@ -2,9 +2,9 @@
 \xf000봂\x0000TRADE RENDEZVOUS
 TRADE WANTED
 LEVEL
-Lv. 1 through Lv. 49
+Lv. 1 through 49
 Lv. 50
-Lv. 51 through Lv. 100
+Lv. 51 through 100
 Any kind
 COOL
 CUTE
@@ -19,8 +19,8 @@ A trade partner has been found!
 SEARCH
 Please select who you wish\xfffeto trade with.
 Please press “SEARCH" when you've\xfffechosen the desired trade conditions.
-こうかんあいて
-どちらの　こうかんを　するか\xfffeえらんで　ください
+
+
 WANT
 HAVE
 YES
@@ -36,7 +36,7 @@ CANCEL
 GREETINGS
 \xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
-さがすのを　あきらめますか？
+
 The trade will be started.
 \xf000봃\x0001\x0001NO. OF TRADES
 LOCATION
@@ -44,5 +44,5 @@ Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
 You need at least two Pokémon\xfffeif you want to trade!
 RENDEZVOUS WITH ANY
 Will you trade with someone\xfffeyou have traded with before?
-さくじょします
-９９ついかします
+DELETE
+ADD 99
