@@ -1,12 +1,12 @@
 Make an Infrared Connection\xfffewith your opponent(s).
 Infrared Communication failed\xfffereturning to menu.
-Infrared Communication Succesfull.
-Make an Infrared Connection\xfffewith your trade partner.
-チェックちゅう　です\xfffeつうしんを　つづけてください
-したがめんの　メニューを\xfffeタッチで　スタート！
-Begin Check
-Ranking
-Back
-Quit
-Feeling Check
+You've created an Infrared Connection!
+Create an Infrared Connection to start\xfffethe Feeling Check with someone.
+Checking...\xfffePlease maintain the Infrared Connection.
+Tap the menu in the Touch Screen\xfffeto begin!
+BEGIN CHECK
+RANKING
+CANCEL
+BACK
+FEELING CHECK
 シーンが　ずれました\xfffeさきへ　すすみます
