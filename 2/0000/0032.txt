@@ -3,7 +3,7 @@ TEXT SPEED
 BATTLE SCENE
 BATTLE STYLE
 SOUND
-ENGLISH
+NAMES
 Wi-Fi
 SAVE BEFORE IR
 CONFIRM
@@ -17,8 +17,8 @@ SHIFT
 SET
 STEREO
 MONO
-YES
-NO
+ENGLISH
+JAPANESE
 ON
 OFF
 SAVE
@@ -27,9 +27,9 @@ You can choose from three different\xfffetext-scrolling speeds.
 You can choose to switch Pokémon\xfffewhen an opponent's Pokémon faints.
 You can choose whether to view\xfffemove animations.
 You can choose the way the game sounds.
-You can change the game's language.
+You can change the language\xfffeof Pokémon names.
 You can turn wireless communication\xfffeon or off.
-You can choose to save the game\xfffeebefore C-Gear launches infrared.
+You can choose to save the game\xfffebefore C-Gear launches infrared.
 You have saved data already.\xfffeYou cannot change this option.\xf000븁\x0000
 Would you like to make these changes?
 Yes
