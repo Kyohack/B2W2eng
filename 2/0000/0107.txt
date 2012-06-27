@@ -1,5 +1,5 @@
 GAME SYNC
-Wi-Fiせってい
+Wi-Fi Settings
 Is it OK to create data \xfffeto play Game Sync?
 Creating data...\xfffePlease wait a moment.
 Yes
