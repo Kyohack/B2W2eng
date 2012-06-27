@@ -4,7 +4,7 @@ Drizzle
 Speed Boost
 Battle Armor
 Sturdy
-Dampa
+Damp
 Limber
 Sand Veil
 Static
