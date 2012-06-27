@@ -7,8 +7,8 @@ The saved data could not be accessed.\xfffeThe Relocator will close.\xf000븁\x0
 Unable to connect to the\xfffeother DS system.\xf000븁\x0000
 Save failed...\xfffeThe Relocator will close.\xf000븁\x0000
 The Relocator is activated.\xfffeSearching for Pokémon...\xfffe\xfffePlease wait a moment.
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
+The save file was corrupted\xfffeor is missing.\xfffeThe save file could not\xfffebe read.
+There was a problem loading the game.\xfffePlease turn off the power\xfffeand reinsert the Game Card.
 YES
 NO
 デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
