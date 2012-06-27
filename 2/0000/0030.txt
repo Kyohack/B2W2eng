@@ -1,8 +1,8 @@
-つごうが　わるいみたい……　\xf000Ȅ\x0001\x0009
-つうしんエラーが\xfffeはっせい　しました\xfffe\xfffeユニオンルームの　ばあいは\xfffeユニオンルームに　はいりなおします\xfffeそれいがいの　ばあいは\xfffeさいごに　レポートをかいた\xfffeばしょに　もどります\xfffeＡボタンを　おしてください
-つうしんちゅう　に　エラーが\xfffeはっせい　しました（\xf000Ȅ\x0001\x0000）\xfffeでんげんを　きって\xfffeいれなおして　ください\xfffe\xfffeなんども\xfffeこのメッセージが　でるときは\xfffeサポートセンターに\xfffeおといあわせ　ください
-つうしんエラーが\xfffeはっせい　しました\xfffe\xfffeタイトルがめんに　もどります\xfffeＡボタンを　おしてください
-ただいま　ＧＴＳが　こみあっています\xfffeしばらく　じかんを　おいて\xfffeもういちど　おためし　ください\xfffe\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　しました\xfffeＡボタンを　おしてください
-つうしんちゅう　に　エラーが\xfffeはっせい　しました\xfffeでんげんを　きって\xfffeいれなおして　ください\xfffe\xfffeなんども\xfffeこのメッセージが　でるときは\xfffeサポートセンターに\xfffeおといあわせ　ください
-つうしんエラーが\xfffeはっせい　しました\xfffe\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　しました\xfffeさいごに　レポートをかいた\xfffeばしょに　もどります\xfffeＡボタンを　おしてください
-つうしんエラーが\xfffeはっせい　しました\xfffe\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　しました\xfffeタイトルがめんに　もどります\xfffeＡボタンを　おしてください
+Circumstances seem bad... \xf000Ȅ\x0001\x0009
+A communication error\xfffehas occurred.\xfffe\xfffeIf you are in the Union Room,\xfffeenter the Union Room again.\xfffeOtherwise,\xfffeyou will be returned\xfffeto your last save.\xfffePlease press A.
+An error has occurred\xfffeduring communications. (\xf000Ȅ\x0001\x0000)\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the\xfffeSupport Center.
+A communication error\xfffehas occurred.\xfffe\xfffeReturning to the title screen.\xfffePlease press A.
+The GTS is currently busy.\xfffePlease wait a while,\xfffethen try again.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffePlease press A.
+An error has occurred\xfffeduring communications.\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the\xfffeSupport Center.
+A communication error\xfffehas occurred.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffeYou will be returned\xfffeto your last save.\xfffePlease press A.
+A communication error\xfffehas occurred.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffeReturning to the title screen.\xfffePlease press A.
