@@ -6,18 +6,18 @@ Your friend's name?
 How do you greet passersby?
 How do you thank passersby?
 What's your message\xfffeto passersby?
-この　まちの　なまえは？\xfffe（トレーナーカードに　のります）
-あなたの　かたがきは？\xfffe（このまち　だけの　よばれかた　です）
-じぶんの　くちぐせは？\xfffe（せかいの　みんなに　つたわります）
-パスワードを　にゅうりょくせよ
-ゲームシンクＩＤコードを\xfffeにゅうりょく　してください
-かんどう　したときの　ことばは？\xfffe（せかいの　みんなに　つたわります）
-さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
-すれちがった　あいてへの\xfffeよろこびの　メッセージは？
-ポケモンの　なまえは？
+Name of this town?\xfffe（トレーナーカードに　のります）
+Your tittle?\xfffe（このまち　だけの　よばれかた　です）
+My favorite phrase?\xfffe（せかいの　みんなに　つたわります）
+Enter the password case
+Please enterＩＤコードを\xfffethe game sink ID code
+Words when the impression is?\xfffe（Trainsmited to everyone in the world）
+Messege i want to tell\xfffeto the trainer you are participating?
+Messege of joy\xfffenearly ran to the other party is?
+The name of the Pokemon?
 Please enter the name.
 Numbers may contain\xfffeonly up to four digits.
-ゲームシンクＩＤコードが\xfffeまちがっています
+Game sinkＩＤcode\xfffeis incorrect.
 　
 　
 Best regards!
