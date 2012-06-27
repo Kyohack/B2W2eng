@@ -66,24 +66,24 @@ READY BUTTON
 FRIDAY BOX
 TRANSFER POKÉMON WITH POKÉ TRANSFER
 CATCH POKÉMON WITH POKÉ TRANSFER
-ぼうけんを　はじめたら\xfffeＸボタンで　メニューを　ひらき\xfffe「レポート」を　こまめに　かきましょう。\xfffe\xfffeレポートをかくと　ＤＳの　でんげんを\xfffeきっても　タイトルメニューの\xfffe「つづきから　はじめる」から\xfffeぼうけんの　つづきを　あそべます。
-レポートを　すべてけして　もういちど\xfffeさいしょから　ぼうけんを　はじめなおす\xfffeときは　タイトルがめんで\xfffe\xfffeうえボタン　セレクトボタン　Ｂボタン\xfffe\xfffeの　３つのボタンを\xfffeどうじに　ぜんぶ　おしてください。
-イベントかいじょうなどで　とくべつな\xfffeプレゼントを　つぎの　３つの　ほうほうで\xfffeうけとることが　できます。\xfffe・ワイヤレスつうしんで　うけとる\xfffe・Ｗｉ－Ｆｉつうしんで　うけとる\xfffe・せきがいせんつうしんで　うけとる\xfffe\xfffeイベントごとに　ほうほうが　きめられて\xfffeいますので　ごちゅういください。
-ふしぎな　おくりもので　とくべつな\xfffeポケモンや　どうぐを　もらえる\xfffeふしぎなカードを　じゅしんすると\xfffeポケモンセンターに\xfffeあおい　ぼうしを　かぶった\xfffeはいたついんが　やってきます。\xfffe\xfffeはいたついんに　はなしかけて\xfffeポケモンや　どうぐを　うけとってください。
-ふしぎなカードは　１２まいまで\xfffeもっておくことが　できます。\xfffe\xfffeふしぎなカードが　いっぱいのときに\xfffeさらにカードを　うけとりたいときは\xfffe「カードアルバムを　みる」から\xfffeおくりものを　すでに　うけとったカードを\xfffeけしてください。
-Ｗｉ－Ｆｉや　イベントかいじょうで\xfffeおこなわれる　ポケモンしょうぶの\xfffeたいかいに　さんかします。\xfffe\xfffeバトルたいかいについて　くわしくは\xfffeタイトルメニューの\xfffe「バトルたいかい」にある\xfffe「せつめいを　きく」を\xfffeかくにん　してください。
-ユーザーとうろくの　ほうほうや\xfffeバトルたいかいへの　さんかのしかた\xfffeルールのかくにんなど\xfffeバトルたいかいについて　くわしいことは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
-バトルたいかいには\xfffeゲームのなかの　パソコンにある\xfffe「バトルボックス」に　とうろくされている\xfffeポケモンが　さんかします。\xfffe\xfffeいちど　とうろくすると　たいかいちゅうは\xfffeバトルボックスを　へんこうできませんので\xfffeとうろくするまえに　じっくりかんがえて\xfffeポケモンを　えらんで　ください。
-バトルたいかいが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
-バトルたいかいへの\xfffeとうろくが　かんりょうすると\xfffeデジタルせんしゅしょうを\xfffeかくにん　できるように　なります。\xfffe\xfffeくわしいことは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」で\xfffeかくにん　してください。
-ゲームシンクせっていを　するには\xfffeあらかじめ　「Ｗｉ－Ｆｉせってい」を\xfffeすませておく　ひつようが　あります。\xfffe\xfffeＷｉ－Ｆｉせっていを　すませたあと\xfffeゲームシンクせっていを　えらぶと\xfffeあなただけの　ばんごうである\xfffe「ゲームシンクＩＤコード」が\xfffeはっこうされます。
-ゲームシンクＩＤコードは\xfffeじっさいのパソコンを　つかって\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」で\xfffeユーザーとうろくを　するときに\xfffeひつように　なります。
-なお　ゲームシンクＩＤコードは\xfffeぼうけんの　レポートを　けすと\xfffeいっしょに　きえてしまいます。\xfffe\xfffeゲームシンクＩＤコードが\xfffeかわったばあいは　もういちど\xfffeポケモングローバルリンクで\xfffeとうろくしなおす　ひつようが　あります。
-ニンテンドーＤＳ／ＤＳ　Ｌｉｔｅで\xfffeＷｉ－Ｆｉつうしんを　するための\xfffeせっていが　できます。\xfffe\xfffeＷｉ－Ｆｉせっていをすると\xfffeインターネットを　つうじて\xfffeせかいじゅうの　ひとたちと\xfffeポケモンのこうかんや　たいせんが\xfffeできるように　なります。
-また　「バトルたいかい」や\xfffe「ゲームシンクせってい」など\xfffeポケモングローバルリンクとの　れんどうを\xfffeおこないたいばあいも　あらかじめ\xfffeＷｉ－Ｆｉせっていを　しておく\xfffeひつようが　あります。
-ＤＳほんたいの　マイクが\xfffeただしく　うごいているか\xfffeかくにんすることが　できます。\xfffe\xfffeマイクにむかって　こえをだしたり\xfffeいきを　ふきかけたときに\xfffeうえがめんの　プリンが　はんのうすれば\xfffeマイクは　ただしく　うごいています。
-ポケモンを　かいふくしたり　やくにたつ\xfffeどうぐを　かうことが　できます。\xfffeつかまえた　ポケモンを　いれかえたり\xfffeアララギはかせの　ひょうかをきくための\xfffeパソコンも　ここに　おいてあります。\xfffe\xfffeともだちとの　つうしんを　つかった\xfffeポケモンの　こうかんや　たいせんは\xfffeポケモンセンター　２かいで　おこなえます。
-パソコンを　つかうと\xfffeつれている　ポケモンを　あずけたり\xfffeあずけている　ポケモンを\xfffeつれだすことが　できます。\xfffe\xfffeポケモンを　６ひき　つれているときに\xfffeあたらしく　つかまえた　ポケモンは\xfffeじどうてきに　このパソコンに\xfffeてんそうされます。
+When you are playing, press the X Button\xfffeto open the menu and save often.\xfffe\xfffeOnce saved, you can select “CONTINUE"\xfffefrom the main menu to continue playing\xfffethe game from that location even if you've\xfffeturned off your Nintendo DS since.
+To delete your saved data and\xfffestart a new game, go to the\xfffetitle screen and press the\xfffefollowing buttons at the same time.\xfffe\xfffeUP + SELECT + B Button
+You can receive special gifts at events and\xfffeother locations in the following three ways.\xfffe\xfffe-GET VIA WIRELESS\xfffe-GET VIA NINTENDO WFC\xfffe-GET VIA INFRARED\xfffe\xfffePlease note that each event has its own way\xfffeof distributing gifts.
+When you receive a Wonder Card\xfffefor a special Pokémon or an item,\xfffea deliveryman with a blue cap\xfffewill appear in the Pokémon Center.\xfffe\xfffePlease talk to him to receive\xfffethe Pokémon or item.
+You can keep up to 12 Wonder Cards.\xfffe\xfffeTo receive another Wonder Card\xfffewhen you already have 12, go to\xfffe“CHECK THE CARD ALBUM"\xfffeand delete one to make room\xfffefor a new Wonder Card.
+You can participate in competitions\xfffeusing Nintendo Wi-Fi Connection\xfffeand at events.\xfffe\xfffeFor details on the Battle Competition,\xfffego to “BATTLE COMPETITION"\xfffeon the main menu and select\xfffe“Info."
+For more details on Battle Competition,\xfffeincluding Battle Competition rules and\xfffehow to register as a user,\xfffevisit the following official websites.\xfffe\xfffePokémon Global Link website\xfffeThe Official Pokémon website
+Pokémon in your Battle Box\xfffecan participate in Battle Competitions.\xfffe\xfffeOnce registered, you cannot change\xfffethe Pokémon in your Battle Box\xfffeduring the competition.\xfffe\xfffePlease carefully select the right Pokémon\xfffebefore you start the competition.
+Battle Conventionが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
+Once you have completed\xfffethe registration for Battle Competition,\xfffeyou will be able to check your\xfffeDigital Player ID.\xfffe\xfffeFor more details, please visit\xfffethe Pokémon Global Link.
+Before adjusting Game Sync settings,\xfffeyou must complete your\xfffeNintendo Wi-Fi Connection settings.\xfffe\xfffeWhen these settings are done,\xfffeadjust the Game Sync settings\xfffeto have the Game Sync ID issued.\xfffeThis is a unique ID assigned to you.
+You must have a Game Sync ID\xfffeto register at the\xfffePokémon Global Link using\xfffea computer with Internet access.
+When you delete a saved game,\xfffeyour Game Sync ID will also be lost.\xfffe\xfffeWhen you change your Game Sync ID,\xfffeyou must also renew your registration\xfffeat the Pokémon Global Link.
+ニンテンドーDS/DS　Liteで\xfffeWi－Fiつうしんを　するための\xfffeせっていが　できます。\xfffe\xfffeWi－Fiせっていをすると\xfffeインターネットを　つうじて\xfffeせかいじゅうの　ひとたちと\xfffeポケモンのこうかんや　たいせんが\xfffeできるように　なります。
+You need to set up the Nintendo Wi-Fi\xfffeConnection settings to connect your game\xfffewith the Pokémon Global Link, which allows\xfffeBattle Competition, Game Sync settings,\xfffeand so on.
+You can check to see\xfffeif your DS system's\xfffemicrophone is functioning.\xfffe\xfffeThe microphone is functioning properly\xfffeif Jigglypuff on the top screen\xfffereacts when you talk\xfffeor blow into it.
+You can restore your tired Pokémon and buy\xfffeuseful items. You'll find the PC where you\xfffecan keep captured Pokémon.\xfffe\xfffeYou can hear\xfffeProfessor Juniper's evaluation\xfffeof your Pokédex.\xfffe\xfffeVisit 2F for Link Trade and Link Battle.
+You can use the PC to store and organize\xfffePokémon.\xfffe\xfffeWhen you have six Pokémon in your party,\xfffeany Pokémon you catch will be sent to the PC.
 パソコンに　あずけている　ポケモンは\xfffe「ボックスを　せいりする」ことで\xfffeすきな　ボックスに　いどう　させたり\xfffeばしょを　いれかえることが　できます。
 いどうさせたい　ポケモンを　タッチし\xfffe「いどうする」を　タッチすると\xfffeみぎがわに　ボックスが　ひょうじされます。\xfffe\xfffeグレーの　やじるしを　じょうげに\xfffeスライドして　いどう　させたい\xfffeボックスを　タッチすると\xfffeポケモンを　タッチした　ボックスに\xfffeいどうさせることが　できます。
 あおいろの　ボタンを　タッチすると\xfffeいれかえモードに　きりかわります。\xfffe\xfffeタッチして　えらんだ　ポケモンを\xfffeいれかえたい　ばしょまで\xfffeスライドさせて　はなしてください。
