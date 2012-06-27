@@ -27,8 +27,8 @@ What! \xfffeYou're \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWow, Your just like
 Oh I almost forgot!\xf000븁\x0000\xfffeCan you complete the Pokedex?
 Thank you!\xf000븁\x0000\xfffeIt will speed up Prof. Juniper's research!\xf000븁\x0000\xfffeBesides, You get to keep it!\xfffeI'll teach you how to fill it later.
 Stop being silly!\xf000븁\x0000\xfffeI know you'll do it!
-\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeWould you like a Pokemon?
-\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeWould you like a Pokemon?\xf000븁\x0000
+I thought you wanted a Pokemon?
+I thought you wanted a Pokemon?\xf000븁\x0000
 Okay! \xf000븁\x0000\xfffeChoose your Pokemon!\xf000븁\x0000
 Water type Pokemon\xfffe\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000\xf000븀\x0000\xfffeChoose this Pokemon?
 Fire type Pokemon\xfffe\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000\xf000븀\x0000\xfffeChoose this Pokemon?
@@ -57,10 +57,10 @@ I want to be a Pokemon Trainer!\xf000븁\x0000
 Oh?\xf000븁\x0000\xfffeDo you want a Pokemon?\xf000븁\x0000
 Yes Please!\xf000븁\x0000\xfffeI'm going to become friends\xfffewith my Pokemon!\xf000븀\x0000\xfffeI'm going to travel all over the region!\xf000븁\x0000
 Yeah. Yeah.\xf000븁\x0000\xfffeI know, \xfffeJourney is a very good thing!\xf000븁\x0000\xfffeIt's a good thing\xfffeI still have one more Pokedex!\xf000븁\x0000
-Hey!\xf000븁\x0000\xfffeNow we both have a Pokemon!\xfffeWhy don't we try to battle each other?
+Hey!\xf000븁\x0000\xfffeNow both of you have a Pokemon!\xfffeWhy don't you try to battle each other?
 Let's Battle!\xfffeWe'll see who has to train more.\xf000븁\x0000\xfffe\xf000ā\x0001\x0003 Let's Go!\xf000븁\x0000
 I lost!\xfffeI'll have to go train my Pokemon!\xf000븁\x0000\xfffeOh Well...\xfffeIt's not a big deal.\xf000븁\x0000\xfffeWell I'm going before you!\xfffeMy Pokemon will be much stronger!\xf000븁\x0000
-\xf000Ā\x0001\x0001That was our first battle!\xfffeI think we battled very well!\xf000븁\x0000\
+That was our first battle!\xfffeI think we battled very well!\xf000븁\x0000\
 It looked very difficult!\xf000븁\x0000\xfffeBut, your still weak.\xf000븁\x0000
 Your Pokemon are wounded,\xfffeso let's go to the Pokemon Center.\xf000븁\x0000\xfffeLet me take you!\xf000븁\x0000
 This is the Pokemon Center!\xfffeIt looks the same in every city!\xf000븁\x0000
