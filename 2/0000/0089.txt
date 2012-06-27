@@ -1,19 +1,19 @@
-ハイルツリー
-デルパワーを　うけとる
-フェスミッションを　うける
-きろくを　みる
-ミッションの　きろく
-フェスミッションを　うけてください！
-デルパワーを\xfffeうけとって　ください！
-ハイルツリーのごうけいＬｖ：　\xf000Ȃ\x0001\x0000
-◆White Lv.:　\xf000ȃ\x0001\x0000
-◇Black Lv.:　\xf000ȃ\x0001\x0000
-つかえるデルパワー　　「\xf000ȃ\x0001\x0000こ」
-たっせいしたミッション
-かいさいしたミッション
-さんかしたミッション
-さいこうにんずう
-トップスコア
+ENTREE
+RECEIVE PASS POWER
+ACCEPT FES MISSION
+VIEW RECORD
+MISSION RECORD
+Please receive\xfffethe Fes Mission.
+Please accept\xfffethe Pass Power.
+Entree's Total Level: \xf000Ȃ\x0001\x0000
+◆White Lv.: \xf000ȃ\x0001\x0000
+◇Black Lv.: \xf000ȃ\x0001\x0000
+Available Pass Powers: \xf000ȃ\x0001\x0000
+MISSIONS COMPLETED
+MISSIONS HOSTED
+MISSIONS PERFORMED
+MOST PARTICIPANTS
+HIGH SCORE
 \xf000Ȅ\x0001\x0000かい
 \xf000Ȅ\x0001\x0000かい
 \xf000Ȅ\x0001\x0000かい
@@ -30,9 +30,9 @@
 ミッションを　えらぶことで\xfffeあいてを　たすけることが　できます\xf000븁\x0000\xfffeまず　はじめに　このなかから\xfffe『サポート　ミッション』を　えらび\xf000븀\x0000\xfffeミッションを　かいしして　ください
 べつの　ミッションを\xfffeえらんで　います\xf000븁\x0000\xfffeまずは　『サポート　ミッション』を\xfffeえらんで　かいしして　ください
 \xf000ȃ\x0001\x0000こ
-Yes
-No
-このデルパワー　を\xfffeハイルツリーから　うけとりますか？
+YES
+NO
+Will you receive this Pass Power\xfffefrom the Entree?
 うけとれる　デルパワー
 『\xf000Ĝ\x0001\x0000』　を\xfffeハイルツリーから　うけとった！\xf000븁\x0000\xfffeうけとった『\xf000Ĝ\x0001\x0000』を\xfffeＣギアに　とうろくした！
 パワーをうけとる
@@ -49,7 +49,7 @@ No
 フェスミッション　を\xfffeかいし　します
 はつどうちゅうの　デルパワー
 なし
-ハイリンク
+Entralink
 \xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
 \xf000Ĝ\x0001\x0000を\xfffeつかいますか？\xfffeひつよう\xf000ȃ\x0001\x0001こ／もってる\xf000ȃ\x0001\x0002こ
 デルダマが　たりません\xfffe\xfffeひつよう\xf000ȃ\x0001\x0000こ／もってる\xf000ȃ\x0001\x0001こ
@@ -67,8 +67,8 @@ L\xf000Ȁ\x0001\x0000
 \xf000ȃ\x0001\x0000にん
 \xf000ȃ\x0001\x0000かい
 \xf000ȃ\x0001\x0000
-トータル
-マイスコア
+TOTAL
+MY SCORE
 さいこうきろく
 デルパワーは　３つまでしか\xfffeうけとれません！\xf000븁\x0000\xfffeあたらしく　デルパワーを\xfffeうけとる　ために\xf000븀\x0000\xfffeハイルツリーに　かえす\xf000븀\x0000\xfffeデルパワーを　えらんでください
 『\xf000Ĝ\x0001\x0000』　を\xfffeハイルツリーに　かえし\xf000븁\x0000\xfffe『\xf000Ĝ\x0001\x0001』を\xfffeハイルツリーから　うけとった！\xf000븁\x0000\xfffeうけとった『\xf000Ĝ\x0001\x0001』を\xfffeＣギアに　とうろくした！
