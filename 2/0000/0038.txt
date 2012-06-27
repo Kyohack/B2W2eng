@@ -2,18 +2,19 @@
 POKÉDEX
 POKÉMON
 BAG
-PLAYER
+RADIO
 SAVE
-OPTIONS　　
+OPTIONS
+　
 CHAT
 　
-リタイア
-ずかんを　せんたくしました
-ポケモンステータスを　せんたくしました
-バッグを　せんたくしました
-トレーナーカードを　せんたくしました
-レポートを　せんたくしました
-せっていを　せんたくしました
-ポケモンレポートに　かきこんでいます
-ポケモンレポートに\xfffeしっかり　かきのこした！
-つうしんちゅうは　レポートを　かけません
+RETIRE
+Pokédex is selected.
+Pokémon is selected.
+Bag is selected.
+Trainer Card is selected
+Save is selected
+Option was selected
+Save your game
+The game\xfffewas saved!
+Cannot save while communicating!
