@@ -16,7 +16,7 @@ Please wait a moment...
 \xf000Ă\x0001\x0000 has woken up!
 Game Sync has run out of energy.\xfffeIt will take one day to recharge it.
 This Pokémon is not dreaming yet.
-ポケモンを　おこしますか？
+Wake up this Pokémon?
 There are no Pokémon in your PC that can\xfffebe sent to the Pokémon Dream World.
 This Pokémon is dreaming.
 You haven't yet received the\xfffeDream Remnants from last time.\xf000븁\x0000\xfffeYou'll lose it if you wake this Pokémon up\xfffeto receive new Dream Remnants.\xf000븁\x0000\xfffeIs it OK to wake up this Pokémon?
