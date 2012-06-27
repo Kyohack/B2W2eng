@@ -14,7 +14,7 @@ Please choose the Pokémon you want!
 Searching for the Pokémon you want...
 None were found!
 Stop searching?
-Trade Pokémon with the Trainer?
+Trade Pokémon\xfffewith the Trainer?
 Choose the Pokémon you are trading.
 Do what with this \xf000Ă\x0001\x0000?
 You seem to have already traded it...
@@ -22,7 +22,7 @@ You seem to have already traded it...
 Choose the Pokémon you want to offer.
 Offer \xf000Ă\x0001\x0000?
 Are these conditions OK?
-Checking GTS's status...
+Checking GTS's\xfffestatus...
 The Ball Capsule will be detached.\xfffeIs that OK?
 That Pokémon may not be offered\xfffefor trade!\xf000븁\x0000
 That Pokémon may not be offered\xfffefor trade (13266)!\xf000븁\x0000
