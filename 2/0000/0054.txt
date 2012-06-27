@@ -1,4 +1,4 @@
-You can change the language of the\xfffePokémon names to Japanese if you wish to\xf000븀\x0000\xfffeplay online. Do you want to play with\xfffethe names in English or Japanese?\xf000븀\x0000\xfffe(Note, you can change\xfffethis option in the settings)\xf000븁\x0000
+What language would you like the\xfffePokémon names to be?\xf000븀\x0000
 English
 Japanese
 The game will be played in English.\xf000븁\x0000
