@@ -1,9 +1,9 @@
-What language would you like the\xfffePokémon names to be?\xf000븀\x0000
+Would you like to play the\xfffegame in English?\xf000븀\x0000\xfffeそれとも　日本語に　しますか？\xf000븁\x0000
 English
-Japanese
-The game will be played in English.\xf000븁\x0000
-The game will be played in Japanese.\xf000븁\x0000
-Please wait until save\xfffedata has been created.
+日本語
+The game text will be\xfffepartially translated.\xf000븁\x0000
+それでは　ゲームでは\xfffe日本語も　使います\xf000븁\x0000
+Creating save data.\xfffePlease wait...
 Hi there!\xf000븁\x0000\xfffeWelcome to the world of Pokémon!\xf000븁\x0000
 My name is Professor Juniper.\xfffeEveryone calls me the Pokémon Professor!\xf000븁\x0000
 That's right! This world is widely\xfffeinhabited by mysterious creatures\xf000븀\x0000\xfffecalled Pokémon!\xf000븁\x0000
@@ -20,21 +20,21 @@ Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
 Yes
 No
 So your name's \xf000Ā\x0001\x0000.\xfffeWhat a wonderful name!\xf000븁\x0000
-それでは　あなたと　いつも\xfffeいっしょに　いる　おともだちを\xf000븀\x0000\xfffeあらためて　しょうかい　するわね\xf000븁\x0000
-それでは　つぎは　あなたの\xfffeしりあいに　ついて　きかせてね\xf000븀\x0000\xfffeきんじょの　おにいさん　なんでしょ\xf000븁\x0000
-かれの　なまえも\xfffeおしえてくれるかな\xf000븁\x0000
-ヒュウ
-デフォ１
-デフォ２
-じぶんできめる
-\xf000Ā\x0001\x0001　ね\xfffeそれで　あっている？\xf000븁\x0000
-こちらの　おとこのこは　チェレン\xf000븁\x0000\xfffeきむずかしい　ところも　あるけれど\xfffeまっすぐな　おとこのこ\xf000븁\x0000
-こちらの　おんなのこは　ベル\xf000븁\x0000\xfffeちょっと　マイペース　だけど\xfffeがんばりやの　おんなのこ\xf000븁\x0000
-\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeこれから　あなたを　たよりにして\xfffeだいじな　だいじな\xf000븀\x0000\xfffeポケモンを　プレゼントします\xf000븁\x0000
-あなたが　パートナーとなる\xfffeポケモンを　えらんだ　そのときから\xf000븁\x0000\xfffeあなただけの\xfffeたびものがたりが　はじまります\xf000븁\x0000\xfffeこの　たびで　あなたは\xfffeかずおおくの　ポケモン\xf000븀\x0000\xfffeいろんな　かんがえの　ひとと\xf000븀\x0000\xfffeであい　ふれあうでしょう！\xf000븁\x0000\xfffeその　さまざまな　であいから\xfffeあなただけの　たいせつな　ものを\xf000븀\x0000\xfffeぜひ　みつけてほしい……\xf000븁\x0000\xfffeそう！　たくさんの　ひとびとや\xfffeポケモンと　ふれあい\xf000븀\x0000\xfffeじぶんじしんを　せいちょう　させる\xf000븁\x0000\xfffeそれが　この　ぼうけんの\xfffeもっとも　おおきな　もくてきです\xf000븁\x0000\xfffeそれでは　いきましょう！\xfffeポケットモンスターの　せかいへ！\xf000븁\x0000
+Well then. I'm going to introduce you\xfffeto your two best friends!\xf000븁\x0000
+Well then. I'm sure you're acquainted\xfffewith this person.  He is,\xfffeafter all, your older brother.\xf000븁\x0000
+Can you tell me\xfffehis name?\xf000븁\x0000
+Hugh
+Defo1
+Defo2
+New Name
+\xf000Ā\x0001\x0001...\xfffeIs that correct?\xf000븁\x0000
+This young man is Cheren.\xf000븁\x0000\xfffeHe can be a little difficult, but\xfffehe's a very honest person.\xf000븁\x0000
+This young woman is Bianca.\xf000븁\x0000\xfffeShe's a little flighty,\xfffebut she works very hard.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffe I'm going to give you\xf000븀\x0000\xfffea very, very important Pokémon.\xf000븁\x0000
+The moment you choose the\xfffePokémon that will accompany\xf000븀\x0000\xfffeyou on your journey,\xf000븀\x0000\xfffeyour story will truly begin.\xf000븁\x0000\xfffeDuring your journey, you will meet many\xfffePokémon and people with different\xf000븀\x0000\xfffepersonalities and points of view!\xf000븁\x0000\xfffeI really hope you find what is important\xfffeto you in all of these travels...\xf000븁\x0000\xfffeThat's right! Befriend\xfffenew people and Pokémon and\xf000븀\x0000\xfffegrow as a person!\xf000븁\x0000\xfffeThat is the most important goal\xfffefor your journey!\xf000븁\x0000\xfffeLet's go visit the world of Pokémon!\xf000븁\x0000
 ちょっと　まってね……！\xfffeいま　いろいろ　じゅんび　してるから
 よーし！\xfffeこれで　オーケーと！\xf000븁\x0000
-ちゅうい！\xfffeべつの　ポケモンレポートが　かかれていますので\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを　かくことができません\xfffeそれでも　よろしいですか？
-ぼうけんを　はじめる
-メニューに　もどる
-デモをとばす？
+Warning!\xfffeThere is already a save file\xf000븁\x0000\xfffepresent.  If you start a\xf000븁\x0000\xfffenew game, you will not be\xf000븁\x0000\xfffeable to save.  Continue anyway?
+Start adventure
+Back to menu
+Skip the demo?
