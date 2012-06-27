@@ -1,13 +1,13 @@
 \xf000Ā\x0001\x0000は\xfffeBooted up PC.\xf000븁\x0000
 Which PC should \xfffebe accessed?
 Someone’s PC
-ショウロのパソコン
+Amanita's PC
 \xf000Ā\x0001\x0000 PC
 Professor’s PC
 きろくをみる
 Help
 Switch off
-アララギはかせの\xfffeパソコンに　せつぞく　した！\xf000븀\x0000
+Accessed Prof.\xfffeJuniper's PC!\xf000븀\x0000
 でんどういりの\xfffeデータが　こわれています\xf000븁\x0000\xfffeもういちど　でんどういり　すれば\xfffeだいじょうぶ　です\xf000븁\x0000
 おめでとうございます！\xf000븁\x0000\xfffeはじめて　クリアした　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
 おめでとうございます！\xf000븁\x0000\xfffeチャンピオンに　かった　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
@@ -26,9 +26,9 @@ You may sort the items held by your\xfffePokémon in boxes and in your party.
 Log out of the\xfffePokémon Storage system.
 You can register Pokémon you will use in \xfffebattles against other players.
 \xf000Ā\x0001\x0000の\xfffeパソコンに　せつぞく　した！\xf000븁\x0000
-メールボックス
-せつぞくを　きる
-メールを　２０つう　まで\xfffeほぞん　することが　できます
+Mailbox
+Disconnect
+You can store up to\xfffe20 Mail messages.
 じぶんのパソコン　への\xfffeつうしんを　せつだん　します
 はじめてのクリア
 でんどういり
