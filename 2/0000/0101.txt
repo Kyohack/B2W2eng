@@ -6,24 +6,24 @@ Your friend's name?
 How do you greet passersby?
 How do you thank passersby?
 What's your message\xfffeto passersby?
-この　まちの　なまえは？\xfffe（トレーナーカードに　のります）
-あなたの　かたがきは？\xfffe（このまち　だけの　よばれかた　です）
-じぶんの　くちぐせは？\xfffe（せかいの　みんなに　つたわります）
-パスワードを　にゅうりょくせよ
-ゲームシンクＩＤコードを\xfffeにゅうりょく　してください
-かんどう　したときの　ことばは？\xfffe（せかいの　みんなに　つたわります）
+This town's name?\xfffe(Record it on your Trainer Card.)
+Your title?\xfffe（このまち　だけの　よばれかた　です）
+My saying?\xfffe(Transmitted to everyone in the world.)
+Enter your password.
+Please input your\xfffeGame Sync ID Code.
+かんどう　したときの　ことばは？\xfffe(Transmitted to everyone in the world.)
 さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
-すれちがった　あいてへの\xfffeよろこびの　メッセージは？
-ポケモンの　なまえは？
+What is your Passerby Message?
+Pokémon's name?
 Please enter the name.
 Numbers may contain\xfffeonly up to four digits.
-ゲームシンクＩＤコードが\xfffeまちがっています
+The Game Sync ID Code\xfffeis incorrect.
 　
 　
-Best regards!
+Welcome!
 Thank you!
-White.
-Black.
-♂
-♀
-Please enter
+Shiro*
+Kuro*
+⑭
+⑮
+Please input.
