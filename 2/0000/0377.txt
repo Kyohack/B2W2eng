@@ -1,5 +1,5 @@
 Fly to where?
-Dummy
+DUMMY
 A rural town whose sea breezes give\xfffethe sense of something coming.
 Juniper Pokémon Lab
 This town offers great views\xfffedue to its many hills.
@@ -106,21 +106,21 @@ The most advanced bridge in Unova,\xfffedesigned to soften any impact.
 In the middle of the Unova region,\xfffeit is a place of mysterious power.
 Trainers seeking further strength\xfffeenter the cavern despite the risks.
 イッシュを　みわたせるほど　たかい\xfffeやまの　すそのに　ひろがる　まち
-ヒオウギシティジム
-トレーナーズスクール
-ポケモンセンター
+Aspertia City Gym
+Trainer School
+Pokémon Center
 くもと　けむりに　おおわれがち　だが\xfffeまちにくらす　ひとびとは　かっぱつ
-タチワキシティジム
-ポケモンセンター
+Virbank City Gym
+Pokémon Center
 なみまに　うかぶ　たてものが\xfffeしまのように　みえる　リゾートシティ
-セイガイハシティジム
-ポケモンセンター
+Seigaiha City Gym
+Pokémon Center
 せいしき　めいしょうは\xfffeポケウッドムービースタジオ
 ひとと　こうりゅうする　ほどに\xfffeはってん　していく　おおどおり
 まちの　はじまりを　つげる\xfffeとけいだいが　シンボル
-ポケモンセンター
+Pokémon Center
 かざんちかくの　つちを　つかって\xfffeつくる　とうきや　じきが　じまん
-ポケモンセンター
+Pokémon Center
 くろのまてんろう
 しろのじゅどう
 かんこうきゃくに　にんきだが\xfffeリゾートとよぶには　きびしい　さばく
@@ -153,11 +153,11 @@ Trainers seeking further strength\xfffeenter the cavern despite the risks.
 \xf000Ȇ\x0001\x0000
 \xf000ȁ\x0001\x0000
 こだいの　おうが　ねむると\xfffeつたえられる　おおむかしの　はか
-カトレアのべっそう
+Caitlin's Villa
 わざおもいだし
 わざわすれ
 わざおしえ
 きせつけんきゅうじょ
 わざおしえ
 わざおしえ
-ポケモンセンター
+Pokémon Center
