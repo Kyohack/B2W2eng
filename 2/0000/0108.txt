@@ -1,9 +1,9 @@
-いま　おぼえている　ことばを\xfffeわすれますが　よいですか？
-Ａボタンを　おしてから\xfffeマイクに　しゃべって　ください！\xf000븁\x0000
-\xf000Ă\x0001\x0000が　ことばを　おぼえた！\xf000븁\x0000
-\xf000Ă\x0001\x0000は　ことばを\xfffeおぼえられなかった　みたいだ！\xf000븁\x0000
-やりなおしますか？
-まわりの　ようすが　きになって\xfffeしゅうちゅうできない　みたいだ…
-マイクの　じゅんびちゅう……
-Yes
-No
+It will forget the saying it knows\xfffenow. Is that OK?
+Press the A Button, then speak\xfffeinto the microphone.\xf000븁\x0000
+\xf000Ă\x0001\x0000 learned a new saying!\xf000븁\x0000
+\xf000Ă\x0001\x0000 failed to learn a\xfffenew saying.\xf000븁\x0000
+Do you try again?
+It seems it can not focus around\xfffethe state to a tree…
+Preparing microphone...
+YES
+NO
