@@ -23,11 +23,11 @@ You can tell how many people\xfffeare in the Union Room around you\xfffeand if w
 You can also tell who has\xfffethe C-Gear turned on around you.\xfffeWhen people are nearby,\xfffeit is easier to receive signals for\xfffethe Tag Log and Survey Radar.
 It displays what people\xfffearound you are doing in real time.\xfffeBy selecting it, you can find out\xfffemore about them and send\xfffethem messages.
 また　フェスミッションが\xfffeかいさい　されているときは\xfffeＦＥＳ　ＭＩＳＳＩＯＮ！　の　もじが\xfffeみぎから　ひだりへ　ながれます。\xfffeフェスミッションは\xfffeすれちがいログから　さんかできます。
-すれちがった　ひとの\xfffeこのみや　しゅみを　ちょうさできます。\xfffeちょうさしたい　ないようを　きめれば\xfffeきょう　すれちがった　ひとの　データ\xfffeいままでに　すれちがった　ひとの\xfffeデータを　みることが　できます。
+You can do surveys on people\xfffearound you.\xfffe\xfffeChoose what you want to find out,\xfffeand you can see the daily results,\xfffeas well as the cumulative results.
 すれちがいちょうさたい　で\xfffeうけた　ちょうさが　かんりょうすると\xfffeボタンが　てんめつ　します。\xfffeヒウンの　ちょうさたい　たいちょうに\xfffeほうこく　しましょう。
-カスタムマークを　タッチすると\xfffeマークが　てんめつ　します。\xfffeボタンを　タッチしながら　うごかすと\xfffeばしょを　かえることが　できます。\xfffeまた　リングを　タッチすると\xfffeリングの　いろが　へんかします。
-でんげんマークを　タッチすると\xfffeオンと　オフを　きりかえるかの\xfffeかくにんがめんに　かわります。\xfffeオフにすると　タッチぶぶんが\xfffeくらくなり　どうじに\xfffeむせんの　つうしんが　オフになります。
+Touch the Customization icon, and it will\xfffestart blinking. Touch other buttons as it\xfffeblinks, and they will appear differently.\xfffe\xfffeYou can even make patterns with buttons\xfffeof different colors.
+Touch this button to turn\xfffewireless communications on or off.\xfffe\xfffeOnce you turn it off, the touch panel\xfffeturns dark, and wireless communications\xfffewill be turned off.
 のこされた　でんりょくが\xfffeすくない　じょうたいで\xfffeＤＳの　ふたが　とじられていると\xfffeＣギアの　でんげんが\xfffeじどうてきに　オフになります。
-Next
-Quit
-Previous
+NEXT
+QUIT
+PREVIOUS
