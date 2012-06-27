@@ -1,10 +1,10 @@
-はなしかけています
-……だれかが　はなしかけてきました
-……　……　……どうやら\xfffeとりこみちゅうの　ようだ
-しばらくおまちください……
-あいてとの　かいわが　きれました
-あいてに　さきを　こされました
-つうしんが　きれました
+Trying to get their attention...
+Someone is talking to you...
+Seems to be busy...
+Please wait a moment...
+The conversation has been dropped.
+You were too late.
+The connection has been lost.
 ー
 ー
 ー
