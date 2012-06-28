@@ -6,34 +6,34 @@ QUIT
 MY VIDEO
 OTHER VIDEOS
 DELETE VIDEOS
-\xf000봂\x0000\xf000Ā\x0001\x0000'S VIDEO
+\xf000 봂 \x0000\xf000 ā \x0001\x0000's VIDEO
 EMPTY
-\xf000ȃ\x0001\x0000
+\xf000 ȃ \x0001\x0000
 Battle
-\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
-\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
-\xf000봂\x0000\xf000Ā\x0001\x0000'S PROFILE
+\xf000 봂 \x0000Video no.: \ xf000 ȁ \x0001\x0000－\xf000 Ȅ \x0001\x0001－\xf000 Ȅ \x0001\x0002
+\xf000 봂 \x0000Video no.: \ xf000 ȁ \x0001\x0000－\xf000 Ȅ \x0001\x0001－\xf000 Ȅ \x0001\x0002.
+\xf000 봂 \x0000\xf000 ā \x0001\x0000's PROFILE
 Mute
-\xf000봂\x0000\xf000ȁ\x0001\x0000Born in 
-\xf000봂\x0000Location
-\xf000봂\x0000Trainer's quote
+\xf000 봂 \x0000\xf000 ȁ \x0001\x0000Born in
+\xf000 봂 \x0000Location
+\xf000 봂 \x0000Trainer's quote
 Data
 Profile
 
 Unregistered
-\xf000Ĥ\x0001\x0000
-\xf000ĥ\x0001\x0000
-\xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000'S VIDEO
+\xf000 Ĥ \x0001\x0000
+\xf000 ĥ \x0001\x0000
+\xf000 G \x0001\x0000 \xf000 G \x0001\x0001
+\xf000 ā \x0001\x0000's VIDEO
 DELETE MY VIDEO
 DELETE OTHER VIDEOS
-あき
-\xf000Ā\x0001\x0000　のきろくをけす
-ランキングでさがす
-データをおくる
+Aki
+erase, delete \xf000 ā \x0001\x0000 recording
+SEARCH BY RANK
+Live data
 NEWEST 30
 SEARCH
-SEARCH BY NO.
+SEARCH BY NO...
 SEARCH BY FACILITY
 SEARCH BY POKÉMON
 SEARCH YOUR LOCATION
@@ -42,10 +42,10 @@ BATTLE SUBWAY
 SEND PHOTO
 VIEW PHOTOS
 SEND
-Please choose the Pokémon you want to see.
-\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
-しゃしん
+Please choose the Pok é mon you want to see.
+photos from \xfffe\xf000 G \x0001\x0001 \xf000 ā \x0001\x0000's
+\xf000 ā \x0001\x0000\xfffe\xf000 G \x0001\x0001
+This is a picture
 Send Box Data
 View Box Data
 Favorite
@@ -54,319 +54,149 @@ Cute
 Suggested
 Fun
 Select
-ボックス
-くわしくみる
-ア
-カ
-サ
-タ
-ナ
-ハ
-マ
-ヤ
-ラ
+Box
+See detail
+A.
+F.
+SA
+Ta
+NA
+HA
+Ma
+Ya
+La
 ワ
-This Week’s Rankings
-Last Week’s Rankings
+This Week ’ s Rankings
+Last Week by s Rankings
 Switch Rankings
 Switch Teams
-チーム：トレーナータイプ
-チーム：うまれたつき
-チーム：すきなポケモン
-\xf000Ā\x0001\x0001：\xf000Ď\x0001\x0000
-\xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000がつうまれ
-\xf000Ā\x0001\x0001：\xf000ā\x0001\x0000
-\xf000ȁ\x0001\x0000 \xf000Ď\x0001\x0001
-\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001がつ
-\xf000ȁ\x0001\x0000：\xf000ā\x0001\x0001
-Last Week’s Results!
+Team: Trainer type
+Team: born with a
+Team: favorite pokemon
+\xf000 ā \x0001\x0001: \xf000 Ď \x0001\x0000
+\xf000 ā \x0001\x0001: \xf000 ȁ \x0001\x0000 from umiumare
+\xf000 \x0001\x0001: ā \xf000 ā \x0001\x0000
+\xf000 ȁ \x0001\x0000 \xf000 Ď \x0001\x0001
+\xf000 ȁ \x0001\x0000: \xf000 ȁ \x0001\x0001 shisu
+\xf000 ȁ \x0001\x0000: \xf000 ā \x0001\x0001
+Last Week by s Results!
 Colosseum
-バトルフロンティア
+Battle Frontier
 SAVE
-VIEW BATTLE\xfffeVIDEO
-バトルビデオ
+VIEW BATTLE \xfffeVIDEO
+BATTLE VIDEO
 NEWEST 30 BATTLE VIDEOS
-TOP-RANKED BATTLE VIDEOS\xfffeLINK BATTLE
-TOP-RANKED BATTLE VIDEOS\xfffeBATTLE SUBWAY
-LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
+\XfffeLINK BATTLE TOP-RANKED BATTLE VIDEOS
+\XfffeBATTLE SUBWAY TOP-RANKED BATTLE VIDEOS
+LIST OF BATTLE VIDEOS FROM \xfffeSEARCH RESULTS
 
-Where would you like to save\xfffe\xf000Ā\x0001\x0000's Battle Video?
-うわがきほぞん
-Is it OK to delete\xfffe\xf000Ā\x0001\x0000's Battle Video?
+Where would you like to save \xfffe\xf000 ā \x0001\x0000's Battle Video?
+Abcdoverride saving
+Is it OK to delete \xfffe\xf000 ā \x0001\x0000's Battle Video?
 VIEW BATTLE VIDEOS
 SEND BATTLE VIDEO
 Newest 30
 Search
-Search by Video NO.
+Search by Video No. 2
 Search by Facility
 Search by Pokémon
 Search Your Location
-ＯＫ！
+OK!
 Please enter the Video Number.
 Please choose the facility.
 Please choose the Pokémon.
 Please enter the search criteria.
-You haven’t set any search criteria.
-Loading Battle Video...
-There is no matching Battle Video...
-Sending the Battle Video...
-バトルビデオを　おくりました！
-\xf000봂\x0000View Profile
-\xf000봂\x0000Close Profile
+You haven ’ t set any search criteria.
+Loading Battle Video.
+There is no matching Battle Video.
+Sending the Battle Video.
+Battle Video has been sent!
+\xf000 봂 \x0000View Profile
+\xf000 봂 \x0000Close Profile
 Newest 30 Battle Videos
 Please set the search criteria.
 Undefined
-LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
-The same Battle Video can't be sent again.\xfffeTouch the Touch Screen to continue.
+LIST OF BATTLE VIDEOS FROM \xfffeSEARCH RESULTS
+The same Battle Video can't be sent again... \xfffeTouch the Touch Screen to continue.
 You have not registered your location.
-There is no Battle Video to send.
-\xf000ȁ\x0001\x0000
-つうしんたいせん
+There is no Battle Video to send...
+\xf000 ȁ \x0001\x0000
+Stomach shear-しんたい
 BATTLE SUBWAY
-すんでいるばしょ\xfffe\xf000Ĥ\x0001\x0000
-\xf000봂\x0000SINGLE TRAIN
-\xf000봂\x0000DOUBLE TRAIN
-\xf000봂\x0000MULTI TRAIN
-\xf000봂\x0000Wi-Fi TRAIN
-\xf000봂\x0000BATTLE SUBWAY
-\xf000봂\x0000SUPER SINGLE TRAIN
-\xf000봂\x0000SUPER DOUBLE TRAIN
-\xf000봂\x0000SUPER MULTI TRAIN
-Please select the Record\xfffeyou want to view.
+I hope \xfffe\xf000 Ĥ \x0001\x0000 live
+\xf000 봂 \x0000SINGLE TRAIN
+\xf000 봂 \x0000DOUBLE TRAIN
+\xf000 봂 \x0000MULTI TRAIN
+\xf000 봂 \x0000Wi-Fi TRAIN
+\xf000 봂 \x0000BATTLE SUBWAY
+\xf000 봂 \x0000SUPER SINGLE TRAIN
+\xf000 봂 \x0000SUPER DOUBLE TRAIN
+\xf000 봂 \x0000SUPER MULTI TRAIN
+Please select the Record \xfffeyou want to view...
 PREVIOUS:
 RECORD:
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-Wins
+\xf000 봃 \x0001\x0000\xf000 ȃ \x0001\x0000
+\xf000 봃 \x0001\x0000\xf000 ȃ \x0001\x0000
+WINS
 Multi with Trainer
 Multi with friend
 RANK
 Current Record
-\xf000봂\x0000Wi-Fi Train Record
+\xf000 봂 \x0000Wi-Fi Train Record
 CURRENT:
-\xf000봂\x0000\xf000Ā\x0001\x0000'S RATING
-\xf000봂\x0000RATING MODE RECORD
-\xf000봂\x0000FREE MODE RECORD
-\xf000봂\x0000Win
-\xf000봂\x0000Lose
-\xf000봃\x0001\x0000Single:
-\xf000봃\x0001\x0000Double:
-\xf000봃\x0001\x0000Triple:
-\xf000봃\x0001\x0000Rotation:
-\xf000봃\x0001\x0000Launcher:
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000Rating
-\xf000봂\x0000YES
-\xf000봂\x0000NO
+\xf000 봂 \x0000\xf000 ā \x0001\x0000's RATING
+\xf000 봂 \x0000RATING MODE RECORD
+\xf000 봂 \x0000FREE MODE RECORD
+\xf000 봂 \x0000Win
+\xf000 봂 \x0000Lose
+\xf000 봃 \x0001\x0000Single:
+\xf000 봃 \x0001\x0000Double:
+\xf000 봃 \x0001\x0000Triple:
+\xf000 봃 \x0001\x0000Rotation:
+\xf000 봃 \x0001\x0000Launcher:
+\xf000 봃 \x0001\x0000\xf000 ȃ \x0001\x0000
+\xf000 봃 \x0001\x0000\xf000 Ȅ \x0001\x0000
+\xf000 봃 \x0001\x0000Rating
+\xf000 봂 \x0000YES
+\xf000 봂 \x0000NO
 YES
 NO
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
-Colosseum Single,\xfffeNo Restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffeNo Restrictions, Launcher On
-Colosseum Single,\xfffeFlat, Launcher On
-Colosseum Double,\xfffeNo Restrictions
-Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffeNo Restrictions, Launcher On
-Colosseum Double,\xfffeFlat, Launcher On
-Colosseum Triple,\xfffeNo Restrictions
-Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffeNo Restrictions, Launcher On
-Colosseum Triple,\xfffeFlat, Launcher On
-Colosseum Rotation,\xfffeNo Restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffeNo Restrictions, Launcher On
-Colosseum Rotation,\xfffeFlat, Launcher On
-Colosseum Multi,\xfffeNo Restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffeNo Restrictions, Launcher On
-Colosseum Multi,\xfffeFlat, Launcher On
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
-Battle Subway,\xfffeMulti
-Random Matchup, Free\xfffeSingle
-Random Matchup, Free\xfffeDouble
-Random Matchup, Free\xfffeTriple
-Random Matchup, Free\xfffeRotation
-Random Matchup, Free\xfffeLauncher Battle
-Random Matchup, Rating\xfffeSingle
-Random Matchup, Rating\xfffeDouble
-Random Matchup, Rating\xfffeTriple
-Random Matchup, Rating\xfffeRotation
-Random Matchup, Rating\xfffeLauncher Battle
-Competition, Single\xfffeLauncher Off
-Competition, Single\xfffeLauncher On
-Competition, Double\xfffeLauncher Off
-Competition, Double\xfffeLauncher On
-Competition, Triple\xfffeLauncher Off
-Competition, Triple\xfffeLauncher On
-Competition, Rotation\xfffeLauncher Off
-Competition, Rotation\xfffeLauncher On
-01: Colosseum, Single\xfffeLauncher Off
-02: Colosseum, Single\xfffeLauncher On
-03: Colosseum, Double\xfffeLauncher Off
-04: Colosseum, Double\xfffeLauncher On
-05: Colosseum, Triple\xfffeLauncher Off
-06: Colosseum, Triple\xfffeLauncher On
-07: Colosseum, Rotation\xfffeLauncher Off
-08: Colosseum, Rotation\xfffeLauncher On
-09: Colosseum, Multi\xfffeLauncher Off
-10: Colosseum, Multi\xfffeLauncher On
-11: Battle Subway\xfffeSingle
-12: Battle Subway\xfffeDouble
-13: Battle Subway\xfffeMulti
-14: Random Matchup\xfffeSingle
-15: Random Matchup\xfffeDouble
-16: Random Matchup\xfffeTriple
-17: Random Matchup\xfffeRotation
-18: Random Matchup\xfffeLauncher Battle
-19: Battle Competition
-20: Battle Castle\xfffeMulti
-21: Battle Arcade\xfffeSingle
-22: Battle Arcade\xfffeDouble
-23: Battle Arcade\xfffeMulti
-\xf000봂\x0000TAP HERE!
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
-　
-Authentication error.\xfffeUnable to connect.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem\xfffewith the Musical Photo.
-There appears to be a problem with the\xfffePokémon in the Musical Photo.
-There appears to be a problem\xfffewith the Profile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-　
-Authentication error.\xfffeUnable to connect.
-There appears to be a problem with the\xfffechosen Pokémon.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-　
-User authentication error.\xfffePlease wait a while before reconnecting.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with the\xfffeBox Data.
-There appears to be a problem with the\xfffeProfile data.
-There appears to be a problem with your\xfffeparty.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-　
-User authentication error.\xfffePlease wait a while before reconnecting.
-There appears to be a problem with your\xfffeparty.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-　
-User authentication error.\xfffePlease wait a while before reconnecting.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-　
-User authentication error.\xfffePlease wait a while before reconnecting.
-Failed to receive ranking data.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem with your\xffferanking record.
-here appears to be a problem with the\xfffeProfile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-　
-Authentication error.\xfffeUnable to connect.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
-There appears to be a problem\xfffewith the Battle Video.
-There appears to be a problem\xfffewith the Battle Video.
-There appears to be a problem\xfffewith the Profile data.
-There appears to be a problem with the\xfffePokémon in the Battle Video.
-An error occurred.\xfffeTouch the Touch Screen to continue.
-　
-Authentication error.\xfffeUnable to connect.
-There appears to be a problem\xfffewith the search criteria.
-There appears to be a problem\xfffewith the search criteria.
-The search failed...
-　
-Authentication error.\xfffeUnable to connect.
-No matching Battle Videos found...\xfffeTouch the Touch Screen to continue.
-You cannot watch this Battle Video.
-Failed to receive the Battle Video.
-　
-　
-　
-　
-　
-An error occurred.\xfffeError Code 10601
-An error occurred.\xfffeError Code 10602
-An error occurred.\xfffeError Code 10603
-An error occurred.\xfffeError Code 10604
-Unable to connect.\xfffeError Code 10605
-An error occurred.\xfffeError Code 10606
-Unable to connect.\xfffeError Code 10607
-An error occurred.\xfffeError Code 10608
-An error occurred.\xfffeError Code 10609
-There is no response.\xfffeError Code 10610
-There is no response.\xfffeError Code 10611
-There is no response.\xfffeError Code 10612
-Communication was interrupted.\xfffeError Code 10613
-Unable to connect.\xfffeError Code 10614
-　
-　
-　
-　
-　
-　
-　
-The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
-　
-　
-There is nothing saved.\xfffeTouch the Touch Screen to continue.
-Please choose a Box.
-An empty Box’s Data can’t be sent.
-Where would you like to send this?
-Only one Box Data may be sent at a time.
-The same Box Data can’t be sent.
-Which category would you like to see?
-The saved data could not be deleted...
-The same Battle Video can't be saved again.\xfffeTouch the Touch Screen to continue.
-Saving...\xfffeDon't turn off the power.
-Receiving ranking data...
-Sending save data...
-Save completed.\xfffeTouch the Touch Screen to continue.
-Is it OK to delete\xfffe\xf000Ā\x0001\x0000's Battle Video?
-Is it really OK to delete this data?
-Deleting data...\xfffeSaving... Don't turn off the power.
-The data was deleted.\xfffeTouch the Touch Screen to continue.
-Sending your Musical Photo...
-Receiving Musical Photo...
-Sending your Box Data...
-Receiving Box Data...
-You have no saved data to send.\xfffeParticipate in the data to send.
-The same data can't be sent again.\xfffeTouch the Touch Screen to continue.
-Receiving Battle Videos...
-No matching data was found...\xfffeTouch the Touch Screen to continue.
-No matching Musical Photo was found...\xfffeTouch the Touch Screen to continue.
-Your Battle Video was sent.\xfffeVideo no.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
-The game will be saved before\xfffeyou can view Battle Videos.
-Deleting data... Saving a lot of\xfffedata... Don't turn off the power.
-Saving a lot of data...\xfffeDon't turn off the power.
-Saving...\xfffeDon't turn off the power.
-There is no ranking data...\xfffeTouch the Touch Screen to continue.
-Would you like to send\xfffeyour Battle Video?
-
-　
-　
-　
-
-　
-　
-　
-Latest 20 in the Favorite PC Box
-Latest 20 in the Cool PC Box
-Latest 20 in the Cute PC Box
-Latest 20 in the Suggested PC Box
-Latest 20 in the Fun PC Box
-Latest 20 in the Select PC Box
-School Kid♂
-Bug Catcher
-Ace Trainer♂
-Roughneck
-Ruin Maniac
-Black Belt
-Rich Boy
-Psychic♂
-Lass
-Battle Girl
-Beauty
-Ace Trainer♀
-Idol
-Socialite
-Cowgirl
-Lady
-Goldver．
+Is it OK to disconnect from \xfffeNintendo Wi-Fi Connection?
+Colosseum Single, \xfffeNo Restrictions
+Colosseum Single, \xfffeFlat
+Colosseum Single, \xfffeNo Restrictions On the Launcher
+Colosseum Single, \xfffeFlat, Launcher On
+Colosseum Double, \xfffeNo Restrictions
+Colosseum Double, \xfffeFlat
+Colosseum Double, \xfffeNo Restrictions On the Launcher
+Colosseum Double, \xfffeFlat, Launcher On
+Colosseum Triple, \xfffeNo Restrictions
+Colosseum Triple, \xfffeFlat
+Colosseum Triple, \xfffeNo Restrictions On the Launcher
+Colosseum Triple, \xfffeFlat, Launcher On
+Colosseum Rotation, \xfffeNo Restrictions
+Colosseum Rotation, \xfffeFlat
+Colosseum Rotation, \xfffeNo Restrictions On the Launcher
+Colosseum Rotation, \xfffeFlat, Launcher On
+Colosseum Multi, \xfffeNo Restrictions
+Colosseum Multi, \xfffeFlat
+Colosseum Multi, \xfffeNo Restrictions On the Launcher
+Colosseum Multi, \xfffeFlat, Launcher On
+Battle Subway, \xfffeSingle
+Battle Subway, \xfffeDouble
+Battle Subway, \xfffeMulti
+Random Matchup, Free \xfffeSingle
+Random Matchup, Free \xfffeDouble
+Random Matchup, Free \xfffeTriple
+Random Matchup, Free \xfffeRotation
+Random Matchup, Free \xfffeLauncher Battle
+Random Matchup, Rating \xfffeSingle
+Random Matchup, Rating \xfffeDouble
+Random Matchup, Rating \xfffeTriple
+Random Matchup, Rating \xfffeRotation
+Random Matchup, Rating \xfffeLauncher Battle
+Competition, the Single \xfffeLauncher Off
+Competition, Single \xfffeLauncher On
+Competition, a Double \xfffeLauncher Off
+Competition, a Double \xfffeLauncher On
+Competition, Trip
