@@ -2,8 +2,8 @@ Make an Infrared Connection\xfffewith your opponent(s).
 Infrared Communication failed\xfffereturning to menu.
 Infrared Communication Succesfull.
 Make an Infrared Connection\xfffewith your trade partner.
-チェックちゅう　です\xfffeつうしんを　つづけてください
-したがめんの　メニューを\xfffeタッチで　スタート！
+Checking...\xfffePlease maintain the Infrared Connection.
+Tap the menu in the Touch Screen\xfffeto begin!
 Begin Check
 Ranking
 Back
