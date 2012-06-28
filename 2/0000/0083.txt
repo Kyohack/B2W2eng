@@ -1,256 +1,256 @@
-はじめのいっぽ
-ゴールインプライズ
-ルーキーメダリスト
-エリートメダリスト
-マスターメダリスト
-レジェンドメダリスト
-キングオブメダリスト
-ライトウォーカー
-ミドルウォーカー
-ヘビーウォーカー
-めいよのあしあと
-ちまちまレポーター
-せかせかレポーター
-すらすらレポーター
-きせきのペンさき
-ポケセンファン
-かんばんにゅうもん
-かんばんめいじん
-ラクガキせんりがん
-ビギナーツーリング
-イージーツーリング
-ハードツーリング
-はしるでんせつ
-ボロのつりびと
-いいつりびと
-すごいつりびと
-いれぐいフィッシャー
-ノーマルコレクター
-ほのおコレクター
-みずコレクター
-でんきコレクター
-くさコレクター
-こおりコレクター
-かくとうコレクター
-どくコレクター
-じめんコレクター
-ひこうコレクター
-エスパーコレクター
-むしコレクター
-いわコレクター
-ゴーストコレクター
-ドラゴンコレクター
-あくコレクター
-はがねコレクター
-イッシュコレクター
-ぜんこくコレクター
-はこいり３０
-はこいり１２０
-はこいり３６０
-ボックスマックス
-キャプチャーキング
-ベンダーマスター
-ワンモアドリンク
-エボルブホープ
-エボルブテクニシャン
-エボルブエキスパート
-あるくしんかろん
-エースパイロット
-ハッスルマッスル
-ガサいれのたつじん
-おとしものシーカー
-おとしものハンター
-おとしものコレクター
-ダウジングキング
-ネーミングキング
-テレビっこ
-じょうれんカスタマー
-ぜいたくエントリー
-ぜいたくグレート
-ぜいたくスペシャル
-スーパーミリオネア
-かいものじょうず
-スイートホーム
-すれちがいファースト
-すれちがい３０
-すれちがい１００
-ラッシュアワー
-デルパワー＋
-デルパワー＋＋
-デルパワー＋＋＋
-デルパワーＭＡＸ
-うとうとキャプチャー
-すやすやキャプチャー
-ぐっすりキャプチャー
-ゆめであいましょう
-かくしあなのたつじん
-タマゴビギナー
-タマゴブリーダー
-タマゴアスリート
-せいめいのしんぴ
-そだてやマニア
-たいこのロマンチスト
-ピュア＆イノセント
-ラッキーカラー
-ポケルスハンター
-ヒウンばんちょう
-てつどうマニア
-ホエルオーウォッチ
-かおだしメモリアル
-じゅうきマニア
-いせきマイスター
-ダイヤモンドダスト
-ブリッジマニア
-イッシュいっしゅう
-アドベンチャーキング
-バトルもんかせい
-バトルしはんだい
-バトルししょう
-れきせんのもさ
-たいせんフレッシャー
-たいせんパイオニア
-たいせんエキスパート
-ボーントゥバトル
-コイキングアワード
-ネバーギブアップ
-からぶりめいじん
-ばつぐんのたつじん
-バトルニュートラル
-バトルアクセラレータ
-バトルトップギア
-ぼうそうとっきゅう
-シングルエクスプレス
-ダブルエクスプレス
-マルチエクスプレス
-けんていスターター
-けんていファン
-けんていマニア
-トライアルマスター
-ＥＸＰミリオネア
-ＢＰミリオネア
-たんさくハンター
-バトルリピーター
-サンセットクルーズ
-ホドモエさいきょう
-かりものキング
-まぜものキング
-イッシュさいきょう
-カントーさいきょう
-ジョウトさいきょう
-ホウエンさいきょう
-シンオウさいきょう
-リーダーさいきょう
-せかいさいきょう
-かりものエンペラー
-まぜものエンペラー
-オールタイプキング
-まてんろうハーフ
-まてんろうマスター
-じゅどうハーフ
-じゅどうマスター
-２０にんぎり
-５０にんぎり
-１００にんぎり
-サウザンドウィナー
-ぜんぬきイージー
-ぜんぬきマスター
-ねらいうちイージー
-ねらいうちマスター
-そっこうイージー
-そっこうマスター
-バトルジェネラル
-はじめてトレード
-ちょこちょこトレード
-がっちりトレード
-わらしべちょうじゃ
-リバーストレーダー
-ディアフレンド
-ステージのもうしご
-かけだしスター
-ちゅうけんスター
-ベテランスター
-ミュージカルプリマ
-オシャレばんちょう
-１０にんのでまち
-ともだちエントリー
-ともだちブロード
-ともだちワイド
-ワールドコネクション
-ぐるぐるマイスター
-フィーリングマスター
-ハートのエース
-デートのたつじん
-あんないルーキー
-あんないエリート
-あんないベテラン
-キングオブガイド
-てんぽメイカー
-てんぽビルダー
-てんぽクリエイター
-キングオブショップ
-おみやげリーズナブル
-おみやげリッチ
-おみやげデラックス
-キングオブスーベニア
-ゆめのマイアベニュー
-ミニゲームずき
-ミニゲームマニア
-ミニゲームめいじん
-ベストミニゲーマー
-ふうせんルーキー
-ふうせんテクニシャン
-ふうせんエキスパート
-キングオブバルーン
-ヒーローのしんじん
-ヒーローのはながた
-ポリスえいがマスター
-ＵＦＯえいがマスター
-かいじゅうマイスター
-ＳＦえいがマイスター
-ロマンスのはながた
-ファンタジーマスター
-コメディのはながた
-オカルトのはながた
-ロボえいがマイスター
-オバケえいがマスター
-ヒーローだいだんえん
-うれっこえいがスター
-めいさくえいがスター
-がっぽりムービー
-はじめてのカルト
-カルトえいがスター
-１０にんフェス
-３０にんフェス
-てんとりハンドレッド
-てんとりサウザンド
-かいさいＬＶ１
-かいさいＬＶ２
-さんかＬＶ１
-さんかＬＶ２
-たっせいＬＶ１
-たっせいＬＶ２
-フェスコンプリート
-おやすみなさい
-おもいでのはじまり
-すべてのおもいで
-エンタメマイスター
-ノーマルチャンプ
-ほのおチャンプ
-みずチャンプ
-でんきチャンプ
-くさチャンプ
-こおりチャンプ
-かくとうチャンプ
-どくチャンプ
-じめんチャンプ
-ひこうチャンプ
-エスパーチャンプ
-むしチャンプ
-いわチャンプ
-ゴーストチャンプ
-ドラゴンチャンプ
-あくチャンプ
-はがねチャンプ
-ワンアンドオンリー
-チャレンジジーニアス
-ヒントメダル
+FIRST STEP
+FINISHING PRIZE
+ROOKIE MEDALIST
+ELITE MEDALIST
+MASTER MEDALIST
+LEGEND MEDALIST
+KING OF MEDALISTS
+LIGHT WALKER
+MIDDLE WALKER
+HEAVY WALKER
+FOOTPRINT OF HONOR
+SMALL REPORTER
+HURRIED REPORTER
+SMOOTH REPORTER
+MIRACLE PEN NIB
+POKECEN FAN
+SIGN BEGINNER
+SIGN MASTER
+GRAFFITI CLAIRVOYANCE
+BEGINNER TOURING
+EASY TOURING
+HARD TOURING
+RUNNING LEGEND
+FAULTY FISHER
+GOOD FISHER
+AMAZING FISHER
+MASTER FISHER
+NORMAL COLLECTOR
+FIRE COLLECTOR
+WATER COLLECTOR
+ELECTRIC COLLECTOR
+GRASS COLLECTOR
+ICE COLLECTOR
+FIGHTING COLLECTOR
+POISON COLLECTOR
+GROUND COLLECTOR
+FLYING COLLECTOR
+PSYCHIC COLLECTOR
+BUG COLLECTOR
+ROCK COLLECTOR
+GHOST COLLECTOR
+DRAGON COLLECTOR
+DARK COLLECTOR
+STEEL COLLECTOR
+UNOVA COLLECTOR
+INTERNATIONAL COLLECTOR
+30 BOXED
+120 BOXED
+360 BOXED
+BOX MAX
+CAPTURE KING
+VENDOR MASTER
+ONE MORE DRINK
+EVOLVE HOPE
+EVOLVE TECHNICIAN
+EVOLVE EXPERT
+WALKING EVOLUTION
+ACE PILOT
+HUSTLE MUSCLE
+SEARCH MASTER
+LOST PROPERTY SEEKER
+LOST PROPERTY HUNTER
+LOST PROPERTY COLLECTOR
+DOWSING KING
+NAMING KING
+TV ADDICT
+REGULAR CUSTOMER
+LUXURY ENTRY
+LUXURY GREAT
+LUXURY SPECIAL
+SUPER MILLIONAIRE
+SKILLED SHOPPER
+SWEET HOME
+FIRST STREETPASS
+30TH STREETPASS
+100TH STREETPASS
+RUSH HOUR
+PASS POWER+
+PASS POWER++
+PASS POWER+++
+PASS POWER MAX
+DOZING CAPTURE
+SLEEPING CAPTURE
+SOUND ASLEEP CAPTURE
+LET'S MEET IN A DREAM
+HIDDEN HOLE EXPERT
+EGG BEGINNER
+EGG BREEDER
+EGG ATHLETE
+THE MYSTERY OF LIFE
+DAY-CARE CENTER MANIA
+FOSSIL MASTER
+PURE & INNOCENT
+LUCKY COLOR
+POKERUS HUNTER
+CASTELIA GANG LEADER
+RAILWAY MANIA
+WAILORD WATCH
+APPEARANCE MEMORIAL
+HEAVY MACHINERY MANIA
+RUINS MEISTER
+DIAMOND DUST
+BRIDGE MANIA
+UNOVA REVOLUTION
+ADVENTURE KING
+BATTLE PUPIL
+BATTLE ASSISTANT
+BATTLE TEACHER
+THE VALOR OF MILITARY SERVICE
+BATTLE FRESHMAN
+BATTLE PIONEER
+BATTLE EXPERT
+BORN TO BATTLE
+WEATHER AWARD
+NEVER GIVE UP
+MISS EXPERT
+SUPER EFFECTIVE EXPERT
+BATTLE NEUTRAL
+BATTLE ACCELERATOR
+BATTLE TOP GEAR
+RUNAWAY EXPRESS TRAIN
+SINGLE EXPRESS
+DOUBLE EXPRESS
+MULTI EXPRESS
+APPROVED STARTER
+APPROVED FAN
+APPROVED MANIA
+TRIAL MASTER
+EXP MILLIONAIRE
+BP MILLIONAIRE
+SEARCH HUNTER
+BATTLE REPEATER
+SUNSET CRUISE
+DRIFTVEIL'S STRONGEST
+BORROW KING
+MIX KING
+UNOVA'S STRONGEST
+KANTO'S STRONGEST
+JOHTO'S STRONGEST
+HOENN'S STRONGEST
+SINNOH'S STRONGEST
+LEADER'S STRONGEST
+WORLD'S STONGEST
+BORROW EMPEROR
+MIX EMPEROR
+ALL TYPE KING
+SKYSCRAPER HALF
+SKYSCRAPER MASTER
+TREE HOLLOW HALF
+TREE HOLLOW MASTER
+20 WINS
+50 WINS
+100 WINS
+THOUSAND WINNER
+DEFEAT-ALL EASY
+DEFEAT-ALL MASTER
+SHARPSHOOT EASY
+SHARPSHOOT MASTER
+SWIFT ATTACK EASY
+SWIFT ATTACK MASTER
+BATTLE GENERAL
+FIRST TRADE
+LOTS O' TRADES
+SHREWD TRADES
+STRAW MILLIONAIRE
+REVERSE TRADER
+DEAR FRIEND
+STAGE DEUS EX MACHINA
+NOVICE STAR
+RISING STAR
+VETERAN STAR
+MUSICAL PRIMA DONNA
+STYLISH GANG LEADER
+WAITING FOR 10 PEOPLE
+FRIEND ENTRY
+FRIEND BROAD
+FRIEND WIDE
+WORLD CONNECTION
+SPINNING MASTER
+FEELING MASTER
+HEART ACE
+DATE MASTER
+GUIDE ROOKIE
+GUIDE ELITE
+GUIDE VETERAN
+KING OF GUIDES
+STORE MAKER
+STORE BUILDER
+STORE CREATOR
+KING OF STORES
+REASONABLE SOUVENIR
+RICH SOUVENIR
+DELUXE SOUVENIR
+KING OF SOUVENIRS
+DREAM MY AVENUE
+MINIGAME LOVER
+MINIGAME MANIA
+MINIGAME MASTER
+BEST MINIGAMER
+BALLOON ROOKIE
+BALLOON TECHNICIAN
+BALLOON EXPERT
+KING OF BALLOONS
+NEW HERO
+STAR HERO
+POLICE MOVIE MASTER
+UFO MOVIE MASTER
+MONSTER MOVIE MASTER
+SCI-FI MOVIE MASTER
+ROMANCE STAR
+FANTASY MASTER
+COMEDT STAR
+OCCULT STAR
+ROBOT MOVIE MASTER
+GHOST MOVIE MASTER
+GRANDE FINALE HERO
+FAVORITE MOVIE STAR
+CLASSIC MOVIE STAR
+MULTIPLE MOVIES
+FIRST CULT FILM
+CULT MOVIE STAR
+10 PERSON FES
+30 PERSON FES
+100 SCORE
+1,000 SCORE
+OPEN LV 1
+OPEN LV 2
+PARTICIPATION LV 1
+PARTICAPATION LV 2
+ACHIEVEMENT LV 1
+ACHIEVEMENT LV 2
+FES COMPLETE
+GOOD NIGHT
+BEGINNING OF A MEMORY
+ALL MEMORIES
+ENTERTAINMENT MASTER
+NORMAL CHAMP
+FIRE CHAMP
+WATER CHAMP
+ELECTRIC CHAMP
+GRASS CHAMP
+ICE CHAMP
+FIGHTING CHAMP
+POISON CHAMP
+GROUND CHAMP
+FLYING CHAMP
+PSYCHIC CHAMP
+BUG CHAMP
+ROCK CHAMP
+GHOST CHAMP
+DRAGON CHAMP
+DARK CHAMP
+STEEL CHAMP
+ONE AND ONLY
+CHALLENGE GENIUS
+HINT MEDAL
