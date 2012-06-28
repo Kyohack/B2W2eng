@@ -18,10 +18,10 @@ Badges: \xf000ȁ\x0001\x0000こ
 \xf000ą\x0001\x0000
 レポートじょうほう
 キーシステムせってい
-アシストモード
-チャレンジモード
-ホワイトフォレスト
-ブラックシティ
+Assist Mode
+Challenge Mode
+White Forest
+Black City
 いわやまのま
 くろがねのま
 ひょうざんのま
@@ -44,6 +44,6 @@ The Musical music data\xfffehas been erased.
 The Skin data for Pokédex\xfffehas been erased.
 Your Hall of Fame data\xfffehas been erased.
 Your Mystery Gift data\xfffehas been erased.
-きえてしまった　ポケウッドの\xfffeきろくが　あります！
+Your PokéStar Studios data\xfffehas been erased.
 キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
 きえて　しまった　ＰＷＴの\xfffeきろくが　あります！
