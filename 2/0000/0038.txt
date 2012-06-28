@@ -1,12 +1,11 @@
 ▲
-POKÉDEX
-POKÉMON
-BAG
-PLAYER
-SAVE
-OPTIONS　　
-
-CHAT
+Pokédex
+Pokémon
+Bag
+TrainerCard
+Save
+Options
+Chat
 
 Retire
 Pokédex selected.
