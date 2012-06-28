@@ -1,8 +1,8 @@
-しょていの　いちに　ついて\xfffeたいせんを　はじめてください
-しばらく　おまちください\xfffe……Ｂボタン　キャンセル
-それでは　さんかする　ポケモンを\xfffe３ひき　えらんで　ください\xf000븁\x0000
-それでは　さんかする　ポケモンを\xfffe４ひき　えらんで　ください\xf000븁\x0000
-それでは　さんかする　ポケモンを\xfffe６ひき　えらんで　ください\xf000븁\x0000
-たいせんを　しゅうりょう　しますが\xfffeよろしいですか？
-たいせんを　しゅうりょう　します\xfffeしばらく　おまちください
-\xf000Ā\x0001\x0000の　トレーナーケースを\xfffeみせてもらった！
+Take your place\xfffeStart playing
+Wait for a moment.\xfffe……Cancel with the Ｂ button
+Then, select\xfffe３Pokémon\xf000븁\x0000
+Then, select\xfffe４Pokémon\xf000븁\x0000
+Then, select\xfffe６Pokémon\xf000븁\x0000
+Are you sure you would like to\xfffestop playing？
+Please wait\xfffeSession ending
+\xf000Ā\x0001\x0000 Show me \xfffeyour Trainer Case please！
