@@ -1,84 +1,84 @@
-\xf000봂\x0000『バトル　ミッション』
-\xf000봂\x0000『サポート　ミッション』
-\xf000봂\x0000『サポート　ミッション』
-\xf000봂\x0000『アイテム　ミッション』
-\xf000봂\x0000『アイテム　ミッション』
-\xf000봂\x0000『レスキュー　ミッション』
+\xf000봂\x0000“BATTLE MISSION"
+\xf000봂\x0000“SUPPORT MISSION"
+\xf000봂\x0000“SUPPORT MISSION"
+\xf000봂\x0000“ITEM MISSION"
+\xf000봂\x0000“ITEM MISSION"
+\xf000봂\x0000“RESCUE MISSION"
 おおきさミッション
 はっせいミッション
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（あいてのＨＰが　かんぜんかいふく　する）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　タマゴが　かえりやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　やすうりが　おこなわれる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　ポケモンがなつきやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　けいけんちが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　おこづかいが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　ポケモンが　ほかくしやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　タマゴが　かえりやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　やすうりが　おこなわれる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　ポケモンが　なつきやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　けいけんちが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　おこづかいが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　ポケモンが　ほかくしやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　ポケモンが　ほかくしやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　おこづかいが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　けいけんちが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　ポケモンがなつきやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　やすうりが　おこなわれる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（１じかん　タマゴが　かえりやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（あいてのＨＰが　かんぜんかいふく　する）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　ポケモンが　ほかくしやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　おこづかいが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　けいけんちが　たまりやすい）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　ポケモンが　なつきやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！\xfffe（３０ふん　やすうりが　おこなわれる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「タマゴふかパワー　Ｓ」を　あたえよ！\xfffe（３０ふん　タマゴが　かえりやすくなる）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ライモンシティの\xfffeベンチとベンチの　あいだに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ホドモエシティの\xfffeテントのうらの　いえのまえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　フキヨセシティの　\xfffeおくの　ひこうきの　まえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　セッカシティの\xfffeみんなが　まわっていた　ばしょにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ソウリュウシティの\xfffeワープできない　ゲートのまえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　カゴメタウンにある\xfffeマンホールの　うえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　サザナミタウンの\xfffeふんすいの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　５ばんどうろ　の\xfffeミュージシャンがいた　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　６ばんどうろ　の\xfffeたてにながい　はしのまんなかに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　７ばんどうろ　の\xfffeタワーオブヘブン　のまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　８ばんどうろ　の\xfffeどうろかんばんの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　９ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１１ばんどうろ　の\xfffeトレーラーの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１２ばんどうろ　の\xfffeまんなかの　かんばんに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１３ばんどうろ　の\xfffeくさむらのはえる　しまの　きにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１４ばんどうろ　の\xfffeすなはまと　りくちの　あいだに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１５ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１６ばんどうろ　の\xfffeさくが　きれているところに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ライモンシティの\xfffeベンチとベンチの　あいだに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ホドモエシティの\xfffeテントのうらの　いえのまえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　フキヨセシティの　\xfffeおくの　ひこうきの　まえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　セッカシティの\xfffeみんなが　まわっていた　ばしょにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　ソウリュウシティの\xfffeワープできない　ゲートのまえにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　カゴメタウンにある\xfffeマンホールの　うえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　サザナミタウンの\xfffeふんすいの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　５ばんどうろ　の\xfffeミュージシャンがいた　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　６ばんどうろ　の\xfffeたてにながい　はしのまんなかに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　７ばんどうろ　の\xfffeタワーオブヘブン　のまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　８ばんどうろ　の\xfffeどうろかんばんの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　９ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１１ばんどうろ　の\xfffeトレーラーの　まえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１２ばんどうろ　の\xfffeまんなかの　かんばんに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１３ばんどうろ　の\xfffeくさむらのはえる　しまの　きにかくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１４ばんどうろ　の\xfffeすなはまと　りくちの　あいだに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１５ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000ĉ\x0001\x0000を　１６ばんどうろ　の\xfffeさくが　きれているところに　かくせ！\xfffe（はなしかけられると　やりなおし！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
-\xf000Ā\x0001\x0000に　\xf000ĉ\x0001\x0001を\xfffeおかいどくな　ねだんで　かってもらえ！！\xfffe（ことわられたら　しっぱい！）\xfffe\xfffe\xfffeせいげんじかん　\xf000Ȃ\x0001\x0002びょう\xfffe\xfffeごほうび　：　デルダマ　\xf000ȁ\x0001\x0003こ
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(The target's HP is fully restored.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(Eggs hatch faster for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(Shop items are on sale for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(Pokémon grow friendly fast for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(Pokémon level up fast for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(More prize money received for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(Catching Pokémon is easier for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(Eggs hatch faster for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(Shop items are on sale for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(Pokémon grow friendly fast for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(Pokémon level up fast for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(More prize money received for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!\xfffe(Catching Pokémon is easier for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(Catching Pokémon is easier for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(More prize money received for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(Pokémon level up fast for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(Pokémon grow friendly fast for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(Items are on sale for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(Eggs hatch faster for an hour.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(The target's HP is fully restored.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(Catching Pokémon is easier for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(More prize money received for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(Pokémon level up fast for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(Pokémon grow friendly fast for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!\xfffe(Shop items are on sale for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “Hatching Power S"!\xfffe(Eggs hatch faster for 30 min.)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Challenge \xf000Ā\x0001\x0000 to a battle!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon\xfffe(The mission fails if turned down!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Challenge \xf000Ā\x0001\x0000 to a battle!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon\xfffe(The mission fails if turned down!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Challenge \xf000Ā\x0001\x0000 to a battle!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon\xfffe(The mission fails if turned down!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Challenge \xf000Ā\x0001\x0000 to a battle!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon\xfffe(The mission fails if turned down!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Challenge \xf000Ā\x0001\x0000 to a battle!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon\xfffe(The mission fails if turned down!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Challenge \xf000Ā\x0001\x0000 to a battle!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon\xfffe(The mission fails if turned down!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Challenge \xf000Ā\x0001\x0000 to a battle!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon\xfffe(The mission fails if turned down!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Challenge \xf000Ā\x0001\x0000 to a battle!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon\xfffe(The mission fails if turned down!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 between\xfffetwo benches in Nimbasa City!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffehouse behind the market in Driftveil City!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffesecond airplane in Mistralton City!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 where they were\xfffegoing round and round in Icirrus City!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 before the gate\xfffewhere you cannot warp in Opelucid City!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in the manhole\xfffein Lacunosa Town!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffefountain in Undella Town!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffewhere the Musician was on Route 5!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in the middle\xfffeof the northward bridge on Route 6!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffeCelestial Tower on Route 7!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffesign on Route 8!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffetrash can on Route 9!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffethe camper on Route 11!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 at the sign\xfffein the middle of Route 12!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 under the tree\xfffeon the grassy island on Route 13!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 where the beach\xfffebegins on Route 14!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffethe trash can on Route 15!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 by the\xfffemissing fence on Route 16!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 between\xfffetwo benches in Nimbasa City!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffehouse behind the market in Driftveil City!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffesecond airplane in Mistralton City!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 where they were\xfffegoing round and round in Icirrus City!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 before the gate\xfffewhere you cannot warp in Opelucid City!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in the manhole\xfffein Lacunosa Town!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffefountain in Undella Town!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffewhere the Musician was on Route 5!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in the middle\xfffeof the northward bridge on Route 6!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffeCelestial Tower on Route 7!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffesign on Route 8!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffetrash can on Route 9!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffethe camper on Route 11!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 at the sign\xfffein the middle of Route 12!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 under the tree\xfffeon the grassy island on Route 13!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 where the beach\xfffebegins on Route 14!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffethe trash can on Route 15!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Stash one \xf000ĉ\x0001\x0000 by the\xfffemissing fence on Route 16!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
+Sell one \xf000ĉ\x0001\x0001 to \xf000Ā\x0001\x0000\xfffeat a reasonable price!\xfffe(The mission fails if turned down!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
 ー
