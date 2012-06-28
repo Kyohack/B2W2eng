@@ -1,19 +1,19 @@
-Single Battle
-Double Battle
-Triple Battle
-Rotation Battle
-チャンピオンズトーナメント
-ダウンロードトーナメント
-ホドモエトーナメント
-イッシュリーダーズトーナメント
-カントーリーダーズトーナメント
-ジョウトリーダーズトーナメント
-ホウエンリーダーズトーナメント
-シンオウリーダーズトーナメント
-ワールドリーダーズトーナメント
-レンタルトーナメント
-レンタルマスタートーナメント
-ミックストーナメント
-ミックスマスタートーナメント
-タイプエキスパートトーナメント
-？？？？？
+SINGLE BATTLE
+DOUBLE BATTLE
+TRIPLE BATTLE
+ROTATION BATTLE
+CHAMPION TOURNAMENT
+DOWNLOAD TOURNAMENT
+DRIFTVEIL TOURNAMENT
+UNOVA LEADERS' TOURNAMENT
+KANTO LEADERS' TOURNAMENT
+JOHTO LEADERS' TOURNAMENT
+HOENN LEADERS' TOURNAMENT
+SINNOH LEADERS' TOURNAMENT
+WORLD LEADERS' TOURNAMENT
+RENTAL TOURNAMENT
+RENTAL MASTER TOURNAMENT
+MIX TOURNAMENT
+MIX MASTER TOURNAMENT
+TYPE EXPORT TOURNAMENT
+?????
