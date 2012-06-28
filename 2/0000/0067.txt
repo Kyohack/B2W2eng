@@ -1,178 +1,178 @@
-　
-キーシステム
-キーの　つうしん
-キーせってい
-もっているキー
-モードへんこう
-まちの　へんこう
-もどる
-アシストモード
-ノーマルモード
-チャレンジモード
-ブラックシティ
-ホワイトフォレスト
-もっているキー
-アシストキー
-チャレンジキー
-まてんろうのカギ
-じゅどうのカギ
-ポケットモンスターブラック２　か\xfffeポケットモンスターホワイト２　と\xfffeキーの　そうじゅしんが　できます\xfffe\xfffeつうしん　することで　キーせっていで\xfffeロックされている　こうもくや\xfffeマップを　かいほう　できます
-キーによる　せっていの　へんこうを\xfffeおこなうことが　できます\xfffe\xfffeキーは　ぼうけんを　すすめることで\xfffeてにいれることが　できます\xfffeひとと　つうしんして\xfffeかいほう　してもらうことも　できます
-メイン　メニューに\xfffeもどります
-せきがいせんつうしんを　おこないます\xfffeＤＳを　むかいあわせに　してください
-モードを　かえることが　できます\xfffeただいま　アシストモード　です\xfffeトレーナーとの　ポケモンしょうぶが\xfffeやさしく　なっています
-モードを　かえることが　できます\xfffeただいま　ノーマルモード　です
-モードを　かえることが　できます\xfffeただいま　チャレンジモード　です\xfffeトレーナーとの　ポケモンしょうぶが\xfffeてごわく　なっています
-ホワイトフォレストと\xfffeブラックシティを　へんこう　できます\xfffeげんざいは　ブラックシティ　です
-ホワイトフォレストと\xfffeブラックシティを　へんこう　できます\xfffeげんざいは　ホワイトフォレスト　です
-キーシステム　メインメニューに\xfffeもどります
-キーシステム　メインメニューに\xfffeもどります
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-キーを　そうしんしています\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんに\xfffeアシストキーを　おくった\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんに\xfffeチャレンジキーを　おくった\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんに\xfffeじゅどうのカギを　おくった\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんに\xfffeまてんろうのカギを　おくった\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんに\xfffeくろがねのカギを　おくった\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんに\xfffeひょうざんのカギを　おくった\xf000븂\x0001<
-つうしんあいてに\xfffeアシストキーを　おくった\xf000븂\x0001<
-つうしんあいてに\xfffeチャレンジキーを　おくった\xf000븂\x0001<
-つうしんあいてに\xfffeじゅどうのカギを　おくった\xf000븂\x0001<
-つうしんあいてに\xfffeまてんろうのカギを　おくった\xf000븂\x0001<
-つうしんあいてに\xfffeくろがねのカギを　おくった\xf000븂\x0001<
-つうしんあいてに\xfffeひょうざんのカギを　おくった\xf000븂\x0001<
-キーを　じゅしん　しています\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんの　アシストキーで\xfffeアシストモードを　かいほうした！\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんの　チャレンジキーで\xfffeチャレンジモードを　かいほうした！\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんの　じゅどうのカギで\xfffeホワイトフォレストを　かいほうした！\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんの　まてんろうのカギで\xfffeブラックシティを　かいほうした！\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんの　くろがねのカギで\xfffeくろがねのまを　かいほうした！\xf000븂\x0001<
-\xf000Ā\x0001\x0000さんの　ひょうざんのカギで\xfffeひょうざんのまを　かいほうした！\xf000븂\x0001<
-つうしんあいての　アシストキーで\xfffeアシストモードを　かいほうした！\xf000븂\x0001<
-つうしんあいての　チャレンジキーで\xfffeチャレンジモードを　かいほうした！\xf000븂\x0001<
-つうしんあいての　じゅどうのカギで\xfffeホワイトフォレストを　かいほうした！\xf000븂\x0001<
-つうしんあいての　まてんろうのカギで\xfffeブラックシティを　かいほうした！\xf000븂\x0001<
-つうしんあいての　くろがねのカギで\xfffeくろがねのまを　かいほうした！\xf000븂\x0001<
-つうしんあいての　ひょうざんのカギで\xfffeひょうざんのまを　かいほうした！\xf000븂\x0001<
-レポートへの　かきこみが\xfffeかんりょう　いたしました\xf000븁\x0000
-キーの　つうしんを\xfffeかんりょう　しました\xf000븁\x0000
-そうしんできる　キーが\xfffeありませんでした\xf000븂\x0001<
-じゅしんできる　キーが\xfffeありませんでした\xf000븂\x0001<
-つうしんちゅう　です\xfffeしばらく　おまちください
-アシストキーで　ロックを\xfffeかいほう　しないと　えらべません
-チャレンジキーで　ロックを\xfffeかいほう　しないと　えらべません
-じゅどうのカギで　ロックを\xfffeかいほう　しないと　えらべません
-まてんろうのカギで　ロックを\xfffeかいほう　しないと　えらべません
+ 
+KEY SYSTEM
+KEY COMMUNICATION
+SET KEY
+KEYS ARE:
+CHANGE MODE
+CHANGE CITY/FOREST
+CANCEL
+ASSIST MODE
+NORMAL MODE
+CHALLENGE MODE
+BLACK CITY
+WHITE FOREST
+KEYS ARE:
+ASSIST KEY
+KEY CHALLENGES
+KEY TO SKYSCRAPER
+KEY TO FOREST
+POKÉMON BLACK 2 or\xfffePOKÉMON WHITE 2\xfffeKeys can be sent and or recieved\xfffeusing the above configurations.
+Using this setting you can check,\xfffechange, or recieve keys.
+Back to the MAIN MENU.
+Searching for Nintendo DS\xfffeto communicate with...
+CURRENTLY SET:\xfffeASSIST MODE, the easiest.
+CURRENTLY SET:\xfffeNORMAL MODE, moderately difficult.
+CURRENTLY SET:\xfffeCHALLENGE MODE, very difficult.
+BLACK CITY is set.
+WHITE FOREST is set.
+KEY SYSTEM will return to MAIN MENU
+KEY SYSTEM will return to MAIN MENU
+Saving Data...\xfffeDO NOT POWER OFF DEVICE.
+> Transmitting key...
+> \xf000A\x0001\x0000 Sent ASSIST KEY.\xf000?\x0001
+> \xf000A\x0001\x0000 Sent CHALLENGE KEY.\xf000?\x0001
+> \xf000A\x0001\x0000 Sent FOREST KEY.\xf000?\x0001
+> \xf000A\x0001\x0000 Sent SKYSCRAPER KEY.\xf000?\x0001
+> \xf000A\x0001\x0000 Sent IRON KEY.\xf000?\x0001
+> \xf000A\x0001\x0000 Sent ICEBERG KEY.\xf000?\x0001
+> Your friend sent the ASSIST KEY.\xf000?\x0001
+> Your friend sent the CHALLENGE KEY.\xf000?\x0001
+> Your friend sent the FOREST KEY.\xf000?\x0001
+> Your friend sent the SKYSCRAPER KEY.\xf000?\x0001
+> Your friend sent the IRON KEY.\xf000?\x0001
+> Your friend sent the ICEBERG KEY.\xf000?\x0001
+> Exchanging the keys\xf000?\x0001
+> \xf000A\x0001\x0000 got ASSIST KEY!\xf000?\x0001
+> \xf000A\x0001\x0000 got CHALLENGE KEY!\xf000?\x0001
+> \xf000A\x0001\x0000 got FOREST KEY!\xf000?\x0001
+> \xf000A\x0001\x0000 got SKYSCRAPER KEY!\xf000?\x0001
+> \xf000A\x0001\x0000 got IRON KEY!\xf000?\x0001
+> \xf000A\x0001\x0000 got ICEBERG KEY!\xf000?\x0001
+> Your friend got the ASSIST KEY!\xf000?\x0001
+> Your friend got the CHALLENGE KEY!\xf000?\x0001
+> Your friend got the FOREST KEY!\xf000?\x0001
+> Your friend got the SKYSCRAPER KEY!\xf000?\x0001
+> Your friend got the IRON KEY!\xf000?\x0001
+> Your friend got the ICEBERG KEY!\xf000?\x0001
+> Transfer complete.\xf000?\x0000
+> Key(s) were successfully transferred!\xf000?\x0000
+> Specified key(s) cannot be sent.\xf000?\x0001
+> Specified key(s) could not be retrieved.\xf000?\x0001
+Communicating...\xfffePlease wait.
+ASSIST KEY is locked.
+CHALLENGE KEY is locked.
+FOREST KEY is locked.
+KEY is locked.
 Yes
 No
-せきがいせんつうしんを　かいしします\xfffeよろしいですか？
-げんざい　そのばしょに　いるため\xfffeせっていを　へんこう　できません
-キーシステム
-おもいでリンク
-もどる
-ポケットモンスターブラック２　か\xfffeポケットモンスターホワイト２　と\xf000븀\x0000\xfffeつうしんして　キーを　おくりあえます
-ポケットモンスターブラック　か\xfffeポケットモンスターホワイト　と\xf000븀\x0000\xfffeつうしんして　レポートを　うけつぎます
-ニンテンドー３ＤＳダウンロードソフト\xfffe『ポケモンＡＲサーチャー』から\xfffeちょうさデータを　うけとります\xfffe\xfffeうけとった　ポケモンや　どうぐは\xfffeちょくせつ　ボックスや　バッグに\xfffeおくられます
-タイトル　に\xfffeもどります
-おもいでリンク
-ワイヤレスで　うけつぐ
-Ｗｉ－Ｆｉで　うけつぐ
-もどる
-２だいの　ＤＳを　しようして\xfffeワイヤレスで　うけつぎます
-Ｗｉ－Ｆｉを　つうじて\xfffeゲームシンクをした　レポートから\xfffeうけつぎます\xfffeポケットモンスターブラック・ホワイトで\xfffeポケモンを　ねむらせて　レポートを\xfffeさいしんの　じょうたいに　してから\xfffeうけつぐことを　おすすめします
-おもいでリンク　で　はっせいした\xfffeおもいでの　ないようを\xfffeかくにん　することが　できます
-メイン　メニューに\xfffeもどります
-メインメニュー
-アシストキー　で\xfffeロックを　かいほう　しました\xf000븁\x0000\xfffeモードへんこう「アシストモード」が\xfffeえらべるように　なりました\xf000븁\x0000
-チャレンジキー　で\xfffeロックを　かいほう　しました\xf000븁\x0000\xfffeモードへんこう「チャレンジモード」が\xfffeえらべるように　なりました\xf000븁\x0000
-じゅどうのカギ　で\xfffeロックを　かいほう　しました\xf000븁\x0000\xfffeまちのへんこう「ホワイトフォレスト」が\xfffeえらべるように　なりました\xf000븁\x0000
-まてんろうのカギ　で\xfffeロックを　かいほう　しました\xf000븁\x0000\xfffeまちのへんこう「ブラックシティ」が\xfffeえらべるように　なりました\xf000븁\x0000
-アシストキーを\xfffeてに　いれました！\xf000븁\x0000\xfffeモードへんこう「アシストモード」が\xfffeえらべるように　なりました\xf000븁\x0000\xfffeキーは　つうしん　することで\xfffeひとの　ロックされている　こうもくや\xf000븀\x0000\xfffeマップを　かいほう　できます\xf000븁\x0000
-チャレンジキーを\xfffeてに　いれました！\xf000븁\x0000\xfffeモードへんこう「チャレンジモード」が\xfffeえらべるように　なりました\xf000븁\x0000\xfffeキーは　つうしん　することで\xfffeひとの　ロックされている　こうもくや\xf000븀\x0000\xfffeマップを　かいほう　できます\xf000븁\x0000
-じゅどうのカギを\xfffeてに　いれました！\xf000븁\x0000\xfffeキーは　つうしん　することで\xfffeひとの　ロックされている　こうもくや\xf000븀\x0000\xfffeマップを　かいほう　できます\xf000븁\x0000
-まてんろうのカギを\xfffeてに　いれました！\xf000븁\x0000\xfffeキーは　つうしん　することで\xfffeひとの　ロックされている　こうもくや\xf000븀\x0000\xfffeマップを　かいほう　できます\xf000븁\x0000
-おもいでリスト
-ちていいせきの　ふしぎなとびら　から\xfffeつながる　へやを　へんこうできます\xfffeげんざいは\xfffeいわやまのまに　つながっています
-ちていいせきの　ふしぎなとびら　から\xfffeつながる　へやを　へんこうできます\xfffeげんざいは\xfffeくろがねのまに　つながっています
-ちていいせきの　ふしぎなとびら　から\xfffeつながる　へやを　へんこうできます\xfffeげんざいは\xfffeひょうざんのまに　つながっています
-くろがねのカギで　ロックを\xfffeかいほう　しないと　えらべません
-ひょうざんのカギで　ロックを\xfffeかいほう　しないと　えらべません
-ふしぎなとびら
-いわやまのま
-くろがねのま
-ひょうざんのま
-くろがねのカギを\xfffeてに　いれました！\xf000븁\x0000\xfffeふしぎなとびら「くろがねのま」が\xfffeえらべるように　なりました\xf000븁\x0000\xfffeキーは　つうしん　することで\xfffeひとの　ロックされている　こうもくや\xf000븀\x0000\xfffeマップを　かいほう　できます\xf000븁\x0000
-ひょうざんのカギを\xfffeてに　いれました！\xf000븁\x0000\xfffeふしぎなとびら「ひょうざんのま」が\xfffeえらべるように　なりました\xf000븁\x0000\xfffeキーは　つうしん　することで\xfffeひとの　ロックされている　こうもくや\xf000븀\x0000\xfffeマップを　かいほう　できます\xf000븁\x0000
-くろがねのカギ
-ひょうざんのカギ
-アシストキーを\xfffeてに　いれました！\xf000븁\x0000\xfffeキーは　つうしん　することで\xfffeひとの　ロックされている　こうもくや\xf000븀\x0000\xfffeマップを　かいほう　できます\xf000븁\x0000
-チャレンジキーを\xfffeてに　いれました！\xf000븁\x0000\xfffeキーは　つうしん　することで\xfffeひとの　ロックされている　こうもくや\xf000븀\x0000\xfffeマップを　かいほう　できます\xf000븁\x0000
-くろがねのカギを\xfffeてに　いれました！\xf000븁\x0000\xfffeキーは　つうしん　することで\xfffeひとの　ロックされている　こうもくや\xf000븀\x0000\xfffeマップを　かいほう　できます\xf000븁\x0000
-ひょうざんのカギを\xfffeてに　いれました！\xf000븁\x0000\xfffeキーは　つうしん　することで\xfffeひとの　ロックされている　こうもくや\xf000븀\x0000\xfffeマップを　かいほう　できます\xf000븁\x0000
-つうしんする　ＤＳが　みつかりません\xfffeもういちど　せつぞく　しますか？
-アシストモードに\xfffeせっていを　へんこう　しました\xf000븁\x0000\xfffeトレーナーの　くりだす　ポケモンは\xfffeいつもより　ひくいレベルに　なります\xf000븁\x0000
-ノーマルモードに\xfffeせっていを　へんこう　しました\xf000븁\x0000\xfffeトレーナーの　くりだす　ポケモンは\xfffeいつもの　レベルに　なります\xf000븁\x0000
-チャレンジモードに\xfffeせっていを　へんこう　しました\xf000븁\x0000\xfffeトレーナーの　くりだす　ポケモンは\xfffeいつもより　たかいレベルに　なります\xf000븁\x0000
-ブラックシティに\xfffeせっていを　へんこう　しました\xf000븁\x0000
-ホワイトフォレストに\xfffeせっていを　へんこう　しました\xf000븁\x0000
-いわやまのま　に\xfffeせっていを　へんこう　しました\xf000븁\x0000\xfffeちていいせきの　ふしぎなとびらを　ぬけ\xfffeいわやまのまに　いきましょう！\xf000븁\x0000
-くろがねのま　に\xfffeせっていを　へんこう　しました\xf000븁\x0000\xfffeちていいせきの　ふしぎなとびらを　ぬけ\xfffeくろがねのまに　いきましょう！\xf000븁\x0000
-ひょうざんのま　に\xfffeせっていを　へんこう　しました\xf000븁\x0000\xfffeちていいせきの　ふしぎなとびらを　ぬけ\xfffeひょうざんのまに　いきましょう！\xf000븁\x0000
-おもいでリンク　ＩＤ：\xf000Ȅ\x0001\x0000
-おもいでリンク
-ポケットモンスターブラック２\xfffeおもいでリンク　プログラム
-ポケットモンスターホワイト２\xfffeおもいでリンク　プログラム
-もう１つの　ＤＳに\xfffeポケットモンスターブラックか\xfffeポケットモンスターホワイトの\xfffeソフトを　セットし\xfffeでんげんを　いれた　あとに\xfffe『ＤＳダウンロードプレイ』から\xfffe『おもいでリンク　ＩＤ：\xf000Ȅ\x0001\x0000』を\xfffeえらんでください
-もう１つの　ＤＳに\xfffeポケットモンスターブラック　か\xfffeポケットモンスターホワイト　の\xfffeソフトを　セットし\xfffeでんげんを　いれた　あとに\xfffe『ＤＳダウンロードプレイ』から\xfffe『おもいでリンク』を　\xfffeえらんでください
-おもいでリンク　きどうちゅう！\xfffeしばらく　おまちください
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000\xfffeおもいでリンクを　しゅうりょうします\xf000븁\x0000
-ワイヤレスつうしんを　かいしします\xfffeよろしいですか？
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　おもいでリンクを\xfffeきどうしなおして　ください\xf000븁\x0000\xfffeおもいでリンクを　しゅうりょうします\xf000븁\x0000
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000\xfffeおもいでリンクを　しゅうりょうします\xf000븁\x0000
-おもいでリンクが　かんりょうしました\xf000븁\x0000
-ことなる　レポートと\xfffeリンクしようと　しています\xfffeリンクを　ぞっこう　しますか？
-おもいでリンクを\xfffeキャンセル　しました\xfffeしゅうりょう　します\xf000븁\x0000
-ポケットモンスターブラック　か\xfffeポケットモンスターホワイト　の\xfffe「ゲームシンクせってい」で\xfffeみることが　できる\xfffeゲームシンクＩＤコード　を\xfffeにゅうりょく　してください\xf000븁\x0000
-ゲームシンクＩＤコード　が\xfffeまちがって　いるようです\xf000븁\x0000
-ポケットモンスターブラック　か\xfffeポケットモンスターホワイト　で\xfffeゲームシンクを　おこない\xfffeポケモンを　ねむらせて　ください\xfffeねむらせた　あとに\xfffeおもいでリンクが　できます
-レポートを\xfffeリンク　しています\xf000븀\x0000\xfffeしばらく　おまちください
-おもいでリンク　かんりょう！\xfffeせかいに　へんかが　おこったようです\xf000븁\x0000\xfffeおもいでリストを\xfffeかくにん　してみてください\xf000븁\x0000
-おもいでリスト
-ごりようの　サービスは　しゅうりょう　いたしました\xfffe「ワイヤレスで　うけつぐ」を　ごりよう　ください\xf000븁\x0000
-つうしんちゅうです\xfffeしばらく　おまちください
-ポケットモンスターブラック・ホワイトの\xfffeゲームシンクで　ポケモンを\xfffeねむらせて　ください\xfffeねむらせたあとに\xfffeおもいでリンクを\xfffeおこなうことが　できます\xf000븁\x0000
-この　ゲームシンクＩＤコードは\xfffeポケットモンスターブラック・ホワイト\xfffeのものでは　ありません\xf000븁\x0000
-さんにん　そろって
-それぞれの　ホネと　ユメ
-もとめる　ココロ
-あらたな　ひかり
-ついきゅう　ハイセンス！！
-しろ　と　くろ
-さらば　あいすべき　スター
-トモダチと　であいと　わかれ
-もどる
-サンヨウシティの　レストラン\xfffeコーン　ポッド　デントの\xf000븀\x0000\xfffe３にんの　おもいを　きこう\xf000븁\x0000
-シッポウシティの　はくぶつかんで\xfffeホネの　スペシャリスト　アロエの\xf000븀\x0000\xfffeはなしを　きこう\xf000븁\x0000
-セッカシティにある\xfffeゆかを　こおらせた　たてもので\xf000븀\x0000\xfffeハチクが　まっているようだ\xf000븁\x0000
-でんどういり　したあとの\xfffeソウリュウシティで\xf000븀\x0000\xfffeシャガが　かこを　おもっている\xf000븁\x0000
-ヤマジタウンに　ついたあと\xfffeフキヨセシティ　ジムまえで\xf000븁\x0000\xfffeフウロが　しんぱいごとを\xfffeだれかに　はなしたがっている\xf000븁\x0000
-ポケモンワールドトーナメントに\xfffeはじめて　さんか　したあと\xf000븁\x0000\xfffeホドモエシティに　ある\xfffeもとプラズマだんが　いる　いえに\xf000븀\x0000\xfffeだれかが　おとずれたようだ……\xf000븁\x0000
-ライモンシティの　ミュージカルで\xfffeオーナーが　かこを　なつかしんでいる\xf000븁\x0000
-ポケモンセンターで\xfffeポケモンの　ことを　かんがえている\xf000븀\x0000\xfffeブリーダーが　いる\xf000븁\x0000
-レポートが　こわれてしまったため\xfffeキーシステムを\xf000븀\x0000\xfffeつかうことが　できません\xf000븁\x0000\xfffeさいしょから　はじめるを　おこない\xfffeレポートに　かきこんでから\xf000븁\x0000\xfffeもういちど\xfffeキーシステムを　えらんでください\xf000븁\x0000
-ニンテンドー３ＤＳリンク
-ポケモンＡＲサーチャーから\xfffeちょうさデータを　うけとりますか？
-ポケモンＡＲサーチャーに\xfffeせつぞく　しています
-ポケモンＡＲサーチャーから\xfffeちょうさデータを　うけとっています
-\xf000ā\x0001\x0000が　やってきた！\xf000븁\x0000
-ちょうさデータを\xfffeレポートに　かきこみました！\xf000븁\x0000
-ポケモンＡＲサーチャーの\xfffeちょうさデータが　こわれていました\xf000븁\x0000
-ちょうさデータを\xfffeしょきか　しています
-ちょうさデータを　しょきか　しました\xf000븁\x0000\xfffeポケモンＡＲサーチャーを　きどうして\xfffeもういちど　ちょうさデータを\xf000븀\x0000\xfffeおくってください\xf000븁\x0000
-レポートが　ないため\xfffeちょうさデータを　うけとれません\xf000븁\x0000\xfffe『さいしょから　はじめる』を　えらび\xfffeポケモンずかんを　てにいれるまで\xf000븁\x0000\xfffeぼうけんを　すすめて\xfffeレポートを　かいてください\xf000븁\x0000
-ちょうさデータを　うけとるには\xfffeポケモンずかんを　てにいれるまで\xf000븁\x0000\xfffeぼうけんを　すすめて\xfffeレポートを　かいてください\xf000븁\x0000
-ポケモンＡＲサーチャーの\xfffeちょうさデータが　ありませんでした\xf000븁\x0000\xfffeニンテンドー３ＤＳで\xfffeポケモンＡＲサーチャーを　あそんで\xf000븀\x0000\xfffeちょうさデータを　あつめてください\xf000븁\x0000
-ポケモンＡＲサーチャーの\xfffeちょうさデータが　ありませんでした\xf000븁\x0000\xfffeポケモンＡＲサーチャーを　きどうして\xfffeちょうさデータを　おくってください\xf000븁\x0000
-ちょうさデータを　うけとるには\xfffeボックスを　せいりして\xf000븁\x0000\xfffe６ひきいじょう　ポケモンを\xfffeあずけられるように　してから\xf000븀\x0000\xfffeもういちど　やりなおしてください\xf000븁\x0000
-うけとった　ポケモンを\xfffeボックスに　てんそう　しました\xf000븁\x0000
-うけとった　どうぐを\xfffeバッグに　おくりました\xf000븁\x0000
+Do you want to use\xfffeInfraRed communication?
+Can't be set.
+KEY SYSTEM
+MEMORY LINK
+CANCEL
+POKÉMON BLACK 2 or\xfffePOKÉMON WHITE 2\xfffeKey will be sent.
+POKÉMON BLACK 2 or\xfffePOKÉMON WHITE 2\xfffeCan be linked.
+Download Nintendo 3DS software\xfffe"Pokémon Dream Radar" to receive\xfffedata and Pokémon directly to a box or\xfffeto your bag.
+Return to title screen.
+MEMORY LINK
+WIRELESS COMMUNICATION
+Wi-Fi
+CANCEL
+Attempt wireless communication\xfffebetween 2 DS models.
+Find out information on Wi-Fi.
+Go into the MEMORY LINK.
+Back to the MAIN MENU.
+MAIN MENU
+ASSIST MODE can now be used.
+CHALLENGE MODE can now be used.
+WHITE FOREST can now be visited.
+BLACK CITY can now be visited.
+ASSIST KEY obtained! This key can be given to your friends so they can unlock it as well.
+CHALLENGE KEY obtained! This key can be given to your friends so they can unlock it as well.
+FOREST KEY obtained! This key can be given to your friends so they can unlock it as well.
+SKYSCRAPER KEY obtained! This key can be given to your friends so they can unlock it as well.
+MEMORY LIST
+Can open the MOUNTAIN door.
+Can open STEEL door.
+Can open ICEBERG door.
+STEEL KEY not unlocked.
+ICEBERG KEY not unlocked
+DOOR KEYS
+MOUNTAIN DOOR
+STEEL DOOR
+ICEBERG DOOR
+STEEL KEY obtained! You can now use the STEEL KEY.
+ICEBERG KEY obtained! You can now use the ICEBERG KEY.
+STEEL KEY
+ICEBERG KEY
+ASSIST KEY obtained! You can now use the ASSIST KEY.
+CHALLENGE KEY obtained! You can now use the CHALLENGE KEY.
+STEEL KEY obtained! You can now use the STEEL KEY.
+ICEBERG KEY obtained! You can now use the ICEBERG KEY.
+Could not find another DS.\xfffeTry again?
+ASSIST MODE sets opponent levels to a low difficulty.
+NORMAL MODE sets opponents levels to an average difficulty.
+CHALLENGE MODE sets opponents levels to an above average difficulty.
+BLACK CITY set.
+WHITE FOREST set.
+MOUNTAIN set.
+STEEL KEY set.
+ICEBERG KEY set.
+MEMORY LINK ID: \xf000?\x0001\x0000
+MEMORY LINK
+POKÉMON BLACK 2\xfffeMEMORY LINK program
+POKÉNON WHITE 2\xfffeMEMORY LINK program
+A POKÉMON BLACK or\xfffePOKÉMON WHITE\xfffedownloadplay software.\xfffe(MEMORY LINK ID: \xf000?\x0001\x0000)
+A POKÉMON BLACK or\xfffePOKÉMON WHITE\xfffedownloadplay software.
+Activated MEMORY LINK\xfffePlease wait...
+Connection to another DS was not successful.\xfffeLink terminated.
+Do you want to use\xfffeWireless Communications?
+Power was not turned off, but\xfffethe MEMORY LINK connection was terminated.
+Can't read MEMORY LINK data.
+MEMORY LINK completed.
+Resume MEMORY LINK?
+MEMORY LINK was cancelled.
+Trying to synch with either\xfffePOKÉMON BLACK or\xfffePOKÉMON WHITE.\xf000?\x0000
+Wrong game synch ID.
+Attempted to synch to a busy game.\xfffePlease wait a few moments and try again.
+MEMORY LINK reports being read...
+Completed MEMORY LINK!
+MEMORY LINK
+Wireless service needs to do more tasks.
+Communicating...\xfffePlease wait a few moments.
+Requested game is busy.\xfffePlease wait a few moments and try again.
+Can't find synch ID.
+THREE CARS
+EACH OF BONE AND DREAM
+SEARCH
+DO NOT STAND
+High-Spirited Question!!
+BLACK AND WHITE
+FAREWELL
+FRIEND
+CLOSE
+City Restaurant.
+Archeological Museum.
+Oak tree.
+Iris is thinking.
+Incredible town.
+Able to take part in the Pokémon World Tournament.
+Pokémon Musical.
+The Pokémon Breeder in the Pokémon Center is planning something.
+KEY cannot be used.
+NINTENDO 3DS LINK
+Find Pokémon Dream Radar?
+Connect to Pokémon Dream Radar.
+Finding Pokémon Dream Radar.
+\xf000a\x0001\x0000 has arrived!\xf000?\x0000
+Data was written successfully!
+Connection to Pokémon Dream Radar lost.
+Data is coming.
+Initializing communication.\xfffePokémon Dream Radar is reading data...
+Please select a Pokémon.
+In order to send, you need to save.
+Couldn't find Nintendo 3DS Pokémon \xfffeDream Radar channel.
+Nintendo 3DS Pokémon Dream Radar data is not a Pokémon.
+To send to the box please have 6 Pokémon in your party.
+Sending Pokémon to a box.
+Item being sent to bag.
