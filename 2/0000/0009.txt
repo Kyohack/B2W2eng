@@ -1,8 +1,8 @@
-Begin the battle\xfffeat the proper location!
-Please wait a moment.\xfffe(B to cancel)
-Then please choose\xfffethree Pokémon to enter.\xf000븁\x0000
-Then please choose\xfffefour Pokémon to enter.\xf000븁\x0000
-Then please choose\xfffesix Pokémon to enter.\xf000븁\x0000
-Quit the game?\xfffeAre you sure?
-Quitting.\xfffePlease wait.
-Saw \xf000Ā\x0001\x0000's\xfffeTrainer Case!
+Please assume the position\xfffeto start the battle.
+Please wait.\xfffe... B Button: CANCEL
+Well then, please select the\xfffe3 participating Pokémon.\xf000븁\x0000
+Well then, please select the\xfffe4 participating Pokémon.\xf000븁\x0000
+Well then, please select the\xfffe6 participating Pokémon.\xf000븁\x0000
+Do you wish to cancel\xfffethe battle?
+Canceling the battle.\xfffePlease wait...
+\xf000Ā\x0001\x0000's Trainer Case\xfffewas shown!
