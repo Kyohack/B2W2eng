@@ -145,9 +145,9 @@ Lv. 80 and up
 Lv. 90 and up
 Lv. 100
 \xf000봂\x0000Return
-ポケモンを　ＧＴＳに\xfffeおくりだして　います
-ＧＴＳに　ポケモンが\xfffeとうろく　されました！\xf000븁\x0000
-ポケモンを　ＧＴＳから\xfffeうけとっています
+He has sent\xfffeto the ＧＴＳ！
+Pokemon has been registered\xfffein the ＧＴＳ！\xf000븁\x0000
+\xfffehas been recieved from the ＧＴＳ！
 ＧＴＳから　ポケモンを\xfffeひきとりました！\xf000븁\x0000
 ＧＴＳと　ポケモンを　\xfffeこうかん　しています！
 ポケモンの　こうかんが\xfffeせいりつ　しました！\xf000븁\x0000
