@@ -143,8 +143,8 @@ Your items have been\xfffeorganized!
 おおいじゅんに\xfffeもちものを　せいり　しました！
 \xfffewants to organize in ascending order!
 ぜんぶ
-フリースペースへ
-もとのポケットへ
+Move to storage
+Move back
 Please select the\xfffeyou are looking for!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
