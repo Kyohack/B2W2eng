@@ -116,23 +116,23 @@ Bridge Gate
 Route Gate
 Abyssal Ruins
 Aspertia City
-タチワキシティ
-セイガイハシティ
-ポケウッド
-ジョインアベニュー
-サンギタウン
-ヤマジタウン
+Virbank City
+Seigaiha City
+Pokèwood
+Join Avenue
+Sangi Town
+Yamaji Town
 Route 19
 Route 20
 Route 21
 Route 22
 Route 23
-ヒウンげすいどう
-サンギぼくじょう
-タチワキコンビナート
-リバースマウンテン
-ストレンジャーハウス
-チャンピオンロード
+Castelia Canalization
+Sangi Ranch
+Virbank Complex
+Rebirth Mountain
+Stranger House
+Victory Road
 プラズマフリゲート
 こだいのぬけみち
 ヤーコンロード
@@ -142,7 +142,7 @@ Route 23
 うみべのどうけつ
 こころのくうどう
 かくしあな
-マリンチューブ
+Marine Tube
 タチワキゲート
 Aspertia Gate
 しぜんほごく
