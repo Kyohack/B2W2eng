@@ -1,45 +1,45 @@
-もう１つのＤＳに　ポケットモンスターの\xfffeダイヤモンド・パール・プラチナ・\xfffeハートゴールド・ソウルシルバー\xfffeいずれかの　ソフトを　セットして\xfffeでんげんを　いれた　あとに\xfffeうえがめんを　さんこうに　して\xfffe『ＤＳダウンロードプレイ』から\xfffe『ポケシフター　ＩＤ：\xf000Ȅ\x0001\x0000』を\xfffeえらんでください
-もう１つの　ＤＳに\xfffeデータを　おくっています
-もう１つの　ＤＳで\xfffeポケモンを　えらんでください
-ポケシフター　きどうちゅう
-ポケシフター　じっけんちゅう……
-じっけんデータを\xfffeじゅしん　しています
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました\xf000븂\x0001<
-ポケシフターを\xfffeしゅうりょうしています\xf000븂\x0001<
-ポケシフターを　ちゅうししますか？
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
-もう１つの　ＤＳの\xfffeけっていを　まっています
-ポケシフター　ＩＤ：\xf000Ȅ\x0001\x0000
-ポケットモンスターブラック２\xfffeポケシフター　プログラム
-ポケットモンスターホワイト２\xfffeポケシフター　プログラム
-てんそうマシン　ＩＤ:\xf000Ȅ\x0001\x0000
-ポケットモンスターブラック２\xfffeてんそうマシン　プログラム
-ポケットモンスターホワイト２\xfffeてんそうマシン　プログラム
-Yes
-No
-もう１つのＤＳに　ポケットモンスターの\xfffeダイヤモンド・パール・プラチナ・\xfffeハートゴールド・ソウルシルバー\xfffeいずれかの　ソフトを　セットして\xfffeでんげんを　いれた　あとに\xfffeしたがめんを　さんこうに　して\xfffe『ＤＳダウンロードプレイ』から\xfffe『てんそうマシン　ＩＤ：\xf000Ȅ\x0001\x0000』を\xfffeえらんでください\xfffeＢボタン：キャンセル
-てんそうマシン　きどうちゅう！\xfffeしばらく　おまちください
-えいがのポケモンが　\xf000Ȃ\x0001\x0000ひき　います\xfffe\xf000Ȃ\x0001\x0000ひき　すべてを\xf000븁\x0000\xfffeポケットモンスターブラックに\xfffeつれてきますが　よろしいですか？
-えいがのポケモンが　\xf000Ȃ\x0001\x0000ひき　います\xfffe\xf000Ȃ\x0001\x0000ひき　すべてを\xf000븁\x0000\xfffeポケットモンスターホワイトに\xfffeつれてきますが　よろしいですか？
-ボックスに　あきが　ありません！\xfffeボックスを　せいりしてください！\xf000븁\x0000
-てんそうマシンで\xfffeポケモンを　てんそうちゅうです！\xfffeしばらく　おまちください
-もっている　どうぐは　バッグに\xfffeもどりますが　よろしいですか？
-バッグに　いっぱいの　どうぐは\xfffeきえてしまいますが　よろしいですか？
-てんそうマシンで　ポケモンを\xfffeつれてくるのを　ちゅうし　しますか？
-ポケモンの　てんそうを\xfffeちゅうし　します！\xf000븁\x0000
-えいがの　ポケモンを　\xf000Ȃ\x0001\x0000ひき\xfffeぶじに　てんそうできました！\xf000븁\x0000\xfffeてんそうした　ポケモンは\xfffeボックスに　はいりました！\xf000븁\x0000
-ロックカプセルが　みつかりました。\xfffeロックカプセルを　ひきとりますか？
-てんそうマシンで\xfffeロックカプセルを　てんそうちゅうです！\xfffeしばらく　おまちください
-ロックカプセルを\xfffeぶじに　てんそうできました！\xf000븁\x0000\xfffeてんそうした　ロックカプセルは\xfffeバッグの　たいせつなものポケットに\xfffeはいりました！\xf000븁\x0000
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-てんそうマシンの\xfffeさぎょうが　おわりました\xfffeもう１つの　ＤＳの\xfffeでんげんを　きってください\xf000븁\x0000
-ひでんわざを　おぼえている\xfffeポケモンを　てんそうマシンで\xfffeつれてくる　ことが　できません！\xf000븁\x0000\xfffeおぼえていない　ポケモンを\xfffe\xf000Ȃ\x0001\x0000ひき　つれてきます！\xf000븁\x0000
-ロックカプセルは　すでに\xfffeうけとっています\xf000븁\x0000
-セーブに　しっぱいしました\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
-レポートに　かきこみました\xf000븁\x0000
-てんそうできる　ものが　\xfffeありませんでした\xf000븁\x0000
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください\xf000븁\x0000\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
-てんそうマシンを　ちゅうししますか？
-ＤＳワイヤレスつうしんを\xfffeかいし　します
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
+Please insert a Pokémon\xfffeDiamond, Pearl, Platinum, HeartGold,\xfffeor SoulSilver Version Game Card in the\xfffeother DS system and turn it on. Then\xfffeselect “Poké Transfer ID: \xf000Ȅ\x0001\x0000"\xfffefrom “DS Download Play."
+Sending data to\xfffethe other DS system.
+Please select Pokémon\xfffein the other DS system.
+Activating Poké Transfer...
+Testing Poké Transfer...
+Receiving test data...
+Saving...\xfffeDon't turn off the power.
+The game has been saved.\xf000븂\x0001<
+Poké Transfer will end.\xf000븂\x0001<
+Will you cancel Poké Transfer?
+Unable to connect to the\xfffeother DS system.\xf000븁\x0000
+Waiting for the other DS system's\xfffedecision.
+Poké Transfer ID: \xf000Ȅ\x0001\x0000
+Pokémon Black Version\xfffePoké Transfer Program
+Pokémon White Version\xfffePoké Transfer Program
+Relocator ID: \xf000Ȅ\x0001\x0000
+Pokémon Black Version\xfffeRelocator Program
+Pokémon White Version\xfffeRelocator Program
+YES
+NO
+Please insert a Pokémon Diamond,\xfffePearl, Platinum, HeartGold, or\xfffeSoulSilver Version Game Card in the\xfffeother DS system and turn it on.\xfffe\xfffeThen select\xfffe“Relocator ID: \xf000Ȅ\x0001\x0000"\xfffefrom “DS Download Play."\xfffe\xfffePress the B Button to cancel.
+Activating Relocator...\xfffePlease stand by.
+No. of specially distributed Pokémon: \xf000Ȃ\x0001\x0000\xfffeWill you transfer these Pokémon\xf000븁\x0000\xfffeto Pokémon Black Version?
+No. of specially distributed Pokémon: \xf000Ȃ\x0001\x0000\xfffeWill you transfer these Pokémon\xf000븁\x0000\xfffeto Pokémon White Version?
+There is no room left in the PC!\xfffePlease make some room.\xf000븁\x0000
+Transferring Pokémon\xfffewith the Relocator.\xfffePlease stand by...
+Held items will be put in\xfffethe Bag. Is that OK?
+When the Bag is full of a certain item, you'll\xfffelose held items of that kind. Is that OK?
+Will you cancel transferring Pokémon\xfffewith the Relocator?
+Pokémon transfer\xfffewill be canceled.\xf000븁\x0000
+No. of specially distributed Pokémon\xfffesafely transferred: \xf000Ȃ\x0001\x0000!\xf000븁\x0000\xfffeThe machine has transferred\xfffethese Pokémon to the PC!\xf000븁\x0000
+Found a Lock Capsule.\xfffeWill you take the Lock Capsule?
+The Lock Capsule is being transferred\xfffewith the Relocator.\xfffePlease wait a moment...
+The Lock Capsule was safely\xfffetransferred. It was put away\xfffein the Key Items Case.\xf000븁\x0000
+Saving... Please do not turn off the\xfffepower on either system.
+The Relocator is done.\xfffePlease turn the power off in the\xfffeother DS system.\xf000븁\x0000
+This Pokémon knows a hidden move.\xfffeIt cannot transfer\xfffewith the Relocator.\xf000븁\x0000\xfffeNo. of Pokémon with no HM: \xf000Ȃ\x0001\x0000!\xf000븁\x0000
+You have already received\xfffethe Lock Capsule.\xf000븁\x0000
+Save failed...\xfffeThe Relocator will close.\xf000븁\x0000
+The data has been saved.\xf000븁\x0000
+Nothing was found to be\xfffetransferred.\xf000븁\x0000
+The software inserted is incorrect.\xfffeThe Relocator will close.\xf000븁\x0000
+Do you want to cancel\xfffethe Relocator?
+DS Wireless Communications\xfffewill be launched.
+Error reading the save file.\xf000븁\x0000\xfffeThere may not be a save file,\xfffeor the save file may be corrupted.\xf000븁\x0000\xfffeThe Relocator will close.\xf000븁\x0000
