@@ -27,8 +27,8 @@ Unregistered
 \xf000Ā\x0001\x0000'S VIDEO
 DELETE MY VIDEO
 DELETE OTHER VIDEOS
-あき
-\xf000Ā\x0001\x0000　のきろくをけす
+Autumn
+Delete \xf000Ā\x0001\x0000's Records
 SEARCH BY RANK
 SEND DATA
 NEWEST 30
@@ -43,7 +43,7 @@ SEND PHOTO
 VIEW PHOTOS
 SEND
 Please choose the Pokémon you want to see.
-Photo of \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
+\xf000Ā\x0001\x0000 Portraits\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 Photo
 Send Box Data
@@ -70,9 +70,9 @@ This Week’s Rankings
 Last Week’s Rankings
 Switch Rankings
 Switch Teams
-Team：Trainer Type
-Team：Birth Month
-team：Favorite Pokémon
+Team： Trainer Type
+Team： Birth Month
+Team： Favorite Pokémon
 \xf000Ā\x0001\x0001：\xf000Ď\x0001\x0000
 \xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000がつうまれ
 \xf000Ā\x0001\x0001：\xf000ā\x0001\x0000
@@ -91,7 +91,7 @@ TOP-RANKED BATTLE VIDEOS\xfffeBATTLE SUBWAY
 LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
 
 Where would you like to save\xfffe\xf000Ā\x0001\x0000's Battle Video?
-うわがきほぞん
+Overwrite
 Is it OK to delete\xfffe\xf000Ā\x0001\x0000's Battle Video?
 VIEW BATTLE VIDEOS
 SEND BATTLE VIDEO
@@ -101,7 +101,7 @@ Search by Video NO.
 Search by Facility
 Search by Pokémon
 Search Your Location
-ＯＫ！
+Ok!
 Please enter the Video Number.
 Please choose the facility.
 Please choose the Pokémon.
@@ -121,7 +121,7 @@ The same Battle Video can't be sent again.\xfffeTouch the Touch Screen to contin
 You have not registered your location.
 There is no Battle Video to send.
 \xf000ȁ\x0001\x0000
-つうしんたいせん
+Search by Pokémon
 BATTLE SUBWAY
 Location: \xfffe\xf000Ĥ\x0001\x0000
 \xf000봂\x0000SINGLE TRAIN
