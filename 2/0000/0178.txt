@@ -4,7 +4,7 @@ L\xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-／
+/
 ♂
 ♀
 Choose a Pokémon.
@@ -13,64 +13,64 @@ Move to where?
 Give to which Pokémon?
 Use on which Pokémon?
 Teach which Pokémon?
-ポケモンをえらんで　けってい
+Select a Pokémon.
 Deposit which Pokémon?
 Use on which Pokémon?
-どのポケモンと　がったい？
-\xf000Ă\x0001\x0000を\xfffeどうする？
-もちものを\xfffeどうしますか？
-メールを\xfffeどうしますか？
-どのわざを\xfffeかいふくする？
-どのわざを\xfffeふやす？
-とった　メールを　パソコンに\xfffeてんそう　しますか？
+Use with which Pokémon?
+Do what with\xfffe\xf000Ă\x0001\x0000?
+Do what with\xfffean item?
+Do what with\xfffemail?
+Restore\xfffewhich move?
+Boost the PP\xfffeof which move?
+Send the removed Mail to\xfffeyour PC?
 Yes
 No
-とった　メールを　パソコンに\xfffeてんそう　しました
-メールを　とると　メッセージが\xfffeきえてしまいますが　よろしいですか？
+The Mail was sent to your PC.
+If the Mail is removed, its written\xfffemessage will be lost. Is that OK?
 Yes
 No
-パソコンの　メールボックスが\xfffeいっぱいです！
-ポケモンから　メールを\xfffeとりました！
-\xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえたい……\xf000븁\x0000\xfffeしかし　\xf000Ă\x0001\x0000は　わざを　４つ\xfffeおぼえるので　せいいっぱいだ！\xf000븁\x0000\xfffe\xf000ć\x0001\x0001の　かわりに\xfffeほかの　わざを　わすれさせますか？
+Your PC's Mailbox is full.
+Mail was taken from the\xfffePokémon.
+\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeHowever, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000\xfffeShould a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
 Yes
 No
-それでは……　\xf000ć\x0001\x0001を\xfffeおぼえるのを　あきらめますか？
+Give up on learning the move\xfffe\xf000ć\x0001\x0001?
 Yes
 No
-\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001を\xfffeおぼえずに　おわった！
-どの　わざを\xfffeわすれさせたい？
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014　…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいにわすれた！\xf000븁\x0000\xfffeそして……！
-\xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえた！\xf000븅\x0001\x0002\xf000븅\x0001\x0005
-\xf000Ă\x0001\x0000と　\xf000ć\x0001\x0001は\xfffeあいしょうが　わるかった！\xf000븁\x0000\xfffe\xf000ć\x0001\x0001は　おぼえられない！
-\xf000Ă\x0001\x0000は　すでに\xfffe\xf000ć\x0001\x0001を　おぼえています
-\xf000Ă\x0001\x0000の　たいりょくが\xfffe\xf000Ȃ\x0001\x0001　かいふくした！
-\xf000Ă\x0001\x0000の　どくは\xfffeきれい　さっぱり　なくなった！
-\xf000Ă\x0001\x0000の\xfffeからだの　しびれが　とれた！
-\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-\xf000Ă\x0001\x0000の\xfffeからだの　こおりが　とけた！
-パワーポイントが　かいふくした！　
-\xf000Ă\x0001\x0000は\xfffeげんきを　とりもどした！
-\xf000Ă\x0001\x0000は\xfffeけんこうに　なった！
-\xf000ć\x0001\x0000の\xfffeパワーポイントが　ふえた！
+\xf000Ă\x0001\x0000 did not learn\xfffe\xf000ć\x0001\x0001.
+Which move should\xfffebe forgotten?
+1, \xf000븂\x0001\x00142, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Ta-da!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...
+\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+\xf000Ă\x0001\x0000 and \xf000ć\x0001\x0001\xfffeare not compatible.\xf000븁\x0000\xfffe\xf000ć\x0001\x0001 can't be learned.
+\xf000Ă\x0001\x0000 already knows\xfffe\xf000ć\x0001\x0001.
+\xf000Ă\x0001\x0000's HP was restored\xfffeby \xf000Ȃ\x0001\x0001 point(s).
+\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
+\xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
+\xf000Ă\x0001\x0000's burn was healed.
+\xf000Ă\x0001\x0000 was thawed out.
+PP was restored.
+\xf000Ă\x0001\x0000 recovered from\xfffefainting!
+\xf000Ă\x0001\x0000 became healthy.
+\xf000ć\x0001\x0000's PP\xfffeincreased.
 \xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
 \xf000Ă\x0001\x0000の\xfffeメロメロが　とけた！
-\xf000Ă\x0001\x0000は　\xf000č\x0001\x0001の\xfffeきそポイントが　あがった！
-あたらしい　バッジを　てにするまで\xfffeまだ　つかえません
-メールを　はずさないと\xfffeどうぐは　もてません！
-\xf000Ă\x0001\x0000は　すでに\xfffe\xf000ĉ\x0001\x0001を　もっています\xf000븁\x0000\xfffeもっている　どうぐを\xfffeとりかえますか？
+\xf000Ă\x0001\x0000's base \xf000č\x0001\x0001\xffferose!
+This can't be used until a new\xfffeBadge is obtained.
+Must remove Mail before the\xfffePokémon is allowed to hold an item.
+\xf000Ă\x0001\x0000 is already holding\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffeWould you like to switch the\xfffetwo items?
 Yes
 No
-\xf000Ă\x0001\x0000は　どうぐを\xfffeなにも　もっていません！
-\xf000Ă\x0001\x0000から\xfffe\xf000ĉ\x0001\x0001を　あずかりました！
-バッグが　いっぱいで\xfffeどうぐを　うけとれません！
-\xf000ĉ\x0001\x0001を　あずかり\xfffe\xf000ĉ\x0001\x0002を　もたせました！
-さんかを　やめますか？
+\xf000Ă\x0001\x0000 isn't holding\xfffeanything.
+Received the \xf000ĉ\x0001\x0001\xfffefrom \xf000Ă\x0001\x0000.
+The Bag is full.
+The \xf000ĉ\x0001\x0001 was taken and\xfffereplaced with the \xf000ĉ\x0001\x0002.
+Do you quit to join?
 Yes
 No
-ちょうせんを　やめますか？
+I quit the challenge?
 Yes
 No
-\xf000Ă\x0001\x0000は\xfffeめを　さました！
+\xf000Ă\x0001\x0000 woke up.
 ここを　だっしゅつ　して\xfffe\xf000ą\x0001\x0000に　もどる？
 Yes
 No
@@ -78,37 +78,37 @@ No
 Yes
 No
 さんか　できる　ポケモンは\xfffe２ひき　まで　です！
-すでに　なみのり　しています
-ここでは　つかえません
-つかっても　こうかがないよ
+You're already surfing.
+You can't use that here.
+It won't have any effect.
 ひんしの　ポケモンには\xfffeつかえません
 てもちが　いっぱい　なので\xfffeぶんり　できません
 その　ポケモンとは\xfffeがったい　できません
 ひんしの　ポケモンとは\xfffeがったい　できません
 タマゴとは\xfffeがったい　できません
 ２ひき　そろっていません！
-\xf000Ă\x0001\x0000は\xfffeちょっと　なついた！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが　さがった！
-\xf000Ă\x0001\x0000は\xfffeさいこうに　なついていてる！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが　さがった！
-\xf000Ă\x0001\x0000は\xfffeちょっと　なついた！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントは　もうさがらない！
-\xf000Ă\x0001\x0000に\xfffe\xf000ĉ\x0001\x0001を　もたせた！
+\xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeHowever, its base \xf000č\x0001\x0001 fell!
+\xf000Ă\x0001\x0000 adores you!\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 fell!
+\xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 can't go lower.
+\xf000Ă\x0001\x0000 was given the\xfffe\xf000ĉ\x0001\x0001 to hold.
 \xf000Ă\x0001\x0000の\xfffe\xf000ĉ\x0001\x0001と\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002の\xfffe\xf000ĉ\x0001\x0003を　いれかえた！
 はっきんだまを　ギラティナには\xfffeいどうできない！
 はっきんだまは　ギラティナから\xfffeいどうできない！
 タマゴには　どうぐを\xfffeもたせられない！
-ポケモンを　えらんでください
-２ひき　そろっていません！
-３ひき　そろっていません！
-４ひき　そろっていません！
-５ひき　そろっていません！
-６ひき　そろっていません！
-さんか　できる　ポケモンは\xfffe１ひき　です！
-さんか　できる　ポケモンは\xfffe２ひき　まで　です！
-さんか　できる　ポケモンは\xfffe３ひき　まで　です！
-さんか　できる　ポケモンは\xfffe４ひき　まで　です！
-さんか　できる　ポケモンは\xfffe５ひき　まで　です！
-ボックスから　メールを　うつしました
-すでに　どうぐを　もっているので\xfffeメールを　もたせることが　できません
-そのポケモンには\xfffeつかえません
+Choose a Pokémon.
+Two Pokémon are needed.
+Three Pokémon are needed.
+Four Pokémon are needed.
+Five Pokémon are needed.
+Six Pokémon are needed.
+No more than one Pokémon\xfffemay enter.
+No more than two Pokémon\xfffemay enter.
+No more than three Pokémon\xfffemay enter.
+No more than four Pokémon\xfffemay enter.
+No more than five Pokémon\xfffemay enter.
+Mail was transferred from\xfffethe Mailbox.
+This Pokémon is holding an item.\xfffeIt cannot hold Mail.
+This can't be used on\xfffethat Pokémon.
 ここを　だっしゅつして\xfffe\xf000ą\x0001\x0000に　もどる？
 Yes
 No
@@ -175,8 +175,8 @@ Speed
 タマゴを\xfffeどうする？
 タマゴを　えらんでください
 ぐるぐるこうかんを\xfffeやめますか？
-けってい
-\xf000ā\x0001\x0000は\xfffeべつの　すがたに　へんかした
+Confirm
+\xf000ā\x0001\x0000は\xfffe changed Form.
 \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffeもつことが　できない！
 この　ばしょでは\xfffe\xf000ĉ\x0001\x0000を　もたせられません
 \xf000Ā\x0001\x0000は　たいきちゅう
@@ -189,4 +189,4 @@ Speed
 つうしんたいきちゅう
 Yes
 No
-\xf000ĉ\x0001\x0000が　なくなりました
+You used your last \xf000ĉ\x0001\x0000.
