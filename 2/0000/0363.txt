@@ -1,8 +1,8 @@
-もじモードを　えらんでください
-おとこのこ？　おんなのこ？
-つうしんきのう　を　オンにしますか？
-ちゅうい！
-このゲームを　さいだいげんに　たのしむ\xfffeためには　むせんつうしんきのうを\xfffeオンに　してください\xfffeひこうきや　びょういんなど\xfffeむせんつうしんきのうを　きんしに　している\xfffeばしょでは　オフに　してください\xfffeゲームちゅうの　せっていがめんでも\xfffeへんこう　することが　できます　
+Please choose a language.
+Are you a boy or a girl?
+Launch C-Gear communications?
+Warning!
+You can enjoy this game to its fullest when\xfffewireless communications are available.\xfffeWhere it's prohibited to use wireless\xfffecommunications, such as airplanes and\xfffehospitals, please set wireless\xfffecommunications to OFF.\xfffeYou can also change this setting\xfffeusing the C-Gear while playing the game.
 ひらがなモード
 漢字モード
 おとこのこ
