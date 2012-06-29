@@ -11,27 +11,27 @@
 しばらく　おまちください
 ともだちコード
 フィーリングチェック
-ちゅうだん　しますか？
+Do you want to abort operations?
 こうかんする　あいてに\xfffeせきがいせんを　むけてください
 ポケモンこうかん
 てもち
 \xf000Ă\x0001\x0000と　\xf000Ă\x0001\x0001を\xfffeこうかん　しますか？
 Ｌｖ．\xf000Ȃ\x0001\x0000
-しゅうりょうしますか？
+Are you sure you want to cancel?
 こうかんしました
 しばらく　おまちください
 あそぶないようが　ちがったので\xfffeさいしょに　もどります
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
+Would you like to save the game\xfffeupto this point?
 Yes
 No
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
+Saving... Don't turn off power!
 No.\xf000Ȃ\x0001\x0001
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
 ＨＰ
-こうげき
-ぼうぎょ
-とくこう
+Attack
+Defense
+Sp. Atk
 とくぼう
 すばやさ
 せいかく
@@ -95,7 +95,7 @@ No.\xf000Ȃ\x0001\x0001
 \xf000봂\x0000レ
 \xf000봂\x0000ロ
 \xf000봂\x0000ワ
-こうかんは\xfffeキャンセル　されました
+Trade has been canceled.
 そのポケモンを　こうかんすると\xfffeぼうけん　できなくなっちゃうよ！
 あいてが　こうかんできない\xfffeポケモンを　だしています
 じぶんが　こうかんできない\xfffeポケモンを　だしています
