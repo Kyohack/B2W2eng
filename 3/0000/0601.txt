@@ -1,35 +1,35 @@
-ベル『おうい！\xfffeこっち　だよ！\xf000븁\x0000
-ベル『ねえねえ！\xfffeこっち　だよ！\xf000븁\x0000
-ベル『なんだか　あのひの\xfffe１ばんどうろを　おもいだしちゃうな\xf000븁\x0000
-はーい！　それでは\xfffeせつめいを　はじめるねえ！\xf000븁\x0000\xfffeポケモンずかんの　ページはね\xfffeポケモンと　であうことで\xf000븀\x0000\xfffeじどうてきに　うまっていくの！\xf000븁\x0000\xfffeで　ポケモンを　つかまえたら\xfffeさらに　くわしい　じょうほうが\xf000븀\x0000\xfffeついか　されまーす！\xf000븁\x0000\xfffeということで　おてほん！\xf000븁\x0000\xfffeおねえさんが　じっさいに\xfffeポケモンを　つかまえて　みせるよお！\xf000븁\x0000
-ベル『よかったあ！\xfffeポケモン　つかまったよお\xf000븁\x0000\xfffeあっ　あのね\xfffeいまの　ポイントを\xf000븀\x0000\xfffeせつめい　するね\xf000븁\x0000\xfffeまず　げんきな　ポケモンは\xfffeつかまえにくいの！　おぼえておいて\xf000븁\x0000\xfffeだから　ポケモンの　たいりょくを\xfffeへらしたほうが　いいんだよ\xf000븁\x0000\xfffeつかまえたい　ポケモンを\xfffeじぶんの　ポケモンの　わざで\xf000븀\x0000\xfffeねむらせたり　まひさせると\xf000븀\x0000\xfffeさらに　つかまえやすくなるよ！\xf000븁\x0000
-おともだちに　タウンマップを\xfffeとどけに　いくんでしょ！\xf000븁\x0000
-となりまちの　サンギタウンへは\xfffeこのまま　まっすぐ　すすめば　いいよ\xf000븁\x0000
-それじゃあ\xfffeたっくさんの　ポケモンと　であって\xf000븀\x0000\xfffeたっくさん　つかまえてねえ\xf000븁\x0000
-？？？『そこの　トレーナー！！\xf000븁\x0000
-わしは　アデク！\xf000븁\x0000\xfffeポケモンと　ともにあゆむ……　その\xfffeすばらしさを　みなに　つたえておる\xf000븀\x0000\xfffeものずきな　ポケモントレーナーよ！\xf000븁\x0000
-おまえさんは……？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffeふむう！　ヒオウギの\xfffe\xf000Ā\x0001\x0000と　いうのか！\xf000븁\x0000
-おまえさんの　\xf000ā\x0001\x0001\xfffeなかなか　いい　ポケモンだな！\xf000븁\x0000\xfffeだが　トレーナーである\xfffeおまえさんは　ちょいと　みじゅく……\xf000븁\x0000\xfffeよし！　ちょいと　きたえてやろう\xfffeわしに　ついてこい！\xf000븁\x0000
-あのさ　\xfffeだんさジャンプって　しってる？
-そっか……\xf000븁\x0000\xfffeこんな　だんさなら　ジャンプして\xfffeとびおりられるって　しってるよね
-そうなんだ……\xfffeじゃあ　ぼくに　ちゅうもく！\xf000븁\x0000
-だんさの　うえから……\xf000븁\x0000\xfffeぴょーん！！\xf000븁\x0000
-ねっ！　だんさを　とびおりたら\xfffeちかみち　できて　いいでしょ！
-ベル『おうい！\xf000븁\x0000
-ベル『ねえねえ！\xf000븁\x0000
+Bianca: Hey!\xfffeOver here!\xf000븁\x0000
+Bianca: Hey, hey!\xfffeOver here!\xf000븁\x0000
+Bianca: I still remember when I learned\xfffeabout all of this on Route 1.\xf000븁\x0000
+Yeeaah!　I'll explain it\xfffein details!\xf000븁\x0000\xfffeThe Pokédex's pages update automatically\xfffewhenever you meet a Pokémon!\xf000븁\x0000\xfffeMoreover, it's set up so that\xfffeyou obtain even more information\xf000븀\x0000\xfffewhen you catch a Pokémon!\xf000븁\x0000\xfffeTo make this clear, I'm going to\xfffedemonstrate how to catch a Pokémon!\xf000븁\x0000
+Bianca: Did you see that,\xfffejust now?\xf000븁\x0000\xfffeHere's how it goes, step by step.\xfffeFirst, reduce the Pokémon's HP!\xf000븁\x0000\xfffePokémon that still have all of\xfffetheir energy are difficult to catch.\xf000븁\x0000\xfffeIf you can, use your Pokémon's moves to\xfffemake the Pokémon you want to catch\xf000븀\x0000\xfffefall asleep. Or paralyze it!\xf000븁\x0000
+You have to go give that\xfffeTown Map to your friend!\xf000븁\x0000
+You can follow this path\xfffestraight to Sangi Town.\xf000븁\x0000
+Well I have another Pokémon to\xfffegive to a trainer.\xf000븀\x0000\xfffeSee you later!\xf000븁\x0000
+???: Hey, trainer!!\xf000븁\x0000
+I am Alder!\xf000븁\x0000\xfffeTraveling with Pokémon......　その\xfffeit shows you the wonders of the\xf000븀\x0000\xfffebetween trainer and Pokémon!\xf000븁\x0000
+And who are you...?\xf000븁\x0000\xfffe......　......　......\xfffe......　......　......\xf000븁\x0000\xfffeAh! You're\xf000Ā\x0001\x0000\xfffeof Aspertia!\xf000븁\x0000
+Your　\xf000ā\x0001\x0001 is\xfffea great Pokémon!\xf000븁\x0000\xfffeA young trainer starting\xfffeon their journey......\xf000븁\x0000\xfffeAlright! Come on and\xfffemeet me ahead!\xf000븁\x0000
+Do you know about\xfffejumping these ledges?
+Yeah......\xf000븁\x0000\xfffeYou can just jump off of\xfffethese as a shortcut.
+In that case......\xfffeI'll show you!\xf000븁\x0000
+From up here......\xf000븁\x0000\xfffeJump!!\xf000븁\x0000
+There!　Jumping off these ledges\xfffeis like a shortcut!
+Bianca: Hey!\xf000븁\x0000
+Bianca: Hey, hey!\xf000븁\x0000
 ごめんね！\xf000븁\x0000\xfffeあなたに　たくした　ポケモンずかん\xfffeパワーアップしておくの　わすれてたよ\xf000븁\x0000\xfffeそのなも　せいそくちリスト！\xfffeこれ　すごいんだよ\xf000븀\x0000\xfffeちょっと　ずかんを　かりるね！\xf000븁\x0000
-\xf000Ā\x0001\x0000の　ポケモンずかんが\xfffeパワーアップ　した！
+\xf000Ā\x0001\x0000's Pokédex was upgraded!
 せいそくちリストは　ばしょ　ごとに　\xfffeどんな　ポケモンが　いるのか\xf000븁\x0000\xfffeたしかめることが　できる\xfffeポケモンずかんの　モード　なんだよ！\xf000븁\x0000
 つかいかたは　ずかんを　ひらいて\xfffeがめん　ひだりしたの\xf000븀\x0000\xfffe「せいそくち」の　ところに　タッチ！\xf000븀\x0000\xfffeつぎに　みたい　ばしょを　えらんでね\xf000븁\x0000\xfffeその　ばしょに　せいそく　する\xfffeポケモンを　すべて　みたり\xf000븀\x0000\xfffeつかまえたら　おしえてくれるよ！\xf000븁\x0000\xfffeもういちど\xfffeつかいかたの　せつめいを　きく？
 ポケモンずかんを　うめることは\xfffeきみの　せかいを　ひろげること！\xf000븁\x0000\xfffeだから　いろんな　ばしょに　いって\xfffeいろんな　ポケモンに　であってね！\xf000븁\x0000\xfffeじゃあねえ\xf000븁\x0000
-あのね！　くさむらの　なかの\xfffeポケモンを　さがしているの！\xf000븁\x0000\xfffeそう！　ポケモンに　あいたくなきゃ\xfffeくさむらを　さければ　いいのよね！
-\xf000Ā\x0001\x0000！\xf000븁\x0000
+What am I doing?　I'm searching for\xfffePokémon in the grass!\xf000븁\x0000\xfffeYeah!　Stay of out the grass if\xfffeyou want to avoid Pokémon!
+\xf000Ā\x0001\x0000!\xf000븁\x0000
 すまぬ！　だいじなことを\xfffeつたえるのを　わすれておった！\xf000븁\x0000\xfffeまずは　これを　うけとれい！\xf000븁\x0000
 いま　わたしたのは\xfffeオレンのみ　という　きのみだ！\xf000븁\x0000\xfffeポケモンに　あたえると\xfffeたいりょくを　かいふく　するぞ！\xf000븁\x0000
 さらに！　ポケモンに\xfffeきのみを　もたせておくとだな\xf000븁\x0000\xfffeたたかいの　さなか\xfffeたいりょくが　へったとき　ポケモンが\xf000븀\x0000\xfffeじぶんで　たべて　げんきになる！\xf000븁\x0000
-さてと……　さきほど\xfffeジムリーダーに　いどめと　いったが\xf000븁\x0000\xfffeヒオウギの　ジムリーダーは　とても\xfffeつよい　ポケモントレーナーだ！\xf000븁\x0000\xfffeだけど　あんじることは　ない！\xf000븁\x0000\xfffeともに　たたかう　ポケモンは\xfffeなにが　できるのか\xf000븁\x0000\xfffeそして　トレーナーである\xfffeおまえは　なにを　すべきか\xf000븀\x0000\xfffeかんがえれば　かならず　かてる！！\xf000븁\x0000
-そうして　どんどん\xfffeつよい　トレーナー　……そうだな\xf000븀\x0000\xfffeかくちの　ジムリーダーに　いどめ！\xf000븁\x0000\xfffeポケモンと　ちからを　あわせてこそ\xfffeポケモントレーナーとして　そだち\xf000븁\x0000\xfffeたくましくなるごとに\xfffeおまえたちの　せかいは　ひろがるぞ！\xf000븁\x0000
-１９ばんどうろ
-１９ばんどうろ
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeせっかくの　であいです\xfffeいろんな　ひとと　おはなししましょう！\xf000븁\x0000\xfffeきっと　みんなが　やくだつことを\xfffeおしえてくれる　はずです！
+さてと......　さきほど\xfffeジムリーダーに　いどめと　いったが\xf000븁\x0000\xfffeヒオウギの　ジムリーダーは　とても\xfffeつよい　ポケモントレーナーだ！\xf000븁\x0000\xfffeだけど　あんじることは　ない！\xf000븁\x0000\xfffeともに　たたかう　ポケモンは\xfffeなにが　できるのか\xf000븁\x0000\xfffeそして　トレーナーである\xfffeおまえは　なにを　すべきか\xf000븀\x0000\xfffeかんがえれば　かならず　かてる！！\xf000븁\x0000
+そうして　どんどん\xfffeつよい　トレーナー　......そうだな\xf000븀\x0000\xfffeかくちの　ジムリーダーに　いどめ！\xf000븁\x0000\xfffeポケモンと　ちからを　あわせてこそ\xfffeポケモントレーナーとして　そだち\xf000븁\x0000\xfffeたくましくなるごとに\xfffeおまえたちの　せかいは　ひろがるぞ！\xf000븁\x0000
+Route 19
+Route 19
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeYou came all this way,\xfffeso talk to everyone!\xf000븁\x0000\xfffeThey're sure to tell you\xfffehelpful information!
 おまえも　なみのり　つかえるの？\xfffeオー　おれたち　なみのりフレンド！
