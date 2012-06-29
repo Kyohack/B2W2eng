@@ -71,9 +71,9 @@ Powders:　\xf000ȃ\x0001\x0000
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000HM\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Berry Powder
-Played the Poke Flute!\xfffeWow! That sounds great!
-Played the Poke Flute!
-The Pokemon heard the\xfffeflute and woke up.
+Played the Poké Flute!\xfffeWow! That sounds great!
+Played the Poké Flute!
+The Pokémon heard the\xfffeflute and woke up.
 Move
 You cannot buy\xfffe\xf000ĉ\x0001\x0000.
 Sell how many\xfffe\xf000ĉ\x0001\x0000?
@@ -140,22 +140,22 @@ Your items have been\xfffeorganized!
 \xf000Ē\x0001\x0000
 \xfffewants to organize by type!
 \xfffewants to organize by name!
-おおいじゅんに\xfffeもちものを　せいり　しました！
+\xfffewants to organize in descending order!
 \xfffewants to organize in ascending order!
-ぜんぶ
+Total
 Move to storage
 Move back
 Please select the\xfffeyou are looking for!
-\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
+\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001 has been found!
+\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 has been moved!
+\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 was returned!
 How do you want to organize?
 By type
 By name
-おおいじゅん
+Most to least
 Least to most
 Numerical order
-もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
+\xfffe\xf000Ȃ\x0001\x0001 belongings found!
 \xfffewants to organize in numerical order!
 Not found
 Put away
