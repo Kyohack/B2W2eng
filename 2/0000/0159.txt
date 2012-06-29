@@ -1,16 +1,16 @@
 ことばを　えらんでね！
-たいせんまえの　ことばを　かんがえよう
-かったときの　きめゼリフを　かんがえよう
-まけたときの　いいわけを　かんがえよう
+Think up a pre-battle intro!
+Think up a cool winning line!
+Think up a losing excuse!
 はやっている　ものは？
-ユニオンあいさつを　かんがえよう
+Think up a Union greeting!
 これで　いいですか？
 なにか　ことばを　いれてください！
 なにも　しないで　やめますか？
 Yes
 No
-グループ\xfffeモード
-あいうえお\xfffeモード
+GROUP\xfffeMode
+ABC\xfffeMode
 USE
 CONFIRM
 QUIT
