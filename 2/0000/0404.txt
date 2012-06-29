@@ -1,52 +1,52 @@
-トーナメントダウンロード
+Download Tournament
 \xf000Ļ\x0001\x0000
-バトルルール：
+Battle Rules:
 Single Battle
 Double Battle
 Triple Battle
 Rotation Battle
-トーナメントないよう：
-ほぞんした　トーナメント
-でられないポケモン
-もたせられない　どうぐ
-もたせられない　わざ
-なし
-トーナメントデータを　さがしています\xfffeしばらく　おまちください……
-ほぞんしたい　トーナメントを\xfffeえらんで　ください\xf000븁\x0000
-Ｗｉ－Ｆｉコネクションを\xfffeおわりに　しますか？
-Yes
-No
+Tournament Content:
+Saved Tournament
+Forbidden Pokémon
+Forbidden Items
+Forbidden Attacks
+None
+Searching for tournament data.\xfffePlease wait a moment...
+Please select the tournament\xfffeyou wish to save.\xf000븁\x0000
+Do you want to disconnect\xfffefrom Nintendo WFC?
+YES
+NO
 \xf000Ļ\x0001\x0000　を\xfffeほぞん　しますか？
-Yes
-No
-この　トーナメントは\xfffeすでに　ほぞん　しています\xf000븁\x0000
-トーナメントデータを\xfffeうけとりました！\xf000븁\x0000
-トーナメントを　ほぞん　しています\xfffeでんげんを　きらないでください……
-トーナメントデータを\xfffeほぞん　しました\xf000븁\x0000
-トーナメントデータが　いっぱいです\xfffeデータを　けしてください\xf000븁\x0000
-トーナメントデータを\xfffeけすのを　やめますか？
-Yes
-No
-\xf000Ļ\x0001\x0000　を\xfffeけしても　いいですか？
-Yes
-No
-\xf000Ļ\x0001\x0000　を\xfffeほんとうに　けしても　いいですか？
-Yes
-No
-トーナメントデータを\xfffeけしました\xf000븁\x0000
-データが　みつかりませんでした\xf000븁\x0000
-データが　みつかりませんでした\xf000븁\x0000
-データが　みつかりませんでした\xf000븁\x0000
-\xf000Ļ\x0001\x0000　を\xfffeどうしますか？
-くわしく　みる
-やめる
-さんかする　トーナメントを\xfffeえらんでください\xf000븁\x0000
-\xf000Ļ\x0001\x0000　に\xfffeさんか　しますか？
-さんか　する
-くわしく　みる
-やめる
+YES
+NO
+This tournament has\xfffealready been saved.\xf000븁\x0000
+Received the tournament data!\xf000븁\x0000
+Saving the tournament...\xfffeDon't turn off the power.
+Tournament data has been saved.\xf000븁\x0000
+Tournament data is full.\xfffePlease delete a tournament.\xf000븁\x0000
+Stop deleting tournament data?
+YES
+NO
+\xf000Ļ\x0001\x0000\xfffewill be erased.  Okay?
+YES
+NO
+\xf000Ļ\x0001\x0000\xfffecannot be recovered once it is\xfffegone.  Continue anyway?
+YES
+NO
+Tournament data\xfffehas been erased.\xf000븁\x0000
+Data could not be found.\xf000븁\x0000
+Data could not be found.\xf000븁\x0000
+Data could not be found.\xf000븁\x0000
+Do what with\xfffe\xf000Ļ\x0001\x0000?
+READ MORE
+QUIT
+Please select a\xfffetournament to join.\xf000븁\x0000
+Do you wish to join\xfffe\xf000Ļ\x0001\x0000?
+PARTICIPATE
+READ MORE
+QUIT
 \xf000ā\x0001\x0000
 \xf000ĉ\x0001\x0000
 \xf000ć\x0001\x0000
-Save
-トーナメントダウンロードを\xfffeしゅうりょう　しますか？
+SAVE
+Are you sure you want to stop\xfffedownloading tournaments?
