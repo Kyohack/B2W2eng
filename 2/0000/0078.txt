@@ -1,5 +1,5 @@
 メダルかくとくすう　もくひょう
-かくとくした　メダル
+Medals earned
 もっている　ヒントメダル
 \xf000봃\x0001\xf000Ȃ\x0001\x0000
 \xf000봃\x0001\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
@@ -7,15 +7,15 @@
 イチオシとうろくを\xfffeかいじょ　しました
 ヒントメダルは　イチオシに\xfffeとうろく　できません！
 ひょうじの　しかたを\xfffeどのように　かえますか？
-いちらんモード
-いちれつモード
-メダルだけみる
-ヒントだけみる
-しゅるいべつ
-なまえじゅん
-あたらしいもの
-もとにもどす
-やめる
+List mode
+Single column mode
+Show only medals
+Show only hints
+By type
+By name
+By newest
+Back to the original
+Quit
 \xf000봃\x0001かくとくした　ひづけ
 \xf000봃\x0001もらった　ひづけ
 \xf000봃\x0001\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000
