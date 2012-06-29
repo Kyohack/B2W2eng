@@ -1,5 +1,5 @@
-Pokémon Trainer
-Pokémon Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
 Youngster
 Lass
 School Kid
@@ -8,16 +8,16 @@ Smasher
 Linebacker
 Waiter
 Waitress
-Leader
-Leader
-Leader
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
 Nursery Aide
 Preschooler
 Preschooler
 Twins
 ⒆⒇ Breeder
 ⒆⒇ Breeder
-Leader
+Lenora
 no data
 no data
 no data
@@ -39,198 +39,198 @@ no data
 ⒆⒇ Trainer
 no data
 ⒆⒇ Trainer
-おぼっちゃま
-おじょうさま
-パイロット
-さぎょういん
-バスケせんしゅ
-けんきゅういん
+Rich Boy
+Lady
+Pilot
+Worker
+Hoopster
+Scientist
 no data
 ＯＬ
-エリートトレーナー
-エリートトレーナー
-カラテおう
-けんきゅういん
-サッカーせんしゅ
-ハチク
+Ace Trainer
+Ace Trainer
+Black Belt
+Scientist
+Striker
+Brycen
 no data
 no data
-スキンヘッズ
-せいそういん
-だいすきクラブ
-だいすきクラブ
-ドクター
-ナース
-バッドチーム
-バトルガール
-パラソルおねえさん
-ビジネスマン
-ビジネスマン
-ファンクラブ
-ファンクラブ
-ベテラントレーナー
-ベテラントレーナー
-ぼうそうぞく
-やきゅうせんしゅ
-やまおとこ
-マダム
-ジェントルマン
+Roughneck
+Janitor
+Pokéfan
+Pokéfan
+Doctor
+Nurse
+Hooligans
+Battle Girl
+Parasol Lady
+Clerk ⑭
+Clerk ⑭
+Backers
+Backers
+Veteran
+Veteran
+Biker
+Infielder
+Hiker
+Socialite
+Gentleman
+Team Plasma
+Elite Four
+Elite Four
+Elite Four
+Elite Four
 no data
-してんのう
-してんのう
-してんのう
-してんのう
-no data
-てつどういん
-かいパンやろう
-ビキニのおねえさん
-おまわりさん
-メイド
-サブウェイマスター
-ポケモントレーナー
-サイクリング
-サイクリング
-バイクずき
-no data
-no data
+Depot Agent
+Swimmer ⑭
+Swimmer ⑮
+Policeman
+Maid
+Subway Boss
+Champion
+Cyclist
+Cyclist
+Motorcyclist
 no data
 no data
-ゲームフリーク
 no data
 no data
-ポケモントレーナー
-プラズマだん
-サブウェイマスター
+GAME FREAK
 no data
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-タケシ
-カスミ
-マチス
-エリカ
-ナツメ
-カツラ
-サカキ
-ハヤト
-ツクシ
-アカネ
-マツバ
-シジマ
-ミカン
-ヤナギ
-イブキ
-アンズ
-ツツジ
-トウキ
-テッセン
-アスナ
-センリ
-ナギ
-フウ
-ラン
-アダン
-ポケモントレーナー
-ギタリスト
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-サブウェイマスター
 no data
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-サブウェイマスター
+⒆⒇ Trainer
+Team Plasma
+Subway Boss
 no data
-ヒョウタ
-ナタネ
-メリッサ
-スモモ
-マキシ
-トウガン
-スズナ
-デンジ
-グリーン
-ワタル
-ダイゴ
-ミクリ
-おとなのおねえさん
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-プラズマだん
-プラズマだん
-プラズマだん
-プラズマだん
-ポケモントレーナー
-プラズマだん
-プラズマだん
-チャンピオン
-かいじん
-ポケモントレーナー
-ゲームフリーク
-ポケモントレーナー
-ポケモントレーナー
-ヒーロー
-ヒーロー
-にんじゃ
-にんじゃ
-ＳＦたいいん
-ＳＦたいいん
-けんきゅういん
-けんきゅういん
-ふだんぎ
-ふだんぎ
-おうじさま
-おひめさま
-ハチクかん
-メカコンビ
-ＵＦＯ
-エイリアン
-あかいきり
-のろわれたおじさん
-のろわれたえんじ
-こだいぞう
-のろわれたしんし
-こうごうしいメイド
-まじょ
-ぬいぐるみ
-ダミースーツ
-ダミースーツ
-ダミースーツ
-ダミースーツ
-ボストレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+Leader
+Leader
+Leader
+Leader
+Leader
+Leader
+Leader
+Leader
+Brock
+Misty
+Lt. Surge
+Erika
+Sabrina
+Blaine
+Giovanni
+Falkner
+Bugsy
+Whitney
+Morty
+Chuck
+Jasmine
+Pryce
+Clair
+Janine
+Roxanne
+Brawly
+Wattson
+Flannery
+Norman
+Winona
+Tate
+Liza
+Juan
+⒆⒇ Trainer
+Guitarist
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+Subway Boss
 no data
-みらいじん
-クラウン
-レッド
-ポケモントレーナー
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+Subway Boss
+no data
+Roark
+Gardenia
+Fantina
+Maylene
+Wake
+Byron
+Candice
+Volkner
+Blue
+Lance
+Steven
+Wallace
+Beauty
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+Team Plasma
+Team Plasma
+Team Plasma
+Team Plasma
+⒆⒇ Trainer
+Team Plasma
+Team Plasma
+Champion
+Phantom
+⒆⒇ Trainer
+GAME FREAK
+⒆⒇ Trainer
+⒆⒇ Trainer
+Hero
+Hero
+Ninja
+Ninja
+SF Crew
+SF Crew
+Scientist
+Scientist
+Casual
+Casual
+Mr. Ouji
+Princess
+Hachiku-kan
+Mecha Combi
+UFO
+Alien
+Cutting Red
+Cursed Uncle
+Cursed Child
+Wooly Mammoth
+Cursed Man
+Ghost Maiden
+Witch
+Teddy Bear
+Dummy Suit
+Dummy Suit
+Dummy Suit
+Dummy Suit
+Subway Boss
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+no data
+Future Man
+Harlequin
+Red
+⒆⒇ Trainer
