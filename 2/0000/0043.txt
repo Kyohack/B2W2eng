@@ -1,4 +1,4 @@
-\xf000ƀ\x0001\x0000 \xf000ȁ\x0001\x0001, 20\xf000ȁ\x0001\x0002
+\ Xf000ƀ \ x0001 \ x0000 \ xf000ȁ \ x0001 \ x0001, 20 \ xf000ȁ \ x0001 \ x0002
 
 
 ◇ A Trainer from Aspertia City challenged and successfully beat Cheren, the Aspertia Gym Leader!
@@ -10,16 +10,16 @@
 ◇ A Trainer from Aspertia City challenged and successfully beat Drayden, the Opelucid Gym Leader!
 ◇ A Trainer from Aspertia City challenged and successfully beat Shizui, the Seigaiha Gym Leader!
 ◇ A Trainer from Aspertia City challenged and successfully beat Shizui, the Seigaiha Gym Leader!
-◇ “Tender loving care! They grow in no time!" Day Care on Route 3
-◇ “Names will bring you wonderful relationships!" Name Rater in Castelia City
-◇ “Wondering what others are doing? Let's interview them!" Passerby Analytics in Castelia City
-◇ “Run and battle! Trains never stop!" Battle Subway in Nimbasa City
-◇ “Take your first step to stardom." Musical in Nimbasa City
+◇ "Tender loving care! They grow in no time!" Day Care on Route 3
+◇ "Names will bring you wonderful relationships!" Name Rater in Castelia City
+◇ "Wondering what others are doing? Let's interview them!" Passerby Analytics in Castelia City
+◇ "Run and battle! Trains never stop!" Battle Subway in Nimbasa City
+◇ "Take your first step to stardom." Musical in Nimbasa City
 ◇ "Calling all Trainers! Aim for the world championship!" Driftveil World Tournament
-◇ “The biggest shopping area in the entire Unova region. There's nothing you can't buy!" Shopping Mall Nine
+◇ "The biggest shopping area in the entire Unova region. There's nothing you can't buy!" Shopping Mall Nine
 ◇ Striaton City is nestled in the forest, and the breeze smells like trees.
 ◇ The stairs at the entrance help with heavy snow.
-◇ Striaton Gym is a restaurant where meals--and battles--are served.
+◇ Striaton Gym is a restaurant where meals - and battles - are served.
 ◇ The garden full of green makes you feel warm inside.
 ◇ Next to the city is a Day Care, which many Trainers visit.
 ◇ You can learn the basics of Pokémon at the Trainers' School.
@@ -52,7 +52,7 @@
 ◇ The famous roller coaster is where you least expect it.
 ◇ Enjoy wonderful views, exciting heights, and heart-pounding encounters at the Rondez-View Ferris Wheel!
 ◇ You can go to Anville Town from Gear Station.
-◇ Welcome to Nimbasa City, voted as the #1 must-see city on everyone's lifetime list!
+◇ Welcome to Nimbasa City, voted as the # 1 must-see city on everyone's lifetime list!
 ◇ Driftveil City is a major ocean port.
 ◇ At one time, the ocean around Driftveil City was thronged with sailboats that took advantage of the wind currents.
 ◇ Driftveil has developed as a port of freight and fishery.
@@ -190,12 +190,12 @@ Misty
 A very unusual diamond dust is happening!
 A very unusual thunderstorm is happening!
 A very unusual strong storm is happening!
-\xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
-\xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000  \xf000Ā\x0001\x0001
-\xf000Ā\x0001\x0000  \xf000Ā\x0001\x0001  \xf000Ā\x0001\x0002
-\xf000Ā\x0001\x0000  \xf000Ā\x0001\x0001  \xf000Ā\x0001\x0002  \xf000Ā\x0001\x0003
-◆ A Pokémon outbreak at \xf000ą\x0001\x0000!
+\ Xf000ą \ x0001 \ x0000: \ xf000Ā \ x0001 \ x0001
+\ Xf000Ā \ x0001 \ x0000
+\ Xf000Ā \ x0001 \ x0000 \ xf000Ā \ x0001 \ x0001
+\ Xf000Ā \ x0001 \ x0000 \ xf000Ā \ x0001 \ x0001 \ xf000Ā \ x0001 \ x0002
+\ Xf000Ā \ x0001 \ x0000 \ xf000Ā \ x0001 \ x0001 \ xf000Ā \ x0001 \ x0002 \ xf000Ā \ x0001 \ x0003
+◆ A Pokémon outbreak at \ xf000ą \ x0001 \ x0000!
 
 
 
@@ -203,12 +203,12 @@ A very unusual strong storm is happening!
 
 
 
-◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000!
-◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000 and \xf000ā\x0001\x0001!
-◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, and \xf000ā\x0001\x0002!
-◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, and \xf000ā\x0001\x0003!
-◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, and \xf000ā\x0001\x0004!
-◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, \xf000ā\x0001\x0004, and \xf000ā\x0001\x0005!
+◆ Welcome to the Hall of Fame! \ Xf000Ā \ x0001 \ x0006 won a victory with \ xf000ā \ x0001 \ x0000!
+◆ Welcome to the Hall of Fame! \ Xf000Ā \ x0001 \ x0006 won a victory with \ xf000ā \ x0001 \ x0000 and \ xf000ā \ x0001 \ x0001!
+◆ Welcome to the Hall of Fame! \ Xf000Ā \ x0001 \ x0006 won a victory with \ xf000ā \ x0001 \ x0000, \ xf000ā \ x0001 \ x0001, and \ xf000ā \ x0001 \ x0002!
+◆ Welcome to the Hall of Fame! \ Xf000Ā \ x0001 \ x0006 won a victory with \ xf000ā \ x0001 \ x0000, \ xf000ā \ x0001 \ x0001, \ xf000ā \ x0001 \ x0002, and \ xf000ā \ x0001 \ x0003!
+◆ Welcome to the Hall of Fame! \ Xf000Ā \ x0001 \ x0006 won a victory with \ xf000ā \ x0001 \ x0000, \ xf000ā \ x0001 \ x0001, \ xf000ā \ x0001 \ x0002, \ xf000ā \ x0001 \ x0003, and \ xf000ā \ x0001 \ x0004!
+◆ Welcome to the Hall of Fame! \ Xf000Ā \ x0001 \ x0006 won a victory with \ xf000ā \ x0001 \ x0000, \ xf000ā \ x0001 \ x0001, \ xf000ā \ x0001 \ x0002, \ xf000ā \ x0001 \ x0003, \ xf000ā \ x0001 \ x0004, and \ xf000ā \ x0001 \ x0005!
 ◇ A Trainer from Aspertia City defeated the Seigaiha Gym Leader, Shizui!!
 ◇ The beautiful view of the mountains is a must-see.
 ◇ Aspertia City's Trainer School is a heated educational institution.
@@ -220,38 +220,38 @@ A very unusual strong storm is happening!
 ◇ Sangi Town used to have a large variety of Pokémon at its Ranch.
 ◇ Nuvema Town has a peaceful atmosphere and is surrounded by mountains.
 ◇ Virbank City is a gateway to success for all types of trainers.
-◇コンビナートでは　いつでも　はたらくポケモン　トレーナーを　だいぼしゅうです
+◇ The large complex is recruited to work at any time Pokemon Trainer
 ◇ PokéStar Studios is always looking for a star to shoot a film.
-◇タチワキシティから　ヒウンシティいきの　ていきせんが　しゅっこうしています
-◇いきかう　ふねは　タチワキシティにすむ　ひとびとの　じゅうような　こうつうしゅだんです
-◇タチワキシティは　こうじょうで　はたらく　ひとびとを　ちゅうしんに　はってんしました
-◇コンビナートで　はたらく　ひとびとは　しごとの　あいまに　ポケモンしょうぶを　たのしんでいます
-◇しごとでくたびれた　ひとたちを　コンビナートの　やけいがいやします
-◇まちの　ひがしにある　クレーンで　にもつの　あげおろしをします
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇ You can become a star at PokéStar Studios！
-◇ PokéStar Studios movies are watched all around the world 
-◇ポケウッドでは　スターをもとめています　きたれスター！
+◇ has been seconded, but not from the filing of the will Hiunshiti Tachiwakishiti
+◇ boat come and go is an important means of transportation of living in Tachiwakishiti Hito-jin
+◇ Tachiwakishiti has evolved to focus on working at the plant Hito-jin
+◇ Hito-jin work in the complex are enjoying the game Pokemon during work
+◇ silicate of complex and will heal people tired at work
+◇ The loading and unloading of luggage with a crane in the east of the town
+◇ spots many of car travel mercenary transfer
+◇ The desert is harsh please come ready widely
+◇ Please note sandstorm wipe over the entire field
+◇ are currently investigating the ruins was built soon
+◇ What ruined ancient country is a mystery why
+◇ The Eve of the ancient white sand I have still pouring
+◇ spots many of car travel mercenary transfer
+◇ The desert is harsh please come ready widely
+◇ Please note sandstorm wipe over the entire field
+◇ spots many of car travel mercenary transfer
+◇ The desert is harsh please come ready widely
+◇ Please note sandstorm wipe over the entire field
+◇ are currently investigating the ruins was built soon
+◇ What ruined ancient country is a mystery why
+◇ The Eve of the ancient white sand I have still pouring
+◇ spots many of car travel mercenary transfer
+◇ The desert is harsh please come ready widely
+◇ Please note sandstorm wipe over the entire field
+◇ You can become a star at PokéStar Studios!
+◇ PokéStar Studios movies are watched all around the world
+◇ Pokeuddo a star in Kitale are seeking a star!
 ◇ PokéStar Studios directors give a lot of rich individuals various types of work
 ◇ Studios and Theatres are always boasting about the latest film shootings at PokéStar Studios
-◇ You can become a star at PokéStar Studios！
-◇ PokéStar Studios movies are watched all around the world 
+◇ You can become a star at PokéStar Studios!
+◇ PokéStar Studios movies are watched all around the world
 ◇ PokéStar Studios directors give a lot of rich individuals various types of work
 ◇ Studios and Theatres are always boasting about the latest film shootings at PokéStar Studios
