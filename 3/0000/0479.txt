@@ -7,7 +7,7 @@ Professor’s PC
 Records
 Help
 Switch off
-Accessed Professor\xfffeJuniper’s PC.\xf000븀\x0000
+Accessed Prof.\xfffeJuniper's PC!\xf000븀\x0000
 Your Hall of Fame data is corrupted.\xf000븁\x0000\xfffeIt will be fixed if you enter the\xfffeHall of Fame again.\xf000븁\x0000
 Congratulations!\xf000븁\x0000\xfffeMore wallpapers were added\xfffeto commemorate your success.\xf000븁\x0000
 Congratulations!\xf000븁\x0000\xfffeWallpapers were added to commemorate\xfffeyour victory against the Champion.\xf000븁\x0000
