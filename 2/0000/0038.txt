@@ -2,13 +2,13 @@
 POKÉDEX
 POKÉMON
 BAG
-PLAYER
+RADIO
 SAVE
 OPTIONS　　
 
 CHAT
 
-Retire
+RETIRE
 Pokédex selected.
 Pokémon Status selected.
 Bag selected.
