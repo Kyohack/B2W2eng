@@ -66,4 +66,4 @@ Give up on registering\xfffe\xf000Ā\x0001\x0000?
 Delete \xf000Ā\x0001\x0000's data from\xfffeyour Friend Roster?
 Yes
 No
-\xf000Ā\x0001\x0000Please go to the Wi-Fi Club \xfffewith 
+Please go to the Wi-Fi Club \xfffewith \xf000Ā\x0001\x0000.
