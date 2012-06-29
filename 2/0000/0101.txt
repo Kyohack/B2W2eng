@@ -5,7 +5,7 @@ Your rival's name?
 Your friend's name?
 How do you greet passersby?
 How do you thank passersby?
-What's your message\xfffeto passersby?
+What's your message\xfffeto a passersby?
 This town's name?\xfffe(Record it on your Trainer Card.)
 Your title?\xfffe(This city is the only reffered location.)
 My saying?\xfffe(Transmitted to everyone in the world.)
@@ -24,6 +24,6 @@ Welcome!
 Thank you!
 Shiro*
 Kuro*
-⑭
-⑮
+Eat an ingredient. 
+Eat!
 Please input.
