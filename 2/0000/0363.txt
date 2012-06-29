@@ -3,9 +3,9 @@ Are you a boy or a girl?
 Launch C-Gear communications?
 Warning!
 You can enjoy this game to its fullest when\xfffewireless communications are available.\xfffeWhere it's prohibited to use wireless\xfffecommunications, such as airplanes and\xfffehospitals, please set wireless\xfffecommunications to OFF.\xfffeYou can also change this setting\xfffeusing the C-Gear while playing the game.
-ひらがなモード
-漢字モード
-おとこのこ
-おんなのこ
-Yes
-No
+English Mode
+日本語漢字モード
+Boy
+Girl
+YES
+NO
