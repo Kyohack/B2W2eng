@@ -1,14 +1,14 @@
 NO DATA
-フッ……　なるほど……\xfffeよさそうじゃないか　そのこ……\xf000븁\x0000
-ええ……　まもなく　こちらに\xfffeいらっしゃる　はずですが……\xf000븁\x0000
-あ！\xfffeうわさを　すれば！\xf000븁\x0000
-ウエルカム　トゥー　ポケウッド！！\xf000븁\x0000\xfffeやー　\xf000Ā\x0001\x0000さん！\xfffeおまちして　おりました！\xf000븁\x0000\xfffeこちらは　われわれの　ボスの\xfffeウッドウ　です！\xf000븁\x0000
-ハロー！　ハロー！　\xfffeボクは　ウッドウ！　ヨロシクね！！\xf000븁\x0000\xfffeそうか　キミが　\xf000Ā\x0001\x0000ちゃんか！\xfffeちょうど　キミのはなしを　してたのよ！\xf000븁\x0000\xfffeで　さっそく　ポケウッドに　ついて\xfffeせつめいしたい　ところ　なんだけどね\xf000븀\x0000\xfffeちょっと　じゅんびが　ひつようなのー\xf000븁\x0000\xfffeもうしわけないけどさ　もうすこしだけ\xfffeまってて　もらえるかなー？\xf000븁\x0000
-では　それまでの　あいだ　わたくしが\xfffeポケウッドを　ごあんない　しましょう！\xf000븁\x0000
-あー　それ　ナイスねー！\xf000븁\x0000\xfffeえいが！　それは　アメイジングよ！\xf000븁\x0000\xfffeその　おどろき　そして　かんどうを\xfffeていきょうする　この　ポケウッドの\xf000븀\x0000\xfffeみりょくを　\xf000Ā\x0001\x0000ちゃんに\xf000븀\x0000\xfffeかんじちゃって　もらえるもんね！\xf000븁\x0000\xfffeよーし！　じゃあ　ボクも\xfffeチャチャッと　じゅんび　しないと！\xf000븀\x0000\xfffeじゃあ　あと　よろしくー！
-さすが　ウチの　ボス！\xfffeすばらしい　フットワークでしょ！\xf000븁\x0000\xfffeでは　\xf000Ā\x0001\x0000さんは\xfffeわたくしと　まいりましょうか！\xf000븁\x0000
-まずは　ポケウッドとは　なにか\xfffeかるく　ごせつめい　しましょう！\xf000븁\x0000\xfffeここ　ポケウッドは　えいがの　ために\xfffeつくられた　えいがの　みやこ！\xf000븁\x0000\xfffeここで　たくさんの　えいがが　つくられ\xfffeそして　こうかい　されるのです！\xf000븁\x0000
-こちらは　シアターです！\xf000븁\x0000\xfffeえいが　さくひんの　じょうえいは\xfffeもちろんの　ことですが\xf000븀\x0000\xfffeえいがスターの　ファンが\xf000븀\x0000\xfffeあつまることも　ありますね\xf000븁\x0000\xfffeちょっと　なかの　ようすを\xfffeのぞいて　みましょうか\xf000븁\x0000
+Heh...　I see...\xfffeさそうじゃないか　そのこ……\xf000븁\x0000
+Yes...　They should be here soon...\xf000븁\x0000
+Ah!\xfffeSo the rumors were true!\xf000븁\x0000
+WELCOME TO POKEWOOD!!\xf000븁\x0000\xfffeAh,　\xf000Ā\x0001\x0000!\xfffeWe were waiting for you!\xf000븁\x0000\xfffeThis is my boss, Mr. Wood!\xf000븁\x0000
+Hello! Hello!　\xfffeTha' name's Wood! Nice ta' meet'cha!\xf000븁\x0000\xfffe So you must be\xf000Ā\x0001\x0000!\xfffeWe were just talkin' bout ya!\xf000븁\x0000\xfffeNow, I'd love ta tell you about\xfffePokeWood right away, but\xf000븀\x0000\xfffeI got a few more things to do.\xf000븁\x0000\xfffeI'm really sorry, but could ya\xfffegimme a bit to get things ready?\xf000븁\x0000
+While we wait, why don't I show you\xfffearound?\xf000븁\x0000
+Ah! That's nice!\xf000븁\x0000\xfffeA movie! That's a great idea!\xf000븁\x0000\xfffeLet \xf000Ā\x0001\x0000 feel the surprise and\xfffeexcitement PokeWood can provide!\xf000븁\x0000\xfffeAlright!　Well,　I'll leave ya alone for now.\xf000븀\x0000\xfffeI'll see ya later!
+As expected, that's my boss!\xfffeWhat wonderful footwork he has.\xf000븁\x0000\xfffeWell,　\xf000Ā\x0001\x0000,\xfffeShall we go?\xf000븁\x0000
+First, let me give you a quick \xfffeexplanation of what PokeWood is.\xf000븁\x0000\xfffePokeWood is the movie production\xfffecapital of the world!\xf000븁\x0000\xfffeHere, lots of movies are made and\xfffereleased!\xf000븁\x0000
+This is the theater!\xf000븁\x0000\xfffeObviously, movies are screened here,\xf000븀\x0000\xfffebut fans of movie stars \xfffegather here too!\xf000븁\x0000\xfffeWanna take a peek inside?\xf000븁\x0000
 さあ　ここが　さつえいスタジオです！\xf000븁\x0000\xfffeここから　ポケウッドの\xfffeえいがは　うまれるのです！\xf000븁\x0000\xfffeさあ　なかへ　どうぞ！\xfffeウッドウさんが　まってるはずです！\xf000븁\x0000
 おい！　ＡＤ！！\xf000븁\x0000\xfffeあそこの　さつえいスタジオが\xfffeわしの　さくひんの　じゃまだッ！\xf000븁\x0000\xfffeさつえいが　すすまんから\xfffeいますぐ　ブッつぶして　こいッ！
 おい！　ＡＤ！！\xf000븁\x0000\xfffeあの　そらの　くもの　かたちは\xfffeわしのさくひんに　ふさわしくないッ！\xf000븁\x0000\xfffeさつえいが　すすまんから\xfffeいますぐ　どかして　こいッ！
