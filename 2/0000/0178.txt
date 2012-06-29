@@ -52,8 +52,8 @@ PP was restored.
 \xf000Ă\x0001\x0000 recovered from\xfffefainting!
 \xf000Ă\x0001\x0000 became healthy.
 \xf000ć\x0001\x0000's PP\xfffeincreased.
-\xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
-\xf000Ă\x0001\x0000の\xfffeメロメロが　とけた！
+\xf000Ă\x0001\x0000\xfffesnapped out of confusion!
+\xf000Ă\x0001\x0000\xfffesnapped out of its infatuation!
 \xf000Ă\x0001\x0000's base \xf000č\x0001\x0001\xffferose!
 This can't be used until a new\xfffeBadge is obtained.
 Must remove Mail before the\xfffePokémon is allowed to hold an item.
@@ -77,7 +77,7 @@ No
 テレポートして\xfffe\xf000ą\x0001\x0000に　もどる？
 Yes
 No
-さんか　できる　ポケモンは\xfffe２ひき　まで　です！
+Up to two Pokémon can\xfffeparticipate!
 You're already surfing.
 You can't use that here.
 It won't have any effect.
@@ -119,9 +119,9 @@ No
 Switch
 Summary
 Item
-メール
-メールを　よむ
-メールを　とる
+Mail
+Read Mail
+Take Mail
 Store
 Quit
 いれかえる
@@ -141,12 +141,12 @@ Take
 メールを　いどう
 さんかしない
 でられません
-１ばんめ
-２ばんめ
-３ばんめ
-４ばんめ
-５ばんめ
-６ばんめ
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
 おぼえられる！
 おぼえられない
 おぼえている
