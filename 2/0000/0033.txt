@@ -17,7 +17,7 @@ If the leader drops out, the group will\xfffebe disbanded. Is that OK?
 Multi Battle will be\xfffecanceled.
 The Musical will be\xfffecanceled.
 Battle Subway will be\xfffecanceled.
-つごうの　わるくなってしまった\xfffeメンバーが　います
+There is a problem\xfffewith this group.
 There are no members.\xfffeMulti Battle will be canceled.
 Please wait.\xfffeB Button: Cancel
 Please wait.
