@@ -1,6 +1,6 @@
 What language do you want to play in?\xfffeEnglish or Japanese?\xf000븁\x0000
 English
-Japanese
+日本語
 The game will be played\xfffein English.\xf000븁\x0000
 それでは　ゲームでは\xfffe漢字も　使います\xf000븁\x0000
 Creating save data.\xfffePlease wait...
