@@ -4,4 +4,4 @@ You can use that instead of going\xfffeto the Pokémon Center for healing.
 \xf000Ā\x0001\x0000.\xfffeHow's your journey going?
 へえ......\xfffeなるほど　なるほどな！\xf000븁\x0000
 かべの　でんこうけいじばん　に\xfffeひょうじ　される　ニュースや\xf000븀\x0000\xfffeまちに　かんする　じょうほうを\xf000븀\x0000\xfffeよむのが　だいすき　なんだよ！
-おぼえているかい？\xf000븁\x0000\xfffeポケモンと　ともに　このゲートを\xfffeはじめて　とおった　あのひを 
+おぼえているかい？\xf000븁\x0000\xfffeポケモンと　ともに　このゲートを\xfffeはじめて　とおった　あのひを
