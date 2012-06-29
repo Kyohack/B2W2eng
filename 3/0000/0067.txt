@@ -6,7 +6,7 @@ Fennel『\xf000\xff00\x0001\x0002 Game Sync \xf000\xff00\x0001\x0000って　す
 Fennel『あら　アナタも\xfffeレポートを　おくってくれたのね\xf000븁\x0000\xfffeトレーナーの　けんきゅうを　していて\xfffeアナタの　レポートが　あったわ！\xf000븁\x0000\xfffeどう？\xfffe\xf000\xff00\x0001\x0002ゲームシンク\xf000\xff00\x0001\x0000って　すごいでしょ！
 あなた　トレーナー？\xf000븁\x0000\xfffeじゃあ　ポケモンセンターの\xfffeパソコン　つかっていますか？\xf000븁\x0000\xfffeあたし　あの　ボックスを\xfffeかんりしています　ショウロです\xf000븁\x0000
 あっ！\xfffeともだちてちょうを　おもちですね！\xf000븁\x0000\xfffeその　ともだちてちょう　に\xfffeとうろくした　おともだちと\xf000븀\x0000\xfffeＷｉ－Ｆｉコネクションを　つかって\xf000븁\x0000\xfffeポケモンたいせん　や\xfffeポケモンこうかん　を\xf000븀\x0000\xfffeたのしむことが　できるのよ\xf000븁\x0000\xfffeとうろくの　しかたを\xfffeくわしく　せつめい　するとね\xf000븁\x0000\xfffeバッグの　たいせつなものの　なかの\xfffeともだちてちょうを　つかって\xf000븀\x0000\xfffeともだちから　おそわった　コードを\xf000븀\x0000\xfffeちょくせつ　にゅうりょくするか\xf000븁\x0000\xfffeＣギアの　ＩＲつうしんを　つかえば\xfffeばっちり　とうろく　できます！\xf000븁\x0000
-ショウロ: Want\xfffeto hear something from me?
+Shouro: Want\xfffeto hear something from me?
 Box
 Battle Box
 Palpad
@@ -14,10 +14,10 @@ Back
 １つの　ボックスには　つかまえた\xfffeポケモンを　３０ぴき　あずけられます\xf000븁\x0000\xfffeさいしょは　８こしか　ない\xfffeボックスですが　あずければ\xf000븀\x0000\xfffeどんどん　ふえていきますよ！
 バトルボックスには\xfffeたいせんで　よくつかう　ポケモンを\xf000븀\x0000\xfffe１～６ひき　とうろく　しておけます\xf000븁\x0000\xfffeせきがいせんで　たいせん　するときは\xfffeバトルボックスに　とうろく　した\xf000븀\x0000\xfffeポケモンでも　しょうぶ　できるの！\xf000븁\x0000\xfffeポケモンを　いれかえなくて　べんりよ
 ともだちてちょうに\xfffeともだちを　とうろく　するには\xf000븁\x0000\xfffeバッグの　たいせつなものの　なかの\xfffeともだちてちょうを　つかって\xf000븀\x0000\xfffeともだちから　おそわった　コードを\xf000븀\x0000\xfffeちょくせつ　にゅうりょくするか\xf000븁\x0000\xfffeＣギアの　ＩＲつうしんを　つかえば\xfffeばっちり　とうろく　できます！
-どんどん　ポケモンを　つかまえて\xfffeどんどん　ボックスを　つかってね！
-あっ　ボックスの\xfffeつかいがっては　どうですか？\xf000븁\x0000\xfffeそうだ！　イーブイって　ポケモンが\xfffeたくさん　いるんですけど\xf000븀\x0000\xfffe１ぴき　もらってくれますか？
+I used the boxes for capturing\xfffePokémon more quickly!
+Ah! There's an unused\xfffebox that was left there?\xf000븁\x0000\xfffeThere's an Eevee that was\xfffeleft there for a long time!\xf000븀\x0000\xfffeWhat to do?
 An acquaintance from the\xfffeKanto Region left an Eevee!\xf000븁\x0000
-\xf000Ā\x0001\x0000は\xffferecieved an Eevee!
+\xf000Ā\x0001\x0000 \xffferecieved an Eevee!
 Do you want to give\xfffeEevee a nickname?
 Ah! つれている\xfffeポケモンが　いっぱい　ですね\xf000븁\x0000\xfffeこんなときは　ボックスに\xfffeあずけて　くださいね！
 ざんねん　です\xf000븁\x0000\xfffeでも　きが　かわったら\xfffeまた　はなしかけてください！
