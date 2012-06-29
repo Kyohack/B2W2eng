@@ -148,13 +148,13 @@ NO DATA
 やめる
 このさくひんを　かんしょう\xfffeしますか？
 このさくひんの　こうかいを\xfffeしゅうりょう　しますか？
-しゅうりょうすると　さくじょされますが\xfffeほんとうに　よろしいですか？\xfffe
+Are you sure you want to exit,\xfffewill be removed？\xfffe
 Yes
 No
 じょうほう
-みる
-もどる
-しゅうりょうする
+View
+Back
+Quit
 スクリーン　１
 スクリーン　２
 スクリーン　３
