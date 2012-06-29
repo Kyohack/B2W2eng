@@ -5,14 +5,14 @@ Your rival's name?
 Your friend's name?
 How do you greet passersby?
 How do you thank passersby?
-What's your message\xfffeto passersby?
+What's your message\xfffeto a passersby?
 This town's name?\xfffe(Record it on your Trainer Card.)
-Your title?\xfffe（このまち　だけの　よばれかた　です）
+Your title?\xfffe(This city is the only reffered location.)
 My saying?\xfffe(Transmitted to everyone in the world.)
 Enter your password.
 Please input your\xfffeGame Sync ID Code.
-かんどう　したときの　ことばは？\xfffe(Transmitted to everyone in the world.)
-さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
+How and when to talk?\xfffe(Transmitted to everyone in the world.)
+How do you convey a message \xfffeto passersby?
 What is your Passerby Message?
 Pokémon's name?
 Please enter the name.
@@ -24,6 +24,6 @@ Welcome!
 Thank you!
 Shiro*
 Kuro*
-⑭
-⑮
+Eat an ingredient. 
+Eat!
 Please input.
