@@ -1,29 +1,29 @@
-こちら　ギアステーションから\xfffeバトルサブウェイに　のれますよ！
-バトルサブウェイとは　トレーナーが\xfffeつよさを　きそう　ちかてつ　です！
-バトルサブウェイは\xfffeぜんぶで　７ろせん！\xf000븁\x0000\xfffeだが　さいしょから　のれるのは\xfffeシングル　ダブル　マルチ　とよばれる\xf000븀\x0000\xfffeトレインだけ　らしいぞ！
-バトルサブウェイは\xfffeぜんぶで　７ろせん！\xf000븁\x0000\xfffeスーパーがつく　トレインに\xfffeのれるようなら　なかなかの\xf000븀\x0000\xfffeトレーナー　ということだ！
-ねえねえ！\xf000븁\x0000\xfffeしょうぶの　まえの　じこしょうかい\xfffeとか　かったり　まけたり　したときの\xf000븀\x0000\xfffeきもちを　おしえて　くれない？
-じゃあ　しょうぶの　まえの\xfffeじこしょうかいを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　しょうぶに　まけたときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　しょうぶに　かったときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　いちばんに　なったときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-わかったよ　ありがとう！\xfffeそうか　\xf000Ĝ\x0001\x0000　か……
-あれ？　おしえて　くれないの？\xfffeざんねん……
-ありがとう！\xfffeほかにも　おしえてくれる？
-わかったよ　ありがとう！
-じこしょうかい
-かったとき
-まけたとき
-いちばんになったとき
-おしえない
-シングルトレイン　のりば
-ダブルトレイン　のりば
-マルチトレイン　のりば
-Ｗｉ－Ｆｉトレイン　のりば
-スーパーシングルトレイン　のりば
-スーパーダブルトレイン　のりば
-スーパーマルチトレイン　のりば
-カナワタウンいき　トレイン　のりば
-ただいま　ちょうせいちゅう　です
+You can take the Battle Subway from\xfffeGear Station!
+The Battle Subway!\xf000븁\x0000\xfffeAs the name suggests, it's the subway\xfffewhere Trainers wage battles.
+The Battle Subway has seven lines\xfffein total!\xf000븁\x0000\xfffeBut I heard that the only lines you can\xfffetake at the beginning are the Single,\xf000븀\x0000\xfffeDouble, or Multi Trains!
+The Battle Subway has seven lines\xfffein total!\xf000븁\x0000\xfffeBut you can't take the trains called\xfffe“Super" unless you make a great effort.
+Hi, hi!\xf000븁\x0000\xfffePlease tell me how you introduce yourself\xfffebefore a battle and how you feel when\xf000븀\x0000\xfffeyou win or lose.
+Please tell me how you introduce yourself\xfffebefore a battle.\xf000븁\x0000
+Please tell me how you feel when you\xfffelose a battle.\xf000븁\x0000
+Please tell me how you feel when you\xfffewin a battle!\xf000븁\x0000
+Please tell me how you feel when you\xfffebecome No. 1!\xf000븁\x0000
+Got it! Thanks!\xfffe\xf000Ĝ\x0001\x0000, huh...
+Oh, you prefer not to say?\xfffeOh, well...
+Thanks! Will you tell me your other\xfffefeelings, too?
+Got it! Thanks!
+INTRODUCTION
+WHEN YOU WIN
+WHEN YOU LOSE
+WHEN YOU BECOME NO. 1
+NOT TELLING
+Platform for Single Trains
+Platform for Double Trains
+Platform for Multi Trains
+Platform for Wi-Fi Trains
+Platform for Super Single Trains
+Platform for Super Double Trains
+Platform for Super Multi Trains
+Platform for Trains to Anville Town
+Under Construction
 no data
 no data
