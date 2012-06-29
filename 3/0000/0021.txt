@@ -1,57 +1,45 @@
-ちょっと　いいかい！？\xf000븁\x0000\xfffeなんだか　とっても　ポケモンに\xfffeくわしそうな　そこの　キミ！\xf000븀\x0000\xfffeボクに　ちえを　かしてくれないか？
-おお！　ありがとう\xf000븁\x0000\xfffeさっそくだけど\xfffeなやみを　きいてくれ！\xf000븁\x0000\xfffeボク　とくせい　ふゆう　の\xfffeポケモンに　じめんタイプの\xf000븀\x0000\xfffeわざを　あてたいんだ！\xf000븁\x0000\xfffeでも　どうしても\xfffeほうほうが　おもいつかなくって……\xf000븁\x0000\xfffeいくつか　アイデアは　あるけど\xfffeきめられなくて……\xf000븁\x0000\xfffeそこで　キミの　いけんを\xfffeきかせて　ほしいんだ！
-そうか……　しかたない\xf000븁\x0000\xfffeもし　きが　むいたら\xfffeちえを　かしてくれよ……
-まずは　どうぐ　について\xfffeアドバイスを　もらいたい\xf000븁\x0000\xfffeとくせい　ふゆう　の　ポケモンに\xfffeトリックや　すりかえ　などで\xf000븀\x0000\xfffeどうぐを　わたす　ことで\xf000븁\x0000\xfffeじめんタイプの　わざが\xfffeあたるように　したいんだ！\xf000븁\x0000\xfffeどんな　どうぐを　わたそうか\xfffeかんがえた　すえ\xf000븁\x0000\xfffeくろいてっきゅう　が　いいと\xfffeおもってるんだけど\xf000븀\x0000\xfffeじしんが　ないんだ……\xf000븁\x0000\xfffeどうかな？　くろいてっきゅう\xfffeいい　アイデア　かな？
-いい
-ＯＫ
-だいじょうぶ
-おお！　やっぱり！？\xf000븁\x0000\xfffeなんだか　キミに　いわれると\xfffeいちだんと　じしんが　もてるよ！\xf000븁\x0000\xfffeふゆう　ポケモンに\xfffeくろいてっきゅう　を　わたせば\xf000븀\x0000\xfffeじめんタイプの　わざも　あたる！\xf000븁\x0000\xfffeありがとう！
-また　キミの　ちえを\xfffeかして　ほしいんだ！\xf000븀\x0000\xfffeおねがい　できるかな？
-こんどは　わざに　ついて\xfffeアドバイスを　もらいたい\xf000븁\x0000\xfffeとくせい　ふゆうの　ポケモンに\xfffeじめんタイプの　わざを　つかうまえに\xf000븁\x0000\xfffeつかっておくと　いい　わざを\xfffeさがして　いるんだけど……\xf000븁\x0000\xfffeうちおとす　じゅうりょく　いえき\xfffeこの　３つの　わざの　うち\xf000븀\x0000\xfffeどれを　つかうと　いいかな？
+Hey okay! Hey there \xfffe so embellished Pokemon very \xf000 븁 \x0000\xfffe! \xf000 븀 \x0000\xfffe I, falling behind what you give me?
+Oh! Thank you \xf000 븁 \x0000\xfffe it immediately but \xfffe don't listen to stronghold! \xf000 븁 \x0000\xfffe me I want to appropriating \xf000 븀 \x0000\xfffe works of the type of management moral character ふゆう \xfffe Pokemon! but I \xfffe how I just おもいつかなく even \xf000 븁 \x0000\xfffe...... idea is some \xf000 븁 \x0000\xfffe I decided \xfffe,...... opinion of Kimi \xf000 븁 \x0000\xfffe there I want effective \xfffe!
+I know! \Xf000 븁 \x0000\xfffe no choice but to feeling like Lastly \xfffe Chie me somehow...
+First Adesk about want get \xfffe advice \xf000 븁 \x0000\xfffe Pokemon moral character of ふゆう すりかえ and \xfffe tricks such as \xf000 븀 \x0000\xfffe detergents I want to \xf000 븁 \x0000\xfffe management type work hits the \xfffe passing it at! \xf000 븁 \x0000\xfffe any detergents had \xfffe or わたそう after \xf000 븁 \x0000\xfffe black is gone I think Kyu is good \xfffe \xf000 븀 \x0000\xfffe an earthquake doesn't...... \xf000 븁 \x0000\xfffe?? Black is gone Kyu \xfffe good idea!?
+Nice
+OK
+No problem
+Oh! After all! \xf000 븁 \x0000\xfffe and it said you have popular pupil and \xfffe it! \xf000 븁 \x0000\xfffe ふゆう Pokemon \xfffe black is gone if わたせば Kyu \xf000 븀 \x0000\xfffe management type works also hits! \xf000 븁 \x0000\xfffe thank you!
+Also your falling behind I want something \xfffe! You can wish? \xf000 븀 \x0000\xfffe?
+\Xf000 븁 \x0000\xfffe \xfffe advice this time hope ministries gravitational pull but I'm looking for good deeds and before it use the \xfffe management type works specially bound ふゆう Pokemon should use \xf000 븁 \x0000\xfffe \xfffe... うちおとす \xf000 븁 \x0000\xfffe musashikoganei station \xfffe three works of \xf000 븀 \x0000\xfffe use how can I?
 うちおとす
 Gravity
-いえき
-そうか　うちおとす　か！\xf000븁\x0000\xfffeたしかに　うちおとす　を\xfffeうけた　ポケモンは\xf000븁\x0000\xfffeふゆうの　とくせいや\xfffeひこうタイプを　もっていても\xf000븁\x0000\xfffeじめんタイプの　わざが\xfffeあたるように　なる！\xf000븁\x0000\xfffeふゆう　ポケモンには\xfffeうちおとすを　あててから\xf000븀\x0000\xfffeじめんタイプの　わざを　つかう！\xf000븁\x0000\xfffeなるほど　ありがとう！
-そうか　じゅうりょく　か！\xf000븁\x0000\xfffeたしかに　じゅうりょくを　つかうと\xfffeじゅうりょくが　つよくなって\xf000븁\x0000\xfffeふゆうの　とくせいや\xfffeひこうタイプを　もっていても\xf000븀\x0000\xfffeじめんタイプの　わざが\xf000븀\x0000\xfffeあたるように　なる！\xf000븁\x0000\xfffeふゆう　ポケモンには\xfffeじゅうりょくを　つかってから\xf000븀\x0000\xfffeじめんタイプの　わざを　つかう！\xf000븁\x0000\xfffeなるほど　ありがとう！
-そうか　いえき　か！\xf000븁\x0000\xfffeたしかに　いえき　を\xfffeうけた　ポケモンは\xf000븀\x0000\xfffeとくせいを　けされてしまう！\xf000븁\x0000\xfffeふゆうの　とくせいも\xfffeこうかを　はっき　しないから\xf000븁\x0000\xfffeじめんタイプの　わざが\xfffeあたるように　なる！\xf000븁\x0000\xfffeふゆう　ポケモンには\xfffeいえきを　あててから\xf000븀\x0000\xfffeじめんタイプの　わざを　つかう！\xf000븁\x0000\xfffeなるほど　ありがとう！
-さいごは　とくせいに　ついて\xfffeアドバイスを　もらいたい\xf000븁\x0000\xfffeとくせい　ふゆうの　ポケモンに\xfffeじめんタイプの　わざを\xf000븀\x0000\xfffeあてられる　とくせいが　あるらしい\xf000븁\x0000\xfffe……だけど\xfffeサッパリ　けんとうが　つかない！\xf000븁\x0000\xfffeなんとなく　かたやぶり\xfffeテラボルテージ　ターボブレイズ\xf000븀\x0000\xfffeあたりが　あやしいな……と\xf000븁\x0000\xfffeふんでいるんだけど\xfffeきめてが　なくて……\xf000븁\x0000\xfffeああ！　キミが　きめてくれ！
+Musashikoganei station
+Really うちおとす?! \xf000 븁 \x0000\xfffe うちおとす certainly undertook \xfffe Pokemon catch benevolent government \xf000 븁 \x0000\xfffe of ふゆう and \xfffe also has a type of \xf000 븁 \x0000\xfffe management type work becomes like hits \xfffe! \xf000 븁 \x0000\xfffe うちおとす \xfffe ふゆう Pokemon the focus from spending ministries \xf000 븀 \x0000\xfffe management type! \xf000 븁 \x0000\xfffe thank you indeed!
+So do gravitational pull?! \xfffe gravitational pull is strong and colored the gravitational pull certainly \xf000 븁 \x0000\xfffe \xfffe and \xf000 븁 \x0000\xfffe of ふゆう moral character to catch also has a type of \xf000 븀 \x0000\xfffe management type work becomes like hits \xf000 븀 \x0000\xfffe! \xf000 븁 \x0000\xfffe from the hot \xfffe gravitational pull to the Pokemon ふゆう spending \xf000 븀 \x0000\xfffe management type work! \xf000 븁 \x0000\xfffe thank you indeed!
+Station?! \xf000 븁 \x0000\xfffe certainly not Pokemon \xfffe undertook the station it is erased \xf000 븀 \x0000\xfffe moral character! Tel \xfffe \xf000 븁 \x0000\xfffe ふゆう of benevolent government also wording not from \xf000 븁 \x0000\xfffe management type work that comes to hit \xfffe! \xf000 븁 \x0000\xfffe to Pokemon ふゆう \xfffe me from focusing the station used \xf000 븀 \x0000\xfffe management type work! \xf000 븁 \x0000\xfffe thank you indeed!
+Especially the running \xf000 븁 \x0000\xfffe want to get \xfffe advice about a specific character \xf000 븁 \x0000\xfffe. seems to be benevolent government appropriated Pokémon because of ふゆう \xf000 븀 \x0000\xfffe \xfffe management type work But no \xfffe no a good fight! a somehow weird かたやぶり \xfffe テラボルテージ ターボブ raise \xf000 븀 \x0000\xfffe per \xf000 븁 \x0000\xfffe... And without that excrement \xf000 븁 \x0000\xfffe I decided \xfffe...... \xf000 븁 \x0000\xfffe Ah! You don't decide!
 かたやぶり
 テラボルテージ
-ターボブレイズ
-やっぱり　かたやぶり　かあ！\xf000븁\x0000\xfffeそうだよね　かたやぶり　は\xfffeあいての　とくせいに　かんけいなく\xf000븀\x0000\xfffeわざを　だせる　とくせい！\xf000븁\x0000\xfffeふゆうだって　なんのそので\xfffeじめんタイプの　わざを\xf000븀\x0000\xfffeガンガン　あてほうだい　だね！\xf000븁\x0000\xfffeかたやぶり　カッコイイぜ！\xfffeビバ　かたやぶり！
-やっぱり　テラボルテージ　かあ！\xf000븁\x0000\xfffeそうだよね　テラボルテージ　は\xfffeあいての　とくせいに　かんけいなく\xf000븀\x0000\xfffeわざを　だせる　とくせい！\xf000븁\x0000\xfffeふゆうだって　なんのそので\xfffeじめんタイプの　わざを\xf000븀\x0000\xfffeガンガン　あてほうだい　だね！\xf000븁\x0000\xfffeテラボルテージ　カッコイイぜ！\xfffeビバ　テラボルテージ！
-やっぱり　ターボブレイズ　かあ！\xf000븁\x0000\xfffeそうだよね　ターボブレイズ　は\xfffeあいての　とくせいに　かんけいなく\xf000븀\x0000\xfffeわざを　だせる　とくせい！\xf000븁\x0000\xfffeふゆうだって　なんのそので\xfffeじめんタイプの　わざを\xf000븀\x0000\xfffeガンガン　あてほうだい　だね！\xf000븁\x0000\xfffeターボブレイズ　カッコイイぜ！\xfffeビバ　ターボブレイズ！
-ありがとう！　キミの　おかげで\xfffeふゆう　たいさくは　バッチリ！\xf000븁\x0000\xfffeさらに　ふゆう　たいさくの\xfffeたいさくも　バッチリだ！\xf000븁\x0000\xfffeフフフ……\xf000븁\x0000\xfffeこれで　どんな　ポケモンを\xfffeあいてに　しても\xf000븁\x0000\xfffeボクの　ふゆう　ポケモンは\xfffeぜったい　まけない！
-さあ！　ボクの　むてきの\xfffeふゆう　ポケモンと　たたかうかい？
-うーん……\xf000븁\x0000\xfffeふゆう　たいさくの　たいさく\xfffeバッチリだった　はずなのに……\xf000븁\x0000\xfffeいざ　じっせんに　なると\xfffeうまいこと　いかないなあ……\xf000븁\x0000\xfffeそれだけ　キミが\xfffeつよかった！　って　ことか
-ボクと　たたかうなら　また　きてくれ\xfffeいつでも　うけてたつよ！
-ポケモンのことを　あいしているから\xfffeもっと　ポケモンについて　しりたい\xf000븁\x0000\xfffeそんな　よっきゅうに　こたえるため\xfffeトレーナーズスクールを　ふやしました
-ポケモンには　とくせい　と　よばれる\xfffeふしぎな　ちからが　そなわってるよ\xf000븁\x0000\xfffeたたかっていない　ときでも\xfffeこうかを　はっきするものも　あるわね\xf000븁\x0000\xfffeたとえば　きゅうばん　ねんちゃくの\xfffeとくせいを　もつ　ポケモンを\xf000븁\x0000\xfffeてもちの　せんとうに　していると\xfffeつりが　せいこう　しやすいの！
-こうかくレンズと　フォーカスレンズ\xf000븁\x0000\xfffeにている　どうぐ　だけど\xfffeなまえも　ちがうし　こうかも　ちがう\xf000븁\x0000\xfffeこうかくレンズは\xfffeめいちゅうりつが　１．１ばい！\xf000븁\x0000\xfffeフォーカスレンズは\xfffeあとから　わざを　だすときに\xf000븀\x0000\xfffeめいちゅうりつが　１．２ばい！\xf000븁\x0000\xfffeということは　すばやくない\xfffeポケモンなら　フォーカスレンズ　だね
-よろしければ　かんたんな\xfffeクイズを　してみませんか？
-では　もんだい　です\xf000븁\x0000\xfffeこんらんを　なおす　きのみは\xfffeつぎのうち　どれでしょう？
-キーのみ
-ナナシのみ
-モモンのみ
-ピンポーン！\xf000븁\x0000\xfffeせいかい　です！\xfffeつぎの　もんだい　です\xf000븁\x0000
-では　ポケモンの　わざ\xfffeいばるは　こうげきした　あいての\xf000븀\x0000\xfffeこうげきりょくを　あげますが\xf000븁\x0000\xfffeそのとき　つかわれた　ポケモンは\xfffeどんな　じょうたいに　なるでしょう？
-ねむり
-ひるみ
-こんらん
-ピンポン！　ピンポーン！！\xf000븁\x0000\xfffeだいせいかい　です！\xfffeあなたに　これを　プレゼント！\xf000븁\x0000
-ダブルバトルで　キーのみを　もった\xfffeみかたの　ポケモンに\xf000븀\x0000\xfffeいばるの　わざを　つかうと\xf000븁\x0000\xfffeわざを　うけた　みかたの\xfffeこうげきりょくが　あがり\xf000븀\x0000\xfffeキーのみで　こんらんが　なおります！\xf000븁\x0000\xfffeそして　こうげきりょくの　あがった\xfffeポケモンで　あいてを　こうげき！\xf000븁\x0000\xfffeダブルバトルって　くみあわせで\xfffeいろんな　ことが　できますよ！
-クイズが　したくなったら\xfffeはなしかけて　くださいね
-ブブー！！\xf000븁\x0000\xfffeざんねん……　ハズレです\xfffeまた　チャレンジ　してください
-こくばんに　ポケモンが\xfffeたたかっているときに　おこる\xf000븁\x0000\xfffeたいちょうの　へんかに\xfffeついて　かかれてます\xf000븁\x0000
-どれについて　みますか？
-どくを　うけると\xfffeたたかっている　あいだ\xf000븀\x0000\xfffeたいりょくが　へっていきます\xf000븁\x0000\xfffeせんとうが　おわっても\xfffeどくの　ままです\xf000븁\x0000\xfffeどくけしで　なおしましょう\xf000븁\x0000
-まひすると　すばやさが　さがり\xfffeときどき　わざが　だせなくなります\xf000븁\x0000\xfffeせんとうの　あとも\xfffeまひした　ままです\xf000븁\x0000\xfffeまひなおしで　なおしましょう\xf000븁\x0000
-ねむって　しまうと\xfffeその　あいだ　こうげき　できません\xf000븁\x0000\xfffeじぶんで　おきることも　ありますが\xfffeねむったまま　せんとうが　おわると\xf000븀\x0000\xfffeずっと　ねむっています\xf000븁\x0000\xfffeねむけざましで　おこしましょう\xf000븁\x0000
-やけどに　なると\xfffeこうげきりょくが　さがるだけでなく\xf000븀\x0000\xfffeたいりょくも　どんどん　へります\xf000븁\x0000\xfffeせんとうが　おわっても\xfffeやけどの　ままです\xf000븁\x0000\xfffeやけどなおしで　なおしましょう\xf000븁\x0000
-こおって　しまうと\xfffeなにも　できなくなります\xf000븁\x0000\xfffeしぜんに　とけることも　ありますが\xfffeこおったまま　せんとうが　おわると\xf000븀\x0000\xfffeこおりついた　ままです\xf000븁\x0000\xfffeこおりなおしで　とかしましょう\xf000븁\x0000
-どく
-まひ
-ねむり
-やけど
-こおり
-やめる
+ターボブ Reyes
+It is かたやぶり what I mean! \xf000 븁 \x0000\xfffe I guess かたやぶり is a benevolent government idea without a specific characteristic of open \xfffe abcdrelationships \xf000 븀 \x0000\xfffe works! coz ふゆう \xf000 븁 \x0000\xfffe what part in works of the \xfffe management type \xf000 븀 \x0000\xfffe pounding wild disorder is addressed?! \xf000 븁 \x0000\xfffe かたやぶり coolest! \xfffe Viva かたやぶり!
+It is テラボルテージ what I mean! \xf000 븁 \x0000\xfffe I guess テラボルテージ is a benevolent government idea without a specific characteristic of open \xfffe abcdrelationships \xf000 븀 \x0000\xfffe works! coz ふゆう \xf000 븁 \x0000\xfffe what part in works of the \xfffe management type \xf000 븀 \x0000\xfffe pounding wild disorder is addressed?! \xf000 븁 \x0000\xfffe テラボルテージ coolest! \xfffe Viva テラボルテージ!
+It's ターボブ raise?! \xf000 븁 \x0000\xfffe I guess ターボブ Reyes is a benevolent government idea without a specific characteristic of open \xfffe abcdrelationships \xf000 븀 \x0000\xfffe works! coz ふゆう \xf000 븁 \x0000\xfffe what part in works of the \xfffe management type \xf000 븀 \x0000\xfffe pounding wild disorder is addressed?! \xf000 븁 \x0000\xfffe ターボブ Reyes coolest! \xfffe Viva ターボブ Reyes!
+Thank you! ふゆう \xfffe thanks to Kimi's in a Magnum Opus is perfect! \xf000 븁 \x0000\xfffe and ふゆう \xfffe a Magnum Opus of a monumental work well in business.! \xf000 븁 \x0000\xfffe FFFFFF...... \xf000 븁 \x0000\xfffe \xfffe free \xfffe any Pokemon in this way \xf000 븁 \x0000\xfffe me ふゆう Pokemon is flatly cannot reel!
+Come on! むてき \xfffe me do you fight against Pokemon ふゆう?
+Hmm I...... \xf000 븁 \x0000\xfffe ふゆう wish I was supposed to be a Magnum Opus \xfffe Pat for a monumental work...... to actual warfare comes \xf000 븁 \x0000\xfffe good \xfffe can not go...... \xf000 븁 \x0000\xfffe \xfffe it only you are strong! What can?
+If you fight me and also came \xfffe undertaken at any time, leaving you!
+From that love the Pokemon that I want to know about Pokemon more \xfffe \xf000 븁 \x0000\xfffe to meet such よっきゅう substantially \xfffe school
+Pursuit of Happyness \xfffe called moral character in the Pokemon Fushigi na I'm equipped. effects when not fighting \xf000 븁 \x0000\xfffe even \xfffe wording to there is also something and have Pokemon with the \xfffe moral character, for example きゅうばん sticky \xf000 븁 \x0000\xfffe \xf000 븁 \x0000\xfffe てもち nested \xfffe fishing success of easy!
+Lenses and lens focus \xf000 븁 \x0000\xfffe are doing this anyway Adesk but \xfffe name different effects lens \xfffe めいちゅう \xf000 븁 \x0000\xfffe different anyway so SWOT is 1. 1 Should I! \xf000 븁 \x0000\xfffe focus lens is \xfffe put out works from after when \xf000 븀 \x0000\xfffe めいちゅう rate is 1. 2 Should I! \xf000 븁 \x0000\xfffe it's a lens if not quickly \xfffe Pokemon
+If you want to make easy \xfffe quiz?
+Is the problem only when again \xf000 븁 \x0000\xfffe cures are \xfffe below which way??
+Only the key
+Nanashi only
+Only the Mormon
+Ding Dong! is a \xf000 븁 \x0000\xfffe correct! \xfffe is the next problem \xf000 븁 \x0000
+So Pokemon works is \xfffe insulting this げきした aus \xf000 븀 \x0000\xfffe will this give shigeno きりょく \xf000 븁 \x0000\xfffe Pokemon when used \xfffe will be any State?
+In the devil
+So
+Cures
+Ping pong! Ding Dong! \xf000 븁 \x0000\xfffe it is correct! \xfffe present for you! \xf000 븁 \x0000
+Mikata and colored his works of insulting \xf000 븀 \x0000\xfffe \xfffe Mikata with the key only in a double battle Pokemon undertook \xf000 븁 \x0000\xfffe technique \xfffe! きりょく up so, cures look tiny at only \xf000 븀 \x0000\xfffe keys! \xf000 븁 \x0000\xfffe and \xfffe Pokemon thus went up by きりょく of the aus brunt! Combining objects in double \xf000 븁 \x0000\xfffe battle \xfffe it can be many things!
+Quiz when you don't want to see talk \xfffe!
+Bubba! her \xf000 븁 \x0000\xfffe. Hazre is \xfffe also the challenge
+\Xf000 븁 \x0000\xfffe a downward trend when the Pokémon to the Blackboard fighting \xfffe absorbed around crab \xf
