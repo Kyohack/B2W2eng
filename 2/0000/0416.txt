@@ -7,8 +7,8 @@ What would you like to seek?
 Seeking participants...
 Suspend your invitation?
 Communicating. Please stand by...
-Ｗｉ－Ｆｉせつぞくを\xfffeしゅうりょう　しますか？
-レポートを　かいています\xfffeでんげんを　きらないでください
+Are you sure you want to stop\xfffe connecting to Ｗｉ－Ｆｉ？
+Saving... Please don't turn off the power!
 \xf000Ā\x0001\x0000 invites you for\xfffea Voice Chat!
 \xf000Ā\x0001\x0000 appears to be busy...
 You can't connect with\xfffe\xf000Ā\x0001\x0000.
@@ -16,8 +16,8 @@ Communicating with \xf000Ā\x0001\x0000...
 \xf000Ā\x0001\x0000 failed to respond...
 \xf000Ā\x0001\x0000 ended the Voice Chat.
 Would you like to end\xfffethis Voice Chat?
-Ｗｉ－Ｆｉコネクションに　せつぞく
-せつぞくちゅうの　ともだち
+Connect to Ｗｉ－Ｆｉ connection
+Friends connected
 Yes
 No
 Battle
@@ -27,8 +27,8 @@ Trade
 During the rade
 Voice Chat
 あいてを　ぼしゅうする
-Ｗｉ－Ｆｉせつぞくを　やめる
-もうしこむ
+Disconnect from Ｗｉ－Ｆｉ
+Apply
 きろくを　みる
 Cancel
 \xf000Ā\x0001\x0000
