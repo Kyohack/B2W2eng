@@ -1,16 +1,16 @@
-\xf000Ā\x0001\x0000has joined.
+\xf000Ā\x0001\x0000 has joined.
 Would you like to stop drawing?
-\xf000Ā\x0001\x0000さんが　かえりました
-リーダーの　\xf000Ā\x0001\x0000さんが\xfffeぬけたので　かいさん　します\xf000븂\x0001<
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-メンバーが　いなくなったので\xfffeかいさん　します\xf000븂\x0001<
-おえかきを　やめました
-やめる
+\xf000Ā\x0001\x0000 has left.
+\xf000Ā\x0001\x0000, the leader, has left.\xfffeThe group will be disbanded.\xf000븂\x0001<
+If the leader drops out, the group will\xfffebe disbanded. Is that OK?
+There are no members.\xfffeThe group will be disbanded.\xf000븂\x0001<
+The drawing session was ended.
+Quit
 \xf000Ā\x0001\x0000
-トレーナーサインを　かこう！
-これで　よろしい　ですか？
-あたらしく　サインを\xfffeかきなおしますか？
-おわる
+Sign your Trainer Card!
+Is this okay?
+Create a new\xfffesignature?
+CLOSE
 Joined a drawing session!
-Yes
-No
+YES
+NO
