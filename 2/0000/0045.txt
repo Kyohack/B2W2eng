@@ -2,9 +2,9 @@
 \xf000봂\x0000TRADE RENDEZVOUS
 TRADE WANTED
 LEVEL
-Lv. 1 through Lv. 49
+Lv. 1 through 49
 Lv. 50
-Lv. 51 through Lv. 100
+Lv. 51 through 100
 Any kind
 COOL
 CUTE
@@ -44,5 +44,5 @@ Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
 You need at least two Pokémon\xfffeif you want to trade!
 RENDEZVOUS WITH ANY
 Will you trade with someone\xfffeyou have traded with before?
-さくじょします
-９９ついかします
+DELETE
+ADD 99
