@@ -10,7 +10,7 @@ Please wait.\xfffeB Button: Cancel
 A member dropped out.\xfffeThe Spin Trade will be canceled.
 Cancel the Spin Trade?
 The Spin Trade will be canceled.
-レコードを　まぜています\xfffeでんげんを　きらないで　ください！
+Exchanging records.\xfffePlease don't turn off the power!
 The Spin Trade is done!\xfffeYou will be returned to the Union Room.
 If the leader drops out, the group will\xfffebe disbanded. Is that OK?
 \xf000Ā\x0001\x0000 has left.
