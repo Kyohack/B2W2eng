@@ -649,39 +649,39 @@ Keldeo
 Meloetta
 Genesect
 Egg
-ダメタマゴ
-ＵＦＯ
-ハチクマン
-Ｍ．Ｖ
-Ｍ．Ｖ２
+Bad Egg
+UFO
+Brycen Man
+M. V
+M. V2
 てんそうき
-だいＯＬ
-ひとがた
-かいぶつ
-Ｆ−００
-あくりょう
-しろいかべ
-くろいかべ
-セットＵ１
-セットＵ２
-セットＨ１
-セットＭ１
-セットＭ２
-セットＴ１
-セットＯ１
-セットＯ２
-セットＣ１
-セットＣ２
-セットＧ１
-セットＷ１
-セットＷ２
-セットＲ１
-セットＲ２
-セットＫ１
-ＵＦＯ２
-だいＯＬ２
-Ｆ−００２
-カラテおう
-ドーブル２
+Scene OL
+Puppet
+Monster
+F-00
+Demon
+White Wall
+Black Wall
+Set U1
+Set U2
+Set H1
+Set M1
+Set M2
+Set T1
+Set O1
+Set O2
+Set C1
+Set C2
+Set G1
+Set W1
+Set W2
+Set R1
+Set R2
+Set K1
+UFO 2
+Scene OL 2
+F-002
+Black Belt
+Double 2
 Egg
 Egg
