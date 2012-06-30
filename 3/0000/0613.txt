@@ -30,6 +30,6 @@ NO
 \xf000ć\x0001\x0001
 \xf000ć\x0001\x0000　だね\xfffe\xf000ĉ\x0001\x0001　\xf000ȁ\x0001\x0002コ　もらうよ？
 \xf000ȁ\x0001\x0001コ
-\xf000ĉ\x0001\x0000you do not have enough！\xf000븁\x0000
+You do not have enough \xf000ĉ\x0001\x0000!\xf000븁\x0000
 わざを　おぼえさせる\xfffeポケモンを　えらんどくれ\xf000븁\x0000
 ｘ\xf000Ȃ\x0001\x0000
