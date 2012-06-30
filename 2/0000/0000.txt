@@ -6,7 +6,7 @@ Female
 Battle
 Trade
 The City
-The Country
+The Countryside
 Smart
 Athletic
 Time
@@ -19,24 +19,24 @@ Strange
 Tepig
 Oshawott
 Snivy
-The Beach
-A River
-The Mountains
-Classes
-Breaks
-Lunch
+Competition
+Cooperation
+-
+Go to the past
+Go to the future
+Don't need
 Family
 Friends
 Self
-Spring
-Summer
-Autumn
-Winter
-Sweet
-Spicy
-Sour
-Bitter
-Fun
+Cool People
+Smart Person
+Funny Man
+Strange Person
+Chasing a dream
+Reality Check
+-
+-
+Interesting
 Cool
 Kind
 Rich
@@ -44,18 +44,18 @@ Battles
 Collecting
 The Story
 Pokémon
-English
-Math
-Science
-Social Studies
-English
-Math
-Science
-Social Studies
-Trainer
-Professor
-Team Plasma
-Pokémon
+Flying
+Become transparent
+Stop Time
+Read Minds
+Use
+Save
+Be Proud
+Donate
+0 - 5 years
+5 - 10 years
+10 - 15 years
+15 - years
 Play Outside
 Shopping
 Reading
@@ -77,18 +77,18 @@ Romance
 Suspense
 Comedy
 Horror
-Baseball
-Soccer
-Basketball
-Football
-Hockey
-Martial Arts
-Red
-Green
-Blue
-Yellow
-White
-Black
+Action
+Puzzle
+RPG
+Adventure
+Simulation
+Sport
+Work
+Interpersonal
+Hobby
+Health
+Become Mighty
+-
 Exercising
 Reading
 Music
@@ -105,17 +105,17 @@ Public Official
 Homemaker
 Artist
 Job-Hopper
-Chili
-Cilan
-Cress
-Lenora
+Cheren
+Roxie
 Burgh
 Elesa
 Clay
 Skyla
-Brycen
-Iris
 Drayden
+Marlon
+-
+-
+-
 Normal
 Fire
 Water
