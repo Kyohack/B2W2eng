@@ -200,6 +200,6 @@ BATTLE BOX
 --
 ⑭
 ⑮
-せいべつなし
-もっている
-もっていない
+NATURE
+ABILITY
+ITEM
