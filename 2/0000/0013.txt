@@ -1,8 +1,8 @@
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-HELD ITEM
+HOLD ITEM
 NATURE
-ABILITY
+CHARACTERISTIC
 \xf000ċ\x0001\x0000
 BOX 1
 BOX 2
@@ -37,8 +37,8 @@ SCENERY 1
 SCENERY 2
 SCENERY 3
 MISC.
-だいすき１
-だいすき２
+FAVORITE 1
+FAVORITE 2
 FOREST
 CITY
 DESERT
@@ -58,10 +58,10 @@ SIMPLE
 SPECIAL
 MONOCHROME
 TEAM PLASMA
-POKÉSTAR STUDIO
+POKÉSTAR STUDIOS
 PWT
-KYUREM 1
-KYUREM 2
+KYUREM1
+KYUREM2
 RESHIRAM
 ZEKROM
 BACK
@@ -70,8 +70,8 @@ NEXT
 PARTY ⒆⒇
 BOX LIST
 BATTLE BOX
-SWICH BOX
-もちものせいり
+CHANGE BOX
+MOVE ITEMS
 SUMMARY
 HELD ITEMS
 MARKING
@@ -85,16 +85,16 @@ TUCK IN
 CONFIRM
 CANCEL
 REPLACE
-CANCEL
-CANCEL
-Switch Pokémon\xfffe to box?
-Change\xfffe Wallpaper
-Store\xfffe Pokémon
-Bag
-Give
-Move
-♂
-♀
+QUIT
+QUIT
+CHANGE\xfffeBOX
+CHANGE\xfffeWALLPAPER
+STORE\xfffePOKÉMON
+BAG
+GIVE
+MOVE
+⑭
+⑮
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -107,11 +107,11 @@ None
 ???
 Lv.
 No.
-Moves Learned
-Yes
-No
-ボックスを　せいりする
-バトルボックス
+MOVES LEARNED
+YES
+NO
+ORGANIZE BOX
+BATTLE BOX
 ポケモンを　しぼりこむ
 じょうけんを　えらび　ＯＮに　すると\xfffeしぼりこみを　おこないます。
 ポケモンの　なまえの\xfffeかしらもじを　えらんでください。
@@ -147,12 +147,12 @@ No
 ポケモンの\xfffeせいべつを　えらんでください。
 ポケモンの　もちものに　ついて\xfffeえらんでください。
 ポケモンの　マーキングについて\xfffeえらんでください。
-\xf000봂\x0000なまえ
-\xf000봂\x0000せいかく
-\xf000봂\x0000とくせい
-\xf000봂\x0000せいべつ
-\xf000봂\x0000もちもの
-\xf000봂\x0000マーク
+\xf000봂\x0000NAME
+\xf000봂\x0000NATURE
+\xf000봂\x0000CHARACTERISTIC
+\xf000봂\x0000GENDER
+\xf000봂\x0000HOLD ITEM
+\xf000봂\x0000MARK
 ア
 イ
 ウ
@@ -197,9 +197,9 @@ No
 レ
 ロ
 ワ
-ー
-♂
-♀
-Nature
-Ability
-Item
+--
+⑭
+⑮
+せいべつなし
+もっている
+もっていない
