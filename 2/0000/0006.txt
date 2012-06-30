@@ -75,8 +75,8 @@ Played the Poké Flute!\xfffeWow! That sounds great!
 Played the Poké Flute!
 The Pokémon heard the\xfffeflute and woke up.
 Move
-You cannot buy\xfffe\xf000ĉ\x0001\x0000.
-Sell how many\xfffe\xf000ĉ\x0001\x0000?
+\xf000ĉ\x0001\x0000? Oh. no.\xfffeI can't buy that.
+\xf000ĉ\x0001\x0000? \xfffeHow many will you sell?
 I can pay ¥\xf000Ȇ\x0001\x0000.\xfffeWould that be OK?
 Turned over the \xf000ĉ\x0001\x0000\xfffeand recieved ¥\xf000Ȇ\x0001\x0001.
 Money
