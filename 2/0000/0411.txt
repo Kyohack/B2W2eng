@@ -1,6 +1,6 @@
 \xf000Ā\x0001\x0000's
 Number of Wins
-\xf000ȃ\x0001\x0000かい
+\xf000ȃ\x0001\x0000 Time
 Normal
 Fire
 Water
