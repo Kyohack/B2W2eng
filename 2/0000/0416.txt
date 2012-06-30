@@ -76,10 +76,10 @@ The request has been suspended.
 Cannot play\xfffewith this friend！
 Awaiting your friend's decision.\xfffePlease wait.
 Waiting room
-Cancelling...
+Canceling...
 A communication error occurred\xfffe\xf000Ȅ\x0001\x0000
-ちえんONになります\xf000븁\x0000
-ちえんOFF＝つうじょうになります\xf000븁\x0000
+Set Delay ON\xf000븁\x0000
+Set Delay OFF = Default\xf000븁\x0000
 Walk Around
 Multi-Battle
 ２ＢＩＴＡＤＰＣＭ
