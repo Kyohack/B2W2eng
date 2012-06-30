@@ -9,43 +9,43 @@ This mystery will be solved!
 The analysis will shine!
 Collect the trees only!
 Harvest has began!
-おとしものを　さがせ！
-わすれられた　おとしもの
-みつからない　おとしもの
-こやし　コレクター！
-ときめく　ハートは　どこに？
-まぼろしの　きのみを　さがせ！
-まぼろしの　いっぴん！
-きのみさがしで　だいぼうけん！
-きのみ　フェスティバル！
-まいごの　しょうねんを　さがせ
-そのどうぐ　ちょうだいな！
-かくとうかと　しゅぎょう！
-\xf000ȃ\x0001\x0001にん　くみて！
-エリートへの　みちのり！
-めざせ　わらしべちょうじゃ！
-ドキドキ　ぶつぶつこうかん！
-ウキウキ　ぶつぶつこうかん！
-エンジョイ　ショッピング！
-ショッキング　ショッピング！
-りそうの　おねだんは……？
-ホントの　おねだんは……？
-きおくの　げんかいへ……
-きおくりょく　トレーニング！
-じゃんけん　たいかい！
-ポケモンセンターの　おねえさん
-ポケモン　ずかんクイズ！
-おかいもの　だいさくせん！
-おわりなき　たたかい……！
-ポケモンセンター　クイズおう！
-クイズおう　けっていせん
-めざせ！　ポケモンクイズおう！
-おねえさんからの　プレゼント
-ゆれる　くさむらを　さがせ！
-ポケモンサーチ\xf000ȃ\x0001\x0001！
-\xf000ā\x0001\x0000を　さがせ！
-かねを　ならして……
-\xf000ȃ\x0001\x0001かい　なりひびく　かね
+Find the lost item!
+The lost item was forgotten...
+The lost item was not found...
+Fertilizer collector!
+How long will the heart prosper?
+Find the Phantom's berry!
+The Phantom's item!
+Quest for the Phantom's Berry!
+Berry Festival!
+Find the lost boy!
+That long route!
+Training and blackbelts!
+\xf000ȃ\x0001\x0001 workmen!
+Road to the elite!
+Look at the superior rice stalk!
+Thump-thump bartering!
+Cheerful bartering!
+Enjoy shopping!
+Shocking shopping!
+The cost of ideals...?
+The cost of truths...?
+Bounds of memory...
+Memory training!
+Rock-paper-scissors tournament!
+Pokémon Center's nurse
+Pokédex quiz!
+Epic shopping competition!
+Endless struggle...!
+Pokémon Center Quizmaster!
+Quizmaster playoff!
+Go for it!　Pokémon Quizmaster!
+Older sister's present!
+Look for the shaking grass!
+Pokémon Search \xf000ȃ\x0001\x0001!
+Search for \xf000ā\x0001\x0000!
+Ring the bell...
+Ring the bell \xf000ȃ\x0001\x0001 times
 きのこの　かくれんぼ！
 はねばしに　まいおちる　ハネ
 おたから　はっくつ！
