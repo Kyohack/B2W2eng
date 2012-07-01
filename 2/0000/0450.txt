@@ -384,7 +384,7 @@ Normal
 
 
 
-ノーマルフォルム
+Normal Forme
 
 
 
@@ -639,15 +639,15 @@ Spring Form
 
 
 
-けしんフォルム
-けしんフォルム
+Avatar Forme
+Avatar Forme
 
 
-けしんフォルム
-キュレムのすがた
-いつものすがた
-ボイスフォルム
-ゲノセクトのすがた
+Avatar Forme
+Kyurem Forme
+Normal Forme
+Voice Forme
+Genesect Form
 
 One form
 One form
@@ -720,14 +720,14 @@ Winter Form
 Summer Form
 Autumn Form
 Winter Form
-れいじゅうフォルム
-れいじゅうフォルム
-れいじゅうフォルム
-ホワイトキュレム
-ブラックキュレム
-かくごのすがた
+Sacred Forme
+Sacred Forme
+Sacred Forme
+White Kyurem
+Black Kyurem
+Resolution Form
 Pirouette Forme
-ゲノセクトのすがた
-ゲノセクトのすがた
-ゲノセクトのすがた
-ゲノセクトのすがた
+Genesect's Form
+Genesect's Form
+Genesect's Form
+Genesect's Form
