@@ -4,9 +4,9 @@ REGISTER
 GIVE
 VIEW
 CONFIRM
-RUN
+WALK
 BACK
-CLOSE
+CANCEL
 SHOW
 DUMMY
 CANCEL
@@ -41,57 +41,57 @@ Give
 Drink
 \xf000ȃ\x0001\x0000まい
 Close
-What about \xf000ĉ\x0001\x0000?
+\xf000ĉ\x0001\x0000 is selected.
 You cannot write\xfffemail here！
 There's no Pokemon!
 Move \xf000ĉ\x0001\x0000.
-You can't give them\xfffe\xf000ĉ\x0001\x0000!
+The \xf000ĉ\x0001\x0000 can't be held.
 You can't give them\xfffe\xf000ĉ\x0001\x0000 here!
 Store how many\xfffe\xf000ĉ\x0001\x0000?
 You stored\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
 You can't store any more!
 This is an important item\xfffeso you can't throw it away！
-Throw away how many\xfffe\xf000ĉ\x0001\x0000(s)?
-Threw away \xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001(s).
-Is it OK to throw away\xfffe\xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001(s)?
-Like Professor Juniper said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
-You can't dismount your bike here!
-Like Professor Juniper said... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000There are times and places\xfffeyou can use these!
+Throw away how many\xfffe\xf000ĉ\x0001\x0000?
+Threw away \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Is it OK to throw away\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Juniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and\xf000븀\x0000\xfffeplace for everything! But not now.
+You can't dismount your Bike here.
+Juniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and\xf000븀\x0000\xfffeplace for everything! But not now.
 Your Coins: \xf000Ȅ\x0001\x0000
-Booted up an TM!
-Booted up an HM!
-It contained \xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeto a Pokémon?
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001!
-Since a Repel’s effects still linger,\xfffeyou can’t use this now!
+Booted up a TM.
+Booted up an HM.
+It contained\xfffe\xf000ć\x0001\x0000.\xf000븁\x0000\xfffeTeach \xf000ć\x0001\x0000\xfffeto a Pokémon?
+\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
+Since a Repel's effects still linger,\xfffeyou can't use this now.
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be lured!
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be repelled!
 The box is full!
 Powders: \xf000ȃ\x0001\x0000
-\xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+\xf000봂\x0000No. \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
-\xf000봂\x0000HM\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+\xf000봂\x0000Hidden \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Berry Powder
 Played the Poké Flute!\xfffeWow! That sounds great!
 Played the Poké Flute!
 The Pokémon heard the\xfffeflute and woke up.
 Move
-\xf000ĉ\x0001\x0000? Oh. no.\xfffeI can't buy that.
+\xf000ĉ\x0001\x0000? Oh, no.\xfffeI can't buy that.
 \xf000ĉ\x0001\x0000? \xfffeHow many will you sell?
-I can pay ¥\xf000Ȇ\x0001\x0000.\xfffeWould that be OK?
-Turned over the \xf000ĉ\x0001\x0000\xfffeand recieved ¥\xf000Ȇ\x0001\x0001.
+I can pay $\xf000Ȇ\x0001\x0000.\xfffeWould that be OK?
+Turned over the \xf000ĉ\x0001\x0000\xfffeand received $\xf000Ȇ\x0001\x0001.
 Money
-¥\xf000Ȇ\x0001\x0000
+$\xf000Ȇ\x0001\x0000
 x\xf000ȁ\x0001\x0000
-+¥\xf000Ȇ\x0001\x0000
++$\xf000Ȇ\x0001\x0000
 Yes
 No
 Sell
 ×\xf000Ȃ\x0001\x0000
 Withdraw
 PP
-Power
-Accuracy
-Category
+POWER
+ACCURACY
+CATEGORY
 \xf000ȁ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 Seals:　\xf000ȃ\x0001\x0000
@@ -100,7 +100,7 @@ Close bag
 Bury
 Open
 Saved Battle Points:\xfffe\xf000ȃ\x0001\x0000 BP
-Type
+TYPE
 A Key Item in the Bag can be assigned\xfffeto this button for instant use.
 You can only register up to two items\xfffeto buttons!
 Turned on the power for\xfffeGB Sounds!
@@ -129,14 +129,14 @@ Battle Items Pocket\xfffeFor items that are useful during battle.
 Key Items Pocket\xfffeFor items that are indispensable for\xfffeyour adventure.
 Stop
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-Yes
-No
+x\xf000Ȃ\x0001\x0000
+YES
+NO
 \xf000봂\x0000\xf000ĉ\x0001\x0000
-Empty!
+It's empty.
 You used a Dark Stone\xfffebut nothing happened...
 You used a Light Stone\xfffebut nothing happened...
-Your items have been\xfffeorganized!
+Items have been sorted!
 \xf000Ē\x0001\x0000
 Your items have been\xfffeorganized by type!
 Your items have been\xfffeorganized by name!
