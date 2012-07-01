@@ -2176,22 +2176,22 @@
 これほどとは……！　いけません\xfffeアタクシに　ゆだんが　ありましたね
 しょうりの　ため　あえて\xfffeかんじょうを　ばくはつ　させます！！
 エレガントで　エクセレントな\xfffeトレーナーと　ポケモンね　アナタたち\xf000븁\x0000\xfffeそんな　きらびやかな　かたと\xfffeきそいあうことで\xf000븁\x0000\xfffeアタクシも　ポケモンも　みがかれます\xfffeかんしゃ　いたしますわ
-さいしょで　あいての　こころを\xfffeキャッチするのって　だいじ　ですよね
-さいしゅうしょう！\xfffeさいごの　ポケモン　です
-こんどこそ　ハッピーエンディング！\xfffeあとあじが　わるいのは　にがてです
-……うわあ\xf000븁\x0000\xfffeアタシ　またも\xfffeしちゃってます　あぜんぼーぜん\xf000븁\x0000\xfffeいろいろ　ことばは　しっていますが\xfffeうまく　いいあらわせないんですよね\xf000븁\x0000\xfffeきっと　ことばに　すると\xfffeいまの　きもちとか　それに\xf000븀\x0000\xfffeとじこめられちゃうから　かなあ\xf000븁\x0000\xfffeでも　これだけは　いわせてください\xfffeアナタ　さらに　グレートです！！
-ここで　その　わざとはね……\xfffeおもわず　みとれてしまうよ
-みずから　あきらめる　にんげんに\xfffeしょうりは　ひきよせられないぜ！
-きょくげんの　じょうきょうでも\xfffeかてる　やりかた……　あるはずだぜ
-どの　ポケモンを　そだてるか\xf000븁\x0000\xfffeどの　わざを　おしえるか\xf000븁\x0000\xfffeどの　どうぐを　もたせるか\xf000븁\x0000\xfffeあらゆることを　おろそかに　しない\xfffeそれが　かつための　すべてさ\xf000븁\x0000\xfffeきみは　そういう　いみで\xfffeすぐれた　しょうぶし　だな
-……あいかわらず　つよいな\xfffeそれでこそ　こころおどる！
-ラスト　１ぴき！\xfffeだが　つよさは　むげん！
-つぎの　わざ！\xfffeたましいを　こめる！
-さいきょうの　ポケモンなど　いないし\xfffeベストの　くみあわせも　ない……\xf000븁\x0000\xfffeそれゆえ　つねに\xfffeかちつづけるのは　むずかしい\xf000븁\x0000\xfffeだが　つよさを　もとめる　こころ\xfffeさいきょうを　しりたい　きもち……\xf000븀\x0000\xfffeそれを　わたしは　とうとい　とおもう\xf000븁\x0000\xfffeそして　それを　もっている\xfffeおまえを　そんけいする
-アタクシと　ポケモンの　ハーモニー！\xfffeこれから　おみせいたします！
-きょくげんの　たたかいが\xfffeアタクシを　つよくしてくれます！
-かんじょうを　コントロールし\xfffeしょうりへの　エネルギーに　します！
-あいかわらず……\xf000븁\x0000\xfffeいえ　いぜんよりも\xfffeエレガントで　エクセレントな\xf000븀\x0000\xfffeトレーナーと　ポケモンね　アナタたち\xf000븁\x0000\xfffeそんな　きらびやかな　かたと\xfffeきそいあうことで\xf000븁\x0000\xfffeアタクシも　ポケモンも　みがかれます\xfffeかんしゃ　いたします\xf000븀\x0000\xfffeまた　おあいて　してくださいね
+Being able to assess the battle and\xfffereact is important to solve problems.
+Finally!\xfffeThe last Pokémon.
+We've had an excellent battle!\xfffeIt's unfortunate that I'm pushed this far.
+Wow...that was an impressive battle.\xfffeI'm baffled by your power.\xf000븁\x0000\xfffeI'm confident that you are excellent.
+Your determination....\xfffeI am fascinated by it.
+You may have an edge\xfffebut I will not be pulled into defeat!
+Tch.\xfffeIt seems I'm in a bad situation.
+Your Pokemon have a destructive force\xfffebehind them. I'm still amazed.\xf000븁\x0000\xfffeThis has been an excellent battle.
+...This is awesome.\xfffeIt's time to get pumped up.
+Last Pokemon!\xfffeBut I still have infinite strength!
+My joints feel weak!\xfffeYou've got me pinned!
+I did not have the better bond with my \xfffePokemon. I usually win because I have\xf000븁\x0000\xfffestronger bonds but it's difficult.\xfffeI respect your power.\xf000븁\x0000\xfffe
+The harmony of Pokemon!\xfffeI wish to show that!
+The more of a challenge\xfffethe fight is, the better!
+The key to victory\xfffeis controlling your energy!
+I've seen this somewhere...\xfffea previous elegant trainer with gorgeous\xf000븁\x0000\xfffestyle who might be like you.\xfffeBut do your Pokemon love you?\xf000븁\x0000\xfffe
 ここは　おれの　みち！\xf000븁\x0000
 この　みちは　みんなの　みち！
 きみの　みちを　ゆけ！
@@ -2279,10 +2279,10 @@
 こころ　とぎすまし\xfffeポケモンと　ひとつに！！
 マダよ！　マダマダッ！！\xfffeマダ　あたしたち　たたかえる！！
 ふわあああ……\xfffeちからを　だしきったのに……\xf000븀\x0000\xfffeまけちゃったんだ　あたしたち！
-ポケモンの　いたみ……\xfffeあたしも　おなじように　かんじる！
-こころ　とぎすまし\xfffeポケモンと　ひとつに！！
-マダよ！　マダマダッ！！\xfffeマダ　あたしたち　たたかえる！！
-ふわあああ……\xfffeちからを　だしきったのに……\xf000븀\x0000\xfffeかてなかった……\xf000븁\x0000\xfffeありがと！　あたしたち\xfffeもっともっと　うえを　めざすから！
+I feel sorry for my Pokemon....\xfffeYou may have a similar feeling soon!
+It only takes one mind\xfffeto hone Pokemon!!
+Not yet!　We are close!!\xfffeWe can still fight!!
+Ah...the challenger was pursuing happiness\xfffe...and won the challenge.\xf000븀\x0000\xfffeThank you for this battle!
 くせもの　め！\xfffeまちぶせで　ござる！\xf000븁\x0000
 む　むねん……
 しからば　ごめん！
