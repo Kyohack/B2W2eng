@@ -1,22 +1,22 @@
-メダルかくとくすう　もくひょう
-Medals Earned
-もっている　ヒントメダル
+MEDAL SORTING MENU
+Achieved Medal
+Did not achieve Medal
 \xf000봃\x0001\xf000Ȃ\x0001\x0000
 \xf000봃\x0001\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
-このメダルを　イチオシに　とうろくし\xfffeほかの　プレイヤーに　こうかいします
-イチオシとうろくを\xfffeかいじょ　しました
-ヒントメダルは　イチオシに\xfffeとうろく　できません！
-ひょうじの　しかたを\xfffeどのように　かえますか？
-List Mode
-Single Column Mode
-Show Only Medals
-Show Only Hints
-By Type
-By Name
-By Newest
-Reset
-Quit
-\xf000봃\x0001かくとくした　ひづけ
-\xf000봃\x0001もらった　ひづけ
-\xf000봃\x0001\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000
-メダルボックスに\xfffeせつめいしょが　はさまっていた\xf000븁\x0000\xfffeメダルボックス　きのう　せつめい\xf000븁\x0000\xfffeメダルに　カーソルを　あわせて\xfffeＡボタンを　おすか\xf000븀\x0000\xfffeみぎはしの　しかくを　タッチすると\xf000븁\x0000\xfffeその　メダルを\xfffeイチオシメダルに　とうろくします\xf000븁\x0000\xfffeイチオシメダルは　つうしんで\xfffeほかの　プレイヤーに　みせられます\xf000븁\x0000\xfffeまた　ＳＴＡＲＴボタンを　おすか\xfffeひだりしたの　ボタンを　タッチすると\xf000븀\x0000\xfffeメダルの　ひょうじを　かえられます
+Selected medal has been selected\xfffeand was registered.
+Selection registration\xfffewas terminated.
+Unable to select and register\xfffeunknown Medal(s)!
+How do you want to sort\xfffeyour Medals?
+IN A LIST
+SINGLE COLUMN
+EARNED METALS
+NOT ACHIEVED
+TYPE MODE
+NAME ORDER
+NEWER ONES
+RESET SORTING
+QUIT
+\xf000봃\x0001 Achieved on
+\xf000봃\x0001 Got a hint on
+\xf000봃\x0001２０\xf000ȁ\x0001\x0000 /　\xf000ȁ\x0001\x0001 /　\xf000ȁ\x0001\x0002
+The instructions in the Medal Box say to\xfffepress A to touch a medal and use your\xf000븀\x0000\xfffetouch pen to guide you to a Medal.\xfffeSTART can be used to bring up a menu.\xf000븀\x0000\xfffeYou can also tap Medals to view them.
