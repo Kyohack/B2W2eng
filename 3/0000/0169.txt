@@ -41,7 +41,7 @@ You want this Pokémon?
 You don't want this Pokémon?
 Yes
 No
-\xf000Ā\x0001\x0000 received \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 received a \xf000ā\x0001\x0001!
 \xf000ā\x0001\x0002 is perfect for you!\xf000븁\x0000\xfffeWould you like to give your Pokémon\xfffea nickname?
 Oh I get it!\xfffeYou didn't want to give it a nickname.\xf000븁\x0000
 \xf000Ă\x0001\x0000?\xfffeThat's a really good nickname!
