@@ -1,53 +1,53 @@
-ＨＰ／ＰＰ
-Restore
-Status
-Healing Items
-ＨＰ／ＰＰ
-Restore
-Battle Items
-Poké Balls 
-Item used last
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-Next
 HP/PP
-Restore
-Status
-Healers
-Poké Balls
-Battle Items
+MEDICINE
+STATUS
+MEDICINE
+HP/PP
+MEDICINE
+BATTLE ITEMS
+BALL
+LAST USED ITEM
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+NEXT
+HP/PP
+MEDICINE
+STATUS
+MEDICINE
+BALL
+BATTLE ITEMS
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-Use
+USE
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-It will not do any good using that!
+It won't have any effect.
 It was wrapped in white fog！\xfffe
 \xf000Ă\x0001\x0000 \xfffeis getting Pumped!
-\xf000Ă\x0001\x0000's \xfffeAttack Rose!
-\xf000Ă\x0001\x0000's \xfffeSpecial Attack Rose!
-\xf000Ă\x0001\x0000's \xfffeSpeed Rose!
-\xf000Ă\x0001\x0000's \xfffeSpecial Defense Rose!
-\xf000Ă\x0001\x0000's \xfffeDefense Rose!
-\xf000Ă\x0001\x0000's \xfffeAccuracy Rose!
+\xf000Ă\x0001\x0000's Attack\xffferose!
+\xf000Ă\x0001\x0000's Special Attack\xffferose!
+\xf000Ă\x0001\x0000's Speed\xffferose!
+\xf000Ă\x0001\x0000's Special Defense\xffferose!
+\xf000Ă\x0001\x0000's Defense\xffferose!
+\xf000Ă\x0001\x0000's accuracy\xffferose!
 \xf000ĉ\x0001\x0000 \xfffewas used!
-Second Pokémon\xfffemakes it impossible to aim!
-There is not room left in your PC!
-\xf000ć\x0001\x0001‘s　effect prevents the use of another item! \xfffe\xf000Ă\x0001\x0000
-It’s no good, it’s impossible\xfffeto aim at a Pokémon not in sight!
-It’s no good, it's impossible\xfffeto aim at a Pokémon not in sight!
-Not enough energy!
+It's no good! It's impossible to aim\xfffewhen there are two Pokémon!
+There is no room left in the PC!
+\xf000ć\x0001\x0001's effect prevents\xfffethe item's use on \xf000Ă\x0001\x0000!
+It's no good! It's impossible to aim\xfffeat a Pokémon that's not in sight!
+It's no good! It's impossible to aim\xfffeat a Pokémon that's not in sight!
+It's not charged enough.
 Professor Juniper’s words echoed...\xfffeThere is a time and place for everything! But not now.\xf000븀\x0000\xfffe
-You cannot throw the ball\xfffewithout concentrating!
+It's impossible to aim\xfffewithout being focused!
 The Ball cannot be used \xfffebecause of the device Ghetsis used!
