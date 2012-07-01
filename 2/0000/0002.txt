@@ -88,7 +88,7 @@ HM moves can't be\xfffeforgotten now.
 \xf000Ă\x0001\x0000 has no energy left to battle!
 \xf000Ă\x0001\x0000 \xfffecan't be switched out!
 An Egg can't battle!
-You can't switch your partner's Pokémon with one of yours!
+You cannot decide for\xfffeyour partner!
 It won't have any effect.
 \xf000Ă\x0001\x0000's　HP was restored by\xfffe\xf000Ȃ\x0001\x0001 points!
 \xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
