@@ -1,5 +1,5 @@
-\xf000ȁ\x0001\x0000Ppl.
-Total:\xf000Ȅ\x0001\x0000
+\xf000ȁ\x0001\x0000 Ppl.
+Total: \xf000Ȅ\x0001\x0000
 Who will you thank?
 Will you use \xf000đ\x0001\x0001?\xfffe\xf000Ȃ\x0001\x0002 needed/\xf000Ȃ\x0001\x0003 held
 Use the \xf000đ\x0001\x0001\xfffethat \xf000Ā\x0001\x0000 activated?
@@ -21,7 +21,7 @@ CHECK
 CLOSE
 Hiya!
 \xf000Ā\x0001\x0000 is nearby.
-\xf000Ā\x0001\x0000 started battling\xfffea wild \xf000ā\x0001\x0001!s
+\xf000Ā\x0001\x0000 started battling\xfffea wild \xf000ā\x0001\x0001!
 \xf000Ā\x0001\x0000 won the battle\xfffewith the wild \xf000ā\x0001\x0001!
 \xf000Ā\x0001\x0000 started battling\xfffea special Pokémon!
 \xf000Ā\x0001\x0000 won the battle\xfffewith the special Pokémon!
