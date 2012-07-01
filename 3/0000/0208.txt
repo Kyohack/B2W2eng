@@ -1,28 +1,28 @@
-テストメッセージです
-\xf000ȅ\x0001\x0002円
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-まえに　かかれた　レポートに\xfffeうえから　かいても　いいですか？
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-\xf000ă\x0001\x0000は\xfffeレポートに　しっかり　かきのこした！
+Test Message
+¥\xf000ȅ\x0001\x0002
+Would you like to save the game?
+There is already a saved file.\xfffeIs it OK to overwrite it?
+Saving...\xfffeDon't turn off the power.
+\xf000Ā\x0001\x0000 saved the game.
 ちゅうい！！\xf000븁\x0000\xfffe『つづきから　はじめる』で\xfffeぼうけん　していた\xf000븀\x0000\xfffeレポートが　かかれています！\xf000븁\x0000\xfffeそちらで　プレイしていた　ぼうけんや\xfffeすべての　ポケモン　どうぐ　などが\xf000븀\x0000\xfffeきえてしまいます……\xf000븁\x0000\xfffeほんとうに\xfffeうえから　かいても　いいですか？
-レポートが　かけませんでした\xf000븁\x0000
-すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000\xfffeレポートが　かけません！\xf000븁\x0000\xfffeくわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000\xfffeごらんください
-すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000\xfffeレポートが　かけません！\xf000븁\x0000\xfffeくわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000\xfffeごらんください\xf000븁\x0000
-レポートに　たくさん　かきこんでいます\xfffeでんげんを　きらないでください
-セーブデータ　書き込み中　１
-セーブデータ　書き込み中　２
-セーブデータ　書き込み中　３
-しんにゅう　しているときや\xfffeしんにゅう　されているときは\xf000븀\x0000\xfffeレポートが　かけません！
-だれかと　せつぞくちゅうの　ようですが\xfffeせつだんして　よろしいですか？
-つうしんを　せつだん　します\xfffeしばらく　おまちください
-おかあさん『\xf000Ā\x0001\x0000！\xfffeおかえりなさい\xf000븁\x0000\xfffeたいへん　だったわね\xf000븁\x0000\xfffeすこし　やすんで　いったら\xfffeどうかしら……？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……
-おかあさん『あらあら！\xfffeあなたも　ポケモンも\xf000븀\x0000\xfffeげんき　いっぱいね！\xf000븁\x0000\xfffeそうだ！　さっき\xfffeはかせから　きいたんだけど……\xf000븁\x0000\xfffeポケモンの　たいりょく\xfffeえっと　ＨＰが　なくなってきたら\xf000븁\x0000\xfffeこまめに　ポケモンセンターで\xfffeかいふく　させるか\xf000븁\x0000\xfffeとおくに　ぼうけん　するときは\xfffeフレンドリィショップで\xf000븀\x0000\xfffeキズぐすりを　かっておくのが\xf000븀\x0000\xfffeきほん　らしいわよ\xf000븁\x0000\xfffeそれじゃ　おうえん　しているわ！\xf000븁\x0000\xfffeきを　つけて！\xfffeいってらっしゃい！
-まずは　ポケモンを\xfffeかいふく　させましょう
-ポケモンの　たいりょく……\xfffeＨＰが　なくなってきたら\xf000븀\x0000\xfffeこまめに　ここに　きてくださいね\xf000븁\x0000\xfffeすこしでも　とおいところへ\xfffeおでかけに　なるときは\xf000븁\x0000\xfffeフレンドリィショップで\xfffeキズぐすりを　かっておくのが\xf000븀\x0000\xfffeおすすめです\xf000븁\x0000\xfffeそれでは　がんばってください！
-みんな　げんきに　なりましたよ！\xf000븁\x0000\xfffeそれでは　がんばってください！
-ほんたいの　むせんつうしんが\xfffeオフに　なっています\xf000븁\x0000\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）\xf000븁\x0000
+Save error.\xf000븁\x0000
+There is already a saved game file.\xfffeIt is impossible to save.\xf000븁\x0000\xfffePlease refer to the Instruction\xfffeBooklet for details.\xf000븁\x0000\xfffePress Up + SELECT + B Button on\xfffethe title screen if you want to erase\xf000븀\x0000\xfffethe current saved game file.
+There is already a saved game file.\xfffeIt is impossible to save.\xf000븁\x0000\xfffePlease refer to the Instruction\xfffeBooklet for details.\xf000븁\x0000\xfffePress Up + SELECT + B Button on\xfffethe title screen if you want to erase\xf000븀\x0000\xfffethe current saved game file.\xf000븁\x0000
+Saving a lot of data...\xfffeDon't turn off the power.
+Writing a save game...\xfffeDon't turn off the power.
+Writing a save game...\xfffeDon't turn off the power.
+Writing a save game...\xfffeDon't turn off the power.
+Can't save the game\xfffewhile you are in someone's world\xf000븀\x0000\xfffeor while someone is in your world.
+It looks like you are connecting\xfffewith somebody. Is it OK to disconnect?
+Ending communication.\xfffePlease wait.
+Mother: \xf000Ā\x0001\x0000!\xfffeWelcome home.\xf000븁\x0000Things were looking bad there...\xfffeHow about you rest a while...?\xf000븁\x0000... ... ...\xfffe... ... ...
+Mother: Oho!\xf000븁\x0000Looks like you and your Pokémon\xfffeare feeling great!\xf000븁\x0000\xfffeRight! I heard this\xfffefrom the Professor before...\xf000븁\x0000\xfffeWhenever your Pokémon is\xfffeout of health... er, HP...\xf000븁\x0000Be sure to get it healed\xfffeat a Pokémon Center, alright?\xf000븁\x0000\xfffeWhen you're out adventuring far away,\xfffeit helps to buy essentials\xf000븀\x0000like Potions from the Friendly Shop.\xf000븁\x0000\xfffeWell, I'm backing you up!\xf000븁\x0000\xfffeBe careful!\xfffeAnd be on your way!
+First, let's restore your Pokémon\xfffeto full health.
+Please visit a Pokémon Center when your\xfffePokémon's HP goes down.\xf000븁\x0000\xfffeIf you're planning to travel any\xfffedistance, you should stock up on Potions\xf000븀\x0000\xfffeat a Poké Mart.\xf000븁\x0000\xfffeGood luck, Trainer!
+There! All happy and healthy!\xf000븁\x0000\xfffeGood luck and take care!
+Wireless communications are turned OFF.\xfffeTurn wireless communications ON\xf000븀\x0000\xfffein the System Settings.\xf000븀\x0000\xfffeError code: 50699\xf000븁\x0000
 ほんたいの　むせんつうしんが\xfffeオフに　なっています\xf000븁\x0000\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-ここでは　おりられない！
-リボンを　もっている　ポケモンが\xfffeてもちに　いません
+Juniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and place\xf000븀\x0000\xfffefor everything! But not now.
+You can't dismount your Bike here.
+There is no Pokémon\xfffewith a Ribbon in your party.
 ふたりで　いるときは\xfffe\xf000ĉ\x0001\x0001は　つかえません！
