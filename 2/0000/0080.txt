@@ -1,255 +1,255 @@
-メダルラリーに　さんかする　すべての\xfffeトレーナーが　さいしょに　もらえる\xfffeかのうせいに　みちた　メダル。
-メダルラリーに　さんかし　いっていの\xfffeせいせきを　おさめ　ゴールインした\xfffeきねんとなる　メダル。
-メダルラリーで　どりょくを　かさね\xfffeルーキーランクに　ランクアップした\xfffeきねんとなる　メダル。
-メダルラリーで　どりょくを　かさね\xfffeエリートランクに　ランクアップした\xfffeきねんとなる　メダル。
-メダルラリーで　どりょくを　かさね\xfffeマスターランクに　ランクアップした\xfffeきねんとなる　メダル。
-メダルラリーで　どりょくを　かさね\xfffeレジェンドランクに　ランクアップした\xfffeきねんとなる　メダル。
-すべての　メダルを　あつめ\xfffeメダリストの　ちょうてんに　たった\xfffeえいよの　あかしの　メダル。
-イッシュの　だいちを　５０００かい\xfffeふみしめた　そこそこの\xfffeけんきゃくを　たたえる　メダル。
-イッシュの　だいちを　１００００かい\xfffeふみしめた　なかなかの\xfffeけんきゃくを　たたえる　メダル。
-イッシュの　だいちを　２００００かい\xfffeふみしめた　かなりの\xfffeけんきゃくを　たたえる　メダル。
-イッシュの　だいちを　１０００００かい\xfffeふみしめた　きゅうきょくの\xfffeけんきゃくを　たたえる　メダル。
-レポートを　１０かい　かいた\xfffeういういしい　たびの　きろくを\xfffeひょうかする　メダル。
-レポートを　２０かい　かいた\xfffeけっき　さかんな　たびの　きろくを\xfffeひょうかする　メダル。
-レポートを　５０かい　かいた\xfffeじゅんちょうな　たびの　きろくを\xfffeひょうかする　メダル。
-レポートを　１００かい　かいた\xfffeおどろくべき　たびの　きろくを\xfffeひょうかする　メダル。
-ポケモンセンターで　ポケモンを\xfffeなんども　やすませた　やさしい\xfffeトレーナーに　おくられる　メダル。
-５かしょの　おとくな　けいじばんを\xfffeみた　じょうほうしゅうしゅうに\xfffeねっしんな　ひとのための　メダル。
-１５かしょの　おとくな　けいじばんを\xfffeみた　じょうほうしゅうしゅうを\xfffeきわめた　ひとのための　メダル。
-かんばんの　うらの\xfffeラクガキも　みのがさない\xfffeどうさつりょくを　みとめる　メダル。
-じてんしゃに　はじめて　のった\xfffeかけだしの　じてんしゃのりに\xfffeおくられる　メダル。
-じてんしゃに　３０かい　のった\xfffeさっそうとした　じてんしゃのりに\xfffeおくられる　メダル。
-じてんしゃに　１００かい　のった\xfffeのりに　のっている　じてんしゃのりに\xfffeおくられる　メダル。
-じてんしゃに　５００かい　のった\xfffeてんちをゆるがす　じてんしゃのりに\xfffeおくられる　メダル。
-ポケモンを　はじめて　つりあげた\xfffeしょしんしゃの　つりびとに\xfffeさずけられる　メダル。
-ポケモンを　１０ひき　つりあげた\xfffeたしなむ　ていどの　つりびとに\xfffeさずけられる　メダル。
-ポケモンを　５０ひき　つりあげた\xfffeじゅくたつした　つりびとに\xfffeさずけられる　メダル。
-ポケモンを　１００ひき　つりあげた\xfffeでんせつてきな　つりびとに\xfffeさずけられる　メダル。
-イッシュずかんの　ノーマルポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　ほのおポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　みずポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　でんきポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　くさポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　こおりポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　かくとうポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　どくポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　じめんポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　ひこうポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　エスパーポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　むしポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　いわポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　ゴーストポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　ドラゴンポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　あくポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんの　はがねポケモンを\xfffeすべて　つかまえた\xfffeきねんとなる　メダル。
-イッシュずかんを　かんせいし\xfffeディレクターから　しょうじょうを\xfffeもらった　きねんとなる　メダル。
-ぜんこくずかんを　かんせいし\xfffeディレクターから　しょうじょうを\xfffeもらった　きねんとなる　メダル。
-ボックスに　３０ひきの　ポケモンを\xfffeあずけている　かけだしの\xfffeトレーナーに　あたえられる　メダル。
-ボックスに　１２０ひきの　ポケモンを\xfffeあずけている　うでのたつ\xfffeトレーナーに　あたえられる　メダル。
-ボックスに　３６０ひきの　ポケモンを\xfffeあずけている　すごうでの\xfffeトレーナーに　あたえられる　メダル。
-ボックスに　はいりきらない　ほどの\xfffeポケモンを　つかまえた　うつわの\xfffeおおきさを　たたえる　メダル。
-１にちの　うちに　５０ひき　もの\xfffeポケモンを　つかまえた\xfffeほかくの　きろくの　メダル。
-じどうはんばいきで　のみものを\xfffe１０ほんいじょう　かった\xfffeドリンクずきの　ための　メダル。
-じどうはんばいきで\xfffe『あたり』を　だした　ラッキーな\xfffeひとの　ための　メダル。
-ポケモンを　はじめて　しんかさせた\xfffeしょうらい　ゆうぼうな\xfffeいくせいじょうずの　ための　メダル。
-ポケモンを　１０かい　しんかさせた\xfffeポケモンブリーダーも　みとめる\xfffeいくせいじょうずの　ための　メダル。
-ポケモンを　５０かい　しんかさせた\xfffeそだてやじいさんも　おどろく\xfffeいくせいじょうずの　ための　メダル。
-ポケモンを　１００かい　しんかさせた\xfffeポケモンはかせも　どぎもをぬく\xfffeいくせいじょうずの　ための　メダル。
-そらをとぶを　じざいに　つかい\xfffeイッシュのそらを　じゅうおうむじんに\xfffeとびまわった　あかしの　メダル。
-ぞんぶんに　かいりきを　はっきし\xfffeじゃまな　いわを　たくさん　どかせた\xfffeちからづよさを　たたえる　メダル。
-カラッポだと　わかっていても\xfffeこりずに　ゴミばこを　しらべた\xfffeものずきの　ための　メダル。
-めに　みえない　かくされた\xfffeどうぐを　はじめて　みつけた\xfffeかんさつがんを　たたえるメダル。
-めに　みえない　かくされた\xfffeどうぐを　１０こ　みつけた\xfffeかんさつがんを　たたえるメダル。
-めに　みえない　かくされた\xfffeどうぐを　５０こ　みつけた\xfffeかんさつがんを　たたえるメダル。
-かくされた　どうぐを\xfffe１５０こも　みつけた　まれにみる\xfffeかんさつがんを　たたえるメダル。
-ポケモンの　ニックネームを\xfffeたくさん　かんがえた\xfffeなづけおやに　あたえられる　メダル。
-テレビばんぐみに　むちゅうになって\xfffeついつい　みいってしまう\xfffeげんだいっこに　おくられる　メダル。
-いろいろな　おみせに　かよいつめ\xfffeじょうれんきゃくになった\xfffeトレーナーの　ための　メダル。
-いろいろな　おみせでの　かいもので\xfffe１００００円も　つかった\xfffeおかねもちの　ための　メダル。
-いろいろな　おみせでの　かいもので\xfffe１０００００円も　つかった\xfffeおかねもちの　ための　メダル。
-いろいろな　おみせでの　かいもので\xfffe１００００００円も　つかった\xfffeおかねもちの　ための　メダル。
-いろいろな　おみせでの　かいもので\xfffe１０００００００円も　つかった\xfffeけいざいりょくの　あかしの　メダル。
-まとめがいを　こころがけ\xfffeおまけの　プレミアボールを　もらった\xfffeせつやくじょうずの　ための　メダル。
-なつかしさ　あふれる\xfffeじぶんの　いえで　やすんだ\xfffeふるさとおもいの　ための　メダル。
-はじめて　だれかと　すれちがった\xfffeささやかな　であいと　わかれの\xfffeあかしとなる　メダル。
-３０にんと　すれちがった\xfffeいりみだれる　であいと　わかれの\xfffeあかしとなる　メダル。
-１００にんと　すれちがった\xfffeげきどうの　であいと　わかれの\xfffeあかしとなる　メダル。
-１０００にんと　すれちがった\xfffeはらんばんじょうな　にんげんもようの\xfffeあかしとなる　メダル。
-デルパワーを　はじめて　つかった\xfffeういういしい　ちからの　ながれを\xfffeひょうかする　メダル。
-デルパワーを　１０かい　つかった\xfffeたくましい　ちからの　ながれを\xfffeひょうかする　メダル。
-デルパワーを　５０かい　つかった\xfffeすさまじい　ちからの　ながれを\xfffeひょうかする　メダル。
-デルパワーを　１００かい　つかった\xfffeこのうえない　ちからの　ながれを\xfffeひょうかする　メダル。
-ハイリンクのもりで　はじめて\xfffeポケモンを　つかまえた\xfffeゆめみがちな　メダル。
-ハイリンクのもりで　１０ひきの\xfffeポケモンを　つかまえた\xfffeゆめみがちな　メダル。
-ハイリンクのもりで　５０ひきの\xfffeポケモンを　つかまえた\xfffeゆめみがちな　メダル。
-ハイリンクのもりで　１００ひきの\xfffeポケモンを　つかまえた\xfffeゆめのような　メダル。
-すべての　かくしあなを\xfffeはっけんした　やせいを\xfffeほめたたえる　メダル。
-ポケモンの　タマゴを　はじめて\xfffeふかさせた　めばえたての\xfffeぼせいの　あかしとなる　メダル。
-ポケモンの　タマゴを　１０かい\xfffeふかさせた　それなりの\xfffeぼせいの　あかしとなる　メダル。
-ポケモンの　タマゴを　５０かい\xfffeふかさせた　ぐんをぬく\xfffeぼせいの　あかしとなる　メダル。
-ポケモンの　タマゴを　１００かい\xfffeふかさせた　そこなしの\xfffeぼせいの　あかしとなる　メダル。
-そだてやさんに　たくさんの\xfffeポケモンを　あずけた\xfffeいくせいずきの　あかしの　メダル。
-ポケモンの　カセキを　ふくげんさせ\xfffeげんだいに　よみがえらせた\xfffeかがくの　ちからの　メダル。
-でんせつの　ドラゴンポケモンに\xfffeみとめられた　えいゆうの　トモダチを\xfffeなかまにした　あかしの　メダル。
-いろちがいの　ポケモンを\xfffeなかまにした　こううんな\xfffeトレーナーを　たたえる　メダル。
-ポケモンに　くっつく　なぞの\xfffeせいめいたい　ポケルスを　みつけた\xfffeトレーナーに　あたえられる　メダル。
-ヒウンシティに　たむろする\xfffeワルたちの　ちょうてんに　たった\xfffeあかしとなる　メダル。
-カナワタウンで　すべての\xfffeしゃりょうの　せつめいを　きいた\xfffeでんしゃずきの　ための　メダル。
-マリンチューブに　まれに　あらわれる\xfffeポケモン　ホエルオーの　およぐ\xfffeすがたを　みた　あかしの　メダル。
-セイガイハシティの\xfffeかおだしかんばんで　きねんしゃしんを\xfffeさつえいした　おもいでの　メダル。
-はたらく　くるまの　ことなら\xfffeなんでも　しっている\xfffeものしりの　ための　メダル。
-かいていいせきの\xfffeさいしんぶに　たどりついた\xfffeぼうけんかに　あたえられる　メダル。
-めったに　みることが　できない\xfffeダイヤモンドダストを　みた\xfffeしょうめいの　メダル。
-イッシュちほうの　すべての　はしに\xfffeもれなく　おとずれた\xfffeはしずきの　ための　メダル。
-イッシュちほうの　すべての　まちを\xfffeおとずれた　さいこうの　たびびとに\xfffeあたえられる　メダル。
-『ぼうけん』メダルを　すべて　\xfffeあつめた　ごほうびの　メダル。
-１００かいもの　せんとうを\xfffeかいくぐった　わかわかしい\xfffeゆうきを　しょうめいする　メダル。
-２００かいもの　せんとうを\xfffeかいくぐった　たけだけしい\xfffeゆうきを　しょうめいする　メダル。
-４００かいもの　せんとうを\xfffeかいくぐった　すさまじい\xfffeゆうきを　しょうめいする　メダル。
-２０００かいもの　せんとうを\xfffeかいくぐった　てんかむそうの\xfffeゆうきを　しょうめいする　メダル。
-はじめて　つうしんたいせんを　した\xfffeしんせんな　きょうそうしんを\xfffeたたえる　メダル。
-つうしんたいせんを　１０かい　した\xfffeせんしんてきな　きょうそうしんを\xfffeたたえる　メダル。
-つうしんたいせんを　５０かい　した\xfffeじゅくたつした　きょうそうしんを\xfffeたたえる　メダル。
-つうしんたいせんを　１００かい　した\xfffeうまれもっての　きょうそうしんを\xfffeたたえる　メダル。
-あめにもまけず　かぜにもまけず\xfffeはねるを　つかった\xfffeこんじょうを　たたえる　メダル。
-ばんさくつきても　なお　たたかう\xfffeほこりたかき　あきらめのわるさを\xfffeしょうめいする　メダル。
-こうかのないわざを　だしてしまった\xfffeおちゃめな　ミステイクを\xfffeわらって　ゆるす　メダル。
-かずおおくの　あいての　じゃくてんを\xfffeみやぶり　たたかいを　ゆうりに\xfffeすすめた　あかしの　メダル。
-はじめて　バトルサブウェイに\xfffeいどんだ　はしりはじめの\xfffeちょうせんしゃの　ための　メダル。
-１０かいも　バトルサブウェイに\xfffeいどんだ　かそくしてきた\xfffeちょうせんしゃの　ための　メダル。
-５０かいも　バトルサブウェイに\xfffeいどんだ　エンジン　ぜんかいの\xfffeちょうせんしゃの　ための　メダル。
-１００かいも　バトルサブウェイに\xfffeいどんだ　とどまることを　しらない\xfffeちょうせんしゃの　ための　メダル。
-バトルサブウェイ　シングルトレインで\xfffeサブウェイマスターを　たおした\xfffeしょうぶづよさを　たたえる　メダル。
-バトルサブウェイ　ダブルトレインで\xfffeサブウェイマスターを　たおした\xfffeしょうぶづよさを　たたえる　メダル。
-バトルサブウェイ　マルチトレインで\xfffeサブウェイマスターを　たおした\xfffeしょうぶづよさを　たたえる　メダル。
-はじめて　バトルけんていを　うけた\xfffeきたいの　ニューカマーな\xfffeチャレンジャーの　ための　メダル。
-バトルけんていを　１０かいも　うけて\xfffeいきおいづいてきた\xfffeチャレンジャーの　ための　メダル。
-バトルけんていを　３０かいも　うけた\xfffeまいど　おなじみな\xfffeチャレンジャーの　ための　メダル。
-バトルけんていを　５０かいも　うけた\xfffeけんていと　いえば　このひと！　な\xfffeチャレンジャーの　ための　メダル。
-１にちの　うちに　１００００００もの\xfffeけいけんちを　てにいれた\xfffeたたかいの　きろくの　メダル。
-ＢＰを　１００Ｐ　てにいれた\xfffeつよさと　たゆまぬ　どりょくを\xfffeたたえる　メダル。
-ゆれる　くさむらや　つちけむりを\xfffeみのがさずに　たんさくした\xfffeぼうけんしんの　あかしの　メダル。
-ビッグスタジアムや　リトルコートで\xfffe３０にんもの　トレーナーと\xfffeたたかった　あかしの　メダル。
-ロイヤルイッシュごうに\xfffe１０かい　のった　こうかいの\xfffeきねんとなる　メダル。
-ＰＷＴの\xfffeホドモエトーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeレンタルトーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeミックストーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeイッシュリーダーズトーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeカントーリーダーズトーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeジョウトリーダーズトーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeホウエンリーダーズトーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeシンオウリーダーズトーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeワールドリーダーズトーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeチャンピオンズトーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeレンタルマスタートーナメントで\xfffeゆうしょうした　あかしの　メダル。
-ＰＷＴの\xfffeミックスマスタートーナメントで\xfffeゆうしょうした　あかしの　メダル。
-タイプエキスパートトーナメントの\xfffeすべての　タイプの　トーナメントで\xfffeゆうしょうした　あかしの　メダル。
-くろのまてんろうを　エリア５まで\xfffeたんさくした　そこそこの\xfffeぼうけんしゃのための　メダル。
-くろのまてんろうを　エリア１０まで\xfffeたんさく　しつくした　つわものの\xfffeぼうけんしゃのための　メダル。
-しろのじゅどうを　エリア５まで\xfffeたんさくした　そこそこの\xfffeぼうけんしゃのための　メダル。
-しろのじゅどうを　エリア１０まで\xfffeたんさく　しつくした　つわものの\xfffeぼうけんしゃのための　メダル。
-２０にんの　トレーナーを\xfffeイッシュのなんかんで　たおした\xfffeやや　つよい　あかしの　メダル。
-５０にんの　トレーナーを\xfffeイッシュのなんかんで　たおした\xfffeそこそこ　つよい　あかしの　メダル。
-１００にんの　トレーナーを\xfffeイッシュのなんかんで　たおした\xfffeかなり　つよい　あかしの　メダル。
-１０００にんの　トレーナーを\xfffeイッシュのなんかんで　たおした\xfffeむてきのせんしを　たたえる　メダル。
-イッシュのなんかん　エリア２から５\xfffeいずれかで　すべての　トレーナーを\xfffeたおした　せんかの　メダル。
-イッシュのなんかん　エリア６から１０\xfffeいずれかで　すべての　トレーナーを\xfffeたおした　せんかの　メダル。
-イッシュのなんかん　エリア２から５\xfffeいずれかを　せんとう　４かい　いかで\xfffeクリアした　せんかの　メダル。
-イッシュのなんかん　エリア６から１０\xfffeいずれかを　せんとう　６かい　いかで\xfffeクリアした　せんかの　メダル。
-イッシュのなんかん　エリア２から５\xfffeいずれかを　１００ほ　いないに\xfffeクリアした　せんかの　メダル。
-イッシュのなんかん　エリア６から１０\xfffeいずれかを　１０００ほ　いないに\xfffeクリアした　せんかの　メダル。
-『せんとう』メダルを　すべて\xfffeあつめた　ごほうびの　メダル。
-はじめて　つうしんで　ポケモンを\xfffeこうかんした　けいけんを\xfffeきねんする　メダル。
-つうしんで　ポケモンを　１０かい\xfffeこうかんした　ほうふな　けいけんを\xfffeきねんする　メダル。
-つうしんで　ポケモンを　５０かい\xfffeこうかんした　きちょうな\xfffeけいけんを　きねんする　メダル。
-つうしんで　ポケモンを　１００かい\xfffeこうかんした　たぐいまれな\xfffeけいけんを　きねんする　メダル。
-くろの　せかいと　しろの　せかい\xfffe２つの　せかいを　またにかけた\xfffeポケモンこうかんの　メダル。
-メールを　かき　ポケモンに　もたせる\xfffeノスタルジックな　つうしんしゅだんに\xfffeかちを　みいだす　メダル。
-なんども　ミュージカルに　さんかし\xfffeぶたいに　かかせない　ひととなった\xfffeトレーナーに　おくられる　メダル。
-ミュージカルで　たかいひょうかを\xfffeはじめて　もらった　ういういしい\xfffeかつやくの　あかしとなる　メダル。
-ミュージカルで　たかいひょうかを\xfffe５かい　もらった　はなばなしい\xfffeかつやくの　あかしとなる　メダル。
-ミュージカルで　たかいひょうかを\xfffe１０かい　もらった　かがやかしい\xfffeかつやくの　あかしとなる　メダル。
-ミュージカルで　たかいひょうかを\xfffe３０かい　もらった　セレブリティな\xfffeかつやくの　あかしとなる　メダル。
-ミュージカルグッズを　すべて　あつめ\xfffeファッションリーダーとなった\xfffeはなやかさを　たたえる　メダル。
-ミュージカルの　でまちファンが\xfffe１０にんに　たっした　ふどうの\xfffeにんきを　たたえる　メダル。
-はじめて　ともだちコードを\xfffeこうかんした　ういういしい\xfffeこうりゅうの　あかしとなる　メダル。
-５にんと　ともだちコードを\xfffeこうかんした　かっぱつな　\xfffeこうりゅうの　あかしとなる　メダル。
-１０にんと　ともだちコードを\xfffeこうかんした　せっきょくてきな\xfffeこうりゅうの　あかしとなる　メダル。
-ともだちてちょうが　いっぱいになった\xfffeワールドワイドな　こうりゅうの\xfffeあかしとなる　メダル。
-ぐるぐるこうかんで　たくさん　あそび\xfffeタマゴを　とりかえっこした\xfffeワクワクかんの　あかしの　メダル。
-フィーリングチェックを　なんども\xfffeあそんだ　こうりゅうを　かかさない\xfffeトレーナーの　ための　メダル。
-フィーリングチェックで\xfffe８０てんいじょうを　きろくした\xfffeひとへ　おくられる　メダル。
-かんらんしゃでの　さまざまな\xfffeであいを　つうじて\xfffeしきを　たのしんだ　メダル。
-ジョインアベニューで　１０にんの\xfffeおきゃくさんを　あんないした\xfffeわかてガイドの　ための　メダル。
-ジョインアベニューで　２０にんの\xfffeおきゃくさんを　あんないした\xfffeめいぶつガイドの　ための　メダル。
-ジョインアベニューで　５０にんの\xfffeおきゃくさんを　あんないした\xfffeじゅくれんガイドの　ための　メダル。
-ジョインアベニューで　１００にんの\xfffeおきゃくさんを　あんないした\xfffeてんかむてきの　ガイドの　メダル。
-ジョインアベニューで\xfffe５けんの　おみせを　つくった\xfffeしんじんオーナーの　ための　メダル。
-ジョインアベニューで\xfffe１０けんの　おみせを　つくった\xfffeきえいの　オーナーのための　メダル。
-ジョインアベニューで\xfffe２０けんの　おみせを　つくった\xfffeカリスマオーナーの　ための　メダル。
-ジョインアベニューで\xfffe５０けんの　おみせを　つくった\xfffeきゅうきょくの　オーナーの　メダル。
-ジョインアベニューで\xfffe１０かい　おみやげを　もらった\xfffeそこそこの　にんきものの　メダル。
-ジョインアベニューで\xfffe３０かい　おみやげを　もらった\xfffeかなりの　にんきものの　メダル。
-ジョインアベニューで\xfffe５０かい　おみやげを　もらった\xfffeそうとうの　にんきものの　メダル。
-ジョインアベニューで\xfffe１００かい　おみやげを　もらった\xfffeさいこうの　にんきものの　メダル。
-ジョインアベニューを　はってんさせ\xfffeオリジナルの　なまえを　つける\xfffeけんりを　えた　きねんの　メダル。
-ライブキャスターで　ミニゲームを\xfffe１０かい　あそんだ　ささやかな\xfffeあそびごころを　たたえる　メダル。
-ライブキャスターで　ミニゲームを\xfffe３０かい　あそんだ　それなりの\xfffeあそびごころを　たたえる　メダル。
-ライブキャスターで　ミニゲームを\xfffe５０かい　あそんだ　そうとうな\xfffeあそびごころを　たたえる　メダル。
-ライブキャスターで　ミニゲームを\xfffe１００かい　あそんだ　ごくじょうの\xfffeあそびごころを　たたえる　メダル。
-ライブキャスターの　ミニゲームの\xfffeとくてんが　５０てんに　たっした\xfffeささやかな　きろくの　メダル。
-ライブキャスターの　ミニゲームの\xfffeとくてんが　２００てんに　たっした\xfffeはげしい　きろくの　メダル。
-ライブキャスターの　ミニゲームの\xfffeとくてんが　５００てんに　たっした\xfffeごうかいな　きろくの　メダル。
-ライブキャスターの　ミニゲームの\xfffeとくてんが　１０００てんに　たっした\xfffeきゅうきょくの　きろくの　メダル。
-ポケウッドでの　デビューさく　\xfffeえいが　ハチクマン\xfffeこうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeハチクマンの　ぎゃくしゅう\xfffeぜんさく　こうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeフルメタルコップ　ぜんシリーズ\xfffeこうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeしんりゃくしゃ　ぜんシリーズ\xfffeこうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeだいかいじゅう　ぜんシリーズ\xfffeこうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeタイムゲート　トラベラー\xfffeぜんさく　こうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeトレーナーとポケモン　そのあい\xfffeぜんさく　こうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeまほうのくにの　ふしぎなとびら\xfffeぜんさく　こうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeＯＬ・ザ・ジャイアント！！\xfffeぜんさく　こうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeきょうふ！　あくむの　あかいきり\xfffeぜんさく　こうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeわすれえぬ　きおく　ぜんシリーズ\xfffeこうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeゴーストイレイザー　ぜんシリーズ\xfffeこうかい　きねん　メダル。
-ポケウッドの　えいが\xfffeハチクマンのぎゃくしゅうリターンズ\xfffeこうかい　きねん　メダル。
-ポケウッドで　すべての　えいがに\xfffeしゅつえんした　えいがはいゆうに\xfffeおくられる　メダル。
-ポケウッドの　すべての　えいがで\xfffeグッドエンドの　ストーリーに　でた\xfffeじつりょくは　はいゆうの　メダル。
-ポケウッドで　１０００おく円いじょうの\xfffeこうぎょうしゅうにゅうを　きろくした\xfffeにんき　はいゆうの　ための　メダル。
-ポケウッドで　はじめて　ストレンジな\xfffeストーリーの　えいがに　でた\xfffeきさい　たんじょう　きねん　メダル。
-ポケウッドの　すべての　えいがで\xfffeストレンジな　ストーリーに　でた\xfffeカルトえいがの　めいゆうの　メダル。
-１０にんいじょう　あつまった\xfffeなかなかの　きぼの　ミッションに\xfffeさんかした　きねんの　メダル。
-３０にんいじょう　あつまった\xfffeそうとうな　きぼの　ミッションに\xfffeさんかした　きねんの　メダル。
-１００いじょうの　スコアを　きろくし\xfffeなかなか　もりあがった　ミッションに\xfffeさんかした　あかしの　メダル。
-１０００いじょうの　スコアを　きろくし\xfffeそうとう　もりあがった　ミッションに\xfffeさんかした　あかしの　メダル。
-フェスミッションを　１０かい\xfffeかいさいした　それなりの\xfffeじしゅせいを　たたえる　メダル。
-フェスミッションを　５０かい\xfffeかいさいした　たぐいまれな\xfffeじしゅせいを　たたえる　メダル。
-フェスミッションに　はじめて\xfffeさんかした　かけだしの\xfffeせっきょくせいを　たたえる　メダル。
-フェスミッションに　１０かい\xfffeさんかした　かがやかしい\xfffeせっきょくせいを　たたえる　メダル。
-フェスミッションを　３０かい\xfffeクリアした　そこそこの\xfffeじっこうりょくを　たたえる　メダル。
-フェスミッションを　１００かい\xfffeクリアした　おどろくべき\xfffeじっこうりょくを　たたえる　メダル。
-すべての　フェスミッションを\xfffeクリアした　てんかむそうの\xfffeじっこうりょくを　たたえる　メダル。
-ゲームシンクを　して　ポケモンを\xfffeゆめの　せかいで　あそばせた\xfffeよい　ねむりを　たたえる　メダル。
-おもいでリンクを　おこない\xfffeはじめて　リンクイベントを　みた\xfffeあかしの　メダル。
-おもいでリンクを　おこない\xfffeすべての　リンクイベントを　みた\xfffeあかしの　メダル。
-『おたのしみ』メダルを　すべて　\xfffeあつめた　ごほうびの　メダル。
-ノーマルタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeひぼんさを　たたえる　メダル。
-ほのおタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeあついちしおを　たたえる　メダル。
-みずタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeみずみずしさを　たたえる　メダル。
-でんきタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeしびれるげんきを　たたえる　メダル。
-くさタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeはなばなしさを　たたえる　メダル。
-こおりタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeれいせいさを　たたえる　メダル。
-かくとうタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeナイスファイトを　たたえる　メダル。
-どくタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeどくそうせいを　たたえる　メダル。
-じめんタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeじりきのつよさを　たたえる　メダル。
-ひこうタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeひやくを　たたえる　メダル。
-エスパータイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeエキスパートを　たたえる　メダル。
-むしタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeインパクトを　たたえる　メダル。
-いわタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeかたい　いしを　たたえる　メダル。
-ゴーストタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeしゅうねんを　たたえる　メダル。
-ドラゴンタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeごうかいさを　たたえる　メダル。
-あくタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeアクのつよさを　たたえる　メダル。
-はがねタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeてつのハートを　たたえる　メダル。
-たった　１ひきの　ポケモンで\xfffeポケモンリーグを　せいはした\xfffeここうの　おうじゃのための　メダル。
-『ちょうせん』メダルを　すべて\xfffeあつめた　ごほうびの　メダル。
+Medal given to new trainers\xfffewhen they begin their adventure\xfffeto start them off.
+Medal given to show you've\xfffeparticipated in the Medal Rally\xfffeand completed it.
+Medal to show you've\xfffereached Rookie rank without quitting.
+Medal to show you've\xfffereached Elite rank without quitting.
+Medal to show you've\xfffereached Master rank without quitting.
+Medal to show you've\xfffereached Legend rank without quitting.
+Medal to show you've\xfffesurpassed all other challenges\xfffeand collected all other Medals.
+Medal to show you've\xfffetaken at least 5000 steps in the\xfffeUnova Region.
+Medal to show you've\xfffetaken at least 10000 steps in the\xfffeUnova Region.
+Medal to show you've\xfffetaken at least 20000 steps in the\xfffeUnova Region.
+Medal to show you've\xfffetaken at least 100000 steps in the\xfffeUnova Region.
+Medal to show you've\xfffesaved the game at least 10 times.
+Medal to show you've\xfffesaved the game at least 20 times.
+Medal to show you've\xfffesaved the game at least 50 times.
+Medal to show you've\xfffesaved the game at least 100 times.
+Medal to show you've\xfffeused the Pokemon Center many\xfffetimes.
+Medal to show you've\xffferead at least 5 different signs in\xfffethe Unova Region.
+Medal to show you've\xffferead at least 15 different signs in\xfffethe Unova Region.
+Medal to show you've\xfffecaught the graffiti on the back of\xfffea sign.
+Medal to show you've\xffferode a BICYCLE for the first time.
+Medal to show you've\xffferode a BICYCLE 30 times.
+Medal to show you've\xffferode a BICYCLE 100 times.
+Medal to show you've\xffferode a BICYCLE 500 times.
+Medal to show you've\xfffeused the SUPER ROD at least once.
+Medal to show you've\xfffeused the SUPER ROD at least\xfffe10 times.
+Medal to show you've\xfffeused the SUPER ROD at least\xfffe50 times.
+Medal to show you've\xfffeused the SUPER ROD at least\xfffe100 times.
+Medal to show you've\xfffecaptured all NORMAL types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all FIRE types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all WATER types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all ELECTRIC types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all GRASS types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all ICE types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all FIGHTING types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all POISON types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all GROUND types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all FLYING types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all PSYCHIC types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all BUG types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all ROCK types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all GHOST types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all DRAGON types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all DARK types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all STEEL types\xfffein the Unova Pokedex.
+Medal to show you've\xfffecaptured all of the\xfffePokemon in the Unova Pokedex.
+Medal to show you've\xfffecaptured all of the\xfffePokemon in the National Pokedex.
+Medal to show you've\xfffeplaced 30 Pokemon within a the box.
+Medal to show you've\xfffeplaced 120 Pokemon within a the box.
+Medal to show you've\xfffeplaced 360 Pokemon within a the box.
+Medal to show you've\xfffefilled all of the boxes.
+Medal to show you've\xfffecaptured 50 Pokemon within 1 day.
+Medal to show you've\xfffebought 10 drinks from a Vending Machine.
+Medal to show you've\xfffegot a free drink from the Vending Machine.
+Medal to show you've\xfffeevolved at least one Pokemon.
+Medal to show you've\xfffeevolved at least 10 Pokemon.
+Medal to show you've\xfffeevolved at least 50 Pokemon.
+Medal to show you've\xfffeevolved at least 100 Pokemon.
+Medal to show you've\xfffeused FLY to go across the Unova Region.
+Medal to show you've\xfffeused STRENGTH to push a large boulder.
+Medal to show you've\xfffelooked in a trash bin at least once.
+Medal to show you've\xfffefound at least 1 hidden item.
+Medal to show you've\xfffefound at least 10 hidden items.
+Medal to show you've\xfffefound at least 50 hidden items.
+Medal to show you've\xfffefound at least 150 hidden items.
+Medal to show you've\xfffechanged the nickname of one of your\xfffePokemon.
+Medal to show you've\xfffechanged the channel on a TV.
+Medal to show you've\xfffereturned to the PokeMart.
+Medal to show you've\xfffespent $10000 in the PokeMart
+Medal to show you've\xfffespent $100000 in the PokeMart
+Medal to show you've\xfffespent $1000000 in the PokeMart
+Medal to show you've\xfffespent $10000000 in the PokeMart
+Medal to show you've\xfffebought enough PokeBalls\xfffeto recieve a Premier Ball.
+Medal to show you've\xfffetaken a rest at home.
+Medal to show you've\xfffepassed one person using the C-Gear.
+Medal to show you've\xfffepassed 30 people using the C-Gear.
+Medal to show you've\xfffepassed 100 people using the C-Gear.
+Medal to show you've\xfffepassed 1000 people using the C-Gear.
+Medal to show you've\xfffeused a Pass Power for the first time.
+Medal to show you've\xfffeused a Pass Power for the 10th time.
+Medal to show you've\xfffeused a Pass Power for the 50th time.
+Medal to show you've\xfffeused a Pass Power for the 100th time.
+Medal to show you've\xfffecaught 1 Pokemon within the EntraLink.
+Medal to show you've\xfffecaught 10 Pokemon within the EntraLink.
+Medal to show you've\xfffecaught 50 Pokemon within the EntraLink.
+Medal to show you've\xfffecaught 100 Pokemon within the EntraLink.
+Medal to show you've\xfffefound all Hidden Hollows.
+Medal to show you've\xfffeobtained your first egg.
+Medal to show you've\xfffeobtained 10 eggs from the Day Care.
+Medal to show you've\xfffeobtained 50 eggs from the Day Care.
+Medal to show you've\xfffeobtained 100 eggs from the Day Care.
+Medal to show you've\xfffehad the Day Care couple look after\xfffeseveral Pokemon.
+Medal to show you've\xffferestored a fossil.
+Medal to show you've\xfffecaptured N's Pokemon.
+Medal to show you've\xfffecaptured your first Shiny Pokemon.
+Medal to show you've\xfffehad a Pokemon with PokeRus.
+Medal to show you've\xfffedefeated Castelia City's gang.
+Medal to show you've\xfffelistened to the train descriptions in\xfffeAnville Town.
+Medal to show you've\xfffeseen a Wailord while in the Marine Tube.
+Medal to show you've\xfffehad your photo taken at the Frillish sign in\xfffeSeigaiha City.
+Medal to show you've\xfffeinteracted with all possible automobiles.
+Medal to show you've\xfffereached the final floor in the Abyssal Ruins.
+Medal to show you've\xfffeexperienced the Diamond Dust weather\xfffeat least once.
+Medal to show you've\xfffecrossed all of the bridges in Unova.
+Medal to show you've\xfffevisited all of the areas in Unova.
+Medal to show you've\xfffecollected all Adventure Medals.
+Medal to show you've\xfffeparticipated in 100 battles.
+Medal to show you've\xfffeparticipated in 200 battles.
+Medal to show you've\xfffeparticipated in 400 battles.
+Medal to show you've\xfffeparticipated in 2000 battles.
+Medal to show you've\xfffeparticipated in a wireless battle.
+Medal to show you've\xfffeparticipated in 10 wireless battles.
+Medal to show you've\xfffeparticipated in 50 wireless battles.
+Medal to show you've\xfffeparticipated in 100 wireless battles.
+Medal to show you've\xfffeexperienced all kinds of weather.
+Medal to show you've\xfffenot retreated from losing a battle.
+Medal to show you've\xfffegot a Pokemon that doesn't affect one\xfffeof your Pokemon.
+Medal to show you've\xfffelanded many Super Effective hits.
+Medal to show you've\xfffebattled in the Battle Subway at least once.
+Medal to show you've\xfffereached a streak of 10 in the Battle Subway.
+Medal to show you've\xfffereached a streak of 50 in the Battle Subway.
+Medal to show you've\xfffereached a streak of 100 in the Battle Subway.
+Medal to show you've\xfffedefeated the Subway Masters in a Single Line.
+Medal to show you've\xfffedefeated the Subway Masters in a Double Line.
+Medal to show you've\xfffedefeated the Subway Masters in a Multi Line.
+Medal to show you've\xfffebattled in the Battle Institute at least once.
+Medal to show you've\xfffetested 10 teams in the Battle Institute.
+Medal to show you've\xfffetested 30 teams in the Battle Institute.
+Medal to show you've\xfffetested 50 teams in the Battle Institute.
+Medal to show you've\xfffeearned over 1000000 BP.
+Medal to show you've\xfffeearned 100 BP in the Battle Subway and\xfffePWT combined.
+Medal to show you've\xfffeexplored a shaking spot of Grass or Dust.
+Medal to show you've\xfffebattled at least 30 people in Nimbasa City's\xfffeStadiums.
+Medal to show you've\xffferode the Royal Unova 10 times.
+Medal to show you've\xfffebeaten the Driftveil Tournament of PWT.
+Medal to show you've\xfffebeaten the Rental Tournament of PWT.
+Medal to show you've\xfffebeaten the Mixed Tournament of PWT.
+Medal to show you've\xfffebeaten the Unova Leaders of PWT.
+Medal to show you've\xfffebeaten the Kanto Leaders of PWT.
+Medal to show you've\xfffebeaten the Johto Leaders of PWT.
+Medal to show you've\xfffebeaten the Hoenn Leaders of PWT.
+Medal to show you've\xfffebeaten the Sinnoh Leaders of PWT.
+Medal to show you've\xfffebeaten the Champions of PWT.
+Medal to show you've\xfffebeaten the Unova Leaders of PWT.
+Medal to show you've\xfffebeaten the Master Rental Tournament of PWT.
+Medal to show you've\xfffebeaten the Mixed Master Tournament of PWT.
+Medal to show you've\xfffebeaten the Type Expert Tournament of PWT.
+Medal to show you've\xfffebeaten Area 5 in Black Skyscraper.
+Medal to show you've\xfffebeaten Area 10 in Black Skyscraper.
+Medal to show you've\xfffebeaten Area 5 in White Tree Hollow.
+Medal to show you've\xfffebeaten Area 10 in White Tree Hollow.
+Medal to show you've\xfffebeaten 20 trainers in\xfffeBlack Skyscraper/White Tree Hollow.
+Medal to show you've\xfffebeaten 50 trainers in\xfffeBlack Skyscraper/White Tree Hollow.
+Medal to show you've\xfffebeaten 100 trainers in\xfffeBlack Skyscraper/White Tree Hollow.
+Medal to show you've\xfffebeaten 1000 trainers in\xfffeBlack Skyscraper/White Tree Hollow.
+Medal to show you've\xfffecleared areas 2-5 in\xfffeBlack Skyscraper/White Tree Hollow.
+Medal to show you've\xfffecleared areas 6-10 in\xfffeBlack Skyscraper/White Tree Hollow.
+Medal to show you've\xfffecleared areas 2-5 without battling more than\xfffe4 people in Black Skyscraper/White Tree Hollow.
+Medal to show you've\xfffecleared areas 6-10 without battling more than\xfffe6 people in Black Skyscraper/White Tree Hollow.
+Medal to show you've\xfffecleared areas 2-5 in less than\xfffe100 steps in Black Skyscraper/White Tree Hollow.
+Medal to show you've\xfffecleared areas 6-10 in less than\xfffe1000 steps in Black Skyscraper/White Tree Hollow.
+Medal to show you've\xfffeearned all Battle Medals.
+Medal to show you've\xfffemade your first trade.
+Medal to show you've\xfffetraded 10 Pokemon.
+Medal to show you've\xfffetraded 50 Pokemon.
+Medal to show you've\xfffetraded 100 Pokemon.
+Medal to show you've\xfffetraded between Black 2 and White 2.
+Medal to show you've\xfffetraded a Pokemon with Mail attached.
+Medal to show you've\xfffeparticipated in a Pokemon Musical.
+Medal to show you've\xfffewon a Pokemon Musical.
+Medal to show you've\xfffewon 5 Pokemon Musicals.
+Medal to show you've\xfffewon 10 Pokemon Musicals.
+Medal to show you've\xfffewon 30 Pokemon Musicals.
+Medal to show you've\xfffecollected all Musical Props.
+Medal to show you've\xfffeparticipated in Pokemon Musicals with 10 People.
+Medal to show you've\xfffeentered someone in your PAL PAD.
+Medal to show you've\xfffeentered 5 people in your PAL PAD.
+Medal to show you've\xfffeentered 10 people in your PAL PAD.
+Medal to show you've\xfffecommunicated with someone foreign.
+Medal to show you've\xfffemade a Spin Trade.
+Medal to show you've\xfffeused the Feeling Check.
+Medal to show you've\xfffeused the Feeling Check 80 times.
+Medal to show you've\xffferidden the Ferris Wheel with many people.
+Medal to show you've\xfffegotten 10 people to join your Join Avenue.
+Medal to show you've\xfffegotten 20 people to join your Join Avenue.
+Medal to show you've\xfffegotten 50 people to join your Join Avenue.
+Medal to show you've\xfffegotten 100 people to join your Join Avenue.
+Medal to show you've\xfffeopened 5 shops in Join Avenue.
+Medal to show you've\xfffeopened 10 shops in Join Avenue.
+Medal to show you've\xfffeopened 20 shops in Join Avenue.
+Medal to show you've\xfffeopened 50 shops in Join Avenue.
+Medal to show you've\xfffepurchased 10 items from Join Avenue.
+Medal to show you've\xfffepurchased 30 items from Join Avenue.
+Medal to show you've\xfffepurchased 50 items from Join Avenue.
+Medal to show you've\xfffepurchased 100 items from Join Avenue.
+Medal to show you've\xfffeearned the right to name Join Avenue.
+Medal to show you've\xfffeplayed 10 mini-games on the Xtransceiver.
+Medal to show you've\xfffeplayed 30 mini-games on the Xtransceiver.
+Medal to show you've\xfffeplayed 50 mini-games on the Xtransceiver.
+Medal to show you've\xfffeplayed 100 mini-games on the Xtransceiver.
+Medal to show you've\xfffereached 50 points in Xtransceiver Mini-Games.
+Medal to show you've\xfffereached 200 points in Xtransceiver Mini-Games.
+Medal to show you've\xfffereached 500 points in Xtransceiver Mini-Games.
+Medal to show you've\xfffereached 1000 points in Xtransceiver Mini-Games.
+Medal to show you've\xfffemade a Brycen-man\xfffePokeWood Movie.
+Medal to show you've\xfffemade a Revenge of Brycen-man\xfffePokeWood Movie.
+Medal to show you've\xfffemade a Full Metal Cup\xfffePokeWood Movie.
+Medal to show you've\xfffemade a Invaders\xfffePokeWood Movie.
+Medal to show you've\xfffemade a Monster\xfffePokeWood Movie.
+Medal to show you've\xfffemade a Time Traveler\xfffePokeWood Movie.
+Medal to show you've\xfffemade a Pokemon Trainers\xfffein Love PokeWood Movie.
+Medal to show you've\xfffemade a The Mysterious Door\xfffeof the Magic Kingdom PokeWood Movie.
+Medal to show you've\xfffemade a The Giant Office Lady\xfffePokeWood Movie.
+Medal to show you've\xfffemade a Fear! The Red Mist\xfffeNightmare PokeWood Movie.
+Medal to show you've\xfffemade a Storage Robot\xfffePokeWood Movie.
+Medal to show you've\xfffemade a Ghost Eraser\xfffePokeWood Movie.
+Medal to show you've\xfffemade a Return of Brycen-man\xfffePokeWood Movie.
+Medal to show you've\xfffestarred in all of the PokeWood Movies.
+Medal to show you've\xfffestarred in all of the\xfffeClassic PokeWood Movies.
+Medal to show you've\xfffeearned over $1000 Billion in the\xfffePokeWood Movie box office.
+Medal to show you've\xfffemade your first Cult PokeWood Movie.
+Medal to show you've\xfffemade all of the Cult PokeWood Movies.
+Medal to show you've\xfffeparticipated in FES missions with 10 people.
+Medal to show you've\xfffeparticipated in FES missions with 30 people.
+Medal to show you've\xfffeearned a score of 100 in a FES mission.
+Medal to show you've\xfffeearned a score of 1000 in a FES mission.
+Medal to show you've\xfffestarted 10 FES missions.
+Medal to show you've\xfffestarted 50 FES missions.
+Medal to show you've\xfffeparticipated in a FES mission.
+Medal to show you've\xfffeparticipated in 10 FES missions.
+Medal to show you've\xfffewon 30 FES missions.
+Medal to show you've\xfffewon 100 FES missions.
+Medal to show you've\xfffecompleted all FES missions.
+Medal to show you've\xfffeput a Pokemon to sleeping using Game Sync.
+Medal to show you've\xfffeseen a Memory Link Flashback.
+Medal to show you've\xfffeseen all Memory Link Flashbacks.
+Medal to show you've\xfffereceived all Entertainment Medals.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only NORMAL type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only FIRE type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only WATER type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only ELECTRIC type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only GRASS type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only ICE type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only FIGHTING type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only POISON type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only GROUND type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only FLYING type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only PSYCHIC type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only BUG type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only ROCK type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only GHOST type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only DRAGON type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only DARK type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only STEEL type Pokemon.
+Medal to show you've defeated\xfffethe whole Elite Four and Champion\xfffeusing only 1 Pokemon.
+Medal to show you've\xfffeearned all the Challenge Medals.
