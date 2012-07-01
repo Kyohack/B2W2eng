@@ -11,10 +11,10 @@ Number of times thanked:\xfffeNumber of people passed by:
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000かい\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001にん
 \xf000Ȅ\x0001\x0001にん
 \xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-Passerby time:　ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-Passerby time:　ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-Battling　\xf000ā\x0001\x0000a\xfffewild
-Battling a\xfffespecial Pokémon
+Passerby time: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Passerby time: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Battling a wild \xf000ā\x0001\x0000
+Battling a special Pokémon
 Battling \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001
 Battling a Gym Leader
 Battling a special Trainer
