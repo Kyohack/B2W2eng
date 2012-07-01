@@ -1,7 +1,7 @@
 \xf000Ă\x0001\x0000 fainted!
 The wild \xf000Ă\x0001\x0000 fainted!
 The foe's \xf000Ă\x0001\x0000 fainted!
-\xf000Ă\x0001\x0000 recovered\xfffefrom fainting!
+\xf000Ă\x0001\x0000 recovered from\xfffefainting!
 The wild \xf000Ă\x0001\x0000 recovered\xfffefrom fainting!
 The foe's \xf000Ă\x0001\x0000 recovered\xfffefrom fainting!
 It's super effective on\xfffe\xf000Ă\x0001\x0000!
@@ -310,7 +310,7 @@ The foe's \xf000Ă\x0001\x0000\xfffefell asleep!
 \xf000Ă\x0001\x0000 is fast\xfffeasleep.
 The wild \xf000Ă\x0001\x0000 is fast\xfffeasleep.
 The foe's \xf000Ă\x0001\x0000 is fast\xfffeasleep.
-\xf000Ă\x0001\x0000 woke up!
+\xf000Ă\x0001\x0000 woke up.
 The wild \xf000Ă\x0001\x0000\xfffewoke up!
 The foe's \xf000Ă\x0001\x0000\xfffewoke up!
 \xf000Ă\x0001\x0000 is\xfffealready asleep!
