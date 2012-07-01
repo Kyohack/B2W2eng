@@ -64,12 +64,12 @@ Medal to show you've\xfffefound at least 50 hidden items.
 Medal to show you've\xfffefound at least 150 hidden items.
 Medal to show you've\xfffechanged the nickname of one of your\xfffePokémon.
 Medal to show you've\xfffechanged the channel on a TV.
-Medal to show you've\xfffereturned to the PokeMart.
-Medal to show you've\xfffespent $10000 in the PokeMart
-Medal to show you've\xfffespent $100000 in the PokeMart
-Medal to show you've\xfffespent $1000000 in the PokeMart
-Medal to show you've\xfffespent $10000000 in the PokeMart
-Medal to show you've\xfffebought enough PokeBalls\xfffeto recieve a Premier Ball.
+Medal to show you've\xfffereturned to the PokéMart.
+Medal to show you've\xfffespent $10000 in the PokéMart
+Medal to show you've\xfffespent $100000 in the PokéMart
+Medal to show you've\xfffespent $1000000 in the PokéMart
+Medal to show you've\xfffespent $10000000 in the PokéMart
+Medal to show you've\xfffebought enough PokéBalls\xfffeto recieve a Premier Ball.
 Medal to show you've\xfffetaken a rest at home.
 Medal to show you've\xfffepassed one person using the C-Gear.
 Medal to show you've\xfffepassed 30 people using the C-Gear.
@@ -92,7 +92,7 @@ Medal to show you've\xfffehad the Day Care couple look after\xfffeseveral Pokém
 Medal to show you've\xffferestored a fossil.
 Medal to show you've\xfffecaptured N's Pokémon.
 Medal to show you've\xfffecaptured your first Shiny Pokémon.
-Medal to show you've\xfffehad a Pokémon with PokeRus.
+Medal to show you've\xfffehad a Pokémon with PokéRus.
 Medal to show you've\xfffedefeated Castelia City's gang.
 Medal to show you've\xfffelistened to the train descriptions in\xfffeAnville Town.
 Medal to show you've\xfffeseen a Wailord while in the Marine Tube.
