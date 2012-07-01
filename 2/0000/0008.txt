@@ -14,7 +14,7 @@ Battle
 \xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
 \xf000봂\x0000\xf000Ā\x0001\x0000'S PROFILE
 Mute
-\xf000봂\x0000\xf000ȁ\x0001\x0000Born in 
+\xf000봂\x0000Born in \xf000ƀ\x0001\x0000
 \xf000봂\x0000Location
 \xf000봂\x0000Trainer's quote
 Data
@@ -29,7 +29,7 @@ DELETE MY VIDEO
 DELETE OTHER VIDEOS
 Autumn
 Delete \xf000Ā\x0001\x0000's Records
-SEARCH BY RANK
+SEARCH BY RANKING
 SEND DATA
 NEWEST 30
 SEARCH
@@ -56,16 +56,16 @@ Fun
 Select
 Box
 View Photo
-ア
-カ
-サ
-タ
-ナ
-ハ
-マ
-ヤ
-ラ
-ワ
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
 This Week’s Rankings
 Last Week’s Rankings
 Switch Rankings
@@ -95,13 +95,13 @@ Overwrite
 Is it OK to delete\xfffe\xf000Ā\x0001\x0000's Battle Video?
 VIEW BATTLE VIDEOS
 SEND BATTLE VIDEO
-Newest 30
-Search
-Search by Video NO.
-Search by Facility
-Search by Pokémon
-Search Your Location
-Ok!
+NEWEST 30
+SEARCH
+SEARCH BY VIDEO NO.
+SEARCH BY FACILITY
+SEARCH BY POKÉMON
+SEARCH YOUR LOCATION
+OK!
 Please enter the Video Number.
 Please choose the facility.
 Please choose the Pokémon.
@@ -110,9 +110,9 @@ You haven’t set any search criteria.
 Loading Battle Video...
 There is no matching Battle Video...
 Sending the Battle Video...
-Battle Video has been sent!
-\xf000봂\x0000View Profile
-\xf000봂\x0000Close Profile
+The Battle Video has been sent!
+\xf000봂\x0000VIEW PROFILE
+\xf000봂\x0000CLOSE PROFILE
 Newest 30 Battle Videos
 Please set the search criteria.
 Undefined
@@ -137,7 +137,7 @@ PREVIOUS:
 RECORD:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-Wins
+\xf000봃\x0001\x0000 Wins
 Multi with Trainer
 Multi with friend
 RANK
