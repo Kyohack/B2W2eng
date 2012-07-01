@@ -4,9 +4,9 @@ To recover your Pokémon, \xfffeleave your Pokémon with me.\xf000븁\x0000
 This is the PC!\xf000븁\x0000
 Any trainer can use this.\xf000븁\x0000\xfffeYou can desposit a Pokémon\xfffeand take another out!\xf000븁\x0000
 Follow me over here!\xf000븁\x0000
-This is the Pokémart!\xf000븁\x0000\xfffeThey sell various tools\xfffeto help you on your journey.\xf000븁\x0000\xfffeYou can buy or sell things!\xf000븁\x0000\xfffeYou can buy Pokeballs here\xfffeto catch Pokémon.\xf000븀\x0000\xfffeBut I'll give you some!\xf000븁\x0000
-So \xf000Ā\x0001\x0000, \xfffeHere's some Pokeballs!\xf000븁\x0000
-So \xf000Ā\x0001\x0000, \xfffeHere's some Pokeballs!\xf000븁\x0000
+This is the Pokémart!\xf000븁\x0000\xfffeThey sell various tools\xfffeto help you on your journey.\xf000븁\x0000\xfffeYou can buy or sell things!\xf000븁\x0000\xfffeYou can buy Pokéballs here\xfffeto catch Pokémon.\xf000븀\x0000\xfffeBut I'll give you some!\xf000븁\x0000
+So \xf000Ā\x0001\x0000, \xfffeHere's some Pokéballs!\xf000븁\x0000
+So \xf000Ā\x0001\x0000, \xfffeHere's some Pokéballs!\xf000븁\x0000
 I'll explain how to catch Pokémon later.\xf000븁\x0000
 Oh? \xf000Ā\x0001\x0000, Your \xf000ā\x0001\x0001 looks lonely.....\xf000븁\x0000
 Oh! Your Pokémon has a \xf000Ĉ\x0001\x0002 nature!

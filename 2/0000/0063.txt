@@ -626,13 +626,13 @@ An important letter which\xfffeWingull delivers.
 An important letter which\xfffeWingull delivers.
 A high-tech transceiver with a\xfffecamera function. It allows up to\xfffefour-way calls.
 Records information about the\xfffemedals earned by small chance.
-An unique item that unites a\xfffecertain Pokemon with Kyurem
-An unique item that separates\xfffea centain pokemon from Kyurem.
+An unique item that unites a\xfffecertain Pokémon with Kyurem
+An unique item that separates\xfffea centain Pokémon from Kyurem.
 A license card necessary to\xfffegain entry to a little-known\xfffenature reserve.
 A mysterious unbelievable charm that\xfffewhen held, makes it easier for the\xfffeDaycare Man to find eggs. 
 A mysterious shining charm that when\xfffeheld, makes it easier to encounter\xfffeshiny Pokémon. 
 A keycard used to unlock\xfffedoors on the Team Plasma\xfffeFrigate.
-A handkerchief that a regular visitor to\xfffeNacrene City's "Cafe Warehouse" dropped.\xfffeIt faintly smells of Pokemon.
+A handkerchief that a regular visitor to\xfffeNacrene City's "Cafe Warehouse" dropped.\xfffeIt faintly smells of Pokémon.
 A specialized device built in order to\xfffeforcefully awaken a Pokémon's abilities.\xfffeIt is an unfinished prototype.
 An Xtransceiver found in the\xfffeNimbasa City Amusement Park.\xfffeIts owner was probably a boy.
 An Xtransceiver found in the\xfffeNimbasa City Amusement Park.\xfffeIts owner was probably a girl.

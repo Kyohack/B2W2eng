@@ -1,22 +1,22 @@
-\xf000Ā\x0001\x0000！\xfffeYou can get a Pokemon for free!\xf000븁\x0000
-Do you know Prof. Juniper?\xfffeShe is famous for her Pokemon research!\xf000븁\x0000\xfffeJuniper and I are old friends. \xfffeWe were talking for a long time.\xf000븁\x0000
-But now \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeDo you want a Pokemon?
-I'll ask again\xf000븁\x0000\xfffeDo you want a Pokemon?
+\xf000Ā\x0001\x0000！\xfffeYou can get a Pokémon for free!\xf000븁\x0000
+Do you know Prof. Juniper?\xfffeShe is famous for her Pokémon research!\xf000븁\x0000\xfffeJuniper and I are old friends. \xfffeWe were talking for a long time.\xf000븁\x0000
+But now \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeDo you want a Pokémon?
+I'll ask again\xf000븁\x0000\xfffeDo you want a Pokémon?
 I'm a little surprised\xf000븁\x0000
-All right!\xfffeA clear first step!\xf000븁\x0000\xfffeDo you know about the Pokedex?
-Indeed!\xf000븁\x0000\xfffeThe Pokemon is automatically\xffferecorded into the Pokedex.\xf000븁\x0000
-Well.....\xf000븁\x0000\xfffeThe Pokemon is automatically\xffferecorded into the Pokedex.\xf000븁\x0000
-I'll ask another question!\xf000븁\x0000\xfffeDo you want a Pokedex?
+All right!\xfffeA clear first step!\xf000븁\x0000\xfffeDo you know about the Pokédex?
+Indeed!\xf000븁\x0000\xfffeThe Pokémon is automatically\xffferecorded into the Pokédex.\xf000븁\x0000
+Well.....\xf000븁\x0000\xfffeThe Pokémon is automatically\xffferecorded into the Pokédex.\xf000븁\x0000
+I'll ask another question!\xf000븁\x0000\xfffeDo you want a Pokédex?
 Alright!\xfffeStep 2 is clear!\xf000븁\x0000
-With a Pokedex,\xfffeyou can travel the world!\xf000븀\x0000\xfffeConsider what this means.\xf000븁\x0000\xfffeSo again...\xf000븁\x0000\xfffeDo you want a Pokedex?
-\xf000Ā\x0001\x0000!\xfffeThat means you have work to do!\xf000븁\x0000\xfffeGo meet the girl!\xf000븁\x0000\xfffeShe's the assistant of Prof. Juniper!\xf000븁\x0000\xfffeBecome a Pokemon trainer and\xfffereceive the Pokedex!
-\xf000Ā\x0001\x0000!\xfffeThat means you have work to do!\xf000븁\x0000\xfffeGo meet the girl!\xf000븁\x0000\xfffeShe's the assistant of Prof. Juniper!\xf000븁\x0000\xfffeBecome a Pokemon trainer and\xfffereceive the Pokedex!
-You're going to be a Pokemon trainer!\xf000븀\x0000\xfffeI say yes to that!\xf000븁\x0000\xfffeThe important thing to rememeber is that\xfffethe X button opens the menu!\xf000븁\x0000\xfffeNow go find Bianca!
+With a Pokédex,\xfffeyou can travel the world!\xf000븀\x0000\xfffeConsider what this means.\xf000븁\x0000\xfffeSo again...\xf000븁\x0000\xfffeDo you want a Pokédex?
+\xf000Ā\x0001\x0000!\xfffeThat means you have work to do!\xf000븁\x0000\xfffeGo meet the girl!\xf000븁\x0000\xfffeShe's the assistant of Prof. Juniper!\xf000븁\x0000\xfffeBecome a Pokémon trainer and\xfffereceive the Pokédex!
+\xf000Ā\x0001\x0000!\xfffeThat means you have work to do!\xf000븁\x0000\xfffeGo meet the girl!\xf000븁\x0000\xfffeShe's the assistant of Prof. Juniper!\xf000븁\x0000\xfffeBecome a Pokémon trainer and\xfffereceive the Pokédex!
+You're going to be a Pokémon trainer!\xf000븀\x0000\xfffeI say yes to that!\xf000븁\x0000\xfffeThe important thing to rememeber is that\xfffethe X button opens the menu!\xf000븁\x0000\xfffeNow go find Bianca!
 The name of the girl is Bianca!\xfffeShe has a big green hat!
 Oh? You two get along!\xfffeYou're looking for Bianca!\xf000븁\x0000\xfffeHave you not found her yet?\xfffeShe has a big green hat!
 Bianca?\xf000븁\x0000\xfffeThe amazing Prof. Juniper\xfffe told me!
-Welcome back!\xfffeHow are you Pokemon?\xf000븁\x0000\xfffeThey look tired.\xfffeLet them rest here!\xf000븁\x0000
-\xf000Ā\x0001\x0000 your Pokemon look fine, \xfffethey look full of energy!
+Welcome back!\xfffeHow are you Pokémon?\xf000븁\x0000\xfffeThey look tired.\xfffeLet them rest here!\xf000븁\x0000
+\xf000Ā\x0001\x0000 your Pokémon look fine, \xfffethey look full of energy!
 ママ『おなじ　いっぽでも\xfffeポケモンのことを　かんがえながらの\xf000븀\x0000\xfffeいっぽの　ほうが　ステキよね！
 ママ『あたしも　わかいころは\xfffeあちこちの　ポケモンセンターを\xf000븀\x0000\xfffeてんてんと　したものよ！
 ママ『ポケモンたちの　きもちが\xfffeわかれば　いいのにね……！

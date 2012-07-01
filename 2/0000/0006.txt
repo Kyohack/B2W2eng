@@ -43,7 +43,7 @@ Drink
 Close
 \xf000ĉ\x0001\x0000 is selected.
 You cannot write\xfffemail here！
-There's no Pokemon!
+There's no Pokémon!
 Move \xf000ĉ\x0001\x0000.
 The \xf000ĉ\x0001\x0000 can't be held.
 You can't give them\xfffe\xf000ĉ\x0001\x0000 here!
