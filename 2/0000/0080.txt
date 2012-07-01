@@ -201,24 +201,24 @@ Medal to show you've\xfffereached 50 points in Xtransceiver Mini-Games.
 Medal to show you've\xfffereached 200 points in Xtransceiver Mini-Games.
 Medal to show you've\xfffereached 500 points in Xtransceiver Mini-Games.
 Medal to show you've\xfffereached 1000 points in Xtransceiver Mini-Games.
-Medal to show you've\xfffemade a Brycen-man\xfffePokeWood Movie.
-Medal to show you've\xfffemade a Revenge of Brycen-man\xfffePokeWood Movie.
-Medal to show you've\xfffemade a Full Metal Cup\xfffePokeWood Movie.
-Medal to show you've\xfffemade a Invaders\xfffePokeWood Movie.
-Medal to show you've\xfffemade a Monster\xfffePokeWood Movie.
-Medal to show you've\xfffemade a Time Traveler\xfffePokeWood Movie.
-Medal to show you've\xfffemade a Pokémon Trainers\xfffein Love PokeWood Movie.
-Medal to show you've\xfffemade a The Mysterious Door\xfffeof the Magic Kingdom PokeWood Movie.
-Medal to show you've\xfffemade a The Giant Office Lady\xfffePokeWood Movie.
-Medal to show you've\xfffemade a Fear! The Red Mist\xfffeNightmare PokeWood Movie.
-Medal to show you've\xfffemade a Storage Robot\xfffePokeWood Movie.
-Medal to show you've\xfffemade a Ghost Eraser\xfffePokeWood Movie.
-Medal to show you've\xfffemade a Return of Brycen-man\xfffePokeWood Movie.
-Medal to show you've\xfffestarred in all of the PokeWood Movies.
-Medal to show you've\xfffestarred in all of the\xfffeClassic PokeWood Movies.
-Medal to show you've\xfffeearned over $1000 Billion in the\xfffePokeWood Movie box office.
-Medal to show you've\xfffemade your first Cult PokeWood Movie.
-Medal to show you've\xfffemade all of the Cult PokeWood Movies.
+Medal to show you've\xfffemade a Brycen-man\xfffePokéStar Studios Movie.
+Medal to show you've\xfffemade a Revenge of Brycen-man\xfffePokéStar Studios Movie.
+Medal to show you've\xfffemade a Full Metal Cup\xfffePokéStar Studios Movie.
+Medal to show you've\xfffemade a Invaders\xfffePokéStar Studios Movie.
+Medal to show you've\xfffemade a Monster\xfffePokéStar Studios Movie.
+Medal to show you've\xfffemade a Time Traveler\xfffePokéStar Studios Movie.
+Medal to show you've\xfffemade a Pokémon Trainers\xfffein Love PokéStar Studios Movie.
+Medal to show you've\xfffemade a The Mysterious Door\xfffeof the Magic Kingdom PokéStar Studios Movie.
+Medal to show you've\xfffemade a The Giant Office Lady\xfffePokéStar Studios Movie.
+Medal to show you've\xfffemade a Fear! The Red Mist\xfffeNightmare PokéStar Studios Movie.
+Medal to show you've\xfffemade a Storage Robot\xfffePokéStar Studios Movie.
+Medal to show you've\xfffemade a Ghost Eraser\xfffePokéStar Studios Movie.
+Medal to show you've\xfffemade a Return of Brycen-man\xfffePokéStar Studios Movie.
+Medal to show you've\xfffestarred in all of the PokéStar Studios Movies.
+Medal to show you've\xfffestarred in all of the\xfffeClassic PokéStar Studios Movies.
+Medal to show you've\xfffeearned over $1000 Billion in the\xfffePokéStar Studios Movie box office.
+Medal to show you've\xfffemade your first Cult PokéStar Studios Movie.
+Medal to show you've\xfffemade all of the Cult PokéStar Studios Movies.
 Medal to show you've\xfffeparticipated in FES missions with 10 people.
 Medal to show you've\xfffeparticipated in FES missions with 30 people.
 Medal to show you've\xfffeearned a score of 100 in a FES mission.
@@ -230,7 +230,7 @@ Medal to show you've\xfffeparticipated in 10 FES missions.
 Medal to show you've\xfffewon 30 FES missions.
 Medal to show you've\xfffewon 100 FES missions.
 Medal to show you've\xfffecompleted all FES missions.
-Medal to show you've\xfffeput a Pokémon to sleeping using Game Sync.
+Medal to show you've\xfffeput a Pokémon to sleep using Game Sync.
 Medal to show you've\xfffeseen a Memory Link Flashback.
 Medal to show you've\xfffeseen all Memory Link Flashbacks.
 Medal to show you've\xfffereceived all Entertainment Medals.
