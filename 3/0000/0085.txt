@@ -1,17 +1,17 @@
-Current winning streak: \xf000ȃ\x0001\x0000!\xf000븁\x0000\xfffeNext car: No. \xf000Ȁ\x0001\x0001.\xfffeContinue to battle?
-CONTINUE
+Corrente vincitore streak: \xf000ȃ\x0001\x0000!\xf000븁\x0000\xfffeNext car: No. \xf000Ȁ\x0001\x0001.\xfffeContinuare la battaglia?
+CONTINUA
 RECORD
-REST
-RETIRE
-Cancel your challenge?
-Save and quit the game?
-Saving...\xfffeDon't turn off the power.
-Delete your existing Battle Video and\xfffesave the last battle?
-Awaiting your friend's selection.
-You must save the game before\xfffeI can guide you in.
-You have chosen to retire from\xfffethis challenge.
-Saving your Battle Video...\xfffeDon't turn off the power.
-\xf000Ā\x0001\x0000's battle has been saved as a\xfffeBattle Video.
-Would you like to save the last battle as\xfffeyour Battle Video?
-Communicating. Please stand by...
+RIPOSO
+RITIRATI
+Cancellare la tua sfida?
+Savare e uscire dal gioco?
+Salvataggio...\xfffeNon rimuovere l'alimentazione.
+Vuoi eliminare l'ultimo tuo video e\xfffesalvare l'ultima battaglia?
+In attesa di selezione del tuo amico.
+È necessario salvare il gioco prima di\xfffeguidarvi dentro.
+Hai scelto di ritirarti da\xfffequesta sfida.
+Salvataggio del video della battaglia...\xfffeNon rimuovere l'alimentazione.
+\xf000Ā\x0001\x0000's la battaglia e stata salvata come\xfffeBattaglia video.
+Volete salvare l'ultima battaglia come\xfffeBattaglia video?
+Comunicazione. Prego attendi...
 test
