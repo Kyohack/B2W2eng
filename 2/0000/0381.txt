@@ -2183,15 +2183,15 @@ Wow...that was an impressive battle.\xfffeI'm baffled by your power.\xf000븁\x0
 Your determination....\xfffeI am fascinated by it.
 You may have an edge\xfffebut I will not be pulled into defeat!
 Tch.\xfffeIt seems I'm in a bad situation.
-Your Pokemon have a destructive force\xfffebehind them. I'm still amazed.\xf000븁\x0000\xfffeThis has been an excellent battle.
+Your Pokémon have a destructive force\xfffebehind them. I'm still amazed.\xf000븁\x0000\xfffeThis has been an excellent battle.
 ...This is awesome.\xfffeIt's time to get pumped up.
-Last Pokemon!\xfffeBut I still have infinite strength!
+Last Pokémon!\xfffeBut I still have infinite strength!
 My joints feel weak!\xfffeYou've got me pinned!
-I did not have the better bond with my \xfffePokemon. I usually win because I have\xf000븁\x0000\xfffestronger bonds but it's difficult.\xfffeI respect your power.\xf000븁\x0000\xfffe
-The harmony of Pokemon!\xfffeI wish to show that!
-The more of a challenge\xfffethe fight is, the better!
+I did not have the better bond with my \xfffePokémon. I usually win because I have\xf000븁\x0000\xfffestronger bonds but it's difficult.\xfffeI respect your power.\xf000븁\x0000\xfffe
+The harmony of Pokémon!\xfffeI wish to show that!
+The more challenging the fight,\xfffethe better it is!
 The key to victory\xfffeis controlling your energy!
-I've seen this somewhere...\xfffea previous elegant trainer with gorgeous\xf000븁\x0000\xfffestyle who might be like you.\xfffeBut do your Pokemon love you?\xf000븁\x0000\xfffe
+I've seen this somewhere...\xfffea previous elegant trainer with gorgeous\xf000븁\x0000\xfffestyle who might be like you.\xfffeBut do your Pokémon love you?\xf000븁\x0000\xfffe
 ここは　おれの　みち！\xf000븁\x0000
 この　みちは　みんなの　みち！
 きみの　みちを　ゆけ！
@@ -2279,8 +2279,8 @@ I've seen this somewhere...\xfffea previous elegant trainer with gorgeous\xf000�
 こころ　とぎすまし\xfffeポケモンと　ひとつに！！
 マダよ！　マダマダッ！！\xfffeマダ　あたしたち　たたかえる！！
 ふわあああ……\xfffeちからを　だしきったのに……\xf000븀\x0000\xfffeまけちゃったんだ　あたしたち！
-I feel sorry for my Pokemon....\xfffeYou may have a similar feeling soon!
-It only takes one mind\xfffeto hone Pokemon!!
+I feel sorry for my Pokémon....\xfffeYou may have a similar feeling soon!
+It only takes one mind\xfffeto hone Pokémon!!
 Not yet!　We are close!!\xfffeWe can still fight!!
 Ah...the challenger was pursuing happiness\xfffe...and won the challenge.\xf000븀\x0000\xfffeThank you for this battle!
 くせもの　め！\xfffeまちぶせで　ござる！\xf000븁\x0000
