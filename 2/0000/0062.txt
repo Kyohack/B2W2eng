@@ -18,7 +18,7 @@ Make an Infrared Connection\xfffewith your trade partner.
 Pokémon Trade
 Held Item
 Will you trade?
-Lv.\xf000Ȃ\x0001\x0000
+Lv. \xf000Ȃ\x0001\x0000
 Close the link?
 Traded.
 Please wait a moment.
@@ -42,6 +42,6 @@ BATTLE USING THE BATTLE BOX
 BATTLE USING YOUR PARTY
 Your friend has been registered\xfffein the Friend Roster!
 The Friend Roster has been updated!
-You need at least two Pokémon\xfffein your party if you want to trade!
+You need at least two Pokémon\xfffeif you want to trade!
 There is already a saved game file.\xfffeIt is impossible to save.\xf000븁\x0000\xfffePlease refer to the Instruction\xfffeBooklet for details.\xf000븁\x0000\xfffePress Up + SELECT + B Button on\xfffethe title screen if you want to erase\xf000븀\x0000\xfffethe current saved game file.
 Please make an Infrared Connection\xfffewith the friend you want to play with.
