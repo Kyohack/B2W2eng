@@ -19,38 +19,38 @@ HIGH SCORE
 \xf000Ȅ\x0001\x0000かい
 \xf000Ȃ\x0001\x0000にん
 \xf000Ȅ\x0001\x0000かい
-ミッションを　かいしする
-ミッションを　じっしちゅう
-ミッションを　かいし　します！\xf000븂\x0001Z
-すでに　べつの　ミッションが\xfffeかいしされて　います
-６つの　ミッションから\xfffe１つ　えらんでください
-ミッションを　えらんでください
-せかいが３つ　つながっているときは\xfffeこのミッションを　うけられません
-ぼうけんしゃが　ハイリンクにいるので\xfffeミッションを　うけることが　できません
+BEGIN A MISSION
+MISSION IN PROGRESS
+The mission is starting now!\xf000븂\x0001Z
+Another mission is already\xfffein progress.
+Please select one of the\xfffesix missions.
+Please select a mission.
+You cannot accept this mission\xfffewhen three worlds are connected.
+You cannot accept a mission when\xfffeyou have a visitor in your Entralink.
 ミッションを　えらぶことで\xfffeあいてを　たすけることが　できます\xf000븁\x0000\xfffeまず　はじめに　このなかから\xfffe『サポート　ミッション』を　えらび\xf000븀\x0000\xfffeミッションを　かいしして　ください
 べつの　ミッションを\xfffeえらんで　います\xf000븁\x0000\xfffeまずは　『サポート　ミッション』を\xfffeえらんで　かいしして　ください
 \xf000ȃ\x0001\x0000こ
 YES
 NO
 Will you receive this Pass Power\xfffefrom the Entree?
-うけとれる　デルパワー
+AVAILABLE PASS POWER
 『\xf000Ĝ\x0001\x0000』　を\xfffeハイルツリーから　うけとった！\xf000븁\x0000\xfffeうけとった『\xf000Ĝ\x0001\x0000』を\xfffeＣギアに　とうろくした！
-パワーをうけとる
-ハイルツリーから　うけとる\xfffeデルパワーを　えらんでください
-いま　うけとっている　デルパワー
-デルパワーは　まだ　うけとっていません
-１かい／デルダマ\xf000ȃ\x0001\x0000こ
-\xf000봂\x0000◆　ホワイトＬｖ：\xf000Ȃ\x0001\x0000　でうけとれます　◆\xfffe\xfffeいまのＬｖ\xfffe◇ブラックＬｖ：\xf000Ȃ\x0001\x0002　　　◆ホワイトＬｖ：\xf000Ȃ\x0001\x0001
-\xf000봂\x0000◇　ブラックＬｖ：\xf000Ȃ\x0001\x0000　でうけとれます　◇\xfffe\xfffeいまのＬｖ\xfffe◇ブラックＬｖ：\xf000Ȃ\x0001\x0002　　　◆ホワイトＬｖ：\xf000Ȃ\x0001\x0001
+RECEIVE POWER
+Please select the Pass Power\xfffeyou want to receive from the Entree.
+CURRENT PASS POWER
+No Pass Power has been received.
+Orbs needed: \xf000ȃ\x0001\x0000
+\xf000봂\x0000◆The White Level to receive it: \xf000Ȃ\x0001\x0000◆\xfffe\xfffeCurrent levels\xfffe◇Black Lv. : \xf000Ȃ\x0001\x0002   ◆White Lv. : \xf000Ȃ\x0001\x0001
+\xf000봂\x0000◆The Black Level to receive it: \xf000Ȃ\x0001\x0000◆\xfffe\xfffeCurrent levels\xfffe◇Black Lv. : \xf000Ȃ\x0001\x0002   ◆White Lv. : \xf000Ȃ\x0001\x0001
 チャレンジできる　フェスミッション
 チャレンジする　フェスミッションを\xfffeえらんでください
 ミッションかいし
 \xf000ŀ\x0001\x0000　Lv\xf000Ȁ\x0001\x0001を\xfffeかいし　しますか？
 フェスミッション　を\xfffeかいし　します
 はつどうちゅうの　デルパワー
-なし
+None
 Entralink
-\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
+\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000Ĝ\x0001\x0000を\xfffeつかいますか？\xfffeひつよう\xf000ȃ\x0001\x0001こ／もってる\xf000ȃ\x0001\x0002こ
 デルダマが　たりません\xfffe\xfffeひつよう\xf000ȃ\x0001\x0000こ／もってる\xf000ȃ\x0001\x0001こ
 ミッションせつめい
@@ -72,4 +72,4 @@ MY SCORE
 さいこうきろく
 デルパワーは　３つまでしか\xfffeうけとれません！\xf000븁\x0000\xfffeあたらしく　デルパワーを\xfffeうけとる　ために\xf000븀\x0000\xfffeハイルツリーに　かえす\xf000븀\x0000\xfffeデルパワーを　えらんでください
 『\xf000Ĝ\x0001\x0000』　を\xfffeハイルツリーに　かえし\xf000븁\x0000\xfffe『\xf000Ĝ\x0001\x0001』を\xfffeハイルツリーから　うけとった！\xf000븁\x0000\xfffeうけとった『\xf000Ĝ\x0001\x0001』を\xfffeＣギアに　とうろくした！
-やめる
+CANCEL
