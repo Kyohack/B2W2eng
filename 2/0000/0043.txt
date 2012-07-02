@@ -116,8 +116,8 @@
 ◇ Water sports are very popular in Undella Town.
 ◇ The ocean off Undella Town often casts valuable treasures ashore.
 ◇ The sand on the beach is so fine that you'll leave clear footprints.
-◇ White Forest is a place full of nature.
-◇ The people love nature and live enmeshed with it.
+◇ White Forest is a place full of wide stretches of natural growth.
+◇ The people love nature and live in complete harmony with it.
 ◇ The people plant trees to help the forest grow.
 ◇ Nature-loving Pokémon Breeders gather here.
 ◇ Some Pokémon rarely seen elsewhere can be found here, thanks to nature's bounty.
@@ -228,24 +228,24 @@ A very unusual strong storm is happening!
 ◇コンビナートで　はたらく　ひとびとは　しごとの　あいまに　ポケモンしょうぶを　たのしんでいます
 ◇しごとでくたびれた　ひとたちを　コンビナートの　やけいがいやします
 ◇まちの　ひがしにある　クレーンで　にもつの　あげおろしをします
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
+◇ This is a prime sightseeing spot for tourists who love ruins.
+◇ The desert is harsh and vast. Please prepare yourself before attempting to cross it.
+◇ Beware! Vast sandstorms can cover the entire desert.
+◇ The researchers are investigating when the ruins were formed.
+◇ No one knows how the ancient nation fell into ruin.
+◇ Inside the Relic Castle, sand trickles and whispers even now.
+◇ This is a prime sightseeing spot for tourists who love ruins.
+◇ The desert is harsh and vast. Please prepare yourself before attempting to cross it.
+◇ Beware! Vast sandstorms can cover the entire desert.
+◇ This is a prime sightseeing spot for tourists who love ruins.
+◇ The desert is harsh and vast. Please prepare yourself before attempting to cross it.
+◇ Beware! Vast sandstorms can cover the entire desert.
+◇ The researchers are investigating when the ruins were formed.
+◇ No one knows how the ancient nation fell into ruin.
+◇ Inside the Relic Castle, sand trickles and whispers even now.
+◇ This is a prime sightseeing spot for tourists who love ruins.
+◇ The desert is harsh and vast. Please prepare yourself before attempting to cross it.
+◇ Beware! Vast sandstorms can cover the entire desert.
 ◇ You can become a star at PokéStar Studios！
 ◇ PokéStar Studios movies are watched all around the world 
 ◇ポケウッドでは　スターをもとめています　きたれスター！
