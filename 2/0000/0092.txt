@@ -32,7 +32,7 @@ No. of specially distributed Pokémon\xfffesafely transferred: \xf000Ȃ\x0001\x0
 Found a Lock Capsule.\xfffeWill you take the Lock Capsule?
 The Lock Capsule is being transferred\xfffewith the Relocator.\xfffePlease wait a moment...
 The Lock Capsule was safely\xfffetransferred. It was put away\xfffein the Key Items Case.\xf000븁\x0000
-Saving... Please do not turn off the\xfffepower on either system.
+Saving...\xfffeDon't turn off the power.
 The Relocator is done.\xfffePlease turn the power off in the\xfffeother DS system.\xf000븁\x0000
 This Pokémon knows a hidden move.\xfffeIt cannot transfer\xfffewith the Relocator.\xf000븁\x0000\xfffeNo. of Pokémon with no HM: \xf000Ȃ\x0001\x0000!\xf000븁\x0000
 You have already received\xfffethe Lock Capsule.\xf000븁\x0000
