@@ -17,14 +17,14 @@ The connection has been lost.
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
 ー
 \xf000봂\x0000\xf000Ā\x0001\x0000が　ミッションたっせい！\xf000븂\x0001Z
-\xf000봂\x0000ミッションしっぱい
-デルダマを　\xf000ȁ\x0001\x0000こ　てにいれた！\xf000븂\x0001Z
-\xf000봂\x0000ミッションたっせい！
-ミッションが　はじまるまで\xfffeしばらく　おまちください
+\xf000봂\x0000Mission failed...
+Pass Orbs received: \xf000ȁ\x0001\x0000.\xf000븂\x0001Z\xfffe
+\xf000봂\x0000Mission accomplished!
+Please wait a moment...\xfffeThe mission will start shortly.
 \xf000봂\x0000ミッション　スタート！
 どうやら　ハイリンクから\xfffe\xf000Ā\x0001\x0000が\xf000븀\x0000\xfffeたすけに　きてくれたようだ\xf000븁\x0000\xfffe……おや？\xf000븁\x0000\xfffeたすけにきた　\xf000Ā\x0001\x0000が\xfffeどうぐを　おいていった\xf000븁\x0000
 ー
@@ -45,9 +45,9 @@ The connection has been lost.
 \xf000봂\x0000ミッション　スタート！！
 \xf000봂\x0000ミッション　たっせい！\xf000븂\x0001Z
 \xf000봂\x0000ミッション　しっぱい……\xf000븂\x0001Z
-デルダマを　\xf000ȁ\x0001\x0000こ　てにいれた！\xf000븂\x0001Z
-しあわせが　あつまり　ハイリンクの\xfffe◇ブラックＬｖが　\xf000Ȃ\x0001\x0000あがった！\xf000븂\x0001Z
-しあわせが　あつまり　ハイリンクの\xfffe◆ホワイトＬｖが　\xf000Ȃ\x0001\x0000あがった！\xf000븂\x0001Z
+Pass Orbs received: \xf000ȁ\x0001\x0000.\xf000븂\x0001Z\xfffe
+Your Entralink's ◇Black Lv. went up\xfffeby \xf000Ȃ\x0001\x0000 as happiness increased!\xf000븂\x0001Z
+Your Entralink's ◆White Lv. went up\xfffeby \xf000Ȃ\x0001\x0000 as happiness increased!\xf000븂\x0001Z
 キューン　キューン！\xf000븁\x0000\xfffe……おや？\xfffeやってきた　ポケモンが\xf000븀\x0000\xfffeとつぜん　ひかりだした！\xf000븁\x0000
 ギャァーーアアス！\xf000븁\x0000\xfffe……おや？\xfffeやってきた　ポケモンが\xf000븀\x0000\xfffeとつぜん　ひかりだした！\xf000븁\x0000
 ……　……　……！\xf000븁\x0000\xfffe……おや？\xfffeやってきた　ポケモンが\xf000븀\x0000\xfffeとつぜん　ひかりだした！\xf000븁\x0000
@@ -68,9 +68,9 @@ The connection has been lost.
 ー
 \xf000Ā\x0001\x0000『ん　なんだい？\xfffeかまって　ほしいのかな？
 \xf000Ā\x0001\x0000『わー！　めずらしい！\xf000븁\x0000\xfffeどうしたのかな？\xfffeかまって　ほしいのかな？
-キュイーン！
-ギャオーー！　ギャオーーー！
-……　……！！
+Squeak!
+Grrrrr!
+... ...
 ー
 ー
 ー
@@ -86,7 +86,7 @@ The connection has been lost.
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『ん　なんだい？\xfffeかまって　ほしいのかな？
+\xf000Ā\x0001\x0000: Huh?\xfffeDo you want me to play with you?
 \xf000Ā\x0001\x0000『わー！　めずらしい！\xf000븁\x0000\xfffeどうしたのかな？\xfffeかまって　ほしいのかな？
 ー
 ー
@@ -111,13 +111,13 @@ The connection has been lost.
 キュン！\xfffeキューン！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 ……！\xfffe……　……！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
 キュン！\xfffeキューン！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 ……！\xfffe……　……！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
 ー
 ー
 ー
@@ -150,9 +150,9 @@ The connection has been lost.
 ー
 \xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븀\x0000\xfffeきみも　たびの　とちゅうかな？\xf000븁\x0000\xfffeはなしたいことが　あったら\xfffeきがるに　こえを　かけてくれよ！
 \xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븀\x0000\xfffeあなたも　たびの　とちゅう？\xf000븁\x0000\xfffeはなしたいことが　あったら\xfffeきがるに　こえを　かけてね！
-キュイーン！
-ギャオーー！　ギャオーーー！
-……　……！！
+Squeak!
+Grrrrr!
+... ...
 \xf000Ā\x0001\x0000『このパワーが　すこしでも\xfffeたびのやくにたてば　うれしいよ！\xf000븀\x0000\xfffeじゃあ　また！
 \xf000Ā\x0001\x0000『このパワーが　すこしでも\xfffeたびのやくにたてば　うれしいな！\xf000븀\x0000\xfffeじゃあ　また！
 ー
@@ -163,23 +163,13 @@ The connection has been lost.
 キュン！\xfffeキューン！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 ……！\xfffe……　……！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
-ー
-ー
-ー
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しないか？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかおうぜ！
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しない？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかいましょう！
-ー
-ー
-ー
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまってて！
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまっててね！
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
 ー
 ー
 ー
@@ -193,13 +183,23 @@ The connection has been lost.
 ー
 ー
 ー
-よし！\xfffeじゃあ　いくぞ！
-よし！\xfffeじゃあ　いくよ！
+\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しないか？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかおうぜ！
+\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しない？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかいましょう！
 ー
 ー
 ー
-よし！\xfffeじゃあ　いくぞ！
-よし！\xfffeじゃあ　いくよ！
+\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまってて！
+\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまっててね！
+ー
+ー
+ー
+All right!\xfffeHere we go!
+All right!\xfffeHere we go!
+ー
+ー
+ー
+All right!\xfffeHere we go!
+All right!\xfffeHere we go!
 ー
 ー
 ー
@@ -213,8 +213,8 @@ The connection has been lost.
 ー
 ー
 ー
-そっか！　わかったぜ！\xfffeまたこんど　たたかおうな！
-そっか！　わかったよ！\xfffeまたこんど　たたかおうね！
+I see. That's OK!\xfffeBattle you later!
+I see. That's OK!\xfffeBattle you later!
 ー
 ー
 ー
@@ -223,13 +223,13 @@ The connection has been lost.
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
 ー
 ー
 ー
@@ -365,10 +365,10 @@ The connection has been lost.
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
