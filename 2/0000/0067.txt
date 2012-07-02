@@ -27,7 +27,7 @@ BLACK CITY is set.
 WHITE FOREST is set.
 KEY SYSTEM will return to MAIN MENU
 KEY SYSTEM will return to MAIN MENU
-Saving Data...\xfffeDO NOT POWER OFF DEVICE.
+Saving...\xfffeDon't turn off the power.
 Transmitting key...\xf000븂\x0001<
 \xf000A\x0001\x0000 sent ASSIST KEY.\xf000븂\x0001<
 \xf000A\x0001\x0000 sent CHALLENGE KEY.\xf000븂\x0001<
