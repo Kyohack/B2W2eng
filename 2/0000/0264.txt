@@ -1,52 +1,52 @@
-やせいの　ポケモンと　すこし\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　とても\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　かなり\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　すこし\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　とても\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　かなり\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeすこし　かえりやすく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeとても　かえりやすく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　すこし\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　とても\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe１０％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe２５％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　すこし　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　とても　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　かなり　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　すこし　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　とても　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　かなり　かいふくします
-たたかったあと　もらえる　けいけんちが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeすこし　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeとても　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　３０ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　３０ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　３０ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-このパワーを　うけとると\xfffeてもちにいる　すべての　ポケモンが\xfffeぜんかい　します
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　６０ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　６０ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　６０ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
-ダミー
-ダミー
-ダミー
+Increases the chance of encountering\xfffewild Pokémon a little.\xfffeThe effect lasts three minutes.
+Increases the chance of encountering\xfffewild Pokémon.\xfffeThe effect lasts three minutes.
+Increases the chance of encountering\xfffewild Pokémon a lot.\xfffeThe effect lasts three minutes.
+Decreases the chance of encountering\xfffewild Pokémon a little.\xfffeThe effect lasts three minutes.
+Decreases the chance of encountering\xfffewild Pokémon.\xfffeThe effect lasts three minutes.
+Decreases the chance of encountering\xfffewild Pokémon a lot.\xfffeThe effect lasts three minutes.
+Helps Eggs hatch a little faster.\xfffeThe effect lasts three minutes.
+Helps Eggs hatch faster.\xfffeThe effect lasts three minutes.
+Helps Eggs hatch much faster.\xfffeThe effect lasts three minutes.
+Helps Pokémon grow\xfffefriendly a little faster.\xfffeThe effect lasts three minutes.
+Helps Pokémon grow\xfffefriendly faster.\xfffeThe effect lasts three minutes.
+Helps Pokémon grow\xfffefriendly much faster.\xfffeThe effect lasts three minutes.
+Poké Mart gives a 10% discount.\xfffeThe effect lasts three minutes.
+Poké Mart gives a 25% discount.\xfffeThe effect lasts three minutes.
+Poké Mart gives a 50% discount.\xfffeThe effect lasts three minutes.
+Immediately restores the HP\xfffeof the lead Pokémon a little.\xfffe
+Immediately restores the HP\xfffeof the lead Pokémon.\xfffe
+Immediately restores the HP\xfffeof the lead Pokémon very much.\xfffe
+Immediately restores the PP\xfffeof the lead Pokémon a little.\xfffe
+Immediately restores the PP\xfffeof the lead Pokémon.\xfffe
+Immediately restores the PP\xfffeof the lead Pokémon very much.\xfffe
+Increases the Exp. Points \xfffefrom a battle a little.\xfffeThe effect lasts three minutes.
+Increases the Exp. Points \xfffefrom a battle.\xfffeThe effect lasts three minutes.
+Increases the Exp. Points \xfffefrom a battle very much.\xfffeThe effect lasts three minutes.
+Decreases the Exp. Points\xfffefrom a battle a little.\xfffeThe effect lasts three minutes.
+Decreases the Exp. Points\xfffefrom a battle.\xfffeThe effect lasts three minutes.
+Decreases the Exp. Points \xfffefrom a battle very much.\xfffeThe effect lasts three minutes.
+Increases the prize money\xfffefrom a battle a little.\xfffeThe effect lasts three minutes.
+Increases the prize money\xfffefrom a battle.\xfffeThe effect lasts three minutes.
+Increases the prize money\xfffefrom a battle very much.\xfffeThe effect lasts three minutes.
+Increases the chance to catch\xfffePokémon a little.\xfffeThe effect lasts three minutes.
+Increases the chance to catch\xfffePokémon.\xfffeThe effect lasts three minutes.
+Increases the chance to catch\xfffePokémon very much.\xfffeThe effect lasts three minutes.
+Helps Eggs hatch much faster.\xfffeThe effect lasts 30 minutes.
+Poké Mart gives a 50% discount.\xfffeThe effect lasts 30 minutes.
+Helps Pokémon grow\xfffefriendly much faster.\xfffeThe effect lasts 30 minutes.
+Increases the Exp. Points\xfffefrom a battle very much.\xfffeThe effect lasts 30 minutes.
+Increases the prize money\xfffefrom a battle very much.\xfffeThe effect lasts 30 minutes.
+Increases the chance to catch\xfffePokémon very much.\xfffeThe effect lasts 30 minutes.
+When received, every Pokémon in a\xfffeparty fully recovers.
+Helps Eggs hatch much faster.\xfffeThe effect lasts 60 minutes.
+Poké Mart gives a 50% discount.\xfffeThe effect lasts 60 minutes.
+Helps Pokémon grow\xfffefriendly much faster.\xfffeThe effect lasts 60 minutes.
+Increases the Exp. Points\xfffefrom a battle very much.\xfffeThe effect lasts 60 minutes.
+Increases the prize money\xfffefrom a battle very much.\xfffeThe effect lasts 60 minutes.
+Increases the chance to catch\xfffePokémon very much.\xfffeThe effect lasts 60 minutes.
+Dummy
+Dummy
+Dummy
 ゆれる　くさむらや　つちけむりが\xfffeすこしだけ　みつけやすく　なります\xfffeこうかは　３ふん　です
 ゆれる　くさむらや　つちけむりが\xfffeとても　みつけやすく　なります\xfffeこうかは　３ふん　です
 ゆれる　くさむらや　つちけむりが\xfffeかなり　みつけやすく　なります\xfffeこうかは　３ふん　です
