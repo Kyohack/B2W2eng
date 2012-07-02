@@ -187,8 +187,8 @@
 ＣＭ『ポケモンワールドトーナメント！\xfffeかて！　かちぬけ！　ただそれだけだ！
 ＣＭ『ポケモンワールドトーナメント！\xfffeかて！　かちぬけ！　ただそれだけだ！\xf000븁\x0000\xfffeすべての　トーナメントを\xfffeせいは　してみろ！　できるだろ！？
 Which channels do you want?
-タレント
-しょうぶ
-バラエティ
+Talent
+Battle
+Variety
 Back
-つづけて　みますか？
+Are you sure you want to cancel?
