@@ -1,10 +1,10 @@
 Loading...\xfffePlease wait a moment.
 ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　おもいでリンクを\xfffeきどうしなおして　ください\xf000븁\x0000
 おもいでリンクを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-データの　よみこみに\xfffeしっぱい　しました\xf000븁\x0000
+The saved data\xfffecould not be accessed.\xf000븁\x0000
 Unable to connect to the\xfffeother DS system.\xf000븁\x0000
 おもいでリンク　きどうちゅう！\xfffeレポートを　リンクしています\xfffeこのまま　しばらく　おまちください
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000
+Error reading the save file.\xfffeThere may not be a save file,\xfffeor the save file may be corrupted.\xf000븁\x0000
 Yes
 No
 おもいでリンク
