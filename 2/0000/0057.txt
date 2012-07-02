@@ -1,6 +1,6 @@
 たいせんする　あいてと\xfffeせきがいせん　つうしん　します\xf000븁\x0000\xfffeあいてに　せきがいせんを　あわせて\xfffeＡボタンを　おしてください
 おたがいの　えらんでいる\xfffeたいかいが　ちがいます
-Found an opponent！
+Your opponent has been found!
 To start playing\xfffepress the A button.
 You Win
 You Lose
