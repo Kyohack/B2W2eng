@@ -61,7 +61,7 @@ An item that raises the Speed stat\xfffeof a Pokémon in battle. It wears off if
 An item that raises the accuracy\xfffeof a Pokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
 An item that raises the Sp. Atk stat\xfffeof a Pokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
 An item that raises the Sp. Def stat\xfffeof a Pokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
-A doll that attracts Pokémon.\xfffeUse it to flee from any battle with a\xfffewild Pokémon.
+An item that attracts Pokémon.\xfffeUse it to flee from any battle with a\xfffewild Pokémon.
 An item that attracts Pokémon.\xfffeUse it to flee from any battle with a\xfffewild Pokémon.
 A toy flute made from blue glass.\xfffeA maniac will buy it for a high price.
 A toy flute made from yellow glass.\xfffeA maniac will buy it for a high price.
@@ -336,7 +336,7 @@ Summons a hailstorm that lasts for\xfffefive turns. The hailstorm damages\xfffea
 The user tenses its muscles to bulk up\xfffeits body, boosting both its Attack and\xfffeDefense stats.
 The user drenches the target in a\xfffespecial poisonous liquid. Its power\xfffeis doubled if the target is poisoned.
 A unique attack that varies in type and\xfffeintensity depending on the Pokémon\xfffeusing it.
-The user intensifies the sun for\xfffefive turns, powering up Fire-type\xfffemoves.
+The user intensifies the sun for\xfffefive turns, powering up\xfffeFire-type moves.
 The target is taunted into a rage that\xfffeallows it to use only attack moves\xfffefor three turns.
 The target is struck with an icy-cold\xfffebeam of energy.\xfffeIt may also freeze the target solid.
 A howling blizzard is summoned to strike\xfffethe opposing team. It may also freeze\xfffethem solid.
@@ -345,10 +345,10 @@ A wondrous wall of light is put up to\xfffesuppress damage from special attacks\
 It enables the user to evade all\xfffeattacks. Its chance of failing rises\xfffeif it is used in succession.
 The user summons a heavy rain that\xfffefalls for five turns, powering up\xfffeWater-type moves.
 The user makes the target float with\xfffeits psychic power. The target is easier\xfffeto hit for three turns.
-The user creates a protective field\xfffethat prevents status problems\xfffefor five turns.
+The user creates a protective field that\xfffeprevents status problems for five turns.
 A full-power attack that grows more\xfffepowerful the less the user likes its\xfffeTrainer.
 A two-turn attack. The user gathers\xfffelight, then blasts a bundled beam on\xfffethe second turn.
-The user throws a stone or projectile\xfffeto attack an opponent. A flying Pokémon\xfffewill fall to the ground when it's hit.
+The user throws a stone or projectile to\xfffeattack an opponent. A flying Pokémon will\xfffefall to the ground when hit.
 A strong electric blast is loosed at the\xfffetarget. It may also leave the target\xfffewith paralysis.
 A wicked thunderbolt is dropped\xfffeon the target to inflict damage. It may\xfffealso leave the target with paralysis.
 The user sets off an earthquake that\xfffestrikes every Pokémon around it.
@@ -376,7 +376,7 @@ The user attacks the target's legs\xfffeswiftly, reducing the target's\xfffeSpee
 The user attacks the target with a\xfffesong. Others can join in the Round and\xfffemake the attack do greater damage.
 The user attacks the target with an\xfffeechoing voice. If this move is used\xfffeevery turn, it does greater damage.
 The user attacks the target at full\xfffepower. The attack's recoil harshly\xfffereduces the user's Sp. Atk stat.
-The user teleports using a strange\xfffepower and switches its place with one of\xfffeits allies.
+The user teleports using a strange power\xfffeand switches its place with one of\xfffeits allies.
 The user heightens its mental focus and\xfffeunleashes its power.\xfffeIt may also lower the target's Sp. Def.
 The user draws power from nature and\xfffefires it at the target. It may also\xfffelower the target's Sp. Def.
 A restrained attack that prevents the\xfffetarget from fainting. The target is left\xfffewith at least 1 HP.
@@ -403,7 +403,7 @@ The user tackles the target with a\xfffehigh-speed spin. The slower the\xfffeuse
 A frenetic dance to uplift the fighting\xfffespirit. It sharply raises the user's\xfffeAttack stat.
 Resisting, the user attacks the\xfffeopposing Pokémon. The targets' Sp. Atk\xfffestat is reduced.
 The user hypnotizes itself into\xfffecopying any stat change made\xfffeby the target.
-The user stomps down on the ground\xfffeand attacks everything in the area.\xfffeThe targets' Speed stat is reduced.
+The user stomps down on the ground\xfffeand attacks everything in the area. Hit\xfffePokémon's Speed stat is reduced.
 The user blows a cold breath on the\xfffetarget. This attack always results in\xfffea critical hit.
 Large boulders are hurled at the\xfffeopposing team to inflict damage. They \xfffemay also make the targets flinch.
 The user slashes at the target by\xfffecrossing its scythes or claws as if\xfffethey were a pair of scissors.
@@ -619,15 +619,15 @@ Zekrom's body was destroyed and\xfffechanged into this stone. It is said to\xfff
 The user shrouds itself in electricity\xfffeand smashes into its target.\xfffeIt also damages the user a little.
 The user attacks with a punch that can\xfffeshatter a rock. It may also lower the\xfffetarget's Defense stat.
 The user yells as if it is ranting about\xfffesomething, making the target's Sp. Atk\xfffestat decrease.
-A high-tech transceiver with a \xfffecamera function. It allows up to\xfffefour-way calls.
+A high-tech transceiver with a\xfffecamera function. It allows up to\xfffefour-way calls.
 A rare stone.
 An important letter which\xfffeWingull delivers.
 An important letter which\xfffeWingull delivers.
 An important letter which\xfffeWingull delivers.
 A high-tech transceiver with a\xfffecamera function. It allows up to\xfffefour-way calls.
 Records information about the\xfffemedals earned by small chance.
-An unique item that unites a\xfffecertain Pokémon with Kyurem
-An unique item that separates\xfffea centain Pokémon from Kyurem.
+A unique item that unites a\xfffecertain Pokémon with Kyurem
+A unique item that separates\xfffea centain Pokémon from Kyurem.
 A license card necessary to\xfffegain entry to a little-known\xfffenature reserve.
 A mysterious unbelievable charm that\xfffewhen held, makes it easier for the\xfffeDaycare Man to find eggs. 
 A mysterious shining charm that when\xfffeheld, makes it easier to encounter\xfffeshiny Pokémon. 
