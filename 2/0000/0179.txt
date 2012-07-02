@@ -1,6 +1,6 @@
 \xf000Ă\x0001\x0000
-⑭
-⑮
+♂
+♀
 Lv.\xf000Ȃ\x0001\x0000
 Item
 \xf000ĉ\x0001\x0000
@@ -90,11 +90,11 @@ Impetuous and silly.
 Somewhat of a clown.
 Quick to flee.
 Highly curious.
-Mischievious.
+Mischievous.
 Thoroughly cunning.
 Often lost in thought.
 Very finicky.
-Strongwilled.
+Strong willed.
 Somewhat vain.
 Strongly defiant.
 Hates to lose.
