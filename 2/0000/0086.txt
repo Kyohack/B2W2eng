@@ -1,47 +1,47 @@
 のこりじかん　\xf000ȁ\x0001\x0000ふん\xfffeあと　\xf000ȁ\x0001\x0001かい
 のこりじかん　\xf000ȁ\x0001\x0000ふん\xfffeあと　\xf000ȁ\x0001\x0001にん
-\xf000Ā\x0001\x0000に　はなしかけて　もらい\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！
-\xf000Ā\x0001\x0000に　じぶんから　はなしかけ\xfffe「\xf000Đ\x0001\x0001」を　あたえよ！
-\xf000Ā\x0001\x0000に　たたかいを　いどめ！\xfffeてもち　２ひき　レベルは　\xf000Ȃ\x0001\x0001フラット
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-たたかってる　\xf000Ā\x0001\x0000に　はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-\xf000ĉ\x0001\x0000を　ライモンシティの\xfffeベンチとベンチの　あいだに　かくせ！
-\xf000ĉ\x0001\x0000を　ホドモエシティの\xfffeテントのうらの　いえのまえにかくせ！
-\xf000ĉ\x0001\x0000を　フキヨセシティの\xfffeおくの　ひこうきの　まえにかくせ！
-\xf000ĉ\x0001\x0000を　セッカシティの\xfffeみんなが　まわっていた　ばしょにかくせ！
-\xf000ĉ\x0001\x0000を　ソウリュウシティの\xfffeワープできない　ゲートのまえにかくせ！
-\xf000ĉ\x0001\x0000を　カゴメタウンにある\xfffeマンホールの　うえに　かくせ！
-\xf000ĉ\x0001\x0000を　サザナミタウンの\xfffeふんすいの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　５ばんどうろ　の\xfffeミュージシャンがいた　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　６ばんどうろ　の\xfffeたてにながい　はしのまんなかに　かくせ！
-\xf000ĉ\x0001\x0000を　７ばんどうろ　の\xfffeタワーオブヘブン　のまえに　かくせ！
-\xf000ĉ\x0001\x0000を　８ばんどうろ　の\xfffeどうろかんばんの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　９ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！
-\xf000ĉ\x0001\x0000を　１１ばんどうろ　の\xfffeトレーラーの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　１２ばんどうろ　の\xfffeまんなかの　かんばんに　かくせ！
-\xf000ĉ\x0001\x0000を　１３ばんどうろ　の\xfffeくさむらのはえる　しまの　きにかくせ！
-\xf000ĉ\x0001\x0000を　１４ばんどうろ　の\xfffeすなはまと　りくちの　あいだに　かくせ！
-\xf000ĉ\x0001\x0000を　１５ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！
-\xf000ĉ\x0001\x0000を　１６ばんどうろ　の\xfffeさくが　きれているところに　かくせ！
-\xf000ĉ\x0001\x0000を　ライモンシティの\xfffeベンチとベンチの　あいだに　かくせ！
-\xf000ĉ\x0001\x0000を　ホドモエシティの\xfffeテントのうらの　いえのまえにかくせ！
-\xf000ĉ\x0001\x0000を　フキヨセシティの\xfffeおくの　ひこうきの　まえにかくせ！
-\xf000ĉ\x0001\x0000を　セッカシティの\xfffeみんなが　まわっていた　ばしょにかくせ！
-\xf000ĉ\x0001\x0000を　ソウリュウシティの\xfffeワープできない　ゲートのまえにかくせ！
-\xf000ĉ\x0001\x0000を　カゴメタウンにある\xfffeマンホールの　うえに　かくせ！
-\xf000ĉ\x0001\x0000を　サザナミタウンの\xfffeふんすいの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　５ばんどうろ　の\xfffeミュージシャンがいた　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　６ばんどうろ　の\xfffeたてにながい　はしのまんなかに　かくせ！
-\xf000ĉ\x0001\x0000を　７ばんどうろ　の\xfffeタワーオブヘブン　のまえに　かくせ！
-\xf000ĉ\x0001\x0000を　８ばんどうろ　の\xfffeどうろかんばんの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　９ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！
-\xf000ĉ\x0001\x0000を　１１ばんどうろ　の\xfffeトレーラーの　まえに　かくせ！
-\xf000ĉ\x0001\x0000を　１２ばんどうろ　の\xfffeまんなかの　かんばんに　かくせ！
-\xf000ĉ\x0001\x0000を　１３ばんどうろ　の\xfffeくさむらのはえる　しまの　きにかくせ！
-\xf000ĉ\x0001\x0000を　１４ばんどうろ　の\xfffeすなはまと　りくちの　あいだに　かくせ！
-\xf000ĉ\x0001\x0000を　１５ばんどうろ　の\xfffeゴミばこの　てまえに　かくせ！
-\xf000ĉ\x0001\x0000を　１６ばんどうろ　の\xfffeさくが　きれているところに　かくせ！
-\xf000Ā\x0001\x0000に　\xf000ĉ\x0001\x0001を\xfffeおかいどくな　ねだんで　かってもらえ！
+Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!
+Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!
+Challenge \xf000Ā\x0001\x0000 to a battle!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon
+Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."
+Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."
+Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."
+Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."
+Stash one \xf000ĉ\x0001\x0000 between\xfffetwo benches in Nimbasa City!
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffehouse behind the market in Driftveil City!
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffesecond airplane in Mistralton City!
+Stash one \xf000ĉ\x0001\x0000 where they\xfffewere going round and round in Icirrus City!
+Stash one \xf000ĉ\x0001\x0000 in front of the gate\xfffewhere you cannot warp in Opelucid City!
+Stash one \xf000ĉ\x0001\x0000 in the manhole\xfffein Lacunosa Town!
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffefountain in Undella Town!
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffewhere the Musician was on Route 5!
+Stash one \xf000ĉ\x0001\x0000 in the middle of the\xfffenorthward bridge on Route 6!
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffeCelestial Tower on Route 7!
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffesign on Route 8!
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffetrash can on Route 9!
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffethe camper on Route 11!
+Stash one \xf000ĉ\x0001\x0000 at the sign\xfffein the middle of Route 12!
+Stash one \xf000ĉ\x0001\x0000 under the tree\xfffeon the grassy island on Route 13!
+Stash one \xf000ĉ\x0001\x0000 where the beach\xfffebegins on Route 14!
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffethe trash can on Route 15!
+Stash one \xf000ĉ\x0001\x0000 by the\xfffemissing fence on Route 16!
+Stash one \xf000ĉ\x0001\x0000 between\xfffetwo benches in Nimbasa City!
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffehouse behind the market in Driftveil City!
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffesecond airplane in Mistralton City!
+Stash one \xf000ĉ\x0001\x0000 where they\xfffewere going round and round in Icirrus City!
+Stash one \xf000ĉ\x0001\x0000 in front of the gate\xfffewhere you cannot warp in Opelucid City!
+Stash one \xf000ĉ\x0001\x0000 in the manhole\xfffein Lacunosa Town!
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffefountain in Undella Town!
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffewhere the Musician was on Route 5!
+Stash one \xf000ĉ\x0001\x0000 in the middle of the\xfffenorthward bridge on Route 6!
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffeCelestial Tower on Route 7!
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffesign on Route 8!
+Stash one \xf000ĉ\x0001\x0000 in front of the\xfffetrash can on Route 9!
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffethe camper on Route 11!
+Stash one \xf000ĉ\x0001\x0000 at the sign\xfffein the middle of Route 12!
+Stash one \xf000ĉ\x0001\x0000 under the tree\xfffeon the grassy island on Route 13!
+Stash one \xf000ĉ\x0001\x0000 where the beach\xfffebegins on Route 14!
+Stash one \xf000ĉ\x0001\x0000 in front of\xfffethe trash can on Route 15!
+Stash one \xf000ĉ\x0001\x0000 by the\xfffemissing fence on Route 16!
+Sell one \xf000ĉ\x0001\x0001 to \xf000Ā\x0001\x0000\xfffeat a reasonable price!
 ー
