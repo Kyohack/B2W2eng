@@ -1,7 +1,7 @@
 －－－－－－－－－－
 Mystery Zone
 Faraway place
-\xf000Ā\x0001\x0000's\xf000ą\x0001\x0001
+\xf000Ā\x0001\x0000's \xf000ą\x0001\x0001
 Nuvema Town
 Accumula Town
 Striaton City
@@ -34,7 +34,7 @@ Dreamyard
 Pinwheel Forest
 Desert Resort
 Relic Castle
-Cold Storage
+PWT
 Chargestone Cave
 Twist Mountain
 Dragonspiral Tower
@@ -56,7 +56,7 @@ Mistralton Cave
 Rumination Field
 Celestial Tower
 Moor of Icirrus
-Shopping Mall
+Shopping Mall Nine
 Challenger's Cave
 Poké Transfer Lab
 Giant Chasm
