@@ -107,7 +107,7 @@ In the middle of the Unova region,\xfffeit is a place of mysterious power.
 Trainers seeking further strength\xfffeenter the cavern despite the risks.
 イッシュを　みわたせるほど　たかい\xfffeやまの　すそのに　ひろがる　まち
 Aspertia City Gym
-Trainer School
+Trainers' School
 Pokémon Center
 くもと　けむりに　おおわれがち　だが\xfffeまちにくらす　ひとびとは　かっぱつ
 Virbank City Gym
@@ -123,8 +123,8 @@ Pokémon Center
 Pokémon Center
 くろのまてんろう
 しろのじゅどう
-かんこうきゃくに　にんきだが\xfffeリゾートとよぶには　きびしい　さばく
-かつて　えいがを　ほこるも　いつしか\xfffeすなにうもれた　おおむかしの　いせき
+It is a popular place for tourists,\xfffebut too harsh to be a resort.
+Ancient ruins with a glorious history,\xfffeburied in the sand as time went by.
 でいりぐちの　かなごうしが　はずされ\xfffeものずきな　トレーナーが　うろつく
 ポケモンと　ひとが　あつまるうちに\xfffeいつしか　ぼくじょうに　なった
 ポケモンが　はたらきやすいように\xfffeせっけい　されている　コンビナート
