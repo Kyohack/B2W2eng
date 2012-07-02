@@ -1,16 +1,16 @@
-けしきウキウキ　しょうぶワクワク\xfffeロイヤルイッシュごうへ　ようこそ！\xf000븁\x0000\xfffeチケットは　１０００円　です\xfffeふねに　のられますか？
-この　ふねは　１にち　１かい\xfffeしゅっこうする　ゆうらんせん　です\xf000븁\x0000
-ロイヤルイッシュごうの　うんこうは\xfffeゆうがた　のみと　なっております\xf000븀\x0000\xfffeあらためて　おこし　くださいませ
-あら？　おかねが　たりませんね\xfffeまたの　おこしを　おまちしております
-チケットは　１０００円　です\xfffeふねに　のられますか？
-イッシュちほうの　おおきな　はし\xfffeスカイアローブリッジを　くぐり\xf000븁\x0000\xfffeワンダーブリッジを　まわって\xfffeヒウンシティに　もどります\xf000븁\x0000\xfffeきてきが　５かい　なりましたら\xfffeとうちゃくの　あいずで　ございます\xf000븁\x0000
-ロイヤルイッシュごうの　かんぱんでは\xfffeじまんの　けしきを　たのしめます\xf000븁\x0000\xfffeきゃくしつには　しょうぶずきな\xfffeトレーナーが　あつまって　おります\xf000븁\x0000\xfffeぜひ　けしきも　しょうぶも\xfffeおたのしみ　ください\xf000븁\x0000\xfffeなお　むせんきや　けいきるいへの\xfffeえいきょうが　あるため\xf000븁\x0000\xfffeせんないで　Ｃギアを\xfffeつかうことは　できません\xf000븁\x0000\xfffeごりかいの　ほど\xfffeよろしく　おねがい　いたします\xf000븁\x0000
-Ｃギアの　でんげんを\xfffeオフにしますが　よろしいでしょうか？
-まもなく　しゅっこうに　なります\xfffeいってらっしゃいませ！\xf000븁\x0000
-かしこまりました\xfffeまたの　おこしを　おまちしております
-ごじょうせん　ありがとうございました\xfffeまたの　おこしを　おまちしております
-ほんじつの　しゅっこうは\xfffeしゅうりょう　いたしました\xf000븀\x0000\xfffeまた　あす　おこしくださいませ
-おめでとう　ございます！\xf000븁\x0000\xfffeあなたは　せんないに　いる\xfffeトレーナー　ぜんいんに　かちました！\xf000븁\x0000\xfffeこちらは　けいひんと　なります\xfffeおうけとり　くださいませ！\xf000븁\x0000
-ふねにのる
-ふねのせつめい
-やめる
+Welcome to the majestic\xfffeRoyal Unova!\xf000븁\x0000\xfffeWould you like to buy\xfffea ticket for 1000 Pokédollars?
+This criuse is the\xfffefirst of it's first kind.\xf000븁\x0000
+Royal Unova's navigation system\xfffeis under maintenance.\xf000븀\x0000\xfffeCome back at the evening.
+Oh? It seems that you\xfffedon't have enough money...
+Would you pay 1000 Pokédollars\xfffefor a ferry ticket?
+On the fifth floor, you will\xfffeget a fantastic view of Unova's\xf000븁\x0000\xfffeSky Arrow Bridge, then\xfffecruise under the\xf000븁\x0000\xfffemagnificent Wonder Bridge, and\xfffeback to the robusting Castelia City!\xf000븁\x0000
+Royal Unova is a proud\xfffecruise line that serves\xf000븁\x0000\xfffetrainers from all over the\xfffeworld to take a vacation.\xf000븁\x0000\xfffeOn the first floor,\xfffe rooms can be serve\xf000븁\x0000\xfffeas a relaxing hospitality!\xfffeAlso, be sure to turn\xf000븁\x0000\xfffeoff your C-Gear!\xfffeThe radio signals can\xf000븁\x0000\xfffeinterfere with the\xfffemechanisms in the ship!\xf000븁\x0000
+Are you sure you want\xfffeto turn off the power of the C-Gear?
+We will be departing soon.\xfffeHave a nice day!\xf000븁\x0000
+We are looking\xfffeforward to see you soon!
+Thanks for riding with us!\xfffeHope you visit us again.
+Today's departure has left...\xfffePlease come back at\xf000븀\x0000\xfffeanother time.
+Congratulations!\xf000븁\x0000\xfffeYou have defeated all\xfffeof the trainers on board!\xf000븁\x0000\xfffePlease accept this as\xfffean award!\xf000븁\x0000
+Thie Ride
+Description
+Back
