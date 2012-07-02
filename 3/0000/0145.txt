@@ -1,18 +1,18 @@
 ひとの　ものまねって　たのしいよね\xf000븁\x0000\xfffeこのなかで　ぼくの　まねをする\xfffeともだちを　さがしてみる？
-I see……
+I see...
 じゃ　いくよ！
-Klink
+Klang
 Swoobat
 Azumarill
-Eelektross 
+Eelektross
 ぼくの　まねをした　ひとは　だれ?\xfffeその　ともだちに　はなしかけてみて
 その　ともだちが\xfffeぼくの　ものまねを　したの？
 せいかい　でした！\xf000븁\x0000\xfffeトレーナーさん　すごいね！\xfffeまた　ちょうせんする？
 うーん……　ざんねん　でした\xfffeまた　ちょうせん　する？
 じゃあ　ぼくの　まねをした\xfffeともだちは　だあれ？
-Klink
-Klang
-Swoobat
+Kling
+Klinklang
+Woobat
 Leavanny
 Azurill
 Marill
