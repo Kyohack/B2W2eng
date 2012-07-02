@@ -1,82 +1,82 @@
-こうかんにだす
-もどる
-あいてにみせる
-つよさをみる
-こうかんする
-やめる
-つうしん　たいきちゅう！\xfffeしばらく　おまちください
+OFFER
+BACK
+SHOW
+SUMMARY
+TRADE
+CANCEL
+Communicating. Please stand by...
 パートナーとなる　あいてに\xfffeせきがいせんを　むけてください
 リーダーに　なりました！
 たいせん　あいての　リーダーに\xfffeせきがいせんを　むけてください
-しばらく　おまちください
-ともだちコード
-フィーリングチェック
+Please wait a moment.
+FRIEND CODE
+FEELING CHECKS
 Do you want to abort operations?
 こうかんする　あいてに\xfffeせきがいせんを　むけてください
-ポケモンこうかん
-てもち
-\xf000Ă\x0001\x0000と　\xf000Ă\x0001\x0001を\xfffeこうかん　しますか？
-Ｌｖ．\xf000Ȃ\x0001\x0000
+POKÉMON TRADES
+In party
+Trade \xf000Ă\x0001\x0000 in return for\xfffe\xf000Ă\x0001\x0001?
+Lv. \xf000Ȃ\x0001\x0000
 Are you sure you want to cancel?
 こうかんしました
-しばらく　おまちください
-あそぶないようが　ちがったので\xfffeさいしょに　もどります
-Would you like to save the game\xfffeupto this point?
-Yes
-No
-Saving... Don't turn off power!
-No.\xf000Ȃ\x0001\x0001
+Please wait a moment.
+You and your friend(s) did not select the\xfffesame thing. Returning to previous menu.
+Would you like to save the game?
+YES
+NO
+Saving...\xfffeDon't turn off the power.
+No. \xf000Ȃ\x0001\x0001
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-ＨＰ
+HP
 Attack
 Defense
 Sp. Atk
-とくぼう
-すばやさ
-せいかく
-とくせい
-もちもの
-\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
+Sp. Def
+Speed
+Nature
+Ability
+Item
+\xf000Ȃ\x0001\x0000/\xf000Ȃ\x0001\x0001
 \xf000Ȃ\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000Ć\x0001\x0000
 \xf000ĉ\x0001\x0000
-もっているわざ
+MOVES LEARNED
 \xf000ć\x0001\x0000
 ♂
 ♀
-\xf000Ā\x0001\x0000から\xfffe\xf000Ă\x0001\x0001が　おくられてきた
-\xf000Ă\x0001\x0001を\xfffeかわいがって　あげてね！
-つうしん　しています\xfffeしばらく　おまちください
-みつけたい　ポケモンの\xfffeかしらもじを　えらんでください
-えらんだ　かしらもじのつく\xfffeポケモンは　いません
-\xf000봂\x0000ア
-\xf000봂\x0000イ
-\xf000봂\x0000ウ
-\xf000봂\x0000エ
-\xf000봂\x0000オ
-\xf000봂\x0000カ
-\xf000봂\x0000キ
-\xf000봂\x0000ク
-\xf000봂\x0000ケ
-\xf000봂\x0000コ
-\xf000봂\x0000サ
-\xf000봂\x0000シ
-\xf000봂\x0000ス
-\xf000봂\x0000セ
-\xf000봂\x0000ソ
-\xf000봂\x0000タ
-\xf000봂\x0000チ
-\xf000봂\x0000ツ
-\xf000봂\x0000テ
-\xf000봂\x0000ト
-\xf000봂\x0000ナ
-\xf000봂\x0000ニ
-\xf000봂\x0000ヌ
-\xf000봂\x0000ネ
-\xf000봂\x0000ノ
-\xf000봂\x0000ハ
+\xf000Ā\x0001\x0000 sent over\xfffe\xf000Ă\x0001\x0001.
+Take good care of \xf000Ă\x0001\x0001!
+Stopping communications...\xfffePlease wait.
+Select the first letter in the name of\xfffethe Pokémon you want to find.
+No Pokémon with the selected\xfffeletter was found.
+\xf000봂\x0000A
+\xf000봂\x0000B
+\xf000봂\x0000C
+\xf000봂\x0000D
+\xf000봂\x0000E
+\xf000봂\x0000F
+\xf000봂\x0000G
+\xf000봂\x0000H
+\xf000봂\x0000I
+\xf000봂\x0000J
+\xf000봂\x0000K
+\xf000봂\x0000L
+\xf000봂\x0000M
+\xf000봂\x0000N
+\xf000봂\x0000O
+\xf000봂\x0000P
+\xf000봂\x0000Q
+\xf000봂\x0000R
+\xf000봂\x0000S
+\xf000봂\x0000T
+\xf000봂\x0000U
+\xf000봂\x0000V
+\xf000봂\x0000W
+\xf000봂\x0000X
+\xf000봂\x0000Y
+\xf000봂\x0000Z
 \xf000봂\x0000ヒ
 \xf000봂\x0000フ
 \xf000봂\x0000へ
@@ -95,70 +95,70 @@ Sp. Atk
 \xf000봂\x0000レ
 \xf000봂\x0000ロ
 \xf000봂\x0000ワ
-Trade has been canceled.
-そのポケモンを　こうかんすると\xfffeぼうけん　できなくなっちゃうよ！
-あいてが　こうかんできない\xfffeポケモンを　だしています
-じぶんが　こうかんできない\xfffeポケモンを　だしています
-たいせつな　わざを　おぼえているので\xfffeてもちから　はずせません
+The trade has been canceled.
+You need that Pokémon to\xfffeget through your adventure!
+There is a Pokémon that cannot be\xfffetraded in the other Trainer's party.
+There is a Pokémon that cannot be\xfffetraded in your party.
+It has learned an HM move.\xfffeYou cannot let it leave your party.
 その　ポケモンは\xfffeこうかん　できません
-あいては　ポケモンこうかんを\xfffeしたいようです
-こうかんを　やめますか？
-あいての　しゅうりょうを\xfffeまっています……
-タマゴ
-ポケモンが　もっていた　メールを\xfffeパソコンに　てんそう　しました！
+The other Trainer apparently wants to\xfffetrade Pokémon with you.
+Cancel trading?
+Waiting for the other player to finish...
+Egg
+The Mail held by the Pokémon\xfffewas sent to your PC.
 メールを　すてますが\xfffeよろしいですか？
 メールボックスが　いっぱいです\xfffeせいりしますか？
 メールを　すてました
 とった　メールを\xfffeパソコンに　てんそう　しました
-あいては　メールを　うけとれません\xfffeこうかんを　キャンセル　します
+The other Trainer cannot\xfffereceive Mail. The trade will be canceled.
 \xf000ā\x0001\x0000
-さしだすポケモンを　えらんでください\xfffeポケモンは　３ひきまで　えらべます
-\xf000봃\x0001\x0000えらびちゅう
-\xf000봃\x0001\x0000けっていずみ
-\xf000봃\x0001\x0000しゅうりょうまち
-\xf000Ā\x0001\x0000の\xfffeほしいポケモン
-すべてのポケモン
-かっこいいポケモン
-かわいいポケモン
-こわいポケモン
-へんなポケモン
-なんでも
-Ｌｖ．１からＬｖ．４９
-Ｌｖ．５０
-Ｌｖ．５１から１００
-けってい
+Please choose your Pokémon to offer.\xfffeYou can select up to three Pokémon.
+\xf000봃\x0001\x0000Selecting...
+\xf000봃\x0001\x0000Selected
+\xf000봃\x0001\x0000Waiting...
+The Pokémon that\xfffe\xf000Ā\x0001\x0000 wants
+Any Pokémon
+Cool Pokémon
+Cute Pokémon
+Scary Pokémon
+Strange Pokémon
+Any
+Lv. 1 through 49
+Lv. 50
+Lv. 51 through 100
+Confirm
 \xf000Ā\x0001\x0000
-\xf000Ă\x0001\x0000を　\xf000Ā\x0001\x0001へ　おくります！！\xfffeバイバイ　\xf000Ă\x0001\x0000！
-\xf000Ă\x0001\x0000を　\xf000Ā\x0001\x0001に　かえします！\xfffeありがとう　\xf000Ă\x0001\x0000！
-\xf000Ā\x0001\x0000の　ところから\xfffe\xf000Ă\x0001\x0001が　もどってきた！
-おかえり　\xf000Ă\x0001\x0001！
-こうかんきぼう
-さしだす　ポケモンを　えらんでください\xfffeポケモンは　３ひきまで　えらべます
-あいてに　さしだす　ポケモンは\xfffeこれで　いいですか？
-あいての　せんたくを　まっています\xfffeしばらく　おまちください……
-おたがい　さしだした　ポケモンから\xfffe１ひき　えらびます　よろしいですか？
-あいてが　こうかんを\xfffeキャンセルしました
-あいては　こうかん\xfffeしたがっている　ようです
-こうかんを\xfffeしゅうりょう　しますか？
-こうかんを\xfffeしゅうりょう　しました
-そのポケモンを　あいてに\xfffeさしだすことは　できません
-じぶんに　こうかんできない　ポケモンが\xfffeいます　もういちど　えらびなおしてください
-あいてに　こうかんできない　ポケモンが\xfffeいます　もういちど　えらびなおしてください
-ほしいポケモンを　あいての　さしだした\xfffeポケモンから　１ひき　えらんでください
-「\xf000Ă\x0001\x0000」と　じぶんの「\xf000Ă\x0001\x0001」を\xfffeこうかんします　よろしいですか？
-あいてが　こうかんを　キャンセルしました\xfffeもういちど　えらびなおしてください
-あいてに　さしだした\xfffeポケモンを　へんこうしますか？
-こうかんを　キャンセルしました\xfffeもういちど　えらびなおしてください
-こうかんを　キャンセルしました\xfffeもういちど　１ひき　えらびなおしてください
-あいてが　こうかんを　キャンセルしました\xfffeもういちど　１ひき　えらびなおしてください
-\xf000Ă\x0001\x0000を　あずけます
-\xf000Ă\x0001\x0001を　ひきとった
-せつぞくを　きる
-\xf000Ă\x0001\x0000を　\xf000Ā\x0001\x0001へ\xfffeおくります
-\xf000Ā\x0001\x0000から　\xf000Ă\x0001\x0001が\xfffeおくられてきました
-つうしんを　しっぱいしました
-つうしんエラーが　はっせいしました\xfffe（１３２８０）
-つうしんエラーが　はっせいしました\xfffe（１３２８１）
-つうしんエラーが　はっせいしました\xfffe（１３２８２）
-つうしんエラーが　はっせいしました\xfffe（１３２８３）
-？？？
+Sending \xf000Ă\x0001\x0000 to \xf000Ā\x0001\x0001.\xfffeGood-bye, \xf000Ă\x0001\x0000!
+Returning \xf000Ă\x0001\x0000 to \xf000Ā\x0001\x0001.\xfffeGood-bye, \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0001 came back\xfffefrom \xf000Ā\x0001\x0000!
+Welcome back, \xf000Ă\x0001\x0001!
+TRADE WANTED
+Please choose your Pokémon to offer.\xfffeYou can select up to three Pokémon.
+Are you OK with your selection?
+Awaiting your friend's decision.\xfffePlease wait...
+Is it OK to select one each\xfffefrom the chosen Pokémon?
+The other Trainer canceled the trade.
+The other Trainer apparently\xfffewants to trade Pokémon.
+The trade will be ended.\xfffeIs that OK?
+The trade has ended.
+You cannot choose that Pokémon.
+There is one or more party Pokémon\xfffethat cannot be traded. Select again.
+The other Trainer has a Pokémon\xfffethat cannot be traded. Select again.
+Please select a Pokémon out of\xfffethe Pokémon offered for trade.
+Is it OK to trade \xf000Ă\x0001\x0000\xfffefor your \xf000Ă\x0001\x0001?
+The other Trainer canceled\xfffethe trade. Please select again.
+Will you reselect the Pokémon you want\xfffeto offer?
+The trade was canceled.\xfffePlease select again.
+The trade was canceled.\xfffePlease reselect one Pokémon again.
+The other Trainer canceled the trade.\xfffePlease select a Pokémon again.
+\xf000Ă\x0001\x0000 will be offered.
+\xf000Ă\x0001\x0001 was taken out.
+LOG OUT
+\xf000Ă\x0001\x0000 will be\xfffesent to \xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 sent over\xfffe\xf000Ă\x0001\x0001.
+Communication failed.
+Communication error.\xfffe(Error Code: 13280)
+Communication error.\xfffe(Error Code: 13281)
+Communication error.\xfffe(Error Code: 13282)
+Communication error.\xfffe(Error Code: 13283)
+???
