@@ -1,32 +1,32 @@
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-\xf000Ā\x0001\x0000 is in the High-Link.
-\xf000Ā\x0001\x0001 is in the High-Link.
-\xf000Ā\x0001\x0002 is in the High-Link.
-\xf000Ā\x0001\x0003 is in the High-Link.
+Connected to \xf000Ā\x0001\x0000's world!
+Connected to \xf000Ā\x0001\x0000's world!
+Connected to \xf000Ā\x0001\x0000's world!
+Connected to \xf000Ā\x0001\x0000's world!
+\xf000Ā\x0001\x0000 is in the Entralink.
+\xf000Ā\x0001\x0001 is in the Entralink.
+\xf000Ā\x0001\x0002 is in the Entralink.
+\xf000Ā\x0001\x0003 is in the Entralink.
 Able to enter\xfffe\xf000Ā\x0001\x0000's world.
 Able to enter\xfffe\xf000Ā\x0001\x0000's world.
 Able to enter\xfffe\xf000Ā\x0001\x0000's world.
 Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-\xf000Ā\x0001\x0000 returned to the High-Link.
-\xf000Ā\x0001\x0001 returned to the High-Link.
-\xf000Ā\x0001\x0002 returned to the High-Link.
-\xf000Ā\x0001\x0003 returned to the High-Link.
-\xf000Ā\x0001\x0000 left the High-Link.
-\xf000Ā\x0001\x0001 left the High-Link.
-\xf000Ā\x0001\x0002 left the High-Link.
-\xf000Ā\x0001\x0003 left the High-Link.
-Communications ended.
+\xf000Ā\x0001\x0000 returned to the Entralink.
+\xf000Ā\x0001\x0001 returned to the Entralink.
+\xf000Ā\x0001\x0002 returned to the Entralink.
+\xf000Ā\x0001\x0003 returned to the Entralink.
+\xf000Ā\x0001\x0000 left the Entralink.
+\xf000Ā\x0001\x0001 left the Entralink.
+\xf000Ā\x0001\x0002 left the Entralink.
+\xf000Ā\x0001\x0003 left the Entralink.
+Communication will be ended.
 \xf000Ā\x0001\x0000 came to town!
 \xf000Ā\x0001\x0001 came to town!
 \xf000Ā\x0001\x0002 came to town!
 \xf000Ā\x0001\x0003 came to town!
-In \xf000Ā\x0001\x0000's High-Link.
-In \xf000Ā\x0001\x0001's High-Link.
-In \xf000Ā\x0001\x0002's High-Link.
-In \xf000Ā\x0001\x0003's High-Link.
+In \xf000Ā\x0001\x0000's Entralink.
+In \xf000Ā\x0001\x0001's Entralink.
+In \xf000Ā\x0001\x0002's Entralink.
+In \xf000Ā\x0001\x0003's Entralink.
 \xf000Ā\x0001\x0000 entered \xf000Ā\x0001\x0001's\xfffeEntralink.
 \xf000Ā\x0001\x0000 returned\xfffeto the Entralink.
 Connected to \xf000Ā\x0001\x0000's world!
@@ -41,11 +41,11 @@ The mission failed...
 This is where \xf000Ā\x0001\x0000 is.
 Connecting to \xf000Ā\x0001\x0000's world...\xfffePlease wait a moment.
 Connecting to \xf000Ā\x0001\x0000's and\xfffe\xf000Ā\x0001\x0001's world... Please wait a moment.
-「↑」: \xf000Ā\x0001\x0000 is this way!
-「↓」: \xf000Ā\x0001\x0000 is this way!
-「→」: \xf000Ā\x0001\x0000 is this way!
-「←」: \xf000Ā\x0001\x0000 is this way!
-「?」: \xf000Ā\x0001\x0000's presence disappeared.\xfffe   Must be hiding somewhere around here.
+↑: \xf000Ā\x0001\x0000 is this way!
+↓: \xf000Ā\x0001\x0000 is this way!
+→: \xf000Ā\x0001\x0000 is this way!
+←: \xf000Ā\x0001\x0000 is this way!
+?: \xf000Ā\x0001\x0000's presence disappeared.\xfffe   Must be hiding somewhere around here.
 You've never been here before.
 Someone is nearby,\xfffevisiting your world.
 Someone is visiting\xfffeyour world.
@@ -72,27 +72,27 @@ JOIN
 BACK
 You're not connected to anyone,\xfffeso you can't go any further.
 Connections linked.
-Checked your own Entrance Tree.
-Checked \xf000Ā\x0001\x0000's\xfffeEntrance Tree.
-Connected to \xf000Ā\x0001\x0000's\xfffeWhite High-Link!
-Connected to \xf000Ā\x0001\x0000's\xfffeBlack High-Link!
-Linked with \xf000Ā\x0001\x0000's\xfffeHigh-Link!
-Returned to your own world\xfffeand assumed your original form!
-You're on a mission, so you\xfffecan't go to other High-Links!
-You're on a mission, so you\xfffecan't go to other High-Links!
-Entered \xf000Ā\x0001\x0000's world\xfffeand changed form!
-...Still unable to\xfffelink with any worlds.
-Please wait on the bridge\xfffeuntil a partner is found.
+Checked your Entree.
+Checked \xf000Ā\x0001\x0000's\xfffeEntree.
+Connected to \xf000Ā\x0001\x0000's\xfffeWhite Entralink!
+Connected to \xf000Ā\x0001\x0000's\xfffeBlack Entralink!
+Linked with \xf000Ā\x0001\x0000's\xfffeEntralink!
+You are back in your own world.\xfffeYou look normal!
+You are in the middle of a mission.\xfffeCannot go to another Entralink!
+You are in the middle of a mission.\xfffeCannot go to another Entralink!
+You are in \xf000Ā\x0001\x0000's world.\xfffeYou look different!
+...Not connected to any other\xfffeworlds yet.
+Please wait until\xfffesomeone else's world is found.
 You can return to\xfffeyour original world from here.\xf000븁\x0000Return to your\xfffeoriginal world?
 Communications halted.
-Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-Mission failed!\xfffeWent too far ahead...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-Mission failed!\xfffeRan out of time...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-You were abruptly returned\xfffeto your own High-Link!\xf000븁\x0000...It seems the High-Link you were\xfffeconnected to vanished.
-You were abruptly returned\xfffeto your own High-Link!\xf000븁\x0000...It seems the High-Link you were\xfffeconnected to vanished.
-Mission failed!\xfffeYour partner disappeared...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-Mission failed!\xfffeYour partner declined...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
+The other world has vanished,\xfffeand you are back in your own Entralink.
+Mission failed!\xfffeWent too far ahead...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own Entralink.
+Mission failed!\xfffeRan out of time...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own Entralink.
+You were abruptly returned\xfffeto your own High-Link!\xf000븁\x0000...It seems the Entralink you were\xfffeconnected to vanished.
+You were abruptly returned\xfffeto your own High-Link!\xf000븁\x0000...It seems the Entralink you were\xfffeconnected to vanished.
+Mission failed!\xfffeYour partner disappeared...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own Entralink.
+Mission failed!\xfffeYour partner declined...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own Entralink.
 Mission restarted!\xfffeTime: Sixty seconds!
-\xf000Ā\x0001\x0000 warped\xfffeto the High-Link!\xf000븁\x0000
-You can't warp to\xfffethe High-Link here!
+\xf000Ā\x0001\x0000 warped\xfffeto the Entralink!\xf000븁\x0000
+You can't warp to\xfffethe Entralink here!
 A mission to help yourself\xfffehas begun, so you will\xf000븀\x0000return to your own world.\xf000븁\x0000
