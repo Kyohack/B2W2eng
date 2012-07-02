@@ -77,7 +77,7 @@ You'll have to cross the sea.\xfffeAccording to the map.\xf000븁\x0000\xfffeIt'
 Have a nice day!\xfffeThe more people, the more Pokémon!
 I'll learn \xfffehow to raise Pokémon!
 Bianca: 『おうい！\xf000븁\x0000
-Bianc: 『ねえねえ！\xf000븁\x0000
+Bianca: 『ねえねえ！\xf000븁\x0000
 どうだった？\xfffeジムリーダーとの　ポケモンしょうぶ\xf000븁\x0000\xfffeって！　それは\xfffeベーシックバッジ！\xf000븁\x0000\xfffeすごいすごーい！　ポケモンと\xfffeたびを　はじめたばかり　なのに！\xf000븁\x0000\xfffeあなたには　トレーナーの\xfffeさいのうが　あるよ　ぜったい！！\xf000븁\x0000\xfffeじゃあ　わたしからは　これ\xfffe「おんがえし」の　わざマシン　だよ！\xf000븁\x0000
 おんがえしを　おぼえた　ポケモンは\xfffeトレーナーに　なつくほどに\xf000븀\x0000\xfffeわざの　いりょくが　アップするんだよ\xf000븁\x0000
 それにしても　Cherenったら……\xf000븁\x0000
@@ -102,7 +102,7 @@ Bianca: 『ジムリーダーって\xfffeそうぞういじょうに　たいへ
 Turn on the C-Gear and\xfffeinitiate communications?
 Yes
 No
-Is it okay to turn off\xfffe the C-Gear and end communications?
+Is it okay to turn off\xfffethe C-Gear and end communications?
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）\xf000븁\x0000
 ほら！　Ｃギアが　きどうして\xfffeがめんが　あらわれたでしょ！\xf000븁\x0000\xfffeその　がめんの　みぎしたに　ある\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？
 Ｃギアの　でんげんを　いれるなら\xfffeがめん　みぎしたの\xf000븀\x0000\xfffeでんげんマークを　タッチするんだよ！\xf000븁\x0000\xfffeそして　でんげんを　いれたあとは\xfffeがめんの　みぎしたに　ある\xf000븀\x0000\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ！\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？
