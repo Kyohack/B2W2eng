@@ -1,4 +1,4 @@
-Health
+HP
 Attack
 Defense
 Speed
