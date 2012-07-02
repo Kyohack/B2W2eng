@@ -1,6 +1,6 @@
 Confirm
 Cancel
 Please enter a phrase or word.
-Stop giving the\xfffe Pokémon Mail?
+Stop giving the Pokémon Mail?
 Yes
 No
