@@ -5,7 +5,7 @@ Normal
 Fire
 Water
 Grass
-Electricity
+Electric
 Ice
 Fighting
 Poison
