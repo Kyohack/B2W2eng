@@ -25,18 +25,18 @@
 もてる　ちえとちからを　だしつくせ！
 もてる　ちえとちからを　だしつくせ！
 もてる　ちえとちからを　だしつくせ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

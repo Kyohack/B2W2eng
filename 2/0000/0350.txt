@@ -22,21 +22,21 @@
 あいてタイプの　じゃくてんを　つけ！\xfffeセリフの　せんたくが　じゅうよう！
 あいてタイプの　じゃくてんを　つけ！\xfffeセリフの　せんたくが　じゅうよう！
 あいてタイプの　じゃくてんを　つけ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

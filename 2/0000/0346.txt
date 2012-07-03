@@ -25,18 +25,18 @@
 あいての　とくせいに　ちゅうもく！
 あいての　とくせいに　ちゅうもく！\xfffeセリフのせんたくに　ちゅうい！
 あいての　とくせいに　ちゅうもく！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

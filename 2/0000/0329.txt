@@ -23,20 +23,20 @@
 あいてを　こうげき　しろ！
 あいてを　こうげき　しろ！
 いっきに　きめろ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

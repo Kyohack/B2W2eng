@@ -23,20 +23,20 @@
 あいてを　かたせろ！
 あいてを　かたせろ！
 あいてを　かたせろ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

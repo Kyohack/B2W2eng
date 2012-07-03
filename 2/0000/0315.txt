@@ -24,19 +24,19 @@
 あいての　わざから　みを　まもれ！\xfffeセリフのせんたくが　じゅうよう！
 あいての　わざから　みを　まもれ！
 あいての　わざから　みを　まもれ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

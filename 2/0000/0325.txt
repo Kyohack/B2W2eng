@@ -23,20 +23,20 @@
 たいりょくに　きをつけろ！
 たいりょくに　きをつけろ！
 たいりょくに　きをつけろ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

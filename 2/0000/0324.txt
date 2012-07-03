@@ -29,14 +29,14 @@
 あいての　じゃくてんを　つけ！
 いっきに　きめろ！
 いっきに　きめろ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

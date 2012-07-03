@@ -27,16 +27,16 @@
 いっきに　まけろ！
 いっきに　まけろ！
 いっきに　まけろ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

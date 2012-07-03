@@ -4,18 +4,18 @@
 \xf000봂\x0000ここ　すうじつ　ゆうれいを\xfffe\xfffe\xf000봂\x0000もくげき　した　ひとが\xfffe\xfffe\xf000봂\x0000たすう　いると　いう
 \xf000봂\x0000むらびとの　なかには\xfffe\xfffe\xf000봂\x0000ゆうれいに　とりつかれた\xfffe\xfffe\xf000봂\x0000ものも　いると　いう
 \xf000봂\x0000これより　ゆうれいが\xfffe\xfffe\xf000봂\x0000たすう　もくげき　されている\xfffe\xfffe\xf000봂\x0000ぼちの　ちょうさを\xfffe\xfffe\xf000봂\x0000かいし　する
-なし
-なし
-なし
-なし
+None
+None
+None
+None
 \xf000봂\x0000ゴーストイレイザーとは……\xfffe\xfffe\xfffe\xf000봂\x0000けいさつでは　かいけつできない\xfffe\xf000봂\x0000ふしぎなじけんや　かいきげんしょうの\xfffe\xf000봂\x0000しょりを　せんもんに　うけおう　\xfffe\xf000봂\x0000ひみつそしき　である……
 \xf000봂\x0000ゴーストイレイザー　ほうこくしょ\xfffe\xfffe\xf000봂\x0000ファイル　Ｎｏ．００１\xfffe\xfffe\xf000봂\x0000コードネーム　\xf000Ă\x0001\x0000
 \xf000봂\x0000ある　むら　からの　\xfffe\xfffe\xf000봂\x0000ゆうれいに　かんする\xfffe\xfffe\xf000봂\x0000ちょうさ　いらい
 \xf000봂\x0000ここ　すうじつ　ゆうれいを\xfffe\xfffe\xf000봂\x0000もくげき　した　ひとが\xfffe\xfffe\xf000봂\x0000たすう　いると　いう
 \xf000봂\x0000むらびとの　なかには\xfffe\xfffe\xf000봂\x0000ゆうれいに　とりつかれた\xfffe\xfffe\xf000봂\x0000ものも　いると　いう
 \xf000봂\x0000これより　ゆうれいが\xfffe\xfffe\xf000봂\x0000たすう　もくげき　されている\xfffe\xfffe\xf000봂\x0000ぼちの　ちょうさを\xfffe\xfffe\xf000봂\x0000かいし　する
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None

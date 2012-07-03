@@ -36,7 +36,7 @@ Transmitting key...\xf000븂\x0001<
 \xf000A\x0001\x0000 sent IRON KEY.\xf000븂\x0001<
 \xf000A\x0001\x0000 sent ICEBERG KEY.\xf000븂\x0001<
 Your friend sent the ASSIST KEY.\xf000븂\x0001<
-Your friend sent the CHALLENGE KEY.\xf000?\x0001
+Your friend sent the CHALLENGE KEY.\xf000븂\x0001
 Your friend sent the FOREST KEY.\xf000븂\x0001<
 Your friend sent the SKYSCRAPER KEY.\xf000븂\x0001<
 Your friend sent the IRON KEY.\xf000븂\x0001<
@@ -164,7 +164,7 @@ NINTENDO 3DS LINK
 Find Pokémon Dream Radar?
 Connect to Pokémon Dream Radar.
 Finding Pokémon Dream Radar.
-\xf000a\x0001\x0000 has arrived!\xf000?\x0000
+\xf000a\x0001\x0000 has arrived!\xf000븂\x0000
 Data was written successfully!\xf000븁\x0000
 Connection to Pokémon Dream Radar lost.\xf000븁\x0000
 Data is coming.

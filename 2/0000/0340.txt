@@ -25,18 +25,18 @@
 わざの　こうかに　ちゅうもく！\xfffe
 わざの　こうかに　ちゅうもく！
 わざの　こうかに　ちゅうもく！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
