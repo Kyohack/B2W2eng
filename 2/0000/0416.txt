@@ -54,7 +54,7 @@ Disconnecting...
 \xf000Ā\x0001\x0000 is in a Voice Chat.
 Power off while\xfffeWi-Fi is connected？
 Reconnect to Nintendo WFC?
-You must have 2 Pokémon in\xfffeyour party to trade!
+You need at least two Pokémon\xfffeif you want to trade!
 Voice Chat was turned on.
 Voice Chat was turned off.
 ???
