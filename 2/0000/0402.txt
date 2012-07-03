@@ -180,7 +180,7 @@ The user releases cotton-like spores\xfffethat cling to the target,\xfffeharshly
 An all-out attack that becomes more\xfffepowerful the less HP the user has.
 The user unleashes its grudge on the move\xfffelast used by the target by cutting 4 PP\xfffefrom it.
 The user attacks with a chilling gust\xfffeof powdery snow.\xfffeIt may also freeze the targets.
-It enables the user to evade all attacks.\xfffeIts chance of failing rises if it is used in\xfffesuccession.
+It enables the user to evade all attacks.\xfffeIts chance of failing rises if it is used\xfffein succession.
 The user throws a punch at blinding\xfffespeed. It is certain to strike first.
 The user frightens the target with a scary\xfffeface to harshly reduce its Speed stat.
 The user approaches the target\xfffedisarmingly, then throws a sucker punch.\xfffeIt hits without fail.
@@ -191,7 +191,7 @@ The user hurls mud in the target's face to\xfffeinflict damage and lower its acc
 The user attacks by spraying ink in the\xfffetarget's face or eyes.\xfffeIt may also lower the target's accuracy.
 The user lays a trap of spikes at the\xfffeopposing team's feet. The trap hurts\xfffePokémon that switch into battle.
 The user fires an electric blast like a\xfffecannon to inflict damage and\xfffecause paralysis.
-Enables a Ghost-type target to be hit by\xfffeNormal- and Fighting-type attacks. It also\xfffeenables an evasive target to be hit.
+Enables a Ghost-type target to be hit with\xfffeNormal- and Fighting-type attacks. It also\xfffeenables an evasive target to be hit.
 When this move is used, if the user faints,\xfffethe Pokémon that landed the knockout\xfffehit also faints.
 Any Pokémon that hears this song\xfffefaints in three turns, unless it switches\xfffeout of battle.
 The user attacks with a gust of\xfffechilled air. It also reduces the targets'\xfffeSpeed stat.
