@@ -1,4 +1,4 @@
-
+None
 Afghanistan
 Albania
 Algeria
@@ -218,7 +218,7 @@ Ukraine
 United Arab Emirates
 United Kingdom
 Tanzania
-United States\xfffeof America
+United States of America
 United States\xfffeVirgin Islands
 Uruguay
 Uzbekistan
@@ -232,7 +232,7 @@ Yemen
 Zambia
 Zimbabwe
 Please select a floor.
-Will you go to the\xf000Ĥ\x0001\x0000\xfffe floor?
+Will you go to the\xfffe\xf000Ĥ\x0001\x0000 floor?
 Yes
 No
 \xf000Ȃ\x0001\x0002F
