@@ -14,6 +14,7 @@ Vinnymac
 er1c1996
 ILLuMiNaTe7
 riceball7852
+hamtah
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 
