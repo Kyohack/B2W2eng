@@ -14,7 +14,7 @@ Please choose the Pokémon you want!
 Searching for the Pokémon you want...
 None were found!
 Stop searching?
-Trade Pokémon\xfffewith the Trainer?
+Trade Pokémon with this Trainer?
 Choose the Pokémon you are trading.
 Do what with this \xf000Ă\x0001\x0000?
 You seem to have already traded it...
@@ -22,7 +22,7 @@ You seem to have already traded it...
 Choose the Pokémon you want to offer.
 Offer \xf000Ă\x0001\x0000?
 Are these conditions OK?
-Checking GTS's\xfffestatus...
+Checking GTS's status...
 The Ball Capsule will be detached.\xfffeIs that OK?
 That Pokémon may not be offered\xfffefor trade!\xf000븁\x0000
 That Pokémon may not be offered\xfffefor trade (13266)!\xf000븁\x0000
@@ -36,7 +36,7 @@ An Egg may not be offered\xfffefor trade!\xf000븁\x0000
 Your Storage Boxes are full.\xfffeYou can't receive a Pokémon!\xf000븁\x0000
 A trade partner has been found!
 Ｗｉ－Ｆｉコネクションに　せつぞく
-Touch 『SELECT』 to set trade partner.
+Touch “SELECT" to set trade partner.
 Please change your conditions.
 Please wait a while.
 Your party is full. You can't receive\xfffea Pokémon that is holding Mail.\xf000븁\x0000
@@ -50,14 +50,14 @@ GTS check failed.
 \xf000봂\x0000QUIT
 \xf000Ă\x0001\x0000
 \xf000ā\x0001\x0001
-Ｌｖ．\xf000Ȃ\x0001\x0002
+Lv.\xf000Ȃ\x0001\x0002
 ITEM
 \xf000ĉ\x0001\x0003
 OFFERER
 \xf000Ā\x0001\x0004
 Desired Pokémon
 \xf000ā\x0001\x0005
-Ｌｖ.\xf000Ȃ\x0001\x0006いじょう
+Lv.\xf000Ȃ\x0001\x0006いじょう
 No Lv. Preference
 TAKE BACK
 LEAVE AS IS
@@ -76,10 +76,10 @@ SEARCH
 SELECT
 \xf000Ă\x0001\x0000
 \xf000ā\x0001\x0001
-Ｌｖ．\xf000Ȃ\x0001\x0002
+Lv. \xf000Ȃ\x0001\x0002
 ITEM
 \xf000ĉ\x0001\x0003
-あずけたひと
+OFFERER
 \xf000Ā\x0001\x0004
 WANTED
 \xf000ā\x0001\x0005
@@ -110,7 +110,7 @@ WANTED
 
 OFFER POKÉMON
 \xf000Ă\x0001\x0002
-Ｌｖ．
+Lv.
 \xf000Ȃ\x0001\x0003
 Lv. \xf000Ȃ\x0001\x0003
 CANCEL
@@ -141,9 +141,9 @@ Lv. 80 and up
 Lv. 90 and up
 Lv. 100
 \xf000봂\x0000Return
-He has sent\xfffeto the ＧＴＳ！
-Pokémon has been registered\xfffein the ＧＴＳ！\xf000븁\x0000
-\xfffehas been recieved from the ＧＴＳ！
+He has sent\xfffeto the GTS!
+Pokémon has been registered\xfffein the GTS!\xf000븁\x0000
+\xfffehas been recieved from the GTS!
 ＧＴＳから　ポケモンを\xfffeひきとりました！\xf000븁\x0000
 ＧＴＳと　ポケモンを　\xfffeこうかん　しています！
 ポケモンの　こうかんが\xfffeせいりつ　しました！\xf000븁\x0000
@@ -241,9 +241,9 @@ Z
 
 
 
-ＧＴＳ
-ＧＴＳ\xfffeTRADE POKÉMON
-ＧＴＳ\xfffeSUMMARY
+GTS
+GTS\xfffeTRADE POKÉMON
+GTS\xfffeSUMMARY
 GTS\xfffeDEPOSIT POKÉMON
 GTS\xfffeSEEK POKÉMON
 CANCEL
