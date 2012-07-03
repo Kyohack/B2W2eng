@@ -42,8 +42,8 @@ Saving...\xfffeDon't turn off the power.
 Random Matchup Rating mode\xfffewill be launched.\xf000븁\x0000
 Waiting for the server...\xfffeDon't turn off the power.
 Awaiting communication...\xfffePlease stand by.
-ブラック．
-ホワイト．
+Kuro*
+Shiro*
 ポケモンバトル　Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
 Join
 Info
@@ -77,14 +77,14 @@ Battle
 Cancel participation
 Cancel
 Quit the competition?
-たいせんを　つづけますか？
+Do you want to continue battling?
 The competition time has run out.\xfffeThe competition has ended.\xf000븁\x0000
 Your Battle Box has been\xfffeunregistered.\xf000븁\x0000
 Currently, you have registered no\xfffecompetitions.\xf000븁\x0000
 Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000븁\x0000\xfffeIs it OK to unregister?
 You will be unregistered.\xfffeAre you sure about this?
 Searching for your opponent...
-たいせん　あいてを\xfffeさがすのを　やめますか？
+Quit searching for\xfffesomeone to battle?
 Your opponent has been found!
 The battle results were\xfffesent to the server.\xf000븁\x0000\xfffeIt'll take a little time\xfffeto calculate your Rating.\xf000븁\x0000\xfffeOnce the calculation is done,\xfffeyour Rating will be updated.\xf000븁\x0000
 つうしん　たいきちゅう　です\xfffeでんげんを　きらないで　ください
@@ -104,7 +104,7 @@ L\xf000Ȃ\x0001\x0000
 You are participating in this competition.\xfffePlease register your Pokémon.
 You are participating in this competition.\xfffeYour Battle Box is being locked.
 Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000븁\x0000\xfffeIs it OK to unregister?
-たいかいの　さんかを　かいじょ　します\xfffeほんとうに　よろしいですか？
+You will be unregistered.\xfffeAre you sure about this?
 It is being unregistered...\xfffeDon't turn off the power.
 Your Battle Box has been\xfffeunregistered.\xf000븁\x0000
 This competition has already ended.
