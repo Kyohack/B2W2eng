@@ -41,7 +41,7 @@ You declined the offer.
 You need at least two Pokémon\xfffein your party if you want to trade!
 \xf000Ā\x0001\x0000 has invited you to\xfffemix records.\xf000븁\x0000\xfffeWould you like to mix records\xfffewith the other player?
 レコードつうしんを\xfffeかいし　します！
-おさそいを\xfffeことわり　ました
+You declined the offer.
 \xf000Ā\x0001\x0000 has invited you to join\xfffea Spin Trade session.\xf000븁\x0000\xfffeWould you like to take part\xfffein the Spin Trade?
 ぐるぐるこうかんを\xfffeかいし　します！\xf000븂\x0001<
 You declined the offer.
@@ -52,7 +52,7 @@ Whoops! Sorry, but I have to do\xfffesomething else.\xf000븀\x0000\xfffeAnother
 Whoops! Sorry, but I have to do\xfffesomething else.\xf000븀\x0000\xfffeAnother time, OK?
 What would you like to do?
 What would you like to do?
-...\xfffeThe Trainer appears to be busy...
+... ...\xfffeThe Trainer appears to be busy...
 ... ...\xfffeThe Trainer appears to be busy...
 \xf000Ā\x0001\x0000 did not reply...
 \xf000Ā\x0001\x0000 did not reply...
@@ -104,8 +104,8 @@ Sorry to make you wait! OK then,\xfffelet's have a Multi Battle!\xf000븂\x0001<
 Sorry to keep you waiting! OK then,\xfffelet's have a Multi Battle!\xf000븂\x0001<
 Oh, I'm sorry.\xfffeI have too much to do right now.\xf000븀\x0000\xfffeAnother time, OK?
 Oh, sorry!\xfffeLet's do this another time!
-おさそいを\xfffeことわり　ました
-おさそいを\xfffeことわり　ました
+You declined the offer.
+You declined the offer.
 Whoa!\xfffeI can tell you're pretty tough!
 That Pokémon...\xfffeIt's been raised really well!
 You used that move?\xfffeThat's good strategy!
@@ -117,7 +117,7 @@ You have exquisite timing for\xfffeswitching Pokémon!
 You want to trade, huh?\xfffeSure, hold on just a second.
 A trade? Of course, but I need\xfffetime to get ready.
 またせたね！\xfffeそれじゃあ　こうかん　しようか！\xf000븂\x0001<
-おまたせ！\xfffeそれじゃあ　はじめましょう！\xf000븂\x0001<
+Sorry I made you wait!\xfffeLet's get started!\xf000븂\x0001<
 Sorry! I don't have a Pokémon\xfffethat I can trade right now.\xf000븁\x0000\xfffeLet's trade some other time.
 I'm sorry, but I don't have any\xfffePokémon that I can trade now...\xf000븁\x0000\xfffeLet's trade some other time!
 Oh yeah!\xfffeI really wanted this Pokémon!
@@ -136,12 +136,12 @@ Oh, I'm sorry.\xfffeI have too much to do right now.\xf000븀\x0000\xfffeAnother
 Oh, sorry!\xfffeLet's do this another time!
 \xf000Ā\x0001\x0000『これから　ぼくたち\xfffeレコードつうしん　するんだ\xf000븁\x0000\xfffeそうだ！　\xf000Ā\x0001\x0001も　いっしょに\xfffeレコードつうしん　するかい？
 \xf000Ā\x0001\x0000『いまね　わたしたち\xfffeレコードつうしん　してたんだ\xf000븁\x0000\xfffeそうだ！　\xf000Ā\x0001\x0001も　いっしょに\xfffeレコードつうしん　しない？
-そうか\xfffeまた　いつでも　おいでよ！
-そう……\xfffeまた　いつでも　きてね！
+Oh, all right.\xfffeCome see me anytime, OK?
+Oh...\xfffePlease come by anytime.
 よし！　じゃあ　いっしょに\xfffeレコードつうしん　しようぜ！
 おまたせ！　じゃあ　いっしょに\xfffeレコードつうしん　しましょう！
-あっ　ごめん！\xfffeやっぱり　いま　つごうが　わるいんだ\xf000븀\x0000\xfffeまた　こんど　よろしくね！
-あっ　ごめんなさい！\xfffeまたこんど　しようね
+Oh, I'm sorry.\xfffeI have too much to do right now.\xf000븀\x0000\xfffeAnother time, OK?
+Oh, sorry!\xfffeLet's do this another time!
 レコードまぜるの　たのしいな！
 レコードまぜるの　たのしいわ！
 どんどん　まぜるぞ！
@@ -156,7 +156,7 @@ Spin Trade? Of course!\xfffeOK, can you just wait a moment?
 あっ　おまたせ！\xfffeそれじゃあ　はじめましょう！\xf000븂\x0001<
 Oh, I'm sorry.\xfffeI have too much to do right now.\xf000븀\x0000\xfffeAnother time, OK?
 Oh, sorry!\xfffeLet's do this another time!
-You need an Egg if you want to take\xfffepart in a Spin Trade.\xf000븁\x0000
+You need an Egg if you want to\xfffetake part in a Spin Trade.\xf000븁\x0000
 You need an Egg if you want to\xfffetake part in a Spin Trade.\xf000븁\x0000
 \xf000Ā\x0001\x0000: We're going to do a Spin\xfffeTrade now.\xf000븁\x0000\xfffeHey, \xf000Ā\x0001\x0001! Do you want to join\xfffeus for a Spin Trade, too?
 \xf000Ā\x0001\x0000: We were doing Spin Trades\xfffejust now.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001, do you want to join us\xfffeand do some Spin Trades, too?
@@ -216,7 +216,7 @@ You can chat with other people\xfffeby selecting “CHAT" in the menu.\xf000븁\
 \xf000Ĝ\x0001\x0000たいせんを\xfffeするんだったら\xf000븁\x0000\xfffeじぶんから　はなしかけるぐらい\xfffeつよきで　いかないと！\xf000븁\x0000\xfffe\xf000Ĝ\x0001\x0000　たいせんを\xfffeするまえに　まけちゃい　ますよ！\xf000븁\x0000
 せつめい
 おはなしする
-やめる
+Cancel
 Battle
 Trade
 レコード
@@ -226,7 +226,7 @@ Chat
 Cancel
 Talking to \xf000Ā\x0001\x0000...
 Whoops! Sorry, but I have to do\xfffesomething else.\xf000븀\x0000\xfffeAnother time, OK?
-ともだち
+Friend
 \xf000Ā\x0001\x0001のともだち
 \xf000Ā\x0001\x0002のともだち
 こんにちは！
@@ -250,8 +250,8 @@ Cancel
 レベル５０ルール
 No Restrictions
 Flat Battle
-Wonder Launcher on
-Wonder Launcher off
+Wonder Launcher On
+Wonder Launcher Off
 Cancel
 Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002Single Battle\xf000\xff00\x0001\x0000
 Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002Double Battle\xf000\xff00\x0001\x0000
@@ -269,12 +269,12 @@ Wonder Launcher\xf000봅\x0001s: \xf000\xff00\x0001\x0002Off\xf000\xff00\x0001\x
 じょうけんを　みたした　ポケモンが\xfffe６ひき　いじょう　ひつようです
 たいせんするには　ポケモンが\xfffe３ひき　いじょう　ひつようです
 サポートシューターを　つかいますか？
-ミラクルシューター　あり
-ミラクルシューター　なし
+Wonder Launcher On
+Wonder Launcher Off
 てもちか　バトルボックスの\xfffeどれを　つかうか　えらんでください
-てもち
-バトルボックス
-やめる
+In party
+Battle Box
+Cancel
 You don't meet the conditions,\xfffeso you cannot participate.
 Please wait a moment...\xfffePress the B Button to cancel.
 Please choose the Pokémon\xfffethat will participate.\xf000븂\x0001<
@@ -282,8 +282,8 @@ Please select the three Pokémon\xfffethat will participate.\xf000븂\x0001<
 Please select the four Pokémon\xfffethat will participate.\xf000븂\x0001<
 Please select the six Pokémon\xfffethat will participate.\xf000븂\x0001<
 Please select up to three Pokémon\xfffethat will participate.\xf000븂\x0001<
-しばらく　おまちください
-はなしかけています
+Please wait a moment.
+Trying to get their attention...
 はなしかけられました\xfffeおやに　へんじを　かえしています
 やあ！　なにする？
 トレーナーカードをみせて！
@@ -318,7 +318,7 @@ Please select up to three Pokémon\xfffethat will participate.\xf000븂\x0001<
 I don't know this game, so I won't play!
 I don't meet the conditions, so I\xfffecan't battle!
 メンバーしゅうごうを　まっています
-しばらく　おまちください
+Please wait a moment.
 うんうん！　へー！　そうなんだ！
 ふむふむ　トレーナーカードを\xfffeみるのって　たのしい！
 １ｖｓ１で　しょうぶしてるんだ！
@@ -331,7 +331,7 @@ I don't meet the conditions, so I\xfffecan't battle!
 みたこともない　あそびをしている！
 そっか！バイバイ！
 Ending communication.\xfffePlease wait...\xf000븂\x0001<
-しばらく　おまちください\xfffeＢボタンで　キャンセル
+Please wait a moment...\xfffePress the B Button to cancel.
 Communication will end.\xfffeIs that OK?
 Party
 Battle Box
