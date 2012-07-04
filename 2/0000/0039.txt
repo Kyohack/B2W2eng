@@ -20,47 +20,47 @@ Yes
 No
 Confirm
 Close
-げんき？
-かいさい　しました！
+Doing?
+Was held!
 Joined!
-\xf000ą\x0001\x0000に　いどう
-\xf000ā\x0001\x0000と　せんとうちゅう！
-\xf000ā\x0001\x0000を　たおした！
-\xf000ā\x0001\x0000を　つかまえた！
-\xf000ā\x0001\x0000を　にがした
-トレーナーと　せんとうちゅう！
-トレーナーを　たおした！
-ぜんめつした！
+\xf000ą\x0001\x0000　Move
+\xf000ā\x0001\x0000　During the battle!
+\xf000ā\x0001\x0000　Defeated!
+\xf000ā\x0001\x0000　Caught!
+\xf000ā\x0001\x0000　Got away...
+Trainer has challenged you to a battle!
+Defeated trainer!
+Trainer was wiped out!
 \xf000ĉ\x0001\x0000を　つかった
 \xf000ĉ\x0001\x0000を　ひろった！
 \xf000ć\x0001\x0000を　つかった
 かいものちゅう……
 デルパワーを　つかった！
 かんらんしゃに　のった！
-かんばんを　しらべています
-タマゴを　うけとった！
-\xf000ā\x0001\x0000を　たおした！
-\xf000ā\x0001\x0000を　つかまえた！
-\xf000ĉ\x0001\x0000を　みつけた！
+You are looking at a billboard
+Received an egg!
+\xf000ā\x0001\x0000　Defeated!
+\xf000ā\x0001\x0000　Caught!
+\xf000ĉ\x0001\x0000　Found 
 かねを　ならした！
-\xf000ā\x0001\x0000を　たおした！
-\xf000ā\x0001\x0000を　つかまえた！
+\xf000ā\x0001\x0000　Defeated!
+\xf000ā\x0001\x0000　Caught!
+\xf000ĉ\x0001\x0000　Got it!
 \xf000ĉ\x0001\x0000を　みつけた！
-\xf000ĉ\x0001\x0000を　みつけた！
-\xf000ā\x0001\x0000が　うまれた！
+\xf000ā\x0001\x0000　Has just hatched!
 \xf000ā\x0001\x0000を　つりあげた！
 \xf000ā\x0001\x0000を　みつけた！
 まいごを　たすけてあげた！
 \xf000ĉ\x0001\x0000を　わたした
-エリートトレーナーを　たおした
-どうぐこうかん　せいこう！
-\xf000ĉ\x0001\x0000を　かった！
-クイズに　せいかいした！
+Have just beaten the elite trainer!
+Trade succeeded! 
+\xf000ĉ\x0001\x0000　Bought!
+The correct answer to the quiz!
 じゃんけんに　かった！
-\xf000ĉ\x0001\x0000を　もらった！
-おかねが　たりない！
+\xf000ĉ\x0001\x0000　Received
+Not enough money!
 じゃんけんに　まけた！
-\xf000Ă\x0001\x0000が　ひんしです
+\xf000Ă\x0001\x0000　Fainted
 \xf000Ă\x0001\x0000のＨＰが　すくない！
 \xf000Ă\x0001\x0000のＰＰが　すくない！
 \xf000Ĝ\x0001\x0000
@@ -68,22 +68,22 @@ Joined!
 
 
 \xf000ą\x0001\x0000と\xfffeはつげん　しました
-のこりじかん
-さんかにんずう
+Remaining time
+The number of participants
 クリアもくひょう\xf000ȃ\x0001\x0000ひき
-トータルスコア
+Total score
 ほうしゅう
 \xf000Ȃ\x0001\x0000にん
 ひき
-マイスコア
-RANK
-トップスコア
+My score
+Ranking
+Top score
 ハイスコア
 \xf000ȃ\x0001\x0000ひき
 \xf000Ȃ\x0001\x0000にんちゅう　\xf000Ȃ\x0001\x0001ばんめ
-のこりじかん
-スコアボーナス
-ダブルスコア
+Remaining time
+Score bonus
+Double score
 \xf000ĉ\x0001\x0000\xf000ȁ\x0001\x0001こ
 ＋\xf000ȁ\x0001\x0000こ
 \xf000ȃ\x0001\x0000こ
@@ -101,13 +101,13 @@ RANK
 \xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001こ
 \xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001かい
 \xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001
-ミッションたっせい！
-ミッションしっぱい！
+Mission acomplished!
+Mission acomplished!
 \xf000Ā\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffe\xf000ȁ\x0001\x0002こ　てにいれた！
 ざんねん！　\xf000ĉ\x0001\x0000は\xfffeこれいじょう　もてない！
-ダブルスコアボーナス　はっせい！
+Incidence double score bonus!
 \xf000Ā\x0001\x0000の　おもいが\xfffeハイルツリーと　きょうめいした！\xf000븁\x0000\xfffeハイリンクの\xfffe\xf000Ń\x0001\x0001ＬＶが　\xf000ȁ\x0001\x0002あがった！
 みんなの　おもいが\xfffeハイルツリーと　きょうめいした！\xf000븁\x0000\xfffeハイリンクの\xfffe\xf000Ń\x0001\x0000ＬＶが　\xf000ȁ\x0001\x0001あがった！
 White
 Black
-クリアもくひょう
+Clear target
