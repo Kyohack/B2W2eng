@@ -220,13 +220,13 @@ A very unusual strong storm is happening!
 ◇ Sangi Town used to have a large variety of Pokémon at its Ranch.
 ◇ Nuvema Town has a peaceful atmosphere and is surrounded by mountains.
 ◇ Virbank City is a gateway to success for all types of trainers.
-◇コンビナートでは　いつでも　はたらくポケモン　トレーナーを　だいぼしゅうです
+◇ Pokemon trainers are recuited to work at any time in a large industrial complex.
 ◇ PokéStar Studios is always looking for a star to shoot a film.
 ◇タチワキシティから　ヒウンシティいきの　ていきせんが　しゅっこうしています
-◇いきかう　ふねは　タチワキシティにすむ　ひとびとの　じゅうような　こうつうしゅだんです
-◇タチワキシティは　こうじょうで　はたらく　ひとびとを　ちゅうしんに　はってんしました
-◇コンビナートで　はたらく　ひとびとは　しごとの　あいまに　ポケモンしょうぶを　たのしんでいます
-◇しごとでくたびれた　ひとたちを　コンビナートの　やけいがいやします
+◇ A traveling boat is one of most popular of Virbank's means of transportation.
+◇ Virbank city is focusing on the combinator and the current work there.
+◇ The farmers are working hard in the complex for each Pokemon for the joy of battle.
+◇ We should thank all the farmers who got tired and thirsty after working in the complex.
 ◇まちの　ひがしにある　クレーンで　にもつの　あげおろしをします
 ◇ This is a prime sightseeing spot for tourists who love ruins.
 ◇ The desert is harsh and vast. Please prepare yourself before attempting to cross it.
@@ -248,7 +248,7 @@ A very unusual strong storm is happening!
 ◇ Beware! Vast sandstorms can cover the entire desert.
 ◇ You can become a star at PokéStar Studios！
 ◇ PokéStar Studios movies are watched all around the world 
-◇ポケウッドでは　スターをもとめています　きたれスター！
+◇ The resort desert sand storm blows hard and covers everything, be careful!
 ◇ PokéStar Studios directors give a lot of rich individuals various types of work
 ◇ Studios and Theatres are always boasting about the latest film shootings at PokéStar Studios
 ◇ You can become a star at PokéStar Studios！
