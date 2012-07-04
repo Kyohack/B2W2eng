@@ -1,27 +1,27 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
-あいてタイプの　じゃくてんを　つけ！\xfffeセリフの　せんたくが　じゅうよう！
-あいてタイプの　じゃくてんを　つけ！\xfffeセリフの　せんたくが　じゅうよう！
-あいてタイプの　じゃくてんを　つけ！
+Screenplay
+Cut 01
+Cut 02
+Cut 03
+Cut 04
+Cut 05
+Cut 06
+Cut 07
+Cut 08
+Cut 09
+Cut 10
+Cut 11
+Cut 12
+Cut 13
+Cut 14
+Cut 15
+Cut 16
+Cut 17
+Cut 18
+Cut 19
+Cut 20
+Love Type with Weaknesses!\xfffeWhat Crucial Word Choice!
+Love Type with Weaknesses!\xfffeWhat Crucial Word Choice!
+Love Type with Weaknesses!
 None
 None
 None
