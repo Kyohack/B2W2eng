@@ -1,5 +1,5 @@
-\xf000봂\x0000ここは　とある　けんきゅうしつ\xfffe\xf000봂\x0000ゆめの　だいはつめい\xfffe\xf000봂\x0000ダイナミックエンジンを　ぬすもうと\xfffe\xf000봂\x0000しのびこんだ　ニンジャが　ひとり
-\xf000봂\x0000そして　しんにゅうしゃを\xfffe\xf000봂\x0000まちうけるのは\xfffe\xf000봂\x0000ぜんしんに　きかいを　まとった\xfffe\xf000봂\x0000せいぎの　みかた……
+\xf000봂\x0000Here a ninja is trying to steal\xfffe\xf000봂\x0000the lab's dream invention,\xfffe\xf000봂\x0000the Dynamic Engine\xfffe\xf000봂\x0000all alone.
+\xf000봂\x0000Thus, the hero waiting for\xfffe\xf000봂\x0000the intruder, was\xfffe\xf000봂\x0000wearing a metal suit\xfffe\xf000봂\x0000covering the entire body...
 None
 None
 None
@@ -8,8 +8,8 @@ None
 None
 None
 None
-\xf000봂\x0000ここは　とある　けんきゅうしつ\xfffe\xf000봂\x0000ゆめの　だいはつめい\xfffe\xf000봂\x0000ダイナミックエンジンを　ぬすもうと\xfffe\xf000봂\x0000しのびこんだ　クノイチが　ひとり
-\xf000봂\x0000そして　しんにゅうしゃを\xfffe\xf000봂\x0000まちうけるのは\xfffe\xf000봂\x0000ぜんしんに　きかいを　まとった\xfffe\xf000봂\x0000せいぎの　みかた……
+\xf000봂\x0000Here a woman is trying to steal\xfffe\xf000봂\x0000the lab's dream invention,\xfffe\xf000봂\x0000the Dynamic Engine\xfffe\xf000봂\x0000all by herself.
+\xf000봂\x0000Thus, the hero waiting for\xfffe\xf000봂\x0000the intruder, was\xfffe\xf000봂\x0000wearing a metal suit\xfffe\xf000봂\x0000covering the entire body...
 None
 None
 None
