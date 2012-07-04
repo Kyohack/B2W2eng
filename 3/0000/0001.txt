@@ -32,7 +32,7 @@ Nope, this is no good. Not worth my while.
 Hey, come see me if you find something\xfffecool, got it?\xf000븁\x0000\xfffeI'll make it worth your while.
 What's up?\xfffeDid you find something cool for me?\xf000븁\x0000\xfffe...Nope, nothing cool in your Bag.\xfffeOh well. Maybe next time!
 フンフンフン……！\xf000븁\x0000\xfffeフキヨセで　はたけしごとを　しています\xfffeそう　ぼくには　こやしが　いるんだよ！\xf000븁\x0000\xfffeフンフンフン……！\xf000븁\x0000\xfffeきみは　ポケモントレーナー　だね！\xfffeじゃあ　かくしあなは　しっているかな\xf000븁\x0000\xfffeかくしあなの　おくで\xfffeこやしが　たまに　みつかるだろ\xf000븀\x0000\xfffeぼくは　それが　だいすき　なのさ！\xf000븁\x0000\xfffeフンフンフン……！\xfffeじゃあ　よろしくね！\xf000븁\x0000
-こやしを　もっているんだろ？\xfffe If it's fine with you, would you please show that to me?\xf000븁\x0000
+こやしを　もっているんだろ？\xfffeIf it's fine with you, would\xfffeyou please show that to me?\xf000븁\x0000
 フンフンフン……！　このにおいは\xfffe\xf000ĉ\x0001\x0000だね！\xf000븁\x0000\xfffeその　こやしなら\xfffe\xf000ȇ\x0001\x0001円で　かいとるよ？
 \xf000ĉ\x0001\x0000　を　わたして\xfffe\xf000ȇ\x0001\x0001You received some money!
 フンフンフン……！　じつに\xfffeかぐわしい　いい　こやし　だね！\xf000븀\x0000\xfffeはたけずきの　ちが　さわぐよ！
