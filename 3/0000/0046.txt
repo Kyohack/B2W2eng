@@ -1,6 +1,6 @@
 Welcome to the majestic\xfffeRoyal Unova!\xf000븁\x0000\xfffeWould you like to buy\xfffea ticket for 1000 Pokédollars?
-This criuse is the\xfffefirst of it's first kind.\xf000븁\x0000
-Royal Unova's navigation system\xfffeis under maintenance.\xf000븀\x0000\xfffeCome back at the evening.
+This cruise is the\xfffefirst of its first kind.\xf000븁\x0000
+Royal Unova's navigation system\xfffeis under maintenance.\xf000븀\x0000\xfffeCome back in the evening.
 Oh? It seems that you\xfffedon't have enough money...
 Would you pay 1000 Pokédollars\xfffefor a ferry ticket?
 On the fifth floor, you will\xfffeget a fantastic view of Unova's\xf000븁\x0000\xfffeSky Arrow Bridge, then\xfffecruise under the\xf000븁\x0000\xfffemagnificent Wonder Bridge, and\xfffeback to the robusting Castelia City!\xf000븁\x0000
@@ -11,6 +11,6 @@ We are looking\xfffeforward to see you soon!
 Thanks for riding with us!\xfffeHope you visit us again.
 Today's departure has left...\xfffePlease come back at\xf000븀\x0000\xfffeanother time.
 Congratulations!\xf000븁\x0000\xfffeYou have defeated all\xfffeof the trainers on board!\xf000븁\x0000\xfffePlease accept this as\xfffean award!\xf000븁\x0000
-Thie Ride
+Boat Ride
 Description
 Back
