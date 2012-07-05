@@ -38,20 +38,20 @@ You have already had a battle\xfffewith this person.\xf000븁\x0000\xfffeYou can
 There are no Pokémon in\xfffeyour Battle Box.\xf000븁\x0000\xfffePlease check the tournament\xffferules to place Pokémon\xf000븀\x0000\xfffein your Battle Box.\xf000븁\x0000
 Please choose your Pokémon.
 An error occurred, and\xfffethe battle has been disrupted.\xf000븁\x0000\xfffePlease follow the instructions\xfffegiven by tournament staff.\xf000븁\x0000
-けっかを　かくにん
-たいかいの　じょうけんを\xfffeみたしていません\xf000븁\x0000
-ポケモンの　かずが\xfffeじょうけんを　みたしていません\xf000븁\x0000
-ポケモンの　レベルが\xfffeじょうけんを　みたしていません\xf000븁\x0000
-さんかが　できない\xfffeポケモンが　います\xf000븁\x0000
-おなじ　しゅるいの\xfffeポケモンが　います\xf000븁\x0000
-おなじ　どうぐを　もった\xfffeポケモンが　います\xf000븁\x0000
-タマゴが　います\xf000븁\x0000
-もたせられない　どうぐを\xfffeもっています\xf000븁\x0000
-さんかが　ひつような\xfffeポケモンが　いません\xf000븁\x0000
-さんか　できる　レベルの　ごうけいが\xfffeじょうけんを　みたしていません\xf000븁\x0000
-たいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセット　してください\xf000븁\x0000
-\xf000Ā\x0001\x0000　のこり　\xf000Ȁ\x0001\x0002ひき\xfffe\xf000Ā\x0001\x0001　のこり　\xf000Ȁ\x0001\x0003ひき\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　かちました\xf000븁\x0000
-\xf000Ā\x0001\x0000　のこり　\xf000Ȁ\x0001\x0002ひき\xfffe\xf000Ā\x0001\x0001　のこり　\xf000Ȁ\x0001\x0003ひき\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　まけました\xf000븁\x0000
-\xf000Ā\x0001\x0000　のこり　\xf000Ȁ\x0001\x0002ひき\xfffe\xf000Ā\x0001\x0001　のこり　\xf000Ȁ\x0001\x0003ひき\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　ひきわけました\xf000븁\x0000
-\xf000Ā\x0001\x0000　のこり　\xf000Ȁ\x0001\x0002ひき\xfffe\xf000Ā\x0001\x0001　のこり　\xf000Ȁ\x0001\x0003ひき\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　こうさんしたので\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　まけました\xf000븁\x0000
-\xf000Ā\x0001\x0000　のこり　\xf000Ȁ\x0001\x0002ひき\xfffe\xf000Ā\x0001\x0001　のこり　\xf000Ȁ\x0001\x0003ひき\xf000븀\x0000\xfffe\xf000Ā\x0001\x0001　が　こうさんしたので\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　かちました\xf000븁\x0000
+Check Results
+Does not meet the\xfffetournament requirements\xf000븁\x0000
+The amount of Pokémon does\xfffenot meet the requirements.\xf000븁\x0000
+The level of the Pokémon do\xfffenot meet the requirements.\xf000븁\x0000
+This Pokémon cannot\xfffeparticipate\.xf000븁\x0000
+The Pokémon's type\xfffeis the same.\xf000븁\x0000
+The Pokémon's held item\xfffeis the same.\xf000븁\x0000
+It's an egg.\xf000븁\x0000
+You do not have\xfffethe proper tools.\xf000븁\x0000
+You do not have Pokémon\xfffeneeded to participate.\xf000븁\x0000
+The total level of participants\xfffedoes not meet the requirements.\xf000븁\x0000
+Confirm rules of tournament,\xfffeplease set Pokémon to\xf000븀\x0000\xfffethe Battle Box\xf000븁\x0000
+\xf000Ā\x0001\x0000　Remain　\xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001　Remain　\xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　has won!\xf000븁\x0000
+\xf000Ā\x0001\x0000　Remain　\xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001　Remain　\xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　has lost!\xf000븁\x0000
+\xf000Ā\x0001\x0000　Remain　\xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001　Remain　\xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　have tied!\xf000븁\x0000
+\xf000Ā\x0001\x0000　Remain　\xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001　Remain　\xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　has given up!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　has lost!\xf000븁\x0000
+\xf000Ā\x0001\x0000　Remain　\xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001　Remain　\xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0001　has given up!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　has won!\xf000븁\x0000
