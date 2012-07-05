@@ -1,12 +1,12 @@
-Er...\xfffeWho was I again?\xf000븁\x0000\xfffe...\xfffe...\xf000븁\x0000\xfffe...Oh, that's right!\xfffeI am the Move Deleter!\xf000븁\x0000
-You've come to make me force your\xfffePokémon to forget some moves?
-Which Pokémon should forget a move?\xf000븁\x0000
+Hello, and welcome to\xfffethe Pokémon Center.\xf000븀\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000?\x0000\xfffeWould you like to rest your Pokémon?
+Good morning! Welcome to\xfffethe Pokémon Center.\xf000븀\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000?\x0000\xfffeWould you like to rest your Pokémon?
+Hello, and welcome to\xfffethe Pokémon Center.\xf000븀\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000?\x0000\xfffeWould you like to rest your Pokémon?
 Welcome to the Pokémon Center.\xf000븁\x0000\xfffeHey! Is today your birthday?
 Happy birthday!\xf000븁\x0000\xfffePlease keep visiting the Pokémon Center\xfffefor many years to come.\xf000븁\x0000\xfffeNow, would you like to rest\xfffeyour Pokémon?
 It isn't? Oh, I must have been confused.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
-OK, then.\xfffeWhich move should be forgotten?\xf000븁\x0000
-Hm! The move \xf000ć\x0001\x0000?\xfffeShould that move be forgotten?
-It worked perfectly!\xf000븁\x0000\xfffeYour Pokémon has forgotten the move\xfffe\xf000ć\x0001\x0000 completely.
+OK, I'll take your Pokémon for\xfffea few seconds.
+Thank you for waiting.\xf000븀\x0000\xfffeWe've restored your Pokémon\xfffeto full health.\xf000븁\x0000
+We hope to see you again!
 Hello, and welcome to\xfffethe Pokémon Center.\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to...\xf000븁\x0000
 Th-that Trainer Card!\xfffeThat wonderful shade! That sparkle!\xf000븁\x0000\xfffeI've seen several Trainers with\xfffeSilver Trainer Cards already...\xf000븁\x0000\xfffeBut you're the first to top them all with\xfffethat impressive Trainer Card.\xf000븁\x0000\xfffeOh, \xf000Ā\x0001\x0000, may I please heal\xfffeyour Pokémon?
 Great to see you, \xf000Ā\x0001\x0000!\xfffeYou want the usual, right?
