@@ -1,6 +1,6 @@
 ようこそ\xfffeこの　ステージへ\xf000븁\x0000\xfffeわたしの　いとしの　ポケモンたちと\xfffeあなたの　ポケモン……！\xf000븁\x0000\xfffeどちらの　かがやきが　ほんものか\xfffeここで　くらべましょう！！\xf000븁\x0000
 もう……\xf000븁\x0000\xfffeあなたってば　よそういじょうに\xfffeステキな　トレーナー\xf000븁\x0000\xfffeホレボレしちゃう　ファイトスタイルに\xfffeなんだか　かんげき　したわ……\xf000븀\x0000\xfffeこれを……！\xf000븁\x0000
-\xf000Ā\x0001\x0000は　カミツレから\xfffeボルトバッジを　もらった！\xf000븁\x0000
+\xf000Ā\x0001\x0000 received the\xfffeBolt Badge from Elesa!\xf000븁\x0000
 ボルトバッジを　ふくめ\xfffe４つの　バッジが　あれば\xf000븁\x0000\xfffeひとと　こうかん　した\xfffeポケモンでも　レベル５０までなら\xf000븀\x0000\xfffeあなたに　すなおに　なります\xf000븁\x0000\xfffeそれと　これは\xfffeわたしの　すきな　わざ……\xf000븀\x0000\xfffeよければ　あなたも　つかって\xf000븁\x0000
 その「ボルトチェンジ」はね\xf000븁\x0000\xfffeあいてに　こうげき　したあと\xfffeほかの　ポケモンと　いれかわるの\xf000븁\x0000\xfffeもっとも\xfffeほかの　ポケモンが　いないときは\xf000븀\x0000\xfffeそのまま　だけど……
 たいようと　つき　ではなく\xf000븁\x0000\xfffeたいようと　たいよう　なら\xfffeその　まぶしさは　むげんだい！\xf000븁\x0000\xfffeわたしは　ポケモンと\xfffeそんな　かんけいに　なりたいわ
@@ -20,8 +20,8 @@
 どうっすか？\xfffeおどろいたでしょう！？\xf000븁\x0000\xfffeこの　ジムは　はっきりいって\xfffeきらめく　ファッションショーの\xf000븀\x0000\xfffeまばゆい　ステージ　なんすよね！！\xf000븁\x0000\xfffeまあ　とりあえずは\xfffeこれを　さしあげるっす！\xf000븁\x0000
 この　ポケモンジムは\xfffeステージの　うえで　まちかまえる\xf000븁\x0000\xfffeモデルの　トレーナーに　しょうりして\xfffeさきに　すすんでいくだけっす！\xf000븁\x0000\xfffeちなみに　でんきタイプの\xfffeポケモンは　じめんタイプの\xf000븀\x0000\xfffeわざが　にがて　なんすよ……\xf000븁\x0000\xfffeあっ！　だけどですよ\xf000븁\x0000\xfffeエモンガって　ポケモンには\xfffeじめんタイプの　わざが　きかないので\xf000븀\x0000\xfffeようちゅうい　してくださいっす！
 カミツレさんの　まぶしく\xfffeかれいな　でんきこうげき！\xf000븁\x0000\xfffeそれを　うわまわった　あんたと\xfffeポケモンとの　コンビネーション！\xf000븁\x0000\xfffeまさに　まさに\xfffeスーパーモデル 　っすよ！\xf000븁\x0000\xfffeじゃなかった！　とびっきりの\xfffeポケモンと　ポケモントレーナー　っすね！
-ライモン　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　カミツレ\xfffeにんてい　トレーナー！
-ライモン　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　カミツレ\xfffeにんてい　トレーナー！\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
+Nimbasa Pokémon Gym\xf000븁\x0000\xfffeGym Leader: Elesa\xfffeCertified Trainers:
+Nimbasa Pokémon Gym\xf000븁\x0000\xfffeGym Leader: Elesa\xfffeCertified Trainers:\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
 ライモン　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　カミツレ\xfffeにんてい　トレーナー！\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　\xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000！！
 かっこいい……！

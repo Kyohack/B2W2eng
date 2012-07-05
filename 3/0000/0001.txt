@@ -1,7 +1,7 @@
 Hi! I am a humble Maid!\xf000븁\x0000\xfffeMy master has a big heart to match his\xfffebig belly. He's a gourmet!\xf000븁\x0000\xfffeSo I am looking for ingredients that will\xfffemake his heart jump for joy!\xf000븁\x0000
 Sniff, sniff... Sniff, sniff...\xf000븁\x0000\xfffeOh, that aroma! It smells so gourmet!\xf000븁\x0000\xfffeDo you have a wonderful ingredient in\xfffeyour Bag?\xf000븀\x0000\xfffeWould you consider selling it to me?\xf000븁\x0000
 Oh, it smells so good!\xf000븁\x0000\xfffeThat \xf000ĉ\x0001\x0000 of yours is a very\xffferare ingredient indeed!\xf000븁\x0000\xfffeWould you take $\xf000ȇ\x0001\x0001 for it?
-Turned over the \xf000ĉ\x0001\x0000 and\xfffereceived $\xf000ȇ\x0001\x0001!
+Turned over the \xf000ĉ\x0001\x0000\xfffeand received $\xf000ȇ\x0001\x0001!
 Merci! Thank you!!\xf000븁\x0000\xfffeWith this, I can create a superb menu.\xfffeMy master will be so surprised!
 Hmmm... This is not quite what I'm\xfffelooking for.\xf000븁\x0000\xfffeI don't think my master will be satisfied\xfffewith such a smell...
 Aww... Well, that's OK.\xf000븁\x0000\xfffeIf you find a gourmet ingredient for me,\xfffeplease let me know!
@@ -34,7 +34,7 @@ What's up?\xfffeDid you find something cool for me?\xf000븁\x0000\xfffe...Nope,
 フンフンフン……！\xf000븁\x0000\xfffeフキヨセで　はたけしごとを　しています\xfffeそう　ぼくには　こやしが　いるんだよ！\xf000븁\x0000\xfffeフンフンフン……！\xf000븁\x0000\xfffeきみは　ポケモントレーナー　だね！\xfffeじゃあ　かくしあなは　しっているかな\xf000븁\x0000\xfffeかくしあなの　おくで\xfffeこやしが　たまに　みつかるだろ\xf000븀\x0000\xfffeぼくは　それが　だいすき　なのさ！\xf000븁\x0000\xfffeフンフンフン……！\xfffeじゃあ　よろしくね！\xf000븁\x0000
 こやしを　もっているんだろ？\xfffeIf it's fine with you, would\xfffeyou please show that to me?\xf000븁\x0000
 フンフンフン……！　このにおいは\xfffe\xf000ĉ\x0001\x0000だね！\xf000븁\x0000\xfffeその　こやしなら\xfffe\xf000ȇ\x0001\x0001円で　かいとるよ？
-\xf000ĉ\x0001\x0000　を　わたして\xfffe\xf000ȇ\x0001\x0001You received some money!
+Turned over the \xf000ĉ\x0001\x0000\xfffeand received $\xf000ȇ\x0001\x0001!
 フンフンフン……！　じつに\xfffeかぐわしい　いい　こやし　だね！\xf000븀\x0000\xfffeはたけずきの　ちが　さわぐよ！
 フンフンフン……！\xf000븁\x0000\xfffeこいつは　こやし　じゃないね\xfffeということは　かえないよ
 フンフンフン……！\xfffeポケモンの　フンである　こやし！\xf000븁\x0000\xfffeはたけには　だいじな　もの　だよ\xfffeぜひ　みつけたら　もってきてね！

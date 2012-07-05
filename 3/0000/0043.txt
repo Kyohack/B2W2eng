@@ -1,7 +1,7 @@
 リバティガーデンとう　かあ\xf000븁\x0000\xfffeむかしの　おおがねもちが\xfffeビクティニって　すごい　ポケモンを\xf000븀\x0000\xfffeかくまって　いたんだって！
 ふぉふぉふぉ！　ビクティニの\xfffeちからを　あくようして　つよくなろう\xf000븁\x0000\xfffeそんなことを　たくらむから\xfffeプラズマだんは　ほろんだんじゃろ！
 ごうかきゃくせんと　くらべれば\xfffeとても　ちいさな　ふねですが\xf000븁\x0000\xfffeおおうなばらを　すすむ　ロマンに\xfffeふねの　サイズは　かんけいないです\xf000븁\x0000
-リバティガーデンとうへ\xfffeいかれますか？
+Would you like to go to Liberty Garden?
 ちょうど　よい　タイミングでした\xf000븁\x0000\xfffeそろそろ　しゅっこう　しますので\xfffeふねに　のって　おまちください\xf000븁\x0000
-リバティガーデンとうへ\xfffeいきたくなりましたら\xf000븀\x0000\xfffeまた　こえを　かけてください\xf000븁\x0000
+If you'd like to go to Liberty Garden,\xfffeplease let me know.\xf000븁\x0000
 リバティガーデンとうへ\xfffeまた　いかれますか？

@@ -28,9 +28,9 @@ no　data
 ユーの　ポケモンが　どのタイプの\xfffeめざめるパワーを　おぼえるか\xf000븀\x0000\xfffeめざめた　わたくしが　みましょう！
 この　ポケモンが\xfffeめざめるパワーを　おぼえたら\xf000븀\x0000\xfffeタイプは　「\xf000ă\x0001\x0000」！
 この　ポケモンが\xfffeつかう　めざめるパワーの\xf000븀\x0000\xfffeタイプは　「\xf000ă\x0001\x0000」！
-しりたくなったら\xfffeめざめた　わたくしに　きいてください
-タマゴが　めざめるパワーを\xfffeつかうのは　むり　ですねー！
-ざんねんですが　この　ポケモンは\xfffeめざめるパワーを　おぼえられない！
+If you want to know, ask me, and I'll\xfffeactivate my hidden power for you!
+It's not possible for an Egg to use\xfffeHidden Power!
+I'm sorry, but this Pokémon can't learn\xfffeto use Hidden Power.
 そこの　ほらあなは\xfffeこだいのぬけみち！\xf000븁\x0000\xfffeさいきん　みつかったんだが\xfffeなんと　なんと！\xf000븁\x0000\xfffe……あれ？　どこに\xfffeつながって　いたんだっけ？
 うみを　わたってこそ　ふね！\xfffeみなとに　いる　ふねは　さびしそうね
 no data

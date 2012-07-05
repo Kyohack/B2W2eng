@@ -54,11 +54,11 @@
 まあ　あなた！\xfffeどうみても　トレーナーね！\xf000븁\x0000\xfffeいいわ！　あなた\xfffeなぞのオンナが　ここ！\xf000븀\x0000\xfffeトライアルハウスに　おまねきするわ！\xf000븁\x0000
 まあ　あなた！\xfffeバトルレコーダーを　もっているのね！\xf000븁\x0000\xfffeその　バトルレコーダーが　あれば\xfffeともだち　との　しょうぶや\xf000븁\x0000\xfffeバトルサブウェイでの　しょうぶを\xfffeきろく　することが　できるのよ！\xf000븁\x0000\xfffeだけど　この　トライアルハウスに\xfffeはいれるのは　もっと　つよい　ひと\xf000븁\x0000\xfffeそう　チャンピオンに　かてば　ここ！\xfffeトライアルハウスに　おまねきするわ！
 まあ　あなた！\xfffeどうみても　トレーナーね！\xf000븁\x0000\xfffeだけど　この　トライアルハウスに\xfffeはいれるのは　もっと　つよい　ひと\xf000븁\x0000\xfffeそう　チャンピオンに　かてば　ここ！\xfffeトライアルハウスに　おまねきするわ！
-ライモンシティ\xfffeいなずまきらめく　かがやきのまち
-ビッグスタジアム\xfffeベースボール　＆　フットボール
-リトルコート\xfffeテニス　＆　バスケット
-バトルサブウェイ\xfffeノッテ　タタカウ！
-ミュージカル　ホール\xfffeグッズ＋おんがく＋ダンス＝かんどう！
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeビッグスタジアムや\xfffeリトルコートでは　きまった　じかんに\xf000븀\x0000\xfffeしあいが　おこなわれています！\xf000븁\x0000\xfffeあこがれの　スポーツせんしゅと\xfffeポケモンしょうぶが　できるかも！
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeミュージカルホールでは　いつでも\xfffeさんかしゃを　ぼしゅうちゅう！\xf000븁\x0000\xfffeさんかすれば　するほど\xfffeすてきな　グッズが　もらえるかも！
-トライアルハウス！\xfffeトレーナーとしての　ちからだめし！
+Nimbasa City\xfffeLit by the Flash of Lightning!
+Big Stadium\xfffeBaseball, Football, and Soccer
+Small Court\xfffeTennis and Basketball
+Battle Subway\xfffeBattle and Ride!
+Musical Theater\xfffeProps + Music + Dance = Moving Spectacle!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeGames occur at specific times in\xfffeBig Stadium and Small Court!\xf000븁\x0000\xfffeYou might be able to have a Pokémon\xfffebattle with your favorite athlete!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeThe Musical Theater is always\xfffelooking for participants!\xf000븁\x0000\xfffeYou might get more wonderful Props\xfffeif you participate repeatedly!
+Battle Institute!\xfffeTest your Trainer Skills!

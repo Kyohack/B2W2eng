@@ -29,7 +29,7 @@ Welcome back!\xfffeHow are you Pokémon?\xf000븁\x0000\xfffeThey look tired.\xf
 ママ『おひさしぶり　ですね\xfffeアララギはかせ！\xf000븁\x0000
 アララギ『そんなに　ごぶさた　かい？\xfffe……おもいだせないねえ\xf000븁\x0000\xfffeっと　そいつは　わたしが　きた\xfffeもくてきとは　かんけい　ないからね\xf000븁\x0000
 \xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeでんどういりを　きねんして\xfffeおまえさんの　ポケモンずかんを\xf000븀\x0000\xfffeパワーアップ！　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000の　ポケモンずかんが\xfffeパワーアップ　した！
+\xf000Ā\x0001\x0000's Pokédex has\xfffebeen upgraded!
 アララギ『どこが　パワーアップしたか\xfffeおしえるから　きいてくれるかい？\xf000븁\x0000\xfffeといっても　すごく　シンプル！\xf000븁\x0000\xfffeぜんこくの　あらゆる　ポケモンを\xfffeきろく　できるように　したんだよ\xf000븁\x0000
 ママ『へえ！　すごいですね\xfffeさすが　おやこで　ポケモンはかせ！\xf000븁\x0000
 アララギ『ははは\xfffeほめても　なにも　でないよ\xf000븁\x0000\xfffeさてと　それでは\xfffeわたしは　おいとま　するかね\xf000븁\x0000
@@ -37,11 +37,11 @@ Welcome back!\xfffeHow are you Pokémon?\xf000븁\x0000\xfffeThey look tired.\xf
 ママ『いっちゃった……\xf000븁\x0000\xfffeそうだ！　\xf000Ā\x0001\x0000！\xfffeママからも　プレゼントよ！\xf000븁\x0000
 ママ『なにをしても　それは　すべて\xfffeあなたと　ポケモンの　じかん\xf000븁\x0000\xfffeだから　じぶんで　きめて\xfffeじぶんが　したいことを　しなさいな\xf000븁\x0000\xfffeママも　じぶんの　じかんを\xfffeママの　すきなように　たのしむから！
 no data
-ウィーが　ある！\xfffeリモコンがたの　コントローラ　だ！
+It's a Wii console!\xfffeIt has a Wii Remote!
 まあたらしい　ベッド！
 \xf000Ā\x0001\x0000は\xfffeパソコンを　チェックした！\xf000븁\x0000\xfffeたんけんの　こころえ　その１\xfffeＸボタンで　メニューが　ひらく！\xf000븁\x0000\xfffeたんけんの　こころえ　その２\xfffeレポートを　えらぶと　きろく　できる！
-イッシュずかん　かんせいの\xfffeひょうしょうじょう　だ！\xf000븁\x0000
-ぜんこくずかん　かんせいの\xfffeひょうしょうじょう　だ！\xf000븁\x0000
+It's an award for completing\xfffethe Unova Pokédex!\xf000븁\x0000
+It's an award for completing\xfffethe National Mode Pokédex!\xf000븁\x0000
 バトルサブウェイの\xfffeシングル　マスターに　しょうりした\xf000븀\x0000\xfffeあかしの　トロフィーだ！
 バトルサブウェイの\xfffeダブル　マスターに　しょうりした\xf000븀\x0000\xfffeあかしの　トロフィーだ！
 バトルサブウェイの\xfffeマルチ　マスターに　しょうりした\xf000븀\x0000\xfffeあかしの　トロフィーだ！

@@ -52,7 +52,7 @@ Shadow Triad: ……フフ\xfffeいでんしのくさび　うばいかえせる
 Shadow Triad: ……ざんねん\xf000븁\x0000\xfffeいでんしのくさびを　もっているのは\xfffeほかの　なかま\xf000븁\x0000\xfffeそう……\xfffeじかんかせぎは　できました\xf000븀\x0000\xfffeでは　ごきげんよう\xf000븁\x0000
 Drayden: なんたること！\xf000븁\x0000\xfffeいや\xfffe\xf000Ā\x0001\x0000は　よくやってくれた\xf000븁\x0000\xfffeふがいないのは\xfffeこの　わたし　だ……！\xf000븁\x0000
 Live Caster is ringing!
-\xf000Ā\x0001\x0000 has\xfffepicked up the Live Caster.\xf000븁\x0000
+\xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
 Drayden: ……ぐぬう！\xfffeわたしの　からだが　ふたつ　あれば\xf000븁\x0000\xfffeまちを　まもりつつ\xfffeあいつらを　おいかけられるのに！\xf000븁\x0000
 Cheren: \xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeあっ　シャガさんも\xfffeごぶじ　でしたか！　よかった！\xf000븁\x0000
 Drayden: チェレンでは　ないか\xfffeすっかり　たくましくなったな\xf000븁\x0000\xfffeいまは　アロエに　かわり\xfffeヒオウギの　ジムリーダー　だったか\xf000븁\x0000
@@ -65,12 +65,12 @@ Drayden: すこしずつ　だが\xfffeこおりが　とけてゆく……\xf00
 この　まちには　いきてきた\xfffeひと　すべての　おもいが\xf000븁\x0000\xfffeかたちを　かえずに\xfffeつみかさなって　いるんだよ
 この　まちは　たえず　かわっていく\xf000븁\x0000\xfffeそして　かわるたびに　そのとき\xfffeいきている　ひとたちの　おもいを\xf000븀\x0000\xfffeきざみこめば　いいんだよ
 おれ　ひとりでは\xfffeとうたつ　できなかった　たかみにも\xf000븀\x0000\xfffeポケモンが　いてくれたから　とどいた\xf000븁\x0000\xfffeそして　ポケモンも　おれが　いたから\xfffeタフになったと　しんじている！
-たとえ　ふべん　でも\xfffeかえては　いけないもの　って\xf000븀\x0000\xfffeあると　おもうんだよね
-どんなに　あいちゃくが　あっても\xfffeかえなくては　いけないもの　って\xf000븀\x0000\xfffeあると　おもうんだよね
+Even if it is inconvenient, I think\xfffesome things shouldn't be changed.
+Even if you love them, I think\xfffesome things have to be changed.
 N って　ひとが　でんせつの\xfffeポケモンを　つれていたんだけど\xf000븀\x0000\xfffeえいゆう　だったのかな……？
 Frozen World\xf000븁\x0000\xfffeふるいとかを　あたらしいとか　こえて\xfffeなんだか　こわいほど　きれいだった\xf000븁\x0000\xfffeおれは　あたらしいより　ふるいほうが\xfffeおちつくから　すき　なんだけど！
 Frozen World\xf000븁\x0000\xfffeあたらしいとか　ふるいとかを　こえて\xfffeなんだか　こわいほど　きれいだった\xf000븁\x0000\xfffeおれは　ふるいより　あたらしいほうが\xfffeかっこいいから　すき　なんだけど！
-The Opelucid Gym Leader, Drayden\xfffeis known for his extensive trainings.\xf000븁\x0000\xfffeSuch as, wrestling with\xfffePokémon on a daily basis!
+The Gym Leader Drayden is the mayor who\xfffeleads Opelucid.\xf000븁\x0000\xfffeHe is always training by wrestling\xfffewith Pokémon.
 ポケモンが　あいを　くれるから\xfffeあたし　さみしくないの\xf000븁\x0000\xfffeそのぶん……　ううん　それいじょうの\xfffeあいを　ポケモンに　おかえしするの！
 ポケモンを　かいほう　しろ！\xfffeそういう　れんちゅうが　いたんだ\xf000븁\x0000\xfffeそいつらは　ウソを　ついていたんだが\xfffeいい　きっかけに　なったよ
 あの　えんぜつ　いらい\xfffeどうするのが　おたがいに　とっての\xf000븁\x0000\xfffeしんじつ　なのか　ポケモンと\xfffeいっしょに　かんがえて　いるんだよ
@@ -82,10 +82,10 @@ The Opelucid Gym Leader, Drayden\xfffeis known for his extensive trainings.\xf00
 この　メロディに　こめた\xfffeボクたちの　きぼう……\xf000븀\x0000\xfffeみらいに　とどけるんだ
 ふと\xfffeアイリスの　ことが　よぎった\xf000븁\x0000\xfffeそう　チャンピオンの\xfffeアイリスの　ことだよ……\xf000븁\x0000
 かのじょは　どのような\xfffeチャンピオンに　なるのだろうな
-Opelucid City\xfffeThe intertwining town of past and future.
+Opelucid City\xfffeTime's Dividing Line
 Drayden's House
 Battle Museum\xfffe……だった　やかた
 Battle Museum\xfffe……だった　やかた
-Bulletin Board Deals!\xf000븁\x0000\xfffe\xfffeシャガしちょうが　みとめた\xfffeつよい　トレーナーに\xf000븁\x0000\xfffeドラゴンタイプ　さいきょうの　わざを\xfffeでんじゅ　します！\xf000븁\x0000\xfffeくわしくは\xfffeシャガしちょうの　いえで！
-Opelucid City Pokémon Gym\xfffeLeader:　Drayden\xf000븀\x0000\xfffeSpartan Mayor
-Opelucid City Pokémon Gym\xfffeLeader:　Drayden\xf000븀\x0000\xfffeSpartan Mayor
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeMayor Drayden will teach you if he\xffferecognizes you as a strong Trainer.\xf000븁\x0000\xfffeVisit his home to learn the\xfffemost powerful Dragon-type move!
+Opelucid City Pokémon Gym\xfffeLeader: Drayden\xf000븀\x0000\xfffeThe Spartan Mayor
+Opelucid City Pokémon Gym\xfffeLeader: Drayden\xf000븀\x0000\xfffeThe Spartan Mayor

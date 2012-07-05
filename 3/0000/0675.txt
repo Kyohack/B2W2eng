@@ -1,20 +1,20 @@
 Welcome to the Global Terminal!\xf000븁\x0000
 Would you like to use\xfffeNintendo Wi-Fi Connection?
 Please do visit again.
-Connect to Nintendo Wi-Fi Connection?
+Would you like to launch\xfffeNintendo WFC?
 Right this way, please.\xf000븁\x0000
-In the Global Terminal, you can battle or\xfffetrade Pokémon with Pokémon fans from\xf000븁\x0000\xfffearound the world by connecting to\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffeFor details, please listen to the\xfffeexplanation at each facility.
+In the Global Terminal, you can battle or\xfffetrade Pokémon with Pokémon fans from\xf000븀\x0000\xfffearound the world by connecting to\xf000븀\x0000\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffeFor details, please listen to the\xfffeexplanation at each facility.\xf000븁\x0000
 Sorry, we're getting things ready.\xfffePlease come back later.
 You have at least one Pokémon\xfffethat can't be taken in.
 Communication error.
 Random Matchup
-Global Trade
+GTS
 Musical Photos
 Battle Videos
 Info
-Cancel
+Back
 Would you like to make a Global Trade?
-You may trade Pokémon with other\xfffePokémon fans from around the world with\xfffeGlobal Trade.\xf000븁\x0000\xfffeGlobal Trade has two forms: GTS and\xfffeGTS Negotiations.\xf000븁\x0000\xfffePlease be careful, because each has a\xfffedifferent way of trading.
+You may trade Pokémon with other\xfffePokémon fans from around the world with\xf000븀\x0000\xfffeGlobal Trade.\xf000븁\x0000\xfffeGlobal Trade has two forms: GTS and\xfffeGTS Negotiations.\xf000븁\x0000\xfffePlease be careful, because each has a\xfffedifferent way of trading.\xf000븁\x0000
 GTS
 GTS Negotiations
 Info
@@ -23,10 +23,10 @@ Would you like to make a GTS trade?
 Trade
 Info
 Back
-You may trade Pokémon in two ways when\xfffe using GTS.\xf000븁\x0000\xfffeYou may offer a Pokémon for trade\xfffeor search among offered Pokémon.
+You may trade Pokémon in two ways when\xfffeusing GTS.\xf000븁\x0000\xfffeYou may offer a Pokémon for trade\xfffeor search among offered Pokémon.\xf000븁\x0000
 Should I describe things in\xfffegreater detail?
-You will be asked to put up the\xfffePokémon you are offering to trade.\xf000븁\x0000\xfffeAt that time, you will be asked what\xfffePokémon you would like in return.\xf000븁\x0000\xfffeIf the other player offers your desired\xfffePokémon in return for your offered\xf000븁\x0000\xfffePokémon, the trade will go through.\xf000븁\x0000
-You may search among the Pokémon\xfffethat are offered by other Trainers.\xf000븁\x0000\xfffeThey will identify what Pokémon\xfffetheir Trainers want back in return.\xf000븁\x0000\xfffeIf you find one that you want, you\xfffemust provide us with the kind of\xf000븁\x0000\xfffePokémon wanted in return.\xf000븁\x0000
+You will be asked to put up the\xfffePokémon you are offering to trade.\xf000븁\x0000\xfffeAt that time, you will be asked what\xfffePokémon you would like in return.\xf000븁\x0000\xfffeIf another player offers your desired\xfffePokémon in return for your offered\xf000븀\x0000\xfffePokémon, the trade will go through.\xf000븁\x0000
+You may search among the Pokémon\xfffethat are offered by other Trainers.\xf000븁\x0000\xfffeThey will all identify what Pokémon\xfffetheir Trainers want back in return.\xf000븁\x0000\xfffeIf you find one that you want, you\xfffemust provide us with the kind of\xf000븀\x0000\xfffePokémon wanted in return.\xf000븁\x0000
 Offer Pokémon?
 Seek Pokémon?
 Understood
@@ -34,10 +34,10 @@ Would you like to start\xfffePokémon GTS Negotiations?
 Start Negotiations
 Info
 Back
-In GTS Negotiations, you set the trading\xfffeconditions based on what kinds of\xf000븁\x0000\xfffePokémon you'd like to trade.\xf000븁\x0000\xfffeIf you find a person with matching\xfffeconditions, you may proceed to a\xf000븁\x0000\xfffeNegotiation Trade with that person.\xf000븁\x0000\xfffeIn order to trade, you need to have two\xfffeor more Pokémon in your party.\xf000븁\x0000
+In GTS Negotiations, you set the trading\xfffeconditions based on what kinds of\xf000븀\x0000\xfffePokémon you'd like to trade.\xf000븁\x0000\xfffeIf you find a person with matching\xfffeconditions, you may proceed to a\xf000븀\x0000\xfffeNegotiation Trade with that person.\xf000븁\x0000\xfffeIn order to trade, you need to have two\xfffeor more Pokémon in your party.\xf000븁\x0000
 Should I describe things in\xfffegreater detail?
 In a Negotiation Trade, each person\xfffeoffers three Pokémon to trade.\xf000븁\x0000\xfffeThen, each person will choose one of the\xfffeother person's three Pokémon.\xf000븁\x0000
-You can set three conditions in a\xfffeNegotiation Trade: the level of Pokémon\xf000븁\x0000\xfffeto trade, the Pokémon you want to\xf000븁\x0000\xfffereceive, and the Pokémon up for offer.\xf000븁\x0000\xfffeYou may trade with a person whose\xfffeconditions match yours, or choose\xf000븁\x0000\xfffeTrade Rendezvous to try another trade\xf000븁\x0000\xfffewith a previous trading partner.\xf000븁\x0000
+You can set three conditions in a\xfffeNegotiation Trade: the level of Pokémon\xf000븀\x0000\xfffeto trade, the Pokémon you want to\xf000븀\x0000\xfffereceive, and the Pokémon up for offer.\xf000븁\x0000\xfffeYou may trade with a person whose\xfffeconditions match yours, or choose\xf000븀\x0000\xfffeTrade Rendezvous to try another trade\xf000븀\x0000\xfffewith a previous trading partner.\xf000븁\x0000
 Negotiation Trade?
 Trading Conditions?
 Understood
@@ -49,7 +49,7 @@ Back
 Would you like to view or upload\xfffeMusical Photos?
 With Musical Photos, you may post a photo\xfffeyou took at the Pokémon Musical in\xf000븀\x0000\xfffeNimbasa City by using the Vs. Recorder.\xf000븁\x0000\xfffeYou may also view photos taken by other\xfffepeople, sorted by the Pokémon you like.\xf000븁\x0000
 View or upload
-せつめいを　きく
+Info
 Back
 Would you like to take the\xfffeRandom Matchup challenge?
 Challenge
@@ -72,10 +72,10 @@ Rotation Battle
 Launcher Battle
 Back
 Would you like to take the\xfffeSingle Battle challenge?
-Would you like to take the\xfffeDouble Battle challenge?
-Would you like to take the\xfffeTriple Battle challenge?
-Would you like to take the\xfffeRotation Battle challenge?
-Would you like to take the\xfffeLauncher Battle challenge?
+Would you like to take the \xfffeDouble Battle Challenge?
+Would you like to take the \xfffeTriple Battle Challenge?
+Would you like to take the \xfffeRotation Battle Challenge?
+Would you like to take the \xfffeLauncher Battle Challenge?
 Confirm
 Rules
 Back
@@ -84,14 +84,14 @@ For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\
 For a Triple Battle, you need to have\xfffesix Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen decide their order and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
 In a Rotation Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
 In a Launcher Battle, you have a\xfffeTriple Battle with your Wonder Launcher.\xf000븀\x0000\xfffeYou need to have six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen decide their order and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
-Please choose whether to use Pokémon\xfffefrom your party or Battle Box.
-Party
+Please select whether to use your\xfffeparty Pokémon or your Battle Box.
+In party
 Battle Box
-Cancel
-Please choose whether to use Pokémon\xfffefrom your party or Battle Box.
+Back
+Please select whether to use your\xfffeparty Pokémon or your Battle Box.
 Confirm
 Battle Box
-Cancel
+Back
 Uh-oh!\xf000븁\x0000\xfffeI'm sorry, but your party and all your\xfffePC Boxes are full.\xf000븁\x0000\xfffeTo use the GTS, you must have\xffferoom in your party or in a PC Box.\xf000븁\x0000
 Uh-oh!\xf000븁\x0000\xfffeYou need at least two Pokémon in your\xfffeparty to use the GTS.\xf000븁\x0000
 Uh-oh!\xf000븁\x0000\xfffeYou need at least two Pokémon in your\xfffeparty to use GTS Negotiations.\xf000븁\x0000

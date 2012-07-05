@@ -8,7 +8,7 @@ Save and quit the game?
 Saving...\xfffeDon't turn off the power.
 Delete your existing Battle Video and\xfffesave the last battle?
 Awaiting your friend's selection.
-You must save the game before\xfffeI can guide you in.
+Saving...\xfffeDon't turn off the power.
 You have chosen to retire from\xfffethis challenge.
 Saving your Battle Video...\xfffeDon't turn off the power.
 \xf000Ā\x0001\x0000's battle has been saved as a\xfffeBattle Video.

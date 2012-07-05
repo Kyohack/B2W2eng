@@ -15,5 +15,5 @@ There are ruins here, but recently\xfffethis area was rapidly developed...\xf000
 Ancient castle buried under the sand...\xfffeSomeday the memories of it will \xfffebe buried too...
 Oops!　Trainer\xfffeLook at the color of the sand!\xf000븁\x0000\xfffeSee how there's both dark\xfffeand light colored sand?\xf000븁\x0000\xfffeIn the dark colored sand,\xfffethere are hidden Pokémon!
 Route 4
-Trainer Tip!\xf000븁\x0000\xfffe\xfffePP are the source of energy\xfffefor a Pokémon's abilities!\xf000븁\x0000\xfffeThat is, all skills \xfffehave and use PP!\xf000븁\x0000\xfffeThese PP dissapear and\xfffethen the skill can't be used!\xf000븁\x0000\xfffeWhen PP are gone,\xfffevisit a Pokémon center!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffePokémon have a source of energy\xfffefor using moves.\xf000븁\x0000\xfffeIt's called PP, meaning Power Points.\xfffeThey have PP for each move.\xf000븁\x0000\xfffeWhen a move has no PP remaining,\xfffethat Pokémon cannot use that move.\xf000븁\x0000\xfffeThat's a good time to head for\xfffethe Pokémon Center!
 Route 4\xfffePlanned Site Expansion

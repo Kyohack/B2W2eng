@@ -33,21 +33,21 @@ Okay! \xf000븁\x0000\xfffeChoose your Pokémon!\xf000븁\x0000
 Water type Pokémon\xfffe\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000\xf000븀\x0000\xfffeChoose this Pokémon?
 Fire type Pokémon\xfffe\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000\xf000븀\x0000\xfffeChoose this Pokémon?
 Grass type Pokémon\xfffe\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000\xf000븀\x0000\xfffeChoose this Pokémon?
-\xf000봂\x0000Water type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
-\xf000봂\x0000Fire type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
-\xf000봂\x0000Grass type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000The Water-type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000The Fire-type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000The Grass-type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
 Choose a Pokémon!
 You want this Pokémon?
-You don't want this Pokémon?
-Yes
-No
-\xf000Ā\x0001\x0000 received a \xf000ā\x0001\x0001!
+Pick this one!
+YES
+NO
+\xf000Ā\x0001\x0000 chose\xfffe\xf000ā\x0001\x0001!
 \xf000ā\x0001\x0002 is perfect for you!\xf000븁\x0000\xfffeWould you like to give your Pokémon\xfffea nickname?
 Oh I get it!\xfffeYou didn't want to give it a nickname.\xf000븁\x0000
 \xf000Ă\x0001\x0000?\xfffeThat's a really good nickname!
 \xf000Ă\x0001\x0000? Cool!\xf000븁\x0000
 Oops, I almost forgot!\xfffeYou also need the Pokédex!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received the \xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
+\xf000Ā\x0001\x0000 obtained the \xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
 The Pokédex is the encyclopedia\xfffeof Pokémon!\xf000븁\x0000\xfffeYour Pokémon's data is in there now.\xfffeIt automatically gets recorded.\xf000븀\x0000\xfffeIt's a very high tech tool!\xf000븁\x0000\xfffeSo now that you have a Pokédex,\xfffeyou should travel to many places!\xf000븁\x0000\xfffeThere are many places in this region!\xf000븁\x0000\xfffeYou can raise your Pokémon\xfffevery well now!\xf000븁\x0000\xfffeProf. Juniper would like to meet\xfffeyou someday!
 Make sure to say hi if you see her!
 Hey, \xfffeI don't want to wait forever!\xf000븁\x0000\xfffeWait, is that Bianca?\xf000븁\x0000
@@ -66,7 +66,7 @@ Your Pokémon are wounded,\xfffeso let's go to the Pokémon Center.\xf000븁\x00
 This is the Pokémon Center!\xfffeIt looks the same in every city!\xf000븁\x0000
 Hello \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIt seems that you chose \xfffe\xf000ā\x0001\x0002!\xf000븁\x0000\xfffeGiggle\xfffeI have a good feeling you chose right!\xf000븁\x0000
 Oh! I almost forgot!\xf000븁\x0000\xfffeTake these, Running Shoes!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received the \xfffe\xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
+\xf000Ā\x0001\x0000 received a pair of\xfffe\xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
 Aren't I the perfect mom?\xfffeI'll read the instructions.\xf000븁\x0000\xfffeRun faster than ever before\xfffeby pressing the B button.\xf000븀\x0000\xfffeNow you can run faster!\xf000븁\x0000\xfffeWith \xf000ā\x0001\x0002, \xfffeyou'll be running everywhere!\xf000븁\x0000
 Here, you'll need this!\xf000븁\x0000
 \xf000Ā\x0001\x0000 received the \xfffe\xf000\xff00\x0001\x0002Town map\xf000\xff00\x0001\x0000!
@@ -86,10 +86,10 @@ Bianca: 『うひゃあ！\xf000븁\x0000
 どっ　どうしたの？\xf000븁\x0000
 Cheren: 『せっかくだから\xfffeライブキャスターの　とうろくを\xf000븀\x0000\xfffeと　おもってね！\xf000븁\x0000
 これで　きみの　ライブキャスターから\xfffeぼくに　れんらくが　できるね\xf000븁\x0000
-ベル『あっ　あたしも！\xf000븁\x0000
+Bianca: Ooh, wait for me!\xf000븁\x0000
 いっしょに　アララギはかせも\xfffeとうろく　したよ！\xf000븁\x0000
 The Xtranceiver is ringing!
-\xf000Ā\x0001\x0000 answered\xfffethe Xtransceiver.\xf000븁\x0000
+\xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
 Bianca: 『ね　\xf000Ā\x0001\x0000！\xfffeProf. Juniper　かっこいいでしょ！\xf000븁\x0000\xfffeライブキャスターで　はなせば\xfffeポケモンずかんの　かんせいぐあいを\xf000븀\x0000\xfffeひょうか　してくれたり\xf000븁\x0000\xfffeポケモンの　しんかに　ついて\xfffeいろいろ　おしえてくれるよ！\xf000븁\x0000\xfffeもちろん　あたしたちも！\xf000븁\x0000
 あなたの　ポケモンが\xfffeどれだけ　なついているか\xf000븀\x0000\xfffeあたしが　おしえてあげるね！！\xf000븁\x0000
 Cheren: 『そうだね\xf000븁\x0000\xfffeぼくは　ポケモンの　とくせいや\xfffeタイプの　あいしょうに　ついて\xf000븀\x0000\xfffeしっていることを　おしえてあげるよ\xf000븁\x0000
@@ -99,10 +99,10 @@ Cheren: 『きみも\xfffeてごわそうな　トレーナーだね\xf000븁\x0
 Bianca: 『ジムリーダーって\xfffeそうぞういじょうに　たいへん　だねえ\xf000븁\x0000
 それじゃあ　つづけて\xfffeＣギアを　つかえるように　するね！\xf000븁\x0000\xfffeＣギアは　せきがいせんや\xfffeむせん　Ｗｉ－Ｆｉなど\xf000븁\x0000\xfffeつうしんに　かんけいする\xfffeデバイス　なんだよ！\xf000븁\x0000
 \xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0001Ｃギア\xf000\xff00\x0001\x0000を　てにいれた！
-Turn on the C-Gear and\xfffeinitiate communications?
-Yes
-No
-Is it okay to turn off\xfffethe C-Gear and end communications?
+Turn on the C-Gear and\xfffeestablish communications?
+YES
+NO
+Some functions of the C-Gear\xfffewill be restricted. Is that OK?
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）\xf000븁\x0000
 ほら！　Ｃギアが　きどうして\xfffeがめんが　あらわれたでしょ！\xf000븁\x0000\xfffeその　がめんの　みぎしたに　ある\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？
 Ｃギアの　でんげんを　いれるなら\xfffeがめん　みぎしたの\xf000븀\x0000\xfffeでんげんマークを　タッチするんだよ！\xf000븁\x0000\xfffeそして　でんげんを　いれたあとは\xfffeがめんの　みぎしたに　ある\xf000븀\x0000\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ！\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？

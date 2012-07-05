@@ -1,1 +1,1 @@
-\xf000Ā\x0001\x0000は\xfffeパソコンを　チェックした！\xf000븁\x0000\xfffeポケモン　きそちしき\xf000븁\x0000\xfffeこの　せかいでは　ポケモンと\xfffeひとが　いっしょに　くらしています\xf000븁\x0000\xfffeポケモンを　たたかわせる　ひとを\xfffeポケモントレーナーと　いいます
+\xf000Ā\x0001\x0000 checked the PC!\xf000븁\x0000\xfffePokémon Basics...\xf000븁\x0000\xfffePeople live alongside Pokémon in\xfffethis world.\xf000븁\x0000\xfffeThe people who battle with Pokémon are\xfffecalled Pokémon Trainers.

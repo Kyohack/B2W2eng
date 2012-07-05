@@ -6,15 +6,15 @@
 あたしの　ポケモン！\xfffeズルッグが　もどってきたの……！\xf000븁\x0000\xfffeプラズマだんに\xfffeつかまって　いたのか……\xf000븁\x0000\xfffeはぐれていたのが\xfffeじりきで　もどってきたのか……\xf000븀\x0000\xfffeわからないけど　とにかく　サイコー！
 グッルッズウ！
 ワタシの　なまえは　ミスターロック\xf000븁\x0000\xfffeどんなものでも　あけてしまう\xfffeまかふしぎな　ピエロでございます…\xf000븁\x0000\xfffeあなたの　おなまえは　\xf000Ā\x0001\x0000さん\xfffeまた　おあいすることに　なるでしょう
-あなたの　バッグの　なかに\xfffeロックカプセルが　はいっていますね…\xf000븁\x0000\xfffeその　カプセルを　あけられるのは\xfffeこのよで　ただひとり　ワタシだけ…\xf000븁\x0000\xfffeワタシが　あっというまに\xfffeあけて　ごらんにいれましょう…！\xf000븁\x0000
-ほら　このとおり\xfffeみごと　あけて　ごらんにいれました…\xf000븁\x0000\xfffeなかには…\xfffeあなたが　こころから　のぞむもの…\xf000븀\x0000\xfffeわざマシン！\xf000븁\x0000
-おやおや…\xfffeわざマシンと　いっしょに\xf000븀\x0000\xfffeレターが　はいっていましたよ…\xf000븁\x0000
-『ロックカプセルに　はいっている\xfffeわざマシンは\xf000븀\x0000\xfffeイッシュちほうの　しんらいできる\xf000븀\x0000\xfffeトレーナーに　あずけます\xf000븁\x0000\xfffeロケットだんの　ような　わるものに\xfffeあくようされないで　ください…\xf000븁\x0000
+You have a Lock Capsule in your Bag...\xf000븁\x0000\xfffeI am the only one in the whole world\xfffewho can open the capsule.\xf000븁\x0000\xfffeI can open it in the blink of an eye!\xf000븁\x0000
+Look! As you can see, I opened it swiftly\xfffeand with precision!\xf000븁\x0000\xfffeInside the capsule...\xfffeWhat your heart most desires...\xf000븀\x0000\xfffea Technical Machine!\xf000븁\x0000
+Hm. There's a letter with the\xfffeTechnical Machine...\xf000븁\x0000
+“I entrust the Technical Machine in the\xfffeLock Capsule to a trustworthy Trainer in\xf000븀\x0000\xfffethe Unova region.\xf000븁\x0000\xfffeDon't allow it to fall into the hands of\xfffevillains like Team Rocket..."\xf000븁\x0000
 おや　つづきが　ありますよ…\xf000븁\x0000\xfffe『わざマシン９５は　バークアウト\xfffeあくタイプの　とくしゅこうげきで\xf000븀\x0000\xfffeあいての　とくこうを　さげます\xf000븁\x0000\xfffe…なるほど　なるほど\xfffeつかう　ひとの　センスが　とわれる\xf000븀\x0000\xfffeわざ　ですね…！
-ロックカプセルを　あけた　ワタシでも\xfffeかたく　とざした　こころの　カギを\xf000븀\x0000\xfffeあけることは　できません…\xf000븁\x0000\xfffeまことに　かなしき\xfffeピエロでございます…
-ナイショで　とくべつな　マシンを\xfffeこっそり　つくってしまいました\xf000븁\x0000\xfffeひみつの　パスワードを\xfffeしっている　ひと　だけに\xf000븀\x0000\xfffeつかえるように　しているのです\xf000븁\x0000
-つづきが　ありますよ！\xf000븁\x0000
-ただしい　パスワードです！\xf000븁\x0000\xfffeわたしが　つくった　てんそうマシンを\xfffeあつかえるように　しましょう！\xf000븁\x0000\xfffeとくべつな　ネットワークを　つないで\xfffeとくべつな　ポケモンや　どうぐを\xf000븀\x0000\xfffeズバッと　もってきてしまう\xf000븀\x0000\xfffeすばらしい　マシンなのです！
-タイトルメニューに　ボタンを　１コ\xfffeあたらしく　よういしましたよ！\xf000븁\x0000\xfffeレポートを　しっかり　かいてから\xfffeタイトルがめんに　もどってください！
-ざんねんですが…\xfffeただしい　パスワードを\xf000븀\x0000\xfffeおぼえていない　みたいですね
-わたしの　てんそうマシンは\xfffeやくに　たちましたか？
+Even though I opened the Lock Capsule,\xfffeI can't unlock a closed heart.\xf000븁\x0000\xfffeI am a sad clown, indeed...
+I secretly invented a special machine.\xf000븁\x0000\xfffeOnly people who know the secret\xfffepassword can use it.\xf000븁\x0000
+There's more!\xf000븁\x0000
+This is the password that will enable you\xfffeto use the Relocator I invented!\xf000븁\x0000\xfffeIt's a superb machine that will swiftly\xfffefetch a special Pokémon or item\xf000븀\x0000\xfffeby connecting to a special network.
+I added a button on the main menu.\xf000븁\x0000\xfffePlease save the game, then go back to\xfffethe title screen!
+Unfortunately, it seems that you don't\xffferemember the password...
+Did you find my Relocator useful?

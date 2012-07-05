@@ -1,13 +1,13 @@
 いっしょうを　かけて　かんがえても\xfffeわからない　もんだいも　ある\xf000븁\x0000\xfffeひとによって　こたえの　ことなる\xfffeもんだいも　ある……\xf000븁\x0000\xfffeそれでもさ　こうきしんを\xfffeおさえることが　できないのは\xf000븁\x0000\xfffeしんじつを　ときあかしたい　きもち\xfffeロマンを　もとめる　おもいの\xf000븀\x0000\xfffe２つが　いりまじって　いるからさ
 で　どうするんだい？\xf000븁\x0000\xfffeふたのカセキと　はねのカセキ\xfffeどっちが　すきだい？
-ふたのカセキ
-はねのカセキ
-やめる
+Cover Fossil
+Plume Fossil
+Back
 ほんとうに\xfffeふたのカセキに　するんだね？
 ほんとうに\xfffeはねのカセキで　いいんだね？
 ふたのカセキと　はねのカセキ\xfffeどっちが　すきだい？
 なんだい　なんだい！\xf000븁\x0000\xfffeえんりょ　するんじゃないよ！\xfffeわかいんだからさ！
 ふたのカセキ　なんだね！\xfffeいい　チョイスじゃないか！\xf000븁\x0000\xfffeそいつを　ふくげん　するなら\xfffeうちの　うけつけに　たのむと　いいよ！\xf000븁\x0000
 はねのカセキ　かい！\xfffeめのつけどころが　ちがうね！\xf000븁\x0000\xfffeそいつを　ふくげん　するなら\xfffeうちの　うけつけに　たのむと　いいよ！\xf000븁\x0000
-アロエの　けんきゅうしりょうが\xfffeきそくただしく　つめこまれている！
-アロエの　けんきゅうしりょうの\xfffeホネなどが　ちんれつ　されている
+Lenora's research materials are stored\xfffein an orderly fashion.
+The bones Lenora is using for research\xfffeare on display.

@@ -1,84 +1,84 @@
-ナンデヤ『はぁーい\xfffeこちらへ　どうぞ～！\xf000븁\x0000
+Wye: Hi!\xfffeThis way, pleeeeease!\xf000븁\x0000
 ナンデヤ『わくわく　ドキドキ！\xfffeクイズで　ハップン！\xf000븁\x0000\xfffeきょうの　チャレンジャーは\xfffeこの　かた　でーす！\xf000븁\x0000
 ワカルデ『はーい　ようこそ！\xf000븁\x0000\xfffeクイズで　ハップン！　の\xfffeはじまり　だよ！\xf000븁\x0000\xfffeどんどん　あてて\xfffeはっぷん　しちゃおう！\xf000븁\x0000\xfffeさっそく　もんだいだ！\xf000븁\x0000
-セヤナ『がんばってーっ！\xf000븁\x0000
-ワカルデ『もんだい！\xf000븁\x0000
+Ditoh: Good luck!\xf000븁\x0000
+Aha: A question!\xf000븁\x0000
 ナンデヤ『まあっ！\xfffeすごく　むずかしい　じゃない！\xf000븀\x0000\xfffeこんなの　とけるのかしら？\xf000븁\x0000
-セヤナ『ヒ・ン・ト！　ヒ・ン・ト！\xf000븁\x0000
-ワカルデ『おおっと　きゃくせきから\xfffeヒントの　さいそくだあ！\xf000븁\x0000
-ナンデヤ『オーケー\xfffeじゃあ　ヒント　いうわよ！\xf000븁\x0000
+Ditoh: H-i-n-t! H-i-n-t!\xf000븁\x0000
+Aha: Oh-oh. The audience\xfffeis asking for a hint!\xf000븁\x0000
+Wye: OK.\xfffeI'll give you a hint!\xf000븁\x0000
 ワカルデ『あー　これは\xfffeいい　ヒント　だねえ\xf000븁\x0000\xfffeでは　チャレンジャー　こたえて！\xf000븁\x0000
-ワカルデ『わあーぉっ！\xfffeだい・せい・かーい！\xf000븁\x0000
-ナンデヤ『グレイト！　すごいわ！\xf000븁\x0000
-セヤナ『ヒュー　ヒュー！\xfffeナイス　ガンバ！\xf000븁\x0000
+Aha: Woo-hoo!\xfffeThat is c-o-r-r-e-c-t!\xf000븁\x0000
+Wye: You go! Yeah, you do!\xf000븁\x0000
+Ditoh: Yeah! Yeah! Good hustle!\xf000븁\x0000
 ワカルデ『おめでとう！\xf000븁\x0000\xfffeさあー　しょうひんの\xfffeどくけし　です！\xf000븁\x0000
-ワカルデ『ああーっと\xfffeざんねん！　ふせいかい　だあっ！\xf000븁\x0000
-ナンデヤ『オーゥ……　なんてこと！\xf000븁\x0000
-セヤナ『ナイス　ガンバ！\xfffeナイガン！　ナイガン！\xf000븁\x0000
+Aha: Oh, no. Too bad!\xfffeThat's not right, 'cause you are wrong!\xf000븁\x0000
+Wye: Aww... Sadness...\xf000븁\x0000
+Ditoh: Good hustle!\xfffeGustle! Gustle!\xf000븁\x0000
 ワカルデ『そうだね　ナイガンだ！\xf000븁\x0000\xfffeさあ……　きねんひんの\xfffeまひなおし　です！\xf000븁\x0000
 ナンデヤ『わくわく　ドキドキ！\xfffeクイズで　ハップン！\xf000븀\x0000\xfffeまた　あした　おあいしましょうー！
-ワカルデ『クイズばんぐみ　すきかい？
-ナンデヤ『はやく　テレビに　でたいわ！
-セヤナ『ナイガーン！
-ポケットモンスターは\xfffeちぢめて　なんと　いうかな？\xf000븁\x0000
-おいわい　する　ときに\xfffeいう　ことばと　いえば？\xf000븁\x0000
-アナログの　はんたいは\xfffeなにかな？\xf000븁\x0000
-かいものを　するとき\xfffeなにを　はらうの　かな？\xf000븁\x0000
-ブラブラ　を\xfffeさかさに　いうと？\xf000븁\x0000
-おとうさんの　おとうとを\xfffeなんと　よぶかな？\xf000븁\x0000
-がっこうで　べんきょうを\xfffeおしえてくれる　ひとは　だれかな？\xf000븁\x0000
+Aha: Do you like quiz shows?
+Wye: I want to be on TV soon!
+Ditoh: Gussssssssstle!
+What's the name of the mysterious\xfffecreatures that inhabit our world?\xf000븁\x0000
+What do you say when someone does\xfffea good job?\xf000븁\x0000
+What is the opposite of analog?\xf000븁\x0000
+What do you pay with when you shop?\xf000븁\x0000
+How do you describe people who are\xfffemadly in love?\xf000븁\x0000
+What do you call your father's brother?\xf000븁\x0000
+Who helps you learn things at school?\xf000븁\x0000
 ポケモンに　もたせられるのは\xfffeメールと　カメール\xf000븀\x0000\xfffeどちら？\xf000븁\x0000
-ペダルを　こいで\xfffeすすむ　のりものは　なにかな？\xf000븁\x0000
-ポケモン　２たい２で　たたかうのは\xfffeなんと　いうかな？\xf000븁\x0000
-しゃしんを　とる　ときに\xfffeつかう　どうぐは？\xf000븁\x0000
-からだを　あらうために\xfffeはいる　ところは　どこ？\xf000븁\x0000
-ポケモンを　かいふく　して\xfffeくれる　しせつは　どこかな？\xf000븁\x0000
-タウリンを　つかうと\xfffeどの　のうりょくが　あがるかな？\xf000븁\x0000
-きせつに　よって　すがたがかわる\xfffeしんかまえの　ポケモンは　なに？\xf000븁\x0000
-たてがみから　でんきを　だす\xfffeたいでんポケモンは　なにかな？\xf000븁\x0000
-はぐるまが　ふたつの\xfffeポケモンは　なにかな？\xf000븁\x0000
-おおきな　みみの\xfffeモモンガポケモンって　なにかな？\xf000븁\x0000
-くっつきポケモンって\xfffeなんの　ことかな？\xf000븁\x0000
-のばとポケモン　と\xfffeいえば　なにかな？\xf000븁\x0000
-あたまに　はっぱが　はえた\xfffeくさざるポケモンと　いえば？\xf000븁\x0000
-みみが　よく　きこえる\xfffeヒヤリングポケモンと　いえば？\xf000븁\x0000
-かんおけポケモンって\xfffeどの　ポケモンの　ことかな？\xf000븁\x0000
-コロモリは　しんかすると\xfffeなにに　なるかな？\xf000븁\x0000
-ダルマッカは　しんかすると\xfffeなにに　なるかな？\xf000븁\x0000
+What is a vehicle you pedal?\xf000븁\x0000
+What is a two-on-two\xfffePokémon battle called?\xf000븁\x0000
+What is a tool you use\xfffewhen you take pictures?\xf000븁\x0000
+What do you take to get clean?\xf000븁\x0000
+Where do you go to heal your Pokémon?\xf000븁\x0000
+Which base stat goes up when Protein\xfffeis used?\xf000븁\x0000
+What is the unevolved Pokémon that\xfffechanges its Form seasonally?\xf000븁\x0000
+What is the Electrified Pokémon that\xfffedischarges electricity from its mane?\xf000븁\x0000
+What is the Pokémon that has two gears?\xf000븁\x0000
+What is the Sky Squirrel Pokémon\xfffethat has huge ears?\xf000븁\x0000
+What is the Attaching Pokémon?\xf000븁\x0000
+What is the Wild Pigeon Pokémon?\xf000븁\x0000
+What is the Grass Monkey Pokémon\xfffethat grows a leaf from its head?\xf000븁\x0000
+What is the Hearing Pokémon\xfffethat can hear very well?\xf000븁\x0000
+What is the Coffin Pokémon?\xf000븁\x0000
+What will Woobat be when it evolves?\xf000븁\x0000
+What will Darumaka be when it evolves?\xf000븁\x0000
 よわっている　ポケモンを\xfffeひれで　つつんでくれる\xf000븀\x0000\xfffeかいほうポケモンって　なにかな？\xf000븁\x0000
-ゆめうつつポケモン　と\xfffeいえば　なにかな？\xf000븁\x0000
-しろい　つばさが　うつくしい\xfffeしらとりポケモンは　なにかな？\xf000븁\x0000
-どろの　なかに　かくれている\xfffeトラップポケモンって　なにかな？\xf000븁\x0000
-ポケモンに　のって　みずの　うえを\xfffeすすむ　わざは　なにかな？\xf000븁\x0000
-きょうは　なんのひ　かな？\xf000븁\x0000
-ヒント！\xfffeケモンス　では　ありません！\xf000븁\x0000
-ヒント！\xfffeめでたいです！\xf000븁\x0000
-ヒント！\xfffeグロナア　とか　じゃ　ない！\xf000븁\x0000
-ヒント！\xfffeおさいふに　はいっています！\xf000븁\x0000
-ヒント！\xfffeラ　から　はじまります！\xf000븁\x0000
-ヒント！\xfffeおにいさんじゃ　ありません！\xf000븁\x0000
-ヒント！\xfffeおとなの　ひとです！\xf000븁\x0000
-ヒント！\xfffeカメールでは　ありません！\xf000븁\x0000
-ヒント！\xfffeタイヤは　２つ！\xf000븁\x0000
-ヒント！\xfffe１たい１　なら　シングルです！\xf000븁\x0000
-ヒント！\xfffeはい　チーズ！　みたいな！\xf000븁\x0000
-ヒント！\xfffeだいどころ　だと　すこし　せまい！\xf000븁\x0000
-ヒント！\xfffeコンビニ　では　ありません！\xf000븁\x0000
-ヒント！\xfffeうつくしさ　では　ありません！\xf000븁\x0000
-ヒント！\xfffeうちゅうから　きて　いません！\xf000븁\x0000
-ヒント！\xfffeらいでんポケモン　では　ない！\xf000븁\x0000
-ヒント！\xfffeでんきいしのほらあなに　います！\xf000븁\x0000
+What is the Drowsing Pokémon?\xf000븁\x0000
+What is the White Bird Pokémon\xfffewith beautiful wings?\xf000븁\x0000
+What is the Trap Pokémon\xfffethat hides in the mud?\xf000븁\x0000
+What is the move that lets you\xfffecross water on a Pokémon's back?\xf000븁\x0000
+What day is it today?\xf000븁\x0000
+Hint!\xfffeIt's not Kémons!\xf000븁\x0000
+Hint! \xfffeThoroughly cooked meat!\xf000븁\x0000
+Hint! \xfffeIt's not golana!\xf000븁\x0000
+Hint!\xfffeIt's inside your wallet!\xf000븁\x0000
+Hint!\xfffeIt starts with L!\xf000븁\x0000
+Hint!\xfffeIt's not big brother!\xf000븁\x0000
+Hint!\xfffeIt's a grown-up person!\xf000븁\x0000
+Hint!\xfffeIt's not Marill!\xf000븁\x0000
+Hint!\xfffeIt has two wheels!\xf000븁\x0000
+Hint!\xfffeIf it's a one-on-one battle, it's Single!\xf000븁\x0000
+Hint!\xfffeSay cheese!\xf000븁\x0000
+Hint!\xfffeIt's not a shower!\xf000븁\x0000
+Hint!\xfffeIt's not a convenience store!\xf000븁\x0000
+Hint!\xfffeIt's not Beauty!\xf000븁\x0000
+Hint!\xfffeIt's not from space!\xf000븁\x0000
+Hint!\xfffeIt's not a Thunderbolt Pokémon!\xf000븁\x0000
+Hint!\xfffeIt's in Chargestone Cave!\xf000븁\x0000
 ヒント！\xfffeタイプの　ひとつは\xf000븀\x0000\xfffeひこうタイプ　です！\xf000븁\x0000
-ヒント！\xfffeすごく　ちいさい　ポケモンです！\xf000븁\x0000
-ヒント！\xfffeおもさは　１５キロ　くらい！\xf000븁\x0000
-ヒント！\xfffeタネとか　カメとかでは　ありません！\xf000븁\x0000
+Hint!\xfffeIt's a very small Pokémon!\xf000븁\x0000
+Hint!\xfffeIt weighs about 33 pounds!\xf000븁\x0000
+Hint!\xfffeIt's not Bulbasaur or Turtwig!\xf000븁\x0000
 ヒント！\xfffeあなたは　せいかい　しますよ！\xf000븀\x0000\xfffeたぶんね！\xf000븁\x0000
-ヒント！\xfffeゴーストタイプ　です！\xf000븁\x0000
-ヒント！\xfffeハートが　チャームポイント！\xf000븁\x0000
-ヒント！\xfffeゆきだるまでは　ありません！\xf000븁\x0000
-ヒント！\xfffeほのおタイプでは　ありません！\xf000븁\x0000
+Hint!\xfffeIt's a Ghost-type Pokémon!\xf000븁\x0000
+Hint!\xfffeHearts are charming features!\xf000븁\x0000
+Hint!\xfffeIt has a big toothy grin!\xf000븁\x0000
+Hint!\xfffeIt's not a Fire-type Pokémon!\xf000븁\x0000
 ヒント！\xfffeゆめくいポケモン　が\xf000븀\x0000\xfffeしんか　した　ポケモンです！\xf000븁\x0000
-ヒント！\xfffeその　いすに　すわんな！\xf000븁\x0000
+Hint!\xfffeI wanna, I wanna...\xf000븁\x0000
 ヒント！\xfffeでんきタイプと　じめんタイプの\xf000븀\x0000\xfffeポケモン　です！\xf000븁\x0000
-ヒント！\xfffeそらは　とびません！\xf000븁\x0000
+Hint!\xfffeIt sounds like catching a wave!\xf000븁\x0000
 ヒント！\xfffe\xf000Ā\x0001\x0000さんに\xf000븀\x0000\xfffeかんけい　ありまーす！\xf000븁\x0000

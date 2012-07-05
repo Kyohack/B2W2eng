@@ -1,9 +1,9 @@
 デオキシスが　いんせきに\xfffeはんのう　している……\xf000븁\x0000\xfffeつれている　デオキシスを\xfffeいんせきに　ちかづけますか？
-どの　デオキシスを\xfffeいんせきに　ちかづけますか？\xf000븁\x0000
-その　ポケモンは\xfffeいんせきに　はんのう　していません
-タマゴは\xfffeいんせきに　はんのう　していません
-\xf000Ă\x0001\x0000は　バランスの　とれた\xfffeじょうたいに　へんか　した！
-\xf000Ă\x0001\x0000は　こうげきが　すぐれた\xfffeじょうたいに　へんか　した！
-\xf000Ă\x0001\x0000は　ぼうぎょが　すぐれた\xfffeじょうたいに　へんか　した！
-\xf000Ă\x0001\x0000は　すばやさが　ました\xfffeじょうたいに　へんか　した！
-うちゅうから　ふってきた\xfffeふしぎな　いんせきが　ある……
+Which Deoxys would you like to\xfffebring closer to the meteor?\xf000븁\x0000
+The Pokémon is not reacting\xfffeto the meteor.
+The Egg is not reacting\xfffeto the meteor.
+\xf000Ă\x0001\x0000 has changed to\xfffehave balanced stats!
+\xf000Ă\x0001\x0000 has changed to\xfffehave superior stats for attacking!
+\xf000Ă\x0001\x0000 has changed to\xfffehave superior stats when defending!
+\xf000Ă\x0001\x0000 has changed\xfffeto have increased Speed!
+There is a meteor that fell from space...

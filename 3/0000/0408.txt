@@ -1,3 +1,3 @@
-おや……？\xf000븁\x0000
-タマゴが　かえって\xfffe\xf000ā\x0001\x0000が　うまれた！
-うまれた　\xf000ā\x0001\x0000に\xfffeニックネームを　つけますか？
+Oh?\xf000븁\x0000
+\xf000ā\x0001\x0000 hatched from the Egg!
+Would you like to give a nickname to the\xfffenewly hatched \xf000ā\x0001\x0000?

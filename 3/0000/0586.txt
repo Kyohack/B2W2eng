@@ -1,3 +1,3 @@
-１４ばんどうろ
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeパソコンの　ボックスは\xfffeさいだい　２４こまで　ふえます！\xf000븁\x0000\xfffeつまり　７２０ひき\xfffeあずけることが　できます！
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeライブキャスターを\xfffeつかっている　とき\xf000븁\x0000\xfffeじゅうじボタンの\xfffeじょうげさゆうを　おすと\xf000븁\x0000\xfffeがめんの　ふんいきが\xfffeいろいろ　かわります！
+Route 14
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeThe maximum number of Boxes is now 24!\xf000븁\x0000\xfffeIn other words, you can store\xfffe720 Pokémon!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeWhile you are using the Xtransceiver,\xfffeif you press left, right, up, or down\xf000븀\x0000\xfffeon the +Control Pad, the appearance\xf000븀\x0000\xfffeof the screen changes in varied ways!

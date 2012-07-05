@@ -1,12 +1,12 @@
-ユニオンルームへ　ようこそ\xf000븁\x0000\xfffeなにか　わからないことが　ありましたら\xfffeおもうしつけ　くださいませ！\xf000븁\x0000
+Welcome to the Union Room.\xf000븁\x0000\xfffeIf there is anything you need help\xfffewith, please let me know! \xf000븁\x0000
 なにか　ごようけんは\xfffeありますでしょうか？
-なにに　ついて\xfffeききたい　ですか？
-たいせんには　５しゅるいの\xfffeモードがあります\xf000븁\x0000\xfffeシングルバトルは　たたかいの　ばに\xfffeポケモンを　１ひき　だして\xf000븀\x0000\xfffeふたりで　たいせん　します\xf000븁\x0000\xfffeダブルバトルは　たたかいの　ばに\xfffeポケモンを　２ひきずつ　だして\xf000븀\x0000\xfffeふたりで　たいせん　します\xf000븁\x0000\xfffeトリプルバトルは　たたかいの　ばに\xfffeポケモンを　３ひきずつ　だして\xf000븀\x0000\xfffeふたりで　たいせん　します\xf000븁\x0000
-ローテーションバトルは\xfffeポケモンを　まえに　１ひき\xf000븀\x0000\xfffeうしろに　２ひき　だしながら\xf000븀\x0000\xfffeふたりで　たいせん　します\xf000븁\x0000\xfffeマルチバトルは　たたかいの　ばに\xfffe４にんで　ポケモンを\xf000븀\x0000\xfffe１ひきずつ　だして\xf000븀\x0000\xfffe２たい２で　たいせん　します\xf000븁\x0000
-おたがいの　ポケモンを\xfffeこうかんすることが　できます\xf000븁\x0000\xfffeあたらしい　ひととの　であいが\xfffeめずらしい　ポケモンとの\xf000븀\x0000\xfffeであいになるかも　しれませんね！\xf000븁\x0000
+Which topic would you\xfffelike me to explain?
+There are five Battle Formats.\xf000븁\x0000\xfffeSingle Battle is for two Trainers\xfffewith one or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer can have one Pokémon\xfffein battle at a time.\xf000븁\x0000\xfffeDouble Battle is for two Trainers\xfffewith two or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer will send out two\xfffePokémon to battle at a time.\xf000븁\x0000\xfffeTriple Battle is for two Trainers\xfffewith three or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer will send out three\xfffePokémon to battle at a time.\xf000븁\x0000
+Rotation Battle is for two Trainers\xfffewith three or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer sends out three Pokémon at\xfffea time, one in front and two in the back.\xf000븁\x0000\xfffeMulti Battle is for four Trainers\xfffewith one or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer can have one Pokémon\xfffein battle at a time.\xf000븁\x0000
+You may trade your Pokémon with\xfffeother players.\xf000븁\x0000\xfffeMeeting new people could be a\xfffeshortcut to meeting rare Pokémon!\xf000븁\x0000
 レコードつうしん　では\xfffeじぶんの　きろくを\xf000븀\x0000\xfffeみんなで　こうかんすることが　できます\xf000븁\x0000\xfffeきろくを　こうかんすることで\xfffeいったい　なにがおきるのか！？\xf000븁\x0000\xfffeそれは　じぶんの　めで\xfffeたしかめてみて　ください！\xf000븁\x0000\xfffe５にんまで　さんか　できるので\xfffeともだちと　やってみてくださいね！\xf000븁\x0000
-ぐるぐるこうかん　は　もっている\xfffeタマゴを　みんなで　もちよって\xf000븀\x0000\xfffeこうかん　することが　できます\xf000븁\x0000\xfffeいったい　どのタマゴが　くるか？\xfffeどんな　ポケモンの　タマゴなのか？\xf000븀\x0000\xfffeわくわく　ドキドキ　ですね！\xf000븁\x0000\xfffe５にんまで　さんか　できるので\xfffeともだちと　やってみてくださいね！\xf000븁\x0000
-みんなで　おえかきを\xfffeすることが　できます\xf000븁\x0000\xfffe１まいの　かみの　うえに\xfffeすきに　えを　かいてみてください！\xf000븁\x0000\xfffeみんなで　かいた　えは　きっと\xfffeすばらしい　えに　なるはずですよ！\xf000븁\x0000\xfffe５にんまで　さんか　できるので\xfffeともだちと　やってみて　くださいね！\xf000븁\x0000
+In a Spin Trade, participants each bring\xfffean Egg for trading with others.\xf000븁\x0000\xfffeWhich Egg will you end up with?\xfffeWhat kind of Pokémon is in that Egg?\xf000븀\x0000\xfffeIt's quite exciting and fun!\xf000븁\x0000\xfffeUp to five players can take part, so\xfffetry it with your friends!\xf000븁\x0000
+You may get together with others\xfffeand draw a picture.\xf000븁\x0000\xfffeYou all get to work on one sheet\xfffeof paper at the same time.\xf000븁\x0000\xfffeI'm sure a drawing made by friends\xfffewill be a memorable masterpiece!\xf000븁\x0000\xfffeUp to five players can take part,\xfffeso try it with your friends!\xf000븁\x0000
 したがめんの　バーにある　マークを\xfffeタッチすると　チャットの　ことばを\xf000븀\x0000\xfffeえらべたり　たいせんや　こうかんなど\xf000븁\x0000\xfffeじぶんが　やりたいことを　みんなに\xfffeつたえることが　できます\xf000븁\x0000\xfffeまた　じぶんと　おなじマークを\xfffeえらんでいる　ひとは　ジャンプします\xf000븁\x0000\xfffeマークを　タッチして　あそびたい\xfffeあいてを　さがして　くださいね！\xf000븁\x0000
 あ！\xfffeだれか　きてますよ！\xf000븁\x0000\xfffeほらほら　わたし　じゃなくて　あのひとと\xfffeおはなししては　どうですか？\xf000븁\x0000
 だれも　こないと\xfffeひまですね\xf000븁\x0000\xfffeなにか\xfffeおもしろいこと　ないかな……\xf000븁\x0000
@@ -34,10 +34,10 @@
 せつめい
 おはなしする
 Back
-たいせん
-こうかん
+Battle
+Trade
 レコード
-おえかき
-ぐるぐる
-マーク
+Draw
+Spin
+Icons
 Back

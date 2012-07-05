@@ -1,25 +1,25 @@
-\xf000Ā\x0001\x0000は　デルパワー\xfffe「\xf000Ĝ\x0001\x0002」をつかった！\xf000븁\x0000
-「\xf000Ĝ\x0001\x0002」の\xfffeこうかが　きれた
-「\xf000Ĝ\x0001\x0002」の\xfffeこうかが　きれた\xf000븁\x0000
-デルパワーの　じょうたいを\xfffeかくにん　します\xf000븁\x0000
-\xf000\xff00\x0001\x0002せっていしているデルパワー\xf000\xff00\x0001\x0000
+\xf000Ā\x0001\x0000 used the Pass Power\xfffe“\xf000Ĝ\x0001\x0002!"\xf000븁\x0000
+The effect of “\xf000Ĝ\x0001\x0002"\xfffewore off!
+The effect of “\xf000Ĝ\x0001\x0002"\xfffewore off!\xf000븁\x0000
+Checking the status of Pass Power.\xf000븁\x0000
+\xf000\xff00\x0001\x0002Registered Pass Power\xf000\xff00\x0001\x0000
 \xf000\xff00\x0001\x0002\xf000봂\x0000はつどうちゅうのデルパワー\xf000\xff00\x0001\x0000
 \xf000Ĝ\x0001\x0000
 \xf000Ĝ\x0001\x0000\xf000봃\x0001\x0008\xf000ȁ\x0001\x0001：\xf000ȁ\x0001\x0002
-\xf000Ā\x0001\x0000は　ポケモンに\xfffeそうぐうしやすくなった！
-\xf000Ā\x0001\x0000は　ポケモンに\xfffeそうぐうしづらくなった！
-ポケモンが　タマゴから\xfffeかえりやすくなった！
-\xf000Ā\x0001\x0000の　ポケモンは\xfffeなつきやすくなった！
-フレンドリィショップで\xfffeやすうりが　はじまった！
-\xf000Ā\x0001\x0000の　\xf000Ă\x0001\x0001は\xfffeたいりょくが　かいふくした！
-\xf000Ā\x0001\x0000の　\xf000Ă\x0001\x0001は\xfffeＰＰが　かいふくした！
-\xf000Ā\x0001\x0000の　ポケモンは\xfffeけいけんちを　もらいやすくなった！
-\xf000Ā\x0001\x0000の　ポケモンは\xfffeけいけんちを　もらいづらくなった！
-\xf000Ā\x0001\x0000は　おこづかいを\xfffeもらいやすくなった！
-\xf000Ā\x0001\x0000は　ポケモンを\xfffeつかまえやすくなった！
+\xf000Ā\x0001\x0000's likelihood of\xfffeencountering Pokémon increased!
+\xf000Ā\x0001\x0000's likelihood of\xfffeencountering Pokémon decreased.
+The likelihood for Pokémon\xfffeto hatch from Eggs increased!
+\xf000Ā\x0001\x0000's rate of\xfffebefriending Pokémon increased!
+Bargains at Poké Marts have started!
+HP of \xf000Ā\x0001\x0000's \xf000Ă\x0001\x0001\xfffewas restored!
+PP of \xf000Ā\x0001\x0000's \xf000Ă\x0001\x0001\xfffewas restored!
+\xf000Ā\x0001\x0000's Pokémon now\xfffereceive more Exp. Points!
+\xf000Ā\x0001\x0000's Pokémon now\xfffereceive fewer Exp. Points!
+\xf000Ā\x0001\x0000's likelihood of\xfffereceiving Prize Money increased!
+\xf000Ā\x0001\x0000's likelihood of \xfffecapturing Pokémon increased!
 ---
 ---
 \xf000Ā\x0001\x0000は　ゆれる　くさむらや\xfffeつちけむりを　みつけやすく　なった！
 \xf000Ā\x0001\x0000は　かくしあなで\xfffeポケモンと　であいやすく　なった！
 \xf000Ā\x0001\x0000は　めずらしい\xfffeポケモンと　であいやすく　なった！
-\xf000Ā\x0001\x0000の　ポケモンは\xfffeみんな　げんきに　なった！
+All \xf000Ā\x0001\x0000's Pokémon\xfffeare fully recovered!

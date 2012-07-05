@@ -35,23 +35,23 @@ Aspear Berry
 Pecha Berry
 Ding-dong!\xf000븁\x0000\xfffeThat's right!\xfffeNext question!\xf000븁\x0000
 When your Pokémon uses\xfffethe move known as Swagger...\xf000븀\x0000\xfffeThe other Pokémon will\xf000븁\x0000\xfffenot only have it's attack\xfffeincrease, but in what state?
-Asleep
+Sleep
 Recoil
 Confusion
 Ding-dong! Ding-dong!\xf000븁\x0000\xfffeThat's correct!\xfffeHere's your present!\xf000븁\x0000
 ダブルバトルで　キーのみを　もった\xfffeみかたの　ポケモンに\xf000븀\x0000\xfffeいばるの　わざを　つかうと\xf000븁\x0000\xfffeわざを　うけた　みかたの\xfffeこうげきりょくが　あがり\xf000븀\x0000\xfffeキーのみで　こんらんが　なおります！\xf000븁\x0000\xfffeそして　こうげきりょくの　あがった\xfffeポケモンで　あいてを　こうげき！\xf000븁\x0000\xfffeダブルバトルって　くみあわせで\xfffeいろんな　ことが　できますよ！
-Please tell me if you\xfffewant to take the quiz.
+Come talk to me if you want\xfffeto take a quiz.
 Boo-boo!!!\xf000븁\x0000\xfffeUnfortunately, that answer\xfffewas incorrect...
-こくばんに　ポケモンが\xfffeたたかっているときに　おこる\xf000븁\x0000\xfffeたいちょうの　へんかに\xfffeついて　かかれてます\xf000븁\x0000
-どれについて　みますか？
+The blackboard explains Pokémon\xfffestatus changes in battle.\xf000븁\x0000
+What do you want to read about?
 What type is the of status\xfffethat is caused by a certain\xf000븀\x0000\xffferate when being blown\xf000븁\x0000\xfffeby a Poison-type move?\xfffeAlso, the item known as Antidote,\xf000븁\x0000\xfffecan heal this despicable status.\xf000븁\x0000
-What is the type of status\xfffethat is caused by a certain\xf000븁\x0000\xffferate when being blown\xfffby a Thunder-type move?\xf000븁\x0000\xfffeAlso, Parylz Heal can restore it.\xf000븁\x0000
-What is the type of status\xfffethat is caused by a certain\xf000븁\x0000\xfffemove, such as Yawn?\xfffeAlso, one can recover from\xf000븀\x0000\xfffethis status over time in battle\xf000븁\x0000\xfffeor an item known as Awakening.\xf000븁\x0000
-What is the type of status\xfffethat is caused by a certain\xf000븀\x0000\xffferate when being blown by a\xf000븁\x0000\xfffeFire-type move?\xfffeAlso, the item known as Burn Heal,\xf000븁\x0000\xfffecan restore this status.\xf000븁\x0000
-What is the type of status\xfffethat is caused by a certain\xf000븁\x0000\xffferate when being blown\xfffby an Ice-type move?\xf000븀\x0000\xfffeAlso, the item known as Ice Heal,\xf000븁\x0000\xfffecan heal this despicable status.\xf000븁\x0000
+Paralysis reduces the Speed stat\xfffeand may prevent movement.\xf000븁\x0000\xfffeIt remains after battle, so use a\xfffeParlyz Heal.\xf000븁\x0000
+If a Pokémon falls asleep, it will be\xfffeunable to attack.\xf000븁\x0000\xfffeThe Pokémon may wake up on its own,\xfffebut if a battle ends while it is\xf000븀\x0000\xfffesleeping, it will stay asleep.\xf000븁\x0000\xfffeWake it up using an Awakening.\xf000븁\x0000
+A burn reduces the Attack stat and\xfffesteadily reduces the victim's HP.\xf000븁\x0000\xfffeA burn lingers after battle.\xfffeCure a burn using a Burn Heal.\xf000븁\x0000
+If a Pokémon is frozen, it becomes\xfffecompletely helpless.\xf000븁\x0000\xfffeThe Pokémon may thaw out on its own,\xfffebut if a battle ends while it is\xf000븀\x0000\xfffefrozen, it will stay frozen.\xf000븁\x0000\xfffeThaw it out using an Ice Heal.\xf000븁\x0000
 Poison
-Parlyz
+Paralysis
 Sleep
 Burn
 Frozen
-Quit
+Back

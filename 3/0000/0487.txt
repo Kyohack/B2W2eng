@@ -3,20 +3,20 @@ no data
 シュウサク『ホワイトフォレストにも\xfffeいいところは　あるけれど\xf000븀\x0000\xfffeこの　しげきの　なさは　たいくつ！
 シュウサク『ホワイトフォレストにも\xfffeいいところは　あるけれど\xf000븁\x0000\xfffeだいとかいの　しげきを　バリバリに\xfffeうけたいな　ぼくは！
 シュウサク『しげきに　うえた　ぼくが\xfffeいきたいのは　ブラックシティ！\xf000븀\x0000\xfffeよかったら　つれていって　くれない？
-えっ！　ダメかー……\xfffeきが　かわったら　よろしくね
-あっ　ごめん！\xfffeべつの　ところから　さそわれてたよ
+Really! No good, huh? Well, I'll be here if\xfffeyou change your mind.
+Oh! Sorry!\xfffeI got an invitation from another place!
 no data
 わっ　ほんとうに？\xf000븁\x0000\xfffeうれしいな！　あたらしい　しげきが\xfffeぼくを　まっている！\xf000븀\x0000\xfffeブラックシティで　まってるね！
 ヒロコ『なれた　この\xfffeせいかつを　かえるため\xf000븀\x0000\xfffeブラックシティに　ひっこすの！\xf000븁\x0000\xfffeとかいの　くうきが　たのしみなの！
 ヒロコ『すみなれた　ばしょを　はなれ\xfffeみしらぬ　ばしょで　しんせいかつ！\xf000븀\x0000\xfffeおんなのこ　なら　あこがれるよね
-ヒロコ『おんなのこなら　だれでも\xfffeだいとかいに　こい　こがれちゃうわ！
+Silvia: Girls all pine for the big city!
 ヒロコ『すみなれた　ばしょを　はなれ\xfffeみしらぬ　ばしょで　しんせいかつ！\xf000븁\x0000\xfffeわたしの　メガネに　うつった　あなた\xfffeブラックシティに　つれていって！
-わたしじゃ　ダメかな？\xfffeつれていって　ほしいなー……
+So, it's not going to work out? I'd sure\xfffelike it if you'd take me along, though...
 ごめんなさい！\xf000븁\x0000\xfffeべつの　ひとの　おメガネに\xfffeかなっちゃった　みたい
 no data
 わたしの　メガネに\xfffeうつっただけは　あるわね！\xf000븀\x0000\xfffeブラックシティで　まってるね！
 タクロウ『お　わりーな\xfffeオレ　ブラックシティに　ひっこすわ\xf000븁\x0000\xfffeひとそれぞれ　むいてる\xfffeばしょって　あるだろ？
-タクロウ『ツッパる　あいてが　いねー\xfffeブラックシティに　いきたいぜ……
+Dave: Wish I had someone 'round to drag\xfffeme along. Man, I want to go to Black City.
 タクロウ『そっちの　ブラックシティ\xfffeすげー　かがやいてるな\xf000븀\x0000\xfffeオレも　そっちに　いきたいぜ
 タクロウ『ツッパる　あいてが　いねー\xf000븁\x0000\xfffeなあ　オレを　ブラックシティに\xfffeつれていって　くれねーか？
 そうかよ……\xf000븁\x0000\xfffeおまえが　つれていきたくなる　ぐらい\xfffeオトコ　みがくからよ　みといてくれ
@@ -25,108 +25,108 @@ no data
 かんしゃ　するぜ\xfffeさて　ブラックシティで\xf000븀\x0000\xfffeヘッドに　なっか！
 サトコ『わたし　マチに\xfffeいくことに　したんぞいね！\xf000븁\x0000\xfffeやわやわぁっと　した　せいかつも\xfffeこれで　おわりやげん！
 サトコ『いんぎらぁっと　してるとこ\xfffeちゃわちゃわ　してるとこ\xf000븀\x0000\xfffeどっちも　わたしは　すき　ぞいね！
-サトコ『ブラックシティ……\xfffeあこがれの　マチ　ぞいね！
+Britney: Black City...\xfffeThat's where I wanna be!
 サトコ『だれか　ブラックシティに\xfffeつれていって　くれんけー\xf000븁\x0000\xfffeほんなら！　あなたが\xfffeわたしを　つれてきまっし！
-なんで　だめなんー？\xfffeじゃー　こんど　つれてってやー！
-わぁ　ごめんなー\xfffeほかのひとに　さそわれとれんてー！
+Now, whyever not?!\xfffeWell, take me next time, OK?
+Oh, I'm sorry!\xfffeSomeone else done invited me!
 no data
-あんやとー！\xfffeさきに　マチ　いっとるねー！
+Thankee!\xfffeI'll go on ahead to the forest!
 マサオ『あのさ　あのさ！\xfffeブラックシティに　ひっこすんだ！\xf000븁\x0000\xfffeやっぱり　でっかーーい\xfffeビルが　ないと　おちつかないよなー！
-マサオ『あー！　ヒマ！　ヒマだなー\xfffeブラックシティに　いきたいなー！
+Robbie: Aaah! Boooring! I'm so bored!\xfffeI sure want to go to Black City!
 マサオ『あー！　そっちの！\xfffeブラックシティ　おもしろそう\xf000븀\x0000\xfffeいいな！　いいなー！！
 マサオ『あー！　ヒマ！　ヒマだなー\xfffeブラックシティに　いきたいなー！\xf000븁\x0000\xfffeそうだ！　きみさ\xfffeぼくを　つれてって　くれよ！
-えー　だめなの？\xfffeきが　かわったら　たのむよー！
-あー！　ごめん！！\xfffeべつのひとの　ところに　いくんだった！
+Robbie: Aww, why not?\xfffeWell, if you change your mind...
+Oh! I'm sorry!!\xfffeI'm going to someone else's place.
 no data
 ありがとう！\xf000븁\x0000\xfffeさきに　ブラックシティに\xfffeいってるよ　またね！
 ミキ『アタシ　ブラックシティに\xfffeいくことに　したのー\xf000븁\x0000\xfffeちょっと　おそい　アタシが\xfffeなじめるか　ふあん　だけどねー
-ミキ『ここは　いごこち　いいけどー\xfffeちょっと　しげきが　たりないのよね
+Miki: It's comfortable here, but I\xfffecould use a little more excitement.
 ミキ『ブラックシティ……\xf000븁\x0000\xfffeたのしそうねー　アタシでも\xfffeいけるなら　いってみたいなぁー
 ミキ『ブラックシティ……\xf000븁\x0000\xfffeたのしそうねー　アタシでも\xfffeいけるなら　いってみたいなぁー\xf000븁\x0000\xfffeねぇ　アタシを\xfffeつれていって　くれませんかぁー？
-グスン……\xfffeアタシじゃ　ダメかなぁー？
-わ！　ほかのひとに　さそわれてたの\xfffeごめんなさい
+Sniff...\xfffeDon't you want me to come?
+Oh! I was invited by\xfffesomebody else. I'm sorry.
 no data
 ありがとうー！\xf000븁\x0000\xfffeアタシ　ブラックシティで\xfffeがんばって　みるねー
 タクマ『やあ！　おれさ\xfffeブラックシティに　ひっこすんだ\xf000븁\x0000\xfffeおれより　つよい　トレーナーが\xfffeあつまるところで　つよく　なるんだ！
 タクマ『セイ！　セイ　セイ……\xfffeどうも　きあいが　はいらないなー\xf000븁\x0000\xfffeしぜんに　かこまれてると\xfffeおちついちゃうんだよなー……
 タクマ『セイヤー！　セイ！\xf000븁\x0000\xfffeしゅぎょうも　バッチリだし\xfffeそろそろ　うでを　ためしたいな！
 タクマ『しゅぎょうも　バッチリだし\xfffeそろそろ　うでを　ためしたいな\xf000븁\x0000\xfffeよかったら　ブラックシティに\xfffeおれを　つれていって　くれないか？
-そうか……　ざんねんだ\xfffeまた　こえを　かけてくれ
-う……　すまん\xfffeべつのひとに　さそわれていた
+I see... That's too bad.\xfffeTalk to me again sometime.
+Oh... My apologies.\xfffeAnother person invited me.
 no data
 ありがとう！\xfffeばしょは……　わかった！\xf000븁\x0000\xfffeさきに　ブラックシティに\xfffeいっておくよ！
 カレン『うーん……　ファイトー！！\xfffeわたし　ブラックシティに\xf000븁\x0000\xfffeいくことに　したの！\xfffeポケモンしょうぶで　もえるわよー！
 カレン『しゅぎょう　しゅぎょうで\xfffeわたしも　わたしの　ポケモンも\xf000븀\x0000\xfffeつかれちゃった　かも……
-カレン『しゅぎょうの　せいかを\xfffeブラックシティで　ためしたいなー
+Karenna: I wanna test the results\xfffeof my training in Black City!
 カレン『しゅぎょうの　せいかを\xfffeブラックシティで　ためしたいわ！\xf000븁\x0000\xfffeねぇ！　よかったら　なんだけど\xfffeわたしを　ブラックシティに\xf000븀\x0000\xfffeつれていって　くれませんか！
-そんなー……\xfffeつぎは　おねがいしますね！
-うっ！　ごめんなさい！！\xfffeべつのかたの　ところに　いきます
+No way...\xfffeWell, next time then, OK?
+Oh! I'm so sorry!\xfffeI'm going to someone else's place.
 no data
 これで　もっと　つよくなれます！\xfffeありがとうございます！\xf000븁\x0000\xfffeそれでは　ひとあし　おさきに\xfffeブラックシティで　まってますね！
 トモタカ『どうも　どうも！\xf000븁\x0000\xfffeこのたび　わたくしは　ですね\xfffeブラックシティに　おひっこし　します
 トモタカ『どうも　おせわに　なります\xf000븁\x0000\xfffeじゅうぶん　リフレッシュ　できたので\xfffeそろそろ　ブラックシティ　ですかね！
 トモタカ『どうも　こんにちは\xf000븁\x0000\xfffeさいきん　しごとが\xfffeはかどらなくて　こまりものです\xf000븁\x0000\xfffeブラックシティなら　バリバリ\xfffeしごとが　できそう　なんですけど……
 トモタカ『どうも　こんにちは\xf000븁\x0000\xfffeさいきん　しごとが\xfffeはかどらなくて　こまりものです\xf000븁\x0000\xfffeもし　よかったら　ブラックシティに\xfffeつれていって　くれませんか？
-うーん　そうですか……\xfffeひが　わるかったって　ことで！
+Oh, I see. Do forgive the presumption.
 わたくしと　したことが！\xfffeもうしわけない！\xf000븀\x0000\xfffeべつのかたの　ところに　いくのでした
 no data
 どうも　ありがとうございます！\xf000븁\x0000\xfffeそれでは　わたくしは\xfffeひとあし　おさきに　むかいます！
 ジュンイチ『やあ　きみか！　ぼくはね\xfffeブラックシティで　かがやくよ\xf000븀\x0000\xfffeうつくしいビルが　ぼくを　まってる！
-ジュンイチ『ここでの　せいかつ\xfffeこの　ぼくには　すこし　たいくつかな
-ジュンイチ『そちらの　ブラックシティ\xfffeこの　ぼくが　おにあい　じゃないかな
+Vincent: Living here is a little\xfffeboring for a guy like me.
+Vincent: Maybe I would be a good\xfffematch for that Black City.
 ジュンイチ『そちらの　ブラックシティ\xf000븁\x0000\xfffeこの　ぼくが　いってあげようかなって\xfffeおもってるのだけど　どうだい？
-うん　うまく　きこえなかった\xfffeあとで　もういちど　きこうかな
+Sorry, I couldn't hear you.\xfffeMaybe I'll ask again later.
 あぁ　すまない！\xfffeこの　ぼくは　にんきものでね\xf000븀\x0000\xfffeもう　よやくずみ　だよ
 no data
 そこまで　きみが　たのむのなら\xfffeしょうがない　この　ぼくが！\xf000븁\x0000\xfffeブラックシティへ\xfffeいってあげよう　じゃないか！
-カズホ『もう　さんそは　じゅうぶん！\xfffeブラックシティに　いくわね
-カズホ『だいぶ　リフレッシュ　したし\xfffeブラックシティに　もどりたいわ
-カズホ『ブラックシティ！\xfffeいいわねー　わたしも　いきたいわ
+Marie: I've had enough fresh air!\xfffeI'm going to Black City.
+Marie: I'm much more refreshed, and\xfffeI want to go back to Black City.
+Marie: Black City!\xfffeHow nice! I want to go too.
 カズホ『ブラックシティ！\xfffeいいわねー　わたしも　いきたいわ\xf000븁\x0000\xfffeそうだ！　あなた　わたしを\xfffeつれていって　くれないかしら
-あら\xfffeきげん　わるいの？
-あらあら　ごめんなさい\xfffeほかのひとに　さそわれちゃってるの
+Oh my.\xfffeAre you in a bad mood?
+My oh my. I'm sorry.\xfffeI was invited by someone else.
 no data
-ありがと　ありがと！\xfffeそれじゃ　おさきに　むかってるわ
-レナ『ブラックシティ……\xfffeわたし　そこに　いくことに　したの
-レナ『もりは　なにも　こばまない\xfffeそれを　こわく　おもうことも　あるの
-レナ『……うん\xfffeここちいいけど　なにか　たりないわ
+Thank you! Thank you!\xfffeWell, I'll go on ahead, then.
+Lena: Black City...\xfffeI've decided to go there.
+Lena: The forest doesn't\xffferefuse anything.\xf000븀\x0000\xfffeSometimes, I think that's scary.
+Lena: Hmm... It's comfortable here,\xfffebut something's missing.
 レナ『……そっちの\xfffeブラックシティにも　いきたいな……\xf000븀\x0000\xfffeいっても　いい？
-……そう\xfffeざんねん
-ごめん\xfffeほかのひとに　さそわれたの……
+I see...\xfffeToo bad.
+Sorry.\xfffeI was invited by someone else...
 no data
-ありがとう\xfffeブラックシティで　まってる……
+Thank you.\xfffeI'll be waiting in Black City...
 カルロス『おー！　ブラックシティへ\xfffeいってみることに　したよ\xf000븁\x0000\xfffeブラブラ　きままな　たびってね！
 カルロス『だいしぜんも　みてると\xfffeおもしろいけど　やっぱり\xf000븀\x0000\xfffeおおきな　へんかが　ほしいよね
 カルロス『バックパッカー　としては\xfffeへんかの　ない　ばしょに　いても\xf000븀\x0000\xfffeしょうがないって　わけさ！
 カルロス『そろそろ　ここも\xfffeみるものが　なくなっちゃったなー！\xf000븁\x0000\xfffeそうだ　きみさ　ブラックシティに\xfffeぼくを　つれていって　くれないかな？
-うーん……　どうしても　ダメかい？\xfffeつれてって　ほしいなー……
-お？　ごめんよ　やっぱり　ぼくは\xfffeべつのひとの　ところへ　いくよ
+Hmmm... Isn't there any way I could go?\xfffeI really want you to take me there...
+Huh? I'm sorry. I'm going to go\xfffeto someone else's place.
 no data
 おー！　サンキューだ！\xfffeじゃー　ブラックシティへ　おさき！\xf000븀\x0000\xfffeまた　あとでねー！
 ヒロミ『ブラックシティに　いくの！\xf000븁\x0000\xfffeいっかしょに　とどまるより\xfffeいろんな　ところ　みたいしね！
 ヒロミ『そろそろ　べつのところに\xfffeいくことを　かんがえてるの\xf000븀\x0000\xfffeいろんな　ところ　みたいしね！
 ヒロミ『わたし　そろそろ　\xfffeべつのところへ　いきたいなぁ\xf000븀\x0000\xfffeどこか　いいところ　しらない？
 ヒロミ『よし　きめた！\xfffeわたし　ここを　でるわ！\xf000븀\x0000\xfffeそこで　きみに　おねがいなんだけど\xf000븁\x0000\xfffeわたしを　ブラックシティに\xfffeつれていって　くれないかなぁ？
-むー　おねがいしたのにー！\xfffeしょんぼり……
-べつのひとに　さそわれちゃってた……\xfffeごめん　そっちに　いくね
+What? Even though I asked nicely!\xfffeI'm crestfallen...
+I was invited by someone else...\xfffeSorry, but I'm going there.
 no data
 ありがとー！\xfffeすぐに　むかうね\xf000븁\x0000\xfffeまた　ブラックシティで\xfffeよろしくねー！
 ツネカズ『すまないな\xf000븁\x0000\xfffeわたしは　ブラックシティに　いく\xfffeじゅんびを　しているのだ\xf000븀\x0000\xfffeようじなら　ブラックシティで　きくぞ
 ツネカズ『ぶんめいの　しんか！\xfffeそれを　まぢかで　かんじられる……\xf000븀\x0000\xfffeブラックシティが　わたしは　すきだ！
-ツネカズ『たいくつで　かなわんな\xfffeブラックシティに　いきたいのだが……
+Frederic: I am so bored.\xfffeI want to go to Black City, but...
 ツネカズ『たいくつで　かなわんな\xfffeブラックシティに　いきたいのだが……\xf000븁\x0000\xfffeん？　きみ！\xfffeたのみが　あるんだ\xf000븁\x0000\xfffeわたしを　ブラックシティに\xfffeつれていって　くれないだろうか？
 なんと！　じんせいの\xfffeせんぱいからの　たのみだぞ！？\xf000븀\x0000\xfffeきがむいたら　たのんだぞ　わかもの
 すまん！\xf000븁\x0000\xfffeすっかり　わすれておったが\xfffeせんやくが　あったの　だった
 no data
 よくいった　おんに　きるぞ！\xf000븁\x0000\xfffeそれでは　ブラックシティに\xfffeさきに　いって　まってるぞ！
 シオリ『わたくし\xfffeブラックシティに　むかうの\xf000븁\x0000\xfffeせっかく　はなしかけて\xfffeくださったのに　ごめんあそばせ！
-シオリ『このまちは　つよいヒトが\xfffeいないから　なんだか　タイクツね
+Lynette: I get bored because there\xfffearen't any strong people in this town.
 シオリ『あなたの\xfffeブラックシティ……\xf000븁\x0000\xfffeきっと　つよいヒトが　たくさんいて\xfffeたいくつ　しないんでしょうね
 シオリ『わたくし\xfffeもう　しぜんに　いやされるのに\xf000븀\x0000\xfffeあきて　きちゃったの\xf000븁\x0000\xfffeあなた　よろしかったら\xfffeわたくしを　ブラックシティに\xf000븀\x0000\xfffeつれていって　くださらない？
-あら！　わたくしの　たのみを\xfffeことわるなんて　しつれいしちゃう
+My! I can't believe you are so\xffferude as to refuse my request.
 わたくし　きがかわったわ\xf000븁\x0000\xfffeあなたのほかに　ステキなヒトを\xfffeみつけてしまったの……\xf000븀\x0000\xfffeごめんあそばせ
 no data
-れいを　いうわ\xfffeあたらしい　であいが　たのしみね！
+I'd like to thank you.\xfffeI'm looking forward to new encounters!
 ヒトシ『ぼかぁ　これから\xfffeブラックシティに　いくんだ\xf000븀\x0000\xfffeしげきてきな　せいかつ　たのしみだよ
 ヒトシ『ゆったりした　せいかつも\xfffeちょっと　だるくなって　きちゃったな\xf000븁\x0000\xfffeこうりつのいい　くらしがしたいや
 ヒトシ『うーん\xfffeきみの　ブラックシティは\xf000븁\x0000\xfffeしげきてきな　くらしができそうで\xfffeうらやましいなぁ
@@ -139,7 +139,7 @@ no data
 ガクト『うーん\xf000븁\x0000\xfffeじぶんの　トレーナーとしての\xfffeりきりょうを　ためせるような\xf000븀\x0000\xfffeかんきょうに　いってみたい
 ガクト『きみの　ブラックシティは\xfffeなんだか　たのしそうだな\xf000븀\x0000\xfffeわしも　いってみたいよ
 ガクト『ポケモンだいすきの　わし\xf000븁\x0000\xfffeだけど　ほかくしたポケモンで\xfffeじぶんの　トレーナーとしての\xf000븀\x0000\xfffeちからを　ためしてみたくなってきた！\xf000븁\x0000\xfffeきみ　わしを　ブラックシティに\xfffeつれていって　くれんかね？
-えー！　がっくり……\xfffeまた　つぎのきかいを　まつ！
+Whaaat! That's disappointing...\xfffeI'll wait for the next opportunity!
 ム！\xfffeやっぱり　きが　かわった\xf000븁\x0000\xfffeほかの　ブラックシティに\xfffeいくことに　したよ
 no data
 ウホホ！\xf000븁\x0000\xfffeあたらしい　かんきょうでの\xfffeちからだめしが　たのしみだ！
@@ -147,15 +147,15 @@ no data
 ユミコ『なんだか　のんびりすごすのも\xfffeちょっと　あきてきちゃった……\xf000븁\x0000\xfffeブラックシティに　いきたいわ
 ユミコ『そちらの　ブラックシティ\xfffeせんれんされていて　くらしやすそうね\xf000븁\x0000\xfffeうらやましいわ……
 ユミコ『わたし　\xfffeもっとバリバリ　いきていきたいの！\xf000븁\x0000\xfffeそのために　ブラックシティに\xfffeつれていって　くれないかしら？
-……あら\xfffeざんねん　だわ
+Oh...\xfffeThat's too bad.
 ごめんなさい……\xfffeきもちが　かわって\xf000븁\x0000\xfffeべつの　ブラックシティに\xfffeいくことに　しちゃった
 no data
 ありがとう！\xf000븁\x0000\xfffeわたしの　じつりょくを\xfffeブラックシティで　いかしてみせる！
 ミホ『ワタシ　これから\xfffeブラックシティに　ひっこすの\xf000븁\x0000\xfffeたくさん　かいものしよっと！
 ミホ『さいきん　ものたりないの\xfffeもっと　おかいものとか　したい！\xf000븁\x0000\xfffeブラックシティに　いきたいわ
-ミホ『そっちの　ブラックシティ\xfffeきらびやかそうで　うらやましいわ
+Miho: I'm jealous. That Black City\xfffeis so gorgeous.
 ミホ『あなたの　ブラックシティ\xfffeとても　きらびやかで　ステキ！\xf000븁\x0000\xfffeワタシも　ブラックシティで\xfffeくらしたいわ　つれていってくれない？
-えー　ケチ！
+What?! Cheapskate.
 うわきしょうな　ワタシ……\xfffeじつは　ほかのひとの\xf000븁\x0000\xfffeブラックシティに　いくことにしたの\xfffeごめんなさい
 no data
 ありがとう！\xf000븁\x0000\xfffeブラックシティで　ワタシ　もっと\xfffeかわいく　なっちゃうんだから
@@ -163,15 +163,15 @@ no data
 トシノブ『ブラックシティで\xfffeじぶんが　どうみられるのか\xf000븀\x0000\xfffeかくにんしてみたいな
 トシノブ『キミの　ところの\xfffeブラックシティが　うらやましいよ\xf000븀\x0000\xfffeオレも　いってみたい
 トシノブ『ブラックシティで\xfffeじぶんが　どうみられるのか\xf000븀\x0000\xfffeかくにんして　みたいんだ\xf000븁\x0000\xfffeなあ！　ブラックシティに\xfffeつれていって　くれないか？
-キミの　まちに　いって\xfffeみたかったから　ざんねんだよ
-ごめん！　やっぱり　ほかのひとに\xfffeついていくことにしたよ！　わるいね
+Too bad. I wanted to go to your city.
+Sorry! I decided to follow someone else.\xfffeMy bad.
 no data
 サンキュー！\xf000븁\x0000\xfffeブラックシティで\xfffeじぶんを　ためしてみるよ！
 ソウスケ『ヒャッホウ！\xf000븁\x0000\xfffeこれから　ブラックシティに\xfffeいくんだ！　やってやるぜー！
 ソウスケ『あーあ……\xfffeもっと　オレのきもちを\xf000븀\x0000\xfffeちょっきゅうで　ぶつけたい……\xf000븁\x0000\xfffeブラックシティに　いきたいな
 ソウスケ『キミの　ブラックシティ\xf000븁\x0000\xfffeみんな　じぶんの　きもちを\xfffeぶつけあってて　たのしそうだな……
 ソウスケ『さいきん\xfffeもっと　じぶんの　きもちを\xf000븁\x0000\xfffeひとに　ちょっきゅうで\xfffeぶつけたいと　おもっててさ\xf000븁\x0000\xfffeオレを　ブラックシティに\xfffeつれていって　くれないかい？
-ええっ……　オレのきもちが\xfffeわかってもらえない　なんて……
+What... I'm shocked you don't\xfffeunderstand my feelings...
 おっと！\xf000븁\x0000\xfffeちょっくら　べつの　ようじで\xfffeいきたいまちが　できちまった\xf000븀\x0000\xfffeごめんよ！
 no data
 ヒャッホウ！\xf000븁\x0000\xfffeオレの　ほとばしる　きもち\xfffeブラックシティで　ぶつけてみせる！
@@ -179,15 +179,15 @@ no data
 エリザ『ホワイトフォレストは\xfffeしぜんは　ゆたかだけど\xf000븀\x0000\xfffeなんだか　ものたりないよね
 エリザ『ブラックシティ……\xfffeいろんなものが　かえそうで\xf000븀\x0000\xfffeうらやましいな……
 エリザ『ホワイトフォレストは\xfffeしぜんは　ゆたか　だけど\xf000븀\x0000\xfffeなんだか　ものたりないよね\xf000븁\x0000\xfffeそうだ！　ブラックシティに\xfffeつれていって　くれない？
-あらら……\xfffeざんねん
-やっぱり　きが　かわっちゃった\xfffeほかの　ブラックシティに　いくね
+Is that so...\xfffeToo bad...
+I've changed my mind.\xfffeI'm going to a different Black City.
 no data
 うれしいな！\xf000븁\x0000\xfffeブラックシティでの　くらし\xfffeたのしみだよ
 ヒロノリ『チャーンっス！　チャンス！\xfffeブラックシティで　ビジネスチャンス！\xf000븀\x0000\xfffeバッチリ　かせいじゃうっスよー！
 ヒロノリ『だれも　やっていないことを\xfffeビジネスにしようと　さがしているけど\xf000븁\x0000\xfffeだれも　やってないから\xfffeみつからねーっス！
 ヒロノリ『いなかまち　ならではの\xfffeビジネスチャンスを　さがしたっスが\xf000븁\x0000\xfffeそんなに　うまい　はなし\xfffeころがってなんか　ないっスねぇ……
 ヒロノリ『チャーンスなんて\xfffeここには　なかったっスよー！\xf000븁\x0000\xfffeビッグチャンス　ねらうほうが\xfffeオレの　しょうに　あうっスよ！\xf000븁\x0000\xfffeわるいっスけど　ブラックシティに\xfffeつれていって　くれないっスか？
-ビジネスマンは　にんたいっスから\xfffeつれていってくれるまで　まつっスよ！
+A Clerk ⑭ has to be patient.\xfffeI'll wait until you are ready to take me!
 あっ！　なんか　ほかの\xfffeビジネス　おもいついちゃったっス！\xf000븀\x0000\xfffeごめんっスけど　いくの　やめるっス！
 no data
 やーりぃーっスよ！\xf000븁\x0000\xfffeブラックシティで　ビッグチャンスを\xfffeものに　しちゃうっス！
@@ -195,39 +195,39 @@ no data
 ケン『ホワイトフォレストでは\xfffeポケモンしょうぶを\xf000븀\x0000\xfffeきわめることは　できない……
 ケン『あんたの　ブラックシティ\xfffeポケモンしょうぶが　さかんそうだな\xf000븀\x0000\xfffeうらやましいぜ
 ケン『トレーナーとして\xfffeポケモンしょうぶを\xf000븀\x0000\xfffeきわめる　せいかつが　したいんだ\xf000븁\x0000\xfffeあんたの　まちに\xfffeつれていって　くれないか？
-そうか\xfffeほかを　あたるよ
+Really.\xfffeI'll ask someone else.
 やはり　きがかわった\xf000븁\x0000\xfffeべつの　ブラックシティに\xfffeいくことにしたぜ
 no data
-ブラックシティで　トレーナーとしての\xfffeうでまえを　きわめてみせる！
+I'm going to become the best Trainer\xfffeI can be in Black City!
 サトル『ぼくは　これから\xfffeめいかくな　こたえをもとめて\xf000븀\x0000\xfffeブラックシティにいく！
 サトル『フゥ……\xf000븁\x0000\xfffeたったひとつの　めいかくな\xfffeこたえが　でる\xf000븀\x0000\xfffeそんな　けんきゅうが　したいよ
 サトル『きみの　ブラックシティ\xf000븁\x0000\xfffeじつに　エクセレントな　こたえが\xfffeみつけられそうで　うらやましいよ
 サトル『きみの　ブラックシティ\xf000븁\x0000\xfffeじつに　エクセレントで\xfffeハッキリとした　こたえのでる\xf000븀\x0000\xfffeけんきゅうが　できそうだ\xf000븁\x0000\xfffeきみの　まちに\xfffeつれていって　くれないか？
-きみの　めいかくな　こたえには\xfffeがっかり　させられたよ
+I'm really disappointed by\xfffeyour clear answer!
 ああ　やっぱり\xfffeべつの　ブラックシティに\xf000븀\x0000\xfffeいくことにしたよ\xf000븁\x0000\xfffeそこに　ぼくのもとめる\xfffeこたえが　ある！
 no data
-おお！\xfffeれいを　いうよ
+Oh! The answer I wanted!\xfffeThank you!
 ローザ『これから　あたし\xfffeブラックシティに　いくの\xf000븀\x0000\xfffeたいくつしなそうで　たのしみ！
 ローザ『ただ　まいにちを　いきる……\xfffeそんな　せいかつに　あきてきましたわ\xf000븁\x0000\xfffeもっと　たいくつしない\xfffeところに　いきたいですわ！
-ローザ『あなたの　ブラックシティ\xfffeたいくつしなさそう　うらやましいわ
+Rosa: Your Black City.\xfffeIt looks exciting. I'm jealous.
 ローザ『わたし　もっと\xfffeまいにち　たのしく　いきたいの\xf000븁\x0000\xfffeあなたの　ブラックシティに\xfffeつれていって　くれない？
-あら！\xfffeけちんぼ　ねー
-きが　かわっちゃった\xfffeやっぱり　べつの　まちにいくわ
+My!\xfffeAren't you the selfish one!
+I've changed my mind.\xfffeI'm going to a different city!
 no data
 いやーん！\xf000븁\x0000\xfffeたいくつしない　せいかつ！\xfffeたのしみだわ！
 ヒロアキ『つぎは\xfffeブラックシティに　いくんだ\xf000븀\x0000\xfffeうらやましいだろ！
 ヒロアキ『あーあ\xfffeブラックシティに　いきたいよ\xf000븁\x0000\xfffeひとつの　ところに　いるのは\xfffeしょうに　あわないね！
 ヒロアキ『ブラックシティ\xfffeおもしろそうな　まちだな\xf000븀\x0000\xfffeいってみたいよー
 ヒロアキ『ここの　くらしに\xfffeあきて　きちゃったんだよね\xf000븁\x0000\xfffeブラックシティに\xfffeつれていって　くんない？
-そっかー\xfffeまぁいいよ
-きが　かわった！\xfffeちがうまちに　たびだつことにした！
+Fine. Whatever.
+Changed my mind!\xfffeI'm setting off for a different city!
 no data
-よっしゃあ！　ありがとう！\xfffeつぎの　たびが　たのしみだ！
-エミ『つぎの　まちに　たびだつの！\xfffeブラックシティよ　たのしそうでしょ
-エミ『あーあ！　そろそろ\xfffeつぎの　まちに　たびだちたいな
-エミ『ブラックシティって　いいな！\xfffeいってみたいな
+All right! Thanks!\xfffeI'm looking forward to my next trip!
+Emi: I'm setting off for my next city!\xfffeBlack City! It looks like fun, right?
+Emi: Oh, I want to set off for my\xfffenext city soon!
+Emi: Black City sounds nice!\xfffeI'd like to go there!
 エミ『つぎの　たびでは\xfffeポケモンしょうぶ　を\xf000븀\x0000\xfffeもくてきに　したいの\xf000븁\x0000\xfffeねぇ　ブラックシティに\xfffeつれていって　くれない？
-えー！\xfffeざんねん……
+What?!\xfffeToo bad...
 うーん　やっぱりやめた！\xf000븁\x0000\xfffeべつの　ブラックシティに\xfffeいくことに　しちゃった！
 no data
 ありがとう！\xf000븁\x0000\xfffeつぎの　たびは\xfffeたのしくなりそう！
@@ -235,23 +235,23 @@ no data
 グレース『しぜんに　つくられた\xfffeうつくしさ　だけでは\xf000븀\x0000\xfffeものたりないと　おもうこと……\xf000븀\x0000\xfffeあなたには　ない？
 グレース『ブラックシティ……\xfffeまさに　ひとが　うみだす　げいじゅつ\xf000븀\x0000\xfffeこの　めで　みたいものだわ
 グレース『ブラックシティ……\xfffeまさに　ひとのつくる　げいじゅつ\xf000븀\x0000\xfffeこのめで　みてみたいの\xf000븁\x0000\xfffeあなた……\xfffeわたしを　つれていって　くれない？
-はっきりとした　そのこたえ\xfffeそれも　うつくしいわ
+Your direct answer is\xfffealso beautiful.
 あら　なんでしたっけ？\xf000븁\x0000\xfffeそうそう　わたくし\xfffeべつの　ブラックシティに　いくの\xf000븀\x0000\xfffeはなしのとちゅうで　ごめんなさいね
 no data
 ありがとう\xf000븁\x0000\xfffeブラックシティの　うつくしさ\xfffeたのしみだわ
 シュウサク『あっ　ぼくさ\xfffeホワイトフォレストに　ひっこすんだ\xf000븀\x0000\xfffeちょっと　おちつきたいと　おもって
 シュウサク『ブラックシティにも\xfffeいいところは　あるけれど\xf000븀\x0000\xfffeしげきが　ありすぎて　むいてないかも
-シュウサク『ホワイトフォレスト……\xfffeぼく　すごく　きになるな
+Leo: White Forest...\xfffeI'm really interested in it!
 シュウサク『いやしに　うえた　ぼくが\xfffeいきたいのは　ホワイトフォレスト！\xf000븀\x0000\xfffeよかったら　つれていって　くれない？
-えっ！　ダメか……\xfffeきが　かわったら　よろしくね
-あっ　ごめん！\xfffeべつの　ところから　さそわれてたよ
+What! You won't...\xfffeLet me know if you change your mind.
+Oh! Sorry!\xfffeI got an invitation from another place!
 no data
 わっ　ほんとうに？\xf000븁\x0000\xfffeうれしいな！　もりの　めぐみが\xfffeぼくを　まっている！\xf000븀\x0000\xfffeホワイトフォレストで　まってるね！
 ヒロコ『なれた　この\xfffeせいかつを　かえるため\xf000븀\x0000\xfffeホワイトフォレストに　ひっこすの！\xf000븁\x0000\xfffeきれいな　くうきが　たのしみね
 ヒロコ『すみなれた　ばしょを　はなれ\xfffeみしらぬ　ばしょで　しんせいかつ！\xf000븀\x0000\xfffeおんなのこ　なら　あこがれるよね
-ヒロコ『おんなのこなら　だれでも\xfffeだいしぜんに　こい　こがれちゃうわ！
+Silvia: All girls fall in love with\xfffebig, natural places!
 ヒロコ『すみなれた　ばしょを　はなれ\xfffeみしらぬ　ばしょで　しんせいかつ！\xf000븁\x0000\xfffeわたしの　メガネに　うつった　あなた\xfffeホワイトフォレストに　つれていって！
-わたしじゃ　ダメかな？\xfffeつれていって　ほしいなー……
+So, it's not going to work out? I'd sure\xfffelike it if you'd take me along, though...
 ごめんなさい！\xf000븁\x0000\xfffeべつのひとの　おメガネに\xfffeかなっちゃった　みたい
 no data
 わたしの　メガネに\xfffeうつっただけは　あるわね！\xf000븀\x0000\xfffeホワイトフォレストで　まってるわ！
@@ -260,95 +260,95 @@ no data
 タクロウ『そっちの　ホワイトフォレスト\xfffeすげー　かがやいてるな\xf000븀\x0000\xfffeそっちも　みりょくてき　だぜ
 タクロウ『オレは　このブラックシティで\xfffeツッパッて　ツッパッて　ツッパッた\xf000븀\x0000\xfffeここで　おさまる　オトコ　じゃねぇ\xf000븁\x0000\xfffeなあ　オレを　ホワイトフォレストに\xfffeつれていって　くれねーか？
 そうかよ……\xf000븁\x0000\xfffeおまえが　つれていきたくなる　ぐらい\xfffeオトコ　みがくからよ　みといてくれ
-すまねえ　ほかのひとに\xfffeさそわれてたぜ　また　さそってくれよ
+Sorry, I got invited by someone\xfffeelse. Invite me again sometime!
 no data
 かんしゃ　するぜ\xfffeさて　ホワイトフォレストで\xf000븀\x0000\xfffeヘッドに　なっか！
 サトコ『わたし　ホワイトフォレストに\xfffeいくことに　してん！\xf000븁\x0000\xfffeだいしぜんが　わたしを　まっとるげん！
 サトコ『ちゃわちゃわ　してるとこ\xfffeいんぎらぁっと　してるとこ！\xf000븀\x0000\xfffeどっちも　わたしは　すきぞいね！
-サトコ『ホワイトフォレスト……\xfffeあこがれの　マチ　ぞいね！
+Britney: White Forest...\xfffeThat's where I wanna be!
 サトコ『だれか　ホワイトフォレストに\xfffeつれていって　くれんけー\xf000븁\x0000\xfffeほんなら！　あなたが\xfffeわたしを　つれてきまっし！
-なんで　だめなんー？\xfffeじゃー　こんど　つれてきまっし！
-わぁ　ごめんなー\xfffeほかのひとに　さそわれとれんてー！
+Now, whyever not?!\xfffeWell, take me next time, OK?
+Oh, I'm sorry!\xfffeSomeone else done invited me!
 no data
-あんやとー！\xfffeさきに　マチ　いっとるねー！
+Thankee!\xfffeI'll go on ahead to the forest!
 マサオ『あのさ　あのさ！\xfffeホワイトフォレストに　ひっこすんだ！\xf000븁\x0000\xfffeやっぱり　だいしぜんが　ないと\xfffeなんだか　おちつかないよなー！
 マサオ『ブラックシティも\xfffeわるくないけど　たまには\xf000븁\x0000\xfffeホワイトフォレストでも　いいって\xfffeいまは　おもってるなー
 マサオ『あー！　そっちの！\xfffeホワイトフォレスト　おもしろそう\xf000븀\x0000\xfffeいいなー！　いいなー！！
 マサオ『あー！　そっちの！\xfffeホワイトフォレスト　おもしろそう\xf000븁\x0000\xfffeそうだ！　きみさ\xfffeぼくを　つれてって　くれよ！
-えー　だめなの？\xfffeきが　かわったら　たのむよー！
-あー！　ごめん！！\xfffeべつのひとの　ところに　いくんだった！
+Robbie: Aww, why not?\xfffeWell, if you change your mind...
+Oh! I'm sorry!!\xfffeI'm going to someone else's place.
 no data
 ありがとう！\xf000븁\x0000\xfffeさきに　ホワイトフォレストに\xfffeいってるよ　またね！
 ミキ『アタシ　ホワイトフォレストに\xfffeいくことに　したのー\xf000븁\x0000\xfffeちょっと　おっとりの　アタシが\xfffeなじめるか　ふあん　だけどねー
-ミキ『ここは　いごこち　いいけどー\xfffeちょっと　しげきが　つよすぎるのよね
+Miki: It's comfortable here, but\xfffeit's a little too exciting.
 ミキ『ホワイトフォレスト……\xf000븁\x0000\xfffeたのしそうねー　アタシでも\xfffeいけるなら　いってみたいなぁー
 ミキ『ホワイトフォレスト……\xf000븁\x0000\xfffeたのしそうねー　アタシでも\xfffeいけるなら　いってみたいなぁー\xf000븁\x0000\xfffeねぇ　アタシを\xfffeつれていって　くれませんかぁー？
-グスン……\xfffeアタシじゃ　ダメかなぁー？
-わ！　ほかのひとに　さそわれてたの\xfffeごめんなさい
+Sniff...\xfffeDon't you want me to come?
+Oh! I was invited by\xfffesomebody else. I'm sorry.
 no data
 ありがとうー！\xf000븁\x0000\xfffeアタシ　ホワイトフォレストで\xfffeがんばって　みるねー
 タクマ『やあ！　おれさ\xfffeホワイトフォレストに　ひっこすんだ\xf000븁\x0000\xfffeだいしぜんの　なかで　しゅぎょうも\xfffeなかなかな　ものだろ？
 タクマ『セイ！　セイ　セイ……\xfffeどうも　きあいが　はいらないなー\xf000븁\x0000\xfffeしゅぎょう　つづきで\xfffeからだが　つかれてるのかな？
-タクマ『うでだめしも　じゅうぶん\xfffeそろそろ　しゅぎょうが　したいな……
+Ryder: I've tested my abilities enough.\xfffeI want to train soon...
 タクマ『うでだめしも　じゅうぶんだ\xfffeそろそろ　しゅぎょうが　したいな！\xf000븁\x0000\xfffeよかったら　ホワイトフォレストに\xfffeおれを　つれていって　くれないか？
-そうか……　ざんねんだ\xfffeまた　こえを　かけてくれ
-う……　ごめん\xfffeべつのひとに　さそわれていた
+I see... That's too bad.\xfffeTalk to me again sometime.
+Oh... My apologies.\xfffeAnother person invited me.
 no data
 ありがとう！\xfffeばしょは……　わかった！\xf000븁\x0000\xfffeさきに　ホワイトフォレストに\xfffeいっておくよ！
 カレン『うーん……　ファイヤー！！\xf000븁\x0000\xfffeわたし　ホワイトフォレストに\xfffeいくことに　したの！\xf000븁\x0000\xfffeしゅぎょうで　もえるわよー！
 カレン『しょうぶ　しょうぶで\xfffeわたしも　わたしの　ポケモンも\xf000븀\x0000\xfffeつかれちゃった　かも……
-カレン『しょうぶの　せいかを\xfffeものに　するには……　しゅぎょうね！
+Karenna: To get the most\xfffeout of my battling, I must train!
 カレン『しょうぶの　せいかを\xfffeしゅぎょうで　ものに　したいわ！\xf000븁\x0000\xfffeねぇ！　よかったら　なんだけど\xfffeわたしを　ホワイトフォレストに\xf000븀\x0000\xfffeつれていって　くれませんか！
-そんなー……\xfffeつぎは　おねがいしますね！
-うっ！　ごめんなさい！！\xfffeべつのかたの　ところに　いきます
+No way...\xfffeWell, next time then, OK?
+Oh! I'm so sorry!\xfffeI'm going to someone else's place.
 no data
 これで　もっと　つよくなれます！\xfffeありがとうございます！\xf000븁\x0000\xfffeそれでは　ひとあし　おさきに\xfffeホワイトフォレストで　まってますね！
 トモタカ『どうも　どうも！\xfffeこのたび　わたくしは　ですね\xf000븁\x0000\xfffeホワイトフォレストに\xfffeおひっこし　します
 トモタカ『いやー　こんにちは！\xf000븁\x0000\xfffeここは　エキサイティングですが\xfffeつかれが　たまりますね！
 トモタカ『どうも　こんにちは\xf000븁\x0000\xfffeさいきん　しごとが\xfffeはかどらなくて　こまりものです\xf000븁\x0000\xfffeホワイトフォレストなら\xfffeこの　つかれを　とってくれそうです
 トモタカ『どうも　こんにちは\xf000븁\x0000\xfffeさいきん　しごとが　つかれで\xfffeはかどらなくて　こまりものです\xf000븁\x0000\xfffeもし　よかったら　わたくしを\xfffeホワイトフォレストに\xf000븀\x0000\xfffeつれていって　くれませんか？
-うーん　そうですか……\xfffeひが　わるかったって　ことで！
+Oh, I see. Do forgive the presumption.
 わたくしと　したことが！\xfffeもうしわけない！\xf000븀\x0000\xfffeべつのかたの　ところに　いくのでした
 no data
 どうも　ありがとうございます！\xfffeそれでは　わたくしは\xf000븀\x0000\xfffeひとあし　おさきに　むかいます！
 ジュンイチ『やあ　きみか　ぼくはね\xfffeホワイトフォレストで　かがやくよ\xf000븀\x0000\xfffeうつくしいもりが　ぼくを　まってる！
-ジュンイチ『ここでの　せいかつ\xfffeこの　ぼくには　すこし　たいくつかな
+Vincent: Living here is a little\xfffeboring for a guy like me.
 ジュンイチ『ぼくが　おにあいなのは\xfffeそちらの　ホワイトフォレスト\xf000븀\x0000\xfffeじゃないのかな？
 ジュンイチ『ぼくが　おにあいな\xfffeそちらの　ホワイトフォレストに\xf000븁\x0000\xfffeこの　ぼくが　いってあげようかなって\xfffeおもってるのだけど　どうだい？
-うん　うまく　きこえなかった\xfffeあとで　もういちど　きこうかな
+Sorry, I couldn't hear you.\xfffeMaybe I'll ask again later.
 あぁ　すまない！\xfffeこの　ぼくは　にんきものでね\xf000븀\x0000\xfffeもう　よやくずみ　だよ
 no data
 そこまで　きみが　たのむのなら\xfffeしょうがない　この　ぼくが！\xf000븁\x0000\xfffeホワイトフォレストへ\xfffeいってあげよう　じゃないか！
-カズホ『もう　きあいは　じゅうぶん\xfffeホワイトフォレストに　いくわね
-カズホ『だいぶ　くたびれたし\xfffeホワイトフォレストに　もどりたいわ
-カズホ『ホワイトフォレストの\xfffeだいしぜんで　あしを　のばしたいわ
+Marie: I'm full of enough energy now!\xfffeI'm going to White Forest!
+Marie: I'm really tired, and I want\xfffeto go back to White Forest.
+Marie: I'd like to stretch out my\xfffelegs in the spacious White Forest!
 カズホ『ホワイトフォレスト！\xfffeいいわねー　わたしも　いきたいわ\xf000븁\x0000\xfffeそうだ！　あなた　わたしを\xfffeつれていって　くれないかしら
-あら　あなた\xfffeごきげん　ななめ？
-あらあら　ごめんなさい\xfffeほかのひとに　さそわれちゃってるの
+Oh my.\xfffeAre you in a bad mood?
+My oh my. I'm sorry.\xfffeI was invited by someone else.
 no data
-ありがと！\xfffeそれじゃ　おさきに　むかってるわ
-レナ『ホワイトフォレスト……\xfffeわたし　そこに　いくことに　したの
+Thank you! Thank you!\xfffeWell I'll go on ahead then.
+Lena: White Forest...\xfffeI've decided to go there.
 レナ『まちは　しぜんを　こばむ\xfffeそれが　ほんとうに　ただしいの？\xf000븀\x0000\xfffeだから　もりに　きいてみたいの
 レナ『……うん\xf000븁\x0000\xfffeここは　さわがしくて\xfffeこころが　やすまらないわ……
 レナ『……そっちの\xfffeホワイトフォレストにも　いきたいな\xf000븀\x0000\xfffeいっても　いい？
-……そう\xfffeざんねん
-ごめん\xfffeほかのひとに　さそわれたの……
+I see...\xfffeToo bad.
+Sorry.\xfffeI was invited by someone else...
 no data
-ありがとう\xfffeホワイトフォレストで　まってる……
+Thank you.\xfffeI'll be waiting in White Forest...
 カルロス『おー！　ホワイトフォレストへ\xfffeいってみることに　したよ\xf000븀\x0000\xfffeブラブラ　きままな　たびってね！
 カルロス『だいとかいを\xfffeみてると　おもしろいけど\xf000븀\x0000\xfffeやっぱり　しぜんが　こいしくなるよね
 カルロス『バックパッカー　としては\xfffeきれいな　ふうけいが　ある\xf000븀\x0000\xfffeばしょに　いきたい　わけさ！
 カルロス『じゅうぶん　だいとかいを\xfffeあじわったし　もう　いいかなー！\xf000븁\x0000\xfffeきみさ　ホワイトフォレストに\xfffeぼくを　つれていって　くれないかな？
-うーん……　どうしても　ダメかい？\xfffeつれてって　ほしいなー……
-お？　ごめんよ　やっぱり　ぼくは\xfffeべつのひとの　ところへ　いくよ
+Hmmm... Isn't there any way I could go?\xfffeI really want you to take me there...
+Huh? I'm sorry. I'm going to go\xfffeto someone else's place.
 no data
 おー！　サンキューだよ！\xfffeじゃー　ホワイトフォレストへ　おさき！\xf000븀\x0000\xfffeまた　あとでねー！
 ヒロミ『ホワイトフォレストに　いくの！\xf000븁\x0000\xfffeいっかしょに　とどまるより\xfffeいろんな　ところ　みたいしね！
 ヒロミ『そろそろ　べつのところに\xfffeいくことを　かんがえてるの\xf000븀\x0000\xfffeいろんな　ところ　みたいしね！
 ヒロミ『わたし　そろそろ　\xfffeべつのところへ　いきたいなぁ\xf000븀\x0000\xfffeどこか　いいところ　しらない？
 ヒロミ『よし　きめた！\xfffeわたし　ここを　でるわ！\xf000븀\x0000\xfffeそこで　きみに　おねがいなんだけど\xf000븁\x0000\xfffeわたしを　ホワイトフォレストに\xfffeつれていって　くれないかなぁ？
-むー　おねがいしたのにー！\xfffeしょんぼり……
-べつのひとに　さそわれちゃってた……\xfffeごめん　そっちに　いくね
+What? Even though I asked nicely!\xfffeI'm crestfallen...
+I was invited by someone else...\xfffeSorry, but I'm going there.
 no data
 ありがとー！\xfffeすぐに　むかうね\xf000븁\x0000\xfffeまた　ホワイトフォレストで\xfffeよろしくねー！
 ツネカズ『すまないな\xfffeわたしは　ホワイトフォレストに\xf000븀\x0000\xfffeいく　じゅんびを　しているのだ\xf000븀\x0000\xfffeようじなら　ホワイトフォレストでな！
@@ -363,13 +363,13 @@ no data
 シオリ『こんな　くらしも\xfffeあきて　きてしまったわ\xf000븀\x0000\xfffeしばらく　ゆっくり　いやされたいわ
 シオリ『あなたの　ホワイトフォレスト\xf000븁\x0000\xfffeとっても　みりょくてきみたいね\xfffeそっちで　くらしてみたいわ
 シオリ『わたくし\xfffeもう　うんめいのヒトを\xf000븀\x0000\xfffeさがすのには　あきちゃったの\xf000븁\x0000\xfffeあなたの　ホワイトフォレストに\xfffeつれていって　くださらない？
-あら！　わたくしの　たのみを\xfffeことわるなんて　しつれいしちゃう
+My! I can't believe you are so\xffferude as to refuse my request.
 わたくし　きがかわったわ\xf000븁\x0000\xfffeあなたのほかに　ステキなヒトを\xfffeみつけてしまったの……\xf000븀\x0000\xfffeごめんあそばせ
 no data
 れいをいうわ\xf000븁\x0000\xfffeゆっくり　ポケモンとのくらしを\xfffeたのしんでみる
 ヒトシ『ぼかぁ　これから　べつの\xfffeホワイトフォレストに　いくんだ\xf000븀\x0000\xfffeやっぱり　ゆったりぐらしがしたくてね
 ヒトシ『あーあ\xf000븁\x0000\xfffeぶんめいてきな　くらしも\xfffeせかせかして　つかれるなぁ
-ヒトシ『きみの　ホワイトフォレスト\xfffeすごしやすそうで　うらやましい……
+Pierce: Hmmm. Your White Forest seems to\xfffebe a comfortable place. I'm jealous...
 ヒトシ『ぼかぁ\xfffeもう　せかせかした　せいかつに\xf000븀\x0000\xfffeつかれちゃったんだよね\xf000븁\x0000\xfffeちょっと　ゆっくりした\xfffeせいかつ　したいし\xf000븁\x0000\xfffeきみの　ホワイトフォレストに\xfffeつれていって　くれない？
 ざんねん……\xf000븁\x0000\xfffeグッバイ\xfffeあいすべき　いなかせいかつ
 あ！　ゴメン！\xf000븁\x0000\xfffeやっぱり　ちがうホワイトフォレストに\xfffeいくことにしたよ　ソーリー
@@ -379,7 +379,7 @@ no data
 ガクト『うーん\xf000븁\x0000\xfffeちからだめしをする　せいかつにも\xfffeあきてきてしまったな……\xf000븁\x0000\xfffeポケモンと　まいにち　であう\xfffeそんな　せいかつが　したいよ
 ガクト『きみの　ホワイトフォレスト\xf000븁\x0000\xfffeいろんなポケモンと　であえそうで\xfffeみりょくてきだな
 ガクト『トレーナーとしての\xfffeじつりょくを　ためす　せいかつも\xf000븀\x0000\xfffeしげきてきだったが　あきた！\xf000븁\x0000\xfffeポケモンを　ながめて　くらす\xfffeそんな　せいかつが　したくなってきた\xf000븁\x0000\xfffeきみの　ホワイトフォレストに\xfffeつれていって　くれんかね？
-えー！　がっくり……\xfffeまた　つぎのきかいを　まつ！
+Whaaat! That's disappointing...\xfffeI'll wait for the next opportunity!
 ム！　やっぱり　きがかわった\xf000븁\x0000\xfffeほかの　ホワイトフォレストに\xfffeいくことにしたよ　
 no data
 ウホホ！\xf000븁\x0000\xfffeゆったり　ポケモンとの\xfffeであいを　たのしむ　せいかつ\xf000븀\x0000\xfffeたのしみだ！　ありがとう！
@@ -387,7 +387,7 @@ no data
 ユミコ『なんだか\xfffeこうりつを　おいもとめる\xf000븀\x0000\xfffeせいかつに　つかれてきちゃった\xf000븁\x0000\xfffeホワイトフォレストで\xfffeのんびりしたいわ
 ユミコ『そちらの　ホワイトフォレスト\xfffeしぜんがきれいで　リラックスできそう\xf000븀\x0000\xfffeうらやましいわ……
 ユミコ『ホワイトフォレストで\xfffeゆったりとした　じかんを\xf000븀\x0000\xfffeすごして　みたいの\xf000븀\x0000\xfffeつれていって　くれない？
-……あら\xfffeざんねん　だわ
+Oh...\xfffeThat's too bad.
 ごめんなさい\xfffeきもちが　かわって\xf000븁\x0000\xfffeべつの　ホワイトフォレストに\xfffeいくことに　しちゃった
 no data
 ありがとう！\xf000븁\x0000\xfffeホワイトフォレストで\xfffeのんびりと　すごすの　たのしみ！
@@ -395,7 +395,7 @@ no data
 ミホ『さいきん\xfffeじぶんを　かざるのに\xf000븀\x0000\xfffeつかれてきちゃった……\xf000븁\x0000\xfffeホワイトフォレストで\xfffeのんびり　したいわ
 ミホ『そっちの　ホワイトフォレスト\xf000븁\x0000\xfffeかわいい　ポケモン　たくさん\xfffeいそうで　うらやましいな
 ミホ『なんだか\xfffeおかいものして　おしゃれするのも\xf000븀\x0000\xfffeあきて　きちゃった\xf000븁\x0000\xfffeもっと　しぜんたいで　いられる\xfffeホワイトフォレストに　いきたいな\xf000븀\x0000\xfffeつれていって　くれない？
-えー　ケチ！
+What?! Cheapskate.
 うわきしょうな　ワタシ……\xf000븁\x0000\xfffeじつは　ほかのひとの\xfffeホワイトフォレストに　いくことにしたの\xf000븀\x0000\xfffeごめんなさい
 no data
 ありがとう！\xfffeホワイトフォレストで\xf000븁\x0000\xfffeじぶんを　ムリに　かざらない\xfffeそんな　くらしを　するわ
@@ -403,7 +403,7 @@ no data
 トシノブ『ホワイトフォレストで\xfffeひとのめを　きにせずに\xf000븁\x0000\xfffeしぜんたいで　せいかつできたら\xfffeいいなって　さいきんは　おもう
 トシノブ『キミのところの\xfffeホワイトフォレストが　うらやましいよ\xf000븀\x0000\xfffeオレも　いってみたい
 トシノブ『いま　みたいに\xfffeひとの　ひょうかを\xf000븀\x0000\xfffeきにするんじゃなくて\xf000븁\x0000\xfffeありのままの　じぶんで\xfffeくらしたいなって　おもうんだ\xf000븁\x0000\xfffeオレを　ホワイトフォレストに\xfffeつれてって　くれないか？
-キミのまちに　いって\xfffeみたかったから　ざんねんだよ
+Too bad. I wanted to go to\xfffeyour city.
 ごめん　やっぱり\xfffeほかのひとに　ついていくことにしたよ\xf000븀\x0000\xfffeわるいね
 no data
 サンキュー！\xfffeホワイトフォレストに　いったら\xf000븁\x0000\xfffeありのままの　じぶんで\xfffeくらそうと　おもうよ！
@@ -411,7 +411,7 @@ no data
 ソウスケ『あーあ……\xfffeもっと　ひととも　ポケモンとも\xf000븁\x0000\xfffeおたがいに　きもちを　つうじあわせる\xfffeそんな　せいかつが　したいな……
 ソウスケ『キミの\xfffeホワイトフォレストは\xf000븁\x0000\xfffeみんな　おたがいに\xfffeきもちを　つうじあわせてて\xf000븀\x0000\xfffeうらやましいな……
 ソウスケ『さいきん\xfffeじぶんの　きもちを\xf000븀\x0000\xfffeあいてに　つたえるだけじゃなくて\xf000븁\x0000\xfffeもっと　ひととも　ポケモンとも\xfffeおたがいに　きもちをつうじあわせる\xf000븁\x0000\xfffeそんな　せいかつが\xfffeしたいと　おもうんだ\xf000븁\x0000\xfffeキミの　ホワイトフォレストに\xfffeつれていってくれよ
-ええっ……　オレのきもちが\xfffeわかってもらえない　なんて……
+What... I'm shocked you don't\xfffeunderstand my feelings...
 おっと！\xf000븁\x0000\xfffeちょっくら　べつの　ようじで\xfffeいきたいまちが　できちまった\xf000븀\x0000\xfffeごめんよ！
 no data
 うれしいもんだ\xfffeこれで　いろんなひとや　ポケモンと\xf000븁\x0000\xfffeきもちを　つうじあわせる\xfffeせいかつが　できる
@@ -419,15 +419,15 @@ no data
 エリザ『ブラックシティは\xfffeなんでも　てにはいるけど\xf000븀\x0000\xfffeなんだか　ものたりないよね
 エリザ『ホワイトフォレストか\xfffeなんだか　こころがみたされる\xf000븁\x0000\xfffeそんな　せいかつが　できそうで\xfffeうらやましいな
 エリザ『ブラックシティは\xfffeなんでも　てにはいるけど\xf000븀\x0000\xfffeなんだか　ものたりないよね\xf000븁\x0000\xfffeそうだ！　ホワイトフォレストに\xfffeつれていって　くれない？
-あらら……\xfffeざんねん
-やっぱり　きがかわっちゃった\xfffeほかの　ホワイトフォレストに　いくね
+Is that so...\xfffeToo bad...
+I've changed my mind.\xfffeI'm going to a different White Forest.
 no data
 うれしいな\xf000븁\x0000\xfffeホワイトフォレストでの　くらし\xfffeたのしみだよ
 ヒロノリ『ホワイトフォレストで\xfffeチャーンっス！　ビジネスチャンス！\xf000븀\x0000\xfffeバッチリ　かせいじゃうっスよー！
 ヒロノリ『なにか　おもいついても\xfffeだいたい　さきに　やられてるっスねー\xf000븁\x0000\xfffeおかねを　かせぐのは\xfffeらくじゃねーっスよ！
 ヒロノリ『ビッグシティ　ならではの\xfffeビジネスチャンスを　さがしたっスが\xf000븁\x0000\xfffeそんなに　うまい　はなし\xfffeころがってなんか　ないっスねぇ……
 ヒロノリ『チャーンスなんて\xfffeここには　なかったっスよー！\xf000븁\x0000\xfffeあなばの　ビジネス　さがすほうが\xfffeオレの　しょうに　あうっスよ！\xf000븁\x0000\xfffeわるいっスけど　ホワイトフォレストに\xfffeつれていって　くれないっスか？
-ビジネスマンは　にんたいっスから\xfffeつれていってくれるまで　まつっスよ！
+A Clerk ⑭ has to be patient.\xfffeI'll wait until you are ready to take me!
 あっ！　なんか　ほかの\xfffeビジネス　おもいついちゃったっス！\xf000븀\x0000\xfffeごめんっスけど　いくの　やめるっス！
 no data
 やーりぃーっスよ！\xf000븁\x0000\xfffeホワイトフォレストで\xfffeサクセス　しちゃうっスよー！
@@ -435,7 +435,7 @@ no data
 ケン『ブラックシティで\xfffeポケモンしょうぶの　ことばかり\xf000븀\x0000\xfffeかんがえて　いても\xf000븀\x0000\xfffeトレーナーとして　なにかがたりない\xf000븁\x0000\xfffeもっと　ひろい　しやが　もてる\xfffeかんきょうで　すごしたいぜ
 ケン『あんたの　ホワイトフォレスト\xfffeいろいろな　ポケモンが　いるな\xf000븁\x0000\xfffeしやを　ひろげられそうで\xfffeうらやましいぜ
 ケン『トレーナー　として\xfffeもっと　ひろい　しやで\xf000븀\x0000\xfffeポケモンのことを　みつめたいんだ\xf000븁\x0000\xfffeあんたの　まちに\xfffeつれていって　くれないか？
-そうか\xfffeほかを　あたるよ
+Really.\xfffeI'll ask someone else.
 ……やはり　きがかわった\xf000븁\x0000\xfffeべつの　ホワイトフォレストに\xfffeいくことに　したぜ
 no data
 よし！\xfffeホワイトフォレストで\xf000븁\x0000\xfffeトレーナーとしての\xfffeしやを　ひろめてみせる！
@@ -443,39 +443,39 @@ no data
 サトル『フゥ……\xfffeもっと　たような　こたえを\xf000븁\x0000\xfffeみつけられる　かんきょうで\xfffeけんきゅうが　したいな……
 サトル『きみの　ホワイトフォレスト\xfffeじつに　たようせいに　みちていて\xf000븀\x0000\xfffeけんきゅうが　できそうだ
 サトル『きみの　ホワイトフォレスト\xfffeじつに　たようせいに　みちていて\xf000븁\x0000\xfffeぼくの　けんきゅうの\xfffeしげきに　なりそうだ……\xf000븀\x0000\xfffeぼくを　つれていってくれないか？
-きみの　めいかくな　こたえには\xfffeがっかり　させられたよ
+I'm really disappointed by\xfffeyour clear answer!
 ああ　やっぱり\xfffeべつの　ホワイトフォレストに\xf000븀\x0000\xfffeいくことに　したよ\xf000븁\x0000\xfffeそこに　ぼくの　もとめる\xfffeこたえが　ある！
 no data
-おお！\xfffeれいを　いうよ！
+Oh!\xfffeThank you!
 ローザ『これから　あたし\xfffeホワイトフォレストに　いくの\xf000븀\x0000\xfffeまいにちを　だいじにして　すごせそう
 ローザ『ただ　まいにちを\xfffeヒマを　つぶして　いきる……\xf000븁\x0000\xfffeそんなふうで　いいのかしら\xfffeそう　おもうときも　あるの
 ローザ『あなたの　ホワイトフォレスト\xfffeまいにち　じゅうじつ　してそうね……\xf000븀\x0000\xfffeうらやましいわ
 ローザ『わたし　もっと\xfffeまいにちを　だいじにして\xf000븀\x0000\xfffeいきて　いきたいの\xf000븁\x0000\xfffeホワイトフォレストに\xfffeつれていって　くれないかしら？
-あら！\xfffeけちんぼ　ねー
-きが　かわっちゃった\xfffeやっぱり　べつの　まちに　いくわ
+My!\xfffeAren't you the selfish one!
+I've changed my mind.\xfffeI'm going to a different place!
 no data
 いやーん！\xf000븁\x0000\xfffeじゅうじつした　まいにち！\xfffeたのしみだわ！
 ヒロアキ『つぎは\xfffeホワイトフォレストにいくんだ\xf000븀\x0000\xfffeうらやましいだろ！
 ヒロアキ『あーあ\xfffeホワイトフォレストに　いきたいよ\xf000븁\x0000\xfffeわたりあるく　せいかつも\xfffeつかれてきちゃった
 ヒロアキ『ホワイトフォレスト\xfffeくらしやすそうな　もりだな\xf000븀\x0000\xfffeいってみたいよー
 ヒロアキ『ここの　くらしに\xfffeあきてきちゃったんだよね\xf000븁\x0000\xfffeホワイトフォレストに\xfffeつれていって　くんない？
-そっかー　まぁいいよ
-きがかわった！\xfffeちがうまちに　たびだつことにした！
+Fine. Whatever.
+Changed my mind!\xfffeI'm setting off for a different place!
 no data
-よっしゃあ！　ありがとう！\xfffeつぎのたびが　たのしみだ！
+All right! Thanks!\xfffeI'm looking forward to my next trip!
 エミ『これから\xfffeつぎのまちに　たびだつの！\xf000븁\x0000\xfffeホワイトフォレストよ\xfffeたのしそうでしょ
-エミ『あーあ　そろそろ\xfffeつぎのとちに　たびだちたいな
-エミ『ホワイトフォレストっていいな！\xfffeいってみたいな
+Emi: Oh, I want to set off for my\xfffenext destination soon!
+Emi: White Forest sounds nice!\xfffeI'd like to go there!
 エミ『つぎの　たびでは\xfffeもくてきを　きめずに\xf000븀\x0000\xfffeゆったり　したいの\xf000븁\x0000\xfffeホワイトフォレストって　いいじゃない？\xfffeつれていって　くれない？
-えー！　ざんねん……
+What?!\xfffeToo bad...
 うーん　やっぱりやめた！\xf000븁\x0000\xfffeべつの　ホワイトフォレストに\xfffeいくことに　しちゃった！
 no data
-ありがとう！\xfffeつぎの　たびは　たのしくなりそう！
+Thank you!\xf000븁\x0000\xfffeLooks like my next\xfffetrip will be fun!
 グレース『あらたな\xfffeげいじゅつを　もとめて\xf000븀\x0000\xfffeつぎは　ホワイトフォレストに　いくわ
 グレース『ひとが　つくった\xfffeうつくしさ　だけでは\xf000븁\x0000\xfffeものたりないと　おもうこと……\xfffeあなたにはない？
 グレース『ホワイトフォレスト……\xfffeひとには　つくることのできない\xf000븀\x0000\xfffeしぜん　という　なの　げいじゅつ\xf000븀\x0000\xfffe……この　めで　みたいものだわ
 グレース『ホワイトフォレスト……\xfffeひとには　つくることのできない\xf000븀\x0000\xfffeしぜん　というなの　げいじゅつ\xf000븀\x0000\xfffe……この　めで　みてみたいの\xf000븁\x0000\xfffeあなた……\xfffeわたしを　つれていってくれない？
-はっきりとした　そのこたえ\xfffeそれもうつくしいわ
+Your direct answer is\xfffealso beautiful.
 あら　なんでしたっけ？\xf000븁\x0000\xfffeそうそう　わたくし\xfffeべつの　ホワイトフォレストにいくの\xf000븀\x0000\xfffeはなしのとちゅうで　ごめんなさいね
 no data
 ありがとう\xf000븁\x0000\xfffeホワイトフォレストの　うつくしさ\xfffeたのしみだわ

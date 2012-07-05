@@ -19,10 +19,10 @@ Battle Company!\xf000븁\x0000
 の　\xf000Ȁ\x0001\x0000かしょ　ですね！\xf000븁\x0000\xfffeでは　めぐって　めぐって\xfffeヒウンラリー！　レッツ　ゴー！
 なんと！　のこり　０！\xfffe……ということは\xf000븁\x0000\xfffeヒウンラリー　せいは！\xfffeおめでとう　ございます！\xf000븁\x0000\xfffeこれは　ささやかな　ものですが\xfffeきねんひんに　どうぞ！\xf000븁\x0000
 ヒウンシティを　あいする\xfffeひとを　ふやすための　ラリー！\xf000븁\x0000\xfffeですから　さいしょに　きまえよく\xfffeじてんしゃも　プレゼント　したのです\xf000븁\x0000\xfffeこれからも　ヒウンシティを\xfffeあいして　くださいね！\xf000븁\x0000\xfffeヒウン　ヒウン　ヒウンシティ♪\xfffeヒヤ　ウィー　ゴー♪
-Castelia City\xfffeWhere clouds shroud beautifully.
-To Castelia Street\xfffeSightseeing Pier in sea.
-To Mode Street\xfffePrime Pier in sea.
-To Narrow Street\xfffeUnity Pier in sea.
-To the Pokémon Gym\xfffeLiberty Pier in sea.
-すれちがい　ちょうさたい　ほんぶ\xfffe……ひとはあるくから　すれちがう
-Battle Company\xfffeWhere all trainers are welcome!
+Castelia City\xfffeA City of Grandeur
+Ahead: Castelia Street\xfffeOcean Side: Cruise Dock
+Ahead: Mode Street\xfffeOcean Side: Prime Pier
+Ahead: Narrow Street\xfffeOcean Side: Unity Pier
+Ahead: Pokémon Gym\xfffeOcean Side: Liberty Pier
+Passerby Analytics HQ\xfffe...People pass by as they walk along.
+Battle Company\xfffeTalented Trainers Welcome!

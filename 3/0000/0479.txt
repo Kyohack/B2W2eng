@@ -1,9 +1,9 @@
 \xf000Ā\x0001\x0000 booted up the PC.\xf000븁\x0000
-Which PC should \xfffebe accessed?
-Someone’s PC
+Which PC should be accessed?
+Someone's PC
 Amanita's PC
 \xf000Ā\x0001\x0000's PC
-Professor’s PC
+Professor's PC
 Records
 Help
 Switch off
@@ -16,8 +16,8 @@ The Pokémon Storage System\xfffewas accessed.\xf000븁\x0000
 Deposit Pokémon
 Withdraw Pokémon
 Move Pokémon
-Move Items
-No Thanks!
+Move items
+No thanks!
 Battle Box
 Pokémon in your party may be stored\xfffein the storage system's Boxes.
 Pokémon stored in Boxes may be added\xfffeto your party.
@@ -28,8 +28,8 @@ You can register Pokémon you will use in\xfffebattles against other players.
 Accessed \xf000Ā\x0001\x0000's PC.\xf000븁\x0000
 Mailbox
 Log out
-Up to 20 pieces\xfffeof Mail can be stored.
-Log out of\xfffeyour PC.
+Up to 20 pieces of Mail can be stored.
+Log out of your PC.
 First game clear
 Hall of Fame
 Log out

@@ -1,19 +1,19 @@
-この　きは　なんだか　きれそうだ！\xfffeいあいぎりで　きりますか？
-\xf000Ă\x0001\x0000は\xfffeいあいぎりを　つかった！\xf000븁\x0000
-この　きは\xfffeなんだか　きれそうだ！
+This tree looks like it can be\xfffecut down! Would you like to cut it?
+\xf000Ă\x0001\x0000 used Cut!\xf000븁\x0000
+This tree looks like it can be\xfffecut down!
 ポケモンの　わざで　こわせそうだ！\xfffeいわくだきを　つかいますか？
 かたそうな　いわ　だけど……\xfffeポケモンの　わざで　こわせるかも？
 \xf000Ă\x0001\x0000は\xfffeいわくだきを　つかった！\xf000븁\x0000
 おおきな　いわ　だけど……\xfffeポケモンの　わざで　おせるかも？\xf000븁\x0000\xfffeかいりきを　つかいますか？
 \xf000Ă\x0001\x0000は\xfffeかいりきを　はっき　した！\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000の　かいりきの　おかげで\xfffeいわを　おせるように　なった！
-おおきな　いわ　だけど……\xfffeポケモンの　わざで　おせるかも？
-かいりきの　おかげで\xfffeいわを　おして　うごかせる！
-\xf000Ă\x0001\x0000は\xfffeかいりきを　はっき　した！\xf000븁\x0000
-\xf000Ă\x0001\x0000の　かいりきの　おかげで\xfffeいわを　おせるように　なった！
+It's a big boulder, but a Pokémon\xfffemay be able to push it aside.
+Strength made it possible to move\xfffeboulders around.
+\xf000Ă\x0001\x0000 used Strength!\xf000븁\x0000
+\xf000Ă\x0001\x0000's Strength made it\xfffepossible to move boulders around!
 おとした　いわの　うえを\xfffeとおれるように　なった！
-みずは　ふかい　あおに　そまっている\xfffeなみのりを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeなみのりを　つかった！\xf000븁\x0000
-つれあるいている　ときは\xfffeなみのりを　つかえません！
+The water is a deep blue...\xfffeWould you like to surf on it?
+\xf000Ă\x0001\x0000 used Surf!\xf000븁\x0000
+Surf can't be used if you have\xfffesomeone with you.
 ふかい　きりに　おおわれている……\xfffeきりばらいを　つかいますか？
 \xf000Ă\x0001\x0000は\xfffeきりばらいを　つかった！\xf000븁\x0000
 ふかい　きりに　おおわれている……\xfffeポケモンの　わざで　はらえるかも？
@@ -21,14 +21,14 @@
 \xf000Ă\x0001\x0000は\xfffeロッククライムを　つかった！\xf000븁\x0000
 いわはだが　ゴツゴツしている……\xfffeポケモンのわざで　いどうできるかも？
 つれあるいている　ときは\xfffeロッククライムを　つかえません！
-おおきな　たきだ！\xfffeたきのぼりを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeたきのぼりを　つかった！\xf000븁\x0000
-おおきな　おとを　たてて\xfffeみずが　ながれおちている！
+It's a large waterfall.\xfffeWould you like to use Waterfall?
+\xf000Ă\x0001\x0000 used Waterfall!\xf000븁\x0000
+A wall of water is crashing down with\xfffea mighty roar.
 さいごに　やすんだ\xfffe\xf000ą\x0001\x0000に　テレポートする？
-\xf000Ă\x0001\x0000は\xfffeフラッシュを　つかった！\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffeテレポートを　つかった！\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffeあなをほるを　つかった！\xf000븁\x0000
-ふかい　うみだ！\xfffeポケモンの　わざで　もぐれるかも？
-ふかい　うみだ！\xfffeダイビングを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeダイビングを　つかった！\xf000븁\x0000
+\xf000Ă\x0001\x0000 used Flash!\xf000븁\x0000
+\xf000Ă\x0001\x0000 used Teleport!\xf000븁\x0000
+\xf000Ă\x0001\x0000 used Dig!\xf000븁\x0000
+It's a deep part of the sea, but a\xfffePokémon may be able to dive down.
+It's a deep part of the sea.\xfffeWould you like to use Dive?
+\xf000Ă\x0001\x0000 used Dive!\xf000븁\x0000
 ふたりで　いるときは\xfffe\xf000ć\x0001\x0000は　つかえません！

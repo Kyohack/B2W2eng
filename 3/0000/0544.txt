@@ -3,8 +3,8 @@
 で　さきほどの　プラズマだんの\xfffeいっけんが　あったでしょ？\xf000븁\x0000\xfffeこれは　しらべておかないと\xfffeまずい　きが　するんだ\xf000븁\x0000\xfffe……さむいのは\xfffeにがて　なんだけどな\xf000븁\x0000
 で　きみに　これ……\xf000븁\x0000\xfffeひでんマシン　なみのりを　わたすから\xfffeいろんなところを　しらべて　みてよ\xf000븁\x0000\xfffeポケモンに　なみのりを　おしえると\xfffeみずのうえも　すすめるからね\xf000븁\x0000
 あしどめ　して　わるかったね\xf000븁\x0000\xfffeただ　なにか\xfffeおかしなことが　あるかも　しれない\xf000븁\x0000\xfffeきをつけて　たびを　つづけてね！
-こちら　きせつけんきゅうじょ　です\xf000븁\x0000\xfffeフキヨセのさき　ネジやま　では\xfffeきせつによって　ゆきがつもりますよ
-きせつの　えいきょうで\xfffeがいけんが　かわる　ポケモン……\xf000븁\x0000\xfffeこれも　しんかの　いっしゅと\xfffeいえるのでしょうか？
+This is the Season Research Lab.\xf000븁\x0000\xfffeTwist Mountain, just beyond Mistralton,\xfffehas snow, depending on the season.
+Some Pokémon change their appearance\xfffedepending on the season.\xf000븁\x0000\xfffeCould that also be considered\xfffea type of evolution?
 ４つの　きせつの　シキジカが\xfffeどうじに　みられる　けんきゅうじょ！\xf000븁\x0000\xfffeシキジカについてなら\xfffeちょっとした　エキスパート　です\xf000븁\x0000\xfffeどうですか？　われわれが　みつけた\xfffeちょっと　めずらしい　シキジカを\xf000븀\x0000\xfffeあなたも　そだててみませんか？
 はい！\xfffeかわいがって　あげてください！\xf000븁\x0000
 \xf000Ā\x0001\x0000は\xfffeシキジカを　てにいれた！
@@ -12,19 +12,19 @@
 たくさんの　ポケモンを\xfffeつれて　おられるの　ですね！
 そうですか……　ちょっと\xfffeめずらしい　シキジカ　なのですが
 とくせい　てんのめぐみ……\xf000븁\x0000\xfffeなんでも　わざの　ついかこうかが\xfffeはっせいする　かくりつが\xf000븀\x0000\xfffeなんと　２ばいに　なるそうですよ
-きょん！
-きょん！　きょんきょん！
-きょーん！　きょーん！
-きょん……
+Dreee!
+Dreee! Dree dree!
+Dreen! Droooon!
+Droon...
 となりの　ケースの　なかの\xfffeおんどや　しつどを　きかいで\xf000븀\x0000\xfffeコントロールしてるの
 ガラスに　さわると　ほんのりつめたい\xf000븁\x0000\xfffeケースの　なかでは　しょくぶつが\xfffeかわいい　みを　つけてる！
 ガラスに　さわると　とても　つめたい\xf000븁\x0000\xfffeケースの　なかの　しょくぶつは\xfffeはっぱが　ちって　かれている……
 ガラスに　さわると　すこしあたたかい\xf000븁\x0000\xfffeケースの　なかでは　しょくぶつの\xfffeちいさな　めが　でてる！
 ガラスに　さわると　すこし　あつい\xf000븁\x0000\xfffeケースの　なかは　しょくぶつの\xfffeおおきな　はっぱで　いっぱいだ！
-６ばんどうろの　きおん　\xf000ȁ\x0001\x0000ど
-６ばんどうろの　きおん　\xf000ȁ\x0001\x0000ど
-６ばんどうろの　きおん　\xf000ȁ\x0001\x0000ど
-６ばんどうろの　きおん　－\xf000Ȁ\x0001\x0000ど
+Route 6's temperature \xf000ȁ\x0001\x0000 °C
+Route 6's temperature \xf000ȁ\x0001\x0000 °C
+Route 6's temperature \xf000ȁ\x0001\x0000 °C
+Route 6's temperature -\xf000Ȁ\x0001\x0000 °C
 あらあら　あなたの　\xf000ā\x0001\x0000\xfffe「\xf000ć\x0001\x0001」を　おぼえていますね！\xf000븁\x0000\xfffeそんな　あなたに\xfffeポケモン　てんきよほう！
 あらあら　めずらしい！\xfffeあなたの　\xf000ā\x0001\x0000\xf000븁\x0000\xfffe「\xf000Ć\x0001\x0002」の　とくせいを\xfffeおもち　なのですね！\xf000븁\x0000\xfffeそんな　あなたに\xfffeポケモン　てんきよほう！
 ゴホン……！\xf000븁\x0000\xfffe「あまごい」の　わざを　つかったり\xfffe「あめふらし」の　とくせいを　もつ\xf000븁\x0000\xfffeポケモンを　くりだすことで\xfffeあめが　ふりはじめるでしょう

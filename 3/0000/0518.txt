@@ -6,7 +6,7 @@
 ねーねー\xf000븁\x0000\xfffeオレね　１９ばんどうろの　だんさを\xfffeとびおりる　ヤツの　ライバルなんだ！
 ポケモンの　げんきが　ないからさ\xfffeくさむらを　さけて　あるいているよ\xf000븁\x0000\xfffeって　きみ　バッジを　８コも！\xfffeひゃー！　えらそうにして　はずかしい
 トレーナーとの　ポケモンしょうぶは\xfffeにげられない　しんけんしょうぶ！\xf000븁\x0000\xfffeなにより　あいする　ポケモンのまえで\xfffeトレーナーみずから　にげるのはねー
-２ばんどうろ
-２ばんどうろ
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeたたかいに　さんかした　ポケモンは\xfffeけいけんちが　もらえます！\xf000븁\x0000\xfffeポケモンを　どんどん　たたかわせて\xfffeどんどん　つよくしよう！
+Route 2
+Route 2
+Trainer Tips!\xf000븁\x0000\xfffe\xfffePokémon that participate in battle\xfffereceive Exp. Points.\xf000븁\x0000\xfffeHave your Pokémon battle often,\xfffeand make them stronger and stronger!
 かんばんの　うらに\xfffeらくがきが　ある……\xf000븁\x0000\xfffeじんかん\xfffeいたるところ　せいざん　あり\xf000븁\x0000\xfffeおなじく　\xfffeいたるところに　メダルも　あり

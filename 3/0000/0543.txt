@@ -1,5 +1,5 @@
 チェレン『あっ　\xf000Ā\x0001\x0000\xfffeちょっと　つきあってくれるかな\xf000븁\x0000
-こふおおおおーっ！
+Kawbraa!
 ロット『いまの　ポケモンは……！？\xf000븁\x0000
 ろうじん『でんせつの　ポケモン\xfffeコバルオン　じゃな！\xf000븁\x0000\xfffeこないだ　はなしを　しただろ\xf000븁\x0000
 ロット『おお　コバルオン！\xfffeなんと　けだかい　ふんいき\xf000븁\x0000
@@ -12,6 +12,6 @@
 ひとと　ポケモン　だけではない……\xf000븁\x0000\xfffeいきものは　おたがいに　みとめあい\xfffeしんらいしあって　いきていくことが\xf000븀\x0000\xfffeいちばん　なんじゃ……
 でんきいしのほらあなは　いいぞ！\xf000븁\x0000\xfffeここで　であった\xfffeテッシードが　かわいくて　たまらん！
 ちょすいに　かんそうはだ\xf000븁\x0000\xfffeどちらも　みずタイプの　わざや\xfffeあめが　だいすき　なの♪\xf000븁\x0000\xfffeこういう　ポケモンの　とくせいのこと\xfffeヒオウギの　ジムリーダーさんが\xf000븀\x0000\xfffeすごく　くわしいんでしょ？\xf000븁\x0000\xfffeえっ　しりあい　なの？　じゃあ\xfffeライブキャスターで　きけるわね！
-６ばんどうろ
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeバッグの　たいせつなものポケットに\xfffeしまっている　どうぐで\xf000븁\x0000\xfffeしかくの　チェックボックスが\xfffeついている　どうぐは\xf000븁\x0000\xfffeＹボタンで\xfffeとうろく　できます\xf000븁\x0000\xfffeとうろくした　どうぐは\xfffeＹボタンで　かんたんに　えらべます！
-ねんじゅう　きせつの　けんきゅう\xfffeそのなも　きせつ　けんきゅうじょ
+Route 6
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeYou can register certain items with\xfffethe Y Button to use them easily!\xf000븁\x0000\xfffeLook for a square checkbox beside\xfffethe name of a Key Item.
+Researching the Year's Seasons:\xfffeThe Season Research Lab

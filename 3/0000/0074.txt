@@ -3,10 +3,10 @@
 ピエロの　メイクには\xfffeなみだマークが　ついているんですって
 ジェットコースターに　かんらんしゃ！\xfffeどっちから　たのしもうかなー！
 ひろった\xfffeライブキャスターが　なっている！
-\xf000Ā\x0001\x0000は\xfffeライブキャスターを　つなげた\xf000븁\x0000
+\xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
 ひろった\xfffeライブキャスターが　なっている！
-\xf000Ā\x0001\x0000は\xfffeライブキャスターを　つなげた\xf000븁\x0000
-ライモンシティ　ポケモンジム\xfffeリーダー　カミツレ\xf000븀\x0000\xfffeシャイニング　ビューティ
+\xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
+Nimbasa City Pokémon Gym\xfffeLeader: Elesa\xf000븀\x0000\xfffeThe Shining Beauty
 あー　あーああっあー♪\xf000븁\x0000\xfffeはっ　はじめての　デートで\xfffeなにを　はなせば……
 かれったら　ゆうえんち　でも\xfffeギターを　ならしてばかり……\xf000븁\x0000\xfffeステキ！　こころから\xfffeおんがくを　あいしているのね！
 た！　たぶんね！！

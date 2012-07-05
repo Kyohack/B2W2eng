@@ -2,6 +2,6 @@
 こんにちは\xfffe\xf000Ā\x0001\x0000さん　ですね\xf000븁\x0000\xfffeプレゼントを　おあずかり　しています\xfffeこちらを　どうぞ！\xf000븁\x0000
 こんばんは\xfffe\xf000Ā\x0001\x0000さん　ですね\xf000븁\x0000\xfffeプレゼントを　おあずかり　しています\xfffeこちらを　どうぞ！\xf000븁\x0000
 おあずかり　してる　プレゼントは\xfffeもう　ありません\xf000븁\x0000\xfffeまたの　ごりようを\xfffeおまちして　おります
-またの　ごりようを\xfffeおまちしております
-\xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000を　てにいれた！
-\xf000ĉ\x0001\x0000が　いっぱいで\xfffeわたすことが　できません
+We look forward to your next visit.
+\xf000Ā\x0001\x0000 obtained\xfffethe \xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000!
+Another \xf000ĉ\x0001\x0000? You already\xfffehave too many to accept any more.

@@ -57,7 +57,7 @@ Red: ……！
 おれさ　つよい　トレーナーのこと\xfffeすっごく　くわしいのよ！\xf000븁\x0000\xfffeな！　どの　ちほうの\xfffeトレーナーのことが　しりたいんだ？
 どの　トレーナーについて\xfffeしりたいか　きめてくれよ！
 つよい　トレーナーの　ことが\xfffeしりたければ　いつでも　こいよ！
-Quit
+Back
 Unova Region
 Kanto Region
 Johto Region

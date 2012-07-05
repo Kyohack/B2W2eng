@@ -8,8 +8,8 @@
 ひとつが　わかれ♪\xfffeせかいは　ひろがる♪
 くさびで　まざって\xfffeくさびで　わかれて
 しんじつ　りそう\xfffeともに　てをとり　あゆめ♪
-しっちを　あるけば　ビックリした\xfffeやせいの　ポケモンが　でてくるよ！
-しっちが　こおって　ツルツル……\xfffeしっちの　ポケモン　げんきかな？
+If you walk in the wetlands, you might\xfffesurprise wild Pokémon into popping out!
+When the wetlands freeze, it's slippery.\xfffeI wonder how wetland Pokémon manage?
 おまえ　か\xfffeよかったな\xf000븁\x0000\xfffeゲーチスさまは\xfffeもう　なにも　なされない……\xf000븁\x0000\xfffeいや　ただしくは\xfffeもう　なにも　できない……\xf000븁\x0000\xfffeだから　おまえを　ゆるさない\xfffeわたしたちと　たたかえ！
 わたしたちと　たたかえ！
 おまえに　かつ！　それこそが\xfffeあのかたの　うしなわれた　こころを\xf000븀\x0000\xfffeとりもどす　たったひとつの　すべ！\xf000븁\x0000
@@ -21,6 +21,6 @@
 ……どうする\xfffeつづけて　たたかうか？
 われら　ダークトリニティは\xfffeいままでも　いまも　これからも\xf000븀\x0000\xfffeゲーチスさまの　ちゅうじつな　ぶか！\xf000븁\x0000
 そうか……\xf000븁\x0000\xfffeまた　きせつが　かわったとき\xfffeあいて　してやる\xf000븁\x0000
-セッカシティ\xfffeそらに　きらめく　ゆきのはな
-すべての　ポケモンを　あいする\xfffeポケモンだいすきクラブ
+Icirrus City\xfffeSky Glittering with Flowers of Snow
+Fans of Everything Pokémon\xfffeThe Pokémon Fan Club
 セッカシティ\xfffeポケモンジム　あとち

@@ -9,7 +9,7 @@ No. \xf000ȁ\x0001\x0000, \xf000ć\x0001\x0001?\xfffeThat will be $\xf000Ȅ\x000
 No. \xf000ȁ\x0001\x0000, \xf000ć\x0001\x0001?\xfffeThat will be \xf000ȃ\x0001\x0002 BP. OK?
 Here you are!\xfffeThank you!\xf000븅\x0001\x0001\xf000븁\x0000\xfffeYou put away the \xf000ĉ\x0001\x0000\xfffein the \xf000Ē\x0001\x0001 Case.\xf000븁\x0000
 You can't take any more of this item.\xf000븁\x0000
-Cancel
+Back
 $\xf000Ȅ\x0001\x0001
 \xf000ȁ\x0001\x0001 BP
 ---

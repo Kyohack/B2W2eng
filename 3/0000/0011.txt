@@ -1,7 +1,7 @@
-Use the Pokémon in your\xfffeParty or your Battle Box?
-Party
+Please select whether to use your\xfffeparty Pokémon or your Battle Box.
+In party
 Battle Box
-Quit
+Back
 You don't have eligible Pokémon!\xf000븁\x0000
 You have not met the conditions\xfffeto enter the battle!\xf000븁\x0000\xfffePlease prepare three to six different\xfffePokémon and make sure no two\xf000븀\x0000\xfffeare holding the same item.\xf000븁\x0000
 You have not met the conditions\xfffeto enter the battle!\xf000븁\x0000\xfffePlease prepare four to six different\xfffePokémon and make sure no two\xf000븀\x0000\xfffeare holding the same item.\xf000븁\x0000

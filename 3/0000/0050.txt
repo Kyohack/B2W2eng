@@ -1,13 +1,13 @@
-あなたの　おきにいりって\xfffe\xf000ā\x0001\x0000でしょ？
-あなたの　おきにいりって\xfffeタマゴ　なんでしょ？
-でしょ！　でしょ！\xfffeやっぱり　そうだと　おもったんだ！
-えー　あなたの　おきにいりって\xfffe\xf000ā\x0001\x0000じゃ　ないのー！？
-えー　あなたの　おきにいりって\xfffeタマゴじゃ　ないのー！？
-みんなの　おきにいりの\xfffeポケモンが　しりたいの！
+Your favorite is \xf000ā\x0001\x0000, isn't it?
+Your favorite is that Egg, isn't it?
+Yes, I was right! I thought so!
+What? Your favorite isn't \xf000ā\x0001\x0000?!
+...Oh? Your favorite really is that Egg,\xfffeisn't it?
+I want to know\xfffeeveryone's favorite kind of Pokémon!
 マコモさんが\xfffeヒウンシティに　ひっこしてきた！\xf000븁\x0000\xfffeマコモさんは\xfffeポケモントレーナーに　ついて\xf000븀\x0000\xfffeけんきゅう　している　はかせ　だよ！
 たーぶーねー？
-ポケモンの　かいふく？\xfffeオー　ごめんなさーい！\xf000븁\x0000
-アナタ　ジオネット　しってる？
+Wanna recover Pokémon?\xfffeOh, soooooorry!\xf000븁\x0000
+Do you know Geonet?
 アナタ！　ジオネット　つかってるね！\xfffeすごいから　いいこと　おしえるヨ\xf000븁\x0000\xfffeさいしんの　カガクでハ\xfffeとおく　はなれタ　ひととも\xf000븀\x0000\xfffeポケモン　こうかん　できるとヨ！\xf000븁\x0000\xfffe……ダマされたと　おもっテ\xfffeためすネ！　ビックリするヨ！
 オー！　ジオネット　しってる！\xfffeアナタ　すごーい！\xf000븁\x0000\xfffeだけど　アナタ　もっともっと\xfffeすごくなる　ほうほう　おしえるヨ！\xf000븁\x0000\xfffeジオネットを　しらべたラ\xfffeじぶんの　すんでいる　ところを\xf000븀\x0000\xfffeばっちり　とうろく　できるヨ！
 この　ポケモンセンターの\xfffe２かいに　ちきゅうぎ　あるでしょ\xf000븁\x0000\xfffeあれ　ジオネット　って　なまえ\xf000븁\x0000\xfffeあの　ジオネットを　しらべたラ\xfffeじぶんの　すんでいる　ところ\xf000븀\x0000\xfffeばっちり　とうろく　できるヨ！

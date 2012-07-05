@@ -1,23 +1,23 @@
 ボクの　なまえは　ジャッジ！\xf000븁\x0000\xfffeほんとうの　なまえは　ちがうけれど\xfffeみんな　ジャッジって　よんでくれるよ\xf000븁\x0000\xfffeなぜかというと　ボクには\xfffeポケモンの　のうりょくを　みきわめる\xf000븁\x0000\xfffeつまり　ジャッジする\xfffeふしぎな　ちからが　あるからなんだ\xf000븁\x0000\xfffeきみも　よかったら\xfffeのうりょくが　きになる　ポケモンを\xf000븀\x0000\xfffeボクに　ジャッジさせてくださいよ！\xf000븁\x0000
 きみ！　よかったら\xfffeのうりょくが　きになる　ポケモンを\xf000븀\x0000\xfffeボクに　ジャッジさせてくださいよ！\xf000븁\x0000
-……そうですか\xfffeボクの　ジャッジは　いらないですか
-タマゴの　ジャッジですか！？\xfffeそれは　さすがに　むずかしいですね
+...Oh?\xfffeYou don't need me to judge. I get it.
+Judge an Egg?!\xfffeThat's a tall order even for me!
 なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは\xfffeまずまずの　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
 なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは　へいきん　いじょうの\xfffeのうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
 なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは　そうとう\xfffeゆうしゅうな　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
 なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは\xfffeすばらしい　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeＨＰ　でしょうか\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeこうげき　でしょうか\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeぼうぎょ　でしょうか\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeとくこう　でしょうか\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeとくぼう　でしょうか\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeすばやさ　でしょうか\xf000븁\x0000
-それと　こうげきも\xfffeいい　かんじ　ですね\xf000븁\x0000
-なるほど　ぼうぎょも\xfffeいい　かんじ　ですね\xf000븁\x0000
-とくこうも　まけずおとらず\xfffeいい　かんじ　ですね\xf000븁\x0000
-とくぼうも　おなじように\xfffeいい　かんじ　ですね\xf000븁\x0000
-あと　すばやさも\xfffeいい　かんじ　ですね\xf000븁\x0000
-まあまあの　ちからを　もっている\xfffeそんなふうに　ジャッジできました！
-かなりの　ちからを　もっている\xfffeそんなふうに　ジャッジできました！
-すばらしい　ちからを　もっている\xfffeそんなふうに　ジャッジできました！
-さいこうの　ちからを　もっている\xfffeそんなふうに　ジャッジできました！
+Incidentally, I would say the best\xfffepotential lies in its HP.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its Attack stat.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its Defense stat.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its Sp. Atk stat.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its Sp. Def stat.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its Speed stat.\xf000븁\x0000
+And its Attack stat\xfffeis also good.\xf000븁\x0000
+I see. Its Defense stat\xfffeis also good.\xf000븁\x0000
+Its Sp. Atk stat\xfffeis equally good.\xf000븁\x0000
+Its Sp. Def stat\xfffeis good as well.\xf000븁\x0000
+Well, its Speed stat\xfffeis also good.\xf000븁\x0000
+It's rather decent in that regard.\xfffeThat's how I judged it.
+It's very good in that regard.\xfffeThat's how I judged it.
+It's fantastic in that regard.\xfffeThat's how I judged it.
+It can't be better in that regard.\xfffeThat's how I judged it.

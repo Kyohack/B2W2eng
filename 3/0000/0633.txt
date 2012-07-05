@@ -12,18 +12,18 @@
 せいかーい！　では　つづけて\xfffeミジュマルの　おもさは　５．９ｋｇ？
 せいかーい！　さすがね！\xfffeなんだか　うれしいから　これどうぞ！
 ずかんを　ながめると　おもしろいわよ\xf000븁\x0000\xfffeいがいな　ポケモンが　おおきかったり\xfffeイメージより　ちいさかったり　して
-これは　むかし　てにいれた\xfffeモンスターボール　だが\xf000븀\x0000\xfffeきみに　あげようではないか\xf000븁\x0000
+This is a Poké Ball I got in the past.\xfffeI'm going to give it to you.\xf000븁\x0000
 ぜんぶの　ポケモンを\xfffeモンスターボールで　つかまえる\xf000븀\x0000\xfffeそれが　わたしの　こだわり　だよ
-ちちぃ！
-ねえねえ\xfffeポケモンじゃんけん　しようよ！
-なんだ　がっかり……\xfffeつまんないの
-じゃあ　いくよ！\xfffeポケモン　じゃんけん　いっせーの……
+Skree skree!
+Hi, hi!\xfffeLet's play Pokémon rock-paper-scissors!
+Oh, that's no fun!
+Here goes!\xfffePokémon rock-paper-scissors...
 あなたが　ほのおで\xfffeあたしは　くさ……\xf000븁\x0000\xfffeくさタイプは\xfffeほのおタイプに　よわい……\xf000븀\x0000\xfffeということで　あたしの　まけね
 あなたが　ほのおで\xfffeあたしは　みず……\xf000븁\x0000\xfffeほのおタイプは\xfffeみずタイプに　よわい！\xf000븀\x0000\xfffeということで　あたしの　かち！
 あなたが　みずで\xfffeあたしは　ほのお……\xf000븁\x0000\xfffeほのおタイプは\xfffeみずタイプに　よわい……\xf000븀\x0000\xfffeということで　あたしの　まけね
 あなたが　みずで\xfffeあたしは　くさ……\xf000븁\x0000\xfffeみずタイプは\xfffeくさタイプに　よわい！\xf000븀\x0000\xfffeということで　あたしの　かち！
 あなたが　くさで\xfffeあたしは　みず……\xf000븁\x0000\xfffeみずタイプは\xfffeくさタイプに　よわい……\xf000븀\x0000\xfffeということで　あたしの　まけね
 あなたが　くさで\xfffeあたしは　ほのお……\xf000븁\x0000\xfffeくさタイプは\xfffeほのおタイプに　よわい！\xf000븀\x0000\xfffeということで　あたしの　かち！
-ほのお
-くさ
-みず
+FIRE
+GRASS
+WATER

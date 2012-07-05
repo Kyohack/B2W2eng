@@ -1,8 +1,8 @@
 こんにちは！\xfffeユナイテッドタワーへ　ようこそ！\xf000븁\x0000\xfffeうえの　フロアに\xfffeいどう　なさいますか？
-それでは\xfffeエレベータへ　どうぞ\xf000븁\x0000
-また　おこしくださいね
+Indeed.\xfffePlease step inside the elevator.\xf000븁\x0000
+Please come again.
 ここは　ユナイテッドタワー\xf000븁\x0000\xfffeうみも　くにも　こえた　ばしょから\xfffeせかいじゅうの　トレーナーが\xf000븀\x0000\xfffeつどう　ばしょ\xf000븁\x0000\xfffeいける　フロアは\xfffeおきゃくさま　しだい！\xf000븁\x0000\xfffeせかいじゅうに　しりあいが　おおいほど\xfffeいろんな　フロアに　いけるでしょう\xf000븁\x0000\xfffeどうぞ　こころゆくまで\xfffeおたのしみ　ください！
-いまは　\xf000ȁ\x0001\x000bにんの　おきゃくさんが\xfffeユナイテッドタワーに　きているよ
+Right now, the number of visitors in\xfffeUnity Tower is \xf000ȁ\x0001\x000b.
 へぇ！　きみの　しゅみは\xfffe\xf000ď\x0001\x0006　なんだね！
 すげー！\xfffeてんじょう　たっけーーー！\xf000븀\x0000\xfffeぼくの　しんちょう　なんにんぶんかな？
 ユナイテッドタワーに　くると\xfffeいつも　こうふん　するよ！\xf000븁\x0000\xfffeせかいは　ほんとうに　ひろい！\xfffeそれを　じっかん　できるんだ！
@@ -12,8 +12,8 @@
 ほう！\xfffeきみは　トレーナーなのか\xf000븁\x0000\xfffeそうか　おやもとを　はなれて\xfffeたびを　しているんだな\xf000븀\x0000\xfffe……まぁ　なんだ\xf000븁\x0000\xfffeたまに　れんらくでも\xfffeすると　いいんじゃないか\xf000븁\x0000\xfffeほい\xfffeとおって　いいぞ\xf000븁\x0000
 きみか\xf000븁\x0000\xfffeふぬ……　きみは　こうかんするのが\xfffeすきなのか？\xf000븁\x0000\xfffe……いいんじゃないか\xfffeわかものらしく　かっぱつで\xf000븀\x0000\xfffeほい　とおって　いいぞ\xf000븁\x0000
 って　きみか\xf000븁\x0000\xfffeきみは　よく　くるようだが\xfffeせかいじゅうに\xf000븀\x0000\xfffeしりあいが　いるのかい？\xf000븁\x0000\xfffeおじさんの　わかいころじゃ\xfffeかんがえられん　せかいだな\xf000븁\x0000\xfffeほい\xfffeとおって　いいぞ\xf000븁\x0000
-きみか　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeさいきん　きみを　さがしにくる\xfffeトレーナーが　おおいんだよ\xf000븀\x0000\xfffeなんだ　アイドル　みたいじゃないか\xf000븁\x0000\xfffeだが　おじさんもな\xfffeきみの　としごろには\xf000븀\x0000\xfffeおんなのこに　キャーキャー\xf000븀\x0000\xfffeいわれてたんだぞ　はっは\xf000븁\x0000\xfffe……ほい\xfffeとおって　いいぞ\xf000븁\x0000
-って　きみか　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeさいきんじゃ　きみ　みたいな\xfffeグローバルな　トレーナーが\xf000븀\x0000\xfffeおおい　みたいだな\xf000븁\x0000\xfffeそうすると　なんだ\xfffeせかいへいわも　そう　とおくはない\xf000븀\x0000\xfffeそう　おもっても　いいのか？\xf000븁\x0000\xfffeほい\xfffeまぁ　とおってくれ\xf000븁\x0000
+Oh, it's you, \xf000Ā\x0001\x0003!\xf000븁\x0000\xfffeLately, lots of Trainers have been\xfffelooking for you.\xf000븀\x0000\xfffeYou're just like a movie star, aren't ya?\xf000븁\x0000\xfffeWhen I was your age, the ladies\xfffeused to get worked up over me. Ha ha.\xf000븁\x0000\xfffe'Kay, you can pass.\xf000븁\x0000
+Hey, it's you, \xf000Ā\x0001\x0003!\xf000븁\x0000\xfffeRecently, it looks like there have been\xfffelots of global Trainers like you.\xf000븁\x0000\xfffeThat means--how do I put it--world peace\xfffecan't be far off!\xf000븀\x0000\xfffeShould I get my hopes up?\xf000븁\x0000\xfffe'Kay, pass on through!\xf000븁\x0000
 きみか　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeきみが　ここに　くるように　なってから\xfffeユナイテッドタワーは　だいぶ\xf000븀\x0000\xfffeいそがしくなってきた　きがするよ\xf000븁\x0000\xfffeおじさんとしちゃ\xfffeしごとが　ふえるんだが\xf000븀\x0000\xfffeまぁ　うれしい　ひめいって　やつだな\xf000븀\x0000\xfffeがんばれよ\xf000븁\x0000
 お　\xf000Ā\x0001\x0003か\xf000븁\x0000\xfffeまた　さらに　おおくの　ところと\xfffeこうかん　したのか！\xf000븁\x0000\xfffeこりゃあ　たいした　もんだ！\xfffeそんじゃあ　ポケモンずかんも　もう\xf000븀\x0000\xfffeだいぶ　うまったんじゃないか？\xf000븁\x0000\xfffe……いやあ　たいしたもんだ\xfffeほい　まぁ　とおってくれ\xf000븁\x0000
 お　\xf000Ā\x0001\x0003　きみか\xf000븁\x0000\xfffeきょうも　きみ　めあての　きゃくで\xfffeユナイテッドタワーは　にぎわっとるよ\xf000븀\x0000\xfffeまぁ　ゆっくりしていくと　いい\xf000븁\x0000
@@ -23,21 +23,21 @@
 おおっ！\xfffeきみか　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeいちおう　セキュリティチェックするぞ\xf000븁\x0000\xfffe……　……\xfffe……　……\xf000븁\x0000\xfffeこ……　これは……\xf000븁\x0000\xfffeガムっ……！！\xf000븁\x0000\xfffeみたことない　やつだ！\xfffeしんさく　かい？\xf000븀\x0000\xfffeこんど　おじさんも　かってみようかな\xf000븁\x0000\xfffeほい\xfffeとおっていいよ\xf000븁\x0000
 おおっ　きみか　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeあと　もう　ひといきで\xfffeすべての　ところと\xf000븀\x0000\xfffeこうかん　するんじゃないか？\xf000븁\x0000\xfffeきみ　みたいな　こどもたちが\xfffeこれからの　せかいを\xf000븀\x0000\xfffeうごかして　いくんだろうな\xf000븀\x0000\xfffeこころづよいよ　ほんとに\xf000븁\x0000\xfffeあとちょっとだ　がんばれよ！\xf000븁\x0000\xfffeほいっ\xfffeとおっていいよ\xf000븁\x0000
 きみだな　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeきいたよ\xf000븁\x0000\xfffeついに　すべての　ところの　ひとと\xfffeこうかん　したそうじゃないか？\xf000븁\x0000\xfffeこころなしか\xfffeこの　ユナイテッドタワー\xf000븀\x0000\xfffeきみがくると　くうきが　はずむんだよ\xf000븀\x0000\xfffeきっと　よろこんでいるんだな\xf000븁\x0000\xfffeなぁ　\xf000Ā\x0001\x0003くん\xfffeユナイテッドタワーの　ばんにんとして\xf000븀\x0000\xfffeれいを　いわせてくれ\xf000븁\x0000\xfffeこんな　へきちにある　ビルを\xfffeこんなにも　にぎやかに　してくれて\xf000븀\x0000\xfffeありがとう\xf000븁\x0000\xfffeまぁ　とおって　くれ\xf000븁\x0000\xfffeそして　じぶんの　にわだと　おもって\xfffeじゆうに　うごきまわってくれ\xf000븁\x0000
-いきさきの　フロアを　えらんでください\xf000븁\x0000
-そこの　キミ！\xfffeちょっと　こっちへ　きなさい\xf000븁\x0000
-あまり　ウロチョロして\xfffeわるさ　するんじゃないぞ
+Please select a floor.\xf000븁\x0000
+Hey, you over there!\xfffeCome here for a second.\xf000븁\x0000
+Don't just loiter around\xfffeand cause trouble.
 はしゃぎすぎて　ころんだり\xfffeしないようにな\xf000븁\x0000\xfffeきゃくに　ケガされると\xfffeおじさん　こまっちゃうから
 ……まぁ　なんだ\xf000븁\x0000\xfffeたまに　れんらくでも\xfffeすると　いいんじゃないか\xf000븀\x0000\xfffeおやも　よろこぶぞ　きっと
 いいんじゃないか\xfffeわかものらしく　かっぱつで\xf000븀\x0000\xfffeがんばれよ
 きみは　せかいじゅうに\xfffeしりあいが　いるのかい？\xf000븁\x0000\xfffeおじさんの　わかいころじゃ\xfffeかんがえられん　せかいだな
-おじさんも　きみの　としごろには\xfffeおんなのこに　キャーキャー\xf000븀\x0000\xfffeいわれてたんだぞ　はっは
-さいきんじゃ　きみ　みたいな\xfffeグローバルな　トレーナーが\xf000븀\x0000\xfffeおおい　みたいだな
+When I was your age, the ladies\xfffeused to get worked up over me. Ha ha!
+Recently, it looks like there have been\xfffelots of global Trainers like you.
 きみが　ここに\xfffeくるように　なってから\xf000븁\x0000\xfffeユナイテッドタワーは　だいぶ\xfffeいそがしくなってきた　きがするよ\xf000븀\x0000\xfffeがんばれよ
 ポケモンずかんも　もう\xfffeだいぶ　うまったんじゃないか？\xf000븀\x0000\xfffeいやあ　たいしたもんだ
 きょうも　きみ　めあての　きゃくで\xfffeユナイテッドタワーは　にぎわっとるよ\xf000븁\x0000\xfffeまぁ　ゆっくりしていくと　いい
 きみは　いったい　どうやって\xfffeそんなに　おおくの　ところと\xf000븀\x0000\xfffeこうかん　しているんだ？
 それだけ　こうかんしていると\xfffeせかいじゅうに　しりあいが\xf000븀\x0000\xfffeいるんじゃないのか？\xf000븁\x0000\xfffeはっは　きみは　りょこうに　いっても\xfffeしりあいには　こまらないな
 ガードマンをしつづけて　３０ねんかん\xfffeきょうも　いじょう　なし\xf000븀\x0000\xfffeんんっ　いいことだ！
-しんさくの　ガム\xfffeこんど　おじさんも　かってみようかな
+I think I'll try buying that new gum\xfffenext time.
 きっと　みらいは\xfffeきぼうに　みちあふれて　いるんだな\xf000븁\x0000\xfffeきみを　みていると　しぜんと\xfffeそういう　きもちに　なれるよ
 きみが　くると\xfffeユナイテッドタワーが　にぎやかになる\xf000븁\x0000\xfffeじぶんの　にわだと　おもって\xfffeじゆうに　うごきまわってくれ

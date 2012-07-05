@@ -1,10 +1,10 @@
-じどう　はんばいき　がある！\xfffeほしい　のみもの　は……
-\xf000ĉ\x0001\x0000が　でてきた！\xf000븁\x0000
-あたりだ！　もういっぽん\xfffe\xf000ĉ\x0001\x0000が　でてきた！\xf000븁\x0000
-Not enough money！
-……やっぱり　やめた！
-Want to buy another one？
-おいしいみず\xf000봃\x0001\x0001２００円
-サイコソーダ\xf000봃\x0001\x0001３００円
-ミックスオレ\xf000봃\x0001\x0001３５０円
+It's a vending machine.\xfffeWhich drink would you like?
+A \xf000ĉ\x0001\x0000 dropped down!\xf000븁\x0000
+Bonus! Another \xf000ĉ\x0001\x0000\xfffedropped down.\xf000븁\x0000
+Not enough money...
+Decided not to buy a drink.
+Would you like to buy another one?
+Fresh Water\xf000봃\x0001\x0001$200
+Soda Pop\xf000봃\x0001\x0001$300
+Lemonade\xf000봃\x0001\x0001$350
 Back

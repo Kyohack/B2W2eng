@@ -9,16 +9,16 @@
 ミジュマルね！\xfffeじゃあ　これを　あげる！\xf000븁\x0000\xfffeポケモンに　もたせると　みずタイプの\xfffeわざの　いりょくが　あがるんだ！\xf000븁\x0000
 ポカブね！\xfffeじゃあ　これを　あげる！\xf000븁\x0000\xfffeポケモンに　もたせると　ほのおタイプの\xfffeわざの　いりょくが　あがるんだ！\xf000븁\x0000
 ポケモンに　もたせることで\xfffeこうかを　はっきする　どうぐって\xf000븀\x0000\xfffeたっくさん　あるから　さがしてみて！\xf000븁\x0000\xfffeじゃあ　がんばって　ポケモンずかんの\xfffeページを　うめていってね！
-ツタージャ
-ミジュマル
-ポカブ
-やめる
-ツタージャなの？
-ミジュマルなの？
-ポカブなの？
-じゃあ　さいしょに　えらんだ\xfffeポケモンは　なーにー？
-おしえてくれる　きになったら\xfffeまた　はなしかけてね！
+Snivy
+Oshawott
+Tepig
+Back
+Do you have Snivy?
+Do you have Oshawott?
+Do you have Tepig?
+Then, what is the Pokémon you chose\xfffeat the beginning of your journey?
+If you want to tell me, please speak\xfffeto me!
 レッツ　トライ　ヒウンラリー！\xfffeバトルカンパニー　オーケー！！
 バトルカンパニーは　ポケモンと\xfffeトレーナーのための　どうぐを\xf000븀\x0000\xfffeいろいろ　かいはつ　してるー！
-ここは　バトルカンパニー\xfffeどうぐの　けんきゅうかいはつ！
-えの　すみっこに\xfffeアーティの　サインが　しるされている
+This is Battle Company.\xfffeResearch and Development of Items!
+Burgh's signature is scrawled in the\xfffecorner of the painting.

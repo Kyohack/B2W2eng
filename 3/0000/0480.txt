@@ -1,6 +1,6 @@
 これは　あなたの\xfffeポケモンの　みた　ゆめが\xf000븀\x0000\xfffeげんじつに　なった　カケラ　です\xf000븁\x0000\xfffeおわたし　します\xf000븁\x0000
 こんかいの　ゆめの　カケラは\xfffeすべて　おわたし　しました\xf000븁\x0000\xfffeまた　ポケモンが　ゆめを　みたら\xfffeここに　くると　いいでしょう
-また　ポケモンが　ゆめを　みたら\xfffeここに　くると　いいでしょう
+When your Pokémon has another dream,\xfffecome back and see me again.
 \xf000Ā\x0001\x0000は\xfffeどうぐを　うけとった！
 ……「\xf000ĉ\x0001\x0000」が\xfffeバッグに　いっぱいの　ようですね\xf000븁\x0000\xfffe「\xf000ĉ\x0001\x0000」を　へらしたら\xfffeのこりの　カケラを　わたしましょう\xf000븁\x0000
- ×　\xf000Ȁ\x0001\x0000
+ x \xf000Ȁ\x0001\x0000

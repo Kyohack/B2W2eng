@@ -10,25 +10,25 @@
 さいきんの　たのしみは\xfffeポケモンワールドトーナメント　さ！
 れんしゅうは　ほんばんの　ように！\xfffeほんばんは　れんしゅうの　ようにな！
 あたし　イッシュの　はしを\xfffeぜ～んぶ　わたるんです！\xf000븁\x0000\xfffeサザナミからの　マリンチューブ！\xfffeうーん！　たのしみたのしみ！！
-タンボ『ピー　ピィー\xfffeピピピの　ピー……
+Derleth: Fweet fweet...\xfffeFweeeeeet fweet fweet...
 タンボ『こころに　しみいるは\xfffeさみしい　ねいろ\xf000븁\x0000\xfffeフトコロに　しみるは\xfffeつめてぇ　よかぜ　ってね
-タンボ『ピ……　ピ……\xfffeプィー　プィイイーー
+Derleth: Fwee... Fwee...\xfffeFffweeet fweet...
 タンボ『くちに　するのは\xfffeこの　ねいろと\xf000븁\x0000\xfffeうまく　いかねえ　まいにちへの\xfffeぐち　ばかり　ってね\xf000븁\x0000\xfffeそんな　やつらの　ふきだまりが\xfffeこの　はしさ
 ソン『どうだい！　このおと！\xfffeきみの　たましい（ハート）に\xf000븀\x0000\xfffeひびいて　こないかい！
 ソン『しってるさ　おれの　サウンドは\xfffeこの　とかい（まち）には　にあわねえ\xf000븁\x0000\xfffeだけど　おれは……\xfffeじぶんの　じんせい（スタイル）を\xf000븀\x0000\xfffeかえる　ことは　できないのさ
 ソン『こいつは\xfffeだいじな　ともだち（あいぼう）さ\xf000븁\x0000\xfffeおれの　なみだ（かなしみ）を\xfffeすべて　しってるのさ
 ソン『きみ……\xfffeいい　ひかり（め）を　もってる\xf000븁\x0000\xfffeおれたちの　きぼう（ゆめ）を\xfffeかわりに　かなえて　くれるかい\xf000븁\x0000\xfffeつかめよ！　えいこう（せかい）を！
-ガッチー『ドッ　ツッ　ドッ　プス
+Russo: La la la la la...
 ガッチー『ぺっ　ぺっ！\xf000븁\x0000\xfffeきょうは　ちょうし　わりいだ\xfffeマイクが　こわれてんだべー\xf000븁\x0000\xfffeおらの　テク\xfffeこんなもんじゃ　ねんだけどなー
-ガッチー『だべっ　だべっ
+Russo: Testing...\xfffeCheck one, check two, check, check, yup.
 ガッチー『こったら　たのしそうに\xfffeきーで　くれたのは\xf000븁\x0000\xfffeながーい　じんせいで\xfffeおまえさんが　はずめてだべー\xf000븀\x0000\xfffeあんがとよ……
 れいぞう『おじさん……\xfffeうたが　いきがい　なのよね\xf000븁\x0000\xfffeおじさんの　たましい\xfffeきいて　くれる？
 れいぞう『ハれ？　もういくの？\xf000븁\x0000\xfffeおじさんは　いつでも\xfffeここに　いるからね
-れいぞう『やっぱり　おじさんの\xfffeうたが　ききたいのか！　そうか！
+Koontz: Oh, you want to listen to my song\xfffeafter all! Yes!
 れいぞう『おじさんの　うたは……\xf000븁\x0000\xfffeきらい　かい？
 どこからか　きこえる　かなしいような\xfffeどこか　マヌケな　ねいろ……\xf000븀\x0000\xfffeもしかしたら　ゆうれい　なのかも？
 どこからか　きこえる　かなしいような\xfffeどこか　マヌケな　ねいろ……\xf000븀\x0000\xfffeもしかしたら　ゆうれい　なのかも？\xf000븁\x0000\xfffeえっ？\xfffeおんなのこが　いた……\xf000븁\x0000\xfffeそっか！　そういうことね！\xfffeありがと！　これは　おれいよ！\xf000븁\x0000
 ひとの　ひみつは　まもらないと\xfffeじぶんの　ひみつが　もれちゃうもの
 みちを　きこうと　はなしかけたら\xfffeポケモントレーナー　でしたよ！\xf000븀\x0000\xfffeあなたも　きをつけなさいよ
-ここは　ビレッジブリッジ
-ビレッジブリッジ\xfffeめいぶつ　ビレッジサンド
+Village Bridge
+Village Bridge Restaurant\xfffeVillage Sandwiches are our specialty!

@@ -1,16 +1,16 @@
 ほんじつ　ロイヤルイッシュごう　には\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　いて\xf000븀\x0000\xfffeあなたは　\xf000Ȁ\x0001\x0004にんに　かっていますね\xf000븁\x0000\xfffeふねは　しゅっこうちゅう　ですが\xfffeそれでも　おりますか？
 ほんじつ　ロイヤルイッシュごう　には\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　います\xf000븁\x0000\xfffeふねは　しゅっこうちゅう　ですが\xfffeそれでも　おりますか？
-でっかい　ふねに　たくさんの　へや！\xfffeトレーナーさがしに　こまっている\xf000븁\x0000\xfffeそんな　キミに　ヒントを　あげたい！\xfffeおじさんの　ヒントを　きくかい？
+There are a lot of cabins in this big ship!\xfffeI would like to give you advice 'cause\xf000븀\x0000\xfffeyou need help finding Trainers!\xf000븁\x0000\xfffeDo you want to listen to my hint?
 きてきが　なるまで\xfffeはなしに　むちゅうに　なってしまう\xf000븁\x0000\xfffeせんしつの　なかには\xfffeそんな　おきゃくさんも　いるよ！
-このさきは　ロイヤルイッシュごう\xfffeじまんの　てんぼうフロアに　なります
-きょうは　あおいろの　ドアの　へやに\xfffeトレーナーは\xf000븀\x0000\xfffeひとりしか　いない　みたいだよ
-きょうは　あおいろの　ドアの　へやに\xfffeトレーナーが\xf000븀\x0000\xfffe\xf000Ȁ\x0001\x0002にん　いる　みたいだよ
-うみの　うえを　はしっている！\xfffeそんな　ふしぎな　ことが　できてしまう
-てんぼうフロアに　いくか\xfffeせんしつで　トレーナーと　たたかうか\xf000븀\x0000\xfffeどっちが　いいか　まよってるんだ
-なみの　うごきに　あわせて\xfffeはしってるんだけどさ\xf000븀\x0000\xfffeなかなか　むずかしいね！
-ふねの　うえで　しょうぶを　したり\xfffeかんぱんで　けしきを　みたり……\xf000븀\x0000\xfffeさいこう　だね　このふねは！
+The Royal Unova's renowned observation\xfffedeck is just ahead.
+If you’re looking in the cabins with\xfffeblue doors for someone to battle,\xf000븀\x0000\xfffeyou’ll find only one Trainer there today.
+It seems the number of Trainers in the\xfffecabins with blue doors today is \xf000Ȁ\x0001\x0002.
+It's running on the ocean!\xfffeWhat a peculiar thing to see!
+I can't make up my mind whether to go to\xfffethe observation deck or battle some\xf000븀\x0000\xfffeTrainers in the cabins.
+I'm running with the rhythm of the waves,\xfffebut it's a real challenge!
+Having battles on the ship and seeing\xfffethe scenery from the deck...\xf000븀\x0000\xfffeThis ship is the best!
 どの　へやに　はいるか\xfffeずっと　まよっているんだ！
-ジョウトから　しごとで　きたけど\xfffeここは　なにもかも　ダイナミックだな
+I came here from Johto for business,\xfffebut everything is dynamic here.
 おおっ！　いいところに　きた！\xfffeはなしあいてが　ほしかったんだ！\xf000븁\x0000\xfffeおれは　ジョウトちほう　から\xfffeしゅっちょうで　きてるんだけどさ\xf000븁\x0000\xfffeこっちの　ひとって　クールっていうか\xfffeとかいてきな　かんじじゃない？\xf000븁\x0000\xfffeそのせいか　きんちょうしちゃって\xfffeともだちを　つくれなくてね\xf000븁\x0000\xfffeきょうだって\xfffeせっかくの　やすみだってのに\xf000븀\x0000\xfffeひとりさみしく　ふねのうえさ\xf000븁\x0000\xfffe……そうだ！\xf000븁\x0000\xfffeおれに　イッシュりゅうの　ともだちの\xfffeつくりかたを　おしえてくれよ！\xf000븁\x0000\xfffeなっ　たのむよ！\xfffe……いそがしいって？\xf000븀\x0000\xfffeそこを　なんとか　おねがいだから！\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffe……いやー　ひさしぶりに　ひとと\xfffeたくさん　はなせたよ　ありがとうな！\xf000븁\x0000
 あぁ！　きてきが　なってる！\xf000븁\x0000\xfffeいそがしいところ　わるかった！\xfffeトレーナー　みつかると　いいな\xf000븁\x0000\xfffeおれは　おまえに　きいた　ほうほうで\xfffeこっちでの　ともだちを　みつけるよ
 おやすみちゅうでも　きぎょうせんしは\xfffeりんせんたいせい　さ！　いくぞっ！\xf000븁\x0000
@@ -55,14 +55,14 @@
 きてきが　なんかい　なっても\xfffeいいじゃないか！\xf000븁\x0000\xfffeさびしいんだ！\xfffeいかないでくれよ！
 ごめんなさい！　この　おへやは\xfffeせいそうちゅう　なの……\xf000븁\x0000\xfffeあらっ！？\xfffeあなた　トレーナーね！\xf000븁\x0000\xfffeふふっ　おねえさんと　こっそり\xfffeポケモンしょうぶ　しましょ！\xf000븁\x0000
 さぼって　しょうぶ　したことは\xfffeふたりだけの　ヒミツよ！
-きょうはねー……\xf000븁\x0000\xfffeふねの　ひだりがわには　\xf000Ȁ\x0001\x0000にん\xfffeふねの　みぎがわには　\xf000Ȁ\x0001\x0001にん　いるよ
-きょうはねー……\xf000븁\x0000\xfffeふねの　ひだりがわには……　いないね\xfffeふねの　みぎがわには　\xf000Ȁ\x0001\x0001にん　いるよ
-きょうはねー……\xf000븁\x0000\xfffeふねの　ひだりがわには　\xf000Ȁ\x0001\x0000にん　いて\xfffeふねの　みぎがわには……　いないね
-また　きが　むいたら　はなしかけてよ\xfffeおじさんが　いつでも　ヒント　だすよ
+Today...\xf000븁\x0000\xfffeAs for people, we have \xf000Ȁ\x0001\x0000 on the\xfffeport side and \xf000Ȁ\x0001\x0001 on the starboard side.
+Today...\xf000븁\x0000\xfffeThe number of people on the starboard\xfffeside is \xf000Ȁ\x0001\x0001, and...none on the port side.
+Today...\xf000븁\x0000\xfffeThe number of people on the port side is\xfffe\xf000Ȁ\x0001\x0000, and...none on the starboard side.
+If you're so inclined, speak to me.\xfffeI will give you a hint anytime.
 トレーナーさがしの　ヒント\xfffeききたいかい？
-かしこまりました\xfffeそのまま　おまち　くださいませ\xf000븁\x0000
-かしこまりました\xfffeひきつづき　おたのしみ　くださいませ
-ふねの　なかの　トレーナー\xfffeすべてに　しょうりした！
-ロイヤルイッシュごうの\xfffeごじょうせん　ありがとうございます\xf000븁\x0000\xfffeほんじつの　ロイヤルイッシュごうには\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　います\xf000븀\x0000\xfffeごゆっくり　おたのしみ　くださいませ\xf000븁\x0000
-ほんじつの　ロイヤルイッシュごうには\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　います\xf000븀\x0000\xfffeあなたは……　おめでとうございます！\xf000븁\x0000\xfffeすべての　トレーナーに\xfffeしょうり　なされたのですね！\xf000븁\x0000\xfffeふねは　しゅっこうちゅう　ですが\xfffeふねから　おおりに　なられますか？
+Certainly. Just a moment, please.\xf000븁\x0000
+Certainly.\xfffePlease continue to have a great time!
+Won against every Trainer on the ship!
+Thank you very much for sailing with us\xfffeon the Royal Unova.\xf000븁\x0000\xfffeThe number of Trainers aboard the\xfffeRoyal Unova today is \xf000Ȁ\x0001\x0003.\xf000븀\x0000\xfffePlease enjoy the trip.\xf000븁\x0000
+The number of Trainers aboard the\xfffeRoyal Unova today is \xf000Ȁ\x0001\x0003.\xf000븀\x0000\xfffeYou... Congratulations!\xf000븁\x0000\xfffeYou've won against every Trainer\xfffeon the ship!\xf000븁\x0000\xfffeThe ship is nearing the port.\xfffeWould you like to get off the ship?
 ごじょうせん　ありがとうございました\xf000븁\x0000\xfffeこの　ゆうらんせんは　まもなく\xfffeヒウンシティに　とうちゃくいたします\xf000븁\x0000

@@ -9,12 +9,12 @@ Fennel『あら　アナタも\xfffeレポートを　おくってくれたの�
 Shouro: Want\xfffeto hear something from me?
 Box
 Battle Box
-Palpad
+Pal Pad
 Back
 １つの　ボックスには　つかまえた\xfffeポケモンを　３０ぴき　あずけられます\xf000븁\x0000\xfffeさいしょは　８こしか　ない\xfffeボックスですが　あずければ\xf000븀\x0000\xfffeどんどん　ふえていきますよ！
 バトルボックスには\xfffeたいせんで　よくつかう　ポケモンを\xf000븀\x0000\xfffe１～６ひき　とうろく　しておけます\xf000븁\x0000\xfffeせきがいせんで　たいせん　するときは\xfffeバトルボックスに　とうろく　した\xf000븀\x0000\xfffeポケモンでも　しょうぶ　できるの！\xf000븁\x0000\xfffeポケモンを　いれかえなくて　べんりよ
 ともだちてちょうに\xfffeともだちを　とうろく　するには\xf000븁\x0000\xfffeバッグの　たいせつなものの　なかの\xfffeともだちてちょうを　つかって\xf000븀\x0000\xfffeともだちから　おそわった　コードを\xf000븀\x0000\xfffeちょくせつ　にゅうりょくするか\xf000븁\x0000\xfffeＣギアの　ＩＲつうしんを　つかえば\xfffeばっちり　とうろく　できます！
-I used the boxes for capturing\xfffePokémon more quickly!
+Catch a lot of Pokémon,\xfffeand use the Box a lot!
 Ah! There's an unused\xfffebox that was left there?\xf000븁\x0000\xfffeThere's an Eevee that was\xfffeleft there for a long time!\xf000븀\x0000\xfffeWhat to do?
 An acquaintance from the\xfffeKanto Region left an Eevee!\xf000븁\x0000
 \xf000Ā\x0001\x0000 \xffferecieved an Eevee!
@@ -25,7 +25,7 @@ Ah! つれている\xfffeポケモンが　いっぱい　ですね\xf000븁\x00
 I serve as an assistant\xfffeunder Professor Fennel.\xf000븁\x0000
 What dream experiment would\xfffeyou like to hear?
 Game Sync
-Pokémon's Dream
+Pokémon Dreams
 Back
 Game Sync is...\xf000븁\x0000\xfffeポケモンを　ねむらせて\xfffeきおくを　とりだすことで\xf000븁\x0000\xfffeＷｉ－Ｆｉコネクションを　つうじて\xfffeせかいじゅうの　トレーナーの\xf000븀\x0000\xfffeレポートを　あつめる　システム\xf000븁\x0000\xfffeＣギアの　がめんに　ある\xfffeＷｉ－Ｆｉを　タッチして　あらわれます\xf000븀\x0000\xfffe\xf000\xff00\x0001\x0001ゲームシンク\xf000\xff00\x0001\x0000という　ボタンで\xf000븁\x0000\xfffeねむらせる　ポケモンを　えらび\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeレポートを　おくることが　できます\xf000븁\x0000\xfffeねむらせることの　できる\xfffeポケモンは　けんきゅうの　けっか\xf000븀\x0000\xfffeしだいに　ふえていく　よてい　です\xf000븁\x0000
 ポケモンのゆめ　とは……\xf000븁\x0000\xfffeねむらせた　ポケモンは\xfffeねている　あいだに　ゆめをみます\xf000븁\x0000\xfffeゲームシンクで　ねむらせた\xfffeポケモンを　おこすと\xf000븀\x0000\xfffeその　あいだに　みた　ゆめは\xf000븁\x0000\xfffeイッシュちほうの　ちゅうしんに　ある\xfffe\xf000\xff00\x0001\x0001ハイリンク\xf000\xff00\x0001\x0000という　くうかんで\xf000븀\x0000\xfffeげんじつと　なっている　ようです\xf000븁\x0000

@@ -2,13 +2,13 @@
 こんにちは\xfffe\xf000Ā\x0001\x0000さん　ですね\xf000븁\x0000\xfffeふしぎな　おくりものを\xfffeおあずかり　しています\xf000븁\x0000\xfffeこちらを　どうぞ！\xf000븁\x0000
 こんばんは\xfffe\xf000Ā\x0001\x0000さん　ですね\xf000븁\x0000\xfffeふしぎな　おくりものを\xfffeおあずかり　しています\xf000븁\x0000\xfffeこちらを　どうぞ！\xf000븁\x0000
 おあずかり　している\xfffeおくりものは　もう　ありません\xf000븁\x0000\xfffeまたの　ごりようを\xfffeおまちして　おります
-またの　ごりようを\xfffeおまちしております
-\xf000Ā\x0001\x0000は\xfffe\xf000ā\x0001\x0001を　うけとった！
-てもちポケモンが　いっぱいで\xfffeわたすことが　できません
-\xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000を　てにいれた！
-\xf000ĉ\x0001\x0000が　いっぱいで\xfffeわたすことが　できません
-\xf000Ā\x0001\x0000は\xfffe\xf000Đ\x0001\x0001を　おぼえた！
-\xf000Ā\x0001\x0000は　すでに\xfffe\xf000Đ\x0001\x0001を　おぼえている！
-\xf000Ā\x0001\x0000は\xfffeポケモンのタマゴを　てにいれた！
+We look forward to your next visit.
+\xf000Ā\x0001\x0000 received\xfffe\xf000ā\x0001\x0001!
+Your party is full. Please make room\xfffeto receive the gift.
+\xf000Ā\x0001\x0000 obtained\xfffethe \xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000!
+Another \xf000ĉ\x0001\x0000? You already\xfffehave too many to accept any more.
+\xf000Ā\x0001\x0000 received\xfffe\xf000Đ\x0001\x0001!
+\xf000Ā\x0001\x0000 already\xfffeknows \xf000Đ\x0001\x0001.
+\xf000Ā\x0001\x0000 obtained\xfffea Pokémon Egg!
 『\xf000ŀ\x0001\x0001』が\xfffeフェスミッションに　ついか　された！
 『\xf000ŀ\x0001\x0001』は\xfffeすでに　ついか　されている！

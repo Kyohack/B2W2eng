@@ -30,14 +30,14 @@ Which test result would you like to see?
 Communicating... Don't turn off the\xfffepower. Press the B Button to cancel.
 Challenge
 Info
-Cancel
+Back
 Single
 Double
 Download
 Normal
 Special
-SINGLE BATTLE
-DOUBLE BATTLE
+Single Battle
+Double Battle
 TEST RESULT
 POINTS
 \xf000ȃ\x0001\x0000
