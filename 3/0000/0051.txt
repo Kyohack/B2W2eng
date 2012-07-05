@@ -305,7 +305,7 @@ Let's get started.\xfffeThis questionnaire...\xf000븁\x0000\xfffeis about\xfffe
 『アナタは　まほうが　つかえたら\xfffeどんなことを　したい？』
 “What is your favorite school subject?"
 『アナタは　ポケモンを\xfffeどれくらい　あそんでる？』
-
+“What would you want to become?"
 『アナタが　すきな\xfffeポケモンの　タイプは？』
 “What is your favorite Pokémon type?"
 “What's most important to you?"
