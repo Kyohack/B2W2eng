@@ -1,11 +1,11 @@
-Hello, and welcome to\xfffethe Pokémon Center.\xf000嘗\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
-Good morning! Welcome to\xfffethe Pokémon Center.\xf000嘗\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
-Hello, and welcome to\xfffethe Pokémon Center.\xf000嘗\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
+Hello, and welcome to\xfffethe Pokémon Center.\xf000븀\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
+Good morning! Welcome to\xfffethe Pokémon Center.\xf000븀\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
+Hello, and welcome to\xfffethe Pokémon Center.\xf000븀\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
 Welcome to the Pokémon Center.\xf000븁\x0000\xfffeHey! Is today your birthday?
 Happy birthday!\xf000븁\x0000\xfffePlease keep visiting the Pokémon Center\xfffefor many years to come.\xf000븁\x0000\xfffeNow, would you like to rest\xfffeyour Pokémon?
 It isn't? Oh, I must have been confused.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
 OK, I'll take your Pokémon for\xfffea few seconds.
-Thank you for waiting.\xf000嘗\x0000\xfffeWe've restored your Pokémon\xfffeto full health.\xf000븁\x0000
+Thank you for waiting.\xf000븀\x0000\xfffeWe've restored your Pokémon\xfffeto full health.\xf000븁\x0000
 We hope to see you again!
 Hello, and welcome to\xfffethe Pokémon Center.\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to...\xf000븁\x0000
 Th-that Trainer Card!\xfffeThat wonderful shade! That sparkle!\xf000븁\x0000\xfffeI've seen several Trainers with\xfffeSilver Trainer Cards already...\xf000븁\x0000\xfffeBut you're the first to top them all with\xfffethat impressive Trainer Card.\xf000븁\x0000\xfffeOh, \xf000Ā\x0001\x0000, may I please heal\xfffeyour Pokémon?
