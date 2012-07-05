@@ -1,4 +1,4 @@
-Professor Juniper went ahead\xfffeto the Celestial Tower\xf000븁\x0000\xfffeat Route 7\xfffefor her research.\xf000븁\x0000\xfffeIf you happened to get lost,\xffferead the road signs!
+Professor Juniper went ahead\xfffeto the Celestial Tower\xf000븀\x0000\xfffeat Route 7 for her research.\xf000븁\x0000\xfffeIf you happened to get lost,\xffferead the road signs!
 Professor seems to\xfffebe finished with her research here.\xf000븁\x0000\xfffeThat means\xfffeit's time to fly!
 Hee hee...\xfffeLet's fly together!
 Understood!\xfffeLet me know when you are ready.
@@ -8,7 +8,7 @@ Skyla,\xfffetake us to Yamaji Town!\xf000븁\x0000
 Bel: Huff... Huff...\xf000븁\x0000\xfffeWait... Wait for me...\xfffeI want to fly too.\xf000븁\x0000\xfffeI... I have research to do\xfffeat Rebirth Mountain...\xf000븁\x0000
 Juniper: Oh my! Bel,\xfffeyou are just like a researcher!\xf000븁\x0000\xfffeEverybody, \xfffelet's go to Yamaji Town together!!\xf000븁\x0000
 Skyla: Hee hee!\xfffeAre you ready!?\xf000븁\x0000\xfffeWell then...\xfffeLet's fly!!\xf000븁\x0000
-こんにちは！\xf000븁\x0000\xfffeすばやく　たくさん　おとどけ！\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000\xfffeひとも　のせますけど　そちらは\xfffeジムリーダー　しだい　なんです
+Hello!\xf000븁\x0000\xfffeQuickly delivering a lot！\xfffeMistralton Cargo Service!\xf000븁\x0000\xfffeWe would also fly people if the\xfffeGym Leader would allow it...
 すばやく　たくさん　おとどけ！\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000\xfffeひこうきに　のって\xfffeヤマジタウンに　いかれますか？
 わかりました！　それでは\xfffeフウロさんに　れんらく　しますので\xf000븀\x0000\xfffeひこうきに　のって　おまちください\xf000븁\x0000
 はい！\xfffeいつでも　ごりよう　ください！
@@ -21,22 +21,22 @@ Back
 わざ「そらをとぶ」の　いきさきは\xfffeいちど　いった　ポケモンセンターだよ
 ひこうきの　こうぞうを　しらないと\xfffeせいびは　できないだろ？\xf000븁\x0000\xfffeポケモンしょうぶも　おなじさ\xfffeポケモンに　くわしいほど　かてるだろ
 Hey, you!\xf000븁\x0000\xfffeDo you have any Flying or Psychic\xfffePokémon with you?\xf000븁\x0000
-Ah!\xfffe\xf000ā\x0001\x0000が　いるね\xf000븁\x0000\xfffeCould you help me\xfffeget my luggage? It's stuck!\xf000븁\x0000
+Ah!\xfffe You have a \xf000ā\x0001\x0000, eh?\xf000븁\x0000\xfffeCould you help me\xfffeget my luggage? It's stuck!\xf000븁\x0000
 Thank you!\xfffeI'll give you a reward!\xf000븁\x0000
-Pokémon really do save lives,\xfffedon't they?
-I see...\xf000븁\x0000\xfffeひこうポケモンや　エスパーポケモンに\xfffeてつだって　もらいたかったなー
+Pokemon really do save lives,\xfffedon't they?
+I see...\xf000븁\x0000\xfffeDarn, I wanted to help those types...
 Chulululuwa!
-What!? You don't have the\xf000븁\x0000\xfffe『Ace Pilot』\xfffemedal!?\xf000븁\x0000\xfffeI see... We pilots\xfffeare yearning for that medal.\xf000븀\x0000\xfffeI was almost certain that you would have it.
+What!? You don't have the\xfffe『Ace Pilot』medal!?\xf000븁\x0000\xfffeI see... We pilots\xfffeare yearning for that medal.\xf000븀\x0000\xfffeI was almost certain that you would have it.
 If you ever receive the\xfffe『Ace Pilot』 medal,\xf000븀\x0000\xfffeplease show it to me!
 You... You!\xf000븁\x0000\xfffethe『Ace Pilot』medal.\xfffeYou have it, don't you!?\xf000븁\x0000\xfffeTh- This is...\xf000븁\x0000\xfffethe 『Ace Pilot』 medal\xfffethat everyone wants!\xf000븀\x0000\xfffeSo cool...\xf000븁\x0000\xfffePlease let me take a look!\xfffeThank you so much!
 『エースパイロット』……\xfffeあまい　ひびき　だ……\xf000븁\x0000\xfffeそらを　じゆうに　とびまわった\xfffeキミの　ポケモンに　カンパイ！\xf000븁\x0000\xfffeぼくも　ひこうきの\xfffeそうじゅう　がんばるぞー！
-Welcome to the sky city, Mistralton!\xfffeTake this as a keepsake!\xf000븁\x0000
+Welcome to the Sky City, Mistralton!\xfffeTake this as a keepsake!\xf000븁\x0000
 するどいくちばし　という　どうぐを\xfffeポケモンに　もたせてあげると\xf000븁\x0000\xfffeひこうタイプの　わざの\xfffeいりょくが　アップ　するのよ！
 スイーツ　ラブリー　ハートスイーツ♪\xfffeしらべる　ふたりの　フィーリング\xf000븁\x0000\xfffeあいしょう　バツグンなら\xfffeたっぷり　どっさり　もらえるの♪\xf000븀\x0000\xfffeとっても　あまくて　とろけるの♪\xf000븁\x0000
 あら？　あなた\xfffeハートスイーツ　もってるのね！\xf000븁\x0000\xfffeハートスイーツ　１０まいと　わたしの\xfffeハートのウロコを　こうかんしない？
 なんだか　きょうは\xfffeとくべつ　きぶん！\xf000븁\x0000\xfffeあなたの　ハートスイーツ　５まいと\xfffeハートのウロコを　こうかんしない？
 ハートスイーツを\xfffeたくさん　もってきてくれたら\xf000븀\x0000\xfffeいいものと　こうかんしまーす
-Yaaaay!\xfffeI have a lot of your heart!\xf000븁\x0000
+Yaaaay!\xfffeI've captured your heart!\xf000븁\x0000
 あれれ？　ざんねん\xfffeすっごく　ざんねん！\xf000븁\x0000\xfffeあなたの　ハートのウロコ\xfffeもう　いっぱい　なのね
 OK...\xfffeAww...that's too bad.
 ハートスイーツを　わたして\xfffeかわりに　ハートのウロコを　もらった\xf000븁\x0000
