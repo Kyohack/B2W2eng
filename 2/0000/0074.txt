@@ -63,7 +63,7 @@ DOWSING MCHN
 XTRANSCEIVER
 GYM BADGES
 READY BUTTON
-FRIDAY BOX
+MEDAL BOX
 TRANSFER POKÉMON WITH POKÉ TRANSFER
 CATCH POKÉMON WITH POKÉ TRANSFER
 When you are playing, press the X Button\xfffeto open the menu and save often.\xfffe\xfffeOnce saved, you can select “CONTINUE"\xfffefrom the main menu to continue playing\xfffethe game from that location even if you've\xfffeturned off your Nintendo DS since.
