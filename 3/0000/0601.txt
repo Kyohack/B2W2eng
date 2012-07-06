@@ -1,7 +1,7 @@
 Bianca: Hey!\xfffeOver here!\xf000븁\x0000
 Bianca: Hey, hey!\xfffeOver here!\xf000븁\x0000
 Bianca: I still remember when I learned\xfffeabout all of this on Route 1.\xf000븁\x0000
-Yeeaah!　I'll explain it\xfffein details!\xf000븁\x0000\xfffeThe Pokédex's pages update automatically\xfffewhenever you meet a Pokémon!\xf000븁\x0000\xfffeMoreover, it's set up so that\xfffeyou obtain even more information\xf000븀\x0000\xfffewhen you catch a Pokémon!\xf000븁\x0000\xfffeTo make this clear, I'm going to\xfffedemonstrate how to catch a Pokémon!\xf000븁\x0000
+Okay, let's get started!\xfffeAn explanation should help.\xf000븁\x0000\xfffeThe Pokédex's pages update automatically\xfffewhenever you meet a Pokémon!\xf000븁\x0000\xfffeMoreover, it's set up so that\xfffeyou obtain even more information\xf000븀\x0000\xfffewhen you catch a Pokémon!\xf000븁\x0000\xfffeTo make this clear, I'm going to\xfffedemonstrate how to catch a Pokémon!\xf000븁\x0000
 Bianca: Did you see that,\xfffejust now?\xf000븁\x0000\xfffeHere's how it goes, step by step.\xfffeFirst, reduce the Pokémon's HP!\xf000븁\x0000\xfffePokémon that still have all of\xfffetheir energy are difficult to catch.\xf000븁\x0000\xfffeIf you can, use your Pokémon's moves to\xfffemake the Pokémon you want to catch\xf000븀\x0000\xfffefall asleep. Or paralyze it!\xf000븁\x0000
 You have to go give that\xfffeTown Map to your friend!\xf000븁\x0000
 You can follow this path\xfffestraight to Sangi Town.\xf000븁\x0000
@@ -17,11 +17,11 @@ From up here......\xf000븁\x0000\xfffeJump!!\xf000븁\x0000
 There!　Jumping off these ledges\xfffeis like a shortcut!
 Bianca: Hey!\xf000븁\x0000
 Bianca: Hey, hey!\xf000븁\x0000
-ごめんね！\xf000븁\x0000\xfffeあなたに　たくした　ポケモンずかん\xfffeパワーアップしておくの　わすれてたよ\xf000븁\x0000\xfffeそのなも　せいそくちリスト！\xfffeこれ　すごいんだよ\xf000븀\x0000\xfffeちょっと　ずかんを　かりるね！\xf000븁\x0000
+I'm sorry! I forgot to\xfffedo something for you.\xf000븁\x0000\xfffeThere's another new feature to the\xfffePokédex forgot to enable.\xf000븁\x0000\xfffeIt's called the Habitat List!\xfffeThis new feature of the Pokédex\xf000븀\x0000\xfffeis really something else!\xf000븁\x0000
 \xf000Ā\x0001\x0000's Pokédex has\xfffebeen upgraded!
-せいそくちリストは　ばしょ　ごとに　\xfffeどんな　ポケモンが　いるのか\xf000븁\x0000\xfffeたしかめることが　できる\xfffeポケモンずかんの　モード　なんだよ！\xf000븁\x0000
-つかいかたは　ずかんを　ひらいて\xfffeがめん　ひだりしたの\xf000븀\x0000\xfffe「せいそくち」の　ところに　タッチ！\xf000븀\x0000\xfffeつぎに　みたい　ばしょを　えらんでね\xf000븁\x0000\xfffeその　ばしょに　せいそく　する\xfffeポケモンを　すべて　みたり\xf000븀\x0000\xfffeつかまえたら　おしえてくれるよ！\xf000븁\x0000\xfffeもういちど\xfffeつかいかたの　せつめいを　きく？
-ポケモンずかんを　うめることは\xfffeきみの　せかいを　ひろげること！\xf000븁\x0000\xfffeだから　いろんな　ばしょに　いって\xfffeいろんな　ポケモンに　であってね！\xf000븁\x0000\xfffeじゃあねえ\xf000븁\x0000
+The Habitat List shows a list of\xfffePokémon in each area!\xf000븁\x0000\xfffeWith this new mode, you can check if\xfffeyou've caught every Pokémon there.\xf000븁\x0000
+To fill the Pokédex is to expand\xfffeyour view of the world!\xf000븁\x0000\xfffeMake sure to go lots of new places and\xfffemeet many new Pokémon to fill it up!\xf000븁\x0000\xfffeSee you around!\xf000븁\x0000
+To use it, just open up the\xfffePokédex, and on the lower left\xf000븀\x0000\xfffeside touch the 「Habitat」 button!\xf000븀\x0000\xfffeThen just chose the location you want!\xf000븁\x0000\xfffeMoreso, it'll even show when you've\xfffeseen and also caught all the\xf000븀\x0000\xfffePokémon in the area!\xf000븁\x0000\xfffeDid you get all that?\xfffeWant me to explain it again?
 What am I doing?　I'm searching for\xfffePokémon in the grass!\xf000븁\x0000\xfffeYeah!　Stay of out the grass if\xfffeyou want to avoid Pokémon!
 \xf000Ā\x0001\x0000!\xf000븁\x0000
 すまぬ！　だいじなことを\xfffeつたえるのを　わすれておった！\xf000븁\x0000\xfffeまずは　これを　うけとれい！\xf000븁\x0000
