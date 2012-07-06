@@ -9,4 +9,4 @@ RANKING
 CANCEL
 BACK
 FEELING CHECK
-シーンが　ずれました\xfffeさきへ　すすみます
+You wish to continue and\xfffethe scene has changed.
