@@ -18,7 +18,7 @@ ID No.
 Exp. Points
 \xf000Ȇ\x0001\x0000
 To Next Lv.
-Mark
+
 \xf000ȅ\x0001\x0000
 ???
 TRAINER MEMO
