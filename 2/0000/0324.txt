@@ -1,34 +1,34 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
-あいての　どうぐに　ちゅうもく！
-じぶんのポケモンを　いれかえろ！\xfffe
-あいてを　いれかえろ！\xfffeセリフのせんたくが　じゅうよう！
-じぶんのポケモンを　いれかえろ！\xfffe
-ぎせいを　おそれるな！\xfffeあいての　どうぐに　ちゅうもく！
-あいての　じゃくてんを　つけ！
-あいての　じゃくてんを　つけ！
-あいての　じゃくてんを　つけ！
-いっきに　きめろ！
-いっきに　きめろ！
+SCENARIO
+CUT 01
+CUT 02
+CUT 03
+CUT 04
+CUT 05
+CUT 06
+CUT 07
+CUT 08
+CUT 09
+CUT 10
+CUT 11
+CUT 12
+CUT 13
+CUT 14
+CUT 15
+CUT 16
+CUT 17
+CUT 18
+CUT 19
+CUT 20
+Pay attention to the foe's item!
+Switch your Pokémon!\xfffe
+Change places with your foe!\xfffeChoose your lines wisely!
+Switch your Pokémon!\xfffe
+Don't fear sacrifices!\xfffePay attention to the foe's item!
+Exploit the foe's weakness!
+Exploit the foe's weakness!
+Exploit the foe's weakness!
+Finish it immediately!
+Finish it immediately!
 None
 None
 None

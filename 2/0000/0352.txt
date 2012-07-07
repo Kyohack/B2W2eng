@@ -1,42 +1,42 @@
-Screenplay
-Cut　０１
-Cut　０２
-Cut　０３
-Cut　０４
-Cut　０５
-Cut　０６
-Cut　０７
-Cut　０８
-Cut　０９
-Cut　１０
-Cut　１１
-Cut　１２
-Cut　１３
-Cut　１４
-Cut　１５
-Cut　１６
-Cut　１７
-Cut　１８
-Cut　１９
-Cut　２０
-あいての　とくせいを　かえろ！
-セリフのせんたくが　じゅうよう！\xfffeあいてを　こうげきしろ！！
-あいてを　こうげきしろ！！
-セリフのせんたくが　じゅうよう！\xfffeあいてを　こうげきしろ！！
-あいてを　こうげきしろ！！
-セリフのせんたくが　じゅうよう！\xfffeあいてを　こうげきしろ！！
-あいてを　こうげきしろ！！
-セリフのせんたくが　じゅうよう！\xfffeあいてを　こうげきしろ！！
-セリフのせんたくが　じゅうよう！\xfffeいっきに　きめろ！
-いっきに　きめろ！
-No
-No
-No
-No
-No
-No
-No
-No
-No
-No
-no
+SCENARIO
+CUT 01
+CUT 02
+CUT 03
+CUT 04
+CUT 05
+CUT 06
+CUT 07
+CUT 08
+CUT 09
+CUT 10
+CUT 11
+CUT 12
+CUT 13
+CUT 14
+CUT 15
+CUT 16
+CUT 17
+CUT 18
+CUT 19
+CUT 20
+Change the foe's ability!
+Choose your lines wisely!\xfffeAttack the foe!!
+Attack the foe!!
+Choose your lines wisely!\xfffeAttack the foe!!
+Attack the foe!!
+Choose your lines wisely!\xfffeAttack the foe!!
+Attack the foe!!
+Choose your lines wisely!\xfffeAttack the foe!!
+Choose your lines wisely!\xfffeFinish it immediately!
+Finish it immediately!
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

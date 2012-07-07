@@ -1,27 +1,27 @@
-Screenplay
-Cut 01
-Cut 02
-Cut 03
-Cut 04
-Cut 05
-Cut 06
-Cut 07
-Cut 08
-Cut 09
-Cut 10
-Cut 11
-Cut 12
-Cut 13
-Cut 14
-Cut 15
-Cut 16
-Cut 17
-Cut 18
-Cut 19
-Cut 20
-Love Type with Weaknesses!\xfffeWhat Crucial Word Choice!
-Love Type with Weaknesses!\xfffeWhat Crucial Word Choice!
-Love Type with Weaknesses!
+SCENARIO
+CUT 01
+CUT 02
+CUT 03
+CUT 04
+CUT 05
+CUT 06
+CUT 07
+CUT 08
+CUT 09
+CUT 10
+CUT 11
+CUT 12
+CUT 13
+CUT 14
+CUT 15
+CUT 16
+CUT 17
+CUT 18
+CUT 19
+CUT 20
+Use the Dark-type's weakness!\xfffeChoose your lines wisely!
+Use the Dark-type's weakness!\xfffeChoose your lines wisely!
+Use the Dark-type's weakness!
 None
 None
 None
