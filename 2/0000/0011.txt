@@ -79,3 +79,85 @@ Action IDと並びを同一にするための\xfffeDummy Messageです
 \xf000Ā\x0001\x0000さんは\xfffeジョインアベニューで\xfffeかいものを　しています
 \xf000Ā\x0001\x0000さんは\xfffe\xf000ą\x0001\x0001の　エリア\xf000ȁ\x0001\x0002に\xfffeちょうせんちゅうです
 \xf000Ā\x0001\x0000さんは\xfffe\xf000ą\x0001\x0001の　エリア\xf000ȁ\x0001\x0002を\xfffeクリアしました！
+
+\ Xf000ȁ \ x0001 \ x0000 Ppl.
+Total: \ xf000Ȅ \ x0001 \ x0000
+Who will you thank?
+Will you use \ xf000đ \ x0001 \ x0001? \ Xfffe \ xf000Ȃ \ x0001 \ x0002 needed / \ xf000Ȃ \ x0001 \ x0003 held
+Use the \ xf000đ \ x0001 \ x0001 \ xfffethat \ xf000Ā \ x0001 \ x0000 activated?
+Special Pass Power activated! \ XfffeDo you want to use \ xfffe \ xf000đ \ x0001 \ x0001?
+Used \ xf000đ \ x0001 \ x0001!
+You do not have enough Pass Orbs \ xfffeto use this Pass Power. \ Xfffe \ xf000Ȃ \ x0001 \ x0002 needed / \ xf000Ȃ \ x0001 \ x0003 held
+Using \ xf000đ \ x0001 \ x0001 \ xfffeSeconds remaining:. \ Xf000ȁ \ x0001 \ x0005.
+Using \ xf000đ \ x0001 \ x0001 \ xfffeTime remaining:.. \ Xf000Ȃ \ x0001 \ x0004 min, \ xf000ȁ \ x0001 \ x0005 sec.
+Said "\ xf000Ĝ \ x0001 \ x0000!"
+MY SCORE
+TOTAL
+\ Xf000Ȅ \ x0001 \ x0000
+REMAINING
+\ Xf000ȁ \ x0001 \ x0000: \ xf000ȁ \ x0001 \ x0001
+CHECK
+YES
+NO
+CHECK
+CLOSE
+Hiya!
+\ Xf000Ā \ x0001 \ x0000 is nearby.
+\ Xf000Ā \ x0001 \ x0000 started battling \ xfffea wild \ xf000ā \ x0001 \ x0001!
+\ Xf000Ā \ x0001 \ x0000 won the battle \ xfffewith the wild \ xf000ā \ x0001 \ x0001!
+\ Xf000Ā \ x0001 \ x0000 started battling \ xfffea special Pokémon!
+\ Xf000Ā \ x0001 \ x0000 won the battle \ xfffewith the special Pokémon!
+\ Xf000Ā \ x0001 \ x0000 started a battle with \ xfffe \ xf000Ď \ x0001 \ x0001 \ xf000Ā \ x0001 \ x0002!
+\ Xf000Ā \ x0001 \ x0000 won the battle with \ xfffe \ xf000Ď \ x0001 \ x0001 \ xf000Ā \ x0001 \ x0002!
+\ Xf000Ā \ x0001 \ x0000 started a battle \ xfffewith a Gym Leader!
+\ Xf000Ā \ x0001 \ x0000 won the battle \ xfffewith the Gym Leader!
+\ Xf000Ā \ x0001 \ x0000 started a battle \ xfffewith a special Trainer!
+\ Xf000Ā \ x0001 \ x0000 won the battle \ xfffewith a special Trainer!
+\ Xf000Ā \ x0001 \ x0000 started a battle \ xfffewith a special Trainer!
+\ Xf000Ā \ x0001 \ x0000 won the battle \ xfffewith a special Trainer!
+\ Xf000Ā \ x0001 \ x0000 caught a \ xfffewild \ xf000ā \ x0001 \ x0001!
+\ Xf000Ā \ x0001 \ x0000 caught \ xfffea special Pokémon!
+\ Xf000Ā \ x0001 \ x0000's \ xf000Ă \ x0001 \ x0002's \ xfffelevel went up!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 evolved \ xfffeinto \ xf000ā \ x0001 \ x0001!
+Dummy Message
+\ Xf000Ā \ x0001 \ x0000 found \ xfffe \ xf000ĉ \ x0001 \ x0001!
+\ Xf000Ā \ x0001 \ x0000's playing time has \ xfffeexceeded \ xf000Ȃ \ x0001 \ x0001 hours!
+\ Xf000Ā \ x0001 \ x0000 completed the \ xfffePokédex!
+\ Xf000Ā \ x0001 \ x0000 has been thanked \ xfffemore than \ xf000Ȃ \ x0001 \ x0001 times!
+\ Xf000Ā \ x0001 \ x0000 is in the reception \ xfffearea of ​​the Union Room.
+\ Xf000Ā \ x0001 \ x0000 thanked you!
+\ Xf000ā \ x0001 \ x0001 is currently \ xfffebeing distributed!
+The \ xf000ĉ \ x0001 \ x0001 is currently being \ xfffedistributed!
+A Mystery Gift is currently \ xfffebeing distributed!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002's attack \ xfffewas a critical hit!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 took \ xfffea critical hit!
+\ Xf000Ā \ x0001 \ x0000 escaped \ xfffefrom the battle!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 \ xfffehas very low HP!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 \ xfffehas very low PP!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 \ xfffehas fainted!
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 \ xfffehas a status condition!
+\ Xf000Ā \ x0001 \ x0000 used \ xfffe \ xf000ĉ \ x0001 \ x0001!
+\ Xf000Ā \ x0001 \ x0000 used \ xfffe \ xf000ć \ x0001 \ x0001!
+\ Xf000Ā \ x0001 \ x0000 received \ xfffean Egg!
+\ Xf000ā \ x0001 \ x0001 hatched from \ xfffe \ xf000Ā \ x0001 \ x0000's Egg! \ Xfffe
+\ Xf000Ā \ x0001 \ x0000 is \ xfffeshopping.
+\ Xf000Ā \ x0001 \ x0000 is in a \ xfffeBattle Subway challenge.
+\ Xf000Ā \ x0001 \ x0000 has \ xfffe \ xf000Ȁ \ x0001 \ x0001 straight wins \ xfffein the Battle Subway!
+\ Xf000Ā \ x0001 \ x0000 won \ xfffea trophy in the Battle Subway!
+\ Xf000Ā \ x0001 \ x0000 challenged \ xfffethe Battle Institute.
+\ Xf000Ā \ x0001 \ x0000 was certified as \ xfffe \ xf000Ɓ \ x0001 \ x0001 in \ xfffethe Battle Institute!
+\ Xf000Ā \ x0001 \ x0000 got on \ xfffethe Ferris wheel.
+\ Xf000Ā \ x0001 \ x0000 entered \ xfffethe Poké Transfer.
+\ Xf000Ā \ x0001 \ x0000's \ xfffe \ xf000Ă \ x0001 \ x0002 is currently \ xfffeparticipating in the Musical contest.
+\ Xf000Ā \ x0001 \ x0000 used the received \ xfffe \ xf000đ \ x0001 \ x0001!
+\ Xf000Ā \ x0001 \ x0000 said \ xfffe "\ xf000Ĝ \ x0001 \ x0001."
+Is \ xfffeDummy Message for Action ID and a sequence identical to
+\ Mr. xf000Ā \ x0001 \ x0000 is being shot in the Pokeuddo \ xfffe \ xf000Ŀ \ x0001 \ x0001 \ xfffe
+\ Mr. xf000Ā \ x0001 \ x0000 is shochu Pokeuddo cans in the \ xfffe \ xf000Ŀ \ x0001 \ x0001 \ xfffe
+\ Mr. xf000Ā \ x0001 \ x0000 is a butterfly races \ xfffe to \ xfffe \ xf000Ļ \ x0001 \ x0001
+\ Mr. xf000Ā \ x0001 \ x0000 seafood has exceeded \ xfffe \ xf000Ȁ \ x0001 \ x0002 is \ xfffe \ xf000Ļ \ x0001 \ x0001
+\ Mr. xf000Ā \ x0001 \ x0000 was eliminated in the seafood \ xfffe \ xf000Ȁ \ x0001 \ x0002 is \ xfffe \ xf000Ļ \ x0001 \ x0001
+\ Mr. xf000Ā \ x0001 \ x0000 was won \ xfffe is \ xfffe \ xf000Ļ \ x0001 \ x0001!
+\ Mr. xf000Ā \ x0001 \ x0000 has a shopping \ xfffe in \ xfffe join Avenue
+\ Mr. xf000Ā \ x0001 \ x0000 is a butterfly races \ xfffe the area \ xf000ȁ \ x0001 \ x0002's \ xfffe \ xf000ą \ x0001 \ x0001
+\ Mr. xf000Ā \ x0001 \ x0000 was \ xfffe clear the area \ xf000ȁ \ x0001 \ x0002's \ xfffe \ xf000ą \ x0001 \ x0001!
