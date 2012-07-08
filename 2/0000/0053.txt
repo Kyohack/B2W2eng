@@ -10,7 +10,7 @@ Mamiya
 Farris
 Koreyoshi
 Adonis
-Simultaneous
+Douji
 Arya
 Banyi
 Danae
@@ -26,18 +26,18 @@ Edgar
 Boris
 Gail
 Hank
-Yugoslavia
+Yugo
 Kensuke
-Laurent
+Lauren
 Miklos
-New title
+Shinsaku
 Louisa
 Molly
 Naemi
 Angus
-Show in
+Shouin
 Brigitte
-Prunus mume
+Ume
 Billy
 Gill
 Isami
@@ -46,7 +46,7 @@ Jerry
 Arietto
 Tamaki
 Fuse
-Snow viewing
+Yukimi
 Micha
 Taichi
 Kruger
@@ -59,7 +59,7 @@ Steven
 Luna
 Sue
 Langley
-Founder
+Soushi
 Tonkin
 Tim
 Teddy
@@ -71,7 +71,7 @@ Hajime
 Mateo
 Niccolo
 Brocade
-White chrysanthemum
+Shiragiku
 Syracuse
 Shirafumi
 Pical
@@ -82,22 +82,22 @@ Hernan
 Helmut
 Radorufu
 Guillermo
-Rare
+Lea
 Salmond
-With
+Tousai
 Komatsuna
 Piedoro
 Royce
 Roronoa
 Bacchus
 Toshizo
-MINMI
+Minmi
 Meiko
 Masami
-MAD
+Maddo
 Shinpachi
-Preference
-Foliage
+Konomi
+Konoha
 Koester
 Katsu
 Kotaro
@@ -129,19 +129,19 @@ Klim
 Colonnade
 Rozumari
 Shapiro
-Conversion
+Kaishin
 Wonton
 Pikono
 Yun'yun
 Fenfe
-Bleached
+Sarashi
 Jajaku
-Peacetime
+Heiji
 Ichizen
-Exposure
+Bakuro
 Bakuzan
 Coronal
-Down
+Dawn
 Tontoro
 Gagin
 Alexis
@@ -150,7 +150,7 @@ Juro
 Bligh
 Dioru
 Kureitosu
-Syntactic
+Tougo
 Hilda
 Hans
 Luciana
@@ -171,7 +171,7 @@ Li
 Ragurosu
 Bequest
 Inaba
-Private house
+Minka
 Tyco
 Gloria
 Gustav
@@ -182,14 +182,14 @@ Jane
 Ingalls
 Masukichi
 Janet
-Aluminum
+Arumi
 Laura
 Mora
 Ruchira
 Maririna
-Viewing the moon
+Tsukimi
 Bruce
-Adult
+Seijuu
 Unchou
 Natsue
 Chuan
@@ -218,9 +218,9 @@ Angol
 Enrico
 Machiko
 Emil
-Justice
+Koumei
 Chuutatsu
-Antibacterial
+Koukin
 Gina
 Frey
 Jody
@@ -303,12 +303,12 @@ Bernard
 Thor
 Trina
 Dolly
-Two zero
+Nize
 Neri
 Barnett
 Paurino
 Paurina
-NICOLAO
+Nicolao
 Nikki
 Nathan
 Harvest
@@ -318,7 +318,7 @@ Piers
 Fado
 Julio
 Hecker
-Wonder
+Wanda
 Hogeru
 Horeisu
 Makaru
@@ -359,7 +359,7 @@ Naaman
 Hiraria
 Fiora
 Frank
-Policy
+Housaku
 Petrus
 Helene
 Poransuki
@@ -369,7 +369,7 @@ Marina
 Mariya
 Marugurito
 Tetsuzan
-Depth charge
+Bakurai
 Renewal
 Mitchell
 Marugareta
@@ -378,11 +378,11 @@ Fin Barre
 Dotti
 Deotima
 Go
-Yellow River
+Kouga
 Taishan
 Kyosuke
 Edd
-Georg
+George
 Hendo
 Lushan
 Heikki
@@ -390,7 +390,7 @@ Isaiah
 Melt
 Han
 Cyrus
-Butterfly
+Chou
 Mabel
 Manuel
 Lewis
@@ -432,7 +432,7 @@ Saga
 Goda
 Mode
 Gyokurei
-Sea fan
+Shifan
 Julia
 Danito
 Theseus
@@ -453,8 +453,8 @@ Korechika
 Oniwaka
 Shizuka
 Tomoe
-Stranded
-System
+Yori
+Temu
 Cycle
 Jenice
 Agatha
@@ -548,7 +548,7 @@ Martha
 Martina
 Meredith
 Mirabel
-Limit
+Seigen
 Gen'nosuke
 Zaemon
 Go
@@ -614,7 +614,7 @@ Crocus
 Dicentra
 Sasanqua
 Jasmine
-Water lily
+Suiren
 Novara
 Begonia
 Alkekengi
@@ -648,7 +648,7 @@ Henjaku
 Bonghan
 Hideo
 Osamu
-Sheath
+Saya
 Yae
 Flowlen
 Henderson
