@@ -1,7 +1,7 @@
 \xf000Ā\x0001\x0001:  Oi, come here.\xf000븁\x0000
 Hold up a bit.\xf000븁\x0000\xfffeMaybe they're old friends who can\xfffetalk it out instead of fighting.\xf000븁\x0000
 Rood: Ugh!\xfffeYou stubborn fools!\xf000븁\x0000\xfffeI'll keep calling you that until\xfffeyou understand!\xf000븁\x0000\xfffeGhetsis' plan is to rule all\xfffeof the Unova region!\xf000븁\x0000\xfffeFreeing Pokémon was only the cover story!\xf000븁\x0000\xfffeInstead, you've become tormenters of Pokemon!\xf000븁\x0000
-Team Plasma: Oh yes, \xfffeThen I'll call you Old Man.\xf000븁\x0000\xfffeバカか！\xf000븁\x0000\xfffeThose are the words of a traitor who didn't listen!\xf000븁\x0000
+Team Plasma: Oh yes, \xfffeThen I'll call you Old Man.\xf000븁\x0000\xfffeWhat a fool！\xf000븁\x0000\xfffeThose are the words of a traitor who didn't listen!\xf000븁\x0000
 \xf000Ā\x0001\x0001: ...How useless.\xf000븁\x0000
 \xf000Ā\x0001\x0001: OI!!\xf000븁\x0000
 You guys!\xfffeTryin' to go through here!\xf000븁\x0000
