@@ -1,9 +1,9 @@
-アデク『そうだ！　\xf000Ā\x0001\x0000\xfffeおまえさんの　ポケモンは　げんきか？\xf000븁\x0000\xfffeトレーナーの　おまえさんのため\xfffeがんばってくれるのは　ポケモンだ\xf000븀\x0000\xfffeいつだって　いたわってやらんとな！\xf000븁\x0000
-わしの　いえは　まだまだ　さき\xf000븁\x0000\xfffeポケセンに　いくか　どうかは\xfffeおまえさんに　まかせるわい！\xf000븁\x0000
-アデク『おう　こっちだ！\xfffeでは　しゅぎょう　しようか！\xf000븁\x0000
-ところで……　なにゆえ\xfffeタウンマップを　２つも　もっておる？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000
-ほほう！\xfffeともだちの　タウンマップか\xf000븁\x0000
-おまえさんの　ともだち　だが\xfffe\xf000ā\x0001\x0000を　つれているだろう\xf000븁\x0000\xfffeうむ！ さきほど　２０ばんどうろで\xfffeポケモンを　きたえておったな……\xf000븁\x0000\xfffeそれならば！　さきに\xfffeタウンマップを　とどけるのだ！\xf000븁\x0000
+Alder: \xf000Ā\x0001\x0000!\xfffeHey, are your Pokémon healthy?\xf000븁\x0000\xfffeYou'll have an advantage over other\xfffetrainers if your Pokémon do their best.\xfffeI wish your Pokémon good luck.\xf000븀\x0000\xfffeAlways be kind to them!\xf000븁\x0000
+My house is up ahead.\xf000븁\x0000\xfffeGo to the Pokémon Center, please.\xfffeI'll see you later!\xf000븁\x0000
+Alder: Alright, this way!\xfffeSo, shall we train?\xf000븁\x0000
+By the way... why\xfffedo you have 2 Town Maps?\xf000븁\x0000\xfffe...... ...... ......\xfffe...... ...... ......\xf000븁\x0000
+Oh!\xfffeIs that your friend's Town Map?\xf000븁\x0000トレーナー
+\xf000ā\x0001\x0000 is your\xfffefriend's companion, don't you think?\xf000븁\x0000\xfffeYes! Some time ago when I was 20,\xfffeI trained Pokémon in Kanto...\xf000븁\x0000\xfffeThere! If possible, deliver\xfffethe Town Map ahead!\xf000븁\x0000
 ２０ばんどうろ　なら\xfffeみちなりに　すすめば　すぐだ！\xf000븁\x0000
 ２０ばんどうろ　なら\xfffeみちなりに　すすめば　すぐだ！\xf000븁\x0000\xfffeさあ！　タウンマップを　とどけてこい\xfffeそれまで　ここで　まっているぞ！
 アデク『おう！　ともだちに\xfffeタウンマップを　わたせたようだな！\xf000븁\x0000\xfffeふむう……！\xf000븁\x0000\xfffeわずかの　あいだに　おまえさんも\xfffeポケモンも　みちがえるようだ！\xf000븁\x0000\xfffeよし！　きたえるのは　なし\xf000븁\x0000\xfffeかわりに　おまえさんと　ポケモンの\xfffeちからを　かしてくれい！\xf000븁\x0000

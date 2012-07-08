@@ -3,9 +3,9 @@ Do you know Prof. Juniper?\xfffeShe is famous for her Pokémon research!\xf000�
 But now \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeDo you want a Pokémon?
 I'll ask again\xf000븁\x0000\xfffeDo you want a Pokémon?
 I'm a little surprised\xf000븁\x0000
-All right!\xfffeA clear first step!\xf000븁\x0000\xfffeDo you know about the Pokédex?
+Alright!\xfffeA clear first step!\xf000븁\x0000\xfffeDo you know about the Pokédex?
 Indeed!\xf000븁\x0000\xfffeThe Pokémon is automatically\xffferecorded into the Pokédex.\xf000븁\x0000
-Well.....\xf000븁\x0000\xfffeThe Pokémon is automatically\xffferecorded into the Pokédex.\xf000븁\x0000
+Well...\xf000븁\x0000\xfffeThe Pokémon is automatically\xffferecorded into the Pokédex.\xf000븁\x0000
 I'll ask another question!\xf000븁\x0000\xfffeDo you want a Pokédex?
 Alright!\xfffeStep 2 is clear!\xf000븁\x0000
 With a Pokédex,\xfffeyou can travel the world!\xf000븀\x0000\xfffeConsider what this means.\xf000븁\x0000\xfffeSo again...\xf000븁\x0000\xfffeDo you want a Pokédex?
@@ -38,8 +38,8 @@ Welcome back!\xfffeHow are you Pokémon?\xf000븁\x0000\xfffeThey look tired.\xf
 ママ『なにをしても　それは　すべて\xfffeあなたと　ポケモンの　じかん\xf000븁\x0000\xfffeだから　じぶんで　きめて\xfffeじぶんが　したいことを　しなさいな\xf000븁\x0000\xfffeママも　じぶんの　じかんを\xfffeママの　すきなように　たのしむから！
 no data
 It's a Wii console!\xfffeIt has a Wii Remote!
-まあたらしい　ベッド！
-\xf000Ā\x0001\x0000は\xfffeパソコンを　チェックした！\xf000븁\x0000\xfffeたんけんの　こころえ　その１\xfffeＸボタンで　メニューが　ひらく！\xf000븁\x0000\xfffeたんけんの　こころえ　その２\xfffeレポートを　えらぶと　きろく　できる！
+A brand new bed!
+\xf000Ā\x0001\x0000 checked the PC!\xf000븁\x0000\xfffePressing the X button opens the menu!\xf000븁\x0000\xfffeMake sure to save your game!
 It's an award for completing\xfffethe Unova Pokédex!\xf000븁\x0000
 It's an award for completing\xfffethe National Mode Pokédex!\xf000븁\x0000
 バトルサブウェイの\xfffeシングル　マスターに　しょうりした\xf000븀\x0000\xfffeあかしの　トロフィーだ！

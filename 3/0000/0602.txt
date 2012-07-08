@@ -1,4 +1,4 @@
-Hey! \xf000Ā\x0001\x0000\xfffedoesn't have any Pokémon......\xf000븁\x0000\xfffeWhat's this?\xf000븁\x0000
+Hey! \xfffe\xf000Ā\x0001\x0000 doesn't have any Pokémon...\xf000븁\x0000\xfffeWhat's this?\xf000븁\x0000
 \xf000ā\x0001\x0001 is your Pokémon!\xf000븁\x0000\xfffeTake this as a parting gift!\xfffePlease, I insist.\xf000븁\x0000
 You can use that instead of going\xfffeto the Pokémon Center for healing.
 \xf000Ā\x0001\x0000.\xfffeHow's your journey going?
