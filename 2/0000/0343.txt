@@ -20,7 +20,8 @@ CUT 18
 CUT 19
 CUT 20
 Change places with your foe!\xfffeChoose your lines wisely!
-Raise your strength!Raise your strength!
+Raise your strength!
+Raise your strength!
 Attack the foe!
 Attack the foe!
 Attack the foe!
