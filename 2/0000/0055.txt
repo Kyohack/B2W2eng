@@ -53,7 +53,7 @@ Connecting... Searching for someone\xfffenear your Entralink.
 Someone is visiting\xfffeyour world.
 Another person's world\xfffeis about to disappear.
 \xf000Ā\x0001\x0000 is battling here.
-まもなく　フェスミッションを　かいしします\xfffeしばらく　おまちください
+Please wait\xfffethe festival mission will begin soon.
 Tap where the adventurer is\xfffeto warp to that place.
 Tap where the adventurer is\xfffeto warp to that place.
 Tap where the adventurer is\xfffeto warp to that place.
