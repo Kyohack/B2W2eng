@@ -21,7 +21,7 @@ Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-fo
 
 Tips:
 If you are unsure of a translation, leave it alone!
-If you need some help on Pokemon specific content, try visiting http://http://bulbapedia.bulbagarden.net!
+If you need some help on Pokemon specific content, try visiting http://bulbapedia.bulbagarden.net!
 Automatic Translators are FORBIDDEN!
 
 /Join us for a discussion:
