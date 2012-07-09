@@ -80,7 +80,7 @@ Bianca: Hey!\xf000븁\x0000
 Bianca: Hey! Hey!\xf000븁\x0000
 How was it?\xfffeYou battled the Gym Leader here!\xf000븁\x0000\xfffeIsn't that...\xfffethe Basic Badge!!!\xf000븁\x0000\xfffeThat's awesome! ポケモンと\xfffeたびを　はじめたばかり　なのに！\xf000븁\x0000\xfffeあなたには　トレーナーの\xfffeさいのうが　あるよ　ぜったい！！\xf000븁\x0000\xfffeじゃあ　わたしからは　これ\xfffe「おんがえし」の　わざマシン　だよ！\xf000븁\x0000
 おんがえしを　おぼえた　ポケモンは\xfffeトレーナーに　なつくほどに\xf000븀\x0000\xfffeわざの　いりょくが　アップするんだよ\xf000븁\x0000
-それにしても　Cherenったら……\xf000븁\x0000
+それにしても　チェレンったら……\xf000븁\x0000
 Cheren: Bianca!\xf000븁\x0000\xfffeIt's been two years.\xf000븁\x0000
 Bianca: Ohhh!\xf000븁\x0000
 Oh, what to do?\xf000븁\x0000
