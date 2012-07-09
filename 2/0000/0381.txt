@@ -2178,7 +2178,7 @@ More!\xfffeLet me hear the voice of your Pokémon!
 エレガントで　エクセレントな\xfffeトレーナーと　ポケモンね　アナタたち\xf000븁\x0000\xfffeそんな　きらびやかな　かたと\xfffeきそいあうことで\xf000븁\x0000\xfffeアタクシも　ポケモンも　みがかれます\xfffeかんしゃ　いたしますわ
 Being able to assess the battle and\xfffereact is important to solve problems.
 Finally!\xfffeThe last Pokémon.
-We've had an excellent battle!\xfffeIt's unfortunate that I'm pushed this far.
+We've had an excellent battle!\xfffeIt's unfortunate I was pushed this far.
 Wow...that was an impressive battle.\xfffeI'm baffled by your power.\xf000븁\x0000\xfffeI'm confident that you are excellent.
 Your determination....\xfffeI am fascinated by it.
 You may have an edge\xfffebut I will not be pulled into defeat!
@@ -2282,7 +2282,7 @@ No! Not yet!\xfffeNo! We can fight on!!
 The pain of my Pokémon...\xfffeI feel it, too!
 It only takes one mind\xfffeto hone Pokémon!!
 No! Not yet!\xfffeNo! We can fight on!!
-Ah...the challenger was pursuing happiness\xfffe...and won the challenge.\xf000븀\x0000\xfffeThank you for this battle!
+Ah...the challenger pursued happiness\xfffe...and won the challenge.\xf000븀\x0000\xfffeThank you for this battle!
 くせもの　め！\xfffeまちぶせで　ござる！\xf000븁\x0000
 む　むねん……
 しからば　ごめん！
