@@ -16,7 +16,7 @@ Rood: Ah!\xfffeAre your Pokémon okay?\xf000븀\x0000\xfffePlease, take this.\xf
 Both of you.\xf000븁\x0000
 \xf000Ā\x0001\x0001: ... Thanks.\xf000븁\x0000
 さ　とおらせてもらうぜ……！\xf000븁\x0000\xfffeって　また　きやがったか\xf000븁\x0000
-Rood: A mind without strength,\xfffeor strength without a mind,\xf000븀\x0000\xfffeeither missing will make anything difficult.\xf000븁\x0000\xfffeTo save your old friends,\xfffeand to protect Unova,　Fight!\xf000븁\x0000
+Rood: A mind without strength,\xfffeor strength without a mind,\xf000븀\x0000\xfffeeither missing makes it difficult.\xf000븁\x0000\xfffeTo save your old friends,\xfffeand to protect Unova,　Fight!\xf000븁\x0000
 Go, you two!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001, was it?\xf000븁\x0000\xfffeThe Pokemon you're searching for...\xfffeThe Dark Trinity... \xf000븁\x0000\xfffeThose ninjas probably have it!\xf000븁\x0000
 \xf000Ā\x0001\x0001: Got it!\xf000븁\x0000\xfffeNext time I see you...\xfffeThe attonement you spoke of...\xf000븀\x0000\xfffeI'll help you with it!\xf000븁\x0000
 Rood: Certainly, at that time\xfffeI believed in my righteousness.\xf000븁\x0000\xfffeWith the true king, Master N\xfffewe'll make a world without war!\xf000븁\x0000\xfffeHowever,　that is self-righteous\xfffeand only caused deep sadness.\xf000븁\x0000\xfffeThat is why the same thinking\xfffeshould not be repeated!
