@@ -342,7 +342,7 @@ Charles
 Iris
 Grunt
 Grunt
-Achroma
+Corless
 Ghetsis
 Rood
 Zinzolin
@@ -356,7 +356,7 @@ Shibuki
 Nagisa
 Grunt
 Nishino
-Achroma
+Corless
 Grunt
 Kyouhei
 Kyouhei
@@ -579,7 +579,7 @@ Iris
 パーカー
 リサ
 ガンジロウ
-Achroma
+Corless
 Alder
 Dark
 Zinzolin
@@ -811,4 +811,4 @@ Grunt
 Grunt
 Kuritsugu
 Grunt
-Achroma
+Corless
