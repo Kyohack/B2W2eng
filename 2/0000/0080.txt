@@ -50,7 +50,7 @@ Medal to show you've\xfffeplaced 360 Pokémon in multiple boxes.
 Medal to show you've\xfffefilled all of the boxes.
 Medal to show you've\xfffecaptured 50 Pokémon within 1 day.
 Medal to show you've\xfffebought 10 drinks from a Vending Machine.
-Medal to show you've\xfffegot a free drink from the Vending Machine.
+Medal to show you've\xfffegot a free drink from a Vending Machine.
 Medal to show you've\xfffeevolved at least one Pokémon.
 Medal to show you've\xfffeevolved at least 10 Pokémon.
 Medal to show you've\xfffeevolved at least 50 Pokémon.
@@ -79,10 +79,10 @@ Medal to show you've\xfffeused a Pass Power for the first time.
 Medal to show you've\xfffeused a Pass Power for the 10th time.
 Medal to show you've\xfffeused a Pass Power for the 50th time.
 Medal to show you've\xfffeused a Pass Power for the 100th time.
-Medal to show you've\xfffecaught 1 Pokémon within the EntraLink.
-Medal to show you've\xfffecaught 10 Pokémon within the EntraLink.
-Medal to show you've\xfffecaught 50 Pokémon within the EntraLink.
-Medal to show you've\xfffecaught 100 Pokémon within the EntraLink.
+Medal to show you've\xfffecaught 1 Pokémon in the EntraLink.
+Medal to show you've\xfffecaught 10 Pokémon in the EntraLink.
+Medal to show you've\xfffecaught 50 Pokémon in the EntraLink.
+Medal to show you've\xfffecaught 100 Pokémon in the EntraLink.
 Medal to show you've\xfffefound all Hidden Hollows.
 Medal to show you've\xfffeobtained your first egg.
 Medal to show you've\xfffeobtained 10 eggs from the Day Care.
@@ -96,9 +96,9 @@ Medal to show you've\xfffehad a Pokémon with PokéRus.
 Medal to show you've\xfffedefeated Castelia City's gang.
 Medal to show you've\xfffelistened to the train descriptions in\xfffeAnville Town.
 Medal to show you've\xfffeseen a Wailord while in the Marine Tube.
-Medal to show you've\xfffehad your photo taken at the Frillish sign in\xfffeSeigaiha City.
-Medal to show you've\xfffeinteracted with all possible automobiles.
-Medal to show you've\xfffereached the final floor in the Abyssal Ruins.
+Medal to show you've\xfffehad your photo taken at the\xfffeFrillish sign in Seigaiha City.
+Medal to show you've\xfffeinteracted with all possible vehicles.
+Medal to show you've\xfffereached the final floor\xfffein the Abyssal Ruins.
 Medal to show you've\xfffeexperienced the Diamond Dust weather\xfffeat least once.
 Medal to show you've\xfffecrossed all of the bridges in Unova.
 Medal to show you've\xfffevisited all of the areas in Unova.
@@ -115,21 +115,21 @@ Medal to show you've\xfffeexperienced all kinds of weather.
 Medal to show you've\xfffenot retreated from losing a battle.
 Medal to show you've\xfffegot a Pokémon that doesn't affect one\xfffeof your Pokémon.
 Medal to show you've\xfffelanded many Super Effective hits.
-Medal to show you've\xfffebattled in the Battle Subway at least once.
-Medal to show you've\xfffereached a streak of 10 in the Battle Subway.
-Medal to show you've\xfffereached a streak of 50 in the Battle Subway.
-Medal to show you've\xfffereached a streak of 100 in the Battle Subway.
-Medal to show you've\xfffedefeated the Subway Masters in a Single Line.
-Medal to show you've\xfffedefeated the Subway Masters in a Double Line.
-Medal to show you've\xfffedefeated the Subway Masters in a Multi Line.
-Medal to show you've\xfffebattled in the Battle Institute at least once.
+Medal to show you've\xfffebattled in the Battle Subway\xfffeat least once.
+Medal to show you've\xfffereached a streak of 10 in\xfffethe Battle Subway.
+Medal to show you've\xfffereached a streak of 50 in\xfffethe Battle Subway.
+Medal to show you've\xfffereached a streak of 100 in\xfffethe Battle Subway.
+Medal to show you've\xfffedefeated the Subway Masters\xfffein a Single Line.
+Medal to show you've\xfffedefeated the Subway Masters\xfffein a Double Line.
+Medal to show you've\xfffedefeated the Subway Masters\xfffein a Multi Line.
+Medal to show you've\xfffebattled in the Battle Institute\xfffeat least once.
 Medal to show you've\xfffetested 10 teams in the Battle Institute.
 Medal to show you've\xfffetested 30 teams in the Battle Institute.
 Medal to show you've\xfffetested 50 teams in the Battle Institute.
 Medal to show you've\xfffeearned over 1000000 BP.
 Medal to show you've\xfffeearned 100 BP in the Battle Subway and\xfffePWT combined.
-Medal to show you've\xfffeexplored a shaking spot of Grass or Dust.
-Medal to show you've\xfffebattled at least 30 people in Nimbasa City's\xfffeStadiums.
+Medal to show you've\xfffeexplored a shaking spot\xfffeof Grass or Dust.
+Medal to show you've\xfffebattled at least 30 people\xfffein Nimbasa City's Stadiums.
 Medal to show you've\xffferode the Royal Unova 10 times.
 Medal to show you've\xfffebeaten the Driftveil Tournament of PWT.
 Medal to show you've\xfffebeaten the Rental Tournament of PWT.
@@ -141,9 +141,9 @@ Medal to show you've\xfffebeaten the Hoenn Leaders of PWT.
 Medal to show you've\xfffebeaten the Sinnoh Leaders of PWT.
 Medal to show you've\xfffebeaten the Champions of PWT.
 Medal to show you've\xfffebeaten the Unova Leaders of PWT.
-Medal to show you've\xfffebeaten the Master Rental Tournament of PWT.
-Medal to show you've\xfffebeaten the Mixed Master Tournament of PWT.
-Medal to show you've\xfffebeaten the Type Expert Tournament of PWT.
+Medal to show you've\xfffebeaten the Master Rental Tournament\xfffeof PWT.
+Medal to show you've\xfffebeaten the Mixed Master Tournament\xfffeof PWT.
+Medal to show you've\xfffebeaten the Type Expert Tournament\xfffeof PWT.
 Medal to show you've\xfffebeaten Area 5 in Black Skyscraper.
 Medal to show you've\xfffebeaten Area 10 in Black Skyscraper.
 Medal to show you've\xfffebeaten Area 5 in White Tree Hollow.
@@ -154,10 +154,10 @@ Medal to show you've\xfffebeaten 100 trainers in\xfffeBlack Skyscraper/White Tre
 Medal to show you've\xfffebeaten 1000 trainers in\xfffeBlack Skyscraper/White Tree Hollow.
 Medal to show you've\xfffecleared areas 2-5 in\xfffeBlack Skyscraper/White Tree Hollow.
 Medal to show you've\xfffecleared areas 6-10 in\xfffeBlack Skyscraper/White Tree Hollow.
-Medal to show you've\xfffecleared areas 2-5 without battling more than\xfffe4 people in Black Skyscraper/White Tree Hollow.
-Medal to show you've\xfffecleared areas 6-10 without battling more than\xfffe6 people in Black Skyscraper/White Tree Hollow.
-Medal to show you've\xfffecleared areas 2-5 in less than\xfffe100 steps in Black Skyscraper/White Tree Hollow.
-Medal to show you've\xfffecleared areas 6-10 in less than\xfffe1000 steps in Black Skyscraper/White Tree Hollow.
+Medal to show you've\xfffecleared areas 2-5 within 4 battles in\xfffeBlack Skyscraper/White Tree Hollow.
+Medal to show you've\xfffecleared areas 6-10 within 6 battles in\xfffeBlack Skyscraper/White Tree Hollow.
+Medal to show you've\xfffecleared areas 2-5 within 100 steps in\xfffeBlack Skyscraper/White Tree Hollow.
+Medal to show you've\xfffecleared areas 6-10 within 1000 steps in\xfffeBlack Skyscraper/White Tree Hollow.
 Medal to show you've\xfffeearned all Battle Medals.
 Medal to show you've\xfffemade your first trade.
 Medal to show you've\xfffetraded 10 Pokémon.
@@ -171,7 +171,7 @@ Medal to show you've\xfffewon 5 Pokémon Musicals.
 Medal to show you've\xfffewon 10 Pokémon Musicals.
 Medal to show you've\xfffewon 30 Pokémon Musicals.
 Medal to show you've\xfffecollected all Musical Props.
-Medal to show you've\xfffeparticipated in Pokémon Musicals with 10 People.
+Medal to show you've\xfffeparticipated in Pokémon Musicals\xfffewith 10 People.
 Medal to show you've\xfffeentered someone in your PAL PAD.
 Medal to show you've\xfffeentered 5 people in your PAL PAD.
 Medal to show you've\xfffeentered 10 people in your PAL PAD.
@@ -179,11 +179,11 @@ Medal to show you've\xfffecommunicated with someone foreign.
 Medal to show you've\xfffemade a Spin Trade.
 Medal to show you've\xfffeused the Feeling Check.
 Medal to show you've\xfffeused the Feeling Check 80 times.
-Medal to show you've\xffferidden the Ferris Wheel with many people.
-Medal to show you've\xfffegotten 10 people to join your Join Avenue.
-Medal to show you've\xfffegotten 20 people to join your Join Avenue.
-Medal to show you've\xfffegotten 50 people to join your Join Avenue.
-Medal to show you've\xfffegotten 100 people to join your Join Avenue.
+Medal to show you've\xffferidden the Ferris Wheel\xfffewith many people.
+Medal to show you've\xfffegotten 10 people to\xfffejoin your Join Avenue.
+Medal to show you've\xfffegotten 20 people to\xfffejoin your Join Avenue.
+Medal to show you've\xfffegotten 50 people to\xfffejoin your Join Avenue.
+Medal to show you've\xfffegotten 100 people to\xfffejoin your Join Avenue.
 Medal to show you've\xfffeopened 5 shops in Join Avenue.
 Medal to show you've\xfffeopened 10 shops in Join Avenue.
 Medal to show you've\xfffeopened 20 shops in Join Avenue.
@@ -193,14 +193,14 @@ Medal to show you've\xfffepurchased 30 items from Join Avenue.
 Medal to show you've\xfffepurchased 50 items from Join Avenue.
 Medal to show you've\xfffepurchased 100 items from Join Avenue.
 Medal to show you've\xfffeearned the right to name Join Avenue.
-Medal to show you've\xfffeplayed 10 mini-games on the Xtransceiver.
-Medal to show you've\xfffeplayed 30 mini-games on the Xtransceiver.
-Medal to show you've\xfffeplayed 50 mini-games on the Xtransceiver.
-Medal to show you've\xfffeplayed 100 mini-games on the Xtransceiver.
-Medal to show you've\xfffereached 50 points in Xtransceiver Mini-Games.
-Medal to show you've\xfffereached 200 points in Xtransceiver Mini-Games.
-Medal to show you've\xfffereached 500 points in Xtransceiver Mini-Games.
-Medal to show you've\xfffereached 1000 points in Xtransceiver Mini-Games.
+Medal to show you've\xfffeplayed 10 mini-games\xfffeon the Xtransceiver.
+Medal to show you've\xfffeplayed 30 mini-games\xfffeon the Xtransceiver.
+Medal to show you've\xfffeplayed 50 mini-games\xfffeon the Xtransceiver.
+Medal to show you've\xfffeplayed 100 mini-games\xfffeon the Xtransceiver.
+Medal to show you've\xfffereached 50 points in\xfffeXtransceiver Mini-Games.
+Medal to show you've\xfffereached 200 points in\xfffeXtransceiver Mini-Games.
+Medal to show you've\xfffereached 500 points in\xfffeXtransceiver Mini-Games.
+Medal to show you've\xfffereached 1000 points in\xfffeXtransceiver Mini-Games.
 Medal to show you've\xfffemade a Brycen-man\xfffePokéStar Studios Movie.
 Medal to show you've\xfffemade a Revenge of Brycen-man\xfffePokéStar Studios Movie.
 Medal to show you've\xfffemade a Full Metal Cup\xfffePokéStar Studios Movie.
@@ -208,19 +208,19 @@ Medal to show you've\xfffemade a Invaders\xfffePokéStar Studios Movie.
 Medal to show you've\xfffemade a Monster\xfffePokéStar Studios Movie.
 Medal to show you've\xfffemade a Time Traveler\xfffePokéStar Studios Movie.
 Medal to show you've\xfffemade a Pokémon Trainers\xfffein Love PokéStar Studios Movie.
-Medal to show you've\xfffemade a The Mysterious Door\xfffeof the Magic Kingdom PokéStar Studios Movie.
+Medal to show you've\xfffemade a The Mysterious Door of the\xfffeMagic Kingdom PokéStar Studios Movie.
 Medal to show you've\xfffemade a The Giant Office Lady\xfffePokéStar Studios Movie.
 Medal to show you've\xfffemade a Fear! The Red Mist\xfffeNightmare PokéStar Studios Movie.
 Medal to show you've\xfffemade a Storage Robot\xfffePokéStar Studios Movie.
 Medal to show you've\xfffemade a Ghost Eraser\xfffePokéStar Studios Movie.
 Medal to show you've\xfffemade a Return of Brycen-man\xfffePokéStar Studios Movie.
-Medal to show you've\xfffestarred in all of the PokéStar Studios Movies.
+Medal to show you've\xfffestarred in all of the\xfffePokéStar Studios Movies.
 Medal to show you've\xfffestarred in all of the\xfffeClassic PokéStar Studios Movies.
 Medal to show you've\xfffeearned over $1000 Billion in the\xfffePokéStar Studios Movie box office.
-Medal to show you've\xfffemade your first Cult PokéStar Studios Movie.
-Medal to show you've\xfffemade all of the Cult PokéStar Studios Movies.
-Medal to show you've\xfffeparticipated in FES missions with 10 people.
-Medal to show you've\xfffeparticipated in FES missions with 30 people.
+Medal to show you've\xfffemade your first Cult\xfffePokéStar Studios Movie.
+Medal to show you've\xfffemade all of the Cult\xfffePokéStar Studios Movies.
+Medal to show you've\xfffeparticipated in FES missions\xfffewith 10 people.
+Medal to show you've\xfffeparticipated in FES missions\xfffewith 30 people.
 Medal to show you've\xfffeearned a score of 100 in a FES mission.
 Medal to show you've\xfffeearned a score of 1000 in a FES mission.
 Medal to show you've\xfffestarted 10 FES missions.
