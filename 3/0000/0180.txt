@@ -10,8 +10,8 @@ Roxie: Are you...\xfffeTeam Plasma by any chance?\xf000븁\x0000
 Or course!\xfffeWe're Team Plasma!\xf000븁\x0000\xfffe２ねんまえ……\xfffeおうとして　えいゆうとして\xf000븀\x0000\xfffeあがめた　おとこに　うらぎられ\xf000븁\x0000\xfffeイッシュちほうの　せいふくは\xfffeしっぱいに　おわった……！\xf000븁\x0000\xfffeだが！　おれたちは　あきらめない！\xfffeいつだって　ネバーギブアップ！\xf000븁\x0000\xfffeすでに　あたらしい\xfffeさくせんも　うごきはじめているのだ！\xf000븁\x0000
 \xf000Ā\x0001\x0001: ……くちを　とじろよ\xf000븁\x0000\xfffeポケモンを　すくう！　といいつつ\xfffeただの　ポケモンどろぼう　だった\xf000븀\x0000\xfffeさいていの　オマエら　だ……\xf000븀\x0000\xfffeゆるしてもらえると　おもうな……！\xf000븁\x0000
 Team Plasma: ぼくじょう　では\xfffeヨーテリーに　おいかけられるし\xf000븁\x0000
-Team Plasma: ここじゃ　からまれるし\xfffeなんだか　イマイチね\xf000븁\x0000
-Team Plasma: まあ　いいじゃないか\xfffeこいつから　ポケモンを　うばえば……\xf000븁\x0000\xfffeボーイ　アンド　ガール\xfffeじゅんびが　できたら　かかってきな\xf000븁\x0000
+プラズマだん『ここじゃ　からまれるし\xfffeなんだか　イマイチね\xf000븁\x0000
+プラズマだん『まあ　いいじゃないか\xfffeこいつから　ポケモンを　うばえば……\xf000븁\x0000\xfffeボーイ　アンド　ガール\xfffeじゅんびが　できたら　かかってきな\xf000븁\x0000
 \xf000Ā\x0001\x0001: ……オマエたちも\xfffeあたらしい　さくせんも　つぶす\xf000븁\x0000\xfffe……プラズマだんは\xfffeぜったいに　ゆるさない\xf000븁\x0000
 Roxie: \xf000Ā\x0001\x0000!\xfffeYou also!!
 \xf000Ā\x0001\x0001: ...those Pokémon thieves.
