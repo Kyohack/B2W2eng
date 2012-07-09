@@ -19,7 +19,7 @@ KEY TO FOREST
 POKÉMON BLACK 2 or\xfffePOKÉMON WHITE 2\xfffeKeys can be sent and or recieved\xfffeusing the above configurations.
 Using this setting, you can check,\xfffechange, or recieve keys.
 Back to the MAIN MENU.
-Please face the other Nintendo DS\xfffeto perform Infrared communication with...
+Please face the other Nintendo DS\xfffeto communicate via Infrared with...
 CURRENTLY SET:\xfffeASSIST MODE, the easiest.
 CURRENTLY SET:\xfffeNORMAL MODE, moderately difficult.
 CURRENTLY SET:\xfffeCHALLENGE MODE, very difficult.
@@ -57,7 +57,7 @@ Your friend got the ICEBERG KEY!\xf000븂\x0001<
 Transfer complete.\xf000븂\x0001<
 Key(s) were successfully transferred!\xf000븂\x0001<
 Specified key(s) cannot be sent.\xf000븂\x0001<
-Specified key(s) could not be retrieved.\xf000븂\x0001<
+Specified key(s) couldn't be retrieved.\xf000븂\x0001<
 Communicating...\xfffePlease wait.
 ASSIST KEY is locked.
 CHALLENGE KEY is locked.
@@ -125,9 +125,9 @@ POKÉNON WHITE 2\xfffeMEMORY LINK program
 A POKÉMON BLACK or\xfffePOKÉMON WHITE\xfffedownloadplay software.\xfffe(MEMORY LINK ID: \xf000Ȅ\x0001\x0000)
 A POKÉMON BLACK or\xfffePOKÉMON WHITE\xfffedownloadplay software.
 Activated MEMORY LINK\xfffePlease wait...
-Connection to another DS was not successful.\xfffeLink terminated.\xf000븁\x0000
+DS communication was not successful.\xfffeLink terminated.\xf000븁\x0000
 Do you want to use\xfffeWireless Communications?
-Power was not turned off, but\xfffethe MEMORY LINK connection was terminated.\xf000븁\x0000
+Power was not turned off, but the\xfffeMEMORY LINK connection was terminated.\xf000븁\x0000
 Can't read MEMORY LINK data.\xf000븁\x0000
 MEMORY LINK completed.\xf000븁\x0000
 Resume MEMORY LINK?
@@ -156,9 +156,9 @@ Archeological Museum.\xf000븁\x0000
 Oak tree.\xf000븁\x0000
 Iris is thinking.\xf000븁\x0000
 Incredible town.\xf000븁\x0000
-Able to take part in the Pokémon World Tournament.\xf000븁\x0000
+Can participate in the\xfffePokémon World Tournament.\xf000븁\x0000
 Pokémon Musical.\xf000븁\x0000
-The Pokémon Breeder in the Pokémon Center is planning something.\xf000븁\x0000
+The Pokémon Breeder in the\xfffePokémon Center is planning something.\xf000븁\x0000
 KEY cannot be used.\xf000븁\x0000
 NINTENDO 3DS LINK
 Find Pokémon Dream Radar?
@@ -172,7 +172,7 @@ Initializing communication.\xfffePokémon Dream Radar is reading data...\xf000�
 Please select a Pokémon.\xf000븁\x0000
 In order to send, you need to save.\xf000븁\x0000
 Couldn't find Nintendo 3DS Pokémon \xfffeDream Radar channel.\xf000븁\x0000
-Nintendo 3DS Pokémon Dream Radar data is not a Pokémon.\xf000븁\x0000
-To send to the box please have 6 Pokémon in your party.\xf000븁\x0000
+Nintendo 3DS Pokémon Dream Radar\xfffedata is not a Pokémon.\xf000븁\x0000
+To send to the box, please have\xfffe6 Pokémon in your party.\xf000븁\x0000
 Sending Pokémon to a box.\xf000븁\x0000
 Item being sent to bag.\xf000븁\x0000
