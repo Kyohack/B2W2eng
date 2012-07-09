@@ -44,6 +44,6 @@ The Musical music data\xfffehas been erased.
 The Skin data for Pokédex\xfffehas been erased.
 Your Hall of Fame data\xfffehas been erased.
 Your Mystery Gift data\xfffehas been erased.
-Your Pokéwood data\xfffehas been erased.
+Your PokéStar data\xfffehas been erased.
 Your Key System data\xfffehas been erased.
 Your PWT data\xfffehas been erased.
