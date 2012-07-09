@@ -633,7 +633,7 @@ A mysterious unbelievable charm that\xfffewhen held, makes it easier for the\xff
 A mysterious shining charm that when\xfffeheld, makes it easier to encounter\xfffeshiny Pokémon. 
 A keycard used to unlock\xfffedoors on the Team Plasma\xfffeFrigate.
 A handkerchief that a regular visitor to\xfffeNacrene City's "Cafe Warehouse" dropped.\xfffeIt faintly smells of Pokémon.
-A specialized device built in order to\xfffeforcefully awaken a Pokémon's abilities.\xfffeIt is an unfinished prototype.
+A device built in order to forcefully\xfffeawaken a Pokémon's abilities.\xfffeIt is an unfinished prototype.
 An Xtransceiver found in the\xfffeNimbasa City Amusement Park.\xfffeIts owner was probably a boy.
 An Xtransceiver found in the\xfffeNimbasa City Amusement Park.\xfffeIts owner was probably a girl.
 A mirror that changes form\xfffeto show the truth.
