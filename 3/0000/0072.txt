@@ -6,12 +6,12 @@ Team Plasma『Oh man……\xfffeTrainers these days are dangerous!\xf000븁\x000
 \xf000Ā\x0001\x0001『\xf000Ā\x0001\x0000！\xfffeI'm counting on you!\xf000븁\x0000
 Team Plasma『Heh heh heh!\xf000븁\x0000\xfffeTwo years ago, we stole fully\xfffetrained Pokémon, eh?\xf000븁\x0000\xfffeYou think you can beat us?\xf000븁\x0000
 Team Plasma『I'm next!\xf000븁\x0000\xfffeTwo years ago, we stole fully\xfffetrained Pokémon, eh?\xf000븁\x0000\xfffeYou think you can beat us?\xf000븁\x0000
-Team Plasma『No way! I don't believe it!\xf000븁\x0000\xfffeI shoulda trained those 2 years\xfffeinstead of bullying trainers!\xf000븁\x0000
-Team Plasma『I- I lost in sheer seconds!\xfffeThat's not possible!\xf000븀\x0000\xfffeJ-just who IS this guy?
-Team Plasma『Its just like a kid\xfffeto be that cheeky!\xf000븁\x0000
-Team Plasma『My turn!\xfffeI'll give you no mercy!\xf000븁\x0000
-Team Plasma『Two years later and I'm still\xfffemaking the same mistakes!\xf000븁\x0000
-Team Plasma『I'm beaten!\xfffeDone in by two little children.\xf000븁\x0000\xfffe...Granted, you're pretty STRONG\xfffefor being children...\xf000븁\x0000\xfffeWe, Team Plasma, are searching\xfffefor a certain something...\xf000븁\x0000\xfffeIf we can find it, maybe\xfffeHE can manifest its true power...\xf000븁\x0000\xfffeFarewell!\xf000븁\x0000
+Team Plasma: No way! I don't believe it!\xf000븁\x0000\xfffeI shoulda trained those 2 years\xfffeinstead of bullying trainers!\xf000븁\x0000
+Team Plasma: I- I lost in sheer seconds!\xfffeThat's not possible!\xf000븀\x0000\xfffeJ-just who IS this guy?
+Team Plasma: Its just like a kid\xfffeto be that cheeky!\xf000븁\x0000
+Team Plasma: My turn!\xfffeI'll give you no mercy!\xf000븁\x0000
+Team Plasma: Two years later and I'm\xfffestill making the same mistakes!\xf000븁\x0000
+Team Plasma: I'm beaten!\xfffeDone in by two little children.\xf000븁\x0000\xfffe...Granted, you're pretty STRONG\xfffefor being children...\xf000븁\x0000\xfffeWe, Team Plasma, are searching\xfffefor a certain something...\xf000븁\x0000\xfffeIf we can find it, maybe\xfffeHE can manifest its true power...\xf000븁\x0000\xfffeFarewell!\xf000븁\x0000
 \xf000Ā\x0001\x0001『...5 years ago\xf000븁\x0000\xfffeMy little sister recieved a\xfffePurrloin as a present\xf000븀\x0000\xfffeand then Team Plasma stole it...\xf000븁\x0000\xfffeI was just a kid\xfffeand I couldn't do anything...\xf000븁\x0000\xfffeThat's why... that's why...\xfffeI have to become STRONGER!!\xf000븁\x0000
 Just as I thought!　You\xfffereally do have intellect!\xf000븁\x0000\xfffeWell...!\xf000븁\x0000
 \xf000Ā\x0001\x0001 restored \xfffe\xf000Ā\x0001\x0000's Pokemon\xf000븀\x0000\xfffeto full health!
@@ -30,7 +30,7 @@ Thank you!\xf000븁\x0000\xfffeあっ　じぶんは　キョウヘイ\xf000븁\
 Let's challenge the Subway Masters\xfffetogether!\xf000븁\x0000
 They're strong!\xfffeAs expected of Subway Masters!\xf000븁\x0000\xfffeNext time I want to fight them\xfffemuch more seriously!\xf000븁\x0000\xfffeThank you again,　\xf000Ā\x0001\x0000!\xfffeAs a token of my gratitude,\xfffeI want you to have this!\xf000븁\x0000
 With the Battle Recorder,\xfffeyou can record battles with your\xf000븀\x0000\xfffefriends as well as battles in\xf000븀\x0000\xfffethe Battle Subway!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIt was a lot of fun battling\xfffewith you by my side!\xf000븁\x0000\xfffeI really hope we meet again!\xfffeSee ya later!\xf000븁\x0000
-I am Subway Boss Ingo!\xf000븁\x0000\xfffeI'm in charge of departures\xfffof the Subway from Gear Station\xf000븀\x0000\xfffeas well as the battles onboard them.
+I am Subway Boss Ingo!\xf000븁\x0000\xfffeI'm in charge of departures\xfffeof the Subway from Gear Station.\xf000븀\x0000\xfffeas well as the battles onboard them.
 And I am Emmet!\xf000븁\x0000\xfffeI'm also a Subway Boss!\xf000븁\x0000\xfffeI love Double Battles, as well as\xf000븀\x0000\xfffethe two Pokémon combinations you\xf000븀\x0000\xfffecan create in them!
 Ingo『This is such an irregular\xfffeplace for a battle for me...\xf000븁\x0000\xfffeこれも　なにかの　えん\xfffeたたかうことで　みえる　けしき\xf000븀\x0000\xfffeわかることも　あるでしょう\xf000븁\x0000\xfffeでは　Emmet\xfffeなにかございましたら　どうぞ！\xf000븁\x0000
 Emmet『ルールを　まもって\xfffeあんぜん　うんてん！\xf000븁\x0000\xfffeめざすは　しょうり！\xfffeしゅっぱつ　しんこう！\xf000븁\x0000
