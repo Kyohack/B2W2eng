@@ -7,7 +7,7 @@ How do you greet passersby?
 How do you thank passersby?
 What's your message\xfffeto passersby?
 This town's name?\xfffe(Record it on your Trainer Card.)
-Your title?\xfffe(This city is the only reffered location.)
+Your title? (This city is\xfffethe only reffered location.)
 My saying?\xfffe(Transmitted to everyone in the world.)
 Enter your password.
 Please input your\xfffeGame Sync ID Code.
@@ -18,8 +18,8 @@ Pokémon's name?
 Please enter the name.
 Numbers may contain\xfffeonly up to four digits.
 The Game Sync ID Code\xfffeis incorrect.
-　
-　
+
+
 Welcome!
 Thank you!
 Shiro*
