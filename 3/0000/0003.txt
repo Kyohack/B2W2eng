@@ -6,9 +6,9 @@ no data
 no data
 no data
 no data
-Takurou『Some people have decided already\xfffethat they will definitely get what they want\xf000븀\x0000\xfffein the palm of their hands!\xf000븁\x0000\xfffeIf you have a Pokémon that you desire too,\xfffenever give up!\xf000븁\x0000\xfffeTrust your decision to be right\xfffeand give it your best!
-Takurou『さいこうに　キマってる\xfffeおれたちの　いきつけの　ショップに\xf000븁\x0000\xfffeさいしんの　アイテムが\xfffeにゅうか　されたみたいだぜ！
-Takurou『むかしは　かねめあての\xfffeわるいやつらが　ウロチョロしてたがな\xf000븀\x0000\xfffeおれが　ほとんど　たいじしてやった！\xf000븁\x0000\xfffeへっ！　ブラックシティの　へいわを\xfffeI'll be the one making the decisions!
+Takurou: Some people already decided to\xfffeget their hands on what they want!\xf000븁\x0000\xfffeIf you have a Pokémon that you desire,\xfffenever give up!\xf000븁\x0000\xfffeTrust your decision to be right\xfffeand give it your best!
+Takurou: This is our favorite shop.\xf000븁\x0000\xfffeさいしんの　アイテムが\xfffeにゅうか　されたみたいだぜ！
+タクロウ『むかしは　かねめあての\xfffeわるいやつらが　ウロチョロしてたがな\xf000븀\x0000\xfffeおれが　ほとんど　たいじしてやった！\xf000븁\x0000\xfffeへっ！　ブラックシティの　へいわを\xfffeI'll be the one making the decisions!
 no data
 no data
 no data
@@ -70,9 +70,9 @@ no data
 no data
 no data
 no data
-Yumiko『なだたる　かいしゃが　あつまる\xfffeこの　ブラックシティでも　ゆびおりの\xf000븀\x0000\xfffeきぎょうに　しゅうしょく　したの！\xf000븁\x0000\xfffeバリバリ　はたらいて\xfffeしゅっせ　しちゃうんだから！
-Yumiko『わたし　もうだめ！　だめなの！\xfffeうわぁああああああああああん！\xf000븁\x0000\xfffeひぐっ……　しごとでは　しっぱいするし\xfffeこいびとには　ふられちゃうし……\xf000븁\x0000\xfffeホワイトフォレストに　にげたい……\xfffeもりと　ポケモンに　いやされたい……
-Yumiko『The company in between us\xfffeおおきなトラブルを　かいけつしてね\xf000븀\x0000\xfffeみんなに　ほめられちゃった♪\xf000븁\x0000\xfffeI know a lot has happened, please don't stop\xfffeI'm glad that you continued!\xf000븁\x0000\xfffeこれからも　このブラックシティで\xfffeバリバリ　おかねを　かせいでいくわよ
+Yumiko: 『なだたる　かいしゃが　あつまる\xfffeこの　ブラックシティでも　ゆびおりの\xf000븀\x0000\xfffeきぎょうに　しゅうしょく　したの！\xf000븁\x0000\xfffeバリバリ　はたらいて\xfffeしゅっせ　しちゃうんだから！
+Yumiko: 『わたし　もうだめ！　だめなの！\xfffeうわぁああああああああああん！\xf000븁\x0000\xfffeひぐっ……　しごとでは　しっぱいするし\xfffeこいびとには　ふられちゃうし……\xf000븁\x0000\xfffeホワイトフォレストに　にげたい……\xfffeもりと　ポケモンに　いやされたい……
+Yumiko: The company in between us\xfffeおおきなトラブルを　かいけつしてね\xf000븀\x0000\xfffeみんなに　ほめられちゃった♪\xf000븁\x0000\xfffeI know a lot has happened, please don't\xfffestop. I'm glad that you continued!\xf000븁\x0000\xfffeこれからも　このブラックシティで\xfffeバリバリ　おかねを　かせいでいくわよ
 no data
 no data
 no data
