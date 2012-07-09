@@ -22,7 +22,7 @@ Press the button, and you will be\xfffesent to the Entralink instantly.
 You can tell how many people\xfffeare in the Union Room around you\xfffeand if wireless distributions\xfffeare available nearby.
 You can also tell who has\xfffethe C-Gear turned on around you.\xfffeWhen people are nearby,\xfffeit is easier to receive signals for\xfffethe Tag Log and Survey Radar.
 It displays what people\xfffearound you are doing in real time.\xfffeBy selecting it, you can find out\xfffemore about them and send\xfffethem messages.
-Also,　when in FES MISSION,\xfffethe letters of\xfffeＦＥＳ　ＭＩＳＳＩＯＮ！　will\xfffeflow from left-to-right.\xfffeYou can participate in\xfffeFES MISSION from Street-Pass.
+Also, when in FES MISSION,\xfffethe letters of\xfffeFES MISSION will\xfffeflow from left-to-right.\xfffeYou can participate in\xfffeFES MISSION from Street-Pass.
 You can do surveys on people\xfffearound you.\xfffe\xfffeChoose what you want to find out,\xfffeand you can see the daily results,\xfffeas well as the cumulative results.
 The light will flicker once\xfffeStreet-Pass checking is\xfffecompleted.\xfffeReport to the captain of\xfffeCastelia's research group.
 Touch the Customization icon, and it will\xfffestart blinking. Touch other buttons as it\xfffeblinks, and they will appear differently.\xfffe\xfffeYou can even make patterns with buttons\xfffeof different colors.
