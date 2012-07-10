@@ -38,7 +38,7 @@ Hiya!
 \xf000Ā\x0001\x0000's \xf000Ă\x0001\x0002's\xfffelevel went up!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 evolved\xfffeinto \xf000ā\x0001\x0001!
 Dummy Message
-\xf000Ā\x0001\x0000 found\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 found a\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000's playing time has\xfffeexceeded \xf000Ȃ\x0001\x0001 hours!
 \xf000Ā\x0001\x0000 completed the\xfffePokédex!
 \xf000Ā\x0001\x0000 has been thanked\xfffemore than \xf000Ȃ\x0001\x0001 times!
