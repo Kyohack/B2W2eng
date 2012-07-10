@@ -39,7 +39,7 @@ Yes
 No
 \xf000Ă\x0001\x0000 did not learn\xfffe\xf000ć\x0001\x0001.
 Which move should\xfffebe forgotten?
-1, \xf000븂\x0001\x00142, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Ta-da!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...
+1,\xf000븂\x0001\x0014 2, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...
 \xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
 \xf000Ă\x0001\x0000 and \xf000ć\x0001\x0001\xfffeare not compatible.\xf000븁\x0000\xfffe\xf000ć\x0001\x0001 can't be learned.
 \xf000Ă\x0001\x0000 already knows\xfffe\xf000ć\x0001\x0001.
@@ -71,10 +71,10 @@ I quit the challenge?
 Yes
 No
 \xf000Ă\x0001\x0000 woke up.
-ここを　だっしゅつ　して\xfffe\xf000ą\x0001\x0000に　もどる？
+Escape and return\xfffeto \xf000ą\x0001\x0000?
 Yes
 No
-テレポートして\xfffe\xf000ą\x0001\x0000に　もどる？
+Teleport and return\xfffeto \xf000ą\x0001\x0000?
 Yes
 No
 No more than two Pokémon\xfffemay enter.
@@ -124,7 +124,7 @@ Read Mail
 Take Mail
 Store
 Quit
-いれかえる
+Replace
 Join
 Not entered
 \xf000ć\x0001\x0000
@@ -137,8 +137,8 @@ Take
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
-いどう
-メールを　いどう
+Move
+Move Mail
 Not entered
 Banned
 First
@@ -168,9 +168,9 @@ Speed
 +
 \xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000 was elevated to\xfffeLv. \xf000Ȃ\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　おぼえた！\xf000븅\x0001\x0003\xf000븅\x0001\x0005
-ふたりで　いるときは\xfffe\xf000ć\x0001\x0000は　つかえません！
-いまは　それどころじゃ　ない！
+\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0003\xf000븅\x0001\x0005
+You can't use that when you have\xfffesomeone with you.
+This isn't the place for that!
 \xf000ĉ\x0001\x0001
 What will you do\xfffewith the Egg?
 Please select an Egg.
