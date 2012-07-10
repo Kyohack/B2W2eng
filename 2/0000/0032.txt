@@ -24,8 +24,8 @@ OFF
 SAVE
 NO SAVE
 You can choose from three different\xfffetext-scrolling speeds.
-You can choose to switch Pokémon\xfffewhen an opponent's Pokémon faints.
 You can choose whether to view\xfffemove animations.
+You can choose to switch Pokémon\xfffewhen an opponent's Pokémon faints.
 You can choose the way the game sounds.
 You can change the language\xfffeof Pokémon names.
 You can turn wireless communication\xfffeon or off.
