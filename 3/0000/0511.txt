@@ -1,34 +1,34 @@
 えーと……\xfffeわしは　だれ　じゃったっけっか？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffeおお　そうじゃ！\xfffeわしは　わすれジイさん　じゃ！\xf000븁\x0000
-Good morning! Welcome to\xfffethe Pokémon Center.\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
-Hello, and welcome to\xfffethe Pokémon Center.\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
-Welcome to the Pokémon Center.\xf000븁\x0000\xfffeHey! Is today your birthday?
-Happy birthday!\xf000븁\x0000\xfffePlease keep visiting the Pokémon Center\xfffefor many years to come.\xf000븁\x0000\xfffeNow, would you like to rest\xfffeyour Pokémon?
-It isn't? Oh, I must have been confused.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
-OK, I'll take your Pokémon for\xfffea few seconds.
-Thank you for waiting.\xf000븁\x0000\xfffeWe've restored your Pokémon\xfffeto full health.\xf000븁\x0000
+おぬし　ポケモンの　わざを\xfffeわすれさせに　きたのじゃな？
+どの　ポケモンに　するのじゃ？\xf000븁\x0000
+わざを　わすれさせたく　なったら\xfffeわしのことを　おもいだすのじゃぞ！
+なぬ？　そのポケモンは　ひとつしか\xfffeわざを　おぼえておらんよ？\xf000븁\x0000
+なぬ？　それは　タマゴ　じゃからな\xfffeなにも　わざを　おぼえておらんよ……\xf000븁\x0000
+ふむ……　そして\xfffeどの　わざを　わすれさせるのじゃ？\xf000븁\x0000
+\xf000ć\x0001\x0000を\xfffeわすれさせて　よいのじゃな？
 だいせいこう　じゃ！\xf000븁\x0000\xfffeおぬしの　ポケモンは\xfffe\xf000ć\x0001\x0000を　わすれおったぞ！
-Hello, and welcome to\xfffethe Pokémon Center.\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to...\xf000븁\x0000
-Th-that Trainer Card!\xfffeThat wonderful shade! That sparkle!\xf000븁\x0000\xfffeI've seen several Trainers with\xfffeSilver Trainer Cards already...\xf000븁\x0000\xfffeBut you're the first to top them all with\xfffethat impressive Trainer Card.\xf000븁\x0000\xfffeOh, \xf000Ā\x0001\x0000, may I please heal\xfffeyour Pokémon?
-Great to see you, \xf000Ā\x0001\x0000!\xfffeYou want the usual, right?
-\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000に\xfffeどの　わざを　おぼえさせる？
+\xf000ć\x0001\x0001　を\xfffeおぼえさせますか？
+\xf000Ă\x0001\x0000に　わざを\xfffeおぼえさせるのを　あきらめますか？
+\xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえた！
 \xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえたい……\xf000븁\x0000\xfffeしかし　\xf000Ă\x0001\x0000は　わざを　４つ\xfffeおぼえるので　せいいっぱいだ！\xf000븁\x0000\xfffe\xf000ć\x0001\x0001の　かわりに\xfffeほかの　わざを　わすれさせますか？
 １\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいにわすれた！\xf000븁\x0000\xfffeそして……！\xf000븁\x0000
-DS Wireless Communications\xfffewill be launched.
-I hope you enjoy your time in\xfffethe Union Room.\xf000븁\x0000
-Please do visit again.
-Enter the Union Room
-Is it OK to forget the\xfffemove \xf000ć\x0001\x0000?
-Info
-I am sorry...\xfffeYou can't enter the Union Room yet.\xf000븁\x0000
-You have at least one Pokémon\xfffethat can't be taken in.\xf000븁\x0000
-Wait, Trainer!\xf000븁\x0000\xfffeYour title on your Trainer Card\xfffeis still just “Pokémon Trainer," isn't it?\xf000븁\x0000\xfffeIf you change your title, you can easily\xfffeproject your image to others when you\xf000븀\x0000\xfffegreet them in the Union Room.\xf000븁\x0000\xfffeLet's see...\xfffeHow about \xf000Ď\x0001\x0000?\xf000븀\x0000\xfffeWhat do you think?\xf000븁\x0000\xfffeThat is the impression I got from you.\xfffeFirst, let's change your title.\xf000븁\x0000\xfffeIf you don't like the new one, you can\xfffechange it by selecting your Trainer Card.\xf000븁\x0000
+\xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえた！\xf000븁\x0000
+それでは……　\xf000ć\x0001\x0001を\xfffeおぼえるのを　あきらめますか？
+\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001を\xfffeおぼえずに　おわった！\xf000븁\x0000
+\xf000Ā\x0001\x0002は　おれいに\xfffeハートのウロコを　１まい　あげた！\xf000븁\x0000
+\xf000ć\x0001\x0000を\xfffeわすれさせて　よろしいですね？
+\xf000Ă\x0001\x0000に\xfffeどの　わざを　おもいださせる？\xf000븁\x0000
+\xf000ć\x0001\x0001　を\xfffeおもいだしますか？
+\xf000Ă\x0001\x0000に　わざを\xfffeおもいださせるのを　あきらめますか？
+\xf000Ă\x0001\x0000は　わすれていた\xfffe\xf000ć\x0001\x0001を　おもいだした！\xf000븁\x0000
 \xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　おもいだしたい…\xf000븁\x0000\xfffeしかし　\xf000Ă\x0001\x0000は　わざを　４つ\xfffeおぼえるので　せいいっぱいだ！\xf000븁\x0000\xfffe\xf000ć\x0001\x0001の　かわりに\xfffeほかの　わざを　わすれさせますか？
 １\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいにわすれた！\xf000븁\x0000\xfffeそして……！\xf000븁\x0000
-Wait, Trainer!\xf000븁\x0000\xfffeYour title on your Trainer Card\xfffeis still just “Pokémon Trainer," isn't it?\xf000븁\x0000\xfffeIf you change your title, you can easily\xfffeproject your image to others when you\xf000븀\x0000\xfffegreet them in the Union Room.\xf000븁\x0000\xfffeLet's see...\xfffeHow about \xf000Ď\x0001\x0000?\xf000븀\x0000\xfffeWhat do you think?\xf000븁\x0000\xfffeThat is the impression I got from you.\xfffeFirst, let's change your title.\xf000븁\x0000\xfffeIf you don't like the new one, you can\xfffechange it by selecting your Trainer Card.\xf000븁\x0000
+\xf000Ă\x0001\x0000は　わすれていた\xfffe\xf000ć\x0001\x0001を　おもいだした！\xf000븁\x0000
 それでは……　\xf000ć\x0001\x0001を\xfffeおもいだすのを　あきらめますか？
 \xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001を\xfffeおもいださずに　おわった！\xf000븁\x0000
 \xf000Ā\x0001\x0000は　おれいに\xfffeハートのウロコを　１まい　あげた！
-Is it OK to forget the\xfffemove \xf000ć\x0001\x0000?
+\xf000ć\x0001\x0000を\xfffeわすれさせて　よろしいですね？
 みんな　あたしの　ことを　\xfffeメモリアルガール　と　よぶの\xf000븁\x0000\xfffeポケモンが　せいちょうして　おぼえる\xfffeわざを　すべて　しっていてね\xf000븁\x0000\xfffeその　わざを　ポケモンに\xfffeおもいださせることが　できるのよ！\xf000븁\x0000\xfffeハートのウロコと　いう\xfffeどうぐを　くれたら　あなたの\xf000븀\x0000\xfffeポケモンに　わざを　おもいださせるわ\xf000븁\x0000
 わざを　おもいださせますか？
 どの　ポケモンにしますか？\xf000븁\x0000
@@ -45,9 +45,9 @@ PP
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 \xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
-Back
----
-Back
+やめる
+ーーー
+もどる
 おぼえる
 どのわざを　おぼえさせる？
 \xf000Ă\x0001\x0000
