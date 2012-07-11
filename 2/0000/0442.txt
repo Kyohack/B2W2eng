@@ -1,3 +1,4 @@
+
 For some time after its birth, it\xfffegrows by gaining nourishment from\xfffethe seed on its back.
 When the bud on its back starts\xfffeswelling, a sweet aroma wafts to\xfffeindicate the flower's coming bloom.
 After a rainy day, the flower on\xfffeits back smells stronger. The\xfffescent attracts other Pokémon.
@@ -678,7 +679,6 @@ When alone, nothing happens.\xfffeHowever, if there are two or more,\xfffean odd
 きおんや　しつどが　さいぼうに\xfffeえいきょう　するため　てんきによって\xfffeすがたが　かわってしまう　ポケモン。
 きおんや　しつどが　さいぼうに\xfffeえいきょう　するため　てんきによって\xfffeすがたが　かわってしまう　ポケモン。
 きおんや　しつどが　さいぼうに\xfffeえいきょう　するため　てんきによって\xfffeすがたが　かわってしまう　ポケモン。
-いんせきに　ふちゃくしていた\xfffeうちゅうウイルスの　ＤＮＡが\xfffeへんいして　うまれた　ポケモン。
 An alien virus that fell to earth\xfffeon a meteor underwent a DNA\xfffemutation to become this Pokémon.
 An alien virus that fell to earth\xfffeon a meteor underwent a DNA\xfffemutation to become this Pokémon.
 An alien virus that fell to earth\xfffeon a meteor underwent a DNA\xfffemutation to become this Pokémon.
