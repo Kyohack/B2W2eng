@@ -8,8 +8,8 @@
 ◇ A Trainer from Aspertia City challenged and successfully beat Clay, the Driftveil Gym Leader!
 ◇ A Trainer from Aspertia City challenged and successfully beat Skyla, the Mistralton Gym Leader!
 ◇ A Trainer from Aspertia City challenged and successfully beat Drayden, the Opelucid Gym Leader!
-◇ A Trainer from Aspertia City challenged and successfully beat Shizui, the Seigaiha Gym Leader!
-◇ A Trainer from Aspertia City challenged and successfully beat Shizui, the Seigaiha Gym Leader!
+◇ A Trainer from Aspertia City challenged and successfully beat Marlon, the Seigaiha Gym Leader!
+◇ A Trainer from Aspertia City challenged and successfully beat Marlon, the Seigaiha Gym Leader!
 ◇ “Tender loving care! They grow in no time!" Day Care on Route 3
 ◇ “Names will bring you wonderful relationships!" Name Rater in Castelia City
 ◇ “Wondering what others are doing? Let's interview them!" Passerby Analytics in Castelia City
@@ -209,7 +209,7 @@ A very unusual strong storm is happening!
 ◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, and \xf000ā\x0001\x0003!
 ◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, and \xf000ā\x0001\x0004!
 ◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, \xf000ā\x0001\x0004, and \xf000ā\x0001\x0005!
-◇ A Trainer from Aspertia City defeated the Seigaiha Gym Leader, Shizui!!
+◇ A Trainer from Aspertia City defeated the Seigaiha Gym Leader, Marlon!!
 ◇ The beautiful view of the mountains is a must-see.
 ◇ Aspertia City's Trainer School is a heated educational institution.
 ◇ With its blooming flowers, Aspertia City is wrapped in sweet aromas.
