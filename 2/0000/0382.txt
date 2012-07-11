@@ -158,7 +158,7 @@ Cheren
 Roxie
 Clay
 Drayden
-Shizui
+Marlon
 Rival
 Rival
 Rival
@@ -769,7 +769,7 @@ Elesa
 Clay
 Skyla
 Drayden
-Shizui
+Marlon
 Shauntal
 Grimsley
 Marshal
