@@ -1,7 +1,7 @@
-おはよう　ございます\xfffe\xf000Ā\x0001\x0000さん　ですね\xf000븁\x0000\xfffeプレゼントを　おあずかり　しています\xfffeこちらを　どうぞ！\xf000븁\x0000
-こんにちは\xfffe\xf000Ā\x0001\x0000さん　ですね\xf000븁\x0000\xfffeプレゼントを　おあずかり　しています\xfffeこちらを　どうぞ！\xf000븁\x0000
-こんばんは\xfffe\xf000Ā\x0001\x0000さん　ですね\xf000븁\x0000\xfffeプレゼントを　おあずかり　しています\xfffeこちらを　どうぞ！\xf000븁\x0000
-おあずかり　してる　プレゼントは\xfffeもう　ありません\xf000븁\x0000\xfffeまたの　ごりようを\xfffeおまちして　おります
-We look forward to your next visit.
+Good morning!\xfffe\xf000Ā\x0001\x0000, I presume?\xf000븁\x0000I have a present for you.\xfffeHere you are!\xf000븁\x0000
+Good afternoon!\xfffe\xf000Ā\x0001\x0000, I presume?\xf000븁\x0000I have a present for you.\xfffeHere you are!\xf000븁\x0000
+Good evening!\xfffe\xf000Ā\x0001\x0000, I presume?\xf000븁\x0000I have a present for you.\xfffeHere you are!\xf000븁\x0000
+I have no more presents\xfffeleft to deliver to you.\xf000븁\x0000We are looking forward\xfffeto meet you again!
+We're looking forward\xfffeto your next visit.
 \xf000Ā\x0001\x0000 obtained\xfffethe \xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000!
 Another \xf000ĉ\x0001\x0000? You already\xfffehave too many to accept any more.
