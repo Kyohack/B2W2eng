@@ -1,7 +1,7 @@
-ハロー！　ハロー！\xfffeユナイテッドタワーに　ごようですか？
-ハロー！　この　ふねは\xfffeユナイテッドタワー　いきです
+Hello!\xfffeWould you like to go to Unity Tower?
+Hello! This ship\xfffeユナイテッドタワー　いきです
 One person will be on board!\xfffePlease get on board!\xf000븁\x0000
-ユナイテッドタワーは\xfffeせかいじゅうから　トレーナーが\xf000븀\x0000\xfffeあつまってくる　ばしょ　です！\xf000븁\x0000\xfffeもし　おきゃくさまに\xfffeとおく　はなれた　ばしょで　くらす\xf000븀\x0000\xfffeおともだちが　いらっしゃれば\xf000븁\x0000\xfffeかんどうの　さいかいなど\xfffeはたせるのでは　ないでしょうか！\xf000븁\x0000
+Unity Tower is a place where Trainers\xfffegather from all over the world!\xf000븁\x0000\xfffeIf you have friends who live far away,\xfffeyou may be able to\xf000븀\x0000\xfffehave a merry reunion!\xf000븁\x0000
 Please come again!
 YES
 NO
