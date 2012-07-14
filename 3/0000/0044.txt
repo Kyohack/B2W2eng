@@ -1,5 +1,5 @@
 Hello!\xfffeWould you like to go to Unity Tower?
-Hello! This ship\xfffeユナイテッドタワー　いきです
+Hello! This ship\xfffegoes to Unity Tower.
 One person will be on board!\xfffePlease get on board!\xf000븁\x0000
 Unity Tower is a place where Trainers\xfffegather from all over the world!\xf000븁\x0000\xfffeIf you have friends who live far away,\xfffeyou may be able to\xf000븀\x0000\xfffehave a merry reunion!\xf000븁\x0000
 Please come again!
