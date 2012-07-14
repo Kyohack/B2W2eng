@@ -27,7 +27,7 @@ Would you like to board\xfffethe Super Single Train?
 Would you like to board\xfffethe Super Double Train?
 Would you like to board\xfffethe Super Multi Train?
 test
-おきゃくさま！\xf000븁\x0000\xfffeさんかできる　ポケモンが\xfffe\xf000Ȁ\x0001\x0000ひき　いません\xf000븁\x0000\xfffeさんかするには　しゅるいが　ちがう\xfffeポケモンを　\xf000Ȁ\x0001\x0000ひき　よういし\xf000븀\x0000\xfffeちがう　どうぐに　してください
+Passenger!\xf000븁\x0000\xfffeYou don't have \xf000Ȁ\x0001\x0000\xfffePokémon that can be entered.\xf000븁\x0000\xfffeTo enter, please prepare\xfffe\xf000Ȁ\x0001\x0000 Pokémon of different species\xf000븀\x0000\xfffewith different items!
 test
 Please select the Pokémon you wish\xfffeto enter.\xf000븁\x0000
 Now, please board\xfffethe Single Train!\xf000븁\x0000
