@@ -1,25 +1,25 @@
-シャガ『きみが　のぞむなら\xfffeきみの　ポケモンに\xf000븀\x0000\xfffeドラゴンタイプ　さいきょうの\xf000븀\x0000\xfffeわざを　おしえても　よい\xf000븁\x0000\xfffeさて　ポケモンに\xfffeわざを　おぼえさせるかね？\xf000븁\x0000
+Drayden『Should you wish it,\xfffeI can teach your Pokémon\xf000븀\x0000the ultimate dragon-type move.\xf000븁\x0000So, shall I teach\xfffeone of your Pokémon?\xf000븁\x0000
 Understood.\xfffeCome again if you change your mind.
-フム……\xf000븁\x0000\xfffeきみが　つれている　ポケモンは\xfffeわざを　おぼえることは　できる\xf000븁\x0000\xfffeだが　その　ポケモンは　まだ\xfffeきみに　かんぜんに　なついていない\xf000븁\x0000\xfffeそれでは　この　わざを\xfffeおぼえさせる　わけには　いかない
-なるほど……\xf000븁\x0000\xfffeだが　きみが　つれている　なかに\xfffeわざを　おぼえられる\xf000븀\x0000\xfffeポケモンは　いないようだね
-Which Pokémon should\xfffelearn this move?\xf000븁\x0000
-もうしわけないのだが……\xf000븁\x0000\xfffeその　ポケモンでは\xfffeこの　わざは　おぼえられない
-フム……\xf000븁\x0000\xfffeタマゴに　わざを　おぼえさせるのは\xfffeわたしにも　むずかしいな
+Hmm...\xf000븁\x0000\xfffeThis Pokémon can learn this move, but\xfffeyour bond of friendship is not yet\xf000븀\x0000\xfffestrong enough.\xf000븁\x0000\xfffeWhich means I cannot teach\xfffeit this move at the moment.
+I see...\xf000븁\x0000\xfffeBut there are no Pokémon with\xfffeyou right now that can learn this move.
+Which Pokémon should\xfffelearn this move？\xf000븁\x0000
+I'm very sorry, but...\xf000븁\x0000\xfffeThis Pokémon cannot learn this move.
+That's an interesting request, but...\xfffeNot even I can teach a move to an Egg.
 Hmm... It looks like this Pokémon\xfffealready knows \xf000ć\x0001\x0000.
-シャガ『りゅうせいぐんの　いりょくは\xfffeすさまじいが　つかうと　じぶんの\xf000븀\x0000\xfffeとくこうも　さげてしまうぞ
-\xf000ā\x0001\x0000に　わざを\xfffeおぼえさせるのを　あきらめますか？
-\xf000ā\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえた！
-\xf000ā\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえたい……！\xf000븁\x0000\xfffeしかし　\xf000ā\x0001\x0000は\xfffeすでに　わざを　４つ　おぼえている！\xf000븁\x0000\xfffe\xf000ć\x0001\x0001の　かわりに\xfffeほかの　わざを　わすれさせますか？
-Give up on learning the\xfffemove \xf000ć\x0001\x0000?
-\xf000ā\x0001\x0000は　\xf000ć\x0001\x0001を\xfffeおぼえずに　おわった！
-Is it OK to forget\xfffethe move \xf000ć\x0001\x0001?
-１　２の　……ポカン！\xf000븁\x0000\xfffe\xf000ā\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいに　わすれた！\xf000븁\x0000\xfffeそして……！\xf000븁\x0000\xfffe\xf000ā\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0002を　おぼえた！
-アイリス『ねえねえ！\xfffeよければ　きみの　ポケモンに\xf000븀\x0000\xfffeドラゴンタイプ　さいきょうの　わざ\xf000븀\x0000\xfffeあたしが　おしえてあげる！！\xf000븁\x0000\xfffeどうする？　ポケモンに\xfffeわざを　おぼえさせてあげる？\xf000븁\x0000
-OK! Well, if you change your mind,\xfffecome again, OK?
-どれどれ……\xf000븁\x0000\xfffeきみが　つれている　ポケモンは\xfffeわざを　おぼえることは　できるけど\xf000븁\x0000\xfffeその　ポケモン……　まだ\xfffeきみに　かんぜんに　なついてないよね\xf000븁\x0000\xfffeそれだと　この　わざを\xfffeおぼえさせるのは　むずかしいなあ
-えーっと\xf000븁\x0000\xfffeきみが　つれている　なかに\xfffeわざを　おぼえられる\xf000븀\x0000\xfffeポケモン　いないみたい……
+Drayden『Draco Meteor is\xfffetremendously powerful, but using it\xf000븀\x0000will lower your own Special Attack.
+Give up on teaching a move\xfffeto \xf000Ă\x0001\x0000？
+\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001！
+\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000However, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000Should a move be forget and\xfffereplaced with \xf000ć\x0001\x0001？
+Give up on learning the\xfffemove \xf000ć\x0001\x0000？
+\xf000Ă\x0001\x0000 didn't learn\xfffe\xf000ć\x0001\x0001！\xf000븁\x0000
+Is it OK to forget\xfffethe move \xf000ć\x0001\x0001？
+1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof！\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000And...\xf000븁\x0000\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001！\xf000븁\x0000
+Iris『Hey hey！\xfffeLemme teach your Pokémon the\xf000븀\x0000ultimate dragon-type move！！\xf000븁\x0000Whaddya say？ Want me\xfffeto teach a Pokémon？\xf000븁\x0000
+OK!！Well, if you change your mind,\xfffecome again, OK？
+Lessee here...\xf000븁\x0000That Pokémon\xfffeCOULD learn it, but...\xf000븁\x0000It's... not so\xfffeattached to you...\xf000븁\x0000That'll make it really hard\xfffeto teach it this move!
+Ummm,\xfffeuhhh...\xf000븁\x0000You don't have any\xfffePokémon I could teach, sorry...
 OK, great! Which Pokémon should\xfffelearn this move?\xf000븁\x0000
-うーん　ごめんね……\xf000븁\x0000\xfffeその　ポケモンでは\xfffeこの　わざ　おぼえられないよ……
-エーッ！\xf000븁\x0000\xfffeタマゴに　わざを　おぼえさせるの？\xfffeじゃあ　ちょっと　がんばってみるね\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffeごめん……\xfffeちょっと　ムリみたい……
-どれどれ？　その　ポケモン\xfffeすでに　\xf000ć\x0001\x0000を　おぼえているよ？
-アイリス『りゅうせいぐんの　いりょくは\xfffeものすごーく　すごいんだけど！\xf000븁\x0000\xfffeつかったあとは　じぶんの\xfffeとくこうも　さがっちゃうんだ
+Um... I'm sorry...\xfffeThat Pokémon can't learn this move!
+WHAAA?!\xf000븁\x0000Teach it to an EGG?\xfffe...OKAY! Iris will DO HER BEST!!\xf000븁\x0000HRNNN... ... ...\xfffe... ... ...gh!\xf000븁\x0000Sorry...\xfffeNot gonna work...
+Whazzat? Doesn't that Pokémon\xfffealready know \xf000ć\x0001\x0000?
+Iris: Draco Meteor is\xfffesuper-DUPER powerful! But!\xf000븁\x0000After you use it, your\xfffeSpecial Attack goes down!
