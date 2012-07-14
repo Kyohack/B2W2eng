@@ -1,39 +1,24 @@
-ハチクマンぐんだん
-せいぎの　なかま
-\xf000ā\x0001\x0000キッド
-\xf000ā\x0001\x0000ガール
-ゆうえんちのきゃくＡ
-ヒロノブ
-ゆうえんちのきゃくＢ
-メグミ
-エキストラ
-Ｐ　キャスティング
+BrycenMan Corps
+Heroes of Justice
+\xf000ā\x0001\x0000Kid
+\xf000ā\x0001\x0000Girl
+Minccino Amusement Park Visitor A
+Hironobu
+Minccino Amuesment Park Visitor B
+Megumi
+Extras
+Ｐ　Casting
 None
 None
 None
 None
-Ｎ・スグル
-ハチクマンぐんだん
-せいぎの　なかま
-\xf000ā\x0001\x0000キッド
-\xf000ā\x0001\x0000ガール
-アナウンス
-ＭＩＹＵＫＩ
-None
-None
-None
-None
-None
-None
-None
-None
-Ｎ・スグル
-ハチクマンぐんだん
-せいぎの　なかま
-\xf000ā\x0001\x0000キッド
-\xf000ā\x0001\x0000ガール
-にげまどうしみん
-げきだんアキト
+Ｎ・Suguru
+BrycenMan Corps
+Heroes of Justice
+\xf000ā\x0001\x0000Kid
+\xf000ā\x0001\x0000Girl
+Announcement
+MIYUKI
 None
 None
 None
@@ -42,103 +27,101 @@ None
 None
 None
 None
-Ｎ・スグル
-メカポリスのあいぼう
+Ｎ・Suguru
+BrycenMan Corps
+Heroes of Justice
+\xf000ā\x0001\x0000Kid
+\xf000ā\x0001\x0000Girl
+I run around trying to escape
+The Akito Troupe
+None
+None
+None
+None
+None
+None
+None
+None
+Ｎ・Suguru
+Mecha Police Partner
+Finger of Kakiuchi
+\xf000ā\x0001\x0000Ninja
+\xf000ā\x0001\x0000Kunoichi
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Ｉ・Hiroto
+Mecha Police Partner
+Finger of Kakiuchi
+\xf000ā\x0001\x0000Ninja
+\xf000ā\x0001\x0000Kunoichi
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Ｉ・Hiroto
+Mecha Police Partner
+Finger of Kakiuchi
+\xf000ā\x0001\x0000Ninja
+\xf000ā\x0001\x0000Kunoichi
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Ｉ・Hiroto
+Mecha Police Partner
 かいとうのてさき
-\xf000ā\x0001\x0000ニンジャ
-\xf000ā\x0001\x0000クノイチ
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-Ｉ・ヒロト
-メカポリスのあいぼう
-かいとうのてさき
-\xf000ā\x0001\x0000ニンジャ
-\xf000ā\x0001\x0000クノイチ
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-Ｉ・ヒロト
-ポリアンナのあいぼう
-かいとうのてさき
-\xf000ā\x0001\x0000ニンジャ
-\xf000ā\x0001\x0000クノイチ
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-Ｉ・ヒロト
-メカポリスのあいぼう
-かいとうのてさき
-\xf000ā\x0001\x0000ニンジャ
-\xf000ā\x0001\x0000クノイチ
+\xf000ā\x0001\x0000Ninja
+\xf000ā\x0001\x0000Kunoichi
 CONNECTION
-ヒロノブ
-きどうたいいん
-げきだんアキト
+Hironobu
+Starting Discharge
+Akito Troupe
 None
 None
 None
 None
 None
 None
-Ｉ・ヒロト
-UFOのしもべ
-ぼうえいたいポケモン
-ぼうえいたいクルー
-ぼうえいたいクルー
-にげまどうしみん
-げきだんアキト
-ねらわれたろうじん
-ＭＡＹＯ
+Ｉ・Hiroto
+UFO Servant
+Pokemon Guard
+Guard Crew
+Guard Crew
+I run around trying to escape
+The Akito Troupe
+Aimed at the Elderly
+MAYO
 None
 None
 None
 None
 None
 None
-Ｎ・スグル
-Eの　はつめい
-ぼうえいたいポケモン
-ぼうえいたいクルー
-ぼうえいたいクルー
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-Ｎ・スグル
-UFOのしもべ
-ぼうえいたいポケモン
-ぼうえいたいクルー
-ぼうえいたいクルー
-にげまどうしみん
-げきだんアキト
+Ｎ・Suguru
+E's Invention
+Pokemon Guard
+Guard Crew
+Guard Crew
 None
 None
 None
@@ -147,13 +130,15 @@ None
 None
 None
 None
-Ｎ・スグル
-Eのしもべ
-ぼうえいたいポケモン
-ぼうえいたいクルー
-ぼうえいたいクルー
-にげまどうしみん
-げきだんアキト
+None
+None
+Ｎ・Suguru
+UFO Servant
+Pokemon Guard
+Guard Crew
+Guard Crew
+I run around trying to escape
+The Akito Troupe
 None
 None
 None
@@ -162,13 +147,13 @@ None
 None
 None
 None
-Ｎ・スグル
-きょだいせいぶつ
-ぼうえいたいポケモン
-ぼうえいたいクルー
-ぼうえいたいクルー
-ぼうえいたいキャップ
-ヒロノブ
+Ｎ・Suguru
+E's Invention
+Pokemon Guard
+Guard Crew
+Guard Crew
+I run around trying to escape
+The Akito Troupe
 None
 None
 None
@@ -177,13 +162,13 @@ None
 None
 None
 None
-Ｎ・スグル
-きかいのかいぶつ
-ぼうえいたいポケモン
-ぼうえいたいクルー
-ぼうえいたいクルー
-ぼうえいたいキャップ
-ヒロノブ
+Ｎ・Suguru
+Huge Creature
+Pokemon Guard
+Guard Crew
+Guard Crew
+Guard's Cap
+Hironobu
 None
 None
 None
@@ -192,13 +177,13 @@ None
 None
 None
 None
-Ｎ・スグル
-だいバンギラスのぶか
-ぼうえいたいポケモン
-ぼうえいたいクルー
-ぼうえいたいクルー
-ぼうえいたいキャップ
-ヒロノブ
+Ｎ・Suguru
+Monster of an opprotunity
+Pokemon Guard
+Guard Crew
+Guard Crew
+Guard's Cap
+Hironobu
 None
 None
 None
@@ -207,7 +192,21 @@ None
 None
 None
 None
-Ｎ・スグル
+Ｎ・Suguru
+Big Tyranita knob
+Guard Crew
+Guard Crew
+Guard's Cap
+Hironobu
+None
+None
+None
+None
+None
+None
+None
+None
+Ｎ・Suguru
 きかいのかいぶつ２
 ぼうえいたいポケモン
 ぼうえいたいクルー
@@ -552,44 +551,41 @@ None
 ヤマジの　みなさん
 None
 None
-Ｓ・テルユキ
+Ｓ・Teriyuki
 こだいぞうのせんし
-ゴーストイレイザーズ
-ゴーストイレイザー
-ゴーストイレイザー
-わかい　じょしゅ
-ヒロノブ
-おいた　じょしゅ
-アキト
+Eraser's Ghost
+Eraser Ghost
+Eraser Ghost
+Young Assisstant
+Hironobu
+Your Assisstant
+Akito
 いらいぬし
-メグミ
-エキストラ
-Ｐ　キャスティング
+Megumi
+Extra
+Ｐ　Casting
 None
 None
-Ｓ・テルユキ
-はかいのまじん
-ゴーストイレイザーズ\xfffe
-ゴーストイレイザー
-ゴーストイレイザー
-にげまどう　しみん
-ヒロノブ
-にげまどう　しみん
-Ｐ　キャスティング
-None
-None
-None
+Ｓ・Teriyuki
+Devil of Destruction
+Eraser's Ghost\xfffe
+Eraser Ghost
+Eraser Ghost
+I run around trying to escape
+Hironobu
+I run around trying to escape
+Ｐ　Casting
 None
 None
 None
-Ｓ・テルユキ
-ハチクマンぐんだん
-せいぎの　なかま
-\xf000ā\x0001\x0000キッド
-\xf000ā\x0001\x0000ガール
 None
 None
 None
+Ｓ・Teriyuki
+BrycenMan Corps
+Heroes of Justice
+\xf000ā\x0001\x0000Kid
+\xf000ā\x0001\x0000Girl
 None
 None
 None
@@ -597,30 +593,33 @@ None
 None
 None
 None
-Ｎ・スグル
-ハチクマンぐんだん
-せいぎの　なかま
-\xf000ā\x0001\x0000マン
-\xf000ā\x0001\x0000マン
-ゆうえんちの　きゃくＡ
-ヒロノブ
-ゆうえんちの　きゃくＢ
-メグミ
-エキストラ
-Ｐ　キャスティング
+None
+None
+None
+Ｎ・Suguru
+BrycenMan Corps
+Heores of Justice
+\xf000ā\x0001\x0000Man
+\xf000ā\x0001\x0000Man
+Minccino Amusement Park Visitor A
+Hironobu
+Minccino Amusement Park Visitor B
+Megumi
+Extra
+Ｐ　Casting
 None
 None
 None
 None
-Ｎ・スグル
-きゃくほん
-かんとく
-ＶＦＸ
-ポケウッド　ＡＲＴ\xfffeケンキチ　プロ
+Ｎ・Suguru
+Screenplay
+Director
+VFX
+Pokeuddo　ART\xfffePro Kenkichi
 None
-ああああああああああ
-D．ポケンチ
-ポケミ　タカシ
-Ｊ．ポケンター
-Ｓ．ポケモンスキー
-Ｓ．ポケット
+Oh oh oh oh oh
+D．Pokenchi
+Takashi Pokemi
+Ｊ．Pokenta
+Ｓ．Pokemon Ski
+Ｓ．Pocket
