@@ -4,17 +4,17 @@ no data
 \xf000ē\x0001\x0000
 YES
 NO
-みんなが　すきなものは？\xfffeいま　はやっているものは？\xf000븁\x0000\xfffeそんな　ぎもんを\xfffeキミは　かんじたことは　ないか？\xf000븁\x0000\xfffeここは\xfffeすれちがい　ちょうさたいほんぶ\xf000븁\x0000\xfffeキミの　ような　まよえる　こひつじに\xfffeしんじつを　おしえる　ばしょだ\xf000븁\x0000\xfffe……キミは　いいめを　しているな\xfffeたんきゅうしん　あふれる　めだ\xf000븁\x0000\xfffe……よろしい！　キミを　とくべつに\xfffeちょうさたいいんに　にんめいしよう！\xf000븁\x0000
+What are people's favorite things?\xfffeWhat is popular right now?\xf000븁\x0000\xfffeHave you ever wondered about\xfffethese things?\xf000븁\x0000\xfffeWelcome to Passerby Analytics HQ!\xf000븁\x0000\xfffeThis is where you can find\xfffeall the answers.\xf000븁\x0000\xfffe...You have good eyes.\xfffeEyes full of curiosity.\xf000븁\x0000\xfffe...Good! I will specially appoint you\xfffeas a statistician!\xf000븁\x0000
 \xf000Ā\x0001\x0001 was appointed\xfffeas a statistician!\xf000븁\x0000
-たいいんの　しごとは　ただひとつ！\xfffeちょうさいらいを　ちょうさすることだ\xf000븁\x0000\xfffeまず　わたしから\xfffeちょうさいらいを　うける\xf000븁\x0000\xfffeそして　ちょうさレーダーで　\xfffeしらべたい　ちょうさを　えらぶ\xf000븁\x0000\xfffeあとは　たくさんの　ひとと\xfffeすれちがえば　レーダーが\xf000븀\x0000\xfffeじょうほうを　あつめてくれる\xf000븁\x0000\xfffeもちろん　ちょうさに　たいして\xfffeほうしゅうも　よういしている\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001たいいん！　キミの\xfffeかつやくを　きたいしているぞ！\xf000븁\x0000
+Statisticians have only one task!\xfffeThey conduct requested surveys.\xf000븁\x0000\xfffeFirst, you'll receive survey requests\xfffefrom me.\xf000븁\x0000\xfffeThen, with the Survey Radar, you'll\xfffechoose the survey you want to conduct.\xf000븁\x0000\xfffeThen, if you pass by a lot of people,\xfffethe radar will collect the information.\xf000븁\x0000\xfffeOf course, we've prepared compensation\xfffefor the survey.\xf000븁\x0000\xfffeStatistician \xf000Ā\x0001\x0001!\xfffeI expect you to do a great job!\xf000븁\x0000
 Statistician \xf000Ā\x0001\x0001,\xfffegood to see you!\xf000븁\x0000\xfffeAre you surveying people vigorously?\xf000븁\x0000
-キミは　すべての\xfffeいらいを　おえている\xf000븁\x0000\xfffeこれからは　じぶんの　しりたいことを\xfffeすきなだけ　しらべてくれたまえ
+You've finished all the requests.\xf000븁\x0000\xfffeFrom now on, feel free to survey\xfffewhatever you want to know!
 What would you like to do today?
 Accept a request
 Report the result
 No thanks!
 Check the request
-ちょうさいらいを　うけるんだな？\xf000븁\x0000\xfffeまずは　ちょうさほうほうを\xfffeえらんでくれ
+Accept a survey request, right?\xf000븁\x0000\xfffeFirst, choose a survey method.
 Timed survey
 Head-count survey
 Back
