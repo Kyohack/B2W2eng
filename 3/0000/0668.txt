@@ -1,114 +1,114 @@
-ようこそ\xfffeポケモンワールドトーナメント　へ！\xf000븁\x0000
-さんか　うけつけを　なさいますか？
-さんかする
-Info
-Back
-どの　トーナメントについて\xfffeせつめい　いたしましょうか？
-それでは　またの　さんかを\xfffeおまちして　おります！
-タイプエキスパートトーナメントは\xfffeしていした　ひとつの　タイプの\xf000븀\x0000\xfffeポケモンだけしか　さんかできない\xf000븀\x0000\xfffeとくしゅな　トーナメントです\xf000븁\x0000\xfffeたとえば　ほのおタイプの\xfffeタイプエキスパートトーナメントを\xf000븀\x0000\xfffeえらんだばあい　ほのおタイプの\xf000븀\x0000\xfffeポケモンしか　つかえません\xf000븁\x0000\xfffeおなじタイプでも\xfffeすべて　ちがう　ポケモンで\xf000븀\x0000\xfffeさんか　してください\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがうもので　なければ　なりません\xf000븁\x0000\xfffeくわえて　どうぐでは　こころのしずく\xfffeわざでは　フリーフォールの\xf000븀\x0000\xfffeしようが　きんし　されています\xf000븁\x0000\xfffeでんせつ　まぼろしの　ポケモンも\xfffeさんかすることが　できません\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル５０に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeゆうしょうすると　ちょっぴりおおめに\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-チャンピオンズトーナメントは\xfffeえらびぬかれた　チャンピオンたちが\xf000븀\x0000\xfffeしゅつじょうする　トーナメントです\xf000븁\x0000\xfffeこのトーナメントは\xfffeすべて　ちがう　ポケモンで\xf000븀\x0000\xfffeさんかして　ください\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがうもので　なければ　なりません\xf000븁\x0000\xfffeくわえて　どうぐでは　こころのしずく\xfffeわざでは　フリーフォールの\xf000븀\x0000\xfffeしようが　きんし　されています\xf000븁\x0000\xfffeでんせつ　まぼろしの　ポケモンも\xfffeさんかすることが　できません\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル５０に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeチャンピオンズトーナメントでは\xfffeゆうしょうまでに　てもとに　のこった\xf000븁\x0000\xfffeポケモンの　かずに　おうじて\xfffeバトルポイントが　もらえます\xf000븁\x0000\xfffeかんぜんしょうり　めざして\xfffeがんばって　ください！\xf000븁\x0000
-ダウンロードトーナメントでは\xfffeわたしの　よこにあります\xf000븀\x0000\xfffeくろいパソコンから　ダウンロードした\xf000븁\x0000\xfffeいろいろな　トーナメントに\xfffeさんかすることが　できます\xf000븁\x0000\xfffeトーナメントによって\xfffeルールは　さまざま　です\xf000븁\x0000\xfffeさんかするさいに　ルールを\xfffeくわしくみることが　できますので\xf000븀\x0000\xfffeごかくにん　ください！\xf000븁\x0000\xfffeゆうしょうすると　ちょっぴりおおめに\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-ホドモエトーナメントは\xfffeなんでもありの　トーナメントです\xf000븁\x0000\xfffeすべての　ポケモンと\xfffeポケモンに　もたせる　どうぐを\xf000븀\x0000\xfffeりようすることが　できます\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル２５に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeゆうしょうすると\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-イッシュリーダーズトーナメントは\xfffeイッシュちほうの　ジムリーダーが\xf000븀\x0000\xfffeしゅつじょうする　トーナメントです\xf000븁\x0000\xfffeすべての　ポケモンと\xfffeポケモンに　もたせる　どうぐを\xf000븀\x0000\xfffeりようすることが　できます\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル５０に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeゆうしょうすると\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-カントーリーダーズトーナメントは\xfffeカントーちほうの　ジムリーダーが\xf000븀\x0000\xfffeしゅつじょうする　トーナメントです\xf000븁\x0000\xfffeこのトーナメントは\xfffeすべて　ちがう　ポケモンで\xf000븀\x0000\xfffeさんかして　ください\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがうもので　なければ　なりません\xf000븁\x0000\xfffeくわえて　どうぐでは　こころのしずく\xfffeわざでは　フリーフォールの\xf000븀\x0000\xfffeしようが　きんし　されています\xf000븁\x0000\xfffeでんせつ　まぼろしの　ポケモンも\xfffeさんかすることが　できません\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル５０に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeゆうしょうすると　ちょっぴりおおめに\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-ジョウトリーダーズトーナメントは\xfffeジョウトちほうの　ジムリーダーが\xf000븀\x0000\xfffeしゅつじょうする　トーナメントです\xf000븁\x0000\xfffeこのトーナメントは\xfffeすべて　ちがう　ポケモンで\xf000븀\x0000\xfffeさんかして　ください\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがうものでなければ　なりません\xf000븁\x0000\xfffeくわえて　どうぐでは　こころのしずく\xfffeわざでは　フリーフォールの\xf000븀\x0000\xfffeしようが　きんし　されています\xf000븁\x0000\xfffeでんせつ　まぼろしの　ポケモンも\xfffeさんかすることが　できません\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル５０に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeゆうしょうすると　ちょっぴりおおめに\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-ホウエンリーダーズトーナメントは\xfffeホウエンちほうの　ジムリーダーが\xf000븀\x0000\xfffeしゅつじょうする　トーナメントです\xf000븁\x0000\xfffeこのトーナメントは\xfffeすべて　ちがう　ポケモンで\xf000븀\x0000\xfffeさんかして　ください\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがうもので　なければ　なりません\xf000븁\x0000\xfffeくわえて　どうぐでは　こころのしずく\xfffeわざでは　フリーフォールの\xf000븀\x0000\xfffeしようが　きんし　されています\xf000븁\x0000\xfffeでんせつ　まぼろしの　ポケモンも\xfffeさんかすることが　できません\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル５０に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeゆうしょうすると　ちょっぴりおおめに\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-シンオウリーダーズトーナメントは\xfffeシンオウちほうの　ジムリーダーが\xf000븀\x0000\xfffeしゅつじょうする　トーナメントです\xf000븁\x0000\xfffeこのトーナメントは\xfffeすべて　ちがう　ポケモンで\xf000븀\x0000\xfffeさんかして　ください\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがうもので　なければ　なりません\xf000븁\x0000\xfffeくわえて　どうぐでは　こころのしずく\xfffeわざでは　フリーフォールの\xf000븀\x0000\xfffeしようが　きんし　されています\xf000븁\x0000\xfffeでんせつ　まぼろしの　ポケモンも\xfffeさんかすることが　できません\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル５０に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeゆうしょうすると　ちょっぴりおおめに\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-ワールドリーダーズトーナメントは\xfffeせかいじゅうの　ジムリーダーが\xf000븀\x0000\xfffeしゅつじょうする　トーナメントです\xf000븁\x0000\xfffeこのトーナメントは\xfffeすべて　ちがう　ポケモンで\xf000븀\x0000\xfffeさんかして　ください\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがうもので　なければ　なりません\xf000븁\x0000\xfffeくわえて　どうぐでは　こころのしずく\xfffeわざでは　フリーフォールの\xf000븀\x0000\xfffeしようが　きんし　されています\xf000븁\x0000\xfffeでんせつ　まぼろしの　ポケモンも\xfffeさんかすることが　できません\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル５０に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeワールドリーダーズトーナメントでは\xfffeゆうしょうじまでに　てもとに　のこった\xf000븀\x0000\xfffeポケモンの　かずに　おうじて\xf000븀\x0000\xfffeバトルポイントが　もらえます\xf000븁\x0000\xfffeかんぜんしょうり　めざして\xfffeがんばって　ください！\xf000븁\x0000
-レンタルトーナメントは\xfffeこちらで　よういした　ポケモンで\xf000븀\x0000\xfffeたたかっていただく\xf000븀\x0000\xfffeとくしゅな　トーナメントです\xf000븁\x0000\xfffeレンタルさせていただく　ポケモンは\xfffeちゅうせんで　えらばれますので\xf000븀\x0000\xfffeうんも　たいせつな　ようそとなります\xf000븁\x0000\xfffeゆうしょうすると\xfffeバトルポイントが　もらえます\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-ミックストーナメントは\xfffeじぶんと　あいての　ポケモンを\xf000븀\x0000\xfffeこうかんして　たたかう\xf000븀\x0000\xfffeとくしゅな　トーナメントです\xf000븁\x0000\xfffeきほんは　１ひきの　こうかんですが\xfffeトリプルバトルに　かんしては\xf000븀\x0000\xfffe２ひき　こうかん　していただきます\xf000븁\x0000\xfffeこうかんした　ポケモンは\xfffeしあい　しゅうりょうご　に\xf000븁\x0000\xfffeもちぬしの　もとに　もどされますので\xfffeごあんしん　ください\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル５０に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeゆうしょうすると\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-レンタルマスタートーナメントは\xfffeこちらで　よういした　ポケモンで\xf000븀\x0000\xfffeたたかっていただく\xf000븀\x0000\xfffeとくしゅな　トーナメントです\xf000븁\x0000\xfffeレンタルされる　ポケモンは\xfffeレンタルトーナメントよりも\xf000븀\x0000\xfffeめずらしい　ポケモンが　えらばれます\xf000븁\x0000\xfffeしゅつじょうする　トレーナーも\xfffeかくちほうの　ジムリーダーが\xf000븀\x0000\xfffeさんかするので　よりスリリングな\xf000븀\x0000\xfffeたたかいを　たのしむことが　できます\xf000븁\x0000\xfffeゆうしょうすると　ちょっぴりおおめに\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-ミックスマスタートーナメントは\xfffeじぶんと　あいての　ポケモンを\xf000븀\x0000\xfffeこうかんして　たたかう\xf000븀\x0000\xfffeとくしゅな　トーナメントです\xf000븁\x0000\xfffeきほんは　１ひきの　こうかんですが\xfffeトリプルバトルに　かんしては\xf000븀\x0000\xfffe２ひき　こうかん　していただきます\xf000븁\x0000\xfffeこうかんした　ポケモンは\xfffeしあい　しゅうりょうご　に\xf000븁\x0000\xfffeもちぬしの　もとに　もどされますので\xfffeごあんしん　ください\xf000븁\x0000\xfffeまた　さんかする　ポケモンは\xfffeすべて　レベル５０に　なって\xf000븀\x0000\xfffeたたかうことに　なります\xf000븁\x0000\xfffeミックスマスタートーナメントには\xfffeイッシュちほうの　ジムリーダーが\xf000븀\x0000\xfffeさんか　しますので\xf000븀\x0000\xfffeより　めずらしいポケモンを\xf000븀\x0000\xfffeミックスして　たたかうことができます\xf000븁\x0000\xfffeゆうしょうすると　ちょっぴりおおめに\xfffeバトルポイントが　もらえます\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
-トーナメントの　バトルルールは\xfffeシングル　ダブル　トリプル\xf000븀\x0000\xfffeローテーションの　４しゅるい　です\xf000븁\x0000\xfffeシングルバトルの\xfffeさんかポケモンは　３ひき\xf000븁\x0000\xfffeダブルバトルの\xfffeさんかポケモンは　４ひき\xf000븁\x0000\xfffeトリプルバトルの\xfffeさんかポケモンは　６ひき\xf000븁\x0000\xfffeローテーションバトルの\xfffeさんかポケモンは　４ひき\xf000븀\x0000\xfffeと　なっております\xf000븁\x0000\xfffeまた　トリプルバトルや\xfffeローテーションバトルを　えらんで\xf000븁\x0000\xfffeゆうしょうすると　ふだんよりおおくの\xfffeバトルポイントを　もらえますので\xf000븀\x0000\xfffeうまく　ごかつよう　ください！\xf000븁\x0000
-どの　トーナメントに\xfffeさんか　なさいますか？
-チャンピオンズ
-タイプエキスパート
+Welcome to the\xfffePokémon World Tournament!\xf000븁\x0000
+Would you like to register?
+Register
+Explanation
+Quit
+Which tournament would\xfffeyou like to hear about?
+We hope you join\xfffeus again!
+Type Expert Tournament\xfffeis a special tournament\xf000븀\x0000\xfffeonly for Pokémon of\xf000븀\x0000\xfffeone set type.\xf000븁\x0000\xfffeFor example, if you\xfffechoose the Fire type tournament,\xf000븀\x0000\xfffeyou are only able to\xf000븀\x0000\xfffeuse Fire type Pokémon.\xf000븁\x0000\xfffeEven with type limitation,\xfffeplease choose all\xf000븀\x0000\xfffedifferent Pokémon.\xf000븁\x0000\xfffeAll hold items must be\xfffedifferent.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you a bit\xfffemore BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
+Champions Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffethe Champions of Pokémon.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeIn the Champions Tournament,\xfffethe amount of BP you earn\xf000븁\x0000\xfffeis based on the number of Pokémon\xfffeyou have remaining at the end.\xf000븁\x0000\xfffeAim for a perfect victory!!\xfffe!!\xf000븁\x0000
+In the Download Tournament\xfffeyou can participate in a\xf000븀\x0000\xfffevariety of tournaments\xf000븁\x0000\xfffedownloaded using the black PC\xfffebeside me.\xf000븁\x0000\xfffeThe rules depend on\xfffethe specific tournament.\xf000븁\x0000\xfffeYou can see the details\xfffeupon entering, so don't\xf000븀\x0000\xfffeforget to check!\xf000븁\x0000\xfffeVictory will earn you\xfffea bit more BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
+Driftveil Tournament is\xfffean anything-goes tournament!\xf000븁\x0000\xfffeAll Pokémon and\xfffeall hold items are\xf000븀\x0000\xfffeallowed.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 25 for the battle.\xf000븁\x0000\xfffeVictory will earn you\xfffea bit more BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
+Unova Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from Unova.\xf000븁\x0000\xfffeAll Pokémon\xfffeand hold items\xf000븀\x0000\xfffecan be used.\xf000븁\x0000\xfffeAlso, all participating Pokémon\xfffewill be adjusted to level 50\xf000븀\x0000\xfffefor the battle.\xf000븁\x0000\xfffeVictory will earn you\xfffeBattle Points so\xf000븀\x0000\xfffedo your best!\xf000븁\x0000
+Kanto Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from Kanto.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you a bit\xfffemore BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
+Johto Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from Johto.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you a bit\xfffemore BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
+Hoenn Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from Hoenn.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you a bit\xfffemore BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
+Sinnoh Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from Sinnoh.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you a bit\xfffemore BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
+World Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from every region.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeIn the World Leaders Tournament,\xfffethe amount of BP you earn\xf000븀\x0000\xfffeis based on the number of Pokémon\xf000븀\x0000\xfffeyou have remaining at the end.\xf000븁\x0000\xfffeAim for a perfect victory!!\xfffe!!\xf000븁\x0000
+Rental Tournament is\xfffea special tournament where\xf000븀\x0000\xfffeyou battle using Pokémon\xf000븀\x0000\xfffewe have prepared.\xf000븁\x0000\xfffeRental Pokémon are\xfffedecided by lottery\xf000븀\x0000\xfffeso luck is also important.\xf000븁\x0000\xfffeVictory will earn you\xfffeBattle Points so\xf000븀\x0000\xfffedo your best!\xf000븁\x0000
+Mix Tournament is\xfffea special tournament where\xf000븀\x0000\xfffeyou and your opponent exchange\xf000븀\x0000\xfffePokémon and battle.\xf000븁\x0000\xfffeNormally, 1 Pokémon is exchanged,\xfffebut in Triple Battle mode,\xf000븀\x0000\xfffe2 Pokémon are exchanged.\xf000븁\x0000\xfffeThe exchanged Pokémon\xfffeare returned to their owners\xf000븁\x0000\xfffeafter the battle\xfffeso don't worry.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you\xfffeBattle Points so\xf000븀\x0000\xfffedo your best!\xf000븁\x0000
+Rental Master Tournament is\xfffea special tournament where\xf000븀\x0000\xfffeyou battle using Pokémon\xf000븀\x0000\xfffewe have prepared.\xf000븁\x0000\xfffeThe Pokémon are more\xffferare than in the Rental\xf000븀\x0000\xfffeTournament.\xf000븁\x0000\xfffeGym Leaders from every\xffferegion also participate\xf000븀\x0000\xfffeso it will make for a\xf000븀\x0000\xfffemore thrilling battle.\xf000븁\x0000\xfffeVictory will earn you\xfffea bit more BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
+Mix Master Tournament is\xfffea special tournament where\xf000븀\x0000\xfffeyou and your opponent exchange\xf000븀\x0000\xfffePokémon and battle.\xf000븁\x0000\xfffeNormally, 1 Pokémon is exchanged,\xfffebut in Triple Battle mode,\xf000븀\x0000\xfffe2 Pokémon are exchanged.\xf000븁\x0000\xfffeThe exchanged Pokémon\xfffeare returned to their owners\xf000븁\x0000\xfffeafter the battle\xfffeso don't worry.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeUnova Gym Leaders join\xfffethe Mix Master Tournament\xf000븀\x0000\xfffeso you are able\xf000븀\x0000\xfffeto exchange for more rare\xf000븀\x0000\xfffePokémon for your battles!\xf000븁\x0000\xfffeVictory will get you\xfffea little bit more BP than usual.\xf000븀\x0000\xfffeDo your best!\xf000븁\x0000
+The Tournament Battle Rules\xfffeare Single, Double, Triple,\xf000븀\x0000\xfffeor Rotation.\xf000븁\x0000\xfffeSingle Battle uses\xfffe3 Pokémon per team.\xf000븁\x0000\xfffeDouble Battle uses\xfffe4 Pokémon per team.\xf000븁\x0000\xfffeTriple Battle uses\xfffe6 Pokémon per team.\xf000븁\x0000\xfffeRotation Battle uses\xfffe4 Pokémon per team.\xf000븀\x0000\xfffeThose are the four modes.\xf000븁\x0000\xfffeAlso, if you choose Triple\xfffeor Rotation Battle,\xf000븁\x0000\xfffethe amount of BP you receive for\xfffewinning is greater, so\xf000븀\x0000\xfffeput up your best fight!\xf000븁\x0000
+Which Tournament\xfffewould you like to enter?
+Champions
+Type Expert
 Download
-ホドモエ
-イッシュリーダーズ
-カントーリーダーズ
-ジョウトリーダーズ
-ホウエンリーダーズ
-シンオウリーダーズ
-ワールドリーダーズ
-レンタル
-ミックス
-レンタルマスター
-ミックスマスター
-バトルルールについて
+Driftveil
+Unova Leaders
+Kanto Leaders
+Johto Leaders
+Hoenn Leaders
+Sinnoh Leaders
+World Leaders
+Rental
+Mix
+Rental Master
+Mix Master
+About Battle Rules
 Back
-……おおっ！　いろんな　ちほうの\xfffeリーダーズトーナメントに\xf000븀\x0000\xfffeさんか　できるようになりましたよ！\xf000븁\x0000\xfffeリーダーズトーナメントは\xfffeこれまでの　トーナメントとは\xf000븀\x0000\xfffeことなる　ルールに　なります！\xf000븁\x0000\xfffeたいかいに　しゅつじょうする\xfffeトレーナーは　みんな　ゆうめいな\xf000븀\x0000\xfffeジムリーダーの　かたがたです\xf000븁\x0000\xfffeいままでいじょうに　てごわい\xfffeあいてに　なるとおもいますが\xf000븀\x0000\xfffeがんばって　くださいね！\xf000븁\x0000
-どの　タイプの　トーナメントに\xfffeさんか　なさいますか？
-どの　バトルルールで\xfffeさんか　なさいますか？
-さんか　できる　トーナメントは\xfffeこちらに　なります
-あら……？\xf000븁\x0000\xfffeおきゃくさまが　さんか　できる\xfffeトーナメントは　ございませんね\xf000븁\x0000
+...OH! You can now\xfffeparticipate in many regions'\xf000븀\x0000\xfffeLeaders Tournaments!\xf000븁\x0000\xfffeThe Leaders Tournaments\xfffehave different rules from\xf000븀\x0000\xfffeprevious tournaments!\xf000븁\x0000\xfffeThe trainers that pBurghciapte\xfffein these tournaments are\xf000븀\x0000\xfffeall famous Gym Leaders.\xf000븁\x0000\xfffeThey'll be much tougher\xfffeopponents than you faced before\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
+Which tournament would\xfffeyou like to join?
+Which Battle Rules\xfffewould you like?
+These are the tournaments\xfffeyou are able to join.
+Hmmm...?\xf000븁\x0000\xfffeIt seems there aren't any\xfffetournaments you are able to join.\xf000븁\x0000
 Single Battle
 Double Battle
 Triple Battle
 Rotation Battle
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　ポケモンを\xfffe３ひきいじょう　よういしてください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　ポケモンを\xfffe４ひきいじょう　よういしてください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　ポケモンを\xfffe６ひき　よういしてください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　ポケモンを\xfffe４ひきいじょう　よういしてください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　３ひきいじょう　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　４ひきいじょう　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　４ひきいじょう　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　３ひきいじょう　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　４ひきいじょう　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　４ひきいじょう　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするときに　じょうけんを\xfffeくわしく　みることが　できますので\xf000븁\x0000\xfffeダウンロードトーナメントの\xfffeルールを　ごかくにんください\xf000븁\x0000
-なお　タマゴは\xfffeさんか　できません！\xf000븁\x0000
-それでは　さんかする\xfffeポケモンを　えらんで　ください！\xf000븁\x0000
-トーナメントの　さんかには\xfffe\xf000Ȁ\x0001\x0000ひき　ひつよう　ですよ
-……はい！　これで\xfffeさんか　うけつけは　おわりです\xf000븀\x0000\xfffeでは　こちらへ！\xf000븁\x0000
-あら……？\xf000븁\x0000\xfffeさんかする　ポケモンに\xfffeもんだいが　あるようです
-ともに　たたかう　ポケモンを　きめる\xfffeドキドキな　クジを　えらんでください
-それでは　ドキドキの\xfffeポケモンちゅうせん　タイムです！\xf000븁\x0000\xfffeんんんん……\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffeジャン！　でました！\xf000븁\x0000\xfffeこんかい　レンタルさせて　いただく\xfffeポケモンは　こちらと　なります！\xf000븁\x0000
-ただいま　スペシャルな\xfffeトーナメントを　じゅんびちゅうです\xf000븁\x0000\xfffeじかんが　かかりそうなので\xfffeきながに　おまちくださいませ！
-しょせんで　まけちゃいましたね……\xf000븁\x0000\xfffeでも　あきらめないで\xfffeがんばって　くださいね！\xf000븁\x0000
-けっしょうまで　あとひとつ……\xf000븁\x0000\xfffeだいじょうぶ！　つぎは\xfffeもっと　うえまで　いけるはずですよ！\xf000븁\x0000
-……あとすこし　でしたね\xfffeつぎこそ　ゆうしょう　できるはずです！\xf000븁\x0000
-\xf000Ļ\x0001\x0000\xfffeゆうしょう　おめでとうございます！\xf000븁\x0000\xfffe
-\xf000Ļ\x0001\x0000に\xfffeさんか　できるように　なりました！\xf000븁\x0000\xfffe
-……あっ！　そうそう！\xf000븁\x0000\xfffeあと　\xf000Ȁ\x0001\x0000かい\xfffeワールドリーダーズトーナメントで\xf000븀\x0000\xfffeゆうしょう　すれば\xf000븁\x0000\xfffeチャンピオンズトーナメントへ\xfffeさんか　できるように　なりますよ！\xf000븁\x0000\xfffeがんばって　くださいね！\xf000븁\x0000
-みごと　トーナメントを　せいした\xfffe\xf000Ā\x0001\x0000さまに　バトルポイントを\xf000븀\x0000\xfffeおくらせて　いただきます！\xf000븁\x0000
-\xf000Ā\x0001\x0000 received \xf000ȁ\x0001\x0001 BP!
-おつかれさまでした！\xfffeさんかきねんに　これを！\xf000븁\x0000
-イッシュリーダーズトーナメントに\xfffeゆうしょう　すると\xf000븁\x0000\xfffeかくちの　ちほうトーナメントに\xfffeさんか　できるように　なりますよ\xf000븀\x0000\xfffeがんばって　くださいね！\xf000븁\x0000
-……あっ！　しあいまえに\xfffeおしらせが　あります！\xf000븁\x0000\xfffeかくちほう　すべての\xfffeリーダーズトーナメントに\xf000븀\x0000\xfffeゆうしょう　すると\xf000븁\x0000\xfffeワールドリーダーズトーナメントと\xfffeタイプエキスパートトーナメントに\xf000븀\x0000\xfffeさんか　できるように　なるんです\xf000븁\x0000
-ワールドリーダーズトーナメントに\xfffeあと　１かい　ゆうしょうすると\xf000븁\x0000\xfffeチャンピオンズトーナメントに\xfffeさんか　できるようになりますよ\xf000븀\x0000\xfffeがんばって　くださいね！\xf000븁\x0000
-かくちほう　すべての\xfffeリーダーズトーナメントと\xf000븁\x0000\xfffeレンタルトーナメントに\xfffeゆうしょう　すると\xf000븁\x0000\xfffeレンタルマスタートーナメントに\xfffeさんか　できるように　なります！\xf000븁\x0000
-かくちほう　すべての\xfffeリーダーズトーナメントと\xf000븁\x0000\xfffeミックストーナメントに\xfffeゆうしょう　すると\xf000븁\x0000\xfffeミックスマスタートーナメントに\xfffeさんか　できるように　なります！\xf000븁\x0000
-ノーマル
-FIRE
-WATER
-GRASS
-でんき
-Frozen
-かくとう
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe3 or more Pokémon.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more Pokémon.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe6 Pokémon.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more Pokémon.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe6 different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe3 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe6 different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeUpon participating, you can\xfffesee the detailed conditions,\xf000븁\x0000\xfffeso please confirm the \xfffeDownload Tournament rules.\xf000븁\x0000
+Eggs cannot\xfffebattle!!\xf000븁\x0000
+Okay, please choose\xfffeyour Pokémon!\xf000븁\x0000
+To participate in the tournament,\xfffe\xf000Ȁ\x0001\x0000 Pokémon are required.
+...OK!\xfffeRegistration is complete!\xf000븀\x0000\xfffePlease come this way!\xf000븁\x0000
+Hm...?\xf000븁\x0000\xfffeIt seems there's a problem\xfffewith your participating Pokémon.
+Please draw to see which\xfffePokémon will join you in battle!
+Okay, it is time to\xfffesee the results!\xf000븁\x0000\xfffeHmmm...\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeTa-da! Here it is!\xf000븁\x0000\xfffeYour Rental Pokémon\xfffewill be this one!\xf000븁\x0000
+We are now preparing the\xfffeSpecial Tournament.\xf000븁\x0000\xfffeIt will take a lot time,\xfffeso please be patient!
+Oh, you lost...\xf000븁\x0000\xfffeBut don't give up!\xfffeDo your best!\xf000븁\x0000
+One more round to the final...\xf000븁\x0000\xfffeIt's okay! Next time\xfffeyou'll rise even higher!\xf000븁\x0000
+...It was only a bit further...\xfffeYou'll win for sure next time!\xf000븁\x0000
+\xf000Ļ\x0001\x0000\xfffeCongratulations on your victory!\xf000븁\x0000\xfffe
+\xf000Ļ\x0001\x0000\xfffe is now open!\xf000븁\x0000\xfffe
+...Ah! Yes!\xf000븁\x0000\xfffeOnly \xf000Ȁ\x0001\x0000 more\xfffevictories in the World Tournament\xf000븀\x0000\xfffeand then you can\xf000븁\x0000\xfffeparticipate in the\xfffeChampions Tournament!\xf000븁\x0000\xfffeKeep going!\xf000븁\x0000
+We'd like to reward\xfffe\xf000Ā\x0001\x0000 some Battle Points\xf000븀\x0000\xfffefor an exemplary tournament!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received\xfffe\xf000ȁ\x0001\x0001BP!
+Great job! This is to \xfffecommemorate your participation!\xf000븁\x0000
+If you win the Unova Leaders\xfffeTournament, you can participate\xf000븁\x0000\xfffein each region's Leaders\xfffeTournament!\xf000븀\x0000\xfffeGo for it!\xf000븁\x0000
+...Ah! Before the match,\xfffethere is an announcement!\xf000븁\x0000\xfffeIf you are victorious in each\xffferegion's Leaders Tournament,\xf000븀\x0000\xfffeyou will be able to participate\xf000븁\x0000\xfffein the World Leaders Tournament\xfffeand the Type Expert\xf000븀\x0000\xfffeTournament!\xf000븁\x0000
+If you win the World Leaders Tournament\xfffeonce more, you will be able\xf000븁\x0000\xfffeto participate in the Champions\xfffeTournament!\xf000븀\x0000\xfffeDo your best!\xf000븁\x0000
+If you are victorious in\xfffeeach region's Leaders Tournament\xf000븁\x0000\xfffeand the Rental Tournament,\xfffeyou will be able to participate\xf000븁\x0000\xfffein the Rental Master\xfffeTournament!\xf000븁\x0000
+If you are victorious in\xfffeeach region's Leaders Tournament\xf000븁\x0000\xfffeand the Mix Tournament,\xfffeyou will be able to participate\xf000븁\x0000\xfffein the Mix Master\xfffeTournament!\xf000븁\x0000
+Normal
+Fire
+Water
+Grass
+Electric
+Ice
+Fighting
 Poison
-じめん
-ひこう
-エスパー
-むし
-いわ
-ゴースト
-ドラゴン
-あく
-はがね
-ゆうしょうきろく
-トーナメントダウンロード
-Back
-これまでの　ゆうしょうかいすうを\xfffeみることが　できます
-Ｗｉ－Ｆｉコネクションを　しようして\xfffeトーナメントを　ダウンロードできます
-スイッチを　きります
+Ground
+Flying
+Psychic
+Bug
+Rock
+Ghost
+Dragon
+Dark
+Steel
+Victory Record
+Tournament Download
+Quit
+You can view your\xfffenumber of victories
+You can download a tournament\xfffevia Wi-Fi Connection.
+Power Off
 
-トーナメントゆうしょうきろくを\xfffeよびだした！\xf000븁\x0000
-トーナメントダウンロードシステムを\xfffeよびだした！\xf000븁\x0000
-みぎのクジ
-まんなかのクジ
-ひだりのクジ
-ただいま　スペシャルな\xfffeトーナメントを　じゅんびちゅうです\xf000븀\x0000\xfffeもうしばらく　おまちくださいませ！
-こんかいの　ホドモエトーナメントは\xfffeなんでもありの　トーナメントです\xf000븁\x0000\xfffeすべての　ポケモンと\xfffeポケモンに　もたせる　どうぐを\xf000븀\x0000\xfffeりようすることが　できます\xf000븁\x0000\xfffeゆうしょうすると\xfffeバトルポイントが　もらえますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000
+Brought up the Tournament\xfffeVictory record!\xf000븁\x0000
+Brought up the Tournament\xfffeDownload system!\xf000븁\x0000
+Right
+Center
+Left
+We are now preparing\xfffea Special Tournament.\xf000븀\x0000\xfffePlease wait a while longer!
+This time, the Driftveil\xfffeTournament is Anything Goes!\xf000븁\x0000\xfffeAll Pokémon and\xfffeall hold items\xf000븀\x0000\xfffeare allowed!\xf000븁\x0000\xfffeVictory will get you\xfffesome Battle Points, so\xf000븀\x0000\xfffedo your best!\xf000븁\x0000
