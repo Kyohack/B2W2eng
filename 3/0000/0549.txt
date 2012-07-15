@@ -1,6 +1,6 @@
 The Xtransceiver is ringing!
 \xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
-That raised walkway\xf000븁\x0000\xfffeIf you stand still, you'll fall off\xfffeso you have to keep moving.
+That raised walkway\xf000븁\x0000\xfffeIf you stand still, you'll fall off,\xfffeso you have to keep moving.
 Route 7
 Celestial Tower\xfffeA place of rest for innocent spirits
 Trainer Tips!\xf000븁\x0000\xfffe\xfffeThe number of Exp. Points you get\xfffeafter a battle is based on levels.\xf000븁\x0000\xfffeWhen your Pokémon is weaker than\xfffeits opponent, it will get more.\xf000븁\x0000\xfffeBut if your Pokémon is stronger,\xfffeit won't get as many.
