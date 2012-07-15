@@ -1,40 +1,40 @@
 Girl: Oh! Mr. Alder, is that\xfffeperson training with you?\xf000븁\x0000
 Boy: They've gotta be\xfffereally strong then!\xf000븁\x0000
-Alder: Hey! Being strong doesn't mean\xfffeyou can't learn something new.\xf000븁\x0000\xfffeJust remember that Pokemon battles are\xfffefor fun! You must respect that.\xf000븁\x0000
+Alder: Hey! Being strong doesn't mean\xfffeyou can't learn something new.\xf000븁\x0000\xfffeJust remember that Pokémon battles are\xfffefor fun! You must respect that.\xf000븁\x0000
 というわけで　\xf000Ā\x0001\x0000!\xfffeかれらの　あいてを　してくれい!\xf000븁\x0000
 じゃあ　ぼくの　ポケモンの\xfffeかっこいいところ　みせてあげます!\xf000븁\x0000
 Both of you, that\xfffewas a great battle!\xf000븁\x0000\xfffeNow it's your turn...\xf000븁\x0000
 Right!!!\xf000븁\x0000
-Alder: I'll heal \xf000Ā\x0001\x0000's Pokemon\xfffein order to make this fair.\xf000븁\x0000
-Girl: My Pokemon has a\xfffetype advantage over yours!\xf000븁\x0000
-Alder: That was another\xfffegreat battle!\xf000븁\x0000\xfffeI could tell that your\xfffePokemon felt your determination!\xf000븁\x0000
-So you see \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffePokemon types can have advantages\xfffeover other types.\xf000븁\x0000\xfffeWater over Fire,\xfffeFire over Grass\xf000븀\x0000\xfffeGrass over Water...\xf000븁\x0000\xfffeThere's a whole variety of different\xfffetypes and matchups!\xf000븁\x0000
+Alder: I'll heal \xf000Ā\x0001\x0000's Pokémon\xfffein order to make this fair.\xf000븁\x0000
+Girl: My Pokémon has a\xfffetype advantage over yours!\xf000븁\x0000
+Alder: That was another\xfffegreat battle!\xf000븁\x0000\xfffeI could tell that your\xfffePokémon felt your determination!\xf000븁\x0000
+So you see \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffePokémon types can have advantages\xfffeover other types.\xf000븁\x0000\xfffeWater over Fire,\xfffeFire over Grass\xf000븀\x0000\xfffeGrass over Water...\xf000븁\x0000\xfffeThere's a whole variety of different\xfffetypes and matchups!\xf000븁\x0000
 でもね　でもね!\xf000븁\x0000\xfffeポケモンの　タイプと\xfffeわざの　タイプが　おなじだと\xf000븀\x0000\xfffeわざの　いりょくが　つよまるんだよ!\xf000븁\x0000
 では　がんばった\xfffeポケモンを　げんきに　しよう!\xf000븁\x0000\xfffe\xf000ā\x0001\x0001!\xfffe\xf000Ā\x0001\x0000のために　よく　やったな!\xf000븁\x0000
 えんの　なかった\xfffeポケモンや　ひとと　であう……\xf000븀\x0000\xfffeそれが　たびの　よさ　だな!
-Alder:おう!\xfffeジムバッジを　てにいれたか\xf000븁\x0000\xfffeおまえさんが　ともに　たたかう\xfffeポケモンを　りかいし\xf000븀\x0000\xfffeちからを　ひきだせた　けっかだな!
-Alder:それだけ　ジムバッジを\xfffeてにいれるとは　たいしたものだ\xf000븁\x0000\xfffeだが　それでも\xfffeみちは　なかば……\xf000븁\x0000\xfffeつよい　とは　なんであろうな?
-Alder:おう!　きてくれたか!\xf000븁\x0000\xfffeイッシュちほうで　さいきょうの\xfffeポケモントレーナーである　きみの\xf000븀\x0000\xfffeむねを　かしてもらうと　するか!
-Alder:おう!　きてくれたか!\xf000븁\x0000\xfffeかれらにも　トレーナーの　すごみを\xfffeみせて　やりたいのでな\xf000븁\x0000\xfffeさて　イッシュちほうで　さいきょうの\xfffeポケモントレーナーである　きみの\xf000븀\x0000\xfffeむねを　かしてもらうと　するか!
+Alder: おう!\xfffeジムバッジを　てにいれたか\xf000븁\x0000\xfffeおまえさんが　ともに　たたかう\xfffeポケモンを　りかいし\xf000븀\x0000\xfffeちからを　ひきだせた　けっかだな!
+Alder: それだけ　ジムバッジを\xfffeてにいれるとは　たいしたものだ\xf000븁\x0000\xfffeだが　それでも\xfffeみちは　なかば……\xf000븁\x0000\xfffeつよい　とは　なんであろうな?
+Alder: おう!　きてくれたか!\xf000븁\x0000\xfffeイッシュちほうで　さいきょうの\xfffeポケモントレーナーである　きみの\xf000븀\x0000\xfffeむねを　かしてもらうと　するか!
+Alder: おう!　きてくれたか!\xf000븁\x0000\xfffeかれらにも　トレーナーの　すごみを\xfffeみせて　やりたいのでな\xf000븁\x0000\xfffeさて　イッシュちほうで　さいきょうの\xfffeポケモントレーナーである　きみの\xf000븀\x0000\xfffeむねを　かしてもらうと　するか!
 おお!\xfffeこころが　おどる!\xf000븁\x0000\xfffeでは　ポケモントレーナーの\xfffeアデク　まいるぞ!\xf000븁\x0000
 ふむう...\xfffeでは　ここで　またせてもらうか
-Alder:さすがだな!\xf000븁\x0000
+Alder: さすがだな!\xf000븁\x0000
 ???:じーちゃん!\xf000븁\x0000\xfffeやった!\xf000븁\x0000\xfffeやった!\xf000븁\x0000\xfffeやったぜ!\xf000븁\x0000\xfffeくろのまてんろう!\xf000븁\x0000\xfffeてっぺんまで　のぼったぜ!\xf000븁\x0000
 ???:じーちゃん!\xf000븁\x0000\xfffeやった!\xf000븁\x0000\xfffeやった!\xf000븁\x0000\xfffeやったぜ!\xf000븁\x0000\xfffeしろのじゅどう!\xf000븁\x0000\xfffeいちばん　おくまで　もぐったぜ!\xf000븁\x0000
-Alder:おお!\xfffeバンジロウでは　ないか!\xf000븁\x0000\xfffeで　いまの　ほうこく\xfffeまこと　なのか?\xf000븁\x0000
-Banjirou:おーい!\xf000븁\x0000\xfffeじーちゃん\xf000븁\x0000\xfffeおいらの　つよさは\xf000븁\x0000\xfffeじーちゃんが　しってるだろ!\xf000븁\x0000\xfffeそれよりもさ\xf000븁\x0000
+Alder: おお!\xfffeバンジロウでは　ないか!\xf000븁\x0000\xfffeで　いまの　ほうこく\xfffeまこと　なのか?\xf000븁\x0000
+Banjirou: おーい!\xf000븁\x0000\xfffeじーちゃん\xf000븁\x0000\xfffeおいらの　つよさは\xf000븁\x0000\xfffeじーちゃんが　しってるだろ!\xf000븁\x0000\xfffeそれよりもさ\xf000븁\x0000
 Who is this?\xf000븁\x0000
-Alder:His name is\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeイッシュで　さいきょうの\xfffeポケモントレーナー　だよ\xf000븁\x0000
-Alder:Her name is\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeイッシュで　さいきょうの\xfffeポケモントレーナー　だよ\xf000븁\x0000
-Banjirou:やっぱりか!\xf000븁\x0000\xfffeつよそーな　におい　してるもんな\xf000븁\x0000
-Alder:どうだ?　バンジロウ\xfffeてあわせを　ねがうか?\xf000븁\x0000
-Banjirou:ダメだ!\xf000븁\x0000\xfffeこいつが　つよいのは　わかる\xf000븁\x0000\xfffeおいらも　たたかいてえ!\xf000븁\x0000\xfffeだけど　こいつの　ポケモン\xf000븁\x0000\xfffeまだ　くろうが　たりねーもん!\xf000븁\x0000
+Alder: His name is\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeイッシュで　さいきょうの\xfffeポケモントレーナー　だよ\xf000븁\x0000
+Alder: Her name is\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeイッシュで　さいきょうの\xfffeポケモントレーナー　だよ\xf000븁\x0000
+Banjirou: やっぱりか!\xf000븁\x0000\xfffeつよそーな　におい　してるもんな\xf000븁\x0000
+Alder: どうだ?　バンジロウ\xfffeてあわせを　ねがうか?\xf000븁\x0000
+Banjirou: ダメだ!\xf000븁\x0000\xfffeこいつが　つよいのは　わかる\xf000븁\x0000\xfffeおいらも　たたかいてえ!\xf000븁\x0000\xfffeだけど　こいつの　ポケモン\xf000븁\x0000\xfffeまだ　くろうが　たりねーもん!\xf000븁\x0000
 おいら!\xf000븁\x0000\xfffeじぶんの　ポケモンたちと!\xf000븁\x0000\xfffeくろのまてんろうを　のぼりきった!\xf000븁\x0000\xfffeだから　おまえも　そうしろ!\xf000븁\x0000\xfffeそこで　どっちが　つよいか!\xf000븁\x0000\xfffeおもうぞんぶん　きそおーぜ!\xf000븁\x0000
 おいら!\xf000븁\x0000\xfffeじぶんの　ポケモンたちと!\xf000븁\x0000\xfffeしろのじゅどうを　くだりきった!\xf000븁\x0000\xfffeだから　おまえも　そうしろ!\xf000븁\x0000\xfffeそこで　どっちが　つよいか!\xf000븁\x0000\xfffeおもうぞんぶん　きそおーぜ!\xf000븁\x0000
 じゃな!\xf000븁\x0000\xfffeじーちゃんに　\xf000Ā\x0001\x0000!\xf000븁\x0000
-Alder:わが　まご　ながら\xfffeあいかわらず　にぎやかな　やつめ!\xf000븁\x0000\xfffeあいつが　なにを　いっていたか\xfffeせつめい　させてもらうぞ\xf000븁\x0000\xfffeあいつが　いどんでいたのは\xfffeブラックシティに　あらわれた\xf000븀\x0000\xfffeくろのまてんろう　という　ばしょだ\xf000븁\x0000\xfffeどんなところか　いけば　わかる\xf000븁\x0000\xfffeただ　なみの　トレーナーでは\xfffeあいつの　いるところには　いけまい\xf000븁\x0000\xfffeというわけでだ!　よければ\xfffeおまえさんも　ちょうせん　するといい
-Alder:わが　まご　ながら\xfffeあいかわらず　にぎやかな　やつめ!\xf000븁\x0000\xfffeあいつが　なにを　いっていたか\xfffeせつめい　させてもらうぞ\xf000븁\x0000\xfffeあいつが　いどんでいたのは\xfffeホワイトフォレストに　あらわれた\xf000븀\x0000\xfffeしろのじゅどう　という　ばしょだ\xf000븁\x0000\xfffeどんなところか　いけば　わかる\xf000븁\x0000\xfffeただ　なみの　トレーナーでは\xfffeあいつの　いるところには　いけまい\xf000븁\x0000\xfffeというわけでだ!　よければ\xfffeおまえさんも　ちょうせん　するといい
-Alder:おまえさんが\xfffeやりたいことを　みつけたら\xf000븀\x0000\xfffeまよわず　ちょうせん　するといい!\xf000븁\x0000\xfffeあんずるな!\xfffeポケモンが　いてくれるだろ\xf000븁\x0000\xfffeひとりでは　できないことも\xfffeポケモンだけでは　いけないところも\xf000븀\x0000\xfffeいっしょなら　だいじょうぶ　だ!
+Alder: わが　まご　ながら\xfffeあいかわらず　にぎやかな　やつめ!\xf000븁\x0000\xfffeあいつが　なにを　いっていたか\xfffeせつめい　させてもらうぞ\xf000븁\x0000\xfffeあいつが　いどんでいたのは\xfffeブラックシティに　あらわれた\xf000븀\x0000\xfffeくろのまてんろう　という　ばしょだ\xf000븁\x0000\xfffeどんなところか　いけば　わかる\xf000븁\x0000\xfffeただ　なみの　トレーナーでは\xfffeあいつの　いるところには　いけまい\xf000븁\x0000\xfffeというわけでだ!　よければ\xfffeおまえさんも　ちょうせん　するといい
+Alder: わが　まご　ながら\xfffeあいかわらず　にぎやかな　やつめ!\xf000븁\x0000\xfffeあいつが　なにを　いっていたか\xfffeせつめい　させてもらうぞ\xf000븁\x0000\xfffeあいつが　いどんでいたのは\xfffeホワイトフォレストに　あらわれた\xf000븀\x0000\xfffeしろのじゅどう　という　ばしょだ\xf000븁\x0000\xfffeどんなところか　いけば　わかる\xf000븁\x0000\xfffeただ　なみの　トレーナーでは\xfffeあいつの　いるところには　いけまい\xf000븁\x0000\xfffeというわけでだ!　よければ\xfffeおまえさんも　ちょうせん　するといい
+Alder: おまえさんが\xfffeやりたいことを　みつけたら\xf000븀\x0000\xfffeまよわず　ちょうせん　するといい!\xf000븁\x0000\xfffeあんずるな!\xfffeポケモンが　いてくれるだろ\xf000븁\x0000\xfffeひとりでは　できないことも\xfffeポケモンだけでは　いけないところも\xf000븀\x0000\xfffeいっしょなら　だいじょうぶ　だ!
 ぼくの　ゆめは　ですね\xfffeここで　ポケモンを　そだてて\xf000븁\x0000\xfffeイッシュで　いちばん　つよい\xfffeポケモントレーナーに　なることです!
 ポケモンのことを　もっと　しれば\xfffeもっと　つよくなれると　おもうの!\xf000븁\x0000\xfffeそのために　あたしも\xfffeいろんな　ところに　いきたいよ
 よお!\xf000븁\x0000\xfffeよお!\xf000븁\x0000\xfffeよお!!\xf000븁\x0000\xfffeやくそく　だったな\xf000븁\x0000\xfffeおいらと　おまえ\xf000븁\x0000\xfffeさいこうの　しょうぶを　したよな\xf000븁\x0000\xfffeその　きねんだ!\xf000븁\x0000\xfffeフカマルを　そだててくれ!\xf000븁\x0000
@@ -43,4 +43,4 @@ Alder:おまえさんが\xfffeやりたいことを　みつけたら\xf000븀\x
 Give a nickname to the \xf000ā\x0001\x0001\xfffeyou received?
 なんだ　おまえ!\xf000븁\x0000\xfffeてもちが　いっぱい　なのか?\xf000븁\x0000\xfffeわかった\xf000븁\x0000\xfffeわかった\xf000븁\x0000\xfffeわかった!\xf000븁\x0000\xfffeここで　まってるぜ!
 おまえを　みとめて　たくすんだ!\xf000븁\x0000\xfffeだいじに　そだててくれよ\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeくろのまてんろうで　まってるぜ!\xf000븁\x0000
-おまえを　みとめて　たくすんだ!\xf000븁\x0000\xfffeだいじに　そだててくれよ\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeしろのじゅどうで　まってるぜAlder:\xf000븁\x0000
+おまえを　みとめて　たくすんだ!\xf000븁\x0000\xfffeだいじに　そだててくれよ\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeしろのじゅどうで　まってるぜ!\xf000븁\x0000
