@@ -127,31 +127,31 @@ no data
 White Forest\xfffePeople and Nature in Harmony
 しょうばいはんじょう！\xf000븁\x0000\xfffeホワイトフォレストの　めいてんと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
 しょうばいはんじょう！\xf000븁\x0000\xfffeホワイトフォレストの　めいてんと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-はい　どうぞ！\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
-おっと！\xfffeバッグが　いっぱいだぞ！
-おいおい！\xfffeおかねが　たりないぞ！
-また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
+Here you go!\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
+Oh no! Your bag is full!
+Hey!\xfffeYou don't have enough money!
+Come back again soon!\xfffeひんしつには　じしんが　あるからさ！
 おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
 せんきゃくばんらい！\xf000븁\x0000\xfffeホワイトフォレストの　ほんけと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
 せんきゃくばんらい！\xf000븁\x0000\xfffeホワイトフォレストの　ほんけと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-はい　どうぞ！\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
-おっと！\xfffeバッグが　いっぱいだぞ！
-おいおい！\xfffeおかねが　たりないぞ！
-また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
+Here you go!\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
+Oh no! Your bag is full!
+Hey!\xfffeYou don't have enough money!
+Come back again soon!\xfffeひんしつには　じしんが　あるからさ！
 おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
 はくりたばい！\xf000븁\x0000\xfffeホワイトフォレストの　がんそと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
 はくりたばい！\xf000븁\x0000\xfffeホワイトフォレストの　がんそと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-はい　どうぞ！\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
-おっと！\xfffeバッグが　いっぱいだぞ！
-おいおい！\xfffeおかねが　たりないぞ！
-また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
+Here you go!\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
+Oh no! Your bag is full!
+Hey!\xfffeYou don't have enough money!
+Come back again soon!\xfffeひんしつには　じしんが　あるからさ！
 おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
 りえきかんげん！\xf000븁\x0000\xfffeホワイトフォレストの　しにせと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
 りえきかんげん！\xf000븁\x0000\xfffeホワイトフォレストの　しにせと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-はい　どうぞ！\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
-おっと！\xfffeバッグが　いっぱいだぞ！
-おいおい！\xfffeおかねが　たりないぞ！
-また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
+Here you go!\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
+Oh no! Your bag is full!
+Hey!\xfffeYou don't have enough money!
+Come back again soon!\xfffeひんしつには　じしんが　あるからさ！
 おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
 Buy
 No thanks!
