@@ -1,6 +1,6 @@
 オレは　まだまだ　ルーキーだが\xfffeいつか　すごい　プレイヤーになる！\xf000븁\x0000\xfffeそのためには　ポケモンしょうぶも\xfffeどんどん　こなしていくぜ！\xf000븁\x0000
 Ugh!\xfffeI missed the rebound!
-オレの　ファン　かもしれない\xfffeキミに　プレゼントだよ！\xf000븁\x0000
+Since you might be a fan\xfffeof me, here's a gift!\xf000븁\x0000
 まけても　いいわけ　しないぜ！\xf000븁\x0000\xfffeそんなヒマが　あったら\xfffeうまくなるために　できることを\xf000븀\x0000\xfffeするほうが　いいに　きまってる！
 A young Trainer! It's important for the\xfffeyoung to get lots of exercise, isn't it?\xf000븁\x0000
 A healthy sweat...\xfffeBoy, I am glad that I am an athlete!
@@ -96,8 +96,8 @@ That was a wonderful battle.\xfffeBravo!
 うつくしくても　まけは　まけ\xfffeぶざまでも　かちは　かちだぜ
 こんなに　きびしい　じょうきょうでも\xfffeかてる　やりかた……　あるはずだぜ
 かつ　やつが　いれば\xfffeまける　やつが　いる\xf000븁\x0000\xfffeそれを　かくご　せずに\xfffeまけて　さわぐのは　ぶざま\xf000븁\x0000\xfffeまけたら　つぎ　かてるために\xfffeできることを　する\xf000븀\x0000\xfffeそれが　しょうぶし　さ
-つたわってきた！\xfffeおまえたち　つよいな！！
-ラスト　１ぴき！\xfffeしょうねんば　だな！
+つたわってきた！\xfffeNone of you are strong!!
+Last one!\xfffeThis is critical!
 のこりの　ちからを　ふりしぼり！\xfffeつぎの　わざに　すべてを　こめる！
 さいきょうの　ポケモンなど　いないし\xfffeベストの　くみあわせも　ない……\xf000븁\x0000\xfffeそれゆえ　つねに\xfffeかちつづけるのは　むずかしい\xf000븁\x0000\xfffeだが　つよさを　もとめる　こころ\xfffeさいきょうを　しりたい　きもち……\xf000븀\x0000\xfffeそれを　わたしは　とうとい　とおもう\xf000븁\x0000\xfffeそして　それを　もっている\xfffeおまえを　そんけいする
 ポケモンたちが　ぜんりょくを　だせる\xfffeすてきな　じかんが　はじまりそうね
@@ -115,8 +115,8 @@ I was expecting exactly that kind of move!
 ポケモンの　めが　うったえてるの！\xfffeたちあがれ！　オレは　へいきだって！\xf000븁\x0000\xfffeそう！　めを　みれば\xfffeはなせなくても　きもちは　わかるの！
 キャッ！\xfffeすっごーい！
 チッ……\xfffeマジかよ
-あーあ\xfffeまけちゃったか
-なかなか\xfffeわるくないじゃない
+Oh...\xfffeWe lost.
+Certainly\xfffenot bad.
 いきものが　ぜんりょくで\xfffeうごく　うつくしさ！\xf000븁\x0000\xfffeあぁっ！\xfffeもっと　ちかくで　みさせておくれ！\xf000븁\x0000
 I saw their beauty up close!
 ディス　イズ　アート\xfffeディス　イズ　プレゼント！\xf000븁\x0000
@@ -147,7 +147,7 @@ The Pokémon you raised\xfffeare great, too!
 There are so many ways\xfffeto raise Pokémon.
 I am not skipping work!\xf000븁\x0000
 If I had known this would happen,\xfffeI would have worked diligently.
-よし！\xfffeまじめに　なる！\xf000븁\x0000
+Alright!\xfffeBe serious!\xf000븁\x0000
 Taking a productive break\xfffeis also part of any job!
 Someone sent me a ticket, so I came.\xfffeBut there's no game going on!\xf000븁\x0000
 I have a lot of work to do.\xfffeWhat am I doing here?
@@ -207,7 +207,7 @@ Athletes are all coooool.\xfffeI want to be like them.
 Aghhhhh. Why didn't I bring a camera,\xfffeor a notebook for an autograph?
 おきゃくを　たのしませる　ところは\xfffeスポーツも　ジャグリングも　おなじ！\xf000븀\x0000\xfffeれんしゅうの　せいかを　みせるよ\xf000븁\x0000
 While I am having a Pokémon battle,\xfffeI catch ten balls!
-きみも　これを　キャッチ！\xf000븁\x0000
+Pal, you're a catch!\xf000븁\x0000
 テクニックは　ついたが\xfffeその　いかしかたが　わからん！\xf000븀\x0000\xfffeやはり　じっせん　あるのみ！
 どハデな　ドームに　あたりから\xfffeキャーキャーとびかう　かんせい……\xf000븁\x0000\xfffeうう……\xfffeオラ　うらやましいっスっ！\xf000븁\x0000
 What is so great about popular athletes?\xfffeWhat is bad about martial artists?
@@ -263,7 +263,7 @@ Oh no, oh why?\xfffeI am sorry...
 よくよく　かんがえたら\xfffeおうえん　する　ひとが　おおいほうが\xf000븀\x0000\xfffeあの　ひとも　およろこびに　なるわね\xf000븁\x0000\xfffeあなた！　おうえん　しなさい！\xfffeこえが　かれて　うでが　もげるまで！
 When I am watching a game,\xfffeI feel like I should be moving, too!\xf000븁\x0000
 That was a good workout!
-おお！　からだが\xfffeかってに　うごくぞ！\xf000븁\x0000
+Ahh!　My health\xfffehas changed!\xf000븁\x0000
 ドームも　いいけど\xf000븁\x0000\xfffeやっぱ　だいしぜんの　なかで\xfffeスポーツ　したいよな
 I want to drag people here\xfffeand have them enlist as Pokémon Rangers.\xf000븁\x0000
 Wow! Electrifying!\xfffeYou are so goooood!
@@ -307,7 +307,7 @@ Here you are.\xfffeI will give you something good!\xf000븁\x0000
 At a place like this,\xfffeit's good to drink a lot of water!
 Let's have a battle on these grounds,\xfffewhich I keep looking sharp!\xf000븁\x0000
 The best battle\xfffeon the best ground!
-さいこうの　おくりもの！\xf000븁\x0000
+This is the best gift!\xf000븁\x0000
 OK! I will keep the grounds\xfffelooking perfect!
 This air of excitement brings back\xfffememories. In those days, I was also...\xf000븁\x0000
 It makes my old wound ache...
@@ -328,10 +328,10 @@ You showed me your full strength!
 I want to play tennis\xfffelike a strong athlete!\xf000븁\x0000
 ヒロ『つよい　キミに\xfffeラブゲーム……\xf000븁\x0000\xfffeシン『まったく　かてない\xfffeラブゲーム……
 I want to be as good a Cyclist\xfffeas a strong person like you...
-ポケモン　１ぴき？\xfffeそれでは　おあいて　できませんよ
+One Pokémon?\xfffeI'm not up for this.
 I want to play ball\xfffelike a strong athlete!\xf000븁\x0000
 I want to learn more from\xfffea strong person like you...
-ポケモン　１ぴき？\xfffeボクは　ダブルスが　このみでね
+One Pokémon?\xfffeボクは　ダブルスが　このみでね
 シュッ！　シュッ！\xf000븁\x0000\xfffeボクだって　あんなふうに\xfffeたたかえるんだぜ！\xf000븁\x0000
 ヒロ『シューー……\xfffeプスプス……\xf000븁\x0000\xfffeシン『フォルトーーッ！\xfffeサーブ　しっぱい！！
 あんなに　ながいじかん\xfffeうごきつづける　なんて\xf000븁\x0000\xfffeテニスプレイヤーは\xfffeほんと　すごいよな
@@ -534,7 +534,7 @@ Oh! \xfffeMy groundbreaking research...
 やるじゃん　オマエ
 イイね\xfffeすごいよ　キミ
 う　ううう……
-ワーオ！
+Wow!
 After all, I am the strongest and greatest.\xfffeJust kidding!
 あー　たのしかった！\xfffeさあて　おそうじ　しなくっちゃ！
 さいしょで　あいての　こころを\xfffeキャッチするのって　だいじ　ですよね
@@ -859,7 +859,7 @@ I lost, \xfffebut I won't stop!
 あらあら……　ざんねんね\xfffeまけて　しまいましたわ
 わたしも　わかいころは　ポケモンと\xfffeあちこち　たびを　していた\xf000븀\x0000\xfffeおてんばむすめ　でしたのよ　オホホ！
 こー！\xfffeほー！\xf000븁\x0000
-グハッ！
+Guh！
 ……まけた！　すまぬ！\xfffeわが　ポケモンよ！
 じゅう！　よん！　ばん！\xf000븁\x0000
 ハイッ！\xfffeありがとうございましたーッ！
@@ -883,7 +883,7 @@ If you'd like, please have\xfffeTriple Battles with your friends.
 コノ　プレゼント　ナラ\xfffeランプレイ　ヨリ　キクカモ！\xf000븁\x0000
 パワフルデ　スピーディーナ\xfffeランプレイ　ツマリ　ハシリ　ガ\xf000븀\x0000\xfffeフットボール　デハ　ダイジデース
 お　おれ\xfffeぽっちゃり　じゃねーよな？\xf000븁\x0000
-がっしり！
+Beefy！
 もういっちょ　がっしり！\xf000븁\x0000
 がっかり……じゃなくて\xfffeがっしり　してるんだよ　これは！\xf000븀\x0000\xfffeぽっちゃり　してる　わけじゃねえ
 キッズ！　ミート　ミーノ　ポケモンノ\xfffeクンレンニ　ツキアイナサーイ！\xf000븁\x0000
@@ -895,8 +895,8 @@ If you'd like, please have\xfffeTriple Battles with your friends.
 もういっちょ　ボリューミー！\xf000븁\x0000
 あいての　タックルに　たえるための\xfffeボリュームアップだよ　これは！\xf000븀\x0000\xfffeふっくら　してる　わけじゃねえ
 お　おれ\xfffeあつくるしくない　よな？\xf000븁\x0000
-パッション！
-もういっちょ　パッション！\xf000븁\x0000
+Enthusiasm!
+Strike with fury and passion!\xf000븁\x0000
 しょうぶに　かける　じょうねつ！\xfffeつまり　パッションだよ　これは！\xf000븀\x0000\xfffeあつくるしい　わけじゃねえ
 れんしゅうなら　まけしらずの\xfffeおれと　おれのポケモンが\xf000븀\x0000\xfffeあんたに　めを　つけたぜ！\xf000븁\x0000
 おれたちの　めに\xfffeくるいは　なかったぜ！
@@ -1098,7 +1098,7 @@ The adventure is over already.
 このまま　ぷかぷか\xfffeながされていくのよ……
 ときどき　クラゲの　ポケモンが\xfffeぷかぷか　うかんでいるのよね！
 いとしの　ポケモンたちに\xfffeうみを　みせているの……\xf000븁\x0000
-わお！\xfffeモーレツ！！
+Wow!\xfffeMore!!
 いろんな　けしきを　みたいな\xf000븁\x0000\xfffeせかいの　ひろさ\xfffeじぶんの　ちいささを　しってこそ\xf000븀\x0000\xfffeあしたに　きぼうが　もてるもの！
 この　でっけえ　みずたまり！\xfffeうみ　っていうんだぜ！\xf000븁\x0000
 おまえ！\xfffeでっけえな！
@@ -1135,7 +1135,7 @@ The adventure is over already.
 できることと　できないことが\xfffeわかったような　きがします
 また　できることを　ふやして\xfffeあなたに　いどみたいです！
 だまって　しょうぶ！\xf000븁\x0000
-……！
+...!
 おまえは　つよい！
 I'm a heartbreaker...\xfffeMy name... Charles.
 I'm a heartbreaker...\xfffeMy name... Charles.
@@ -1178,13 +1178,13 @@ I'm a heartbreaker...\xfffeMy name... Charles.
 これでは　ふねを……！\xfffeプラズマフリゲートを　まもれない！
 プププッ\xfffeプラーズマー！
 いくぜッ！\xfffeあいぼうッ！！
-たのむッ！！
+Please!!
 あいぼうたちの　ちからを\xfffeひきだせないなんて　なさけないぜッ！
 いくぜッ！\xfffeあいぼうッ！！
-たのむッ！！
+Please!!
 あいぼうたちの　ちからを\xfffeひきだせないなんて　なさけないぜッ！
 いくぜッ！\xfffeあいぼうッ！！
-たのむッ！！
+Please!!
 あいぼうたちの　ちからを\xfffeひきだせないなんて　なさけないぜッ！
 おまえたちの　いきおい……\xfffeまさに　まいあがる　ドラゴンだぜ！
 その　こうげきりょく……\xfffeまさに　かいりきむそう！
