@@ -1,6 +1,6 @@
 ???: A Challenger!\xf000븁\x0000
-Welcome\xfffeTo the Aspertia City Pokemon Gym!\xf000븁\x0000\xfffeI am Cheren.\xfffeI work as the gym leader!\xf000븁\x0000\xfffeHmm? Instead of saying I work as...\xfffemaybe I should say I became the Gym Leader?\xf000븁\x0000\xfffe...In any case, I have to prepare the Gym\xfffeto receive you.\xf000븁\x0000
-We are currently receiving challengers.\xfffeBoth of you, please go to your positions.\xf000븁\x0000
+Welcome to the Aspertia City\xfffePokémon Gym!\xf000븁\x0000\xfffeI am Cheren.\xfffeI work as the gym leader!\xf000븁\x0000\xfffeHmm? Instead of saying I work as...\xfffemaybe I should say I became the\xf000븁\x0000\xfffeGym Leader? ...In any case, I have\xfffeto prepare the Gym to receive you.\xf000븁\x0000
+We are currently receiving challengers.\xfffeBoth of you, please go\xf000븁\x0000\xfffeto your positions.
 If you beat those two,\xfffeI will be your opponent.
 If you want to fight me,\xfffeyou have to beat those two, alright?
 Just as it's your first\xfffeGym battle,\xf000븁\x0000\xfffethis is my first Pokémon battle\xfffeas a Gym Leader!\xf000븁\x0000\xfffeLet's both give our best,\xfffeso neither of us has any regrets!\xf000븁\x0000
