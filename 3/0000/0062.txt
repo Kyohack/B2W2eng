@@ -1,24 +1,24 @@
-うつくしい　せんりつは\xfffeみんなを　しあわせに　する\xf000븁\x0000\xfffeかなしい　せんりつだと\xfffeみんなが　おちこんでしまう……\xf000븁\x0000\xfffeそれが　メロディの　もつ　ちから……
-キミの　はこんだ　かぜの　においが\xfffeセピアいろの　きおくの　ふちから\xf000븀\x0000\xfffeこんな　メロディを　おもいださせたよ\xf000븁\x0000\xfffeそれは　ははが　すきだった　うた……\xfffeいにしえの　ノスタルジー……\xf000븀\x0000\xfffeきいてくれるかい……\xf000븁\x0000
-ボクの　ははが　はなしてくれた……\xf000븁\x0000\xfffeメロディを　かなでる　ポケモンは\xfffeかろやかな　ステップで\xf000븀\x0000\xfffeひとの　こころを　みたしてくれたと……\xf000븁\x0000\xfffeところが　おおきな　かなしみが\xfffeせかいを　おおってしまったとき\xf000븀\x0000\xfffeポケモンは　メロディを　うしなった……\xf000븁\x0000\xfffeどうじに　あかいくつも\xfffeどこかへ　いっちゃった　とね……\xf000븁\x0000
-キミが　とびらから　はいってきたとき\xfffeボクは　メロディを　おもいだし\xf000븁\x0000\xfffeポケモンは　なくした　ステップを\xfffeかろやかに　ふんだ……\xf000븁\x0000\xfffeきっかけを　はこんできたのは　キミ……\xfffeふしぎな　こどもだね……
-いにしえのうた　を　うたわせてごらん\xf000븁\x0000\xfffeボイスフォルムは　ステップフォルムに\xfffeステップフォルムは　ボイスフォルムに\xf000븀\x0000\xfffeすがたを　かえるのさ……
+A beautiful melody makes people happy.\xfffeA sad melody makes people sorrowful...\xf000븀\x0000\xfffeThat's the power of melodies...
+The scent you brought me reminded me of\xfffea long-ago melody from the fringes of my\xf000븀\x0000\xfffesepia-toned memories.\xf000븁\x0000\xfffeIt was a song my mother loved...\xfffeIt makes me feel so nostalgic.\xf000븁\x0000\xfffeWould you like to hear the melody?\xf000븁\x0000
+My mother once told me of a Pokémon that\xfffeplayed a melody and danced so lightly\xf000븀\x0000\xfffethat it filled people's hearts with joy.\xf000븁\x0000\xfffeThen sorrow darkened the entire world,\xfffeand the Pokémon lost the melody...\xf000븁\x0000\xfffeAlso, at that time, some red shoes\xfffewere lost somewhere...\xf000븁\x0000
+When you came through the door,\xfffeI remembered the melody!\xf000븁\x0000\xfffeAnd the Pokémon that had forgotten how\xfffeto dance began to step lightly once more!\xf000븁\x0000\xfffeYou are the inspiration.\xfffeYou are a mysterious child...
+Let it sing the Relic Song.\xf000븁\x0000\xfffeAria Forme will become Pirouette Forme,\xfffeand vice versa.
 \xf000Ă\x0001\x0000 remembered\xfffethe Relic Song it had forgotten!\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffeすでに　わざを　４つ　おぼえている！\xf000븁\x0000\xfffeわざを　わすれさせますか？\xf000븁\x0000
-それでは　いにしえのうたを\xfffeおもいだすのを　あきらめますか？
-\xf000Ă\x0001\x0000は　いにしえのうた　を\xfffeおもいださなかった！\xf000븁\x0000
+\xf000Ă\x0001\x0000 \xfffealready knows four moves!\xf000븁\x0000\xfffeForget a move?\xf000븁\x0000
+Give up learning\xfffeRelic Song?
+\xf000Ă\x0001\x0000 didn't learn\xfffeRelic Song!\xf000븁\x0000
 Is it OK to forget\xfffethe move \xf000ć\x0001\x0001?
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいにわすれた！\xf000븁\x0000\xfffeそして……！\xf000븁\x0000
-この　カフェは\xfffeはじめて　ですよね\xf000븁\x0000\xfffeこれを……\xf000븁\x0000
+1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000And...\xf000븁\x0000
+This is your first visit to this café.\xfffeAm I correct?\xf000븁\x0000\xfffePlease...\xf000븁\x0000
 Give this to your dear Pokémon.
 You came all the way here.\xfffeEnjoy...
-わたし……　ずっと　この　おみせで\xfffeつかれた　ハートを　いやしています
-ヤツの　ギターを　きいてさぁ\xfffeとびだした　いえに　もどったのさ\xf000븁\x0000\xfffeまた　おふくろに　なかれてよ……\xfffeおふくろは　いつまでも　おふくろさ
+After a tiring day of work, this café is a\xfffeperfect spot to let your mind relax.
+When I listen to his guitar, it reminds me\xfffeof leaving home for the first time, and\xf000븀\x0000\xfffethe tears of farewell my mother cried...
 かぞくは　かえられない\xfffeだから　つきあいかたを　かえるの\xf000븁\x0000\xfffeそう　いわれても　なかなか……
 ……メロエッタと\xfffeあんたの　おかげだよ\xf000븁\x0000\xfffeうまれこきょう……\xfffeおさないころ……\xf000븁\x0000\xfffeきのみあつめを　おえて\xfffeみんなで　うたっていた\xf000븀\x0000\xfffeきおく　よみがえって……\xf000븁\x0000
 ハイリンクに　フェスミッションの\xfffe『\xf000ŀ\x0001\x0000』が\xf000븀\x0000\xfffeついか　されました！
 いなかで　くらす　みんなと\xfffeヒウンシティで　であった　ポケモンで\xf000븀\x0000\xfffeたのしく　きのみあつめ！\xf000븁\x0000\xfffeもちろん　メロエッタの\xfffeうたを　くちずさみながらね！
 Fffweee!
-ワー！
+Waa！
 いいぞ！
 ボールの　なかの\xfffe\xf000Ă\x0001\x0000が　とびだした！\xf000븁\x0000
