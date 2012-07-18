@@ -1,5 +1,5 @@
-ぞうに　もじが　きざみこまれている\xf000븁\x0000\xfffe『この　ポケモンリーグに\xfffe　よにんの　つわもの　あり\xf000븁\x0000\xfffe　なんせいに　ゴーストタイプの\xfffe　ほんしつを　しる　もの　あり\xf000븁\x0000\xfffe　なんとうに　かくとうポケモンを\xfffe　つかいこなす　もの　あり\xf000븁\x0000\xfffe　ほくせいに　あくタイプを\xfffe　きわめた　もの　あり\xf000븁\x0000\xfffe　ほくとうに　エスパーポケモンを\xfffe　しりつくす　もの　あり\xf000븁\x0000\xfffe　ゆうきと　ちえで　もって\xfffe　つわものを　うちやぶりし　とき\xf000븁\x0000\xfffe　さいきょうの　トレーナー\xfffe　チャンピオンが　まつ\xf000븀\x0000\xfffe　いただきに　みちびかれん』
-すきな　してんのう　から\xfffeちょうせん　すれば　いい！
-つよき　ちょうせんしゃ　よ\xfffeさいごの　へやに　すすむのだ！
-してんのう　ぜんいんに\xfffeしょうり　するまで……\xf000븁\x0000\xfffeあるいは　はいぼく　するまで\xfffeここから　でることは　できないわ
-してんのう　ぜんいんに\xfffeしょうり　したのなら\xf000븀\x0000\xfffeさいごの　へやに　むかいなさい
+There's something written\xfffeon the statue.\xf000븁\x0000"There are four warriors\xfffeof the Pokémon League.\xf000븁\x0000In the southwest is one who\xfffeknows the true nature of ghost-types.\xf000븁\x0000In the southeast is one\xfffewho handles fighting-types.\xf000븁\x0000In the northwest is one\xfffewho is master of dark-types.\xf000븁\x0000In the northeast is one\xfffeknowledgable on psychic-types.\xf000븁\x0000When with courage and wisdom\xfffeyou have defeated the warriors...\xf000븁\x0000The ultimate trainer, the Champion,\xfffewill beckon you."
+Challenge whichever of the\xfffeElite Four you prefer!
+Strong challenger!\xfffeHead to the final room!
+Until you have won over\xfffeall of the Elite Four...\xf000븁\x0000Or otherwise, suffered defeat,\xfffeyou cannot leave.
+If you have beaten\xfffeall of the Elite Four,\xf000븀\x0000head to the final room.
