@@ -8,18 +8,18 @@ Skyla,\xfffetake us to Yamaji Town!\xf000븁\x0000
 Bel: Huff... Huff...\xf000븁\x0000\xfffeWait... Wait for me...\xfffeI want to fly too.\xf000븁\x0000\xfffeI... I have research to do\xfffeat Rebirth Mountain...\xf000븁\x0000
 Juniper: Oh my! Bel,\xfffeyou are just like a researcher!\xf000븁\x0000\xfffeEverybody, \xfffelet's go to Yamaji Town together!!\xf000븁\x0000
 Skyla: Hee hee!\xfffeAre you ready!?\xf000븁\x0000\xfffeWell then...\xfffeLet's fly!!\xf000븁\x0000
-Hello!\xf000븁\x0000\xfffeQuickly delivering a lot！\xfffeMistralton Cargo Service!\xf000븁\x0000\xfffeWe would also fly people if the\xfffeGym Leader would allow it...
-すばやく　たくさん　おとどけ！\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000\xfffeひこうきに　のって\xfffeヤマジタウンに　いかれますか？
-わかりました！　それでは\xfffeフウロさんに　れんらく　しますので\xf000븀\x0000\xfffeひこうきに　のって　おまちください\xf000븁\x0000
-はい！\xfffeいつでも　ごりよう　ください！
-すばやく　たくさん　おとどけ！\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000
-あ……！\xfffeそれは　きょかしょう！\xf000븁\x0000\xfffeイッシュちほう　から\xfffeとおくとおく　はなれた\xf000븀\x0000\xfffeしぜんほごくへ　いくための　もの！\xf000븁\x0000\xfffeそれでは\xfffeしぜんほごくに　いかれますか？
-すばやく　たくさん　おとどけ！\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000\xfffeこんかいは　どちらに　いかれますか？
+Hello!\xf000븁\x0000\xfffeQuickly delivering a lot!\xfffeMistralton Cargo Service!\xf000븁\x0000\xfffeWe would also fly people if the\xfffeGym Leader would allow it...
+すばやく　たくさん　おとどけ!\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000\xfffeひこうきに　のって\xfffeヤマジタウンに　いかれますか?
+I understand!　それでは\xfffeフウロさんに　れんらく　しますので\xf000븀\x0000\xfffeひこうきに　のって　おまちください\xf000븁\x0000
+はい!\xfffeいつでも　ごりよう　ください!
+すばやく　たくさん　おとどけ!\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000
+あ……!\xfffeそれは　きょかしょう!\xf000븁\x0000\xfffeイッシュちほう　から\xfffeとおくとおく　はなれた\xf000븀\x0000\xfffeしぜんほごくへ　いくための　もの!\xf000븁\x0000\xfffeそれでは\xfffeしぜんほごくに　いかれますか?
+すばやく　たくさん　おとどけ!\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000\xfffeこんかいは　どちらに　いかれますか?
 Yamaji Town
 Nature Conservatory
 Back
 わざ「そらをとぶ」の　いきさきは\xfffeいちど　いった　ポケモンセンターだよ
-ひこうきの　こうぞうを　しらないと\xfffeせいびは　できないだろ？\xf000븁\x0000\xfffeポケモンしょうぶも　おなじさ\xfffeポケモンに　くわしいほど　かてるだろ
+ひこうきの　こうぞうを　しらないと\xfffeせいびは　できないだろ?\xf000븁\x0000\xfffeポケモンしょうぶも　おなじさ\xfffeポケモンに　くわしいほど　かてるだろ
 Hey, you!\xf000븁\x0000\xfffeDo you have any Flying or Psychic\xfffePokémon with you?\xf000븁\x0000
 Ah!\xfffe You have a \xf000ā\x0001\x0000, eh?\xf000븁\x0000\xfffeCould you help me\xfffeget my luggage? It's stuck!\xf000븁\x0000
 Thank you!\xfffeI'll give you a reward!\xf000븁\x0000
@@ -29,14 +29,14 @@ Chulululuwa!
 What!? You don't have the\xfffe『Ace Pilot』medal!?\xf000븁\x0000\xfffeI see... We pilots\xfffeare yearning for that medal. I was\xf000븀\x0000\xfffealmost certain that you would have it.
 If you ever receive the\xfffe『Ace Pilot』 medal,\xf000븀\x0000\xfffeplease show it to me!
 You... You!\xf000븁\x0000\xfffethe『Ace Pilot』medal.\xfffeYou have it, don't you!?\xf000븁\x0000\xfffeTh- This is...\xf000븁\x0000\xfffethe 『Ace Pilot』 medal\xfffethat everyone wants!\xf000븀\x0000\xfffeSo cool...\xf000븁\x0000\xfffePlease let me take a look!\xfffeThank you so much!
-『エースパイロット』……\xfffeあまい　ひびき　だ……\xf000븁\x0000\xfffeそらを　じゆうに　とびまわった\xfffeキミの　ポケモンに　カンパイ！\xf000븁\x0000\xfffeぼくも　ひこうきの\xfffeそうじゅう　がんばるぞー！
+"Flying Ace pilot"...\xfffeIt sounds so sweet...\xf000븁\x0000\xfffeそらを　じゆうに　とびまわった\xfffeキミの　ポケモンに　カンパイ!\xf000븁\x0000\xfffeぼくも　ひこうきの\xfffeそうじゅう　がんばるぞー!
 Welcome to the Sky City, Mistralton!\xfffeTake this as a keepsake!\xf000븁\x0000
-するどいくちばし　という　どうぐを\xfffeポケモンに　もたせてあげると\xf000븁\x0000\xfffeひこうタイプの　わざの\xfffeいりょくが　アップ　するのよ！
-スイーツ　ラブリー　ハートスイーツ♪\xfffeしらべる　ふたりの　フィーリング\xf000븁\x0000\xfffeあいしょう　バツグンなら\xfffeたっぷり　どっさり　もらえるの♪\xf000븀\x0000\xfffeとっても　あまくて　とろけるの♪\xf000븁\x0000
-あら？　あなた\xfffeハートスイーツ　もってるのね！\xf000븁\x0000\xfffeハートスイーツ　１０まいと　わたしの\xfffeハートのウロコを　こうかんしない？
-なんだか　きょうは\xfffeとくべつ　きぶん！\xf000븁\x0000\xfffeあなたの　ハートスイーツ　５まいと\xfffeハートのウロコを　こうかんしない？
-ハートスイーツを\xfffeたくさん　もってきてくれたら\xf000븀\x0000\xfffeいいものと　こうかんしまーす
+するどいくちばし　という　どうぐを\xfffeポケモンに　もたせてあげると\xf000븁\x0000\xfffeひこうタイプの　わざの\xfffeいりょくが　アップ　するのよ!
+Sweets, lovely Heart Sweets! ♪\xfffeCheck your feelings together...\xf000븁\x0000If they're super-affectionate,\xfffeyou'll get so many sweets! ♪\xf000븀\x0000So sweet and enchanting... ♪\xf000븁\x0000
+Oh? You have\xfffesome Heart Sweets!\xf000븁\x0000Will you trade ten Heart Sweets\xfffefor one of my Heart Scales?
+なんだか　きょうは\xfffeとくべつ　きぶん!\xf000븁\x0000\xfffeあなたの　ハートスイーツ　５まいと\xfffeハートのウロコを　こうかんしない?
+Bring me a lot of Heart Sweets,\xfffeand I'll trade you some good stuff!
 Yaaaay!\xfffeI've captured your heart!\xf000븁\x0000
-あれれ？　ざんねん\xfffeすっごく　ざんねん！\xf000븁\x0000\xfffeあなたの　ハートのウロコ\xfffeもう　いっぱい　なのね
+Ah? What a shame,\xfffewhat a shame indeed!\xf000븁\x0000\xfffeあなたの　ハートのウロコ\xfffeもう　いっぱい　なのね
 OK...\xfffeAww...that's too bad.
 ハートスイーツを　わたして\xfffeかわりに　ハートのウロコを　もらった\xf000븁\x0000
