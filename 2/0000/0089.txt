@@ -27,8 +27,8 @@ Please select one of the\xfffesix missions.
 Please select a mission.
 You cannot accept this mission\xfffewhen three worlds are connected.
 You cannot accept a mission when\xfffeyou have a visitor in your Entralink.
-ミッションを　えらぶことで\xfffeあいてを　たすけることが　できます\xf000븁\x0000\xfffeまず　はじめに　このなかから\xfffe『サポート　ミッション』を　えらび\xf000븀\x0000\xfffeミッションを　かいしして　ください
-べつの　ミッションを\xfffeえらんで　います\xf000븁\x0000\xfffeまずは　『サポート　ミッション』を\xfffeえらんで　かいしして　ください
+By selecting missions,\xfffeyou can help others.\xf000븁\x0000\xfffePlease select “SUPPORT MISSION"\xfffeand begin a mission.
+The wrong mission was selected...\xf000븁\x0000\xfffePlease select “SUPPORT MISSION"\xfffeto begin.
 \xf000ȃ\x0001\x0000こ
 YES
 NO
