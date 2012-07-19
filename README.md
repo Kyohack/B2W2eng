@@ -44,3 +44,8 @@ Please dont update the list at the wiki :P
 ILLuMiNaTe7 will keep track of it like every 3 hours  
   
 https://github.com/Kyohack/B2W2eng/wiki/To-Do-Tracking-list
+
+**Gym/Important plot locations** (I will keep this updated as I track the other ones down)
+First gym- 03/0171
+second gym- 03/0182
+Third Gym- 03/0036
