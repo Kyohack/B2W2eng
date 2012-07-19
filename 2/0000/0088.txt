@@ -56,11 +56,11 @@ Your Entralink's ◆White Lv. went up\xfffeby \xf000Ȃ\x0001\x0000 as happiness 
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『へへ！\xfffeつかまえた！\xf000븁\x0000\xfffeそれにしても　こんなところに\xfffeポケモンがいるなんて　めずらしいなぁ\xf000븀\x0000\xfffe……あれ？\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は　ハイルツリーから\xfffeもらった　\xf000Ĝ\x0001\x0002を\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000に　つかった！\xf000븁\x0000
-\xf000Ā\x0001\x0000『よーし！\xfffeつかまえたー！\xf000븁\x0000\xfffeそれにしても　こんなところに\xfffeポケモンがいるなんて　めずらしいなぁ\xf000븀\x0000\xfffe……あれ？\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は　ハイルツリーから\xfffeもらった　\xf000Ĝ\x0001\x0002を\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000に　つかった！\xf000븁\x0000
-キューン　キューン！\xf000븁\x0000\xfffeなんだか　かまってもらいたい　みたい
-フーー！　フーー！\xf000븁\x0000\xfffeなんだか　かまってもらいたい　みたい
-ギャオ！　ギャオー！\xf000븁\x0000\xfffeなんだか　かまってもらいたい　みたい
+\xf000Ā\x0001\x0000: Haha!\xfffeI got you!\xf000븁\x0000\xfffeBut it's strange for a Pokémon\xfffeto be hanging around here.\xf000븀\x0000\xfffe...What?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 used the\xfffe\xf000Ĝ\x0001\x0002 received from\xf000븀\x0000\xfffethe Entree on \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Haha!\xfffeI got you!\xf000븁\x0000\xfffeBut it's strange for a Pokémon\xfffeto be hanging around here.\xf000븀\x0000\xfffe...What?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 used the\xfffe\xf000Ĝ\x0001\x0002 received from\xf000븀\x0000\xfffethe Entree on \xf000Ā\x0001\x0000!\xf000븁\x0000
+It's so cute!\xf000븁\x0000\xfffeIt wants to play with you.
+It's roaring ferociously!\xf000븁\x0000\xfffeIt wants to play with you.
+...\xf000븁\x0000\xfffeIt wants to play with you.
 ー
 ー
 ー
@@ -173,23 +173,23 @@ Grrrrr!
 ー
 ー
 ー
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I surprise you?\xf000븀\x0000\xfffeI came to see you through the Entralink.\xf000븁\x0000\xfffe...I know this may sound sudden, but\xfffewill you battle with me?\xf000븁\x0000\xfffeHow about a Flat Battle\xfffeat Lv. \xf000Ȃ\x0001\x0001 with two fully healed Pokémon?
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I surprise you?\xf000븀\x0000\xfffeI came to see you through the Entralink.\xf000븁\x0000\xfffe...I know this may sound sudden, but\xfffewill you battle with me?\xf000븁\x0000\xfffeHow about a Flat Battle\xfffeat Lv. \xf000Ȃ\x0001\x0001 with two fully healed Pokémon?
+ー
+ー
+ー
+\xf000Ā\x0001\x0000: Hi!\xfffeHow are you?\xf000븁\x0000\xfffeHuh?\xfffeYou want a Flat Battle\xf000븀\x0000\xfffeat Lv. \xf000Ȃ\x0001\x0001 with two Pokémon?\xf000븁\x0000\xfffeHold on a second!
+\xf000Ā\x0001\x0000: Hi!\xfffeHow are you?\xf000븁\x0000\xfffeHuh?\xfffeYou want a Flat Battle\xf000븀\x0000\xfffeat Lv. \xf000Ȃ\x0001\x0001 with two Pokémon?\xf000븁\x0000\xfffeHold on a second!
+ー
+ー
+ー
 \xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しないか？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかおうぜ！
 \xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しない？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかいましょう！
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまってて！
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまっててね！
-ー
-ー
-ー
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しないか？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかおうぜ！
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しない？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかいましょう！
-ー
-ー
-ー
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまってて！
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまっててね！
+\xf000Ā\x0001\x0000: Hi!\xfffeHow are you?\xf000븁\x0000\xfffeHuh?\xfffeYou want a Flat Battle\xf000븀\x0000\xfffeat Lv. \xf000Ȃ\x0001\x0001 with two Pokémon?\xf000븁\x0000\xfffeHold on a second!
+\xf000Ā\x0001\x0000: Hi!\xfffeHow are you?\xf000븁\x0000\xfffeHuh?\xfffeYou want a Flat Battle\xf000븀\x0000\xfffeat Lv. \xf000Ȃ\x0001\x0001 with two Pokémon?\xf000븁\x0000\xfffeHold on a second!
 ー
 ー
 ー
@@ -238,8 +238,8 @@ I see. That's OK!\xfffeBattle you later!
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『いけっ　そこだ！\xfffeがんばれ！　……\xf000븁\x0000\xfffeお！　ありがたい！\xfffeたすけてくれるのか！？\xf000븁\x0000\xfffe「せんとう　ＨＰかいふくパワー」を\xfffe\xf000Ā\x0001\x0000の　ポケモンに　つかった！\xf000븁\x0000
-\xf000Ā\x0001\x0000『いけっ　そこよ！\xfffeがんばって！　……\xf000븁\x0000\xfffeわ！　ありがとう！\xfffeたすけてくれるの！？\xf000븁\x0000\xfffe「せんとう　ＨＰかいふくパワー」を\xfffe\xf000Ā\x0001\x0000の　ポケモンに　つかった！\xf000븁\x0000
+\xf000Ā\x0001\x0000: Go!\xfffeThat's right! Hang in there!\xf000븁\x0000\xfffeAre you telling me you'll help my Pokémon?\xfffeWow, thanks!\xf000븁\x0000\xfffeHP Restoring Power was used\xfffeon \xf000Ā\x0001\x0000's Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Go!\xfffeThat's right! Hang in there!\xf000븁\x0000\xfffeAre you telling me you'll help my Pokémon?\xfffeWow, thanks!\xf000븁\x0000\xfffeHP Restoring Power was used\xfffeon \xf000Ā\x0001\x0000's Pokémon!\xf000븁\x0000
 ー
 ー
 ー
@@ -305,17 +305,17 @@ I see. That's OK!\xfffeBattle you later!
 ー
 ー
 ー
-もくてきちに　たどりついた！\xf000븁\x0000\xfffe……　……　……\xfffe……ガサガサッ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeもってきた　\xf000ĉ\x0001\x0001を\xf000븀\x0000\xfffeみつけたひとが　びっくりするように\xf000븀\x0000\xfffeメモと　いっしょに　かくした！
-もくてきちに　たどりついた！\xf000븁\x0000\xfffe……　……　……\xfffe……ガサガサッ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeもってきた　\xf000ĉ\x0001\x0001を\xf000븀\x0000\xfffeみつけたひとが　びっくりするように\xf000븀\x0000\xfffeメモと　いっしょに　かくした！
-もくてきちに　たどりついた！\xf000븁\x0000\xfffe……　……　……\xfffe……ガサガサッ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeもってきた　\xf000ĉ\x0001\x0001を\xf000븀\x0000\xfffeみつけたひとが　びっくりするように\xf000븀\x0000\xfffeメモと　いっしょに　かくした！
-もくてきちに　たどりついた！\xf000븁\x0000\xfffe……　……　……\xfffe……ガサガサッ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeもってきた　\xf000ĉ\x0001\x0001を\xf000븀\x0000\xfffeみつけたひとが　びっくりするように\xf000븀\x0000\xfffeメモと　いっしょに　かくした！
-もくてきちに　たどりついた！\xf000븁\x0000\xfffe……　……　……\xfffe……ガサガサッ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeもってきた　\xf000ĉ\x0001\x0001を\xf000븀\x0000\xfffeみつけたひとが　びっくりするように\xf000븀\x0000\xfffeメモと　いっしょに　かくした！
+This is the place!\xf000븁\x0000\xfffe... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 stashed the \xf000ĉ\x0001\x0001\xfffealong with a memo to surprise\xf000븀\x0000\xfffewhoever finds it!
+This is the place!\xf000븁\x0000\xfffe... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 stashed the \xf000ĉ\x0001\x0001\xfffealong with a memo to surprise\xf000븀\x0000\xfffewhoever finds it!
+This is the place!\xf000븁\x0000\xfffe... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 stashed the \xf000ĉ\x0001\x0001\xfffealong with a memo to surprise\xf000븀\x0000\xfffewhoever finds it!
+This is the place!\xf000븁\x0000\xfffe... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 stashed the \xf000ĉ\x0001\x0001\xfffealong with a memo to surprise\xf000븀\x0000\xfffewhoever finds it!
+This is the place!\xf000븁\x0000\xfffe... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 stashed the \xf000ĉ\x0001\x0001\xfffealong with a memo to surprise\xf000븀\x0000\xfffewhoever finds it!
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeさて！　とつぜんですが\xfffeたびのとちゅうの　ブレイクタイム！\xf000븁\x0000\xfffe……ただいま　ですね\xfffeフレンドリィショップ　キャンペーンで\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001を！\xf000븀\x0000\xfffeなんと！\xf000븁\x0000
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I surprise you?\xf000븀\x0000\xfffeI came to see you through the Entralink.\xf000븁\x0000\xfffeTa-da!\xfffeI see you are enjoying your adventure,\xf000븀\x0000\xfffebut why don't you take a little break?\xf000븁\x0000\xfffeCurrently at Poké Marts,\xfffethe item \xf000ĉ\x0001\x0001 is on sale.\xf000븁\x0000
 とくべつかかく　\xf000Ȅ\x0001\x0002円で！\xfffeはんばい　しております！\xf000븁\x0000\xfffeこんな　チャンス\xfffeめったに　ありません！\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0001を\xfffe\xf000Ȅ\x0001\x0002円で　いかがでしょうか？
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeさて！　とつぜんですが\xfffeたびのとちゅうの　ブレイクタイム！\xf000븁\x0000\xfffeいま　フレンドリィショップ\xfffeキャンペーンを　やってて　ですね\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001を！\xf000븀\x0000\xfffeなんとー！\xf000븁\x0000
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I surprise you?\xf000븀\x0000\xfffeI came to see you through the Entralink.\xf000븁\x0000\xfffeTa-da!\xfffeI see you are enjoying your adventure,\xf000븀\x0000\xfffebut why don't you take a little break?\xf000븁\x0000\xfffeCurrently at Poké Marts,\xfffethe item \xf000ĉ\x0001\x0001 is on sale.\xf000븁\x0000
 とくべつかかく　\xf000Ȅ\x0001\x0002円で！\xfffeはんばい　しております！\xf000븁\x0000\xfffeこんな　チャンス\xfffeめったに　ありませんよ！\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0001を\xfffe\xf000Ȅ\x0001\x0002円で　いかがでしょうか？
 ー
 ー
@@ -330,8 +330,8 @@ I see. That's OK!\xfffeBattle you later!
 ー
 ー
 ー
-きめた！\xfffe\xf000ĉ\x0001\x0001を　１つください！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffeてにいれた！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『おおー！\xfffeなんだか　とくしちゃったぜ！\xf000븀\x0000\xfffeありがとうな！
-よーし！\xfffe\xf000ĉ\x0001\x0001を　１つください！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffeてにいれた！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『やったー！\xfffeなんだか　とくしちゃった　きぶん！\xf000븀\x0000\xfffeありがとうね！
+All right!\xfffeCan I have a \xf000ĉ\x0001\x0001, please?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 received \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Wow, I just saved so much!\xfffeThank you!
+All right!\xfffeCan I have a \xf000ĉ\x0001\x0001, please?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 received \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Wow, I just saved so much!\xfffeThank you!
 ー
 ー
 ー
@@ -340,8 +340,8 @@ I see. That's OK!\xfffeBattle you later!
 ー
 ー
 ー
-うーん……\xfffeやっぱり　かうのは　やめようかな？\xf000븁\x0000\xfffeごめんね　またこんど\xfffeいいものがあったら　おしえてくれよ！
-えーと……\xfffeやっぱり　かうのは　やめとこうかな？\xf000븁\x0000\xfffeごめんなさい　またこんど\xfffeいいものがあったら　おしえてね！
+Well...\xfffeI guess I don't need it right now.\xf000븁\x0000\xfffeKeep me posted for other items!
+Well...\xfffeI guess I don't need it right now.\xf000븁\x0000\xfffeKeep me posted for other items!
 ー
 ー
 ー
@@ -360,8 +360,8 @@ I see. That's OK!\xfffeBattle you later!
 ー
 ー
 ー
-あ！　ごめん……\xfffeいま　かおうと　おもったんだけど\xf000븀\x0000\xfffeもう　バッグが　いっぱいだった……\xf000븁\x0000\xfffeまたこんど　べつのものを\xfffeうりにきてくれよ！
-あ！　ごめんなさい……\xfffeいま　かおうと　おもったんだけど\xf000븀\x0000\xfffeもう　バッグが　いっぱいだったよ……\xf000븁\x0000\xfffeもっと　いいものが　あったら\xfffeこんどこそ　かいたいです！
+Ouch!\xfffeI wanted to buy it, but my Bag is full...\xf000븁\x0000\xfffeI'll buy something else next time,\xfffeso please do come around again!
+Ouch!\xfffeI wanted to buy it, but my Bag is full...\xf000븁\x0000\xfffeI'll buy something else next time,\xfffeso please do come around again!
 ー
 ー
 ー
