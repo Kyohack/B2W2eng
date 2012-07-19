@@ -6,14 +6,14 @@ Oh!\xfffeIs that your friend's Town Map?\xf000븁\x0000Trainer
 \xf000ā\x0001\x0000 is your\xfffefriend's companion, don't you think?\xf000븁\x0000\xfffeYes! Some time ago when I was 20,\xfffeI trained Pokémon in Kanto...\xf000븁\x0000\xfffeThere! If possible, deliver\xfffethe Town Map ahead!\xf000븁\x0000
 Advance along the road\xfffeof route 20 soon!\xf000븁\x0000
 Along the road of Route 20\xfffeyou can advance!\xf000븁\x0000\xfffeCome! They're awaiting the\xfffedelivery of the Town Map!
-Alder『Oh! Giving the\xfffeTown Map to your friend!\xf000븁\x0000\xfffeHmm...！\xf000븁\x0000\xfffeわずかの　あいだに　おまえさんも\xfffeポケモンも　みちがえるようだ！\xf000븁\x0000\xfffeよし！　きたえるのは　なし\xf000븁\x0000\xfffeかわりに　おまえさんと　ポケモンの\xfffeちからを　かしてくれい！\xf000븁\x0000
-Alder『\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeヒオウギに　できたばかりの\xfffeNew Trainer's School\xf000븀\x0000\xfffeand Pokémon Gym's too.\xf000븁\x0000\xfffeジムリーダーが　とうちゃくしたと\xfffeれんらくが　あったぞ！\xf000븁\x0000\xfffeそこで　アドバイスだ！\xf000븁\x0000\xfffeどれほど　パートナーの　ポケモンを\xfffeりかい　しているか　たしかめるため\xf000븀\x0000\xfffeジムリーダーに　いどむと　いい！\xf000븁\x0000
+Alder『Oh! Giving the\xfffeTown Map to your friend!\xf000븁\x0000\xfffeHmm...!\xf000븁\x0000\xfffeわずかの　あいだに　おまえさんも\xfffeポケモンも　みちがえるようだ!\xf000븁\x0000\xfffeよし!　きたえるのは　なし\xf000븁\x0000\xfffeかわりに　おまえさんと　ポケモンの\xfffeちからを　かしてくれい!\xf000븁\x0000
+Alder『\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeヒオウギに　できたばかりの\xfffeNew Trainer's School\xf000븀\x0000\xfffeand Pokémon Gym's too.\xf000븁\x0000\xfffeジムリーダーが　とうちゃくしたと\xfffeれんらくが　あったぞ!\xf000븁\x0000\xfffeそこで　アドバイスだ!\xf000븁\x0000\xfffeどれほど　パートナーの　ポケモンを\xfffeりかい　しているか　たしかめるため\xf000븀\x0000\xfffeジムリーダーに　いどむと　いい!\xf000븁\x0000
 In the morning\xfffethe Pokémon are hungry,\xf000븁\x0000\xfffeIn the evening, Pokémon are worn\xfffeout from playing and hog the bed.\xf000븁\x0000\xfffeAh! I'm satisfied.
-Nevertheless, Sangi Ranch has\xfffesome wild Pokémon leaping around\xf000븁\x0000\xfffeそりゃもう　じぶんの　ポケモンだけが\xfffeたより　っちゅー　わけよ！
+Nevertheless, Sangi Ranch has\xfffesome wild Pokémon leaping around\xf000븁\x0000\xfffeそりゃもう　じぶんの　ポケモンだけが\xfffeたより　っちゅー　わけよ!
 Don't forget to\xfffekeep saving your game every\xf000븀\x0000\xfffeonce in a while!
 From the past to the future\xfffeI think it's a great thing\xf000븁\x0000\xfffeto play with your Pokémon\xfffeat any time!
 Do you want to know\xfffewhat Alder taught us?
-During a battle,　the Pokémon\xfffethat appears\xf000븀\x0000\xfffeon the upper-left of the list!\xf000븁\x0000\xfffeThat's why I set the Pokémon\xfffeI want to raise to become stronger！
+During a battle,　the Pokémon\xfffethat appears\xf000븀\x0000\xfffeon the upper-left of the list!\xf000븁\x0000\xfffeThat's why I set the Pokémon\xfffeI want to raise to become stronger!
 I can't refrain anymore..\xfffeAt long last *drumroll* it's complete!
 Do you think traveling with Pokémon\xfffechanges people?
 Me too! Traveling and thinking about many\xfffethings can definitely make a difference.
@@ -25,6 +25,6 @@ Bianca『Hey hey!\xf000븁\x0000
 Pardon me!\xf000븁\x0000\xfffeI forgot to tell you about\xfffea function in your Pokédex\xf000븁\x0000\xfffeknown as the Area List!\xfffeThis is great!\xf000븀\x0000\xfffeLet me borrow this a sec.\xf000븁\x0000
 \xf000Ā\x0001\x0000's Pokédex has\xfffebeen upgraded!
 The Area list mode \xfffeof the Pokédex can\xf000븁\x0000\xfffetell you the location of\xfffeany Pokémon!\xf000븁\x0000
-To use: Open the Pokédex\xfffeon the lower left\xf000븀\x0000\xfffeof the screen, touch 「Area」！\xf000븀\x0000\xfffeAfter, choose the location and\xf000븁\x0000\xfffeit will tell you the\xfffeall the Pokémon that\xf000븀\x0000\xfffeinhabit the area!\xf000븁\x0000\xfffeWould you like to\xfffelisten to instructions again?
+To use: Open the Pokédex\xfffeon the lower left\xf000븀\x0000\xfffeof the screen, touch 「Area」!\xf000븀\x0000\xfffeAfter, choose the location and\xf000븁\x0000\xfffeit will tell you the\xfffeall the Pokémon that\xf000븀\x0000\xfffeinhabit the area!\xf000븁\x0000\xfffeWould you like to\xfffelisten to instructions again?
 Here's some advice!\xf000븁\x0000\xfffeWhen walking down a path\xfffethe grass might shake!\xf000븀\x0000\xfffeIf the grass is shaking..\xf000븁\x0000\xfffethe rest is\xfffeup to you!\xf000븁\x0000
 Embark on your journey around the\xfffeworld, and fill up your Pokédex!\xf000븁\x0000\xfffeSo go to many places\xfffeand meet many Pokémon! \xf000븁\x0000\xfffeSee you later!\xf000븁\x0000

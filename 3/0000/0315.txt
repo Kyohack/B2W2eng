@@ -11,7 +11,7 @@ A Potion may sometimes be\xfffemore useful than a PokéCenter!\xf000븁\x0000
 Owner: You guys did not\xfffehappen to see my Herdier\xf000븀\x0000\xfffearound here, right?\xf000븁\x0000\xfffeI'm a bit worried about my\xf000븁\x0000\xfffepair being split up right now...\xfffeI'll need some help in\xf000븀\x0000\xfffethe search---!\xf000븁\x0000
 \xf000Ā\x0001\x0001: What's that!?!\xfffeYour worried!?!\xf000븁\x0000\xfffeBut the Pokémon might\xfffebe far enough!\xf000븁\x0000\xfffeFine! I'll go look for it!\xfffe\xf000Ā\x0001\x0000! You come too!\xf000븁\x0000
 Owner: Why is he angry?\xf000븁\x0000\xfffeぼくじょうの　どこかで\xfffeあそんでいるだけだと　おもうけど\xf000븁\x0000
-Wife: Oh...\xf000븁\x0000\xfffeねえ　あなたの\xfffeポケモンが　キズついたら　いってね\xf000븀\x0000\xfffeあたしが　げんきに　してあげるから！
+Wife: Oh...\xf000븁\x0000\xfffeねえ　あなたの\xfffeポケモンが　キズついたら　いってね\xf000븀\x0000\xfffeあたしが　げんきに　してあげるから!
 Where could have\xfffeHerdier have gone to...?
 \xf000Ā\x0001\x0001: Herdier...\xfffeWhere did you wander off to?\xf000븁\x0000\xfffeHere I go!\xf000븁\x0000
 The pasture was always secured!
@@ -24,22 +24,22 @@ Growl, now...!\xf000븁\x0000
 I'll look around here!\xf000븁\x0000\xfffeI will keeping a\xfffelookout from behind!!\xf000븁\x0000
 Let's keep on searching!
 Herdier: ...kyuugh
-\xf000Ā\x0001\x0001: Growl, now!\xfffeStill can't find it!!\xf000븁\x0000\xfffeよかったあ！！\xf000븁\x0000\xfffeじゃ　オーナーを　よんでくるから\xfffeそいつの　そばに　いてやれよッ！\xf000븁\x0000
+\xf000Ā\x0001\x0001: Growl, now!\xfffeStill can't find it!!\xf000븁\x0000\xfffeよかったあ!!\xf000븁\x0000\xfffeじゃ　オーナーを　よんでくるから\xfffeそいつの　そばに　いてやれよッ!\xf000븁\x0000
 ???: Guh!\xfffeBeen spotted!\xf000븁\x0000\xfffeDon't tell anyone that\xfffea Team Plasma member was here!\xf000븁\x0000\xfffeYou...\xfffeYou know what Team Plasma does?
-そうとも！　２ねんまえ\xfffeポケモンを　かいほうするため\xf000븁\x0000\xfffeイッシュを　しはい　しようとしていた\xfffeせいぎの　しゅうだん　だ！\xf000븁\x0000
-なんだと！？　２ねんまえ\xfffeポケモンを　かいほう　するため\xf000븁\x0000\xfffeイッシュを　しはい　しようとしていた\xfffeせいぎの　しゅうだん　だぞ！\xf000븁\x0000
+そうとも!　２ねんまえ\xfffeポケモンを　かいほうするため\xf000븁\x0000\xfffeイッシュを　しはい　しようとしていた\xfffeせいぎの　しゅうだん　だ!\xf000븁\x0000
+なんだと!？　２ねんまえ\xfffeポケモンを　かいほう　するため\xf000븁\x0000\xfffeイッシュを　しはい　しようとしていた\xfffeせいぎの　しゅうだん　だぞ!\xf000븁\x0000
 Whatever...\xf000븁\x0000\xfffeおろかものに　おれたちのことは\xfffeりかい　できないのだ\xf000븁\x0000\xfffeそれにしても...\xf000븁\x0000\xfffeハーデリアを　おいかけていたら\xfffeこんなところに　まよいこむし...\xf000븀\x0000\xfffeこどもに　みつかってしまうし...\xf000븁\x0000\xfffeIt's your fault!\xfffeTake that!\xf000븁\x0000
-Yes!　この　すきに\xfffeひとまず　たいさん！\xf000븁\x0000
+Yes!　この　すきに\xfffeひとまず　たいさん!\xf000븁\x0000
 Gyuugh! Baouf!
-Owner: Hey! Herdier!\xf000븁\x0000\xfffeひとりで　こんな　おくまで\xfffeきちゃって　なにが　あったんだい？\xf000븁\x0000\xfffeなには　ともあれ\xfffeきみたちには　かんしゃ　だよー！\xf000븁\x0000
-\xf000Ā\x0001\x0001: のんきだな！\xf000븁\x0000\xfffeもしかしたら　ほんとうに　ポケモンが\xfffeいなくなってたかも　しれないんだぞ！\xf000븁\x0000\xfffeもっと　たいせつに　しろよな！\xf000븁\x0000
-Owner: Hmmm...\xfffeかれは　なにか　あったのかなー？\xf000븁\x0000\xfffeポケモンが　いなくなることを\xfffeおびえているような...\xf000븁\x0000\xfffeさあ　ハーデリア\xfffeみんなが　まってるよ！　かえろー\xf000븁\x0000
+Owner: Hey! Herdier!\xf000븁\x0000\xfffeひとりで　こんな　おくまで\xfffeきちゃって　なにが　あったんだい？\xf000븁\x0000\xfffeなには　ともあれ\xfffeきみたちには　かんしゃ　だよー!\xf000븁\x0000
+\xf000Ā\x0001\x0001: のんきだな!\xf000븁\x0000\xfffeもしかしたら　ほんとうに　ポケモンが\xfffeいなくなってたかも　しれないんだぞ!\xf000븁\x0000\xfffeもっと　たいせつに　しろよな!\xf000븁\x0000
+Owner: Hmmm...\xfffeかれは　なにか　あったのかなー？\xf000븁\x0000\xfffeポケモンが　いなくなることを\xfffeおびえているような...\xf000븁\x0000\xfffeさあ　ハーデリア\xfffeみんなが　まってるよ!　かえろー\xf000븁\x0000
 Owner: Thank you! I owe\xfffeto you and your Pokémon!\xf000븁\x0000\xfffeAmazing! Right?\xfffeYou should see Alder...!
-この　ぼくじょうは\xfffeもともと　ポケモンを　まもるため\xf000븁\x0000\xfffeかきねを　つくったのが\xfffeはじまり　なんだよねー！
+この　ぼくじょうは\xfffeもともと　ポケモンを　まもるため\xf000븁\x0000\xfffeかきねを　つくったのが\xfffeはじまり　なんだよねー!
 Owner: たしかに　ハーデリアが\xfffeかってに　いなくなるのは　へんだねー\xf000븁\x0000\xfffeいつも　２ひきで　あそんだり\xfffeぼくじょうの　しごとを　しているのに
 Here! Your Pokémon is\xfffein top shape!
 Your Pokémon...\xfffeなんだか　げんきが　ないみたい\xf000븁\x0000\xfffeちょっと　やすんで　いきなさい\xfffeげんきがないと　どこにも　いけないわ\xf000븁\x0000
-あなたと　あなたの　ポケモンが\xfffeハーデリアを　みつけてくれたのね！
+あなたと　あなたの　ポケモンが\xfffeハーデリアを　みつけてくれたのね!
 Herdier: Baouuu...
 Baouf! Baouuff!
 Baouuff! Baouf!

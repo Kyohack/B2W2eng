@@ -19,7 +19,7 @@ PP of \xf000Ā\x0001\x0000's \xf000Ă\x0001\x0001\xfffewas restored!
 \xf000Ā\x0001\x0000's likelihood of \xfffecapturing Pokémon increased!
 ---
 ---
-\xf000Ā\x0001\x0000は　ゆれる　くさむらや\xfffeつちけむりを　みつけやすく　なった！
-\xf000Ā\x0001\x0000は　かくしあなで\xfffeポケモンと　であいやすく　なった！
-\xf000Ā\x0001\x0000は　めずらしい\xfffeポケモンと　であいやすく　なった！
+\xf000Ā\x0001\x0000は　ゆれる　くさむらや\xfffeつちけむりを　みつけやすく　なった!
+\xf000Ā\x0001\x0000は　かくしあなで\xfffeポケモンと　であいやすく　なった!
+\xf000Ā\x0001\x0000は　めずらしい\xfffeポケモンと　であいやすく　なった!
 All \xf000Ā\x0001\x0000's Pokémon\xfffeare fully recovered!

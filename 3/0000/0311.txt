@@ -6,8 +6,8 @@ GVUCYVQPVUWOGPQ
 UWQKEGTRUKNNC
 UTCGVGVCGTEUTCY
 FGGTICHKGPKJU
-ここから　のぼれそうだ！\xf000븁\x0000\xfffeうえの　かいに　すすみますか？
-ここから　おりれそうだ！\xf000븁\x0000\xfffeしたの　かいに　もどりますか？
+ここから　のぼれそうだ!\xf000븁\x0000\xfffeうえの　かいに　すすみますか？
+ここから　おりれそうだ!\xf000븁\x0000\xfffeしたの　かいに　もどりますか？
 なされせゆすあきぬとほせひろた\xfffeなさえうなれくう
 なさけちちうんつはうれよりい\xfffeひろたなさえうなれほち
 ちはれいきちうい\xfffeうにひとこちけいなくうそ

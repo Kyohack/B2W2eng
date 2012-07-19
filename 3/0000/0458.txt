@@ -1,9 +1,9 @@
-はい　はい！\xfffeわたしは　せいめい　はんだんし\xf000븁\x0000\xfffeはい　はい！　あなたの　ポケモンの\xfffeニックネームを　うらなって　あげるよ
+はい　はい!\xfffeわたしは　せいめい　はんだんし\xf000븁\x0000\xfffeはい　はい!　あなたの　ポケモンの\xfffeニックネームを　うらなって　あげるよ
 Which Pokémon's nickname\xfffeshould I critique?\xf000븁\x0000
 うーむ\xfffe\xf000Ă\x0001\x0000か...\xf000븁\x0000\xfffeなかなか　きみらしい\xfffeいい　ニックネームを　つけたね\xf000븁\x0000\xfffeでもねー\xfffeもう　すこしだけ　いい　なまえを\xf000븀\x0000\xfffeわたしが　つけて　あげようか？
 Excellent! What would you like\xfffethe new nickname to be?\xf000븁\x0000
-よし！　これから\xfffeこの　ポケモンは　\xf000Ă\x0001\x0000だ！\xf000븁\x0000\xfffeまえより　いい　なまえ　じゃないか\xfffeよかったな！
+よし!　これから\xfffeこの　ポケモンは　\xf000Ă\x0001\x0000だ!\xf000븁\x0000\xfffeまえより　いい　なまえ　じゃないか\xfffeよかったな!
 OK! Come see me again if you\xfffechange your mind.
-よし　これから\xfffeこの　ポケモンは　\xf000Ă\x0001\x0000だ！\xf000븁\x0000\xfffeまえと　おなじように　みえるが\xfffeこっちの　ほうが　ナイス　だぞ！\xf000븀\x0000\xfffeよかったな！
-うーむ\xfffe\xf000Ă\x0001\x0000か！\xf000븁\x0000\xfffeこれは　けちの　つけようもない\xfffeすばらしい　ニックネームだ！\xf000븁\x0000\xfffeこれからも　\xf000Ă\x0001\x0000を\xfffeかわいがって　あげなさいよ！
+よし　これから\xfffeこの　ポケモンは　\xf000Ă\x0001\x0000だ!\xf000븁\x0000\xfffeまえと　おなじように　みえるが\xfffeこっちの　ほうが　ナイス　だぞ!\xf000븀\x0000\xfffeよかったな!
+うーむ\xfffe\xf000Ă\x0001\x0000か!\xf000븁\x0000\xfffeこれは　けちの　つけようもない\xfffeすばらしい　ニックネームだ!\xf000븁\x0000\xfffeこれからも　\xf000Ă\x0001\x0000を\xfffeかわいがって　あげなさいよ!
 Now, now...\xfffeThat is merely an Egg!

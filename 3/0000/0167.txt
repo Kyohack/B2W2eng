@@ -1,27 +1,27 @@
-こんにちは！\xfffeユナイテッドタワーへ　ようこそ！\xf000븁\x0000\xfffeうえの　フロアに\xfffeいどう　なさいますか？
+こんにちは!\xfffeユナイテッドタワーへ　ようこそ!\xf000븁\x0000\xfffeうえの　フロアに\xfffeいどう　なさいますか？
 Indeed.\xfffePlease step inside the elevator.\xf000븁\x0000
 Please come again.
-ここは　ユナイテッドタワー\xf000븁\x0000\xfffeうみも　くにも　こえた　ばしょから\xfffeせかいじゅうの　トレーナーが\xf000븀\x0000\xfffeつどう　ばしょ\xf000븁\x0000\xfffeいける　フロアは\xfffeおきゃくさま　しだい！\xf000븁\x0000\xfffeせかいじゅうに　しりあいが　おおいほど\xfffeいろんな　フロアに　いけるでしょう\xf000븁\x0000\xfffeどうぞ　こころゆくまで\xfffeおたのしみ　ください！
+ここは　ユナイテッドタワー\xf000븁\x0000\xfffeうみも　くにも　こえた　ばしょから\xfffeせかいじゅうの　トレーナーが\xf000븀\x0000\xfffeつどう　ばしょ\xf000븁\x0000\xfffeいける　フロアは\xfffeおきゃくさま　しだい!\xf000븁\x0000\xfffeせかいじゅうに　しりあいが　おおいほど\xfffeいろんな　フロアに　いけるでしょう\xf000븁\x0000\xfffeどうぞ　こころゆくまで\xfffeおたのしみ　ください!
 Right now, the number of visitors in\xfffeUnity Tower is \xf000ȁ\x0001\x000b.
-へぇ！　きみの　しゅみは\xfffe\xf000ď\x0001\x0006　なんだね！
-すげー！\xfffeてんじょう　たっけーーー！\xf000븀\x0000\xfffeぼくの　しんちょう　なんにんぶんかな？
-ユナイテッドタワーに　くると\xfffeいつも　こうふん　するよ！\xf000븁\x0000\xfffeせかいは　ほんとうに　ひろい！\xfffeそれを　じっかん　できるんだ！
+へぇ!　きみの　しゅみは\xfffe\xf000ď\x0001\x0006　なんだね!
+すげー!\xfffeてんじょう　たっけーーー!\xf000븀\x0000\xfffeぼくの　しんちょう　なんにんぶんかな？
+ユナイテッドタワーに　くると\xfffeいつも　こうふん　するよ!\xf000븁\x0000\xfffeせかいは　ほんとうに　ひろい!\xfffeそれを　じっかん　できるんだ!
 はじめて　みる　かおだな\xfffeきみ　ここは　はじめてかい？\xf000븁\x0000\xfffeここ　ユナイテッドタワーには\xfffeせかいじゅうから　トレーナーが\xf000븀\x0000\xfffeやってくるんだがね\xf000븁\x0000\xfffeそういった　わかい　トレーナーを\xfffeまもるために　おじさんは　まいにち\xf000븀\x0000\xfffeこうして　セキュリティチェックを\xf000븀\x0000\xfffeがんばっとるんだよ\xf000븁\x0000\xfffeあまり　ウロチョロして\xfffeわるさするんじゃないぞ\xf000븀\x0000\xfffe...ほい　とおっていいぞ\xf000븁\x0000
 あまり　ウロチョロして\xfffeわるさ　するんじゃないぞ\xf000븀\x0000\xfffeほい　とおって　いいぞ\xf000븁\x0000
 ...って　ん？\xf000븁\x0000\xfffeどこかで\xfffeあったことが　あるような...\xf000븀\x0000\xfffe...まぁ　いい\xf000븁\x0000\xfffeはしゃぎすぎて　ころんだり\xfffeしないようにな\xf000븁\x0000\xfffeきゃくに　ケガされると\xfffeおじさん　こまるんだ\xf000븁\x0000\xfffe...ほい\xfffeとおって　いいぞ\xf000븁\x0000
-ほう！\xfffeきみは　トレーナーなのか\xf000븁\x0000\xfffeそうか　おやもとを　はなれて\xfffeたびを　しているんだな\xf000븀\x0000\xfffe...まぁ　なんだ\xf000븁\x0000\xfffeたまに　れんらくでも\xfffeすると　いいんじゃないか\xf000븁\x0000\xfffeほい\xfffeとおって　いいぞ\xf000븁\x0000
+ほう!\xfffeきみは　トレーナーなのか\xf000븁\x0000\xfffeそうか　おやもとを　はなれて\xfffeたびを　しているんだな\xf000븀\x0000\xfffe...まぁ　なんだ\xf000븁\x0000\xfffeたまに　れんらくでも\xfffeすると　いいんじゃないか\xf000븁\x0000\xfffeほい\xfffeとおって　いいぞ\xf000븁\x0000
 きみか\xf000븁\x0000\xfffeふぬ...　きみは　こうかんするのが\xfffeすきなのか？\xf000븁\x0000\xfffe...いいんじゃないか\xfffeわかものらしく　かっぱつで\xf000븀\x0000\xfffeほい　とおって　いいぞ\xf000븁\x0000
 って　きみか\xf000븁\x0000\xfffeきみは　よく　くるようだが\xfffeせかいじゅうに\xf000븀\x0000\xfffeしりあいが　いるのかい？\xf000븁\x0000\xfffeおじさんの　わかいころじゃ\xfffeかんがえられん　せかいだな\xf000븁\x0000\xfffeほい\xfffeとおって　いいぞ\xf000븁\x0000
 Oh, it's you, \xf000Ā\x0001\x0003!\xf000븁\x0000\xfffeLately, lots of Trainers have been\xfffelooking for you.\xf000븀\x0000\xfffeYou're just like a movie star, aren't ya?\xf000븁\x0000\xfffeWhen I was your age, the ladies\xfffeused to get worked up over me. Ha ha.\xf000븁\x0000\xfffe'Kay, you can pass.\xf000븁\x0000
 Hey, it's you, \xf000Ā\x0001\x0003!\xf000븁\x0000\xfffeRecently, it looks like there have been\xfffelots of global Trainers like you.\xf000븁\x0000\xfffeThat means--how do I put it--world peace\xfffecan't be far off!\xf000븀\x0000\xfffeShould I get my hopes up?\xf000븁\x0000\xfffe'Kay, pass on through!\xf000븁\x0000
 きみか　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeきみが　ここに　くるように　なってから\xfffeユナイテッドタワーは　だいぶ\xf000븀\x0000\xfffeいそがしくなってきた　きがするよ\xf000븁\x0000\xfffeおじさんとしちゃ\xfffeしごとが　ふえるんだが\xf000븀\x0000\xfffeまぁ　うれしい　ひめいって　やつだな\xf000븀\x0000\xfffeがんばれよ\xf000븁\x0000
-お　\xf000Ā\x0001\x0003か\xf000븁\x0000\xfffeまた　さらに　おおくの　ところと\xfffeこうかん　したのか！\xf000븁\x0000\xfffeこりゃあ　たいした　もんだ！\xfffeそんじゃあ　ポケモンずかんも　もう\xf000븀\x0000\xfffeだいぶ　うまったんじゃないか？\xf000븁\x0000\xfffe...いやあ　たいしたもんだ\xfffeほい　まぁ　とおってくれ\xf000븁\x0000
+お　\xf000Ā\x0001\x0003か\xf000븁\x0000\xfffeまた　さらに　おおくの　ところと\xfffeこうかん　したのか!\xf000븁\x0000\xfffeこりゃあ　たいした　もんだ!\xfffeそんじゃあ　ポケモンずかんも　もう\xf000븀\x0000\xfffeだいぶ　うまったんじゃないか？\xf000븁\x0000\xfffe...いやあ　たいしたもんだ\xfffeほい　まぁ　とおってくれ\xf000븁\x0000
 お　\xf000Ā\x0001\x0003　きみか\xf000븁\x0000\xfffeきょうも　きみ　めあての　きゃくで\xfffeユナイテッドタワーは　にぎわっとるよ\xf000븀\x0000\xfffeまぁ　ゆっくりしていくと　いい\xf000븁\x0000
-おお　きみか\xfffe\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeご...　５０かしょ！？\xf000븁\x0000\xfffe５０かしょ　いじょうと\xfffeこうかん　した　トレーナーなんて\xf000븀\x0000\xfffeみたこと　ないぞ！\xf000븁\x0000\xfffe...きみは　いったい　どうやって\xfffeそんなに　おおくの　ところと\xf000븀\x0000\xfffeこうかん　しているんだ？\xf000븁\x0000\xfffeほい　まぁ　とおってくれ\xfffeそんで　すきに　うごきまわってくれ\xf000븁\x0000
+おお　きみか\xfffe\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeご...　５０かしょ!？\xf000븁\x0000\xfffe５０かしょ　いじょうと\xfffeこうかん　した　トレーナーなんて\xf000븀\x0000\xfffeみたこと　ないぞ!\xf000븁\x0000\xfffe...きみは　いったい　どうやって\xfffeそんなに　おおくの　ところと\xf000븀\x0000\xfffeこうかん　しているんだ？\xf000븁\x0000\xfffeほい　まぁ　とおってくれ\xfffeそんで　すきに　うごきまわってくれ\xf000븁\x0000
 おお　きみか\xfffe\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeそれだけ　こうかんしていると\xfffeせかいじゅうに　しりあいが\xf000븀\x0000\xfffeいるんじゃないのか？\xf000븁\x0000\xfffeはっは　きみは　りょこうに　いっても\xfffeしりあいには　こまらないな\xf000븀\x0000\xfffeほいっ\xf000븀\x0000\xfffeとおってくれ\xf000븁\x0000
-おおっ　きみか\xfffe\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeもはや　きみ\xfffeセキュリティチェックなんて\xf000븀\x0000\xfffeいらない　きが　するな...\xf000븀\x0000\xfffeとおって　いいよ　もう\xf000븁\x0000\xfffe...ぬぁんちゃってっ！\xf000븁\x0000\xfffeゆだんした　ときこそが　ねらいめ！\xf000븁\x0000\xfffeこんなときに　かぎって　もんだいが\xfffeあったり　するんだ！\xf000븁\x0000\xfffeはっは！　おじさん　だてに　３０ねん\xfffeガードマン　やってないからな！\xf000븁\x0000\xfffe...　...\xfffe...　...\xf000븁\x0000\xfffe...　...\xfffe...　...\xf000븁\x0000\xfffeほい　とおって　いいよ\xf000븁\x0000
-おおっ！\xfffeきみか　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeいちおう　セキュリティチェックするぞ\xf000븁\x0000\xfffe...　...\xfffe...　...\xf000븁\x0000\xfffeこ...　これは...\xf000븁\x0000\xfffeガムっ...！！\xf000븁\x0000\xfffeみたことない　やつだ！\xfffeしんさく　かい？\xf000븀\x0000\xfffeこんど　おじさんも　かってみようかな\xf000븁\x0000\xfffeほい\xfffeとおっていいよ\xf000븁\x0000
-おおっ　きみか　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeあと　もう　ひといきで\xfffeすべての　ところと\xf000븀\x0000\xfffeこうかん　するんじゃないか？\xf000븁\x0000\xfffeきみ　みたいな　こどもたちが\xfffeこれからの　せかいを\xf000븀\x0000\xfffeうごかして　いくんだろうな\xf000븀\x0000\xfffeこころづよいよ　ほんとに\xf000븁\x0000\xfffeあとちょっとだ　がんばれよ！\xf000븁\x0000\xfffeほいっ\xfffeとおっていいよ\xf000븁\x0000
+おおっ　きみか\xfffe\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeもはや　きみ\xfffeセキュリティチェックなんて\xf000븀\x0000\xfffeいらない　きが　するな...\xf000븀\x0000\xfffeとおって　いいよ　もう\xf000븁\x0000\xfffe...ぬぁんちゃってっ!\xf000븁\x0000\xfffeゆだんした　ときこそが　ねらいめ!\xf000븁\x0000\xfffeこんなときに　かぎって　もんだいが\xfffeあったり　するんだ!\xf000븁\x0000\xfffeはっは!　おじさん　だてに　３０ねん\xfffeガードマン　やってないからな!\xf000븁\x0000\xfffe...　...\xfffe...　...\xf000븁\x0000\xfffe...　...\xfffe...　...\xf000븁\x0000\xfffeほい　とおって　いいよ\xf000븁\x0000
+おおっ!\xfffeきみか　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeいちおう　セキュリティチェックするぞ\xf000븁\x0000\xfffe...　...\xfffe...　...\xf000븁\x0000\xfffeこ...　これは...\xf000븁\x0000\xfffeガムっ...!!\xf000븁\x0000\xfffeみたことない　やつだ!\xfffeしんさく　かい？\xf000븀\x0000\xfffeこんど　おじさんも　かってみようかな\xf000븁\x0000\xfffeほい\xfffeとおっていいよ\xf000븁\x0000
+おおっ　きみか　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeあと　もう　ひといきで\xfffeすべての　ところと\xf000븀\x0000\xfffeこうかん　するんじゃないか？\xf000븁\x0000\xfffeきみ　みたいな　こどもたちが\xfffeこれからの　せかいを\xf000븀\x0000\xfffeうごかして　いくんだろうな\xf000븀\x0000\xfffeこころづよいよ　ほんとに\xf000븁\x0000\xfffeあとちょっとだ　がんばれよ!\xf000븁\x0000\xfffeほいっ\xfffeとおっていいよ\xf000븁\x0000
 きみだな　\xf000Ā\x0001\x0003\xf000븁\x0000\xfffeきいたよ\xf000븁\x0000\xfffeついに　すべての　ところの　ひとと\xfffeこうかん　したそうじゃないか？\xf000븁\x0000\xfffeこころなしか\xfffeこの　ユナイテッドタワー\xf000븀\x0000\xfffeきみがくると　くうきが　はずむんだよ\xf000븀\x0000\xfffeきっと　よろこんでいるんだな\xf000븁\x0000\xfffeなぁ　\xf000Ā\x0001\x0003くん\xfffeユナイテッドタワーの　ばんにんとして\xf000븀\x0000\xfffeれいを　いわせてくれ\xf000븁\x0000\xfffeこんな　へきちにある　ビルを\xfffeこんなにも　にぎやかに　してくれて\xf000븀\x0000\xfffeありがとう\xf000븁\x0000\xfffeまぁ　とおって　くれ\xf000븁\x0000\xfffeそして　じぶんの　にわだと　おもって\xfffeじゆうに　うごきまわってくれ\xf000븁\x0000
 Please select a floor.\xf000븁\x0000
 Hey, you over there!\xfffeCome here for a second.\xf000븁\x0000
@@ -37,7 +37,7 @@ Recently, it looks like there have been\xfffelots of global Trainers like you.
 きょうも　きみ　めあての　きゃくで\xfffeユナイテッドタワーは　にぎわっとるよ\xf000븁\x0000\xfffeまぁ　ゆっくりしていくと　いい
 きみは　いったい　どうやって\xfffeそんなに　おおくの　ところと\xf000븀\x0000\xfffeこうかん　しているんだ？
 それだけ　こうかんしていると\xfffeせかいじゅうに　しりあいが\xf000븀\x0000\xfffeいるんじゃないのか？\xf000븁\x0000\xfffeはっは　きみは　りょこうに　いっても\xfffeしりあいには　こまらないな
-ガードマンをしつづけて　３０ねんかん\xfffeきょうも　いじょう　なし\xf000븀\x0000\xfffeんんっ　いいことだ！
+ガードマンをしつづけて　３０ねんかん\xfffeきょうも　いじょう　なし\xf000븀\x0000\xfffeんんっ　いいことだ!
 I think I'll try buying that new gum\xfffenext time.
 きっと　みらいは\xfffeきぼうに　みちあふれて　いるんだな\xf000븁\x0000\xfffeきみを　みていると　しぜんと\xfffeそういう　きもちに　なれるよ
 きみが　くると\xfffeユナイテッドタワーが　にぎやかになる\xf000븁\x0000\xfffeじぶんの　にわだと　おもって\xfffeじゆうに　うごきまわってくれ

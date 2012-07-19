@@ -1,10 +1,10 @@
 There are medicinal herbs that make\xfffePokémon healthy.\xf000븁\x0000
-がいこくから　とりよせた\xfffeかんぽうやくは　ききめ　バッチリ！\xf000븁\x0000\xfffeだけど　ちょっぴり　にがいから\xfffeポケモン　いやがっちゃうみたいなの
+がいこくから　とりよせた\xfffeかんぽうやくは　ききめ　バッチリ!\xf000븁\x0000\xfffeだけど　ちょっぴり　にがいから\xfffeポケモン　いやがっちゃうみたいなの
 Welcome! This is straight from the farm!\xf000븁\x0000\xfffeMoomoo Milk--one bottle for $500.\xfffeWould you like some for your trip?
 Here it is! Your Moomoo Milk!\xf000븁\x0000
 Oh, my!\xfffeYour Bag is full!
 Oh, my!\xfffeYou don't have enough money!
-また　こんど\xfffeかってくださいね！\xf000븁\x0000\xfffeちなみに　うちの　モーモーミルクは\xfffeさんち　ちょくそう\xf000븀\x0000\xfffeしぼりたて　しんせん　なんですよ！
+また　こんど\xfffeかってくださいね!\xf000븁\x0000\xfffeちなみに　うちの　モーモーミルクは\xfffeさんち　ちょくそう\xf000븀\x0000\xfffeしぼりたて　しんせん　なんですよ!
 A dozen! That's 12 bottles.\xfffeHere it is, your Moomoo Milk!\xf000븁\x0000
 One bottle
 One dozen
@@ -12,12 +12,12 @@ No thanks!
 ...ごめんね\xf000븁\x0000\xfffeチャールズって　ヤツが\xfffeぜーんぶ　かってっちゃったの
 You! Glad you came!\xfffeYou want something good?
 Then, show me a Pokémon Lv. 30 or more!\xf000븁\x0000
-おー！　もーれつ！\xf000븁\x0000\xfffeあなた　すごいねー！\xf000븁\x0000\xfffeこれ　もってけー！\xf000븁\x0000
-おー！　まだまだ　これからー！\xf000븁\x0000\xfffeポケモン　きたえたら\xfffeまた　ここに　くると　いいー！
+おー!　もーれつ!\xf000븁\x0000\xfffeあなた　すごいねー!\xf000븁\x0000\xfffeこれ　もってけー!\xf000븁\x0000
+おー!　まだまだ　これからー!\xf000븁\x0000\xfffeポケモン　きたえたら\xfffeまた　ここに　くると　いいー!
 You, modest!\xfffeYou should just want something good!
-あなたー　よくきたー！\xfffeたつじんのおび　つかいこなせー！\xf000븁\x0000\xfffeたつじんのおび　もっていると\xfffeこうかバツグンの　ときに\xf000븀\x0000\xfffeちょっと　いりょく　あがるー！
+あなたー　よくきたー!\xfffeたつじんのおび　つかいこなせー!\xf000븁\x0000\xfffeたつじんのおび　もっていると\xfffeこうかバツグンの　ときに\xf000븀\x0000\xfffeちょっと　いりょく　あがるー!
 なんでも　ゆにゅう　して\xfffeいつでも　モノが　そろっている\xf000븀\x0000\xfffeきっと　べんりな　まちが　あるわ
-きせつを　だいじにする\xfffeゆったりとした　まちが　あるの\xf000븁\x0000\xfffeその　まちから　いろいろ\xfffeゆしゅつ　しているんだって！
+きせつを　だいじにする\xfffeゆったりとした　まちが　あるの\xf000븁\x0000\xfffeその　まちから　いろいろ\xfffeゆしゅつ　しているんだって!
 Looking at seasonal vegetables is fun.\xf000븁\x0000\xfffeBecause when the seasons change,\xfffethe vegetables available change!
 Whenever we come to the market,\xfffevegetables of all seasons are available.\xf000븀\x0000\xfffeIsn't that a marvel?
 Goods carried away from Driftveil arrive\xfffein a town somewhere else...\xf000븁\x0000\xfffeYeah. The world is connected.

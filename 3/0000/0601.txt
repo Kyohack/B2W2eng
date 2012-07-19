@@ -24,12 +24,12 @@ To fill the Pokédex is to expand\xfffeyour view of the world!\xf000븁\x0000\xf
 To use it, just open up the\xfffePokédex, and on the lower left\xf000븀\x0000\xfffeside touch the 「Habitat」 button!\xf000븀\x0000\xfffeThen just chose the location you want!\xf000븁\x0000\xfffeMoreso, it'll even show when you've\xfffeseen and also caught all the\xf000븀\x0000\xfffePokémon in the area!\xf000븁\x0000\xfffeDid you get all that?\xfffeWant me to explain it again?
 What am I doing?　I'm searching for\xfffePokémon in the grass!\xf000븁\x0000\xfffeYeah!　Stay of out the grass if\xfffeyou want to avoid Pokémon!
 \xf000Ā\x0001\x0000!\xf000븁\x0000
-すまぬ！　だいじなことを\xfffeつたえるのを　わすれておった！\xf000븁\x0000\xfffeまずは　これを　うけとれい！\xf000븁\x0000
-いま　わたしたのは\xfffeオレンのみ　という　きのみだ！\xf000븁\x0000\xfffeポケモンに　あたえると\xfffeたいりょくを　かいふく　するぞ！\xf000븁\x0000
-さらに！　ポケモンに\xfffeきのみを　もたせておくとだな\xf000븁\x0000\xfffeたたかいの　さなか\xfffeたいりょくが　へったとき　ポケモンが\xf000븀\x0000\xfffeじぶんで　たべて　げんきになる！\xf000븁\x0000
-さてと......　さきほど\xfffeジムリーダーに　いどめと　いったが\xf000븁\x0000\xfffeヒオウギの　ジムリーダーは　とても\xfffeつよい　ポケモントレーナーだ！\xf000븁\x0000\xfffeだけど　あんじることは　ない！\xf000븁\x0000\xfffeともに　たたかう　ポケモンは\xfffeなにが　できるのか\xf000븁\x0000\xfffeそして　トレーナーである\xfffeおまえは　なにを　すべきか\xf000븀\x0000\xfffeかんがえれば　かならず　かてる！！\xf000븁\x0000
-そうして　どんどん\xfffeつよい　トレーナー　......そうだな\xf000븀\x0000\xfffeかくちの　ジムリーダーに　いどめ！\xf000븁\x0000\xfffeポケモンと　ちからを　あわせてこそ\xfffeポケモントレーナーとして　そだち\xf000븁\x0000\xfffeたくましくなるごとに\xfffeおまえたちの　せかいは　ひろがるぞ！\xf000븁\x0000
+すまぬ!　だいじなことを\xfffeつたえるのを　わすれておった!\xf000븁\x0000\xfffeまずは　これを　うけとれい!\xf000븁\x0000
+いま　わたしたのは\xfffeオレンのみ　という　きのみだ!\xf000븁\x0000\xfffeポケモンに　あたえると\xfffeたいりょくを　かいふく　するぞ!\xf000븁\x0000
+さらに!　ポケモンに\xfffeきのみを　もたせておくとだな\xf000븁\x0000\xfffeたたかいの　さなか\xfffeたいりょくが　へったとき　ポケモンが\xf000븀\x0000\xfffeじぶんで　たべて　げんきになる!\xf000븁\x0000
+さてと......　さきほど\xfffeジムリーダーに　いどめと　いったが\xf000븁\x0000\xfffeヒオウギの　ジムリーダーは　とても\xfffeつよい　ポケモントレーナーだ!\xf000븁\x0000\xfffeだけど　あんじることは　ない!\xf000븁\x0000\xfffeともに　たたかう　ポケモンは\xfffeなにが　できるのか\xf000븁\x0000\xfffeそして　トレーナーである\xfffeおまえは　なにを　すべきか\xf000븀\x0000\xfffeかんがえれば　かならず　かてる!!\xf000븁\x0000
+そうして　どんどん\xfffeつよい　トレーナー　......そうだな\xf000븀\x0000\xfffeかくちの　ジムリーダーに　いどめ!\xf000븁\x0000\xfffeポケモンと　ちからを　あわせてこそ\xfffeポケモントレーナーとして　そだち\xf000븁\x0000\xfffeたくましくなるごとに\xfffeおまえたちの　せかいは　ひろがるぞ!\xf000븁\x0000
 Route 19
 Route 19
 Trainer Tips!\xf000븁\x0000\xfffe\xfffeMake an effort to talk to all the\xfffepeople you meet during your journey!\xf000븁\x0000\xfffeChances are they will have something\xfffeuseful to tell you.
-おまえも　なみのり　つかえるの？\xfffeオー　おれたち　なみのりフレンド！
+おまえも　なみのり　つかえるの？\xfffeオー　おれたち　なみのりフレンド!
