@@ -79,7 +79,7 @@ Once you have completed\xfffethe registration for Battle Competition,\xfffeyou w
 Before adjusting Game Sync settings,\xfffeyou must complete your\xfffeNintendo Wi-Fi Connection settings.\xfffe\xfffeWhen these settings are done,\xfffeadjust the Game Sync settings\xfffeto have the Game Sync ID issued.\xfffeThis is a unique ID assigned to you.
 You must have a Game Sync ID\xfffeto register at the\xfffePokémon Global Link using\xfffea computer with Internet access.
 When you delete a saved game,\xfffeyour Game Sync ID will also be lost.\xfffe\xfffeWhen you change your Game Sync ID,\xfffeyou must also renew your registration\xfffeat the Pokémon Global Link.
-ニンテンドーＤＳ／ＤＳ　Ｌｉｔｅで\xfffeＷｉ－Ｆｉつうしんを　するための\xfffeせっていが　できます。\xfffe\xfffeＷｉ－Ｆｉせっていをすると\xfffeインターネットを　つうじて\xfffeせかいじゅうの　ひとたちと\xfffeポケモンのこうかんや　たいせんが\xfffeできるように　なります。
+You can set up your Nintendo DS/DS Lite\xfffesystem for Nintendo Wi-Fi Connection.\xfffe\xfffeOnce your Nintendo Wi-Fi Connection\xfffesettings are complete, you can trade\xfffeand battle with people all over the world\xfffethrough the Internet.
 You need to set up the Nintendo Wi-Fi\xfffeConnection settings to connect your game\xfffewith the Pokémon Global Link, which allows\xfffeBattle Competition, Game Sync settings,\xfffeand so on.
 You can check to see\xfffeif your DS system's\xfffemicrophone is functioning.\xfffe\xfffeThe microphone is functioning properly\xfffeif Jigglypuff on the top screen\xfffereacts when you talk\xfffeor blow into it.
 You can restore your tired Pokémon and buy\xfffeuseful items. You'll find the PC where you\xfffecan keep captured Pokémon.\xfffe\xfffeYou can hear\xfffeProfessor Juniper's evaluation\xfffeof your Pokédex.\xfffe\xfffeVisit 2F for Link Trade and Link Battle.

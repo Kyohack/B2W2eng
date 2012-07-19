@@ -27,7 +27,7 @@ I was no match for you...\xfffeThere is always someone better.
 れんしゅうあいてを\xfffeしてくれた　おれい　だよ！\xf000븁\x0000
 I promise you!\xf000븁\x0000\xfffeI will learn from this experience\xfffeand become an even better player!
 ふしゅー！　やすみくらいは\xfffeりんせんたいせいを　かいじょする！
-れんしゅうを　みていたら\xfffeなんだか　じぶんも　すごくなった\xf000븀\x0000\xfffeそんな　きぶんに　なるだろ？\xf000븀\x0000\xfffeだから　しょうぶ　しようよ！\xf000븁\x0000
+Watching a practice makes you feel\xfffethat you are stronger, too,\xf000븀\x0000\xfffedoesn't it?\xf000븀\x0000\xfffeSo let's have a battle!\xf000븁\x0000
 タカ『……ぜんぜん\xfffeうまく　できなかったよ\xf000븁\x0000\xfffeシゲ『……さっぱり\xfffeうまく　できなかったよ
 むずかしいことを　さも\xfffeかんたんに　やってみせる……\xf000븁\x0000\xfffeプロフェッショナルの\xfffeすごさ　って　やつだね
 We cannot have\xfffea one-on-two battle.
@@ -39,16 +39,16 @@ We would like to have\xfffea Pokémon battle as a duo.
 Just by being here! Just by watching it!\xfffeI get really excited!\xf000븁\x0000\xfffeIf I played a game here,\xfffeI would be extremely excited!
 We don't want to have\xfffea one-on-two battle.
 If we fight in this stadium,\xfffedon't you think we will understand\xf000븀\x0000\xfffehow our star players feel?\xf000븁\x0000
-スタジアムで　ポケモンと\xfffeいっしょに　たたかえて……\xf000븁\x0000\xfffeすこしは　スターの　きもちを\xfffeあじわえて　なんか　うれしいな！
+We had a battle with Pokémon\xfffein the stadium...\xf000븁\x0000\xfffeI am happy 'cause I experienced\xfffewhat star players feel!
 One-on-two? \xfffeWe cannot fight like that.
 Watching people practicing\xfffemakes me want to get moving, too!\xf000븁\x0000\xfffeSoooooo, let's practice\xfffePokémon battles.\xf000븁\x0000
 タク『まけても　わらうのは\xfffeたのしいからだよ！\xf000븁\x0000\xfffeヤス『ああ！　ポケモンへの\xfffeおうえんが　たりなかった
 ひとの　れんしゅうを　みるより\xfffeじぶんで　しょうぶする　ほうが\xf000븀\x0000\xfffeなんばいも　たのしいのな！！
 We cannot have\xfffea one-on-two battle.
-いつもは　おうえん　ばかりだけど\xfffeきょうは　ゆうきを　だして\xf000븀\x0000\xfffeポケモンしょうぶ　してみたいんだ\xf000븁\x0000
+We usually cheer for other people,\xfffebut today we would like\xf000븀\x0000\xfffeto gather our courage\xf000븀\x0000\xfffeand have our own Pokémon battle.\xf000븁\x0000
 I am not good at sports,\xfffebut I enjoy sports in my own way--\xf000븀\x0000\xfffeby cheering my heart out for people!
 You have only one Pokémon\xfffethat can fight. It's out of the question.
-ポケモンと　れんしゅう　する\xfffeせんしゅたちを　みていたら\xf000븀\x0000\xfffeアタシも　ポケモンしたくなったわ\xf000븁\x0000
+Watching athletes practice with Pokémon\xfffemade me want to have a Pokémon battle.\xf000븁\x0000
 マナ『すごーい！\xfffeあなた　プロみたーい！！\xf000븁\x0000\xfffeサエ『ごぞんじ　でしたか！
 Ohhh... I knew it was difficult\xfffeto fight with Pokémon as well as\xf000븀\x0000\xfffethe professionals do.
 We are two!\xfffeWe use two Pokémon, too!
@@ -73,7 +73,7 @@ Both my Pokémon and I\xfffestill haven't gotten enough practice...\xf000븀\x00
 I am about to give a lecture\xfffeon the strength created by gathering\xf000븀\x0000\xfffea proper balance of different Pokémon!\xf000븁\x0000
 Bam! You lectured me!\xfffeWhat a great Trainer!
 レクチャーを　リターン！\xf000븁\x0000
-ポケモンとの　チームプレイは\xfffeサッカーに　いままでに　ない\xf000븀\x0000\xfffeおもしろさを　もたらしてくれたぜ
+Team play with Pokémon\xfffebrought new fun to our sport.
 ウッ…！\xfffeがまんの　げんかいだ……
 I am a Waiter who is good\xfffeat Pokémon battles.\xf000븁\x0000
 Wonderful battle! A learning experience.\xfffe...Thanks for the tip!
@@ -336,7 +336,7 @@ One Pokémon?\xfffeボクは　ダブルスが　このみでね
 ヒロ『シューー……\xfffeプスプス……\xf000븁\x0000\xfffeシン『フォルトーーッ！\xfffeサーブ　しっぱい！！
 あんなに　ながいじかん\xfffeうごきつづける　なんて\xf000븁\x0000\xfffeテニスプレイヤーは\xfffeほんと　すごいよな
 Whoosh! Whoosh!
-セイッ！\xf000븁\x0000\xfffeみたか　ボクの　ひっさつサーブ！\xf000븁\x0000\xfffeだが　ポケモンしょうぶは\xfffeもっと　すごいよ！\xf000븁\x0000
+Hah!\xf000븁\x0000\xfffeDid you see my power serve?\xf000븁\x0000\xfffeAnd my Pokémon is\xfffeeven stronger!\xf000븁\x0000
 The person who controls his serves\xfffecontrols the game.\xf000븀\x0000\xfffeI will practice my serves a bit more.
 Hah!
 I love to watch professionals play!\xfffeYaaaay! I won't lose, either!\xf000븁\x0000
@@ -357,12 +357,12 @@ Look at this buff body!\xfffeAnd the Pokémon that support it!\xf000븁\x0000\xf
 タク『バスケの　すばらしさ……\xfffeきみに　つたわったと　おもう\xf000븁\x0000\xfffeヤス『ボールの　ように\xfffeまるくなるか
 The important thing in basketball\xfffeis outstanding teamwork!
 フン！　フン！\xf000븁\x0000\xfffeいちりゅうの　スポーツマンは\xfffeせなかで　かたるんだな
-いろんな　せんしゅから\xfffeうばいあいに　なる\xf000븀\x0000\xfffeあの　ボールに　ぼくは　なりたい\xf000븁\x0000
-ボールから　せんしゅを　みると\xfffeぼくの　ために　あらそわないで！\xf000븀\x0000\xfffeって　かんじに　みえるよね
-いろんな　せんしゅから\xfffeうばいあいに　なる\xf000븀\x0000\xfffeあの　ボールに　ぼくは　なりたい
+The way the athletes scramble\xfffefor that ball...\xf000븁\x0000\xfffeI wish they'd fight over me that way!\xf000븁\x0000
+From the ball's point of view,\xfffeit's like, please don't fight over me!
+The way the athletes scramble\xfffefor that ball...\xf000븁\x0000\xfffeI wish they'd fight over me that way!
 If you win, I will tell you\xfffewhy I like basketball!\xf000븁\x0000
-ミク『なによ　もー！\xf000븁\x0000\xfffeサエ『ほら！　まけたけれど\xfffeボールは　まだ　まわっているわ！
-バスケを　みてると\xfffeかごに　いれた　フルーツを\xf000븀\x0000\xfffeおもいだして　おいしそうでしょ！
+Kat: Come on!\xf000븁\x0000\xfffePhae: Look! Even though we lost, \xfffethe ball is still spinning!
+When you are watching basketball,\xfffeit reminds you of fruit in a basket,\xf000븀\x0000\xfffeand it looks delicious. Right?
 Basketball... No, no. For a battle,\xfffeyou need to have two Pokémon.
 My special skill is that I can\xfffespin a ball on my finger.\xf000븀\x0000\xfffeI can spin it forever!\xf000븁\x0000
 あらゆる　スポーツで　つかう\xfffeボールと　おんなじ　デザインの\xf000븀\x0000\xfffeモンスターボールが　ほしいわ！
@@ -381,7 +381,7 @@ Our bond as fans\xfffeis way stronger than this!
 My cheer will go over the goal line\xfffeand will be heard for a million miles!\xf000븁\x0000
 のどを　からして　せいえんを\xfffeおくると　おいしいみずが\xf000븀\x0000\xfffeもっと　おいしく　かんじるよ！
 Come on! Cheer louder!\xfffeYell! Yell!
-わたし　オフェンスが　メイン\xfffeともだちは　ディフェンス　メイン\xf000븁\x0000\xfffeアメフトファンの　チームワークを\xfffeみせつけるわよー！\xf000븁\x0000
+I mainly play on offense.\xfffeMy friend is mainly defense.\xf000븁\x0000\xfffeI will show you the teamwork\xfffeof football fans!\xf000븁\x0000
 カホ『あなたの　ポケモンの\xfffeチームワーク　ばつぐん！\xf000븁\x0000\xfffeマコ『はげしい　ぶつかりあいに\xfffeわたし　しっしん　しそう！
 おたがいの　やりたいことが\xfffeバラバラだと　ダブルバトルで\xf000븀\x0000\xfffeかつのは　むずかしいわねー！
 You know, football is a team sport!\xfffePlease prepare at least two Pokémon!
@@ -409,7 +409,7 @@ Off!
 Hey, shall I tell you\xfffeabout the offside penalty?\xf000븁\x0000
 オフサイドは　あれよ……\xfffeと……　となりのこが　せつめいするわ！
 Side!
-さいしゅうかい　うら\xfffeツーアウト　まんるい……\xf000븀\x0000\xfffeそのあとは……　きまってるだろ？\xf000븁\x0000
+The bases loaded with two outs\xfffein the bottom of the ninth inning...\xf000븀\x0000\xfffeAfter that... Isn't that obvious?\xf000븁\x0000
 カツ『ストラーーイク！！\xfffeゲームセット！　はい　おわり！\xf000븁\x0000\xfffeゴウ『ああっ　ぼくの\xfffeモンスターボールっっ！
 A game-winning homer...\xfffeWe always hope for that clutch play!
 Striiiiike!!
@@ -984,7 +984,7 @@ You and I have just met!\xfffeLet's start this game from the beginning.
 いつも　このあたりを\xfffeパトロールしている　この　オレ！\xf000븁\x0000\xfffeちけいを　いかした\xfffeポケモンしょうぶを　おみせする！\xf000븁\x0000
 ちけいを　いかしきれなかった……\xfffeなんたることだ！！
 A Ranger always has one of these.\xfffeI'll give it to you!\xf000븁\x0000
-もりも　そこに　くらす\xfffeポケモンも　いきている……\xf000븁\x0000\xfffeまいにち　なにかしら　へんかして\xfffeパトロールも　たのしいんだ！
+もりも　そこに　くらす\xfffeポケモンも　いきている……\xf000븁\x0000\xfffeSomething changes every day,\xfffeso it's fun to patrol!
 We are totally in sync!\xf000븁\x0000\xfffeUsing our amazing connection,\xfffeI will teach you all about Rangers!\xf000븁\x0000
 In fact, we learned\xfffeall about you!
 この　きのみは\xfffeしっている？\xf000븁\x0000
@@ -1071,7 +1071,7 @@ There are good Pokémon,\xfffebut there are no bad Pokémon.\xf000븁\x0000\xfff
 You've got only one Pokémon?\xfffeA single battle is so boring!
 おらおら！\xf000븁\x0000\xfffeワルと　ワルが　がったい！\xfffeどういうことか　わかるか？\xf000븁\x0000\xfffeすごく　ワルって　ことだよ！\xf000븁\x0000
 ワルい　おれらにも\xfffeゆうじょうが　あるんだよ！\xf000븁\x0000\xfffeいいよな……\xfffeおとこと　おとこの　ゆうじょう\xf000븀\x0000\xfffeポケモンとの　ゆうじょう……
-なんだとー　たたかえる\xfffeポケモンが　いっぴき　だと？\xf000븁\x0000\xfffe２ｖｓ１で　たたかうような\xfffeひきょーな　まねが　できるかよ！
+What? You've only got one\xfffePokémon that can fight?\xf000븁\x0000\xfffeI cannot take a cheap shot,\xfffefighting two against one!
 いま　また　おいらたちの\xfffeあせと　なみだが　ジムに　しみこむ……
 いままで　いくつもの　かべを\xfffeぶちこわして　きた　オレらなのに！
 かてそうと　かてるは\xfffeとおくて　ちかいよな……
@@ -1247,7 +1247,7 @@ What?!\xfffeYou are too strong!
 ２ねんまえ　カノコタウンの\xfffeトレーナーに　まけてから\xf000븀\x0000\xfffeポケモン　そだてまくったのに！
 さあ！　かれいに　まえ！\xfffeうつくしく　わざを　くりだすのよ！\xf000븀\x0000\xfffeアタシの　かわいい　ポケモン！\xf000븁\x0000
 Even though it lost,\xfffemy Pokémon is still cute!
-アタシね　いろんな　トレーナーと\xfffeたくさん　ポケモンしょうぶ　して\xf000븀\x0000\xfffeポケモンを　そだてたんだよ！
+I'll make my cute Pokémon even stronger\xfffeby having battles with lots of Trainers!
 ポケモンが　ひとと　いきるのは\xfffeあたりまえ　なのか　かんがえてみた\xf000븁\x0000\xfffeいまも　こたえは　わからんよ\xf000븁\x0000\xfffeだが　ともに　たたかうことは　できる\xf000븁\x0000
 たたかうことで\xfffeいろんな　おもいが　わきあがる
 まけて……\xfffeかなしみも　くるしみも　うけいれる\xf000븁\x0000\xfffeそれでこそ　トレーナー　なのだ\xfffeポケモンと　いきる　ということだな
@@ -1692,7 +1692,7 @@ Oh?\xfffeYou want to have a battle with me?\xf000븁\x0000\xfffeAll right!\xfffe
 いのち　かがやく　ようすを\xfffeねむれる　たましいに　ささげよう！\xf000븁\x0000
 ……？\xfffeいま　シグナルを　キャッチした？
 When I come here... At Celestial Tower,\xfffestrangely, I feel the urge to fight.\xf000븁\x0000\xfffeなにか　たたかいたいって　シグナルが\xfffeはっしん　されているのかな？
-せかいの　おわりが　しりたくて\xfffeここに　いるけれど　ピンとこないけど\xf000븀\x0000\xfffeしょうぶ　すれば　わかるのかな……？\xf000븁\x0000
+I'm here to understand the end\xfffeof the world, but I don't quite get it.\xf000븁\x0000\xfffeIf I have a battle,\xfffewill I be enlightened...?\xf000븁\x0000
 The end...\xfffeIs that it?
 ひとも　ポケモンも……\xfffeたとえば　せかい　すらも\xf000븀\x0000\xfffeなくなって　おわり　じゃないんだ……
 Indescribable energy\xfffeis flowing to me!\xf000븁\x0000
@@ -1788,7 +1788,7 @@ Your strength is fathomless!\xfffeI am deeply impressed.
 あなたの　ふんいき　２ねんまえの\xfffeあの　トレーナー　みたい……\xf000븁\x0000
 やさしく　きびしい　ところが\xfffeあの　トレーナーに　そっくり！
 あの　ポケモントレーナー\xfffeいまごろ　どうしてるのかな？
-ここを　とおるものは　じつに\xfffeさまざまな　かおを　しているな！\xf000븁\x0000\xfffeそれを　ながめるのは　たのしいし\xfffeたたかうのは　もっと　たのしい！\xf000븁\x0000
+The people who pass by here\xfffehave such different moods!\xf000븁\x0000\xfffeIt's fun to watch, and even more fun\xfffeto fight against them!\xf000븁\x0000
 Mwa haha!\xfffeIt's fun!
 しょうりの　しゅんかん\xfffeおまえさんの　ポケモン\xf000븀\x0000\xfffeいい　かお　してたぜ！
 いいの？　オバサン　つよいよ？\xfffeそれでも　あいて　しちゃうの？\xf000븁\x0000
@@ -1883,7 +1883,7 @@ OK! Then...\xfffeTime to give your Pokémon some energy!\xf000븁\x0000
 I will show you the harshness\xfffeof the desert through a battle!\xf000븁\x0000
 Desert...hot... Mouth...dry... Grfrrrfl...
 Be careful of burns!\xf000븁\x0000
-ポケモンが　やけどに　なると\xfffeぶつりわざの　いりょくも　さがる\xf000븀\x0000\xfffeこれは　けっこう　きくぜ！
+If a Pokémon gets a burn, \xfffeit also weakens physical attacks.\xf000븀\x0000\xfffeThis works quite well!
 やけつく　さばく！\xfffeもえる　じょうねつ！\xf000븀\x0000\xfffeそして　あつい　たたかい！\xf000븁\x0000
 Hot! Hot! Hot! Hot!!
 Speed is crucial\xfffeto treat a burn!\xf000븁\x0000
@@ -1946,8 +1946,8 @@ I test the challenge rock every day\xfffewith my Pokémon!\xf000븁\x0000\xfffeW
 From corner to corner, I patrol\xfffePinwheel Forest every day! A battle\xf000븁\x0000\xfffehere is a piece of cake!\xf000븁\x0000
 ……ヤグルマのもりで\xfffeまけるとは　ふかく　だ！
 A Ranger always has one of these.\xfffeI'll give it to you!\xf000븁\x0000
-もりは　いきている……\xf000븁\x0000\xfffeまいにち　なにかしら　へんかして\xfffeパトロールも　たのしいんだ！
-やせいに　とけこむ！\xfffeそれが　ポケモンレンジャーだ！！\xf000븁\x0000
+The forest is alive...\xf000븁\x0000\xfffeSomething changes every day,\xfffeso it's fun to patrol!
+Blend into the wilderness!\xfffeThat is a Ranger!\xf000븁\x0000
 なんじゃくものの　オレめ！\xfffeもういちど　やせいに　とけこもう！
 I'm sure you can fully\xfffeutilize this.\xf000븁\x0000
 やせいに　とけこみすぎると\xfffeひとは　もちろん\xf000븀\x0000\xfffeポケモンにも　きづいてもらえないのだ

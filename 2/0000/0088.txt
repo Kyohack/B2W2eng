@@ -103,9 +103,9 @@ Grrrrr!
 ー
 ー
 ー
-キュン！？\xfffeキューン！？\xf000븀\x0000\xfffeなんだか　とりこみちゅう　みたい
-ギャオ！？\xfffeギャオギャオ！？\xf000븀\x0000\xfffeなんだか　とりこみちゅう　みたい
-……！？\xfffe……　……！？\xf000븀\x0000\xfffeなんだか　とりこみちゅう　みたい
+Squeak!\xfffeSqueeak!\xf000븁\x0000\xfffeUnfortunately they seem to be busy...
+Grrr!\xfffeGrrrrrr!\xf000븁\x0000\xfffeUnfortunately they seem to be busy...
+Unfortunately they seem to be busy...
 \xf000Ā\x0001\x0000『……\xfffe……　……\xf000븀\x0000\xfffeとりこみちゅうの　ようだ
 \xf000Ā\x0001\x0000『……\xfffe……　……\xf000븀\x0000\xfffeとりこみちゅうの　ようだ
 キュン！\xfffeキューン！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
@@ -218,8 +218,8 @@ I see. That's OK!\xfffeBattle you later!
 ー
 ー
 ー
-ごめん！　いまちょっと\xfffeじゅんびが　できてないんだ……\xf000븁\x0000\xfffeまたこんど　じゅんびが　できたら\xfffeたたかおうぜ！
-ごめん！　いまちょっと\xfffeじゅんびが　できてないの……\xf000븁\x0000\xfffeまたこんど　じゅんびが　できたら\xfffeたたかおうね！
+Sorry! I'm not ready for it...\xfffeLet's battle another time\xf000븀\x0000\xfffewhen I'm ready!
+Sorry! I'm not ready for it...\xfffeLet's battle another time\xf000븀\x0000\xfffewhen I'm ready!
 ー
 ー
 ー
@@ -253,8 +253,8 @@ I see. That's OK!\xfffeBattle you later!
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeもし　あぶなくなったら\xfffeすぐ　たすけにいきます！\xf000븁\x0000\xfffe……おっと！\xfffeだれかが　わたしを　よんでいる！\xf000븀\x0000\xfffeそれじゃあ　また！
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeもし　あぶなくなったら\xfffeすぐに　たすけにいきますね！\xf000븁\x0000\xfffe……やや！\xfffeだれかが　わたしを　よんでるわ！\xf000븀\x0000\xfffeそれじゃあ　また！
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I surprise you?\xf000븀\x0000\xfffeI came to see you through the Entralink.\xf000븁\x0000\xfffeI'll help your Pokémon whenever\xfffeyou need me to!\xf000븁\x0000\xfffe...Oh!\xfffeSomebody else needs me now!\xf000븀\x0000\xfffeSee ya!
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I surprise you?\xf000븀\x0000\xfffeI came to see you through the Entralink.\xf000븁\x0000\xfffeI'll help your Pokémon whenever\xfffeyou need me to!\xf000븁\x0000\xfffe...Oh!\xfffeSomebody else needs me now!\xf000븀\x0000\xfffeSee ya!
 ー
 ー
 ー

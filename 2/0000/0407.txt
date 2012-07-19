@@ -21,7 +21,7 @@
 うわあ……\xfffeなんだか……　うつくしいね……\xf000븁\x0000
 アーティ『あうう\xfffeまけちゃったよ……\xf000븁\x0000\xfffeそれにしても　きみ\xfffeすっごく　つよいんだねえ\xf000븁\x0000
 アーティ『ときどき　さあ\xfffeかっこわるい　かちかた　ってきくけど\xf000븀\x0000\xfffeいっしょうけんめい　なら\xf000븁\x0000\xfffeどんな　たたかいかた　だって\xfffeきれいに　みえると　おもうんだよね\xf000븁\x0000
-モスト　インセクト　アーティスト！\xfffeアーティ！　キャンバスは　ここだあ！\xf000븁\x0000
+Premier Insect Artist!\xfffeアーティ！　キャンバスは　ここだあ！\xf000븁\x0000
 いとしの　ポケモンたちで\xfffeあなたを　クラクラ　させちゃうけど\xf000븁\x0000
 わたしが　わたしで　あること！\xfffeポケモンが　ポケモンで　あること！\xf000븁\x0000\xfffeそれを　かんじるために\xfffeポケモンの　わざを　やりとりするの\xf000븁\x0000\xfffeさあ！　いとしの　ポケモンたちで\xfffeあなたを　クラクラ　させちゃうけど\xf000븁\x0000
 これで　フィニッシュ！\xf000븁\x0000\xfffeそう　かくしん　したとき\xfffeからだに　でんきが　ながれるの！\xf000븁\x0000\xfffeその　かいかんを　もとめて\xfffeいとしの　ポケモンたちで\xf000븀\x0000\xfffeあなたを　クラクラ　させちゃうけど\xf000븁\x0000
@@ -67,8 +67,8 @@ Being your opponent in battle is a new\xfffesource of strength to me. Thank you!
 あたしね　いろいろ　あったけれど\xfffeポケモンと　イッシュちほうを　めぐる\xf000븀\x0000\xfffeたびを　して　ほんと　よかったよお！\xf000븁\x0000\xfffeおおくの　ポケモンと　であって\xfffeやりたいことも　みつかって……\xf000븁\x0000\xfffeうまく　いえないけれど\xfffeこの　きもち　あたしの　ポケモンを\xf000븀\x0000\xfffeつうじて　あなたに　とどけたいな！\xf000븁\x0000
 ふえええ！\xf000븁\x0000\xfffeやっぱり　あなたは\xfffeすごく　つよい　トレーナーだよね！\xf000븁\x0000
 どっちの　ポケモンも\xfffeすごく　がんばったよね！！\xf000븁\x0000
-ベル『あいてしてくれて　ありがとう！\xfffeうん！　べんきょうに　なったよ！\xf000븁\x0000\xfffeあたしね　ポケモンは\xfffeひとと　ひとを　なかよくさせるため\xf000븀\x0000\xfffeあたしたちの　そばに　いてくれる……\xf000븁\x0000\xfffeさいきん　そう　かんがえていて\xfffeけんきゅう　しようと　してるんだよ！\xf000븁\x0000
-ベル『あたし　あなたが　する\xfffeポケモンしょうぶ　だいすきだよ\xf000븁\x0000\xfffeなんだか　ポケモンも\xfffeとても　うれしそうなんだもん！\xf000븁\x0000
+Bianca: Thank you for having a battle with me!\xfffeI definitely learned something!\xf000븁\x0000\xfffeあたしね　ポケモンは\xfffeひとと　ひとを　なかよくさせるため\xf000븀\x0000\xfffeあたしたちの　そばに　いてくれる……\xf000븁\x0000\xfffeさいきん　そう　かんがえていて\xfffeけんきゅう　しようと　してるんだよ！\xf000븁\x0000
+Bianca: Thank you for having a battle with me!\xfffeI definitely learned something!\xf000븁\x0000\xfffeなんだか　ポケモンも\xfffeとても　うれしそうなんだもん！\xf000븁\x0000
 しんじつを　もとめて　すすみつづける\xfffeわかき　けんきゅうしゃ　ベルゥッ！！\xf000븁\x0000
 ほのおタイプで　もやしまくる\xfffeオレ　ポッドが　あいてをするぜ！\xf000븁\x0000
 イヤッホー！\xf000븁\x0000\xfffeきょうだいで　いちばん　つよい\xfffeオレさまと　あそぼうぜ！！\xf000븁\x0000
