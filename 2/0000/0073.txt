@@ -74,7 +74,7 @@ You can keep up to 12 Wonder Cards.\xfffe\xfffeTo receive another Wonder Card\xf
 You can participate in competitions\xfffeusing Nintendo Wi-Fi Connection\xfffeand at events.\xfffe\xfffeFor details on the Battle Competition,\xfffego to “BATTLE COMPETITION"\xfffeon the main menu and select\xfffe“Info."
 For more details on Battle Competition,\xfffeincluding Battle Competition rules and\xfffehow to register as a user,\xfffevisit the following official websites.\xfffe\xfffePokémon Global Link website\xfffeThe Official Pokémon website
 Pokémon in your Battle Box\xfffecan participate in Battle Competitions.\xfffe\xfffeOnce registered, you cannot change\xfffethe Pokémon in your Battle Box\xfffeduring the competition.\xfffe\xfffePlease carefully select the right Pokémon\xfffebefore you start the competition.
-バトルたいかいが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
+バトルたいかいが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffeThe Official Pokémon website\xfffeかくにん　してください。
 Once you have completed\xfffethe registration for Battle Competition,\xfffeyou will be able to check your\xfffeDigital Player ID.\xfffe\xfffeFor more details, please visit\xfffethe Pokémon Global Link.
 Before adjusting Game Sync settings,\xfffeyou must complete your\xfffeNintendo Wi-Fi Connection settings.\xfffe\xfffeWhen these settings are done,\xfffeadjust the Game Sync settings\xfffeto have the Game Sync ID issued.\xfffeThis is a unique ID assigned to you.
 You must have a Game Sync ID\xfffeto register at the\xfffePokémon Global Link using\xfffea computer with Internet access.
@@ -84,7 +84,7 @@ You need to set up the Nintendo Wi-Fi\xfffeConnection settings to connect your g
 You can check to see\xfffeif your DS system's\xfffemicrophone is functioning.\xfffe\xfffeThe microphone is functioning properly\xfffeif Jigglypuff on the top screen\xfffereacts when you talk\xfffeor blow into it.
 You can restore your tired Pokémon and buy\xfffeuseful items. You'll find the PC where you\xfffecan keep captured Pokémon.\xfffe\xfffeYou can hear\xfffeProfessor Juniper's evaluation\xfffeof your Pokédex.\xfffe\xfffeVisit 2F for Link Trade and Link Battle.
 You can use the PC to store and organize\xfffePokémon.\xfffe\xfffeWhen you have six Pokémon in your party,\xfffeany Pokémon you catch will be sent to the PC.
-パソコンに　あずけている　ポケモンは\xfffe「ボックスを　せいりする」ことで\xfffeすきな　ボックスに　いどう　させたり\xfffeばしょを　いれかえることが　できます。
+Some moves can reach Pokémon\xfffeeven when they are far away.\xfffe\xfffeYou can switch Pokémon locations\xfffeduring battle.\xfffe\xfffeYou can select “SHIFT" while selecting\xfffea move and the right or left Pokémon will\xfffeswitch places with the middle Pokémon.
 いどうさせたい　ポケモンを　タッチし\xfffe「いどうする」を　タッチすると\xfffeみぎがわに　ボックスが　ひょうじされます。\xfffe\xfffeグレーの　やじるしを　じょうげに\xfffeスライドして　いどう　させたい\xfffeボックスを　タッチすると\xfffeポケモンを　タッチした　ボックスに\xfffeいどうさせることが　できます。
 あおいろの　ボタンを　タッチすると\xfffeいれかえモードに　きりかわります。\xfffe\xfffeタッチして　えらんだ　ポケモンを\xfffeいれかえたい　ばしょまで\xfffeスライドさせて　はなしてください。
 きいろの　ボタンを　タッチすると\xfffeふくすういどうモードに　きりかわります。\xfffe\xfffeボックスを　タッチすると\xfffeてんせんが　ひょうじ　されます。\xfffeいどう　させたい　ポケモンを\xfffeかこむことで　てんせんないの　ポケモンを\xfffeまとめて　いどう　させることができます。
@@ -115,10 +115,10 @@ This personal number is issued when you\xfffeestablish a Nintendo Wi-Fi Connecti
 You can register a Friend Code in two\xfffedifferent ways.\xfffe\xfffe- Use the Pal Pad in the Key Items in your\xfffe   Bag to enter your friend's Friend Code\xfffe- Use an Infrared Connection from your\xfffe   C-Gear
 C-Gear is a multi-functional device that lets\xfffeyou use the Entralink, the Xtransceiver, and\xfffeGame Sync.\xfffe\xfffeYour C-Gear can also help you Link Trade\xfffeand Link Battle with people nearby.\xfffe\xfffeTap the power icon in the bottom-right corner\xfffeof your C-Gear to turn it on or off.
 When your C-Gear is turned on, your\xfffeDS system's wireless communications\xfffeare always on.\xfffe\xfffeTurn your C-Gear off in places where\xfffewireless communications are prohibited,\xfffesuch as airplanes and hospitals.
-Ｃギアの　みぎしたに　ある\xfffeスパナマークを　タッチすると\xfffeＣギアを　カスタマイズできます。\xfffeわくを　タッチして　いろをかえたり\xfffeひかる　ボタンを　スライドさせて\xfffeすきな　ばしょに　いどうできます。\xfffe\xfffe？マークを　タッチすると　Ｃギアの\xfffeヘルプを　みることができます。
-Ｃギアの　まんなかに　ひょうじされる\xfffeしかくいマークが　すれちがいログ　です。\xfffeタッチすると　ちかくで　Ｃギアを\xfffeつかっている　ひとがいるか　わかります。\xfffeちかくの　ひとの　ゲームでの　ようすや\xfffeプロフィールが　わかったり\xfffeメッセージの　やりとりなどが　できます。\xfffeまた　フェスミッションが　はっせいすると\xfffeてんめつして　しらせてくれます。
-Ｃギアをつかっている　べつのひとが\xfffeひょうじされているときに\xfffeそのひとを　タッチすると\xfffeプレイじかんや\xfffeどこを　ぼうけんしているのか\xfffeすれちがいちょうさたいの　ランクなどの\xfffeじょうほうを　みることが　できます。
-すれちがいログ　がめんの　したにある\xfffeさんかくマークを　タッチすると\xfffeハイルツリーから　うけとった\xfffeデルパワーを　つかうことが　できます。\xfffe\xfffeデルパワーを　うけとるには\xfffeハイリンクにある　ハイルツリーを\xfffeかくにん　してください。
+Tap the wrench icon in the bottom-right\xfffecorner of the C-Gear to customize it.\xfffe\xfffeTry tapping on the colorful frames\xfffeafter you've tapped the wrench icon.\xfffeYou can customize them to your liking.\xfffe\xfffeTap the ? icon for help with your C-Gear.
+The long icon at the bottom of your C-Gear\xfffeis for the Tag Log. Tap it to see people\xfffewho are using their C-Gear around you.\xfffe\xfffeYou can see their profiles, tell what they\xfffeare doing, and exchange messages.\xfffe\xfffeOthers can see what you are doing, as well.\xfffeまた　フェスミッションが　はっせいすると\xfffeてんめつして　しらせてくれます。
+When you see other players who have\xfffetheir C-Gear on, you can select them to\xfffesee their rank, play time, location\xfffein the game, and more.
+Tap the triangle icon in the Tag Log to use\xfffea Pass Power received from your Entree.\xfffe\xfffeTo receive a Pass Power, complete missions\xfffeat someone else's Entree and then check\xfffeyour own Entree.
 Tap the speech-bubble icon to send messages\xfffeto another player with his or her C-Gear\xfffeturned on.\xfffe\xfffeNever send offensive messages or messages\xfffethat contain personal information such as\xfffenames and telephone numbers.
 Tap the smile icon and you can send\xfffea thank-you message.\xfffe\xfffeTap the icon and then select whom to thank.
 メダルマークを　タッチすると\xfffeつうしんあいてが　てにいれた\xfffeメダルの　かずや　とうろく　している\xfffeイチオシメダルを　みることが　できます。
@@ -127,24 +127,24 @@ You can accept Passerby Survey requests\xfffeat the Passerby Analytics HQ in Cas
 When the leader asks you to take a survey,\xfffetap the pie-chart icon in the bottom-left\xfffecorner of your C-Gear to decide which survey\xfffeto run.\xfffe\xfffeThe survey you are running will be marked\xfffein your list.
 Once you've decided which survey to run,\xfffejust turn your C-Gear on.\xfffe\xfffeThe survey will take place automatically\xfffeas people pass by you.\xfffe\xfffeThe survey will continue even when your\xfffeDS system is closed or when you are playing\xfffethe game.
 Before you report to the leader in Castelia\xfffeCity, check the results using “CHECK SURVEY\xfffeRESULTS" in your C-Gear.\xfffe\xfffeOnce you know that the survey is complete,\xfffego to Passerby Analytics HQ in Castelia City\xfffeto report to your leader.
-Ｃギアの　「ＩＲ（アイアール）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeちかくのひとに　つうしんこうかんや\xfffeたいせんを　もうしこむことが　できます。\xfffeともだちコードを　こうかんしたり\xfffeつうしんあいてとの　あいしょうを\xfffeチェックすることも　できます。
+When you tap the red-framed “INFRARED"\xfffein your C-Gear, you can enjoy Link Trade and\xfffeLink Battle with people nearby.\xfffe\xfffeYou can also exchange Friend Codes and check\xfffehow close you are to someone else.
 Select the same item and let your and your\xfffefriend's DS systems face each other to start\xfffethe connection.\xfffe\xfffeOnce they are connected, your DS systems\xfffeno longer need to face each other.
-Ｃギアの　「Ｗｉ－Ｆｉ（ワイファイ）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeゲームシンクが　できます。\xfffe\xfffeゲームシンクとは\xfffeボックスにいる　ポケモンを　ねむらせて\xfffeトレーナーの　レポートを\xfffeおくる　しくみの　ことです。
-Ｃギアの　「Ｗｉ－Ｆｉ」と　かかれた\xfffeまるい　わくは　むせんつうしんの\xfffeじょうきょうによって　いろが　かわります。\xfffe\xfffeつかっている　ＤＳとの\xfffeＷｉ－Ｆｉせっていが　すませてある\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffeみどりいろに　ひかります。
+When you tap the blue-framed\xfffe“ONLINE" on your C-Gear,\xfffethe Game Sync option will appear.\xfffe\xfffeGame Sync is a system to make a Pokémon in\xfffethe PC fall asleep and to send the saved\xfffedata of Trainers all over the world.
+You'll see different colors display\xfffeinside the “ONLINE" C-Gear frame,\xfffedepending on the situation.\xfffe\xfffeIt is green when the\xfffeNintendo Wi-Fi Connection Settings\xfffeof the DS system are complete.
 ニンテンドーゾーンなど　みんなが\xfffeＷｉ－Ｆｉつうしんを　つかえる\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffe「Ｗｉ－Ｆｉ」の　まるい　わくは\xfffeあおいろに　ひかります。
-Ｗｉ－Ｆｉせっていが　すんでいない\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffe「Ｗｉ－Ｆｉ」の　まるい　わくは\xfffeあかいろに　ひかります。
+When you are near wireless access points,\xfffebut your Nintendo Wi-Fi Connection Settings\xfffeare not complete, the background\xfffeinside the “ONLINE" frame will be red.
 The saved data sent through Game Sync\xfffegoes to the Pokémon Dream World.\xfffe\xfffeThe Pokémon Dream World is located\xfffeon the official Pokémon Global Link website.
 To play in the Pokémon Dream World,\xfffeyou must set up the following items:\xfffe\xfffe-Nintendo Wi-Fi Connection Settings\xfffe-Game Sync Settings\xfffe-User registration with your own computer\xfffe  at the official website for\xfffe  the Pokémon Global Link.
-Ｃギアの\xfffe「ＷＩＲＥＬＥＳＳ（ワイヤレス）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeイッシュちほうの　まんなかに　ある\xfffeハイリンクと　よばれる　ばしょに\xfffeいくことが　できます。\xfffe\xfffeハイリンクの　まんなかには\xfffeハイルツリーと　よばれる　きがあります。
+You can move to the center of the Unova\xffferegion, called the Entralink, by tapping the\xfffeyellow frame with “WIRELESS"\xfffeon it on your C-Gear.\xfffe\xfffeIn the center of your Entralink is a tree\xfffecalled the Entree.
 ハイルツリーに　むかって\xfffeＡボタンを　おすと　フェスミッションを\xfffeうけることが　できます。\xfffe\xfffeミッションには　さまざまな\xfffeもくひょうが　あります。\xfffeせいげんじかんの　なかで\xfffeどうぐを　さがしたり\xfffeポケモンしょうぶを　します。
 ミッションは　スコアを\xfffeためることで　クリアできます。\xfffeミッションせつめいに　かかれた\xfffeクリアもくひょうを　たっせいしましょう。\xfffe\xfffeスコアが　おおいほど\xfffeミッションを　クリアしたときの\xfffeほうしゅうが　おおくなります。
 フェスミッションは\xfffeちかくに　いる　ひとと　いっしょに\xfffeあそぶことが　できます。\xfffe\xfffeだれかが　フェスミッションを　はじめると\xfffeすれちがいログが　ひかるので\xfffeタッチして　すきな　フェスミッションに\xfffeさんかすることが　できます。
 デルパワーは　ハイリンクに　ある\xfffeハイルツリーから　うけとれる\xfffeふしぎな　ちからのこと　です。\xfffe\xfffeデルパワーは　つかうことで\xfffeけいけんちが　おおく　もらえたり\xfffeポケモンが　つかまえやすくなったりと\xfffeさまざまな　こうかが　あります。\xfffeどうじに　３つまで　うけとれます。
-デルパワーを　つかうには\xfffeハイリンクから　でたあとに\xfffeＣギアの　ちゅうおうに　ある\xfffe「すれちがいログ」を　タッチして\xfffeあらわれた　つぎの　がめんにある\xfffeさんかくマークを　タッチして　ください。\xfffeまた　デルパワーを　つかうには\xfffeきめられた　かずの\xfffeデルダマが　ひつよう　です。
+You cannot use a Pass Power in your Entralink\xfffeor in someone else's world.\xfffe\xfffeIf you want to use your Pass Power, please\xfffeexit the Entralink and tap the Tag Log at the\xfffebottom of your C-Gear, then tap the\xfffetriangle icon.
 ハイルツリーが　せいちょうし\xfffeレベルが　あがることで\xfffeあたらしい　デルパワーを\xfffeうけとれるように　なります。\xfffe\xfffeレベルを　あげるには\xfffeフェスミッションを　うけて\xfffeスコアを　たくさん　ためます。
-デルダマは　デルパワーを　つかうときに\xfffeきまったかずだけ　ひつように　なります。\xfffe\xfffeデルダマは　ハイルツリーから　うける\xfffeフェスミッションを　クリアすることで\xfffeもらうことが　できます。
+You need to have a certain number\xfffeof Pass Orbs to use your Pass Power.\xfffe\xfffeYou can obtain Pass Orbs by completing\xfffeFes missions from someone else's Entree.
 ■ Bag function\xfffeYour Bag always sorts items by their types.\xfffe\xfffeItems in the Key Items Case\xfffehave checkboxes next to them.\xfffe\xfffeCheck the box to set up the item\xfffeto use it by pressing the Y Button,\xfffewithout having to open your Bag.
-したがめんの　みどりいろの　マークか\xfffeスタートボタンを　おすと　ひょうじされる\xfffeならびかたを　えらぶことで\xfffeどうぐの　ならびを　へんこう　できます。\xfffeセレクトボタンを　おすと\xfffeポケットの　どうぐの　じゅんばんを\xfffeじゆうに　いれかえることが　できます。\xfffeＬ／Ｒボタンを　おすと\xfffeページを　きりかえることが　できます。
+Pressing the green icon on the Touch Screen\xfffeor START sorts items in the Case.\xfffe\xfffePressing SELECT allows you to move items\xfffein a Case freely. You can switch between\xfffepages with the L Button or R Button.
 バッグには　「フリースペース」が\xfffeようい　されています。\xfffe\xfffeまず　ポケットの　どうぐを　えらびます。\xfffeつぎに　「フリースペースへ」を\xfffeえらぶことで　すきな　どうぐを\xfffeフリースペースに\xfffeいどう　させることが　できます。
 ■ Item types\xfffe-ITEMS\xfffePokémon can hold some items to raise their\xfffestats or move power. Those items are marked.\xfffe\xfffeTry letting your Pokémon hold these items\xfffeto see what effects they have.
 There are some items you can use\xfffeonly in a battle to raise Pokémon stats or\xfffemoves powers.\xfffe\xfffeSome items may last for a limited time.\xfffeSome last until the Pokémon switches out.
@@ -152,7 +152,7 @@ The Poké Balls you need to catch Pokémon\xfffeare kept in the ITEMS Case, as a
 -MEDICINE\xfffeThis area holds items that restore\xfffeyour Pokémon's HP, PP, and heal\xfffestatus conditions.\xfffe\xfffe-TMs & HMs\xfffeThis area holds your TMs & HMs.\xfffeThey can be reused as often as you like.
 -BERRIES\xfffeThis holds Berries that create special\xfffeeffects when your Pokémon hold them\xfffeor use them.\xfffe\xfffe-KEY ITEMS\xfffeThis is a place to keep Key Items. You can\xfffeassign some of them to the Ready button\xfffefor instant use.
 Ｘボタンで　ひらいた　メニューから\xfffeじぶんの　なまえを　えらぶと\xfffeトレーナーカードを\xfffeかくにん　することが　できます。\xfffe\xfffeしたがめんの　ひだりしたに　ある\xfffeマークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
-トレーナーカードは　プレイじかんや\xfffeおこづかいを　かくにんできる　カードです。\xfffeかたがきや　せいかくは　がめんを\xfffeタッチすると　きりかわりますので\xfffeすきなものを　えらんでください。\xfffeしたの　あいさつらんを　タッチすると\xfffeメッセージが　へんしゅう　できます。\xfffeあいている　ところに　すきな　たんごを\xfffeえらんで　かんせいさせて　ください。
+The Trainer Card displays your total\xfffeplay time, prize money, and more.\xfffeTap your title and characteristic to change\xfffethem, and select a new one you like.\xfffe\xfffeTouch the white frame underneath\xfffeto edit your message. Fill in the boxes\xfffeto complete your message.
 You can sign the back of your card\xfffeusing the stylus.\xfffe\xfffeTap the pen and eraser icons to switch\xfffebetween writing and erasing.\xfffe\xfffeTap the plus icon to magnify the screen.\xfffeTap the triangle icon to split the signature\xfffearea in two for animation.
 ぼうけんを　すすめていくと\xfffeトレーナーカードに　メダルマークが\xfffeついか　されます。\xfffe\xfffeメダルマークを　タッチすることで\xfffeせってい　されている　イチオシメダルや\xfffeメダルを　どれだけ　もっているのか\xfffeかくにん　することが　できます。\xfffe
 This high-tech Pokédex records Pokémon\xfffeautomatically.\xfffe\xfffeYou can check a Pokémon's info, area, cry,\xfffeheight, weight, type, footprint, and more.
@@ -176,28 +176,28 @@ Exp. Points are shared among\xfffethe Pokémon in a battle. To help\xfffea weak 
 Pokémon sometimes evolve.\xfffeWhen they do, their appearance changes\xfffeand their stats increase.\xfffe\xfffeThere are many ways to evolve.\xfffeYou can evolve some Pokémon by leveling up,\xfffesome by using items that evolve Pokémon,\xfffeand some by trading a Pokémon with a friend.\xfffeEach Pokémon has its own way to evolve.
 If you press the B Button while a Pokémon\xfffeis evolving, it will be surprised\xfffeand will stop evolving.\xfffe\xfffeYou can also obtain an item that\xfffeprevents Pokémon from evolving.
 Pokémon can grow differently,\xfffedepending on each one's Nature\xfffeand Characteristic.\xfffe\xfffeSometimes Pokémon stats such as\xfffeAttack and Defense may be colored\xfffered or blue. Red means the stat is\xfffemore likely to increase, and blue means\xfffethe stat is less likely to increase.
-ポケルスとは　ポケモンにくっつく　とても\xfffeめずらしい　せいめいたいの　ことです。\xfffeいちど　ポケルスが　くっついた\xfffeポケモンは　よくそだつ　らしいです。\xfffe\xfffeほかの　ポケモンにも\xfffeうつることが　あるようです。
+Pokérus is a beneficial virus seldom\xfffeseen on Pokémon.\xfffe\xfffePokérus seems to help Pokémon grow faster.\xfffeAfter several days, Pokémon will return to\xfffenormal and are immune to Pokérus.\xfffe\xfffePokérus may spread to other Pokémon\xfffein your party.
 ぼうけんの　とちゅうで　であう\xfffeそだてやさんに　ポケモンを\xfffe２ひき　あずけていると　タマゴが\xfffeみつかることが　あります。\xfffe\xfffeタマゴは　げんきな　ポケモンと\xfffeいっしょに　つれあるくことで\xfffeなかから　ポケモンが　あらわれます。
 Once you've received the Running Shoes,\xfffepress the B Button to run.
 The Dowsing MCHN can indicate where items\xfffeare hidden on the Touch Screen.\xfffe\xfffeFollow the directions to find them. When\xfffeyou stand on a hidden item, it will blink.\xfffe\xfffeYou cannot pick up items if you are standing\xfffedirectly on them. Step away, face toward\xfffethe hidden item, and press the A Button.
-ＤＳワイヤレスつうしんや\xfffeＷｉ－Ｆｉつうしんを　つかって\xfffeともだちと　おはなしできる　どうぐです。\xfffe３ＤＳやＤＳｉ、ＤＳｉＬＬなら\xfffeカメラきのうを　つかって　ともだちの\xfffeかおを　みながら　おはなしが　できます。\xfffeライブキャスターで　おはなしするには\xfffeあらかじめ　ともだちコードを　とうろく\xfffeしあっておく　ひつようが　あります。
+This item lets you talk to your friends\xfffeusing DS Wireless Communications\xfffeor Nintendo Wi-Fi Connection.\xfffe\xfffeWith a Nintendo 3DS, DSi, or DSi XL,\xfffeyou can use the camera to see each\xfffeother while talking.\xfffeYou must both register Friend Codes before\xfffetalking with friends on the Xtransceiver.
 ■ Using DS Wireless Communications\xfffeTouch the “WIRELESS" button on your C-Gear\xfffeto select the Xtransceiver.\xfffeThe names and ID numbers of Trainers\xfffeyou've exchanged Friend Codes with\xfffewill appear on the Touch Screen.\xfffeSelect the people you want to talk to\xfffeand give them a call. You can call\xfffeup to three people at once.
 The “WIRELESS" button on your C-Gear will\xfffeflash, and the C-Gear will ring.\xfffe\xfffeThe Xtransceiver will show your friend's name.\xfffeTap it to pick up the phone.\xfffe\xfffeYou will not be able to answer if you tap\xfffethe Xtransceiver.
 ■ Using Wi-Fi Club\xfffeYou can talk to one Trainer in the Wi-Fi Club.
 ■ How to Use the Xtransceiver\xfffeUse the Touch Screen. Touch the button\xfffein the middle while you are talking into it.\xfffe\xfffeUse the gauge to your left to change\xfffethe pitch of your voice.
-３ＤＳやＤＳｉ、ＤＳｉＬＬなら\xfffeおたがいの　かおが　ひょうじされます。\xfffeみぎうえの　ボタンを　おすと　かおに\xfffeらくがきを　しあって　あそべます。\xfffeみぎしたの　ボタンで　がめんを\xfffeこていすることも　できます。\xfffeカメラが　ない　ほんたいの　ばあいは\xfffe「ＳＯＵＮＤ　ＯＮＬＹ」と\xfffeひょうじされます。
+With the Nintendo 3DS, DSi, and DSi XL,\xfffeyou'll see another player's face on the top\xfffescreen. You can cover it with graffiti using\xfffethe button in the top-right corner. You can\xfffealso freeze the picture using the button in\xfffethe bottom-right corner.\xfffe\xfffe“SOUND ONLY" will be displayed\xfffeif the DS system lacks a camera.
 みぎしたの　ふうせんマークの\xfffeボタンを　おすと　ライブキャスターに\xfffeさんかしている　ひとと　ミニゲームで\xfffeあそぶことが　できます。\xfffe\xfffeおしたボタンにより　それぞれ　ちがう\xfffeゲームを　あそぶことが　できます。
 ミニゲームを　はじめられるのは\xfffeさいしょに　ライブキャスターを　えらんだ\xfffeプレイヤー　だけです。\xfffe\xfffeまた　『ポケットモンスターブラック』\xfffe『ポケットモンスターホワイト』の\xfffeプレイヤーとは　ミニゲームを\xfffeあそぶことは　できません。
-イッシュちほうには　８つの　ジムが　あり\xfffeそれぞれに　ジムリーダーが　います。\xfffeジムバッジは　ジムリーダーに　かった\xfffeあかしとして　もらえる　バッジです。\xfffe\xfffeトレーナーカードがめんの\xfffeひだりしたにある　マークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
+The Unova region has eight Gyms. Each Gym\xfffehas its own Gym Leader, and you can win\xfffeGym Badges by defeating those Gym Leaders.\xfffe\xfffePress the X Button to open the menu and\xfffeselect your name to check how many\xfffeGym Badges you've collected.
 As you collect Badges, the Pokémon you've\xfffepicked up by trading will start to obey you\xfffewithout question, even if their level is high.
 The Ready button is an easy shortcut\xfffeto frequently used functions and items.\xfffe\xfffeOnce you register something with the\xfffeReady button, just press the Y Button\xfffeto use that item or function instantly.
-Ｘボタンを　おして　メニューを　ひらくと\xfffeしたのがめんに　しかくい　マークが\xfffeひょうじされている　ことが　あります。\xfffeこのマークを　タッチするか\xfffeＹボタンを　おすと\xfffeあかい　チェックマークが　つきます。\xfffe\xfffeチェックを　つけた　きのうや　どうぐが\xfffeべんりボタンに　とうろくされます。
-たいせつなもの　ポケットに　はいっている\xfffeどうぐの　よこにも\xfffeしかくい　マークが　あります。\xfffe\xfffeカーソルを　あわせて　Ｙボタンを　おすか\xfffeタッチして　チェックしておくと　\xfffeべんりボタンに　とうろくして　おけます。
+You may see boxes on the Touch Screen when\xfffeyou open the menu by pressing the X Button.\xfffe\xfffeTap the box and a check mark will appear in it.\xfffe\xfffeFunctions and items with check marks\xfffenext to them are the ones that\xfffeare registered to the Ready button.
+You will see boxes next to item names\xfffein the Key Items Case, as well.\xfffe\xfffeTap to check them, and they will be\xffferegistered to work with the Ready button.
 べんりボタンには　３４こ　まで\xfffeどうぐや　きのうを　とうろく　できます。\xfffeとうろくを　かいじょ　したい　ばあいは\xfffeしかくい　マークを　タッチするか\xfffeＹボタンを　おして\xfffeチェックを　はずして　ください。\xfffe２つ　いじょう　とうろく　していると\xfffeセレクトボタンで　べんりボタンの\xfffeこうもくを　ならびかえることが　できます。
 「メダルラリー」は　プレイヤーが　した\xfffeいろんなことを　ひょうかして\xfffeメダルを　プレゼントする　システムです。\xfffe\xfffeてにいれた　メダルは　バッグの\xfffe「たいせつなもの」にある\xfffe「メダルボックス」を　えらぶことで\xfffeかくにん　することが　できます。
 メダルは　じょうけんを　みたすと\xfffeポケモンセンターに　あらわれる\xfffe「メダルおやじ」に　はなしかけることで\xfffeてにいれることが　できます。
 Insert one of the following games in another\xfffeDS system and turn the power ON.\xfffe- Pokémon Diamond Version\xfffe- Pokémon Pearl Version\xfffe- Pokémon Platinum Version\xfffe- Pokémon HeartGold Version\xfffe- Pokémon SoulSilver Version\xfffeThen tap DS Download Play in the DS Menu\xfffeto select Poké Transfer.
-ダウンロードが　おわったら\xfffe『ポケットモンスターブラック２』　または\xfffe『ポケットモンスターホワイト２』に\xfffeつれていく　ポケモンを　６ひき　きめて\xfffeタッチペンで　みぎがわの　わくに\xfffeスライドしてください。\xfffe\xfffeポケシフターで　つれてきたポケモンを\xfffeもとのソフトに　もどすことは　できません。
+When the Pokémon have been received,\xfffeselect the six Pokémon you'd like to\xfffetransfer to Pokémon Black Version 2 or\xfffePokémon White Version 2 and slide them\xfffeinto the frame to your right.\xfffe\xfffePokémon sent by Poké Transfer CANNOT\xfffebe returned to the games they came from.
 Tap the Touch Screen to pull back\xfffethe Poké Ball, aim it at the Pokémon,\xfffeand release the Poké Ball.\xfffe\xfffeSome Pokémon may be hiding in the grass\xfffeor behind trees.
 When hit by a Poké Ball, a Pokémon will\xfffecome out from where it's been hiding.\xfffeThrow a second Poké Ball to catch it.\xfffe\xfffeTry to catch all six Pokémon\xfffewithin the time limit.
 You may see pink mist from time to time.\xfffeIf you hit it with your Poké Ball,\xfffethe Pokémon will fall asleep.\xfffe\xfffePokémon cannot move while sleeping,\xfffeso this makes it easier to catch them.
