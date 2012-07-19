@@ -3,7 +3,7 @@ Welcome to the Nacrene Museum!
 いま　はくぶつかん　では\xfffeでんせつポケモンの　かりの　すがた\xf000븁\x0000\xfffeあの　ライトストーンの\xfffeレプリカを　てんじ　しております
 Wow! Whenever I look at this skeleton,\xfffeI'm...fascinated.\xf000븁\x0000
 Welcome! I'm Hawes, the\xfffeassistant director.\xf000븁\x0000\xfffeSince you were kind enough to visit,\xfffeI'll give you a tour of the museum.\xf000븁\x0000
-???『あんた　\xf000Ā\x0001\x0000だろ!\xfffeわざわざ　きてくれたんだね!\xf000븁\x0000\xfffeそうだ　あんた!\xfffeふたのカセキと　はねのカセキ\xf000븀\x0000\xfffeどっちが　すきだい?
+???: あんた　\xf000Ā\x0001\x0000だろ!\xfffeわざわざ　きてくれたんだね!\xf000븁\x0000\xfffeそうだ　あんた!\xfffeふたのカセキと　はねのカセキ\xf000븀\x0000\xfffeどっちが　すきだい?
 Cover Fossil
 Plume Fossil
 Back
