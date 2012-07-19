@@ -1,5 +1,5 @@
 Loading...\xfffePlease wait a moment.
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　おもいでリンクを\xfffeきどうしなおして　ください\xf000븁\x0000
+No compatible Game Card is inserted.\xfffePlease turn off the power and\xfffeinsert a compatible Game Card\xfffebefore you retry Poké Transfer.\xf000븁\x0000
 おもいでリンクを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
 The saved data\xfffecould not be accessed.\xf000븁\x0000
 Unable to connect to the\xfffeother DS system.\xf000븁\x0000
