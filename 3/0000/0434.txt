@@ -1,62 +1,62 @@
-ポケモンずかんの　ようすを\xfffeチェック　しましょうか?
-どれどれ...\xf000븁\x0000\xfffeイッシュちほうで　みつけた\xfffeポケモンの　かずは　\xf000Ȃ\x0001\x0000　ね
-どれどれ...\xf000븁\x0000\xfffeイッシュちほうで　つかまえた\xfffeポケモンの　かずは　\xf000Ȃ\x0001\x0000　ね
-きみの　たびの　おもいでが　つまった\xfffeその　ポケモンずかん...\xf000븀\x0000\xfffeいっしょうの　たからものに　してね!
+How is your Pokédex coming along?\xfffeCan I see it?
+Let me see...\xf000븁\x0000\xfffeOh, you've seen \xf000Ȃ\x0001\x0000 Pokémon in the\xfffeUnova region!
+Let me see...\xf000븁\x0000\xfffeOh, you've caught \xf000Ȃ\x0001\x0000 Pokémon in the\xfffeUnova region!
+This Pokédex is full of memories from your\xfffejourney. It's a treasure you can cherish\xf000븀\x0000\xfffefor your entire life.
 If you want to meet more Pokémon, you\xfffeshould try walking through tall grass!\xf000븁\x0000
 It seems a little more like a Pokédex now!\xfffeYou're getting off to a good start!\xf000븁\x0000
 Some Pokémon are hard to find, but don't\xfffegive up! Keep checking the tall grass.\xf000븁\x0000
-あちこちにいる　トレーナーも\xfffeさまざまな　ポケモンを　もっているわ\xf000븁\x0000\xfffeかれらと　しょうぶすることで\xfffeポケモンずかんも　うまっていくわね!\xf000븁\x0000
-きまった　ほらあなにしか　いない\xfffeポケモンも　いるのよ!\xf000븁\x0000\xfffeとおりぬけた　ほらあなを\xfffeもういちど　さがすのも　いいかもね\xf000븁\x0000
-だいぶ　ページが　うまってきたわね\xf000븁\x0000\xfffeポケモンずかんを　みかえせば\xfffeたびの　おもいでも　よみがえるかも!\xf000븁\x0000
-１００を　こえる　ポケモン...\xf000븁\x0000\xfffeそれぞれに　ちがった　とくちょうで\xfffeみていて　うれしくなっちゃうわ!\xf000븁\x0000
+Some Pokémon are only found in\xfffecertain caves!\xf000븁\x0000\xfffeYou might want to go back and search\xfffecaves you've already passed through.\xf000븁\x0000
+Trainers have a lot of different Pokémon.\xf000븁\x0000\xfffeSo battling them is a great way to fill up\xfffeyour Pokédex, too!\xf000븁\x0000
+Wow, it's getting really full!\xf000븁\x0000\xfffeI'm sure looking over your Pokédex will\xfffebring back memories of your journey.\xf000븁\x0000
+Over 100 Pokémon...\xf000븁\x0000\xfffeIt's so much fun looking over all their\xfffedifferent characteristics!\xf000븁\x0000
 ベルから　きいたと　おもうけれど\xfffeゆれる　くさむらも　しらべてる?\xf000븁\x0000\xfffeあるくほどに　ゆれる　くさむらを\xfffeみつける　かくりつが　たかまるわよ\xf000븁\x0000
 さまざまな　とくせい　だけど\xfffeきちんと　りかい　している?\xf000븁\x0000\xfffeとくせいに　よっては　やせいの\xfffeポケモンが　よく　とびだしてくるわ!\xf000븁\x0000
 きの　いりぐちが　みつけにくいけれど\xfffeかくしあなは　さがしている?\xf000븁\x0000\xfffeあそこを　すみかと　する\xfffeポケモンの　とくせいは　なぜだか\xf000븀\x0000\xfffeめずらしい　もの　ばかりなの!\xf000븁\x0000
 ２００しゅるい　いじょう...!\xf000븁\x0000\xfffeこれだけ　おおくの　ポケモンが\xfffeほかの　ポケモンと　かんけいしあい\xf000븀\x0000\xfffeせかいを　つくっているのね!\xf000븁\x0000
 しばらくの　じかんに　これだけの\xfffeしゅるいの　ポケモンが　ふえたなんて\xf000븁\x0000\xfffeポケモンの　てきおうりょくの　たかさ\xfffeしょうさんに　あたいする　ものね\xf000븁\x0000
 That is an excellent Pokédex!\xfffeJust a little more and it will be full!\xf000븁\x0000
-すばらしい　ポケモンずかんね!\xfffeもうすこしで　かんせい　しそう!\xf000븁\x0000\xfffeおねがいして　ほんとうに　よかった!\xf000븁\x0000
-すごい!　すごいわ!\xf000븁\x0000\xfffeイッシュちほうにいる　すべての\xfffeポケモンと　であったのね!\xf000븁\x0000\xfffeほんとうに　おめでとう!!\xf000븁\x0000\xfffeじゃあ　つぎからは\xfffeイッシュちほうの　ポケモンを\xf000븀\x0000\xfffeどれだけ　つかまえたか\xf000븀\x0000\xfffeひょうか　していくわね!!\xf000븁\x0000
-すこしずつ...　だけど　かくじつに\xfffeポケモンずかんに　くわしい　データが\xf000븀\x0000\xfffeかきこまれているわね!　がんばって!\xf000븁\x0000
-モンスターボールは　つかいわけてる?\xf000븁\x0000\xfffeさまざまな　しゅるいが　あるから\xfffeじょうきょうに　おうじて　つかってね\xf000븁\x0000
-ずかんの　かいせつを　よめば\xfffeポケモンの　いがいな　いちめんを\xf000븀\x0000\xfffeうかがうことが　できて　たのしいわ!\xf000븁\x0000
-つかまえるだけ　ではなく\xfffeポケモンを　しんか　させて\xf000븀\x0000\xfffeずかんを　うめるのも　だいじよ!\xf000븁\x0000
+A fantastic Pokédex!\xfffeIt's nearly complete!\xf000븁\x0000I'm so glad I asked you to help!\xf000븁\x0000
+Amazing! Splendid!\xf000븁\x0000You've met all the Pokémon\xfffein the Unova region!\xf000븁\x0000A true congratulations!!\xf000븁\x0000Now I'll evaluate you on how many\xfffeUnova Pokémon you've caught!!\xf000븁\x0000
+It's coming along little by little...\xfffebut you certainly are getting data\xf000븀\x0000into the Pokédex! Keep at it!\xf000븁\x0000
+Are you using Pokeballs?\xf000븁\x0000There are various types to use\xfffedepending on the situation!\xf000븁\x0000
+You might discover some surprising\xfffePokémon facts from the 'dex descriptions!\xf000븀\x0000That's part of the fun!\xf000븁\x0000
+Not only catching Pokémon,\xfffebut evolving them as well\xf000븀\x0000is key to filling the Pokédex!\xf000븁\x0000
 Trading Pokémon with friends also\xfffecounts as catching them!\xf000븁\x0000
-これだけの　ポケモンと　ふれあえば\xfffeどの　ポケモンと　いっしょに\xf000븀\x0000\xfffeたびをすれば　いいか　まよわない?\xf000븁\x0000
+With so many Pokémon to choose,\xfffedon't you find it hard to decide\xf000븀\x0000which ones to travel with?\xf000븁\x0000
 １００しゅるい　いじょう!　すごい!\xf000븁\x0000\xfffeせいそくちリストで　もくひょうを\xfffeめいかくに　することで　さらなる\xf000븀\x0000\xfffeモチベーションを　うみだせるかも\xf000븁\x0000
 ポケモンを　つかまえるとき\xfffeべんりな　わざが　あるでしょ?\xf000븁\x0000\xfffeみねうちを　おぼえさせるのも\xfffeひとつの　アプローチと　いえるわね\xf000븁\x0000
 タマゴを　みつけないと\xfffeであえない　ポケモンも　いるわね!\xf000븁\x0000
 きせつに　よっては\xfffeであいにくい　ポケモン\xf000븀\x0000\xfffeであいやすい　ポケモンも　いるわ!\xf000븁\x0000
 ついに　２００しゅるい　いじょうの\xfffeポケモンを　ほかく　したのね...!\xf000븁\x0000\xfffeすばらしい　トレーナーに\xfffeポケモンずかんを　たくせて　よかった\xf000븁\x0000
 これだけの　おおくの　ポケモンを\xfffeしらべても　かれらの　きげん...\xf000븁\x0000\xfffeいつ　どこで　うまれたのか\xfffeわからないこと　ばかり　なのよね\xf000븁\x0000
-これだけ　ポケモンを　つかまえたら\xfffeわたしよりも　くわしくなったかも?\xf000븁\x0000\xfffeポケモンずかんの　かんせいを\xfffeわたしも　おうえん　しています\xf000븁\x0000
+With this many Pokémon caught,\xfffeperhaps you know more than me?\xf000븁\x0000I'm supporting you all the way\xfffein completing the Pokédex!\xf000븁\x0000
 もうすこしで　パーフェクトな\xfffeポケモンずかんの　かんせいね!\xf000븁\x0000\xfffeここまで　きたんだから　くじけず...\xfffeううん　おもいっきり　たのしんで!!\xf000븁\x0000
-すごい!　すごいわ!\xf000븁\x0000\xfffeイッシュちほうに　いる　すべての\xfffeポケモンを　つかまえたのね!\xf000븁\x0000\xfffeほんとうに　おめでとう!!\xf000븁\x0000
-なんだか　いい　かんじで\xfffeポケモンと　であっているわね!\xf000븁\x0000\xfffeプレゼントしたい　ものが　あるから\xfffeよければ　けんきゅうじょに　きてね!
-なんだか　いい　かんじで\xfffeポケモンと　であっているわね!\xf000븁\x0000\xfffeその　がんばりを　おうえんして\xfffeこれを　プレゼントするわ!\xf000븁\x0000
+Amazing! Splendid!\xf000븁\x0000You've caught all the Pokémon\xfffein the Unova region!\xf000븁\x0000A true congratulations!!\xf000븁\x0000
+You've been finding Pokémon\xfffeat a great pace!\xf000븁\x0000I've got a present to give you,\xfffeso come by the lab when you can!
+You've been finding Pokémon\xfffeat a great pace!\xf000븁\x0000In support of your efforts,\xfffeI give you this present!\xf000븁\x0000
 きょかしょうが　あれば\xfffeフキヨセシティから　ひこうきで\xf000븀\x0000\xfffeしぜんほごくに　いけるわよ!\xf000븁\x0000\xfffeどんな　ばしょかは\xfffeついてからの　おたのしみね!\xf000븁\x0000
 まるいおまもりを　もっていると\xfffeどうしてだか　そだてやさんで\xf000븀\x0000\xfffeポケモンの　タマゴが　いつもより\xf000븀\x0000\xfffeはっけん　されやすくなるのよ!\xf000븁\x0000
 ひかるおまもりを　もっていると\xfffeどうしてだか　ひかる　ポケモンと\xf000븀\x0000\xfffeであいやすく　なるのよ!\xf000븁\x0000
 Try using this, too!\xf000븁\x0000
 Keep up the good work!
 ポケモンずかんの　ようすを\xfffeみせに　きてくれたのかね!?
-なるほど!\xf000븁\x0000\xfffeつかまえた　ポケモンの　かずは\xfffe\xf000Ȃ\x0001\x0000　か...
-そうか...\xf000븁\x0000\xfffeずかんを　みてほしくなったら\xfffeまた　ここに　きたまえ!
-ぜんこくには　６００を　こえるという\xfffeポケモンが　いるらしいからね\xf000븁\x0000\xfffeまあ　きおわず　ゆっくり\xfffeポケモンを　つかまえていっておくれ
-まずは　イッシュちほうを\xfffeもういちど　たびする　きもちで\xf000븀\x0000\xfffeポケモンを　さがすのは　どうだろう?
-ポケモンの　たいりょくを　へらすのは\xfffeほかくの　きほん　だからね\xf000븁\x0000\xfffeたくさん　つかまえても　そういった\xfffeだいじなことは　わすれるんじゃないよ
-そだてやさんに　いっておるかい?\xf000븁\x0000\xfffeタマゴから　うまれることでしか\xfffeつかまえられない　ポケモンもいると\xf000븀\x0000\xfffeきいたことが　あるからね
-つりざおを　もっているかい?\xf000븁\x0000\xfffeかわや　うみ...\xfffeみずのなかに　いる　ポケモンも\xf000븀\x0000\xfffeたくさん　おるそうだよ
-おまえさんは　みねうち　という\xfffeわざは　しっているかい?\xf000븁\x0000\xfffeみねうちは　ポケモンの　たいりょくを\xfffeすこしだけ　のこす　わざ　だよ
-おまえさんは　くろいまなざし　という\xfffeわざは　しっているかい?\xf000븁\x0000\xfffeくろいまなざしを　かけられた\xfffeポケモンは　にげられなくなるんだ
-ポケモンの　しんか　には\xfffeさまざまな　スタイルが　あるんだよ\xf000븁\x0000\xfffeなかには　なついていることで\xfffeしんかする　ポケモンも　おるんだよ
-たいりょうはっせい　という\xfffeことばは　きいたかい?\xf000븁\x0000\xfffeもじどおり　とある　ポケモンが\xfffeたいりょうに　はっせい　するんだ\xf000븀\x0000\xfffeそう!　つかまえる　チャンスだよ
-４００しゅるい　いじょうの\xfffeポケモンを　つかまえたのかい!?\xf000븁\x0000\xfffeこりゃ　とんでもないことだよ!\xfffeおまえさん　すごい　トレーナーだね
-なんでも　きまった　ばしょで\xfffeレベルアップすることで\xf000븀\x0000\xfffeしんかする　ポケモンも　おるそうだ
-５００しゅるい　ね...\xf000븁\x0000\xfffeいやはや　ポケモンという\xfffeせいぶつの　たようせい　には\xf000븀\x0000\xfffeおどろかされるね!\xf000븁\x0000\xfffeもちろん　それだけ　つかまえた\xfffeおまえさんも　たいしたもんだよ!
-１５ばんどうろに　ある\xfffeシフトファクトリーには　いったかい?\xf000븁\x0000\xfffeああいう　しせつを　つかいこなすのも\xfffeポケモントレーナーの　たしなみだよ
-ポケモンずかんの　かんせいまで\xfffeあと　ひといきと　いったところかね\xf000븁\x0000\xfffeこれだけ　おおくの　ポケモンを\xfffeつかまえるとは　おまえさん!\xf000븀\x0000\xfffeそうとう　ポケモンが　すきなんだね
-おうおう!　すばらしい　ずかんだね\xf000븁\x0000\xfffeどうだい?　おまえさんも\xfffeわたしと　いっしょに　ポケモンの\xf000븀\x0000\xfffeけんきゅうを　せんかね?
-おお!　ポケモンずかん　かんせいまで\xfffeあと　ほんのすこし　ではないか!\xf000븁\x0000\xfffeともだちと　こうかん　したりなど\xfffeわすれていることは　ないかね?
-...　...　...\xfffe...　...　...\xf000븁\x0000\xfffeこりゃ　たまげたな!\xfffeすばらしすぎて　ことばを　うしなった\xf000븁\x0000\xfffeおまえさん\xfffeとんでもないことを　やりとげたぞ!\xf000븁\x0000\xfffeぜんこくずかんを　すべて\xfffeうめつくすとは　トレーナーの　なかの\xf000븀\x0000\xfffeトレーナーと　いえるだろう!\xf000븁\x0000\xfffeおまえさんのような　すばらしい\xfffeトレーナーと　であえて　うれしいね!\xf000븀\x0000\xfffeこころから　かんしゃを　のべるよ!!
+I see!\xf000븁\x0000You've caught \xfffe\xf000Ȃ\x0001\x0000 Pokémon...
+Hm...\xf000븁\x0000If you want me to see your 'dex,\xfffecome back now, you hear?!
+There would appear to be over\xfffe600 Pokémon out there worldwide...\xf000븁\x0000But don't get too worked up,\xfffejust catch Pokémon at your leisure!
+First, you might want to revisit places\xfffeyou've already been.\xf000븁\x0000\xfffeRetrace your steps in the Unova region\xfffeand see what new Pokémon turn up!
+Remember Rule No. 1! To catch a Pokémon,\xfffeyou first have to reduce its HP.\xf000븁\x0000\xfffeYou're pretty good at this now,\xfffebut don't forget the basics!
+Are you going to the Day Care?\xf000븁\x0000\xfffeI've heard that some Pokémon can only be\xfffecaught if they are hatched from Eggs.
+Do you have a fishing rod?\xf000븁\x0000\xfffeThere are many Pokémon that live in the\xfffewater. Try searching rivers and oceans!
+Do you know the move False Swipe?\xf000븁\x0000\xfffeFalse Swipe always leaves a tiny bit of\xfffethe targeted Pokémon's HP.\xf000븁\x0000\xfffeIt's great for catching, because it\xfffedoesn't make them faint!
+Do you know the move Mean Look?\xf000븁\x0000\xfffeIf you use Mean Look on a Pokémon,\xfffeit can't run away!
+There are several ways for Pokémon to\xfffeevolve. Some Pokémon even evolve\xf000븀\x0000\xfffethrough friendship!
+Have you heard of mass outbreaks?\xf000븁\x0000\xfffeBig groups of Pokémon appear during a\xfffemass outbreak. It's a great chance to\xf000븀\x0000\xfffecatch them!
+You've caught more than 400\xfffedifferent Pokémon?!\xf000븁\x0000\xfffeThat's incredible!\xfffeYou're an amazing Trainer!
+Apparently, some Pokémon\xfffeevolve when they are leveled up\xf000븀\x0000\xfffein a certain area.
+You've caught 500 different Pokémon...\xf000븁\x0000\xfffeMy, the variation of these beings called\xfffePokémon certainly is surprising!\xf000븁\x0000\xfffeAnd the fact that you've caught so many\xfffedifferent kinds... That's pretty\xf000븀\x0000\xfffesurprising, too!
+Have you been to the Poké Transfer Lab\xfffeon Route 15?\xf000븁\x0000\xfffeMastering a facility like that is an\xfffeaccomplishment for a Pokémon Trainer.
+Just a little more until you complete\xfffeyour Pokédex, huh?\xf000븁\x0000\xfffeCatching this many Pokémon must mean...\xfffeYou really like Pokémon, don't you!
+Oh! That's a wonderful Pokédex.\xf000븁\x0000\xfffeHow about it? Would you research Pokémon\xfffewith me?
+Oh! Just a little more until your\xfffePokédex is complete!\xf000븁\x0000\xfffeMake sure you go after the roaming\xfffePokémon and trade with friends to get\xf000븀\x0000\xfffethe ones you're missing!
+...\xfffe...\xf000븁\x0000\xfffeThis blows me away! It's so wonderful,\xfffeI'm at a loss for words.\xf000븁\x0000\xfffeYou... You've accomplished something\xfffetruly outstanding.\xf000븁\x0000\xfffeFilling up the National Pokédex makes you\xfffea Trainer among Trainers!\xf000븁\x0000\xfffeI'm so happy I was able to meet a\xfffefantastic Trainer like you!\xf000븀\x0000\xfffeI thank you from the bottom of my heart.
 そうだ!　プレゼントが　あるんだ\xfffeむすめが　もっているから\xf000븀\x0000\xfffeはなしかけて　もらっておくれ!
