@@ -32,4 +32,4 @@ What am I doing?　I'm searching for\xfffePokémon in the grass!\xf000븁\x0000\
 Route 19
 Route 19
 Trainer Tips!\xf000븁\x0000\xfffe\xfffeMake an effort to talk to all the\xfffepeople you meet during your journey!\xf000븁\x0000\xfffeChances are they will have something\xfffeuseful to tell you.
-おまえも　なみのり　つかえるの？\xfffeオー　おれたち　なみのりフレンド!
+おまえも　なみのり　つかえるの?\xfffeオー　おれたち　なみのりフレンド!

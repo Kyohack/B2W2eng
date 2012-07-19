@@ -4,14 +4,14 @@ Glad you came!\xfffeYour \xf000Ă\x0001\x0000's doing just fine.
 よくきたな!\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　げんきじゃぞ!\xf000븁\x0000\xfffe２ひきの　なかは\xfffeまずまずの　ようじゃ
 よくきたな!\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　げんきじゃぞ!\xf000븁\x0000\xfffe２ひきの　なかは\xfffeそれほど　よくないがなあ
 よくきたな!\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　げんきじゃぞ!\xf000븁\x0000\xfffe２ひきは　おたがいに\xfffeちがう　ポケモンたちと\xf000븀\x0000\xfffeあそんでおるがなあ...
-おお!　あんたか\xf000븁\x0000\xfffeあずかっていた　ポケモンを\xfffeそだてていたら...　なんと!\xf000븁\x0000\xfffeポケモンが　タマゴを\xfffeもっておったんじゃ!\xf000븁\x0000\xfffeどこから　もってきたか　わからんが\xfffeあんたの　ポケモンが　もっていた\xf000븀\x0000\xfffeタマゴ　なんじゃ\xf000븁\x0000\xfffeやっぱり　ほしいじゃろ？
+おお!　あんたか\xf000븁\x0000\xfffeあずかっていた　ポケモンを\xfffeそだてていたら...　なんと!\xf000븁\x0000\xfffeポケモンが　タマゴを\xfffeもっておったんじゃ!\xf000븁\x0000\xfffeどこから　もってきたか　わからんが\xfffeあんたの　ポケモンが　もっていた\xf000븀\x0000\xfffeタマゴ　なんじゃ\xf000븁\x0000\xfffeやっぱり　ほしいじゃろ?
 \xf000Ā\x0001\x0000 received the Egg from\xfffethe Day-Care Man.
 You take good care of it.
 てもちが　いっぱいの　ようじゃな...\xf000븁\x0000\xfffeてもちの　ポケモンを\xfffeせいりしてから　またきなさい
 I really will keep it.\xfffeYou do want this Egg, yes?
 Well then, I'll hang on to it.\xfffeThanks!
-わしは　そだてや　ばあさんじゃ\xf000븁\x0000\xfffeおまえさんの　かわりに\xfffeポケモンを　そだてて　あげるよ\xf000븁\x0000\xfffeなにか　そだてて　ほしいのかい？
-わしは　そだてや　ばあさんじゃ\xf000븁\x0000\xfffeおまえさんの　かわりに　ポケモンを\xfffeそだてて　あげるよ\xf000븁\x0000\xfffeきょうは　なにを　しにきたんだい？
+わしは　そだてや　ばあさんじゃ\xf000븁\x0000\xfffeおまえさんの　かわりに\xfffeポケモンを　そだてて　あげるよ\xf000븁\x0000\xfffeなにか　そだてて　ほしいのかい?
+わしは　そだてや　ばあさんじゃ\xf000븁\x0000\xfffeおまえさんの　かわりに　ポケモンを\xfffeそだてて　あげるよ\xf000븁\x0000\xfffeきょうは　なにを　しにきたんだい?
 Very good.\xfffeCome again.
 Ah, there you are!\xfffeMy husband was looking for you.
 その　ポケモンを　あずけると\xfffeたたかえなく　なるぞ\xf000븁\x0000\xfffeまた　きなさいよ
@@ -22,11 +22,11 @@ Come back for it later.
 We can raise two of your Pokémon.\xfffeWould you like us to raise another?
 You have energetic Pokémon.\xfffeDo you want your Pokémon back?
 By level, your \xf000ā\x0001\x0000 has\xfffegrown by about \xf000ȁ\x0001\x0001.\xf000븁\x0000
-\xf000ā\x0001\x0000を　ひきとるなら\xfffeりょうきんは　\xf000Ȅ\x0001\x0001円　だよ\xf000븀\x0000\xfffeひきとるかい？
+\xf000ā\x0001\x0000を　ひきとるなら\xfffeりょうきんは　\xf000Ȅ\x0001\x0001円　だよ\xf000븀\x0000\xfffeひきとるかい?
 You don't have enough money...
 \xf000Ā\x0001\x0001 took \xf000ā\x0001\x0000 back\xfffefrom the Day-Care Lady.\xf000븁\x0000
 Do you want to take back the other\xfffeone, too? 
-おや？　おまえさん\xfffeその　ポケモンを　あずけると\xf000븁\x0000\xfffeぜんぶで　ポケモンが　１ひき　だけに\xfffeなってしまう　みたいじゃな\xf000븁\x0000\xfffeもっと　たくさん　つかまえてから\xfffeきてみては　どうじゃ？
+おや?　おまえさん\xfffeその　ポケモンを　あずけると\xf000븁\x0000\xfffeぜんぶで　ポケモンが　１ひき　だけに\xfffeなってしまう　みたいじゃな\xf000븁\x0000\xfffeもっと　たくさん　つかまえてから\xfffeきてみては　どうじゃ?
 $\xf000ȅ\x0001\x0002
 Leave Pokémon
 Take back

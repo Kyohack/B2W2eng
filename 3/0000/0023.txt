@@ -3,23 +3,23 @@ Welcome to the Nacrene Museum!
 いま　はくぶつかん　では\xfffeでんせつポケモンの　かりの　すがた\xf000븁\x0000\xfffeあの　ライトストーンの\xfffeレプリカを　てんじ　しております
 Wow! Whenever I look at this skeleton,\xfffeI'm...fascinated.\xf000븁\x0000
 Welcome! I'm Hawes, the\xfffeassistant director.\xf000븁\x0000\xfffeSince you were kind enough to visit,\xfffeI'll give you a tour of the museum.\xf000븁\x0000
-？？？『あんた　\xf000Ā\x0001\x0000だろ!\xfffeわざわざ　きてくれたんだね!\xf000븁\x0000\xfffeそうだ　あんた!\xfffeふたのカセキと　はねのカセキ\xf000븀\x0000\xfffeどっちが　すきだい？
+???『あんた　\xf000Ā\x0001\x0000だろ!\xfffeわざわざ　きてくれたんだね!\xf000븁\x0000\xfffeそうだ　あんた!\xfffeふたのカセキと　はねのカセキ\xf000븀\x0000\xfffeどっちが　すきだい?
 Cover Fossil
 Plume Fossil
 Back
-ほんとうに\xfffeふたのカセキに　するんだね？
-ほんとうに\xfffeはねのカセキで　いいんだね？
-ふたのカセキと　はねのカセキ\xfffeどっちが　すきだい？
+ほんとうに\xfffeふたのカセキに　するんだね?
+ほんとうに\xfffeはねのカセキで　いいんだね?
+ふたのカセキと　はねのカセキ\xfffeどっちが　すきだい?
 なんだい　なんだい!\xf000븁\x0000\xfffeえんりょ　するんじゃないよ!\xfffeわかいんだからさ!\xf000븁\x0000
 ふたのカセキ　なんだね!\xfffeいい　チョイスじゃないか!\xf000븁\x0000\xfffeそいつを　ふくげん　するなら\xfffeうちの　うけつけに　たのむと　いいよ!\xf000븁\x0000
 はねのカセキ　かい!\xfffeめのつけどころが　ちがうね!\xf000븁\x0000\xfffeそいつを　ふくげん　するなら\xfffeうちの　うけつけに　たのむと　いいよ!\xf000븁\x0000
-キダチ『ちょっと　ママ!\xf000븁\x0000\xfffeあんないを　していたのに\xfffeとつぜん　わりこんだら　おどろきますよ\xf000븁\x0000\xfffeそれに　ママ\xfffeじこしょうかいも　してないでしょ？\xf000븁\x0000
+キダチ『ちょっと　ママ!\xf000븁\x0000\xfffeあんないを　していたのに\xfffeとつぜん　わりこんだら　おどろきますよ\xf000븁\x0000\xfffeそれに　ママ\xfffeじこしょうかいも　してないでしょ?\xf000븁\x0000
 ああ　そうだったね\xf000븁\x0000\xfffeあたしは　アロエ\xfffeこの　はくぶつかんの　かんちょうさ!\xf000븁\x0000\xfffeいつもは　おくに　こもっているから\xfffeヒマなら　あそびに　おいで!\xf000븁\x0000
 ああ　そうだったね\xf000븁\x0000\xfffeあたしは　アロエ\xfffeこの　はくぶつかんの　かんちょうさ!\xf000븁\x0000\xfffeいつもは　おくに　こもっているから\xfffeカセキが　ほしくなったら\xf000븀\x0000\xfffeあそびに　おいで!\xf000븁\x0000
 キダチ『ママったら...\xfffeでは　きを　とりなおして\xf000븁\x0000\xfffeこちらの　こっかく...\xfffeドラゴンタイプの　ポケモンですね\xf000븁\x0000\xfffeおそらく　せかいかくちを\xfffeとびまわっている　うちに\xf000븁\x0000\xfffeなんらかの　じこにあって\xfffeそのまま　カセキに　なったようです\xf000븁\x0000
 デオキシスという　ポケモンは\xfffeいんせきの　パワーを　あびて\xf000븀\x0000\xfffeすがたを　かえることが　わかりました\xf000븁\x0000
-ああ!\xfffeこちらです　こちら!\xf000븁\x0000\xfffeこれが　あの　ダークストーンの\xfffeレプリカ　なんですよ!\xf000븁\x0000\xfffeごぞんじ　ですか？\xfffeダークストーン!\xf000븁\x0000\xfffeでんせつポケモン　ゼクロムが\xfffeねむりに　ついたときの　すがた...\xf000븁\x0000\xfffeえっ？　ゼクロムを　みた？\xfffeそりゃ　すごい!　でしたら\xf000븀\x0000\xfffeわたしの　かいせつは　だそくですね\xf000븁\x0000
-ああ!\xfffeこちらです　こちら!\xf000븁\x0000\xfffeこれが　あの　ライトストーンの\xfffeレプリカ　なんですよ!\xf000븁\x0000\xfffeごぞんじ　ですか？\xfffeライトストーン!\xf000븁\x0000\xfffeでんせつポケモン　レシラムが\xfffeねむりに　ついたときの　すがた...\xf000븁\x0000\xfffeえっ？　レシラムを　みた？\xfffeそりゃ　すごい!　でしたら\xf000븀\x0000\xfffeわたしの　かいせつは　だそくですね\xf000븁\x0000
+ああ!\xfffeこちらです　こちら!\xf000븁\x0000\xfffeこれが　あの　ダークストーンの\xfffeレプリカ　なんですよ!\xf000븁\x0000\xfffeごぞんじ　ですか?\xfffeダークストーン!\xf000븁\x0000\xfffeでんせつポケモン　ゼクロムが\xfffeねむりに　ついたときの　すがた...\xf000븁\x0000\xfffeえっ?　ゼクロムを　みた?\xfffeそりゃ　すごい!　でしたら\xf000븀\x0000\xfffeわたしの　かいせつは　だそくですね\xf000븁\x0000
+ああ!\xfffeこちらです　こちら!\xf000븁\x0000\xfffeこれが　あの　ライトストーンの\xfffeレプリカ　なんですよ!\xf000븁\x0000\xfffeごぞんじ　ですか?\xfffeライトストーン!\xf000븁\x0000\xfffeでんせつポケモン　レシラムが\xfffeねむりに　ついたときの　すがた...\xf000븁\x0000\xfffeえっ?　レシラムを　みた?\xfffeそりゃ　すごい!　でしたら\xf000븀\x0000\xfffeわたしの　かいせつは　だそくですね\xf000븁\x0000
 つぎの　へやは　としょしつ\xfffeその　おくは　かんちょうしつ　です\xf000븁\x0000\xfffeちなみに　かんちょうの　アロエは\xfffeもと　ジムリーダー　なのです
 Skeletal specimens are so mysterious...\xf000븁\x0000\xfffeFrom the outside, you can't see their\xfffefunctional, efficient design.\xf000븁\x0000\xfffeIt's almost as if it is an embodiment of\xfffetheir former essence... So fascinating!
 Rare Pokémon from around the world...\xfffeMuseums are packed with adventure!

@@ -1,5 +1,5 @@
 Iris: Wahoo!!!\xfffeIt's Castelia City!!!\xf000븁\x0000
-ひょっとして　あたしの\xfffeおじーちゃんに　ちょうせん？\xf000븁\x0000\xfffeUgh!　Opelucid's Gym Leader,\xfffeDrayden is my\xf000븀\x0000\xfffegrandpa!\xf000븁\x0000\xfffeといっても\xfffeちの　つながりは　ないんだけどね!\xf000븁\x0000
+ひょっとして　あたしの\xfffeおじーちゃんに　ちょうせん?\xf000븁\x0000\xfffeUgh!　Opelucid's Gym Leader,\xfffeDrayden is my\xf000븀\x0000\xfffegrandpa!\xf000븁\x0000\xfffeといっても\xfffeちの　つながりは　ないんだけどね!\xf000븁\x0000
 Ahh! There's the Gym!\xf000븁\x0000\xfffeちょうせん　するまえに\xfffe９ばんどうろに　いくのも　いいかも!\xf000븁\x0000
 My big brother will always\xfffelove Pokémon forever!\xf000븁\x0000\xfffeボールの　なかからでも　ポケモンの\xfffeうれしそうな　きもち　つたわってくる!\xf000븁\x0000\xfffeじゃ　がんばってねー!\xf000븁\x0000
 My big sister will always\xfffelove Pokémon forever!\xf000븁\x0000\xfffeボールの　なかからでも\xfffeうれしそうな　きもち　つたわってくる!\xf000븁\x0000\xfffeじゃ　がんばってねー!\xf000븁\x0000
@@ -16,12 +16,12 @@ With a simple scratch...\xfffeIs it broken...?\xf000븁\x0000
 Drayden: You are the one\xfffein N's Castle...\xf000븁\x0000
 Vio: それにしても　さむい\xf000븁\x0000\xfffeワタシは　ふるえている\xfffeくるしいが　いきておる\xf000븁\x0000\xfffeそれこそが　いきている　じっかん!\xfffeワタシという　そんざいの　しょうめい!\xf000븁\x0000\xfffeさて　これらは　プラズマだんの\xfffeぎじゅつで　うみだした\xf000븀\x0000\xfffeとくしゅな　こおり!\xf000븁\x0000\xfffeアイツを　とらえているかぎり\xfffeとけたり　くだけたり　しないのだ!\xf000븁\x0000
 ようけんを　つたえよう!\xf000븁\x0000\xfffeシャガどの\xfffeいでんしのくさび　とやらを　よこせ\xf000븁\x0000\xfffeこの　ソウリュウは\xfffeかこと　みらいが　からみあう　まち\xf000븁\x0000\xfffeわかれた　ポケモンを　つなげる\xfffeくさびが　あるに　ふさわしい　ばしょ\xf000븁\x0000
-Drayden: おまえたちが　した\xfffeにねんまえの　しょぎょう...\xf000븁\x0000\xfffeあれを　しっている　にんげんが\xfffeすなおに　わたすと　かんがえるのか？\xf000븁\x0000
+Drayden: おまえたちが　した\xfffeにねんまえの　しょぎょう...\xf000븁\x0000\xfffeあれを　しっている　にんげんが\xfffeすなおに　わたすと　かんがえるのか?\xf000븁\x0000
 Vio: ふむ　そうぞうどおり\xf000븁\x0000\xfffeほんらいで　あれば　もういちど\xfffeこおりを　うちこむと　おどしたいが\xf000븀\x0000\xfffeしばらくは　つかえぬし...\xf000븁\x0000\xfffeさむい　なか　わずらわしいが\xfffeさがすと　するのだ...!\xf000븁\x0000
 Drayden: Well, they were\xfffepretty rude people!\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xfffeきみの　ちからを　かしてくれい\xf000븁\x0000\xfffeソウリュウシティ　から\xfffeプラズマだんを　おいはらうぞ!\xf000븁\x0000
 Team Plasma: Pokémon are tools!\xfffeおれは　そう　おそわった!\xf000븁\x0000\xfffeよけいな　おもいなんか　ないほうが\xfffeうまく　どうぐを　あつかえるからな!\xf000븁\x0000
-Team Plasma: なんだと...？\xf000븁\x0000\xfffeポケモンを　こきつかわずに\xfffeそんな　じつりょくを　だせるのか？
+Team Plasma: なんだと...?\xf000븁\x0000\xfffeポケモンを　こきつかわずに\xfffeそんな　じつりょくを　だせるのか?
 Team Plasma: なかまが　いっていた\xf000븁\x0000\xfffeあと　さがしていないのは\xfffeポケモンジム　だけ　だと...
 Team Plasma: こんどこそ　おれらが\xfffeイッシュちほうを　しはい　する!\xf000븁\x0000\xfffeおまえ!　さむさか　こわさで\xfffeふるえあがれよ!\xf000븁\x0000
 Team Plasma: Not yet!\xf000븁\x0000\xfffeほかの　メンバーが\xfffeいでんしのくさびを　さがしだす!\xf000븀\x0000\xfffeそうすりゃ　イッシュを　しはいだ!
@@ -33,9 +33,9 @@ Team Plasma: Defeated...\xfffeかんぜんに　まけちまったよ\xf000븁\x
 Team Plasma: Lord Vio is\xf000븁\x0000\xfffecertainly plotting something\xfffeat the Pokémon Gym...
 Team Plasma: ２ねんまえの　うらみ!\xf000븁\x0000\xfffeあんたとは　はじめて　たたかうけどさ
 Drayden: こいつら...!\xfffeてごわく　なっている!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xfffeほかの　プラズマだんを　たのむ!
-Drayden: のこるは\xfffeしちけんじん　ヴィオだけか!\xf000븀\x0000\xfffeあやつは　どこだ？\xf000븁\x0000\xfffe...そうだ!\xfffeポケモンジムは　どうなっておる!？
+Drayden: のこるは\xfffeしちけんじん　ヴィオだけか!\xf000븀\x0000\xfffeあやつは　どこだ?\xf000븁\x0000\xfffe...そうだ!\xfffeポケモンジムは　どうなっておる!?
 Team Plasma: ...あの　おじいさま\xfffeわかい　むすめにも　ようしゃ　なしね
-Team Plasma: シャガってば　どこに\xfffeいでんしのくさびを　かくしたの？\xf000븀\x0000\xfffeやはり　なじんだ　ばしょ　かな？
+Team Plasma: シャガってば　どこに\xfffeいでんしのくさびを　かくしたの?\xf000븀\x0000\xfffeやはり　なじんだ　ばしょ　かな?
 Vio: やれやれ...\xf000븁\x0000\xfffeさむいなか　ワタシが\xfffeたたかわねば　ならぬとは\xf000븁\x0000\xfffeまあよい...　ふるえているかぎり\xfffeワタシは　いきておる!\xf000븁\x0000
 Vio: つよい　トレーナーだな\xf000븁\x0000\xfffeさすが　ポケモンを\xfffeつかいこなすことに　たけておる\xf000븁\x0000\xfffeさて　ここは　いちど　ひきあげるか\xfffeなにより　さむくて　かなわん!\xf000븁\x0000\xfffeだが　そうぞう　するのだ\xf000븁\x0000\xfffeイッシュちほうの　すべてが\xfffeこおりづけに　なる　さまを\xf000븁\x0000\xfffeそのために　なにがあっても\xfffeいでんしのくさびは　てにいれるぞ\xf000븁\x0000
 Drayden: さすがだ\xfffeきみの　おかげで　たすかった\xf000븁\x0000\xfffeたたかってくれた　きみの　だいじな\xfffeポケモンにも　かんしゃ　しているよ\xf000븁\x0000\xfffeせめてもの　きもち　だ\xfffeこの　くすりで　かいふくを...\xf000븁\x0000
@@ -48,7 +48,7 @@ Drayden: まさか　しちけんじん　すら\xfffeりようして　くさ�
 Shadow Triad: ...ええ\xf000븁\x0000\xfffeどんな　てを　つかってでも\xfffeもくてきを　たっせい　します\xf000븁\x0000\xfffeわたしたちには　Ｎさまの　ように\xfffeたみの　こころを　うばう\xf000븀\x0000\xfffeきゅうしんりょくが　ない\xf000븁\x0000\xfffeかわりに　あっとうてきな　ちからで\xfffeひとびとを　くっぷく　させる...\xf000븀\x0000\xfffe２ねんは　ぞんがい　ながかった\xf000븁\x0000
 Drayden: うばわれたら\xfffeうばいかえすだけだ　いくぞ!\xf000븁\x0000
 Drayden: この　あたりには　おらぬようだ\xf000븁\x0000\xfffeだが　あいつらは　けはいを　けすからな\xfffeようじんして　さがしてくれ!
-Shadow Triad: ...フフ\xfffeいでんしのくさび　うばいかえせるか？\xf000븁\x0000
+Shadow Triad: ...フフ\xfffeいでんしのくさび　うばいかえせるか?\xf000븁\x0000
 Shadow Triad: ...ざんねん\xf000븁\x0000\xfffeいでんしのくさびを　もっているのは\xfffeほかの　なかま\xf000븁\x0000\xfffeそう...\xfffeじかんかせぎは　できました\xf000븀\x0000\xfffeでは　ごきげんよう\xf000븁\x0000
 Drayden: なんたること!\xf000븁\x0000\xfffeいや\xfffe\xf000Ā\x0001\x0000は　よくやってくれた\xf000븁\x0000\xfffeふがいないのは\xfffeこの　わたし　だ...!\xf000븁\x0000
 Live Caster is ringing!
@@ -61,13 +61,13 @@ Drayden: ...そういってくれるか\xf000븁\x0000\xfffeわかった!\xfffe�
 Cheren: \xf000Ā\x0001\x0000!\xfffeできれば　きみも　きてほしい!\xf000븁\x0000\xfffeなんといっても　プラズマだん　とも\xfffeわたりあえる　すごうでの\xf000븀\x0000\xfffeポケモントレーナー　だからね\xf000븁\x0000\xfffeでは　シャガさん\xfffeいってきます!\xf000븁\x0000
 Drayden: Seigaiha City...\xf000븁\x0000\xfffeIsn't that near\xfffeUndella Town...?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeプラズマだん　から\xfffeポケモンたちを　まもってくれぬか!\xf000븁\x0000\xfffeポケモンと　ひととの　まじわりは\xfffeどうあるべきか　どうすべきかは\xf000븀\x0000\xfffeそれぞれが　かんがえることだ\xf000븁\x0000\xfffeあいつら　プラズマだんが\xfffeかってに　きめること　ではない!
 Drayden: すこしずつ　だが\xfffeこおりが　とけてゆく...\xf000븁\x0000\xfffeきみたちの　おかげ　なんだろう\xfffeひとりの　トレーナーとして　かんしゃする
-なぜ　ポケモンは\xfffeわれわれの　そばに　いてくれるのか？\xf000븁\x0000\xfffeポケモンと　はなせたら　わかるけど\xfffeきくのは　なんだか　こわいね
+なぜ　ポケモンは\xfffeわれわれの　そばに　いてくれるのか?\xf000븁\x0000\xfffeポケモンと　はなせたら　わかるけど\xfffeきくのは　なんだか　こわいね
 この　まちには　いきてきた\xfffeひと　すべての　おもいが\xf000븁\x0000\xfffeかたちを　かえずに\xfffeつみかさなって　いるんだよ
 この　まちは　たえず　かわっていく\xf000븁\x0000\xfffeそして　かわるたびに　そのとき\xfffeいきている　ひとたちの　おもいを\xf000븀\x0000\xfffeきざみこめば　いいんだよ
 おれ　ひとりでは\xfffeとうたつ　できなかった　たかみにも\xf000븀\x0000\xfffeポケモンが　いてくれたから　とどいた\xf000븁\x0000\xfffeそして　ポケモンも　おれが　いたから\xfffeタフになったと　しんじている!
 Even if it is inconvenient, I think\xfffesome things shouldn't be changed.
 Even if you love them, I think\xfffesome things have to be changed.
-N って　ひとが　でんせつの\xfffeポケモンを　つれていたんだけど\xf000븀\x0000\xfffeえいゆう　だったのかな...？
+N って　ひとが　でんせつの\xfffeポケモンを　つれていたんだけど\xf000븀\x0000\xfffeえいゆう　だったのかな...?
 Frozen World\xf000븁\x0000\xfffeふるいとかを　あたらしいとか　こえて\xfffeなんだか　こわいほど　きれいだった\xf000븁\x0000\xfffeおれは　あたらしいより　ふるいほうが\xfffeおちつくから　すき　なんだけど!
 Frozen World\xf000븁\x0000\xfffeあたらしいとか　ふるいとかを　こえて\xfffeなんだか　こわいほど　きれいだった\xf000븁\x0000\xfffeおれは　ふるいより　あたらしいほうが\xfffeかっこいいから　すき　なんだけど!
 The Gym Leader Drayden is the mayor who\xfffeleads Opelucid.\xf000븁\x0000\xfffeHe is always training by wrestling\xfffewith Pokémon.
@@ -75,7 +75,7 @@ The Gym Leader Drayden is the mayor who\xfffeleads Opelucid.\xf000븁\x0000\xfff
 ポケモンを　かいほう　しろ!\xfffeそういう　れんちゅうが　いたんだ\xf000븁\x0000\xfffeそいつらは　ウソを　ついていたんだが\xfffeいい　きっかけに　なったよ
 あの　えんぜつ　いらい\xfffeどうするのが　おたがいに　とっての\xf000븁\x0000\xfffeしんじつ　なのか　ポケモンと\xfffeいっしょに　かんがえて　いるんだよ
 あの　えんぜつ　いらい\xfffeどうするのが　おたがいに　とって\xf000븁\x0000\xfffeりそうの　かんけいか　かんがえながら\xfffeポケモンと　あゆみつづけて　いるよ
-イッシュの　シンボルである\xfffeゼクロム　レシラム　だけど\xf000븀\x0000\xfffeいまは　どこに　いるのだろうな\xf000븁\x0000\xfffeだれかに　おおむかしからの\xfffeちえを　つたえているのかな？
+イッシュの　シンボルである\xfffeゼクロム　レシラム　だけど\xf000븀\x0000\xfffeいまは　どこに　いるのだろうな\xf000븁\x0000\xfffeだれかに　おおむかしからの\xfffeちえを　つたえているのかな?
 りそうを　おいもとめる...\xfffeそれは　ひと　それぞれ\xf000븀\x0000\xfffeポケモン　それぞれ　だよ\xf000븁\x0000\xfffeこの　まちが　れきしを　だいじにして\xfffeりそうを　もとめているように...
 しんじつを　おいもとめる...\xfffeそれは　ひと　それぞれ\xf000븀\x0000\xfffeポケモン　それぞれ　だよ\xf000븁\x0000\xfffeこの　まちが　へんかを　だいじにして\xfffeしんじつを　もとめているように...
 この　メロディに　こめられた\xfffeむかしの　ひとびとの　きぼう...\xf000븀\x0000\xfffeいまに　よみがえらせるの

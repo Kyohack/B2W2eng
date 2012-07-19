@@ -1,4 +1,4 @@
-ポケモンミュージカルへ　ようこそ!\xf000븁\x0000\xfffeこちらでは　おひとりさま　からでも\xfffeミュージカルに　さんかできます\xf000븁\x0000\xfffeミュージカルに　さんかされますか？
+ポケモンミュージカルへ　ようこそ!\xf000븁\x0000\xfffeこちらでは　おひとりさま　からでも\xfffeミュージカルに　さんかできます\xf000븁\x0000\xfffeミュージカルに　さんかされますか?
 Right this way, please.\xf000븁\x0000
 Please do visit again.
 Which show would you like\xfffeto participate in?
@@ -41,20 +41,20 @@ Join group
 Back
 Confirm
 つごうの　わるくなった\xfffeメンバーが　います\xf000븁\x0000\xfffeもういちど　さいしょから\xfffeつうしんを　やりなおして　ください
-ポケモンミュージカルへ　ようこそ!\xf000븁\x0000\xfffeこちらでは　おともだちと\xfffeミュージカルに　さんかできます!\xf000븁\x0000\xfffeミュージカルに　さんかされますか？
+ポケモンミュージカルへ　ようこそ!\xf000븁\x0000\xfffeこちらでは　おともだちと\xfffeミュージカルに　さんかできます!\xf000븁\x0000\xfffeミュージカルに　さんかされますか?
 おきゃくさまの　てもちに\xfffeさんか　かのうな　ポケモンが　いません!\xf000븁\x0000\xfffeミュージカルに　さんか　かのうな\xfffeポケモンを　つれて\xf000븀\x0000\xfffeもういちど　おこしください\xf000븁\x0000
 それでは　さんかする　ポケモンを\xfffeえらんでください
-せきがいせんつうしんと\xfffeＤＳワイヤレスつうしん\xf000븁\x0000\xfffeどちらに　されますか？
+せきがいせんつうしんと\xfffeＤＳワイヤレスつうしん\xf000븁\x0000\xfffeどちらに　されますか?
 Infrared Communication
 DS Wireless Communications
 えんもくを　きめる　ひとが\xfffeリーダーになる　を　えらび\xf000븁\x0000\xfffeほかの　ひとは　グループにはいる　を\xfffeえらんでください
-せきがいせんつうしん　および\xfffeＤＳワイヤレスつうしんを\xf000븀\x0000\xfffeかいし　しますか？
+せきがいせんつうしん　および\xfffeＤＳワイヤレスつうしんを\xf000븀\x0000\xfffeかいし　しますか?
 えんもくを　きめる　ひとが\xfffeリーダーになる　を　えらび\xf000븁\x0000\xfffeほかの　ひとは　グループにはいる　を\xfffeえらんでください
 Launch DS Wireless Communications?
 Thank you for waiting.\xfffeThis way, please!\xf000븂\x0001<
 Participate in the musical?
 
-ポケモンミュージカルへ　ようこそ!\xf000븁\x0000\xfffeこちらは　ドレスアップのみを\xfffeおこなう　しちゃくしつに　なります\xf000븀\x0000\xfffeドレスアップ　されますか？
+ポケモンミュージカルへ　ようこそ!\xf000븁\x0000\xfffeこちらは　ドレスアップのみを\xfffeおこなう　しちゃくしつに　なります\xf000븀\x0000\xfffeドレスアップ　されますか?
 Right this way, please.\xf000븁\x0000
 Would you like to Dress Up your Pokémon?
 What would you like me to explain?

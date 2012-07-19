@@ -1,10 +1,10 @@
-ポケモンこうかん　で\xfffeせかいと　つながる!\xf000븀\x0000\xfffeせかいは　ひろがる!\xf000븁\x0000\xfffeいろんな　ひと　と\xfffeポケモンこうかん　すれば\xf000븀\x0000\xfffeアナタ　ハッピーに　なれるヨ!\xf000븁\x0000\xfffeなぜなら　わたしが\xfffeいい　ものを　あげるからネ!\xf000븁\x0000\xfffeというわけで　トレーナーさん\xf000븁\x0000\xfffeアナタ　いろんな　ひとと\xfffeポケモンこうかん　してますカ？
-コンニチハ!　トレーナーさん\xf000븁\x0000\xfffeアナタ　いろんな　ひとと\xfffeポケモンこうかん　してますカ？
+ポケモンこうかん　で\xfffeせかいと　つながる!\xf000븀\x0000\xfffeせかいは　ひろがる!\xf000븁\x0000\xfffeいろんな　ひと　と\xfffeポケモンこうかん　すれば\xf000븀\x0000\xfffeアナタ　ハッピーに　なれるヨ!\xf000븁\x0000\xfffeなぜなら　わたしが\xfffeいい　ものを　あげるからネ!\xf000븁\x0000\xfffeというわけで　トレーナーさん\xf000븁\x0000\xfffeアナタ　いろんな　ひとと\xfffeポケモンこうかん　してますカ?
+コンニチハ!　トレーナーさん\xf000븁\x0000\xfffeアナタ　いろんな　ひとと\xfffeポケモンこうかん　してますカ?
 おう　いいですネ\xf000븁\x0000\xfffeでは　どれだけ　おおくの　ひとと\xfffeポケモンこうかん　したか\xf000븀\x0000\xfffeわたしが　チェックするヨ!\xf000븁\x0000
 ...\xf000븁\x0000
 いろんな　ひとと\xfffeポケモンこうかん　してみてヨ!\xf000븁\x0000\xfffeわたしが\xfffeいい　ものを　あげるし\xf000븀\x0000\xfffeなにより　たのしいヨ!!
-\xf000Ȁ\x0001\x0000にんと　こうかん　ですか？\xfffeせかいは　もっと　ひろいですヨ!\xf000븁\x0000\xfffeともだちと　こうかん　したり\xfffeＧＴＳを　つかって　くださいネ!
-０　だって!？\xf000븁\x0000\xfffeダレとも　こうかん　してないのカ!\xfffeせかいは　もっと　ひろいですヨ!\xf000븁\x0000\xfffeともだちと　こうかん　したり\xfffeＧＴＳを　つかって　くださいネ!
+\xf000Ȁ\x0001\x0000にんと　こうかん　ですか?\xfffeせかいは　もっと　ひろいですヨ!\xf000븁\x0000\xfffeともだちと　こうかん　したり\xfffeＧＴＳを　つかって　くださいネ!
+０　だって!?\xf000븁\x0000\xfffeダレとも　こうかん　してないのカ!\xfffeせかいは　もっと　ひろいですヨ!\xf000븁\x0000\xfffeともだちと　こうかん　したり\xfffeＧＴＳを　つかって　くださいネ!
 Wow!\xfffeYou have traded with \xf000Ȁ\x0001\x0000 people!\xf000븁\x0000
 Wow! Great!\xfffeYou have traded with \xf000ȁ\x0001\x0000 people!\xf000븁\x0000
 Wow! Impressive!\xfffeYou have traded with \xf000ȁ\x0001\x0000 people!\xf000븁\x0000
@@ -13,4 +13,4 @@ Wow! Surprising!\xfffeYou have traded with \xf000ȁ\x0001\x0000 people!\xf000븁
 なんと!　ワンダフル!\xfffeアナタ　\xf000ȁ\x0001\x0000にん　いじょうと\xf000븀\x0000\xfffeこうかん　したのネ!\xf000븁\x0000
 Great!\xfffeI will give this to you!\xf000븁\x0000
 You are really great!\xfffeI'm happy, so I will give this to you, too!\xf000븁\x0000
-こうかん　した　ポケモンは\xfffeいまごろ　どうしてる？\xf000븁\x0000\xfffeこうかん　してくれた　ひとは\xfffeいま　なにを　おもっている？\xf000븁\x0000\xfffeそれを　かんがえるのが\xfffeわたしの　シアワセ　なんですネ!
+こうかん　した　ポケモンは\xfffeいまごろ　どうしてる?\xf000븁\x0000\xfffeこうかん　してくれた　ひとは\xfffeいま　なにを　おもっている?\xf000븁\x0000\xfffeそれを　かんがえるのが\xfffeわたしの　シアワセ　なんですネ!

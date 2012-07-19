@@ -1,6 +1,6 @@
 ???: ホミカよ　\xfffeちちを　とめないでおくれ\xf000븁\x0000\xfffeわたしは　じぶんの　かのうせいを\xfffeさぐるため　いざ　ポケウッドへ!\xf000븁\x0000\xfffeムービースター　でもある\xfffeせんちょうを　めざすのです!\xf000븁\x0000
 Roxie: You!\xfffeHow goes, Captian?\xf000븁\x0000\xfffeふね　うごかしてくれないと\xfffeこまる　ひと　いるでしょーが!\xf000븁\x0000
-Captian: いとしの　むすめよ\xf000븁\x0000\xfffeきみは　ジムリーダーと　バンドを\xfffeかけもち　しているでは　ないですか？\xf000븀\x0000\xfffeわたしにも　できるはずなのです!\xf000븁\x0000
+Captian: いとしの　むすめよ\xf000븁\x0000\xfffeきみは　ジムリーダーと　バンドを\xfffeかけもち　しているでは　ないですか?\xf000븀\x0000\xfffeわたしにも　できるはずなのです!\xf000븁\x0000
 Roxie: Wha--aaa--t??\xf000븁\x0000\xfffeFool! Fool! Fool! Fool!\xfffeFool! Fool! Fool! FOOL!\xf000븁\x0000\xfffeダメなのは　かけもち　じゃなくて\xfffeめいわく　かけてることだって!\xf000븁\x0000\xfffeせんちょうの　ワガママで\xfffeふね　のれないとか　ゆるさん!!\xf000븁\x0000\xfffeあー　もう!\xfffeジムに　いこッ!\xf000븁\x0000
 This is the fascinating wonderland\xfffeof PokéStar!\xf000븁\x0000\xfffeいわゆる　えいがスタジオ　だけど\xfffeいまは　オーディション...\xf000븁\x0000\xfffeせんちょうさんの　えんぎを　みていて\xfffeかんけいしゃ　いがい　おことわり!
 This is the fascinating wonderland\xfffeof PokéStar!\xf000븁\x0000\xfffeいわゆる　えいがスタジオ　だけど\xfffeいまは　オーディション...\xf000븁\x0000\xfffeせんちょうさんの　えんぎを　みていて\xfffeかんけいしゃ　いがい　おことわり!\xf000븁\x0000
@@ -26,7 +26,7 @@ Roxie: After them!\xfffeGo search around Route 20!!!\xf000븁\x0000
 Roxie battles with poison!\xfffeShiver shiver shiver!\xf000븁\x0000\xfffeだがよ　おれさまは　コンビナートで\xfffeコイルを　つかまえたから　へいきだぜ\xf000븁\x0000\xfffeほら　おまえも　これをやるから\xfffeコイルでも　なんでも　つかまえな!\xf000븁\x0000
 Roxie battles with poison!\xfffeShiver shiver shiver!\xf000븁\x0000\xfffeだがよ　おれさまは　コンビナートで\xfffeコイルを　つかまえたから　へいきだぜ
 The complex nearby has a lot\xfffeof wild Pokémon. Check it out!
-Look!\xfffeバトルボックスを　ぞんじておるか？\xf000븁\x0000\xfffeポケモンセンターの　パソコンで\xfffeつかえる　べんりな　きのう　じゃよ
+Look!\xfffeバトルボックスを　ぞんじておるか?\xf000븁\x0000\xfffeポケモンセンターの　パソコンで\xfffeつかえる　べんりな　きのう　じゃよ
 あたし　うまれたときから\xfffeこの　ミルホッグと　いっしょ　なの!\xf000븁\x0000\xfffeするどいめ　という　とくせいで\xfffeなんども　たすけてくれたんだから!
 Hoguu!
 Roxie's band!\xf000븁\x0000\xfffeちかごろ　ライブチケットが\xfffeとりづらくなってさあ♪\xf000븁\x0000\xfffeそのうち　かいがいで\xfffeツアーとか　しちゃったりして!

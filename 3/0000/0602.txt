@@ -4,4 +4,4 @@ You can use that instead of going\xfffeto the Pokémon Center for healing.
 \xf000Ā\x0001\x0000.\xfffeHow's your journey going?
 Oh......\xfffeI see!\xf000븁\x0000
 The Electronic Bulletin Board on that\xfffewall shows news about Pokémon that\xf000븀\x0000\xfffeappear and the nearest city to it.\xf000븀\x0000\xfffeI like to read it a lot!
-Do you remember？\xf000븁\x0000\xfffeポケモンと　ともに　このゲートを\xfffeはじめて　とおった　あのひを
+Do you remember?\xf000븁\x0000\xfffeポケモンと　ともに　このゲートを\xfffeはじめて　とおった　あのひを
