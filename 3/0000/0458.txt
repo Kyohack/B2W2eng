@@ -1,9 +1,9 @@
-はい　はい!\xfffeわたしは　せいめい　はんだんし\xf000븁\x0000\xfffeはい　はい!　あなたの　ポケモンの\xfffeニックネームを　うらなって　あげるよ
+Hello, hello!\xfffeI am the official Name Rater!\xf000븁\x0000\xfffeWant me to rate the nicknames\xfffeof your Pokémon?
 Which Pokémon's nickname\xfffeshould I critique?\xf000븁\x0000
-うーむ\xfffe\xf000Ă\x0001\x0000か...\xf000븁\x0000\xfffeなかなか　きみらしい\xfffeいい　ニックネームを　つけたね\xf000븁\x0000\xfffeでもねー\xfffeもう　すこしだけ　いい　なまえを\xf000븀\x0000\xfffeわたしが　つけて　あげようか?
+Hmmm. \xf000Ă\x0001\x0000, is it?\xf000븁\x0000\xfffeThat sounds good! It's a very “you"\xfffesort of name.\xf000븁\x0000\xfffeBut if you'd like to change it, I can help\xfffeyou do that. How about it?
 Excellent! What would you like\xfffethe new nickname to be?\xf000븁\x0000
-よし!　これから\xfffeこの　ポケモンは　\xf000Ă\x0001\x0000だ!\xf000븁\x0000\xfffeまえより　いい　なまえ　じゃないか\xfffeよかったな!
+Done! From now on, this Pokémon\xfffeshall be known as \xf000Ă\x0001\x0000!\xf000븁\x0000\xfffeYou're right, that does seem to fit it\xfffebetter. Nicely done!
 OK! Come see me again if you\xfffechange your mind.
-よし　これから\xfffeこの　ポケモンは　\xf000Ă\x0001\x0000だ!\xf000븁\x0000\xfffeまえと　おなじように　みえるが\xfffeこっちの　ほうが　ナイス　だぞ!\xf000븀\x0000\xfffeよかったな!
-うーむ\xfffe\xf000Ă\x0001\x0000か!\xf000븁\x0000\xfffeこれは　けちの　つけようもない\xfffeすばらしい　ニックネームだ!\xf000븁\x0000\xfffeこれからも　\xf000Ă\x0001\x0000を\xfffeかわいがって　あげなさいよ!
+Done! From now on, this Pokémon\xfffeshall be known as \xf000Ă\x0001\x0000!\xf000븁\x0000\xfffeIt looks no different from before, but we\xfffeboth know this name is vastly superior!\xf000븀\x0000\xfffeHow fortunate for you!
+Hmmm. \xf000Ă\x0001\x0000!\xfffeThat is a truly impeccable nickname!\xf000븁\x0000\xfffeTake good care of \xf000Ă\x0001\x0000!
 Now, now...\xfffeThat is merely an Egg!
