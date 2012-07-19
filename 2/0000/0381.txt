@@ -22,17 +22,17 @@ I'm a little bit strong.\xfffeI will work out!\xf000븁\x0000
 I got worked over...
 ビッグスタジアムに\xfffeきてくれて　サンキューな！\xf000븁\x0000
 You're quite strong.\xfffeYou have left the Little League!
-おいおい！\xfffeれんしゅうあいてに　なるのかい！？\xf000븁\x0000\xfffeいっておくが　オレは\xfffeれんしゅうでも　ほんき　だすぜ！\xf000븁\x0000
+Hey!\xfffeHey, let's practice together!\xf000븁\x0000\xfffeI have to warn you--I will go all out\xfffeeven if we are just practicing!\xf000븁\x0000
 I was no match for you...\xfffeThere is always someone better.
 れんしゅうあいてを\xfffeしてくれた　おれい　だよ！\xf000븁\x0000
-やくそく　しよう！\xf000븁\x0000\xfffeこの　はいぼくを　かてに　オレは\xfffeもっと　すごい　プレイヤーになる！
+I promise you!\xf000븁\x0000\xfffeI will learn from this experience\xfffeand become an even better player!
 ふしゅー！　やすみくらいは\xfffeりんせんたいせいを　かいじょする！
 れんしゅうを　みていたら\xfffeなんだか　じぶんも　すごくなった\xf000븀\x0000\xfffeそんな　きぶんに　なるだろ？\xf000븀\x0000\xfffeだから　しょうぶ　しようよ！\xf000븁\x0000
 タカ『……ぜんぜん\xfffeうまく　できなかったよ\xf000븁\x0000\xfffeシゲ『……さっぱり\xfffeうまく　できなかったよ
 むずかしいことを　さも\xfffeかんたんに　やってみせる……\xf000븁\x0000\xfffeプロフェッショナルの\xfffeすごさ　って　やつだね
 We cannot have\xfffea one-on-two battle.
 いろんな　スポーツの\xfffeチームプレイを　みていたら\xf000븁\x0000\xfffeぼくたちも　コンビで\xfffeたたかって　みたくなったのさ！\xf000븁\x0000
-チームプレイって　むずかしいな\xf000븁\x0000\xfffeなかまが　なにを\xfffeかんがえているか　わかれば\xf000븀\x0000\xfffeもっと　すごいことが　できるのに！
+Playing as a team is difficult.\xf000븁\x0000\xfffeWe could do more great things\xfffeif we could understand what\xf000븀\x0000\xfffeother people were thinking!
 We would like to have\xfffea Pokémon battle as a duo.
 リトルコートに　くるだけで\xfffeこうふん　しちゃって！！\xf000븁\x0000
 ヒロ『こうふん　しすぎた！\xf000븁\x0000\xfffeシン『なんという　こうふん！\xfffeまさに　エクスタシー！
@@ -490,7 +490,7 @@ I have great footwork with the ball.\xfffePoké Balls, too. See?\xf000븁\x0000
 After I let Pokémon out of\xfffePoké Balls... Well, I am still practicing...
 どうぐの　あつかいは　おてのもの！\xf000븁\x0000
 I should practice more\xfffeon Pokémon handling, too.
-ときどき　しあいに　でてるが\xfffeもっと　すごい　プレイヤーになる！\xf000븁\x0000\xfffeそのためには　ポケモンしょうぶも\xfffeどんどん　こなしていくぜ！\xf000븁\x0000
+I play occasionally,\xfffebut I want to become a better player!\xf000븁\x0000\xfffeSo I will fight\xfffea lot of Pokémon battles, too!\xf000븁\x0000
 UGHH!\xfffeI couldn't even pass the ball!
 オレの　ファン　かもしれない\xfffeキミに　また　プレゼントだよ！\xf000븁\x0000
 I will do anything to play better!\xfffeIt's over if you get complacent!
@@ -1067,7 +1067,7 @@ I have lost!\xfffeI am such a loser!
 あーあ！　いっそのこと\xfffeバイクを　かついで　はしろうか！\xf000븀\x0000\xfffeそうすりゃ　ワイルドだろ！！
 Hey, hey, what have we here, boys?\xf000븁\x0000\xfffeYou have good Pokémon.\xfffeLet me see!\xf000븁\x0000
 ジム『そっ　それがあ！\xfffeおまえたちの　ゆうじょう　なのか！\xf000븁\x0000\xfffeサブ『なんだとお！？　ワルの\xfffeゆうじょうが　つうじなかった……
-いい　ポケモンは　いるが！\xfffeワルい　ポケモンは　いねえ！\xf000븁\x0000\xfffeぜーんぶ　トレーナー　しだい　だろ\xfffeオレは　そう　おもうぜえ！
+There are good Pokémon,\xfffebut there are no bad Pokémon.\xf000븁\x0000\xfffeEverything is up to the Trainer.\xfffeThat's what I think!
 You've got only one Pokémon?\xfffeA single battle is so boring!
 おらおら！\xf000븁\x0000\xfffeワルと　ワルが　がったい！\xfffeどういうことか　わかるか？\xf000븁\x0000\xfffeすごく　ワルって　ことだよ！\xf000븁\x0000
 ワルい　おれらにも\xfffeゆうじょうが　あるんだよ！\xf000븁\x0000\xfffeいいよな……\xfffeおとこと　おとこの　ゆうじょう\xf000븀\x0000\xfffeポケモンとの　ゆうじょう……
@@ -1680,7 +1680,7 @@ Argh!
 ポケモントレーナーが\xfffeであえば　するのは　もちろん\xf000븀\x0000\xfffeポケモンしょうぶ　ですよねー\xf000븁\x0000
 Oh no...\xfffeI'm pathetic...
 Perhaps I meet people here because of\xfffeguidance from my Pokémon.
-あら？　おばさんの　あいて？\xf000븁\x0000\xfffeいいわよ！　あたしには\xfffeつよい　ポケモンが　いるんですから\xf000븁\x0000
+Oh?\xfffeYou want to have a battle with me?\xf000븁\x0000\xfffeAll right!\xfffeI have a strong Pokémon.\xf000븁\x0000
 ……そうでした\xfffeあのコは　もう　いないのね
 ……あのコの　いばしょは\xfffeわたしの　こころの　なか\xf000븀\x0000\xfffeわたしが　しぬまで　ずっと　いっしょ
 しんしの　たしなみ　として\xfffeポケモンを　きそわせますぞ！\xf000븁\x0000
@@ -1698,7 +1698,7 @@ The end...\xfffeIs that it?
 Indescribable energy\xfffeis flowing to me!\xf000븁\x0000
 The energy is escaping...\xfffeAww...
 ここに　ねむる　ポケモンの\xfffeいろんな　おもいも　エネルギーよね！
-……まだ　たたかいたい！\xf000븁\x0000\xfffeあたしの　なかに　はいりこんだ\xfffeさまよう　たましいが　そういうの！\xf000븁\x0000
+...I still want to fight!\xf000븁\x0000\xfffeあたしの　なかに　はいりこんだ\xfffeWandering spirits command me!\xf000븁\x0000
 ハァハァ……　だれかの\xfffeたましいが　ぬけていったわ
 タワーに　いっぱい　つまってる\xfffeつたえられない　おもい……\xf000븀\x0000\xfffeきいてあげられたら　いいんだけど
 むしポケモンを　あいし\xfffeむしとりを　あいする　オレ\xf000븁\x0000\xfffeもちろん　ポケモンしょうぶも\xfffeあいしてまーす！\xf000븁\x0000

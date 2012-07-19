@@ -10,7 +10,7 @@ Your data has been sent.\xf000븁\x0000
 Would you like to cancel your data\xfffedownload?
 トレインナンバーを\xfffeいれてください（００１ー\xf000Ȃ\x0001\x0000）
 トレインナンバーを\xfffeいれてください（００１ー\xf000Ȃ\x0001\x0000）
-Ｗｉ－Ｆｉコネクションに　せつぞく
+Connecting to the\xfffeNintendo Wi-Fi Connection
 The Wi-Fi Train is currently undergoing\xfffemaintenance. Please try again later.\xf000븁\x0000\xfffeError code: 13281\xf000븁\x0000
 The Wi-Fi Train is very crowded.\xfffePlease try again later.\xf000븁\x0000\xfffeError code: 13282\xf000븁\x0000
 The Wi-Fi Train is very crowded.\xfffePlease try again later.\xf000븁\x0000\xfffeError code: 13261\xf000븁\x0000

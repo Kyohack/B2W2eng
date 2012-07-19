@@ -314,7 +314,7 @@ Trying to get their attention...
 ことわられました
 ことわりました
 あいての　へんじが　ありませんでした
-あいての　せんたくを　まっています
+Awaiting your friend's decision.
 I don't know this game, so I won't play!
 I don't meet the conditions, so I\xfffecan't battle!
 メンバーしゅうごうを　まっています
