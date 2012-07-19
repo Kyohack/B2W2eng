@@ -73,7 +73,7 @@ Being your opponent in battle is a new\xfffesource of strength to me. Thank you!
 ほのおタイプで　もやしまくる\xfffeオレ　ポッドが　あいてをするぜ！\xf000븁\x0000
 イヤッホー！\xf000븁\x0000\xfffeきょうだいで　いちばん　つよい\xfffeオレさまと　あそぼうぜ！！\xf000븁\x0000
 トーナメントの　けっしょう\xfffeこの　シチュエーション　もえるよな！\xf000븁\x0000\xfffeというわけで\xfffeほのおタイプで　もやしまくる\xf000븀\x0000\xfffeオレ　ポッドが　あいてをするぜ！\xf000븁\x0000
-まいったぜ……\xf000븁\x0000\xfffeも　　　え　　　つ　　　き　　　た！\xf000븁\x0000
+You got me.\xf000븁\x0000\xfffeI am...burned...out...
 もえて　ファイヤー！\xfffeオレさま　ぜっこうちょう！！\xf000븁\x0000
 ポッド『うわーッ！　オマエ　すげえ！！\xf000븁\x0000\xfffeだけどな　いい　しょうぶをした\xfffeオレさまも　けっこう　すごいだろ！\xf000븁\x0000
 ポッド『きにするなよ！\xfffeまけたって　しかたないだろ！\xf000븁\x0000\xfffeだって　あいてが　わるいよ\xfffeなんたって　オレさま　だぜ？\xf000븁\x0000
@@ -107,7 +107,7 @@ Being your opponent in battle is a new\xfffesource of strength to me. Thank you!
 ほかのひとや　ポケモンと　ともにあり\xfffeその　ささえに　よって\xf000븀\x0000\xfffeじぶんが　つよくなる……\xf000븁\x0000\xfffeそういう　つよさも　ある\xfffeそれを　おみせ　しましょう！\xf000븁\x0000
 きみと　ポケモンと！\xfffeすばらしき　コンビネーション！\xf000븀\x0000\xfffeうるわしき　ゆうじょう！\xf000븁\x0000
 きょくげんで　こそ\xfffeためされる！　きたえられる！\xf000븁\x0000
-ハチク『きみは　つよい！\xfffeいや　きみとポケモンは　つよいな！\xf000븁\x0000
+Hachiku: You are strong!\xfffeNo, both you and your Pokémon are strong!
 ハチク『いちどは　すてた\xfffeやくしゃの　みち……\xf000븁\x0000\xfffeだからこそ　みえた　たいせつなもの\xfffeそれを　しょうぶに　つぎこめた！\xf000븁\x0000
 しずかなる　アイス　マスク！\xfffeハチク！　アクションッ　スタートッ！\xf000븁\x0000
 いまは　むしょうに\xfffeたたかいたい　きぶん　だぜ！\xf000븁\x0000
@@ -697,7 +697,7 @@ Being your opponent in battle is a new\xfffesource of strength to me. Thank you!
 ほのおタイプで　もやしまくる\xfffeオレ　ポッドが　あいてをするぜ！\xf000븁\x0000
 イヤッホー！\xf000븁\x0000\xfffeきょうだいで　いちばん　つよい\xfffeオレさまと　あそぼうぜ！！\xf000븁\x0000
 トーナメントの　けっしょう\xfffeこの　シチュエーション　もえるよな！\xf000븁\x0000\xfffeというわけで\xfffeほのおタイプで　もやしまくる\xf000븀\x0000\xfffeオレ　ポッドが　あいてをするぜ！\xf000븁\x0000
-まいったぜ……\xf000븁\x0000\xfffeも　　　え　　　つ　　　き　　　た！\xf000븁\x0000
+You got me.\xf000븁\x0000\xfffeI am...burned...out...
 もえて　ファイヤー！\xfffeオレさま　ぜっこうちょう！！\xf000븁\x0000
 ポッド『うわーッ！　オマエ　すげえ！！\xf000븁\x0000\xfffeだけどな　いい　しょうぶをした\xfffeオレさまも　けっこう　すごいだろ！\xf000븁\x0000
 ポッド『きにするなよ！\xfffeまけたって　しかたないだろ！\xf000븁\x0000\xfffeだって　あいてが　わるいよ\xfffeなんたって　オレさま　だぜ？\xf000븁\x0000
@@ -731,7 +731,7 @@ Being your opponent in battle is a new\xfffesource of strength to me. Thank you!
 ほかのひとや　ポケモンと　ともにあり\xfffeその　ささえに　よって\xf000븀\x0000\xfffeじぶんが　つよくなる……\xf000븁\x0000\xfffeそういう　つよさも　ある\xfffeそれを　おみせ　しましょう！\xf000븁\x0000
 きみと　ポケモンと！\xfffeすばらしき　コンビネーション！\xf000븀\x0000\xfffeうるわしき　ゆうじょう！\xf000븁\x0000
 きょくげんで　こそ\xfffeためされる！　きたえられる！\xf000븁\x0000
-ハチク『きみは　つよい！\xfffeいや　きみとポケモンは　つよいな！\xf000븁\x0000
+Hachiku: You are strong!\xfffeNo, both you and your Pokémon are strong!
 ハチク『いちどは　すてた\xfffeやくしゃの　みち……\xf000븁\x0000\xfffeだからこそ　みえた　たいせつなもの\xfffeそれを　しょうぶに　つぎこめた！\xf000븁\x0000
 ポケモンの　つよさを　ひきだせ！\xfffeハチクなら　それが　できるはず！\xf000븁\x0000
 おれは　タケシ！\xfffeいわタイプの　エキスパートさ！\xf000븁\x0000
