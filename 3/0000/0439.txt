@@ -3,11 +3,11 @@ You have a Fossil, don't you?\xfffeShall I turn it back into a Pokémon?
 Which Fossil should I turn back\xfffeinto a Pokémon?
 All right!\xf000븁\x0000\xfffeI will turn the \xf000ĉ\x0001\x0000 back\xfffeinto a Pokémon!\xf000븁\x0000
 Oh, you'd like to keep it as a Fossil? OK!
-いま　カセキを\xfffeポケモンに　ふくげん　しています!
-あなたから　おあずかりした　カセキは\xfffeポケモンに　もどりました!!\xf000븁\x0000\xfffeこれが　\xf000ā\x0001\x0000ですよ!\xfffeだいじに　してあげて　ください\xf000븁\x0000
+I'm in the middle of reconstructing\xfffethe Pokémon from the fossil!
+The Fossil you gave me turned back into\xfffea Pokémon!\xf000븁\x0000\xfffeThis is \xf000ā\x0001\x0000!\xfffePlease take good care of it.\xf000븁\x0000
 \xf000Ā\x0001\x0000 chose\xfffe\xf000ā\x0001\x0001!
 Would you like to give a nickname to the\xfffenewly received \xf000ā\x0001\x0000?
-と　おもいましたが\xfffeポケモンが　いっぱい　ですね\xf000븁\x0000\xfffeたいせつに　あずかっておくので\xfffeまた　とりに　きてくださいね!
+Oh, I'm sorry. Your party is full.\xf000븁\x0000\xfffeI will keep it with extra care, so please\xfffecome back to pick it up when you can!
 If you have a Fossil, bring it to me!
 \xf000ĉ\x0001\x0000
 \xf000ĉ\x0001\x0001
