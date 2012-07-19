@@ -1,30 +1,30 @@
-わたしは\xfffeジムバッジに　こめられた　おもい...\xf000븁\x0000\xfffeあなたと　いっしょに　たたかった\xfffeポケモンが　わかるのです\xf000븁\x0000\xfffeあなたの　もっている\xfffeジムバッジを　みても　いいですか?
+I can see the thoughts\xfffecontained in a Gym Badge...\xf000븁\x0000I know what Pokémon\xfffeyou were fighting with!\xf000븁\x0000Shall I take a look\xfffeat one of your Gym Badges?
 OK. You don't have to show me anything.\xfffeI'm sure your memories are all you need!
-どの　ジムバッジに\xfffeこめられた　おもいを　みましょうか?
-You got the Basic Badge with...\xf000븁\x0000
-あなたが　トキシックバッジを\xfffeてにしたときの　ポケモンは...\xf000븁\x0000
-You got the Insect Badge with...\xf000븁\x0000
-You got the Bolt Badge with...\xf000븁\x0000
-You got the Quake Badge with...\xf000븁\x0000
-You got the Jet Badge with...\xf000븁\x0000
-You got the Legend Badge with...\xf000븁\x0000
-あなたが　ウェーブバッジを\xfffeてにしたときの　ポケモンは...\xf000븁\x0000
-\xf000ā\x0001\x0000.\xf000븁\x0000
+Which Badge are you going to show me?
+The Pokémon you have obtained\xfffethe Basic Badge with were... \xf000븁\x0000
+The Pokémon you have obtained\xfffethe Toxic Badge with were... \xf000븁\x0000
+The Pokémon you have obtained\xfffethe Insect Badge with were... \xf000븁\x0000
+The Pokémon you have obtained\xfffethe Bolt Badge with were... \xf000븁\x0000
+The Pokémon you have obtained\xfffethe Quake Badge with were... \xf000븁\x0000
+The Pokémon you have obtained\xfffethe Jet Badge with were... \xf000븁\x0000
+The Pokémon you have obtained\xfffethe Legend Badge with were... \xf000븁\x0000
+The Pokémon you have obtained\xfffethe Wave Badge with were... \xf000븁\x0000
+Just \xf000ā\x0001\x0000!\xf000븁\x0000
 \xf000ā\x0001\x0000 and \xf000ā\x0001\x0001.\xf000븁\x0000
 \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, and\xfffe\xf000ā\x0001\x0002.\xf000븁\x0000
 \xf000ā\x0001\x0000, \xf000ā\x0001\x0001,\xfffe\xf000ā\x0001\x0002, and \xf000ā\x0001\x0003.\xf000븁\x0000
-\xf000ā\x0001\x0000　\xf000ā\x0001\x0001\xfffe\xf000ā\x0001\x0002　\xf000ā\x0001\x0003\xf000븀\x0000\xfffe\xf000ā\x0001\x0004　ですね\xf000븁\x0000
-\xf000ā\x0001\x0000　\xf000ā\x0001\x0001\xfffe\xf000ā\x0001\x0002　\xf000ā\x0001\x0003\xf000븀\x0000\xfffe\xf000ā\x0001\x0004　\xf000ā\x0001\x0005　ですね\xf000븁\x0000
-Want to show me another Gym Badge?
+\xf000ā\x0001\x0000, \xf000ā\x0001\x0001,\xfffe\xf000ā\x0001\x0002, \xf000ā\x0001\x0003, and\xf000븀\x0000\xfffe\xf000ā\x0001\x0004.\xf000븁\x0000
+\xf000ā\x0001\x0000, \xf000ā\x0001\x0001,\xfffe\xf000ā\x0001\x0002, \xf000ā\x0001\x0003,\xf000븀\x0000\xfffe\xf000ā\x0001\x0004, and \xf000ā\x0001\x0005.\xf000븁\x0000
+Shall I see another gym badge?
 Basic Badge
-トキシックバッジ
+Toxic Badge
 Insect Badge
 Bolt Badge
 Quake Badge
 Jet Badge
 Legend Badge
-ウェーブバッジ
-Back
-えっ?　その　ジムバッジは\xfffeまだ　てに　いれてないけど...\xf000븁\x0000
-ほんかん　ここに　ふにんしてから\xfffeなーんも　することが　ないのだ\xf000븁\x0000\xfffeよるは　そとに　だれも　いないし\xfffeへいわ　そのもの　だからなー
-よるは　そとに　だれも　いなくて\xfffeへいわ　だった　その　わけが\xf000븁\x0000\xfffeおそろしーい\xfffeポケモンの　おかげとは　ふくざつだな
+Wave Badge
+Cancel
+えっ? その ジムバッジは\xfffeまだ てに いれてないけど...\xf000븁\x0000
+Ever since I got appointed here,\xfffeI haven't had to do anything!\xf000븁\x0000There's not a soul out at night...\xfffeIt's the portrait of peace!
+よるは そとに だれも いなくて\xfffeへいわ だった その わけが\xf000븁\x0000\xfffeおそろし-い\xfffeポケモンの おかげとは ふくざつだな
