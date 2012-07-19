@@ -1,11 +1,11 @@
-ボクの　なまえは　ジャッジ!\xf000븁\x0000\xfffeほんとうの　なまえは　ちがうけれど\xfffeみんな　ジャッジって　よんでくれるよ\xf000븁\x0000\xfffeなぜかというと　ボクには\xfffeポケモンの　のうりょくを　みきわめる\xf000븁\x0000\xfffeつまり　ジャッジする\xfffeふしぎな　ちからが　あるからなんだ\xf000븁\x0000\xfffeきみも　よかったら\xfffeのうりょくが　きになる　ポケモンを\xf000븀\x0000\xfffeボクに　ジャッジさせてくださいよ!\xf000븁\x0000
-きみ!　よかったら\xfffeのうりょくが　きになる　ポケモンを\xf000븀\x0000\xfffeボクに　ジャッジさせてくださいよ!\xf000븁\x0000
+You can call me the Judge.\xf000븁\x0000\xfffeHeh heh, that's actually not my real\xfffename, but it's what everyone calls me.\xf000븁\x0000\xfffeIt's because of this weird power I have.\xfffeIt's a gift, really.\xf000븁\x0000\xfffeI can discern--judge, you might say--the\xfffeoverall potential of individual Pokémon.\xf000븁\x0000\xfffeIf you'd like, I could judge the\xfffeintriguing potential of your Pokémon.\xf000븁\x0000
+If you'd like, I could judge the\xfffeintriguing potential of your Pokémon.\xf000븁\x0000
 ...Oh?\xfffeYou don't need me to judge. I get it.
 Judge an Egg?!\xfffeThat's a tall order even for me!
-なるほど　なるほど...\xf000븁\x0000\xfffeこの　ポケモンは\xfffeまずまずの　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-なるほど　なるほど...\xf000븁\x0000\xfffeこの　ポケモンは　へいきん　いじょうの\xfffeのうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-なるほど　なるほど...\xf000븁\x0000\xfffeこの　ポケモンは　そうとう\xfffeゆうしゅうな　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-なるほど　なるほど...\xf000븁\x0000\xfffeこの　ポケモンは\xfffeすばらしい　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
+I see, I see...\xf000븁\x0000\xfffeThis Pokémon's potential is\xfffedecent all around.\xf000븁\x0000\xfffeThat's my determination, and it's final.\xf000븁\x0000
+I see, I see...\xf000븁\x0000\xfffeThis Pokémon's potential is\xfffeabove average overall.\xf000븁\x0000\xfffeThat's my determination, and it's final.\xf000븁\x0000
+I see, I see...\xf000븁\x0000\xfffeThis Pokémon has\xffferelatively superior potential overall.\xf000븁\x0000\xfffeThat's my determination, and it's final.\xf000븁\x0000
+I see, I see...\xf000븁\x0000\xfffeThis Pokémon has\xfffeoutstanding potential overall.\xf000븁\x0000\xfffeThat's my determination, and it's final.\xf000븁\x0000
 Incidentally, I would say the best\xfffepotential lies in its HP.\xf000븁\x0000
 Incidentally, I would say the best\xfffepotential lies in its Attack stat.\xf000븁\x0000
 Incidentally, I would say the best\xfffepotential lies in its Defense stat.\xf000븁\x0000
