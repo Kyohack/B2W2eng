@@ -639,14 +639,14 @@ Spring Form
 
 
 
-Avatar Forme
-Avatar Forme
+Avatar Form
+Avatar Form
 
 
-Avatar Forme
-Kyurem Forme
-Normal Forme
-Voice Forme
+Avatar Form
+Kyurem Form
+Ordinary Form
+Voice Form
 Genesect Form
 
 One form
@@ -725,7 +725,7 @@ Sacred Forme
 Sacred Forme
 White Kyurem
 Black Kyurem
-Resolution Form
+Resolute Form
 Pirouette Forme
 Genesect's Form
 Genesect's Form
