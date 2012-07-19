@@ -38,7 +38,7 @@ We would like to have\xfffea Pokémon battle as a duo.
 ヒロ『こうふん　しすぎた！\xf000븁\x0000\xfffeシン『なんという　こうふん！\xfffeまさに　エクスタシー！
 Just by being here! Just by watching it!\xfffeI get really excited!\xf000븁\x0000\xfffeIf I played a game here,\xfffeI would be extremely excited!
 We don't want to have\xfffea one-on-two battle.
-この　スタジアムで　たたかえば\xfffeあこがれの　スターせんしゅの\xf000븀\x0000\xfffeきもちが　わかると　おもうよね！\xf000븁\x0000
+If we fight in this stadium,\xfffedon't you think we will understand\xf000븀\x0000\xfffehow our star players feel?\xf000븁\x0000
 スタジアムで　ポケモンと\xfffeいっしょに　たたかえて……\xf000븁\x0000\xfffeすこしは　スターの　きもちを\xfffeあじわえて　なんか　うれしいな！
 One-on-two? \xfffeWe cannot fight like that.
 Watching people practicing\xfffemakes me want to get moving, too!\xf000븁\x0000\xfffeSoooooo, let's practice\xfffePokémon battles.\xf000븁\x0000
@@ -281,7 +281,7 @@ I have to consider what I will be\xfffeby trying a lot of things!
 It was very helpful...
 うーん　きみは\xfffeなかなか　きょうみぶかい！\xf000븁\x0000\xfffeこれどーぞ！\xf000븁\x0000
 Both sports and Pokémon are\xfffelike a science for me!
-まいにち　まいにち　くすりくさい\xfffeけんきゅうしつに　こもってますと\xf000븀\x0000\xfffeストレスが　たまって　しまいます\xf000븁\x0000
+I am stuck inside the lab,\xfffewith a medicinal smell every day,\xf000븀\x0000\xfffeand then I get stressed out.\xf000븁\x0000
 Waaaaaahhh! Frustrating!
 Breaking out made me feel better!\xfffeHere's a token of my appreciation.\xf000븁\x0000
 Let's have another Pokémon battle\xfffesometime, so we won't be stressed out!
@@ -396,14 +396,14 @@ Beep-beep-beep! Ha! Ta-roo Ta-raaa!\xfffeListen to the fans shout!\xf000븁\x000
 Pan, pan-papan, hey-oo!! Right?\xfffeOh, the rhythm is wonderful!
 Beep-beep-beep! Ha! Ta-roo ta-raaa!\xfffeListen to the fans shout!
 Olé, olé, oléeee!\xfffeThis is the fan song I wrote!\xf000븁\x0000\xfffeThe Pokémon listening to this song\xfffetry harder than usual!\xf000븁\x0000
-マナ『オーレ　オーレ……\xfffeあれー　おわってる\xf000븁\x0000\xfffeサエ『きみ　すごく　つよいのね！
+Kay: Olé, olé...\xfffeHuh? It's over.\xf000븁\x0000\xfffeAli: You are very strong!
 “Olé!" means\xfffe“Go!" or “Move forward!"
 オーレ　オーレ　オーレー！\xfffeおうえんちゅう　なの！\xf000븁\x0000\xfffeポケモンが　２ひき　いれば\xfffeしょうぶを　してもいいわよ！
-いっしょに　きた　ともだち……\xfffeチームの　おうえんって　いうかね\xf000븀\x0000\xfffeうたを　うたいたくて　きてるの\xf000븁\x0000
+My friend came here with me...\xfffeShe comes 'cause she wants to sing\xf000븀\x0000\xfffemore than cheering for the team.\xf000븁\x0000
 I am a fan of all the players\xfffewho are doing their best!\xf000븀\x0000\xfffeSo, I want both teams to win!
 With only one Pokémon,\xfffeit's a bit hard to battle.
 Hey, you!\xfffeDo you know what offside means?\xf000븁\x0000
-マナ『いまの　オフサイドよ！\xfffeぜったい　オフサイドだわ！\xf000븁\x0000\xfffeサエ『ふ……　ふーーんだ！\xfffeもう　おしえてなんか　あげない！
+Kay: What we just saw is offside!\xfffeI bet it's offside!\xf000븁\x0000\xfffeAli: B... Baaaaah!\xfffeI won't tell you anymore!
 What? What is offside?\xfffeEr... The girl next to me knows!
 Off!
 Hey, shall I tell you\xfffeabout the offside penalty?\xf000븁\x0000
@@ -690,7 +690,7 @@ I believe in my partner!\xfffeわざを　きめるだけさッ！
 ショーも　おおづめ　だけど\xfffeカミツレさまと　おなじ　ステージに\xf000븀\x0000\xfffeたてるか　チェックしてあげる！\xf000븁\x0000
 その　つよさと　うつくしさ……！\xf000븁\x0000\xfffeカミツレさまの　ステージに\xfffeたっても　いいんじゃない？
 あなたと　カミツレさまで　みせた\xfffeきらびやかな　ポケモンしょうぶ\xf000븁\x0000\xfffeおもわず　みとれちゃったじゃない！\xfffeとても　ステキな　ショーだったわよ！
-わたしという　みりょくてきな\xfffeつりばりに　ひっかかったな！\xf000븁\x0000\xfffeつりたて　ピチピチの　ポケモンで\xfffeしょうぶ　してあげよう！\xf000븁\x0000
+You've been caught by a powerful hook,\xfffewhich is me!\xf000븁\x0000\xfffeI'll have a battle with you using\xfffemy freshly caught Pokémon!\xf000븁\x0000
 おもわず　ピチピチ　はねちゃう！\xfffeピチピチ　ピチピチッ　ピチピチッ！
 ポケモンは　つられているのでは　なく\xfffeわたしに　しょうぶを　いどむため\xf000븀\x0000\xfffeつりバリに　くいついて　いるのかも？
 おっし！\xfffeたいりょう　たいりょう！\xf000븁\x0000\xfffeつぎは　しょうり　という\xfffeえものを　つってみるか\xf000븁\x0000
@@ -1224,7 +1224,7 @@ Please!!
 ローテーションバトル！\xfffeみぎにまわす？　ひだりにまわす？\xf000븁\x0000
 どちらに　まわすか　まようのは\xfffeけいけんが　たりないからなの？
 たりない　けいけんは\xfffeちしき　かんがえで　おぎないます\xf000븁\x0000\xfffeでないと　せんぱいトレーナーに\xfffeいつまでも　かてないもの
-こどもと　ポケモンたち\xfffeたくさんの　えがおに　かこまれて\xf000븀\x0000\xfffeむてきの　アタシ　でーす！\xf000븁\x0000
+I feel invincible because I am surrounded\xfffeby the smiles of children and Pokémon!\xf000븁\x0000
 Wow! Great, great!\xfffeYou are very strong!
 Speak while making eye contact, and\xfffeexpress your feelings to each other...\xf000븀\x0000\xfffeIt's the same for people and Pokémon.
 Hey! Trainer!\xfffeHave a battle with me!\xf000븁\x0000
@@ -1649,7 +1649,7 @@ I'm a Hiker exploring caves.\xfffeI will teach you the harshness of life\xf000�
 やまの　あいさつ\xfffeほらあなの　あいさつ\xf000븁\x0000\xfffeそら！　おたがいの　ポケモンを\xfffeだして　はじめようぜ！\xf000븁\x0000
 さよなら……\xfffeさよなら……　わしの　ビクトリー
 おおむかしは　ポケモンと　ひとが\xfffeくらす　ばしょは　べつべつだった\xf000븁\x0000\xfffeそれが　こうして　いりまじって……\xf000븁\x0000\xfffeいいことか　どうか　わからんが\xfffeいろいろ　かわっていくのだろうな
-ほらあなの　あちこちに　ある\xfffeでんきを　はっしている　いわ！\xf000븀\x0000\xfffeその　でんきで　げんきいっぱい！\xf000븁\x0000
+This cave is full of rocks\xfffegenerating electricity!\xf000븀\x0000\xfffeThe electricity is charging me up!\xf000븁\x0000
 Yowch, a lightning spark!
 The sources of my energy are\xfffemy precious Pokémon!\xf000븀\x0000\xfffeThis has been scientifically proven!!
 I love this place! The electricity\xfffecharges up my inspiration!\xf000븁\x0000
@@ -1676,7 +1676,7 @@ When a person moves,\xfffeelectric signals travel in the body!\xf000븁\x0000\xf
 ローテーションだと　あえて\xfffeわざを　うけてくれる　ポケモンが\xf000븀\x0000\xfffeひつように　なるのかなあ？
 Hey! My Pokémon are great.\xfffeLook, look!\xf000븁\x0000
 Argh!
-エリートと　よばれちゃうけど\xfffeなんか　しっくり　こないんだよね\xf000븁\x0000\xfffeだって　ただ　ポケモンが　すきで\xfffeつよくなりたいだけ　なんだもん！
+Indescribable energy\xfffeis flowing to me!\xf000븁\x0000
 ポケモントレーナーが\xfffeであえば　するのは　もちろん\xf000븀\x0000\xfffeポケモンしょうぶ　ですよねー\xf000븁\x0000
 Oh no...\xfffeI'm pathetic...
 Perhaps I meet people here because of\xfffeguidance from my Pokémon.
@@ -1691,7 +1691,7 @@ Oh?\xfffeYou want to have a battle with me?\xf000븁\x0000\xfffeAll right!\xfffe
 いなくなった　ポケモンを\xfffeわすれることが　いいことなの？\xf000븀\x0000\xfffeわすれないことが　いいことなの？
 いのち　かがやく　ようすを\xfffeねむれる　たましいに　ささげよう！\xf000븁\x0000
 ……？\xfffeいま　シグナルを　キャッチした？
-ここ……　タワーオブヘブンでは\xfffeふしぎと　たたかいたく　なるんだ\xf000븁\x0000\xfffeなにか　たたかいたいって　シグナルが\xfffeはっしん　されているのかな？
+When I come here... At Celestial Tower,\xfffestrangely, I feel the urge to fight.\xf000븁\x0000\xfffeなにか　たたかいたいって　シグナルが\xfffeはっしん　されているのかな？
 せかいの　おわりが　しりたくて\xfffeここに　いるけれど　ピンとこないけど\xf000븀\x0000\xfffeしょうぶ　すれば　わかるのかな……？\xf000븁\x0000
 The end...\xfffeIs that it?
 ひとも　ポケモンも……\xfffeたとえば　せかい　すらも\xf000븀\x0000\xfffeなくなって　おわり　じゃないんだ……
@@ -1730,7 +1730,7 @@ According to footstep fortune-telling...\xf000븁\x0000\xfffeThose whose footste
 ローテーションバトルは　ポケモン\xfffe３びきでの　ポケモンしょうぶ　よ！
 If you turn a parasol around,\xfffeit's like a flower blossoming in the rain!\xf000븁\x0000
 えい！　パラソルを　まわして\xfffeすいてき　とばしてあげる！
-あめのひに　かさをさすのも\xfffeコートをきるのも　ぬれちゃうのも\xf000븀\x0000\xfffeすきなように　すれば　いいの！
+On rainy days, use a parasol,\xfffewear a coat, or get wet.\xf000븀\x0000\xfffeDo as you like!
 ほんものの　つりびとは\xfffeきが　みじかい！　しょうぶ！！\xf000븁\x0000
 I lost!\xfffeIt's the end!!
 How do I know that real Fishermen\xfffeare so impatient?\xf000븁\x0000\xfffeBecause we change places frantically\xfffeif we cannot catch Pokémon!
@@ -1744,7 +1744,7 @@ This feeling of defeat...\xfffeis like a bottomless swamp...
 Stay still and listen carefully!\xfffeHear the sounds of nearby Pokémon...\xf000븀\x0000\xfffethe breath of trees and swamps.
 トレーナーが　いれば\xfffeとにかく　しょうぶを　する！\xf000븁\x0000
 そんな　つよい　トレーナー\xfffeみたことも　きいたことも　ない！
-だれとでも　しょうぶ　するよ\xf000븁\x0000\xfffeだって　ぼくが　みたことのない\xfffeみずタイプの　ポケモンを\xf000븀\x0000\xfffeみせてくれるかも　しれないからね
+If there are Trainers,\xfffeI just have battles with them.\xf000븁\x0000\xfffeBecause they may show me\xfffeWater-type Pokémon\xf000븀\x0000\xfffeI've never seen.\xf000븁\x0000
 あとすこし……\xfffeきっかけが　ほしい！！\xf000븁\x0000
 ……できた！\xfffeにゅうこんの　はいく！
 みずうみに　うつるわたしに\xfffeかった　きみ……

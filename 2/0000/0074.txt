@@ -193,7 +193,7 @@ As you collect Badges, the Pokémon you've\xfffepicked up by trading will start 
 The Ready button is an easy shortcut\xfffeto frequently used functions and items.\xfffe\xfffeOnce you register something with the\xfffeReady button, just press the Y Button\xfffeto use that item or function instantly.
 You may see boxes on the Touch Screen when\xfffeyou open the menu by pressing the X Button.\xfffe\xfffeTap the box and a check mark will appear in it.\xfffe\xfffeFunctions and items with check marks\xfffenext to them are the ones that\xfffeare registered to the Ready button.
 You will see boxes next to item names\xfffein the Key Items Case, as well.\xfffe\xfffeTap to check them, and they will be\xffferegistered to work with the Ready button.
-べんりボタンには　３４こ　まで\xfffeどうぐや　きのうを　とうろく　できます。\xfffeとうろくを　かいじょ　したい　ばあいは\xfffeしかくい　マークを　タッチするか\xfffeＹボタンを　おして\xfffeチェックを　はずして　ください。\xfffe２つ　いじょう　とうろく　していると\xfffeセレクトボタンで　べんりボタンの\xfffeこうもくを　ならびかえることが　できます。
+You can register up to 34 functions and items\xfffewith the Ready button.\xfffe\xfffeTo unregister, tap a checked box to remove\xfffethe check mark, or press the Y button.\xfffe\xfffePress SELECT to change the order of the\xfffefunctions and items on the list.
 「メダルラリー」は　プレイヤーが　した\xfffeいろんなことを　ひょうかして\xfffeメダルを　プレゼントする　システムです。\xfffe\xfffeてにいれた　メダルは　バッグの\xfffe「たいせつなもの」にある\xfffe「メダルボックス」を　えらぶことで\xfffeかくにん　することが　できます。
 メダルは　じょうけんを　みたすと\xfffeポケモンセンターに　あらわれる\xfffe「メダルおやじ」に　はなしかけることで\xfffeてにいれることが　できます。
 Insert one of the following games in another\xfffeDS system and turn the power ON.\xfffe- Pokémon Diamond Version\xfffe- Pokémon Pearl Version\xfffe- Pokémon Platinum Version\xfffe- Pokémon HeartGold Version\xfffe- Pokémon SoulSilver Version\xfffeThen tap DS Download Play in the DS Menu\xfffeto select Poké Transfer.
