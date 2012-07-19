@@ -7,15 +7,15 @@ Saving...\xfffeDon't turn off the power.
 OK, OK. Come here. Stand right there!\xf000븁\x0000
 Well, let's begin! Allons-y!\xf000븁\x0000
 Great! Molto bene!\xf000븁\x0000
-きたいどおりの　うでまえだ！\xfffeポケシフターが　うごいている！\xf000븁\x0000\xfffe……だが　\xf000Ā\x0001\x0000くん！\xf000븁\x0000\xfffeぼくの　めは　ごまかせんよ！\xfffe\xf000Ā\x0001\x0000くんは\xf000븀\x0000\xfffeまだまだ　ちからを\xf000븀\x0000\xfffeかくしもって　いるだろう！\xf000븁\x0000\xfffeきみほどの　トレーナーなら\xfffeもっともっと　ポケシフターを\xf000븀\x0000\xfffeつかいこなせる　はずだ！\xf000븁\x0000
-ンー　すばらしいッ！\xf000븁\x0000\xfffeいやはや　ファンタスティックッ！\xf000븁\x0000\xfffeきみの　うでは　たいしたものだ！\xf000븁\x0000\xfffeこれでこそ\xfffeわれわれ　サイエンティストも\xf000븁\x0000\xfffeけんきゅうの　しがいが\xfffeあるって　ものだ！\xf000븁\x0000\xfffeだが　\xf000Ā\x0001\x0000くん！\xfffeきみほどの　トレーナーなら\xf000븁\x0000\xfffeもっと　エレガントに\xfffeつかいこなせる……\xf000븀\x0000\xfffeそんな　きが　しているよ！\xf000븁\x0000\xfffeぜひ　その　てんさいてきな\xfffeポケシフター　さばきを　きわめて\xf000븀\x0000\xfffeわれわれに　みせてくれ！\xf000븁\x0000
+きたいどおりの　うでまえだ！\xfffeポケシフターが　うごいている！\xf000븁\x0000\xfffe...だが　\xf000Ā\x0001\x0000くん！\xf000븁\x0000\xfffeぼくの　めは　ごまかせんよ！\xfffe\xf000Ā\x0001\x0000くんは\xf000븀\x0000\xfffeまだまだ　ちからを\xf000븀\x0000\xfffeかくしもって　いるだろう！\xf000븁\x0000\xfffeきみほどの　トレーナーなら\xfffeもっともっと　ポケシフターを\xf000븀\x0000\xfffeつかいこなせる　はずだ！\xf000븁\x0000
+ンー　すばらしいッ！\xf000븁\x0000\xfffeいやはや　ファンタスティックッ！\xf000븁\x0000\xfffeきみの　うでは　たいしたものだ！\xf000븁\x0000\xfffeこれでこそ\xfffeわれわれ　サイエンティストも\xf000븁\x0000\xfffeけんきゅうの　しがいが\xfffeあるって　ものだ！\xf000븁\x0000\xfffeだが　\xf000Ā\x0001\x0000くん！\xfffeきみほどの　トレーナーなら\xf000븁\x0000\xfffeもっと　エレガントに\xfffeつかいこなせる...\xf000븀\x0000\xfffeそんな　きが　しているよ！\xf000븁\x0000\xfffeぜひ　その　てんさいてきな\xfffeポケシフター　さばきを　きわめて\xf000븀\x0000\xfffeわれわれに　みせてくれ！\xf000븁\x0000
 グレイト！　グレイトォオッ！\xf000븁\x0000\xfffeポケシフターは　かくじつに\xfffeしんかを　とげているよ！\xf000븁\x0000\xfffeいやあ　アンビリバボゥッ！！\xfffeどれも　これも　きみの　おかげだよ！\xf000븁\x0000\xfffeこれからも　ぜひ\xfffeわれわれの　リサーチに\xf000븀\x0000\xfffeちからを　かしてくれないか！\xf000븁\x0000\xfffeポケシフターなら　いつでも\xfffeきがねなく　つかってくれよ！\xf000븁\x0000
-……　……\xfffe……　……\xf000븁\x0000\xfffe……　……\xfffe……　……\xf000븁\x0000\xfffeグ……\xf000븁\x0000\xfffeグレイトッ！\xf000븁\x0000\xfffeグレイトォッ！\xf000븁\x0000\xfffeファーンターーースティーーック！\xf000븁\x0000\xfffeきみの　ポケシフターさばきは\xfffeほんっとうに　しげきてきだ！\xf000븁\x0000\xfffeおほぉっ　ポケシフターが　いよいよ\xfffeかんせいに　ちかづいているぞ！\xf000븁\x0000\xfffeもう　またすぐ　きてくれ！\xfffeすかさず　きてくれ！\xf000븁\x0000\xfffeそして　さらに　すばらしい\xfffeポケシフターさばきを\xf000븀\x0000\xfffeわれわれに　みせてくれッ！\xf000븁\x0000
+...　...\xfffe...　...\xf000븁\x0000\xfffe...　...\xfffe...　...\xf000븁\x0000\xfffeグ...\xf000븁\x0000\xfffeグレイトッ！\xf000븁\x0000\xfffeグレイトォッ！\xf000븁\x0000\xfffeファーンターーースティーーック！\xf000븁\x0000\xfffeきみの　ポケシフターさばきは\xfffeほんっとうに　しげきてきだ！\xf000븁\x0000\xfffeおほぉっ　ポケシフターが　いよいよ\xfffeかんせいに　ちかづいているぞ！\xf000븁\x0000\xfffeもう　またすぐ　きてくれ！\xfffeすかさず　きてくれ！\xf000븁\x0000\xfffeそして　さらに　すばらしい\xfffeポケシフターさばきを\xf000븀\x0000\xfffeわれわれに　みせてくれッ！\xf000븁\x0000
 オオオオオッ\xfffeいよいよだ！　いよいよだぞ！\xf000븁\x0000\xfffeあといっぽで　ポケシフターは\xfffeファンタスティックな\xf000븀\x0000\xfffeはつめいひん　として\xf000븀\x0000\xfffeれきしに　そのなを　きざむだろう！\xf000븁\x0000
-\xf000Ā\x0001\x0000くん！\xf000븁\x0000\xfffeやはり　ぼくのかんは\xfffeただしかった……\xf000븁\x0000\xfffeきみは　ジーニアスだ！\xfffeてんさいだッ！\xf000븁\x0000\xfffeこれほど　プロフェッショナルに\xfffeポケシフターを　あつかえるのは\xf000븁\x0000\xfffeもう　きみ　いがいに\xfffeだれひとりとして　いないだろう！\xf000븁\x0000\xfffeこれからも　いつでも\xfffeポケシフターを　つかってくれ！\xf000븁\x0000\xfffeぼくらは　いつでも　さらなる\xfffeけんきゅうを　つづけるため\xf000븀\x0000\xfffeいつでも　ここにいるよ！\xf000븁\x0000\xfffeポケシフターを　つかいたいときは\xfffeこえを　かけてくれたまえよ！\xf000븁\x0000
+\xf000Ā\x0001\x0000くん！\xf000븁\x0000\xfffeやはり　ぼくのかんは\xfffeただしかった...\xf000븁\x0000\xfffeきみは　ジーニアスだ！\xfffeてんさいだッ！\xf000븁\x0000\xfffeこれほど　プロフェッショナルに\xfffeポケシフターを　あつかえるのは\xf000븁\x0000\xfffeもう　きみ　いがいに\xfffeだれひとりとして　いないだろう！\xf000븁\x0000\xfffeこれからも　いつでも\xfffeポケシフターを　つかってくれ！\xf000븁\x0000\xfffeぼくらは　いつでも　さらなる\xfffeけんきゅうを　つづけるため\xf000븀\x0000\xfffeいつでも　ここにいるよ！\xf000븁\x0000\xfffeポケシフターを　つかいたいときは\xfffeこえを　かけてくれたまえよ！\xf000븁\x0000
 I put the Pokémon you caught\xfffein your PC Box.\xf000븁\x0000
 But, it seems you could not\xfffecatch any Pokémon.\xf000븁\x0000
-ぐっ……\xfffeつうしんエラーが　おきたみたいだ\xf000븁\x0000\xfffeざんねんだが　もういちど\xfffeやりなおして　みてくれ！\xf000븁\x0000
+ぐっ...\xfffeつうしんエラーが　おきたみたいだ\xf000븁\x0000\xfffeざんねんだが　もういちど\xfffeやりなおして　みてくれ！\xf000븁\x0000
 あら　こんにちは！\xf000븁\x0000\xfffeここにきた　ということは\xfffeあなた　けんがくしゃ　ね？\xf000븁\x0000\xfffeえ　ちがうの？\xfffeよく　こんなとこまで　きたわねぇ\xf000븁\x0000\xfffeへぇ　そう　トレーナーなの？\xfffeたびの　とちゅうなの？\xf000븁\x0000\xfffeあら　これが\xfffeあなたの　トレーナーカード？\xf000븁\x0000
 W-w-what? You!\xfffeYou have all the Gym Badges?!\xf000븁\x0000
 Great!\xfffeYou may be able to...\xf000븁\x0000
@@ -23,11 +23,11 @@ Professor Paaaaaark!\xf000븁\x0000
 Quick, quick!\xf000븁\x0000
 Oh, there you are!\xf000븁\x0000
 はかせ！\xf000븁\x0000\xfffeちょっと　いいかしら？\xfffeいいわよね！　きいて！\xf000븁\x0000\xfffeこのこ　なんと　ぜんバッジ　もってる\xfffeトレーナー　なのよ！\xf000븁\x0000\xfffeこのこなら　きっと\xfffeアレを　うごかせるわ！\xf000븁\x0000
-だから　なんども\xfffeいっているだろう\xf000븁\x0000\xfffeこの　はつめいは\xfffeたーしかに　グレイトな　ものだが\xf000븁\x0000\xfffeプロフェッショナルな\xfffeトレーナーが　いなくては……\xf000븁\x0000
+だから　なんども\xfffeいっているだろう\xf000븁\x0000\xfffeこの　はつめいは\xfffeたーしかに　グレイトな　ものだが\xf000븁\x0000\xfffeプロフェッショナルな\xfffeトレーナーが　いなくては...\xf000븁\x0000
 What? You have the Gym Badges?\xfffeALL of them?!\xf000븁\x0000
 ファンタスティック！\xf000븁\x0000\xfffeファンタスティコー！\xf000븁\x0000
 Yahoooooooooooooooo!\xf000븁\x0000
-なんて　すばらしい　ひだ！\xfffeグレイト！　しんじられない！\xf000븁\x0000\xfffeやあ　ぼくは\xfffeアンドリュー・パークはかせ！\xf000븁\x0000\xfffeきみ！\xfffeえーと……\xf000븁\x0000
+なんて　すばらしい　ひだ！\xfffeグレイト！　しんじられない！\xf000븁\x0000\xfffeやあ　ぼくは\xfffeアンドリュー・パークはかせ！\xf000븁\x0000\xfffeきみ！\xfffeえーと...\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xf000븁\x0000
 \xf000Ā\x0001\x0000! Are you willing to\xfffeparticipate in an ambitious experiment\xf000븀\x0000\xfffethat will make history?\xf000븁\x0000\xfffeThis device is called Poké Transfer.\xf000븁\x0000\xfffeIt connects...blah blah blah...\xfffe...called DS system...meanwhile...\xf000븁\x0000\xfffe...blah blah...of molecules...and then...\xfffe...while evoking...blah blah...\xf000븁\x0000\xfffe...ergo, energy particles will...\xfffe...blah blah...and if the frequency...\xf000븁\x0000\xfffe...as you see...with faraway Pokémon...\xfffe...the Alpha waves...blah blah...\xf000븁\x0000\xfffe...following which...reach convergence...\xfffe...blah blah...spectacular results!\xf000븁\x0000
 つまりね\xf000븁\x0000\xfffeこの　そうちを　つかえば\xfffeポケモンを　べつの　ちほうから\xf000븀\x0000\xfffeつれてこられるかも　しれないの\xf000븁\x0000\xfffeただし　ポケモンたちが\xfffeもっている　どうぐは　ダメね！\xf000븁\x0000\xfffeあんぜんに　つれてくるのは\xfffeてぶらが　いちばん　なのよ\xf000븁\x0000

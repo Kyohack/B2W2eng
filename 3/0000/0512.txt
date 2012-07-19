@@ -25,8 +25,8 @@ Wait, Trainer!\xf000븁\x0000\xfffeYour title on your Trainer Card\xfffeis still
 It seems you can't use it yet.
 The Xtransceiver is ringing.
 \xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
-おや？\xfffeきみは……\xf000븁\x0000
-わるいね……\xf000븁\x0000\xfffeきみを　みていたら\xfffeなぜだか　はなしこんでしまったよ
+おや？\xfffeきみは...\xf000븁\x0000
+わるいね...\xf000븁\x0000\xfffeきみを　みていたら\xfffeなぜだか　はなしこんでしまったよ
 おきゃくさま！\xf000븁\x0000\xfffeランダムマッチの　さんかちゅうに\xfffeほんたいの　でんげんが　きれましたね\xf000븁\x0000\xfffe１じかん\xfffeランダムマッチや　Ｗｉ－Ｆｉたいかいで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeまた　おこしください\xf000븁\x0000
 Battle Points will be awarded\xfffefor your victorious outcome.\xf000븁\x0000
 \xf000Ā\x0001\x0000 received \xf000ȁ\x0001\x0001 BP!

@@ -16,16 +16,16 @@ Back
 キダチ『ちょっと　ママ！\xf000븁\x0000\xfffeあんないを　していたのに\xfffeとつぜん　わりこんだら　おどろきますよ\xf000븁\x0000\xfffeそれに　ママ\xfffeじこしょうかいも　してないでしょ？\xf000븁\x0000
 ああ　そうだったね\xf000븁\x0000\xfffeあたしは　アロエ\xfffeこの　はくぶつかんの　かんちょうさ！\xf000븁\x0000\xfffeいつもは　おくに　こもっているから\xfffeヒマなら　あそびに　おいで！\xf000븁\x0000
 ああ　そうだったね\xf000븁\x0000\xfffeあたしは　アロエ\xfffeこの　はくぶつかんの　かんちょうさ！\xf000븁\x0000\xfffeいつもは　おくに　こもっているから\xfffeカセキが　ほしくなったら\xf000븀\x0000\xfffeあそびに　おいで！\xf000븁\x0000
-キダチ『ママったら……\xfffeでは　きを　とりなおして\xf000븁\x0000\xfffeこちらの　こっかく……\xfffeドラゴンタイプの　ポケモンですね\xf000븁\x0000\xfffeおそらく　せかいかくちを\xfffeとびまわっている　うちに\xf000븁\x0000\xfffeなんらかの　じこにあって\xfffeそのまま　カセキに　なったようです\xf000븁\x0000
+キダチ『ママったら...\xfffeでは　きを　とりなおして\xf000븁\x0000\xfffeこちらの　こっかく...\xfffeドラゴンタイプの　ポケモンですね\xf000븁\x0000\xfffeおそらく　せかいかくちを\xfffeとびまわっている　うちに\xf000븁\x0000\xfffeなんらかの　じこにあって\xfffeそのまま　カセキに　なったようです\xf000븁\x0000
 デオキシスという　ポケモンは\xfffeいんせきの　パワーを　あびて\xf000븀\x0000\xfffeすがたを　かえることが　わかりました\xf000븁\x0000
-ああ！\xfffeこちらです　こちら！\xf000븁\x0000\xfffeこれが　あの　ダークストーンの\xfffeレプリカ　なんですよ！\xf000븁\x0000\xfffeごぞんじ　ですか？\xfffeダークストーン！\xf000븁\x0000\xfffeでんせつポケモン　ゼクロムが\xfffeねむりに　ついたときの　すがた……\xf000븁\x0000\xfffeえっ？　ゼクロムを　みた？\xfffeそりゃ　すごい！　でしたら\xf000븀\x0000\xfffeわたしの　かいせつは　だそくですね\xf000븁\x0000
-ああ！\xfffeこちらです　こちら！\xf000븁\x0000\xfffeこれが　あの　ライトストーンの\xfffeレプリカ　なんですよ！\xf000븁\x0000\xfffeごぞんじ　ですか？\xfffeライトストーン！\xf000븁\x0000\xfffeでんせつポケモン　レシラムが\xfffeねむりに　ついたときの　すがた……\xf000븁\x0000\xfffeえっ？　レシラムを　みた？\xfffeそりゃ　すごい！　でしたら\xf000븀\x0000\xfffeわたしの　かいせつは　だそくですね\xf000븁\x0000
+ああ！\xfffeこちらです　こちら！\xf000븁\x0000\xfffeこれが　あの　ダークストーンの\xfffeレプリカ　なんですよ！\xf000븁\x0000\xfffeごぞんじ　ですか？\xfffeダークストーン！\xf000븁\x0000\xfffeでんせつポケモン　ゼクロムが\xfffeねむりに　ついたときの　すがた...\xf000븁\x0000\xfffeえっ？　ゼクロムを　みた？\xfffeそりゃ　すごい！　でしたら\xf000븀\x0000\xfffeわたしの　かいせつは　だそくですね\xf000븁\x0000
+ああ！\xfffeこちらです　こちら！\xf000븁\x0000\xfffeこれが　あの　ライトストーンの\xfffeレプリカ　なんですよ！\xf000븁\x0000\xfffeごぞんじ　ですか？\xfffeライトストーン！\xf000븁\x0000\xfffeでんせつポケモン　レシラムが\xfffeねむりに　ついたときの　すがた...\xf000븁\x0000\xfffeえっ？　レシラムを　みた？\xfffeそりゃ　すごい！　でしたら\xf000븀\x0000\xfffeわたしの　かいせつは　だそくですね\xf000븁\x0000
 つぎの　へやは　としょしつ\xfffeその　おくは　かんちょうしつ　です\xf000븁\x0000\xfffeちなみに　かんちょうの　アロエは\xfffeもと　ジムリーダー　なのです
 Skeletal specimens are so mysterious...\xf000븁\x0000\xfffeFrom the outside, you can't see their\xfffefunctional, efficient design.\xf000븁\x0000\xfffeIt's almost as if it is an embodiment of\xfffetheir former essence... So fascinating!
 Rare Pokémon from around the world...\xfffeMuseums are packed with adventure!
 かんちょうの　アロエさんは\xfffeカセキや　ポケモンのホネ　の\xf000븁\x0000\xfffeけんきゅうが　いそがしすぎて\xfffeジムリーダーを　やすんでるって！
 もしかすると　いんせきと　いっしょに\xfffeうちゅうから　やってきた\xf000븀\x0000\xfffeポケモンも　いるかもしれんのう
-ガラガラの　もつ　ふといホネ……\xf000븁\x0000\xfffeカラカラが　ははおやの　ホネを\xfffeかぶって　すごすように\xf000븁\x0000\xfffeガラガラも　したしい　だれかの\xfffeホネで　ふるって　たたかうのかしら
+ガラガラの　もつ　ふといホネ...\xf000븁\x0000\xfffeカラカラが　ははおやの　ホネを\xfffeかぶって　すごすように\xf000븁\x0000\xfffeガラガラも　したしい　だれかの\xfffeホネで　ふるって　たたかうのかしら
 あんた！\xfffeホネは　かたるのさ！\xf000븁\x0000
 あんたなら　だいじょうぶだろうけど\xfffeひとと　いけんが　ちがっても\xf000븀\x0000\xfffeそれが　あたりまえ　なんだからね\xf000븁\x0000\xfffeいちいち　もめるんじゃないよ\xfffeむしろ　たのしみなよ\xf000븀\x0000\xfffeなぜ　そうおもうのか　ってね！
 This is a skeletal specimen from a\xfffePokémon that flew around the world.

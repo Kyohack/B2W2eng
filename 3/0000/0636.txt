@@ -1,14 +1,14 @@
-わたしは\xfffeジムバッジに　こめられた　おもい……\xf000븁\x0000\xfffeあなたと　いっしょに　たたかった\xfffeポケモンが　わかるのです\xf000븁\x0000\xfffeあなたの　もっている\xfffeジムバッジを　みても　いいですか？
+わたしは\xfffeジムバッジに　こめられた　おもい...\xf000븁\x0000\xfffeあなたと　いっしょに　たたかった\xfffeポケモンが　わかるのです\xf000븁\x0000\xfffeあなたの　もっている\xfffeジムバッジを　みても　いいですか？
 OK. You don't have to show me anything.\xfffeI'm sure your memories are all you need!
 どの　ジムバッジに\xfffeこめられた　おもいを　みましょうか？
 You got the Basic Badge with...\xf000븁\x0000
-あなたが　トキシックバッジを\xfffeてにしたときの　ポケモンは……\xf000븁\x0000
+あなたが　トキシックバッジを\xfffeてにしたときの　ポケモンは...\xf000븁\x0000
 You got the Insect Badge with...\xf000븁\x0000
 You got the Bolt Badge with...\xf000븁\x0000
 You got the Quake Badge with...\xf000븁\x0000
 You got the Jet Badge with...\xf000븁\x0000
 You got the Legend Badge with...\xf000븁\x0000
-あなたが　ウェーブバッジを\xfffeてにしたときの　ポケモンは……\xf000븁\x0000
+あなたが　ウェーブバッジを\xfffeてにしたときの　ポケモンは...\xf000븁\x0000
 \xf000ā\x0001\x0000.\xf000븁\x0000
 \xf000ā\x0001\x0000 and \xf000ā\x0001\x0001.\xf000븁\x0000
 \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, and\xfffe\xf000ā\x0001\x0002.\xf000븁\x0000
@@ -25,6 +25,6 @@ Jet Badge
 Legend Badge
 ウェーブバッジ
 Back
-えっ？　その　ジムバッジは\xfffeまだ　てに　いれてないけど……\xf000븁\x0000
+えっ？　その　ジムバッジは\xfffeまだ　てに　いれてないけど...\xf000븁\x0000
 ほんかん　ここに　ふにんしてから\xfffeなーんも　することが　ないのだ\xf000븁\x0000\xfffeよるは　そとに　だれも　いないし\xfffeへいわ　そのもの　だからなー
 よるは　そとに　だれも　いなくて\xfffeへいわ　だった　その　わけが\xf000븁\x0000\xfffeおそろしーい\xfffeポケモンの　おかげとは　ふくざつだな

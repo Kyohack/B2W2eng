@@ -13,7 +13,7 @@ Rood: Team Plasma is...\xfffemuch like that trainer...\xf000븁\x0000\xfffeOnce 
 Rood: This Pokémon...\xfffeWould you take care of this Zorua?  
 Rood: Ah! Thank you for letting\xfffeme rely on you!\xf000븁\x0000
 Rood: Ah! Thank you for letting\xfffeme rely on you!\xf000븁\x0000\xfffeDear me!　You don't seem to have\xfffespace in your party.
-Rood: ……きが　かわれば\xfffeまた　はなしかけてほしい
+Rood: ...きが　かわれば\xfffeまた　はなしかけてほしい
 That Zorua was \xfffeMaster N's friend.\xf000븀\x0000\xfffeIt helped Master N.\xf000븁\x0000\xfffeMaster N borrowed the strength\xfffeof Unova and this Zorua.\xf000븀\x0000\xfffePokémon seem quite numerous...
 That Zorua had a long journey.\xfffeMaster N relied on that\xf000븀\x0000\xfffePokémon as a friend.
 Master N understood the amazing power \xfffein the hearts of Pokémon.\xf000븁\x0000\xfffeOn the other hand,　he had yet to\xfffeunderstand the hearts and feelings\xf000븀\x0000\xfffeof other people...\xf000븁\x0000\xfffeHaving said that, Team Plasma's\xfffeking　seemed troubled about Unova.\xf000븁\x0000\xfffeHe went on a journey with\xfffeLegendary Pokémon to make up for\xf000븁\x0000\xfffe his faults.\xf000븀\x0000\xfffeそだっておられると　いいのだが
@@ -23,14 +23,14 @@ N was an orphan.\xf000븁\x0000\xfffeRegardless of his birth, he\xfffewas able t
 To me...\xfffethe pure and innocent N's feelings\xf000븀\x0000\xfffewere something I didn't understand.\xf000븁\x0000\xfffeですが　Legendary Pokémonの\xfffejourneyで find something\xf000븁\x0000\xfffepersonal　intentionで\xfffedid what he wanted to do.\xf000븀\x0000\xfffeとても　よろこばしいこと　です
 We wait for Master N's return.\xfffePokémon can speak with Master N!\xf000븁\x0000\xfffeIn that case, we are here.\xfffeHe understands Pokémon's wishes.
 The original owner can't be found.\xfffeTherefore, take care of it.\xf000븁\x0000\xfffeI realize this is self satisfaction, but\xfffeThis is at least my attonement.
-かこは　かえられないが\xfffeみらいは　かえられる……！\xf000븁\x0000\xfffeなので　かっこうを　かえました\xfffe……ふとったからでは　ありません
-この　ミネズミ\xfffeあたしに　なついちゃって……\xf000븁\x0000\xfffeだから　どうぐあつかいを　やめて\xfffeきちんと　むきあってんの！
+かこは　かえられないが\xfffeみらいは　かえられる...！\xf000븁\x0000\xfffeなので　かっこうを　かえました\xfffe...ふとったからでは　ありません
+この　ミネズミ\xfffeあたしに　なついちゃって...\xf000븁\x0000\xfffeだから　どうぐあつかいを　やめて\xfffeきちんと　むきあってんの！
 うぉふ　うぉおぉふっ！
 ききゅう！！
 ずるるるう！
 Skreeree...
 きゅぬーん！
-\xf000Ā\x0001\x0001『なんだよ\xf000븁\x0000\xfffeにげた　プラズマだんが\xfffeおきざりに　した　ポケモンが\xf000븀\x0000\xfffeけっこう　いるんだって\xf000븁\x0000\xfffeで　オレも\xfffeもちぬしさがしを　てつだうんだ\xf000븁\x0000\xfffe……それはさておき\xf000븁\x0000\xfffeオマエ　せっかく　きたんだから\xfffeオレと　しょうぶ　していけよッ！
+\xf000Ā\x0001\x0001『なんだよ\xf000븁\x0000\xfffeにげた　プラズマだんが\xfffeおきざりに　した　ポケモンが\xf000븀\x0000\xfffeけっこう　いるんだって\xf000븁\x0000\xfffeで　オレも\xfffeもちぬしさがしを　てつだうんだ\xf000븁\x0000\xfffe...それはさておき\xf000븁\x0000\xfffeオマエ　せっかく　きたんだから\xfffeオレと　しょうぶ　していけよッ！
 \xf000Ā\x0001\x0001『なあ　\xf000Ā\x0001\x0000\xfffeオレと　しょうぶ　していけよッ！
 \xf000Ā\x0001\x0001『いくぜッ！！\xf000븁\x0000
 \xf000Ā\x0001\x0001『まっ\xfffeそれでも　いいけど

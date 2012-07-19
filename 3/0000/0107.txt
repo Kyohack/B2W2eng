@@ -11,7 +11,7 @@ Team Plasma: N! Ha!\xf000븁\x0000\xfffeOnly a traitor of the King of\xfffeTeam 
 Team Plasma\xfffeはなしを　きかせろ\xf000븁\x0000
 Team Plasma: いってえ...\xf000븁\x0000\xfffeって　なんだ　このヤロウ!?\xf000븁\x0000\xfffeって　ダメか\xfffeここで　さわぎを　おこすな\xf000븁\x0000\xfffeそう　いわれているんだ\xfffeおまえの　あいては　こんど!\xf000븁\x0000
 \xf000Ā\x0001\x0001『にがすかッ!\xf000븁\x0000
-Original Team Plasma: It's okay!\xf000븁\x0000\xfffeThey're an old friend of\xfffeTeam Plasma's...\xf000븁\x0000\xfffeだけど　２ねんまえ\xfffePokémonを　すくいたいと　ねがう\xf000븀\x0000\xfffeＮさまに　したがう　ものたちと\xf000븁\x0000\xfffeせかいせいふくを　たくらんだ\xfffeゲーチスの　グループに　わかれ……\xf000븁\x0000\xfffeあっ!　わたしたちの　いえで\xfffeくわしい　はなしが　きけます\xf000븁\x0000\xfffePokémonジムの　となり\xfffeこだかい　ばしょに　ありますから\xf000븁\x0000
+Original Team Plasma: It's okay!\xf000븁\x0000\xfffeThey're an old friend of\xfffeTeam Plasma's...\xf000븁\x0000\xfffeだけど　２ねんまえ\xfffePokémonを　すくいたいと　ねがう\xf000븀\x0000\xfffeＮさまに　したがう　ものたちと\xf000븁\x0000\xfffeせかいせいふくを　たくらんだ\xfffeゲーチスの　グループに　わかれ...\xf000븁\x0000\xfffeあっ!　わたしたちの　いえで\xfffeくわしい　はなしが　きけます\xf000븁\x0000\xfffePokémonジムの　となり\xfffeこだかい　ばしょに　ありますから\xf000븁\x0000
 Original Team Plasma『ロットさま\xfffeほら　きましたよ!\xf000븁\x0000
 こっちです　こっち!\xf000븁\x0000
 Sage: ほう!\xfffeTeam Plasmaに　きょうみが　あるのか\xf000븁\x0000
@@ -21,28 +21,28 @@ Sage: では!\xf000븁\x0000
 Sage: では　おひきとりを
 Sage: ここに　はいるなら\xfffeあなた　という　Trainerが\xf000븀\x0000\xfffeどんな　じんぶつか　みせてもらいたい\xf000븁\x0000\xfffeそう　Pokémon Battle　でな\xfffeそれで　よろしいか?
 Original Team Plasma: I'm sorry...\xf000븁\x0000\xfffeロットさまは　わたしたちを\xfffeまもるため　ああ　おっしゃってます
-Sage: Sorry!\xfffeためすような　まねをして　わるかった\xf000븁\x0000\xfffeOriginal Team Plasmaと　いうことで\xfffeいろいろ　あるのだよ……\xf000븁\x0000
+Sage: Sorry!\xfffeためすような　まねをして　わるかった\xf000븁\x0000\xfffeOriginal Team Plasmaと　いうことで\xfffeいろいろ　あるのだよ...\xf000븁\x0000
 \xf000Ā\x0001\x0001: にげられた!\xf000븁\x0000
-Sage: そちらは?\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffeごゆうじん?\xfffeならば　ごいっしょに\xf000븁\x0000
+Sage: そちらは?\xf000븁\x0000\xfffe...　...　...\xfffe...　...　...\xf000븁\x0000\xfffeごゆうじん?\xfffeならば　ごいっしょに\xf000븁\x0000
 \xf000Ā\x0001\x0001: ちょうせん　か?\xfffeいいぞ!　どんどん　つよくなれ!\xf000븁\x0000\xfffeだけど　いっておくぜ!\xfffeClay　てごわいぞッ\xf000븁\x0000\xfffeじめんタイプに　たいして\xfffeみずタイプの　わざが　あるだけなら\xf000븀\x0000\xfffeちょいと　くろう　するかもな
-\xf000Ā\x0001\x0001: オマエも\xfffeGym Badge　もらったか!　さすがだな\xf000븁\x0000\xfffeあのさ……　Gym Badgeを　とれたのは\xfffeあいぼうたちの　おかげ　だけど\xf000븁\x0000\xfffeオレと　コイツたちの　つながりって\xfffeモンスターボールだけじゃ　ないよな\xf000븁\x0000\xfffeそうでないと\xfffeうばわれた　チョロネコの　きもち……\xf000븀\x0000\xfffeとりもどせないよなッ!\xf000븁\x0000
+\xf000Ā\x0001\x0001: オマエも\xfffeGym Badge　もらったか!　さすがだな\xf000븁\x0000\xfffeあのさ...　Gym Badgeを　とれたのは\xfffeあいぼうたちの　おかげ　だけど\xf000븁\x0000\xfffeオレと　コイツたちの　つながりって\xfffeモンスターボールだけじゃ　ないよな\xf000븁\x0000\xfffeそうでないと\xfffeうばわれた　チョロネコの　きもち...\xf000븀\x0000\xfffeとりもどせないよなッ!\xf000븁\x0000
 Clay: なんだ　おまえら\xfffeしりあい　だったのか?\xf000븁\x0000\xfffeふたりとも　なかなか　だったからな\xfffeいいところへ　つれて　いってやるぞ!\xf000븁\x0000
-\xf000Ā\x0001\x0001: そうだッ　おもいだした!\xfffeClay　あんた……\xf000븁\x0000\xfffeなんで!　なんでッ!\xfffeTeam Plasmaを　ゆるしてるんだよ!?\xf000븁\x0000
+\xf000Ā\x0001\x0001: そうだッ　おもいだした!\xfffeClay　あんた...\xf000븁\x0000\xfffeなんで!　なんでッ!\xfffeTeam Plasmaを　ゆるしてるんだよ!?\xf000븁\x0000
 Clay: なんにだって\xfffeうけざらは　ひつよう　よ\xf000븁\x0000\xfffeそれに　ただしさ　ばかりを　もとめると\xfffeじぶんたち　いがいの　すべての\xf000븀\x0000\xfffeいけん　かんがえを　ひていしかねない\xf000븀\x0000\xfffeそれが　どんなに　あぶないことか\xf000븁\x0000
 \xf000Ā\x0001\x0001: フウン\xfffeそれが　おとなの　はんだん　てやつ?\xf000븁\x0000\xfffeまあ　いいよ!　オレは\xfffeTeam Plasmaと　たたかうからッ!\xf000븁\x0000\xfffeで　さっき　いってた\xfffeいい　ところ　って?\xf000븁\x0000
 Clay: きいたこと　ないか?\xfffePokémon World Tournament\xf000븁\x0000\xfffeかくちの　Trainerを　あつめ\xfffeつよいのは　だれか　きめるのよ!\xf000븁\x0000\xfffeじゃ　おまえら\xfffeまちの　みなみで　まってるぞ!\xf000븁\x0000
-\xf000Ā\x0001\x0001: つよい　ヤツを　きめる\xfffeTournamentか……\xf000븁\x0000\xfffeよーし!\xfffeとっくんだ!　とっくんに　いくぞッ!\xf000븁\x0000
+\xf000Ā\x0001\x0001: つよい　ヤツを　きめる\xfffeTournamentか...\xf000븁\x0000\xfffeよーし!\xfffeとっくんだ!　とっくんに　いくぞッ!\xf000븁\x0000
 So how about this city's pride and joy,\xfffethe drawbridge?\xf000븁\x0000\xfffeWe also call it the Charizard Bridge\xfffedue to its elegant form!
 Pokémonリーグに　いる\xfffeしてんのうは　きわめて　つよくて\xf000븁\x0000\xfffeGym Badgeを　８こ　もってないと\xfffeたたかえないんだって!
 バッグの　どうぐを　いれかえるなら\xfffeセレクトボタンを　おすんです♪\xf000븁\x0000\xfffeなつかしい　コマーシャルソング　ね
-むかし　Team Plasmaに\xfffePokémon　うばわれたんだ……\xf000븁\x0000\xfffeまあ　そのご\xfffeかえして　もらったけどさ
+むかし　Team Plasmaに\xfffePokémon　うばわれたんだ...\xf000븁\x0000\xfffeまあ　そのご\xfffeかえして　もらったけどさ
 ルビルルル...!
 いとしの　Pokémonたちに\xfffeかなしい　おもいを　させない　ために\xf000븀\x0000\xfffeおれは　レベルアップ　したいんだよ
 わーお!　Pokémonが\xfffeなみのりの　わざを　つかえりゃ\xf000븀\x0000\xfffeみずのうえを　すすめるんだぜ!
-まいにち　みていた\xfffeれいとうコンテナ　なのに\xf000븁\x0000\xfffeどんな　ふうけい　だったか\xfffeすっかり　わすれちまったよ……
+まいにち　みていた\xfffeれいとうコンテナ　なのに\xf000븁\x0000\xfffeどんな　ふうけい　だったか\xfffeすっかり　わすれちまったよ...
 かみなりの　Pokémon\xfffeかぜの　Pokémon　あばれまわって\xf000븀\x0000\xfffeだいちの　Pokémonに　しかられた!\xf000븁\x0000\xfffeオレの　すきな　おはなしだよ!
 うみのむこう...　せかいじゅうに\xfffeいろんな　Pokémonが　いるのよね
-ここに　いるのは\xfffeOriginal Team Plasmaの　れんちゅう\xf000븁\x0000\xfffeまた　わるさを　しないか\xfffeしんぱい　なんでな……
+ここに　いるのは\xfffeOriginal Team Plasmaの　れんちゅう\xf000븁\x0000\xfffeまた　わるさを　しないか\xfffeしんぱい　なんでな...
 はなれた　とちを　つなぐ　はし\xf000븁\x0000\xfffeべつべつの　ひとを　つなぐ\xfffePokémon Battleに　Pokémonこうかん\xf000븁\x0000\xfffeということは　Pokémonは　はし　か!
 I'm... a man in love,\xfffeMy name is Charles.\xf000븁\x0000\xfffeI've been studying\xfffea new style of Pokémon battle\xf000븀\x0000to make women swoon!\xf000븁\x0000And its name is the Rotation Battle!\xfffeWant to know about it?
 Oh, man! Getting someone's attention is\xfffereally hard.
@@ -51,7 +51,7 @@ I'm... a man in love,\xfffeMy name is Charles.\xf000븁\x0000\xfffeSo, trainer! 
 You've got dedication!\xf000븁\x0000But I am a man in love!\xfffeMy name is Charles!\xf000븁\x0000I'm always at full throttle!\xf000븁\x0000
 Sorry to rain on your\xfffeburning feelings, but...\xf000븁\x0000A Rotation Battle needs three\xfffePokémon that can fight!
 I'm... a man in love,\xfffeMy name is Charles.\xf000븁\x0000\xfffeHere's some advice from me...\xf000븁\x0000Challenges are life!
-……ふっ　ざまあねえな\xfffeおしえるつもりが　おそわるとはな\xf000븁\x0000\xfffeそれにしても　おまえには\xfffeみどころが　ある\xf000븁\x0000\xfffeじぶんの　Pokémonへの　りかいがなきゃ\xfffeRotation Battleは　かてないからな\xf000븁\x0000\xfffeRotation Battleが　したけりゃ\xfffePokémon World Tournament　だぜ!
+...ふっ　ざまあねえな\xfffeおしえるつもりが　おそわるとはな\xf000븁\x0000\xfffeそれにしても　おまえには\xfffeみどころが　ある\xf000븁\x0000\xfffeじぶんの　Pokémonへの　りかいがなきゃ\xfffeRotation Battleは　かてないからな\xf000븁\x0000\xfffeRotation Battleが　したけりゃ\xfffePokémon World Tournament　だぜ!
 I'm... a man in love,\xfffeMy name is Charles.\xf000븁\x0000\xfffeI love to ride a bike and become\xfffethe wind! Is that such a crime?
 I'm... a man in love,\xfffeMy name is Charles.\xf000븁\x0000\xfffeI've been studying\xfffea new style of Pokémon battle\xf000븀\x0000to make women swoon!\xf000븁\x0000And its name is the Triple Battle!\xfffeWant to know about it?
 Oh, man! Getting someone's attention is\xfffereally hard.
@@ -60,7 +60,7 @@ I'm... a man in love,\xfffeMy name is Charles.\xf000븁\x0000\xfffeSo, trainer! 
 You've got dedication!\xf000븁\x0000But I'm a man in love!\xfffeMy name is Charles!\xf000븁\x0000I'm always at full throttle!\xf000븁\x0000
 Sorry to rain on your\xfffeburning feelings, but...\xf000븁\x0000A Triple Battle needs three\xfffePokémon that can fight!
 I'm... a man in love,\xfffeMy name is Charles.\xf000븁\x0000\xfffeHere's some advice from me...\xf000븁\x0000Challenges are life!
-……ふっ　ざまあねえな\xfffeおしえるつもりが　おそわるとはな\xf000븁\x0000\xfffeそれにしても　おまえには\xfffeみどころが　ある\xf000븁\x0000\xfffeじぶんの　Pokémonへの　りかいがなきゃ\xfffeTriple Battleは　かてないからな\xf000븁\x0000\xfffeもっと　Triple Battleが　したけりゃ\xfffePokémon World Tournament　だぜ!
+...ふっ　ざまあねえな\xfffeおしえるつもりが　おそわるとはな\xf000븁\x0000\xfffeそれにしても　おまえには\xfffeみどころが　ある\xf000븁\x0000\xfffeじぶんの　Pokémonへの　りかいがなきゃ\xfffeTriple Battleは　かてないからな\xf000븁\x0000\xfffeもっと　Triple Battleが　したけりゃ\xfffePokémon World Tournament　だぜ!
 I'm... a man in love,\xfffeMy name is Charles.\xf000븁\x0000\xfffeI love to ride a bike and become\xfffethe wind! Is that such a crime?
 Driftveil Drawbridge
 Welcome to Driftveil City!

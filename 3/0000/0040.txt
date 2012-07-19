@@ -1,8 +1,8 @@
 Castelia City's souvenir would be...\xfffeCasteliacone!!!\xf000븁\x0000\xfffeうちの　おみせ　むかしは\xfffeちょっとした　ブーム　だったんだけど\xf000븁\x0000\xfffeさいきんは　おきゃくさん\xfffeあんまり　こないのよね\xf000븁\x0000\xfffeしょんぼり　してても　しかたがないし\xfffeはりきって　しょうばい　しょうばい！\xf000븁\x0000\xfffeさてさて　ヒウンアイス\xfffe１こ　１００円　です\xf000븀\x0000\xfffeなんこ　おかいあげに　なりますか？
 Castelia City's souvenir would be...\xfffeCasteliacone!!!\xf000븁\x0000\xfffeHow about a cone for\xfffe100 Pokédollars?
 It's the champ!\xfffeヒウンシティの　おみやげに　さいてき\xf000븀\x0000\xfffeヒウンアイス　でーす！\xf000븁\x0000\xfffe１こ　１００円　です\xfffeなんこ　おかいあげに　なりますか？
-Thank you so much!\xf000븁\x0000\xfffe……あれ　あれれ？\xfffeおかねが　たりない　みたいですね\xf000븀\x0000\xfffeまた　きてくださいませ\xf000븁\x0000
-Thank you so much!\xf000븁\x0000\xfffe……あれ　あれれ？\xfffeバッグが　いっぱい　みたいですね\xf000븀\x0000\xfffeまた　きてくださいませ\xf000븁\x0000
+Thank you so much!\xf000븁\x0000\xfffe...あれ　あれれ？\xfffeおかねが　たりない　みたいですね\xf000븀\x0000\xfffeまた　きてくださいませ\xf000븁\x0000
+Thank you so much!\xf000븁\x0000\xfffe...あれ　あれれ？\xfffeバッグが　いっぱい　みたいですね\xf000븀\x0000\xfffeまた　きてくださいませ\xf000븁\x0000
 Even though you waited in line...\xfffeWell, please come again, OK?\xf000븁\x0000
 So much trouble...\xfffePlease come again!
 Thanks for your\xfffepurchase!\xf000븀\x0000\xfffePlease come back!\xf000븁\x0000
@@ -18,7 +18,7 @@ Oooohhhh...\xfffeI ate really fast!
 I'm lining up to get\xfffethem for my daughter...
 Huh?　ここでは　ヒウンで　わだいの\xfffeスィーツを　かうことが　できるんだよ\xf000븀\x0000\xfffeきみも　ならぶかい？
 This is worth lining\xfffeup for!\xf000븁\x0000
-Right...\xfffeこれだけの　ひとの　れつ　だもの\xf000븁\x0000\xfffeでも　ここだけの　はなし……\xfffeチャンピオンも　あいよう　だってさ！\xf000븁\x0000
+Right...\xfffeこれだけの　ひとの　れつ　だもの\xf000븁\x0000\xfffeでも　ここだけの　はなし...\xfffeチャンピオンも　あいよう　だってさ！\xf000븁\x0000
 Huh?　ここでは\xfffeいま　ヒウンシティで　わだいの\xf000븀\x0000\xfffeスィーツを　かえるんだよ\xf000븁\x0000\xfffeでも　きょうは　もう\xfffeぼくで　うりきれ　みたいだ\xf000븁\x0000
 Studio Castelia
 Castelia's Specialty: Casteliacone

@@ -13,7 +13,7 @@ Hello!\xf000븁\x0000\xfffeQuickly delivering a lot!\xfffeMistralton Cargo Servi
 I understand!　それでは\xfffeフウロさんに　れんらく　しますので\xf000븀\x0000\xfffeひこうきに　のって　おまちください\xf000븁\x0000
 はい!\xfffeいつでも　ごりよう　ください!
 すばやく　たくさん　おとどけ!\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000
-あ……!\xfffeそれは　きょかしょう!\xf000븁\x0000\xfffeイッシュちほう　から\xfffeとおくとおく　はなれた\xf000븀\x0000\xfffeしぜんほごくへ　いくための　もの!\xf000븁\x0000\xfffeそれでは\xfffeしぜんほごくに　いかれますか?
+あ...!\xfffeそれは　きょかしょう!\xf000븁\x0000\xfffeイッシュちほう　から\xfffeとおくとおく　はなれた\xf000븀\x0000\xfffeしぜんほごくへ　いくための　もの!\xf000븁\x0000\xfffeそれでは\xfffeしぜんほごくに　いかれますか?
 すばやく　たくさん　おとどけ!\xfffeフキヨセ　カーゴ　サービス　です\xf000븁\x0000\xfffeこんかいは　どちらに　いかれますか?
 Yamaji Town
 Nature Conservatory

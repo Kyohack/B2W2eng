@@ -2,10 +2,10 @@
 きみ！　よかったら\xfffeのうりょくが　きになる　ポケモンを\xf000븀\x0000\xfffeボクに　ジャッジさせてくださいよ！\xf000븁\x0000
 ...Oh?\xfffeYou don't need me to judge. I get it.
 Judge an Egg?!\xfffeThat's a tall order even for me!
-なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは\xfffeまずまずの　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは　へいきん　いじょうの\xfffeのうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは　そうとう\xfffeゆうしゅうな　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは\xfffeすばらしい　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
+なるほど　なるほど...\xf000븁\x0000\xfffeこの　ポケモンは\xfffeまずまずの　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
+なるほど　なるほど...\xf000븁\x0000\xfffeこの　ポケモンは　へいきん　いじょうの\xfffeのうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
+なるほど　なるほど...\xf000븁\x0000\xfffeこの　ポケモンは　そうとう\xfffeゆうしゅうな　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
+なるほど　なるほど...\xf000븁\x0000\xfffeこの　ポケモンは\xfffeすばらしい　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
 Incidentally, I would say the best\xfffepotential lies in its HP.\xf000븁\x0000
 Incidentally, I would say the best\xfffepotential lies in its Attack stat.\xf000븁\x0000
 Incidentally, I would say the best\xfffepotential lies in its Defense stat.\xf000븁\x0000
