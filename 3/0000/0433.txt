@@ -1,30 +1,30 @@
 This tree looks like it can be\xfffecut down! Would you like to cut it?
 \xf000Ă\x0001\x0000 used Cut!\xf000븁\x0000
 This tree looks like it can be\xfffecut down!
-ポケモンの　わざで　こわせそうだ!\xfffeいわくだきを　つかいますか?
-かたそうな　いわ　だけど...\xfffeポケモンの　わざで　こわせるかも?
-\xf000Ă\x0001\x0000は\xfffeいわくだきを　つかった!\xf000븁\x0000
-おおきな　いわ　だけど...\xfffeポケモンの　わざで　おせるかも?\xf000븁\x0000\xfffeかいりきを　つかいますか?
+This rock appears to be breakable.\xfffeWould you like to use Rock Smash?
+It's a big boulder, but a Pokémon\xfffemay be able to push it aside.
+\xf000Ă\x0001\x0000 used Rock Smash!\xf000븁\x0000
+It's a big boulder... but a Pokémon\xfffemay be able to push it aside.\xf000븁\x0000Would you like to use Strength?
 \xf000Ă\x0001\x0000は\xfffeかいりきを　はっき　した!\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000の　かいりきの　おかげで\xfffeいわを　おせるように　なった!
 It's a big boulder, but a Pokémon\xfffemay be able to push it aside.
 Strength made it possible to move\xfffeboulders around.
 \xf000Ă\x0001\x0000 used Strength!\xf000븁\x0000
 \xf000Ă\x0001\x0000's Strength made it\xfffepossible to move boulders around!
-おとした　いわの　うえを\xfffeとおれるように　なった!
+The boulder fell down!
 The water is a deep blue...\xfffeWould you like to surf on it?
 \xf000Ă\x0001\x0000 used Surf!\xf000븁\x0000
 Surf can't be used if you have\xfffesomeone with you.
-ふかい　きりに　おおわれている...\xfffeきりばらいを　つかいますか?
-\xf000Ă\x0001\x0000は\xfffeきりばらいを　つかった!\xf000븁\x0000
-ふかい　きりに　おおわれている...\xfffeポケモンの　わざで　はらえるかも?
-いわはだが　ゴツゴツしている...\xfffeロッククライムを　つかいますか?
-\xf000Ă\x0001\x0000は\xfffeロッククライムを　つかった!\xf000븁\x0000
-いわはだが　ゴツゴツしている...\xfffeポケモンのわざで　いどうできるかも?
-つれあるいている　ときは\xfffeロッククライムを　つかえません!
+A deep fog drapes the area...\xfffeWill a Pokémon's move lift it?
+\xf000Ă\x0001\x0000 used Defog!\xf000븁\x0000
+A deep fog drapes the area...\xfffebut a Pokémon may be able to clear it?
+The wall is very rocky...\xfffeWould you like to use Rock Climb?
+\xf000Ă\x0001\x0000 used Rock Climb!\xf000븁\x0000
+The wall is very rocky...\xfffeWill a Pokémon's move scale it?
+Rock Climb can't be used if you have\xfffesomeone with you!
 It's a large waterfall.\xfffeWould you like to use Waterfall?
 \xf000Ă\x0001\x0000 used Waterfall!\xf000븁\x0000
 A wall of water is crashing down with\xfffea mighty roar.
-さいごに　やすんだ\xfffe\xf000ą\x0001\x0000に　テレポートする?
+Teleport to \xf000ą\x0001\x0000,\xfffethe last place you or your Pokémon rested?
 \xf000Ă\x0001\x0000 used Flash!\xf000븁\x0000
 \xf000Ă\x0001\x0000 used Teleport!\xf000븁\x0000
 \xf000Ă\x0001\x0000 used Dig!\xf000븁\x0000
