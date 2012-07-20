@@ -1,12 +1,12 @@
-たいせんする　あいてと\xfffeせきがいせん　つうしん　します\xf000븁\x0000\xfffeあいてに　せきがいせんを　あわせて\xfffeＡボタンを　おしてください
-おたがいの　えらんでいる\xfffeたいかいが　ちがいます
+Please press A to begin\xfffethe infrared communication\xf000븁\x0000\xfffeto your opponent.
+Each player has chosen\xfffea different tournament.
 Your opponent has been found!
 To start playing\xfffepress the A button.
 You Win
 You Lose
 Its a Draw
-つうしん　たいきちゅう
-Ｗｉ－Ｆｉたいかいに　さんか
+Connection waiting.
+Competed in Wi-Fi
 Participate in a tournament.
-デジタルせんしゅしょうを　みる
+View digital player award
 Back
