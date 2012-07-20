@@ -1,7 +1,7 @@
 I'm still a rookie, but someday\xfffeI will be a great player!\xf000븁\x0000\xfffeI'll improve by having a lot\xfffeof Pokémon battles!\xf000븁\x0000
 Ugh!\xfffeI missed the rebound!
 Since you might be a fan\xfffeof me, here's a gift!\xf000븁\x0000
-まけても　いいわけ　しないぜ！\xf000븁\x0000\xfffeそんなヒマが　あったら\xfffeうまくなるために　できることを\xf000븀\x0000\xfffeするほうが　いいに　きまってる！
+I won't make excuses for losing!\xf000븁\x0000\xfffeWhy waste time dreaming up excuses?\xfffeI'll spend that time getting stronger!
 A young Trainer! It's important for the\xfffeyoung to get lots of exercise, isn't it?\xf000븁\x0000
 A healthy sweat...\xfffeBoy, I am glad that I am an athlete!
 スポーツマンは　きまえがいい\xfffeどーんと　もらってくれよ！\xf000븁\x0000
@@ -31,7 +31,7 @@ Watching a practice makes you feel\xfffethat you are stronger, too,\xf000븀\x00
 タカ『……ぜんぜん\xfffeうまく　できなかったよ\xf000븁\x0000\xfffeシゲ『……さっぱり\xfffeうまく　できなかったよ
 むずかしいことを　さも\xfffeかんたんに　やってみせる……\xf000븁\x0000\xfffeプロフェッショナルの\xfffeすごさ　って　やつだね
 We cannot have\xfffea one-on-two battle.
-いろんな　スポーツの\xfffeチームプレイを　みていたら\xf000븁\x0000\xfffeぼくたちも　コンビで\xfffeたたかって　みたくなったのさ！\xf000븁\x0000
+We were watching various team sports,\xfffeand we wanted to fight as a duo, too!\xf000븁\x0000
 Playing as a team is difficult.\xf000븁\x0000\xfffeWe could do more great things\xfffeif we could understand what\xf000븀\x0000\xfffeother people were thinking!
 We would like to have\xfffea Pokémon battle as a duo.
 リトルコートに　くるだけで\xfffeこうふん　しちゃって！！\xf000븁\x0000
@@ -57,7 +57,7 @@ Even existing sports shine\xfffewith new appeal\xf000븀\x0000\xfffewhen they te
 Aren't you in trouble if you don't have\xfffemore Pokémon that can fight?
 ベースボールと　フットボール！\xfffeどっちが　すき　なの？\xf000븁\x0000
 アミ『よく　わからないままに\xfffeしあい　しゅうりょう……！\xf000븁\x0000\xfffeユキ『あなたと　ポケモンの\xfffeコンビプレイ　すごい！！
-どの　スポーツも　だいすき！\xf000븁\x0000\xfffeだって　どの　ポケモンが　すき？\xfffeそんな　しつもん　こたえられないよね
+I love both tennis and basketball!\xf000븁\x0000\xfffeI can't choose just one of them, just\xfffelike I can't choose my favorite Pokémon.
 えっ！？　たたかえる\xfffeポケモンが　１ぴきだけ！？
 We are always together!\xfffeOur combination play must be great!\xf000븁\x0000
 パートナーと　いきを　あわせ\xfffeポケモンとも　いきを　あわせる\xf000븀\x0000\xfffeタッグバトルって　たいへん！\xf000븁\x0000\xfffeでも　うまく　いきが　あえば\xfffeすっごく　エキサイトしちゃう！
@@ -133,10 +133,10 @@ I bet athletes are not satisfied\xfffewith their games.\xf000븁\x0000\xfffeThat
 Are you pleased with your victory?\xfffeOr are you unsatisfied?
 This Moomoo Milk is tasty\xfffeand so very satisfying!\xf000븁\x0000
 No matter how great their play is,\xfffethere is always a greater play.\xf000븁\x0000\xfffeI am never satisfied with my bread,\xfffeeven though I bake it very well.\xf000븁\x0000\xfffeI always want to make the next\xfffeloaf even more delicious!
-あつくなれる　ばしょ！\xfffeそう　きいて　ここに　きました！\xf000븀\x0000\xfffeあつくして　もらいましょうか！\xf000븁\x0000
+A place where you can warm up!\xfffeThat's what I heard and why I came here!\xf000븀\x0000\xfffeLet's turn up the heat on this thing!\xf000븁\x0000
 The heat here is too much.\xfffeI'm just burning up!
 あつい　きもちを！\xf000븁\x0000
-ハートが　バーニング！\xfffeあつい　しょうぶを　ありがとう！\xf000븁\x0000\xfffeつぎは　スポーツかんせんで\xfffeメラメラ　もえちゃいます！
+My warrior's heart is burning!\xfffeThank you for the hot battle!\xf000븁\x0000\xfffeNext, I will stay on this hot streak\xfffeand watch the game!
 To raise healthy Pokémon, you need\xfffeto keep their minds and bodies active,\xf000븀\x0000\xfffewatching games and having battles!\xf000븁\x0000
 It's so frustrating to lose!\xfffeBut it's also important to learn from it.
 だいじなことを　おもいだせた\xfffeというわけで　えんりょせずに　ね\xf000븁\x0000
@@ -180,7 +180,7 @@ When Pokémon lose energy, Max Revive!\xf000븁\x0000
 おおぜいの　なかから\xfffeぼくに　はなしかけた　きみ！\xf000븀\x0000\xfffeみる　め　あるじゃないか！\xf000븁\x0000
 You are a worthy opponent!
 The way you use moves...\xfffeQuite honestly, I like it!\xf000븁\x0000\xfffeHere, this is for you!\xf000븁\x0000
-ふふ\xf000븁\x0000\xfffeひとごみに　いても　ぼくが\xfffeつよそうだと　ばれちゃうんだな
+Heehee.\xf000븁\x0000\xfffeEven when I am in the crowd,\xfffepeople can tell I am strong.
 I usually act like an Ace Trainer,\xfffebut I want to be an ordinary girl,\xf000븀\x0000\xfffeat least when I am here.\xf000븁\x0000
 I don't want to think about Pokémon\xfffevery much right now!
 If I give you this,\xfffewill you leave me alone?\xf000븁\x0000
@@ -208,7 +208,7 @@ Aghhhhh. Why didn't I bring a camera,\xfffeor a notebook for an autograph?
 Sports and juggling are the same.\xfffeYou must entertain the audience!\xf000븀\x0000\xfffeI will show you the fruits of my practice.\xf000븁\x0000
 While I am having a Pokémon battle,\xfffeI catch ten balls!
 Pal, you're a catch!\xf000븁\x0000
-テクニックは　ついたが\xfffeその　いかしかたが　わからん！\xf000븀\x0000\xfffeやはり　じっせん　あるのみ！
+I have mastered the technique,\xfffebut I cannot use it!\xf000븀\x0000\xfffeI just have to have real battles!
 That incredibly flashy dorm,\xfffeand squealing cheerleaders all around...\xf000븁\x0000\xfffeGrrr...\xfffeI am envious!\xf000븁\x0000
 What is so great about popular athletes?\xfffeWhat is bad about martial artists?
 からてかの　おもいが\xfffeこもっている　これを……\xf000븁\x0000
@@ -386,7 +386,7 @@ I mainly play on offense.\xfffeMy friend is mainly defense.\xf000븁\x0000\xfffe
 おたがいの　やりたいことが\xfffeバラバラだと　ダブルバトルで\xf000븀\x0000\xfffeかつのは　むずかしいわねー！
 You know, football is a team sport!\xfffePlease prepare at least two Pokémon!
 ダブルバトル！\xf000븁\x0000\xfffeアメフトの　あつさを\xfffeかんじるには　これしかないわ！\xf000븁\x0000
-フォーメーションが\xfffeしょうぶの　ながれを　かえる……\xf000븀\x0000\xfffeポケモンしょうぶも　おなじね！
+The right play can turn a game around...\xfffePokémon battles are the same, too!
 Double Battles!\xf000븁\x0000\xfffeYou need at least two Pokémon\xfffeto feel the heat of the game of football!
 Boom-boom-badum! Ha! Boom-boom-badum!\xfffeListen to the fans' drumbeat!\xf000븁\x0000
 Les: Thank you for listening to the beat\xfffeof our spirit!\xf000븁\x0000\xfffeWeb: Thank you for listening to the yell\xfffeof our spirit!
@@ -497,7 +497,7 @@ I will do anything to play better!\xfffeIt's over if you get complacent!
 An elegant Smasher\xfffehas an elegant battle!\xf000븁\x0000
 E-e-e-even though I lost,\xfffeI will not panic.
 ですから　うろたえて\xfffeこんな　モノ　あげたりするわ！\xf000븁\x0000
-アッ　アタクシ　レディですから\xfffeく　くやしがったり　しないですわ
+Because I am a lady, I won't be,\xfffewell, you know,\xf000븀\x0000\xfffech-ch-chagrined at losing.\xf000븀\x0000\xfffeWell, maybe a teensy little bit.
 I am in the starting lineup now,\xfffebut I will be even better soon!\xf000븁\x0000\xfffeI will practice with a lot\xfffeof Pokémon battles!\xf000븁\x0000
 UGHH!\xfffeMy field positioning was terrible!
 だけど　わたしかたは\xfffeまちがえたり　しないぜ！\xf000븁\x0000
@@ -509,7 +509,7 @@ Oh! I am a lady,\xfffeyet I have lost my nerve...
 I've always played games,\xfffebut now I want to be the best player!\xf000븁\x0000\xfffeI will practice with a lot of\xfffePokémon battles!\xf000븁\x0000
 UGHH! I missed the goal!\xfffeI was blocked!!
 どうぐを　シュートするけど\xfffeばっちり　とめてくれよ！\xf000븁\x0000
-しあいは　あきらめない！\xfffeげんかいは　きめない！\xf000븁\x0000\xfffeオレの　うまくなりたい　きもちは\xfffeだれにも　とめられない！
+I won't give up games!\xfffeI won't accept limits!\xf000븁\x0000\xfffeNobody can stop me\xfffeas long as I want to improve!
 I am a lady. I will challenge others\xfffeto battle elegantly!\xf000븁\x0000
 You should...\xfffeGo easy on me!
 そんな　アタクシが\xfffeゆうがに　おくりもの！\xf000븁\x0000
@@ -843,7 +843,7 @@ Losing is uncool.\xfffeNo, no, you are cool.
 いっぽんばしの　うえで　たちどまると\xfffeぐらぐら　ゆれて　おちるのですな！
 I love raised walkways!\xf000븁\x0000\xfffeBalancing is fun,\xfffeso I often come here to play.\xf000븁\x0000
 I lost, \xfffebut I won't stop!
-はしのうえを　あるけば　やせいの\xfffeポケモンに　あわずに　すすめる！
+If you walk on a raised walkway, you can\xfffemove without encountering wild Pokémon!
 たたかえる　ポケモンが\xfffe３ひき　いじょう　いたら\xf000븀\x0000\xfffeキミの　あいて　してあげる！
 ３ｖｓ３の　トリプルバトル……\xf000븁\x0000\xfffeかくごは　できてる？\xfffeわたしは　できてる！　いくよっ！\xf000븁\x0000
 なによ！　まけることを　かんがえて\xfffeしょうぶ　するわけ　ないでしょ！
@@ -1003,7 +1003,7 @@ Ho ho!\xfffeThese are some impressive Pokémon!
 Even if others catch great Pokémon,\xfffeI won't get jealous.\xf000븁\x0000\xfffeBecause my own Pokémon\xfffeare the best ones for me!
 パラソル　かたてに　ビーチで\xfffeひとり　たたずむ　おんな……\xf000븀\x0000\xfffeねえ　あなた　あいてしてよ？\xf000븁\x0000
 The parasol can block ultraviolet rays, \xfffebut it can't block moves...
-ビーチに　パラソルは\xfffeひつようって　きいたんだけど……\xf000븀\x0000\xfffeもってるのは　アタシだけ？
+I heard a parasol is a must\xfffeon the beach...\xf000븀\x0000\xfffeBut I'm the only one who has one?
 たたかえる　ポケモンを\xfffe３ひきいじょう　つれていたら\xf000븀\x0000\xfffeレッツ　ローテーションだ！
 いきの　あった　３ひきの\xfffeれんけいが　かなめ！\xf000븀\x0000\xfffeレッツ　ローテーションっ！！\xf000븁\x0000
 ベストな　ポケモン\xfffeベストな　ポジションを　あやまった！
@@ -1053,7 +1053,7 @@ I admit your strength\xfffeand give you this gift!\xf000븁\x0000
 まよったまま\xfffeあなたと　しょうぶ！\xf000븁\x0000
 まよったままじゃ\xfffeかてっこ　ないのね！
 ここが　どんな　ばしょだか\xfffeいまいち　わかってないんだ！\xf000븁\x0000\xfffeだって　あたし\xfffeマップとか　みない　ひとだし！
-オレらの　チームに　はいれ！\xf000븁\x0000\xfffeというか　ムリヤリ　いれてやる！\xf000븁\x0000
+Join our team!\xf000븁\x0000\xfffeActually, I will force you\xfffeto join our team!\xf000븁\x0000
 Our team doesn't need a Trainer\xfffewho is quite that strong!
 まいにち　エブリデイ\xfffeここで　ダラダラ　してんだよ！\xf000븀\x0000\xfffeせかいが　おわるまでな！
 If I win, give me your Pokémon!\xf000븁\x0000
@@ -1229,7 +1229,7 @@ Wow! Great, great!\xfffeYou are very strong!
 Speak while making eye contact, and\xfffeexpress your feelings to each other...\xf000븀\x0000\xfffeIt's the same for people and Pokémon.
 Hey! Trainer!\xfffeHave a battle with me!\xf000븁\x0000
 Oops. I have no healthy Pokémon\xfffeleft to fight...
-くそー！　こどもあいてに\xfffeほんき　だしやがって！\xf000븀\x0000\xfffeきらいじゃないぞ！　そーゆーの！
+Argh! You went all out against a kid!\xfffe...Actually, that's a good thing. Thanks!
 Take this!\xfffeHyper Beam!\xf000븁\x0000
 Whoops...
 はかいこうせん？　うーん\xfffeいまは　ギガインパクトかな？
@@ -1242,7 +1242,7 @@ Trainer!\xfffeYou too strong!
 ポケモンと　わかれて　くらすと\xfffeつりびとは　つりが　できない\xf000븀\x0000\xfffeこうして　しょうぶも　できない！\xf000븁\x0000
 いま　おもうのは\xfffeポケモンが　いて　よかった！
 プラズマだんは……\xf000븁\x0000\xfffeあたりまえだと　おもっていた\xfffeポケモンとの　じかんの　だいじさを\xf000븀\x0000\xfffeあらためて　おしえてくれたね
-トレーナーと　トレーナーの\xfffeめが　あうって　ことは……\xf000븁\x0000\xfffeポケモンしょうぶの　はじまりさ！\xf000븁\x0000
+A Trainer catches another Trainer's eye.\xfffeThat is the start of a Pokémon battle!\xf000븁\x0000
 What?!\xfffeYou are too strong!
 ２ねんまえ　カノコタウンの\xfffeトレーナーに　まけてから\xf000븀\x0000\xfffeポケモン　そだてまくったのに！
 さあ！　かれいに　まえ！\xfffeうつくしく　わざを　くりだすのよ！\xf000븀\x0000\xfffeアタシの　かわいい　ポケモン！\xf000븁\x0000
@@ -1266,13 +1266,13 @@ Different Trainers use\xfffedifferent kinds of Pokémon!\xf000븀\x0000\xfffeTha
 あら　あなた……？\xfffeポケモンけんきゅうじょ　めあて？\xf000븁\x0000\xfffeそのまえに　あそばない？\xf000븁\x0000
 あそびで　かてるような\xfffeあいてじゃ　なかったわね！
 アララギはかせの　おはなしを\xfffeききたくて　わざわざ　きちゃった！\xf000븁\x0000\xfffeあのひとも　バックパッカーだったから\xfffeたびの　はなしで　もりあがっちゃって！
-いまは　はしっていないけれど\xfffeいつだって　ぜんりょくで\xf000븀\x0000\xfffeしぜんを　かけぬける　オレだぜ！\xf000븁\x0000
+I am not running now,\xfffebut I usually barrel through\xf000븀\x0000\xfffeas quickly as I can!\xf000븁\x0000
 I have not crossed\xfffethe finish line of victory!
 I'm going to use this little rest\xfffeto give you this present!\xf000븁\x0000
 まちのなかも　やまみちも\xfffeはしれはしれ！\xf000븁\x0000\xfffeはしって　からだぜんたいで\xfffeまわり　すべてを　かんじろ！
 わたしが　わざを　えらび\xfffeポケモンが　それを　だす……\xf000븁\x0000\xfffeそして　その　わざは\xfffeあなたの　ポケモンに　とどく！\xf000븁\x0000
 I lost, but during the battle,\xfffewe were connected. Right?
-この　きのみが　あれば\xfffeあなたと　ポケモン　つながるかも\xf000븁\x0000
+This Berry may connect\xfffeyou and your Pokémon.\xf000븁\x0000
 きょうから　あした……\xfffeひとと　ポケモンと　せかい……\xf000븀\x0000\xfffeどれも　つながっているのよね
 ぼくは！　１ばんどうろの　ような\xfffeトレーナーに　なりたい！\xf000븁\x0000
 ここは……\xfffe１ばんどうろ　だっ！！
@@ -1294,11 +1294,11 @@ Shall I practice my swimming?\xfffeOr shall I train my Pokémon?\xf000븁\x0000\
 ブツブツ　つぶやいて\xfffeなにか　のこったのかな……？
 わたしは　ポケモンと　およぐことで\xfffeパールル　シェルダーの　いいところ\xf000븀\x0000\xfffeぜーんぶ　はあく　したの！\xf000븁\x0000
 What a fresh Trainer!\xfffeReally fresh, fresh!
-ビキニの　わたしが　どこに\xfffeモンスターボールを　しまうのか？\xf000븀\x0000\xfffeフフフ……　おんなの　ひみつよ
-ちょっと　きゅうけい　してたけど\xfffeポケモンしょうぶは　べつ！\xf000븀\x0000\xfffeどどーんと　たのしみましょ！\xf000븁\x0000
+I'm a girl with everything...\xf000븁\x0000\xfffeWell, everything but a place to\xfffeput my Poké Balls!
+I was taking a little break, but hey,\xfffeI always have time for Pokémon battles!\xf000븀\x0000\xfffeLet's enjoy it as much as possible!\xf000븁\x0000
 Wooosh!\xfffeSsshhhh!!
 どうして　きゅうけい　してたか\xfffeおしえてあげるね……\xf000븁\x0000\xfffeビキニが　ながされそうで\xfffeちょっと　たいへん　なの……
-たかい　ところから　みおろすと\xfffeとても　きもちいい！\xf000븁\x0000\xfffeポケモンしょうぶも　おなじ！\xfffeみおろしながら　たたかってやる！\xf000븁\x0000
+When I look down from a high place,\xfffeI feel very good!\xf000븁\x0000\xfffePokémon battles are the same!\xfffeI will fight looking down from the heights!\xf000븁\x0000
 You're great!\xfffeI can't help but look up to you!
 We climb mountains because,\xfffeno matter how hard it is,\xf000븀\x0000\xfffethe higher we climb,\xf000븀\x0000\xfffethe closer we get to the sky!
 くぼんだ　ばしょ……\xfffeむかいあう　きみと　わたし……\xf000븁\x0000
@@ -1574,7 +1574,7 @@ When I lose,\xfffemy spirits sink...
 My spirits rise and fall.\xfffeI'm just charmingly unpredictable!
 Why do I dig?\xfffeWhy do you fight?\xf000븀\x0000
 Your past experience...\xfffeIs that the source of your strength?
-たたかっただけ　つよくなる\xfffeほっただけ　あなが　ひろがる……\xf000븀\x0000\xfffeもくてきがあれば　ムダなんて　ない！
+The more you fight,\xfffethe stronger you'll be.\xf000븁\x0000\xfffeThe more you dig, \xfffethe bigger the hole will be...\xf000븁\x0000\xfffeIf you have a purpose, \xfffethere's no wasted effort!
 パトロールを　していたら\xfffeつよそうな　トレーナー　はっけん！\xf000븀\x0000\xfffeいくぞ！　シンボラー！！\xf000븁\x0000
 オラが　かんじたとおり\xfffeオニつよい　トレーナーだった！
 オラの　シンボラー　だけどよ\xf000븁\x0000\xfffeいつも　おんなじ　ルートを\xfffeとおりたがるんだけど　なんでだ？
@@ -1603,7 +1603,7 @@ Prepare at least three Pokémon\xfffethat can fight!\xf000븁\x0000\xfffeRotatio
 ネジやま　ナンバーワンの\xfffeせんりゃくか！　それが　あたしさ！\xf000븁\x0000
 ネジやま　ナンバーワンで\xfffeまんぞく　しちゃってた……？
 ありがとう……\xfffeおかげで　めが　さめたわ\xf000븁\x0000\xfffeネジやまでの　ナンバーワンは\xfffeあたしにとって　つうかてん　だったわ
-ローテーションバトルは　ポケモン\xfffe３びきでの　ポケモンしょうぶ　だよ！
+Rotation Battles are Pokémon battles\xfffewith three Pokémon!
 ローテーションバトルでは\xfffeまわさない！　ってのも　だいじだね\xf000븁\x0000
 ２ねんかん　ローテーションバトルの\xfffeしゅぎょうを　したけど　まだまだね
 ギャンブラーの　ギーマなら\xfffeどちらにまわすか　はずさないだろうね
@@ -1694,7 +1694,7 @@ Oh?\xfffeYou want to have a battle with me?\xf000븁\x0000\xfffeAll right!\xfffe
 When I come here... At Celestial Tower,\xfffestrangely, I feel the urge to fight.\xf000븁\x0000\xfffeなにか　たたかいたいって　シグナルが\xfffeはっしん　されているのかな？
 I'm here to understand the end\xfffeof the world, but I don't quite get it.\xf000븁\x0000\xfffeIf I have a battle,\xfffewill I be enlightened...?\xf000븁\x0000
 The end...\xfffeIs that it?
-ひとも　ポケモンも……\xfffeたとえば　せかい　すらも\xf000븀\x0000\xfffeなくなって　おわり　じゃないんだ……
+People, Pokémon...\xfffeEven if the world is gone,\xf000븀\x0000\xfffethat is not the end.
 Indescribable energy\xfffeis flowing to me!\xf000븁\x0000
 The energy is escaping...\xfffeAww...
 ここに　ねむる　ポケモンの\xfffeいろんな　おもいも　エネルギーよね！
@@ -1727,7 +1727,7 @@ The energy is escaping...\xfffeAww...
 チャップ　チャップって　おと！\xfffeあなたの　あしおと　だったのね\xf000븀\x0000\xfffeもう　あいくるしいわね！\xf000븁\x0000
 You are so strong--too strong to be cute!
 According to footstep fortune-telling...\xf000븁\x0000\xfffeThose whose footsteps make a splish and\xfffea splosh are Trainers that Pokémon like.
-ローテーションバトルは　ポケモン\xfffe３びきでの　ポケモンしょうぶ　よ！
+Rotation Battles are Pokémon battles\xfffewith three Pokémon!
 If you turn a parasol around,\xfffeit's like a flower blossoming in the rain!\xf000븁\x0000
 えい！　パラソルを　まわして\xfffeすいてき　とばしてあげる！
 On rainy days, use a parasol,\xfffewear a coat, or get wet.\xf000븀\x0000\xfffeDo as you like!
@@ -1858,9 +1858,9 @@ Roll, roll, roll, roll, roll, roll, roll on!\xfffeRoller coaster!
 When Pokémon lose energy,\xfffedon't hesitate!!
 みゃくはくも　なく\xfffeポケモンしょうぶ　です！\xf000븁\x0000
 ないのは　みゃくはく　ではなく\xfffeみゃくらく　だった……
-みゃくらくは　ありませんが\xfffeポケモンを　げんきに　しますよ！\xf000븁\x0000
+Now, as I promised,\xfffeI will make your Pokémon healthy.\xf000븁\x0000
 To make people healthy,\xfffeDoctors go where they are needed.
-ナースの　おしごと　ですか？\xf000븁\x0000\xfffeはい　あたしに　かてれば\xfffeポケモンを　げんきに　しますよ！\xf000븁\x0000
+You need a Nurse's help?\xf000븁\x0000\xfffeSure, if you can win against me,\xfffeI'll make your Pokémon healthy!\xf000븁\x0000
 Come on!\xfffeYour team is really healthy!
 OK! Then...\xfffeTime to give your Pokémon some energy!\xf000븁\x0000
 ポケモンを　げんきに　してあげること！\xfffeそれが　あたしの　やくわりなの！
@@ -1910,7 +1910,7 @@ Pokémon training Pokémon...\xf000븁\x0000\xfffeIf they live in rugged wildern
 ちょっと　まって！\xf000븁\x0000\xfffeもうすこし　モンスターボールを\xfffeギュッと　にぎりしめさせて\xf000븁\x0000\xfffe……うん！　だいじょうぶ！\xf000븁\x0000
 ギュッ！
 ふあんなとき　モンスターボールを\xfffeギュッと　にぎりしめると\xf000븀\x0000\xfffeポケモンが　おうえん　してくれるの！\xf000븀\x0000\xfffeだから　あたし　だいじょうぶ！
-せかいいちの　わしの　ポケモンを\xfffeこれから　おひろめ　しましょう！\xf000븁\x0000
+I will unveil my Pokémon to you!\xfffeThey are the best in the world!\xf000븁\x0000
 Your Pokémon are also cute,\xfffebut my Pokémon are charming!
 Listen. My love for my Pokémon\xfffeis the best in the world.\xf000븀\x0000\xfffeNobody can beat it.
 ポケシフターで　ポケモンを\xfffeいどう　させてもらう　つもりです\xf000븀\x0000\xfffeでも　そのまえに……\xf000븁\x0000
@@ -1950,11 +1950,11 @@ The forest is alive...\xf000븁\x0000\xfffeSomething changes every day,\xfffeso 
 Blend into the wilderness!\xfffeThat is a Ranger!\xf000븁\x0000
 なんじゃくものの　オレめ！\xfffeもういちど　やせいに　とけこもう！
 I'm sure you can fully\xfffeutilize this.\xf000븁\x0000
-やせいに　とけこみすぎると\xfffeひとは　もちろん\xf000븀\x0000\xfffeポケモンにも　きづいてもらえないのだ
+If you blend into the wilderness too well,\xfffeyou won't be noticed by Pokémon,\xf000븀\x0000\xfffelet alone by people.
 スー　ハー\xfffeヒー　フー\xf000븁\x0000\xfffeはい！　しんこきゅうの　つぎは\xfffeポケモンを　たたかわせましょ！\xf000븁\x0000
 かなしくて　でるのは\xfffeためいき　ばかりね……
 あたしからは　ほかにも\xfffeこんな　モノが　でてきます！\xf000븁\x0000
-いろんな　ばしょに\xfffeいろんな　ポケモンが　いる……\xf000븁\x0000\xfffeいろんな　みんなに　ぴったりの\xfffeいばしょが　あるって　ことかな？
+Different Pokémon can be found\xfffein different places.\xf000븁\x0000\xfffeDoes that mean there is\xfffea perfect place for everyone?
 Get great powers drawn from nature\xfffewithout opposing it.\xf000븀\x0000\xfffeThat is the strength of Rangers!\xf000븁\x0000
 おおいなる　ちから！\xfffeあなたの　ポケモン　マーベラス！
 This is one of the powers\xfffeI got from nature.\xf000븁\x0000

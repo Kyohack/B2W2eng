@@ -5,7 +5,7 @@ Think up a losing excuse!
 はやっている　ものは？
 Think up a Union greeting!
 これで　いいですか？
-なにか　ことばを　いれてください！
+Please enter a phrase or word！
 なにも　しないで　やめますか？
 Yes
 No

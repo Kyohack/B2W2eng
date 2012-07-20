@@ -87,7 +87,7 @@ Searching for your opponent...
 Quit searching for\xfffesomeone to battle?
 Your opponent has been found!
 The battle results were\xfffesent to the server.\xf000븁\x0000\xfffeIt'll take a little time\xfffeto calculate your Rating.\xf000븁\x0000\xfffeOnce the calculation is done,\xfffeyour Rating will be updated.\xf000븁\x0000
-つうしん　たいきちゅう　です\xfffeでんげんを　きらないで　ください
+つうしん　たいきちゅう　です\xfffeDon't turn off the power.
 Receiving data...\xfffeDon't turn off the power.
 Checking the competition\xfffedetails...
 Pokémon Wi-Fi Competition!\xfffeDo you want to continue battling?

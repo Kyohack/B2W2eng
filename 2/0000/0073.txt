@@ -139,7 +139,7 @@ You can move to the center of the Unova\xffferegion, called the Entralink, by ta
 ハイルツリーに　むかって\xfffeＡボタンを　おすと　フェスミッションを\xfffeうけることが　できます。\xfffe\xfffeミッションには　さまざまな\xfffeもくひょうが　あります。\xfffeせいげんじかんの　なかで\xfffeどうぐを　さがしたり\xfffeポケモンしょうぶを　します。
 ミッションは　スコアを\xfffeためることで　クリアできます。\xfffeミッションせつめいに　かかれた\xfffeクリアもくひょうを　たっせいしましょう。\xfffe\xfffeスコアが　おおいほど\xfffeミッションを　クリアしたときの\xfffeほうしゅうが　おおくなります。
 フェスミッションは\xfffeちかくに　いる　ひとと　いっしょに\xfffeあそぶことが　できます。\xfffe\xfffeだれかが　フェスミッションを　はじめると\xfffeすれちがいログが　ひかるので\xfffeタッチして　すきな　フェスミッションに\xfffeさんかすることが　できます。
-デルパワーは　ハイリンクに　ある\xfffeハイルツリーから　うけとれる\xfffeふしぎな　ちからのこと　です。\xfffe\xfffeデルパワーは　つかうことで\xfffeけいけんちが　おおく　もらえたり\xfffeポケモンが　つかまえやすくなったりと\xfffeさまざまな　こうかが　あります。\xfffeどうじに　３つまで　うけとれます。
+A Pass Power is a mysterious power you\xfffereceive from the Entree in your Entralink.\xfffe\xfffeデルパワーは　つかうことで\xfffeけいけんちが　おおく　もらえたり\xfffeポケモンが　つかまえやすくなったりと\xfffeさまざまな　こうかが　あります。\xfffeどうじに　３つまで　うけとれます。
 You cannot use a Pass Power in your Entralink\xfffeor in someone else's world.\xfffe\xfffeIf you want to use your Pass Power, please\xfffeexit the Entralink and tap the Tag Log at the\xfffebottom of your C-Gear, then tap the\xfffetriangle icon.
 ハイルツリーが　せいちょうし\xfffeレベルが　あがることで\xfffeあたらしい　デルパワーを\xfffeうけとれるように　なります。\xfffe\xfffeレベルを　あげるには\xfffeフェスミッションを　うけて\xfffeスコアを　たくさん　ためます。
 You need to have a certain number\xfffeof Pass Orbs to use your Pass Power.\xfffe\xfffeYou can obtain Pass Orbs by completing\xfffeFes missions from someone else's Entree.
@@ -151,7 +151,7 @@ There are some items you can use\xfffeonly in a battle to raise Pokémon stats o
 The Poké Balls you need to catch Pokémon\xfffeare kept in the ITEMS Case, as are items\xffferelated to Pokémon evolution.\xfffe\xfffeYou can combine phrases and words\xfffeto form Mail. Your Pokémon can hold Mail,\xfffeand if you trade the Pokémon with\xfffeyour friends, they can deliver your Mail.
 -MEDICINE\xfffeThis area holds items that restore\xfffeyour Pokémon's HP, PP, and heal\xfffestatus conditions.\xfffe\xfffe-TMs & HMs\xfffeThis area holds your TMs & HMs.\xfffeThey can be reused as often as you like.
 -BERRIES\xfffeThis holds Berries that create special\xfffeeffects when your Pokémon hold them\xfffeor use them.\xfffe\xfffe-KEY ITEMS\xfffeThis is a place to keep Key Items. You can\xfffeassign some of them to the Ready button\xfffefor instant use.
-Ｘボタンで　ひらいた　メニューから\xfffeじぶんの　なまえを　えらぶと\xfffeトレーナーカードを\xfffeかくにん　することが　できます。\xfffe\xfffeしたがめんの　ひだりしたに　ある\xfffeマークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
+Open the menu using the X Button, then\xfffeselect your name to check how many\xfffeGym Badges you have.\xfffe\xfffeYou can tap the mark in the bottom-left\xfffecorner of the Touch Screen to check\xfffeyour Trainer Card.
 The Trainer Card displays your total\xfffeplay time, prize money, and more.\xfffeTap your title and characteristic to change\xfffethem, and select a new one you like.\xfffe\xfffeTouch the white frame underneath\xfffeto edit your message. Fill in the boxes\xfffeto complete your message.
 You can sign the back of your card\xfffeusing the stylus.\xfffe\xfffeTap the pen and eraser icons to switch\xfffebetween writing and erasing.\xfffe\xfffeTap the plus icon to magnify the screen.\xfffeTap the triangle icon to split the signature\xfffearea in two for animation.
 ぼうけんを　すすめていくと\xfffeトレーナーカードに　メダルマークが\xfffeついか　されます。\xfffe\xfffeメダルマークを　タッチすることで\xfffeせってい　されている　イチオシメダルや\xfffeメダルを　どれだけ　もっているのか\xfffeかくにん　することが　できます。\xfffe

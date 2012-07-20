@@ -70,6 +70,6 @@ L\xf000Ȁ\x0001\x0000
 TOTAL
 MY SCORE
 さいこうきろく
-デルパワーは　３つまでしか\xfffeうけとれません！\xf000븁\x0000\xfffeあたらしく　デルパワーを\xfffeうけとる　ために\xf000븀\x0000\xfffeハイルツリーに　かえす\xf000븀\x0000\xfffeデルパワーを　えらんでください
+デルパワーは　３つまでしか\xfffeうけとれません！\xf000븁\x0000\xfffeあたらしく　デルパワーを\xfffeうけとる　ために\xf000븀\x0000\xfffePlease select the Pass Power\xfffeyou want to receive from the Entree.
 『\xf000Ĝ\x0001\x0000』　を\xfffeハイルツリーに　かえし\xf000븁\x0000\xfffe『\xf000Ĝ\x0001\x0001』を\xfffeハイルツリーから　うけとった！\xf000븁\x0000\xfffeうけとった『\xf000Ĝ\x0001\x0001』を\xfffeＣギアに　とうろくした！
 CANCEL
