@@ -5,18 +5,18 @@ Now, in order to make a deep\xfffeacquaintance with a fellow trainer...\xf000븁
 Before I send out my Pokémon,\xfffemy chest always throbs...\xf000븁\x0000It is filled with the joyous feelings\xfffeof the Pokémon inside their Pokéballs.\xf000븁\x0000So, what manner of trainer are you?\xf000븁\x0000
 Ohoho.\xfffeA... most composed decision.\xf000븁\x0000When you are prepared, I would be\xfffedelighted if you return and say so!
 Cynthia: Oh?\xfffeSo you've made your preparations.\xf000븁\x0000I would like us to have\xfffea bout with our Pokémon...\xf000븀\x0000Would you be my opponent?
-シロナ『おみごと　です\xfffeすばらしい　たたかい　だったわ\xf000븁\x0000\xfffeあたしね　こちらには\xfffeはると　なつに　くるの\xf000븁\x0000\xfffeシンオウでも　しらべること　とか\xfffeいろいろ　あるから　ね\xf000븁\x0000\xfffeまた　あいにきてくれると　うれしいな\xfffeステキな　ポケモントレーナーさん!
+Cynthia: おみごと　です\xfffeすばらしい　たたかい　だったわ\xf000븁\x0000\xfffeあたしね　こちらには\xfffeはると　なつに　くるの\xf000븁\x0000\xfffeシンオウでも　しらべること　とか\xfffeいろいろ　あるから　ね\xf000븁\x0000\xfffeまた　あいにきてくれると　うれしいな\xfffeステキな　ポケモントレーナーさん!
 Cynthia: I also have much\xfffeto investigate in Sinnoh\xf000븁\x0000come spring and summer...\xf000븁\x0000I would be overjoyed if you\xfffewould come see me again,\xf000븀\x0000most wonderful of Pokémon trainers!
 Cynthia: Oh, you came!\xf000븁\x0000I may seem hurried, but I wish\xfffeto battle my Pokemon against yours...\xf000븀\x0000Would you be my opponent?
 Cynthia: Thank you!\xfffeNow, I shall face you with all my might!\xf000븁\x0000
 Cynthia: Ah, that's a shame...\xf000븁\x0000In summer, the vibes of vacation\xfffehere in Sazanami Town\xf000븀\x0000make me forgot all about battling...\xf000븁\x0000But in spring, my feelings surmount,\xfffeand I grow a desire to battle.
 Cynthia: I wish to battle\xfffemy Pokemon against yours...\xf000븀\x0000Would you be my opponent?
-シロナ『とおく　イッシュまで　きて\xfffeほんとうに　よかったと　おもってるの\xf000븁\x0000\xfffeだって　きみに　あえて\xfffeあたしの　せかいは　ひろがったから!
+Cynthia: とおく　イッシュまで　きて\xfffeほんとうに　よかったと　おもってるの\xf000븁\x0000\xfffeだって　きみに　あえて\xfffeあたしの　せかいは　ひろがったから!
 Cynthia: ...Pokémon and people\xfffecan have their lives brightened \xf000븁\x0000when they challenge a powerful opponent\xfffewith utter devotion.\xf000븁\x0000So, I, too would like to\xfffebattle with you. Do you accept?
 Cynthia: Via each of our beloved Pokémon,\xfffeI shall know more about you!\xf000븁\x0000
 Cynthia: ...I'm a bit let down.\xf000븁\x0000After all, my battling with you\xfffewas of the highest caliber!\xf000븁\x0000Both our lives should be\xfffeever brightened as such...
 Cynthia: How about it?\xf000븁\x0000I would like you battle you\xfffewith all my might, so that it may\xf000븀\x0000brighten up my life. Do you accept?
-シロナ『あいてが　トレーナーなら\xfffeしょうぶすれば　どんなひとか　わかる\xf000븁\x0000\xfffeどんな　ポケモンに\xfffeどんな　わざを　おぼえさせているのか\xf000븀\x0000\xfffeどうぐは　なにを　もたせているのか\xf000븀\x0000\xfffeそのとき　ことばは　いらないの...\xf000븁\x0000\xfffeだから　きみ!　あたしのことを\xfffeもっと　しりたければ\xf000븀\x0000\xfffeぜひ　シンオウちほうに　きてね!
+Cynthia: あいてが　トレーナーなら\xfffeしょうぶすれば　どんなひとか　わかる\xf000븁\x0000\xfffeどんな　ポケモンに\xfffeどんな　わざを　おぼえさせているのか\xf000븀\x0000\xfffeどうぐは　なにを　もたせているのか\xf000븀\x0000\xfffeそのとき　ことばは　いらないの...\xf000븁\x0000\xfffeだから　きみ!　あたしのことを\xfffeもっと　しりたければ\xf000븀\x0000\xfffeぜひ　シンオウちほうに　きてね!
 カトレア『むかしは\xfffeバトルキャッスルの　オーナー\xf000븁\x0000\xfffeイッシュの　してんのう\xf000븁\x0000\xfffeつぎは　どこかの　チャンピオン?\xf000븁\x0000\xfffeなんて　いってみたりして
 カトレア『コクランったら\xfffeあいかわらず　きれいずき　ね\xf000븁\x0000\xfffeわざわざ　イッシュまで　きて\xfffeそうじ　だけして　かえるなんて...
 Caitlin: ...Are you familiar with\xfffethe Battle Castles?\xf000븁\x0000One exists in Johto and Sinnoh,\xfffeso if you like, go and challenge them.
@@ -27,8 +27,8 @@ Shauntal: The Rainbow Wing...\xfffeThe Silver Wing...\xf000븀\x0000They stir up
 Shauntal: ...That Pokémon in the Distortion World\xfffeis such a fantastic spectacle!
 Shauntal: ...No matter how much data I collect,\xfffeI haven't a clue.\xf000븁\x0000How old is Cynthia, I wonder?\xfffeWhat do you think?
 Shauntal: ...My muffler can give people the\xfffeimpression of looking like a Pokémon.\xf000븁\x0000Understand?\xfffeImagination is the key, isn't it?
-シロナ『いまよりも\xfffeつよくなるために　ひつようなこと?\xf000븁\x0000\xfffeそれは　ずっとずっと\xfffeポケモンを　すきで　いることかな\xf000븁\x0000\xfffeじぶんが　そうだったから\xfffeこんなことしか　いえないけど...
-シロナ『かくちほうの\xfffeチャンピオンが　つどい\xf000븀\x0000\xfffeだれが　さいきょうなのか　きそう!\xf000븁\x0000\xfffeそれが　チャンピオンズトーナメント!
+Cynthia: いまよりも\xfffeつよくなるために　ひつようなこと?\xf000븁\x0000\xfffeそれは　ずっとずっと\xfffeポケモンを　すきで　いることかな\xf000븁\x0000\xfffeじぶんが　そうだったから\xfffeこんなことしか　いえないけど...
+Cynthia: かくちほうの\xfffeチャンピオンが　つどい\xf000븀\x0000\xfffeだれが　さいきょうなのか　きそう!\xf000븁\x0000\xfffeそれが　チャンピオンズトーナメント!
 Cynthia: I'd like to live here,\xfffebut if I did, my research data\xf000븀\x0000would stack as high as a mountain...\xf000븁\x0000That's right! Cynthia! This time,\xfffeyou shall settle things for good!
 Cynthia: I have a problem.\xf000븁\x0000A white swimsuit or\xfffea black swimsuit...\xf000븀\x0000which one better suits me, I wonder?
 Cynthia: ...Hm.\xf000븁\x0000It's difficult...\xf000븁\x0000I have so many swimsuits I want\xfffeto wear, it's impossible to choose one...
