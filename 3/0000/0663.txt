@@ -1,5 +1,5 @@
 Welcome to the Union Room.\xf000븁\x0000\xfffeIf there is anything you need help\xfffewith, please let me know! \xf000븁\x0000
-なにか　ごようけんは\xfffeありますでしょうか?
+Do you have any\xfffebusiness with me?
 Which topic would you\xfffelike me to explain?
 There are five Battle Formats.\xf000븁\x0000\xfffeSingle Battle is for two Trainers\xfffewith one or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer can have one Pokémon\xfffein battle at a time.\xf000븁\x0000\xfffeDouble Battle is for two Trainers\xfffewith two or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer will send out two\xfffePokémon to battle at a time.\xf000븁\x0000\xfffeTriple Battle is for two Trainers\xfffewith three or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer will send out three\xfffePokémon to battle at a time.\xf000븁\x0000
 Rotation Battle is for two Trainers\xfffewith three or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer sends out three Pokémon at\xfffea time, one in front and two in the back.\xf000븁\x0000\xfffeMulti Battle is for four Trainers\xfffewith one or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer can have one Pokémon\xfffein battle at a time.\xf000븁\x0000
@@ -31,12 +31,12 @@ You may get together with others\xfffeand draw a picture.\xf000븁\x0000\xfffeYo
 どこに\xfffeいるかって...\xf000븀\x0000\xfffeめのまえに　いますね\xf000븁\x0000\xfffeあ!\xfffeもしかして　にせもの!?\xf000븁\x0000\xfffeほんものは\xfffeべつに　いるとか?\xf000븁\x0000\xfffe...　って\xfffeへんなこと　いわないで　くださいよ!\xf000븀\x0000\xfffeもうっ!\xf000븁\x0000
 \xf000Ĝ\x0001\x0000こうかん\xfffeしたいですよ　ねえ!\xf000븀\x0000\xfffeわたしも　したいですもん\xf000븁\x0000\xfffeでも　わたしに　はなしかけても\xfffeこうかんは　できませんけどね\xf000븁\x0000
 \xf000Ĝ\x0001\x0000たいせんを\xfffeするんだったら\xf000븁\x0000\xfffeじぶんから　はなしかけるぐらい\xfffeつよきで　いかないと!\xf000븁\x0000\xfffe\xf000Ĝ\x0001\x0000　たいせんを\xfffeするまえに　まけちゃい　ますよ!\xf000븁\x0000
-せつめい
-おはなしする
+Explain
+Talk
 Back
 Battle
 Trade
-レコード
+Record
 Draw
 Spin
 Icons
