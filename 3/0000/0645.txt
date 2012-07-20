@@ -1,50 +1,50 @@
 ???: What's this?\xf000븁\x0000
 きみの　なまえは...?\xf000븁\x0000\xfffe...　...　...\xfffe...　...　...\xf000븁\x0000\xfffeそう　\xf000Ā\x0001\x0000　って　いうの\xfffeおぼえておくわね!\xf000븁\x0000\xfffeあたしは　シロナ\xf000븁\x0000\xfffeポケモンの　しんわを　しらべてる\xfffeものずきな　ポケモントレーナーよ\xf000븁\x0000
 サザナミわん　には\xfffeかいていいせきが　あるでしょ\xf000븁\x0000\xfffeそれで　しりあいの　べっそうを\xfffeつかわせて　もらっているの\xf000븁\x0000
-さて　ポケモントレーナーどうし\xfffeふかく　しりあうために\xf000븁\x0000\xfffeおたがいの　ポケモンを\xfffeてあわせ　させたいのだけど...\xf000븀\x0000\xfffeおあいて　してくださるかしら?
-ポケモンを　くりだす　まえから\xfffeあたしの　むねが　たかなる...\xf000븁\x0000\xfffeボールの　なかの　ポケモンたちの\xfffeうれしそうな　かんじ　つたわってくる\xf000븁\x0000\xfffeあなた　なにもの　かしら?\xf000븁\x0000
-うふふ\xfffeれいせいな　はんだん...　ね\xf000븁\x0000\xfffeじゅんびが　できたら\xfffeはなしかけてくれると　うれしいな!
-シロナ『あら?\xfffeじゅんびは　できたの\xf000븁\x0000\xfffeおたがいの　ポケモンを\xfffeてあわせ　させたいのだけど...\xf000븀\x0000\xfffeおあいて　してくださるかしら?
+Now, in order to make a deep\xfffeacquaintance with a fellow trainer...\xf000븁\x0000I would like us to have\xfffea bout with our Pokémon...\xf000븀\x0000Would you be my opponent?
+Before I send out my Pokémon,\xfffemy chest always throbs...\xf000븁\x0000It is filled with the joyous feelings\xfffeof the Pokémon inside their Pokéballs.\xf000븁\x0000So, what manner of trainer are you?\xf000븁\x0000
+Ohoho.\xfffeA... most composed decision.\xf000븁\x0000When you are prepared, I would be\xfffedelighted if you return and say so!
+Cynthia: Oh?\xfffeSo you've made your preparations.\xf000븁\x0000I would like us to have\xfffea bout with our Pokémon...\xf000븀\x0000Would you be my opponent?
 シロナ『おみごと　です\xfffeすばらしい　たたかい　だったわ\xf000븁\x0000\xfffeあたしね　こちらには\xfffeはると　なつに　くるの\xf000븁\x0000\xfffeシンオウでも　しらべること　とか\xfffeいろいろ　あるから　ね\xf000븁\x0000\xfffeまた　あいにきてくれると　うれしいな\xfffeステキな　ポケモントレーナーさん!
-シロナ『こちらにはね\xfffeはると　なつに　くるの\xf000븁\x0000\xfffeシンオウでも　しらべること　とか\xfffeいろいろ　あるから　ね\xf000븁\x0000\xfffeまた　あいにきてくれると　うれしいな\xfffeステキな　ポケモントレーナーさん!
-シロナ『あら　きてくれたのね!\xf000븁\x0000\xfffeさっそく　なんだけど\xfffeあたしの　ポケモンたちが\xf000븁\x0000\xfffeきみの　ポケモンと\xfffeしょうぶ　したがってるんだけど...\xf000븀\x0000\xfffeおあいて　してくれるかな?
-Cynthia: This will be such fun!\xfffeNo holds barred!\xf000븁\x0000
-シロナ『あら　ざんねんね...\xf000븁\x0000\xfffeサザナミタウンって\xfffeなつは　バカンスきぶんで\xf000븀\x0000\xfffeしょうぶのこと　わすれちゃうけど\xf000븁\x0000\xfffeはるは　きぶんを　もりあげたくて\xfffeしょうぶ　したくなるのよね
-シロナ『あたしの　ポケモンたちが\xf000븁\x0000\xfffeきみの　ポケモンと\xfffeしょうぶ　したがってるんだけど...\xf000븀\x0000\xfffeおあいて　してくれるかな?
+Cynthia: I also have much\xfffeto investigate in Sinnoh\xf000븁\x0000come spring and summer...\xf000븁\x0000I would be overjoyed if you\xfffewould come see me again,\xf000븀\x0000most wonderful of Pokémon trainers!
+Cynthia: Oh, you came!\xf000븁\x0000I may seem hurried, but I wish\xfffeto battle my Pokemon against yours...\xf000븀\x0000Would you be my opponent?
+Cynthia: Thank you!\xfffeNow, I shall face you with all my might!\xf000븁\x0000
+Cynthia: Ah, that's a shame...\xf000븁\x0000In summer, the vibes of vacation\xfffehere in Sazanami Town\xf000븀\x0000make me forgot all about battling...\xf000븁\x0000But in spring, my feelings surmount,\xfffeand I grow a desire to battle.
+Cynthia: I wish to battle\xfffemy Pokemon against yours...\xf000븀\x0000Would you be my opponent?
 シロナ『とおく　イッシュまで　きて\xfffeほんとうに　よかったと　おもってるの\xf000븁\x0000\xfffeだって　きみに　あえて\xfffeあたしの　せかいは　ひろがったから!
-シロナ『...ポケモンも　ひとも\xfffeその　いのちを　かがやかせるには\xf000븁\x0000\xfffeぜんしんぜんれいで\xfffeつよい　あいてに　いどむことなの\xf000븁\x0000\xfffeだから　あたしも　きみと\xfffeたたかいたいけど　いいかしら?
-シロナ『おたがいの　いとおしい\xfffeポケモンを　つうじて\xf000븀\x0000\xfffeきみのこと　もっと　しるつもりよ!\xf000븁\x0000
-シロナ『...ちょっと　がっかり\xf000븁\x0000\xfffeきみとなら　これまでよりも\xfffeたかい　ステージでの\xf000븀\x0000\xfffeたたかいが　できそうなのに!\xf000븁\x0000\xfffeそう　もっともっと\xfffeいのちを　かがやかせられるはず...
-シロナ『どうかしら?\xf000븁\x0000\xfffeいのちを　かがやかせるため\xfffeあたしも　きみと　ぜんりょくで\xf000븀\x0000\xfffeたたかいたいけど　いいかしら?
+Cynthia: ...Pokémon and people\xfffecan have their lives brightened \xf000븁\x0000when they challenge a powerful opponent\xfffewith utter devotion.\xf000븁\x0000So, I, too would like to\xfffebattle with you. Do you accept?
+Cynthia: Via each of our beloved Pokémon,\xfffeI shall know more about you!\xf000븁\x0000
+Cynthia: ...I'm a bit let down.\xf000븁\x0000After all, my battling with you\xfffewas of the highest caliber!\xf000븁\x0000Both our lives should be\xfffeever brightened as such...
+Cynthia: How about it?\xf000븁\x0000I would like you battle you\xfffewith all my might, so that it may\xf000븀\x0000brighten up my life. Do you accept?
 シロナ『あいてが　トレーナーなら\xfffeしょうぶすれば　どんなひとか　わかる\xf000븁\x0000\xfffeどんな　ポケモンに\xfffeどんな　わざを　おぼえさせているのか\xf000븀\x0000\xfffeどうぐは　なにを　もたせているのか\xf000븀\x0000\xfffeそのとき　ことばは　いらないの...\xf000븁\x0000\xfffeだから　きみ!　あたしのことを\xfffeもっと　しりたければ\xf000븀\x0000\xfffeぜひ　シンオウちほうに　きてね!
 カトレア『むかしは\xfffeバトルキャッスルの　オーナー\xf000븁\x0000\xfffeイッシュの　してんのう\xf000븁\x0000\xfffeつぎは　どこかの　チャンピオン?\xf000븁\x0000\xfffeなんて　いってみたりして
 カトレア『コクランったら\xfffeあいかわらず　きれいずき　ね\xf000븁\x0000\xfffeわざわざ　イッシュまで　きて\xfffeそうじ　だけして　かえるなんて...
-カトレア『...アナタ\xfffeバトルキャッスルは　ごぞんじ?\xf000븁\x0000\xfffeジョウトや　シンオウに　あるから\xfffeよければ　ちょうせん　なさって
-カトレア『...ここ\xfffeアタクシの　べっそう　なの\xf000븁\x0000\xfffeせかいかくちに　あるから\xfffeシロナさんに　つかってもらっています\xf000븁\x0000\xfffeアナタも　えんりょせずに\xfffeあそびに　いらしてね
-カトレア『...つかいこなせない\xfffeちょうのうりょく　なら\xf000븀\x0000\xfffeないほうが　まし　なのよね
-シキミ『しょうせつを　かくとき...\xfffeたくさん　インプット　してないと\xf000븀\x0000\xfffeアウトプット　できないんですよ\xf000븁\x0000\xfffeトレーナーも　おなじです\xf000븁\x0000\xfffeわんさと　しょうぶして\xfffeいろんな　ことを　まなんで\xf000븀\x0000\xfffeじっせんで　ためして　つよくなれます
-シキミ『にじいろのはね...\xfffeぎんいろのはね...\xf000븀\x0000\xfffeそうぞうりょくを　かきたてられます!
-シキミ『...やぶれたせかい\xfffeそこに　ただ１ぴきで　いた　ポケモン\xf000븀\x0000\xfffeなんて　げんそうてきな　こうけい!
-シキミ『...いくら　しゅざいしても\xfffeちっとも　わかりません\xf000븁\x0000\xfffeシロナさんって　おいくつ　かしら?\xfffeアナタ　どう　おもいます?
-シキミ『...アタシの　マフラーとか\xfffeある　ポケモンを　イメージしてます\xf000븁\x0000\xfffeアナタ　わかりますか?\xfffeイマジネーションは　だいじですよ?
+Caitlin: ...Are you familiar with\xfffethe Battle Castles?\xf000븁\x0000One exists in Johto and Sinnoh,\xfffeso if you like, go and challenge them.
+Caitlin: ...This is a villa of mine.\xf000븁\x0000I have them all over the world,\xfffeso I allow Cynthia to use this one.\xf000븁\x0000You're free to play here\xfffeif you wish, as well.
+Caitlin: ...If one's psychic ability\xfffewere truly uncontrollable,\xf000븀\x0000one would be better off without it.
+Shauntal: When writing a story...\xfffethere must be many inputs,\xf000븀\x0000or there can be no output.\xf000븁\x0000Trainers work the same way.\xf000븁\x0000They must battle much,\xfffestudy a variety of things, and\xf000븀\x0000test things out to become stronger.
+Shauntal: The Rainbow Wing...\xfffeThe Silver Wing...\xf000븀\x0000They stir up my imagination!
+Shauntal: ...That Pokémon in the Distortion World\xfffeis such a fantastic spectacle!
+Shauntal: ...No matter how much data I collect,\xfffeI haven't a clue.\xf000븁\x0000How old is Cynthia, I wonder?\xfffeWhat do you think?
+Shauntal: ...My muffler can give people the\xfffeimpression of looking like a Pokémon.\xf000븁\x0000Understand?\xfffeImagination is the key, isn't it?
 シロナ『いまよりも\xfffeつよくなるために　ひつようなこと?\xf000븁\x0000\xfffeそれは　ずっとずっと\xfffeポケモンを　すきで　いることかな\xf000븁\x0000\xfffeじぶんが　そうだったから\xfffeこんなことしか　いえないけど...
 シロナ『かくちほうの\xfffeチャンピオンが　つどい\xf000븀\x0000\xfffeだれが　さいきょうなのか　きそう!\xf000븁\x0000\xfffeそれが　チャンピオンズトーナメント!
-シロナ『ここで　くらしたいけれど\xfffeそうすると　けんきゅうしりょうが\xf000븀\x0000\xfffeやまのように　つみかさなるのよね...\xf000븁\x0000\xfffeそうよ!　シロナ!\xfffeこんどこそ　かたづけるのよ!
-シロナ『もんだいが　あります\xf000븁\x0000\xfffeしろい　みずぎと\xfffeくろい　みずぎ...\xf000븀\x0000\xfffeどちらが　あたしに　にあうかしら?
-シロナ『...うーん\xf000븁\x0000\xfffeむずかしいわね\xf000븁\x0000\xfffeあれこれ　よくばっちゃって\xfffeたくさんの　みずぎを　もってきたら\xf000븀\x0000\xfffeどれに　するか　えらべないの...
+Cynthia: I'd like to live here,\xfffebut if I did, my research data\xf000븀\x0000would stack as high as a mountain...\xf000븁\x0000That's right! Cynthia! This time,\xfffeyou shall settle things for good!
+Cynthia: I have a problem.\xf000븁\x0000A white swimsuit or\xfffea black swimsuit...\xf000븀\x0000which one better suits me, I wonder?
+Cynthia: ...Hm.\xf000븁\x0000It's difficult...\xf000븁\x0000I have so many swimsuits I want\xfffeto wear, it's impossible to choose one...
 Roxie: つよい　トレーナーになりたい\xfffeもっと　ベースが　うまくなりたい\xf000븁\x0000\xfffeどっちも　じつげん　させるから\xfffe２ばい　おいしい　じんせい　だよね!
 Roxie: ベースを　ひくのは\xfffeゆびでも　ピックでも　いいけど\xf000븀\x0000\xfffeすきなほうが　たのしーでしょ!
 Roxie: ベースって\xfffeギターより　おもいんだ!\xf000븁\x0000\xfffeだから　はかいりょく　あるよ!\xfffeおとも!　ぶきとしても!!
 Roxie: まんぞくしたら　ダメ!!
 Roxie: ...アタシ\xfffeキミの　なかで　いきてるの?\xf000븁\x0000\xfffeあーもー!\xfffeかし　かんがえるの　むずかし!\xf000븁\x0000\xfffeうたいだしたら　かってに\xfffeことばが　でてくるんだけど
-Skyla: カミツレちゃんとは\xfffeなかよし　だけど\xf000븀\x0000\xfffeポケモンしょうぶは　べつよ!\xf000븁\x0000\xfffeだいじなのは　やっぱり\xfffeでんき　たいさく　なの!
-Skyla: あれる　あめの　なか\xfffeあまぐもを　つきぬけたときに\xf000븀\x0000\xfffeはじめて　みえる　こうけい...\xf000븁\x0000\xfffeいつか　アナタにも　みせてあげたいな
-Skyla: ...いま　かんがえていたの\xf000븁\x0000\xfffeみずぎって　みせるもの　なの?\xfffeそれとも　かくすもの　なの?
+Skyla: I'm good friends with\xfffeKamitsure and all, but...\xf000븀\x0000Pokémon battles are kinda different!\xf000븁\x0000It's absolutely crucial I make plans\xfffeto counter electric-types!
+Skyla: Shooting through rainclouds\xfffein stormy weather\xf000븀\x0000is quite the spectacle...\xf000븁\x0000I'd like to show it to you someday!
+Skyla: ...I was thinking just now.\xf000븁\x0000Are swimsuits meant to be revealing?\xfffeOr else, to be concealing?
 Skyla: はるか　とおくの　シンオウも\xfffeひこうきを　つかえば　ひとっとび!\xf000븁\x0000\xfffeアタシは　ポケモンの　そらをとぶも\xfffeきもちよくて　だいすき　だけど
 Skyla: Mmm...\xfffeSwimming in the ocean sure feels great!
-Elesa: ...ポケモンの　みりょくを\xfffeひきだすには　ひきだす　がわにも\xf000븀\x0000\xfffeみりょくが　ないと　むずかしいわね
-Elesa: ...ライモンシティはね\xfffeでんきタイプ　ポケモンの\xf000븀\x0000\xfffeはつでんする　エネルギーで　うごくの\xf000븁\x0000\xfffe...ウソよ
-Elesa: なやんでばかりは\xfffeからだと　こころに　よくないの\xf000븁\x0000\xfffeそんなときは　しこうかいろを\xfffeわざと　ショートさせて\xf000븀\x0000\xfffeきぶんを　いっしん　させないと
-Elesa: はなさなくても...\xfffeはなせなくても...　トレーナーには\xf000븀\x0000\xfffeポケモンが　いて　わたしの　かわりに\xf000븀\x0000\xfffeきもちを　つたえてくれるの
+Elesa: ...Showing off a Pokémon's charm\xfffeoften takes away the charm.\xf000븀\x0000It's difficult.
+Elesa: ...Raimon City actually runs on\xfffeenergy provided by electric-type Pokémon.\xf000븁\x0000...Not really.
+Elesa: Constant worry is bad\xfffefor both the body and mind.\xf000븁\x0000At times like that, you have\xfffeto short-circuit your thoughts\xf000븀\x0000to restore your proper mood.
+Elesa: Without speaking...\xfffeWithout comprehensible language...\xf000븀\x0000Pokémon can convey my feelings\xf000븀\x0000to trainers in place of me.
 Elesa: Put bluntly, \xfffeswimsuits are nothing but cloth, right?
 こちら　ポケモンリーグ　してんのう\xfffeカトレアさまの　べっそうで　ございます
