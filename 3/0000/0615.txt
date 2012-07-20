@@ -1,13 +1,13 @@
-Iris: ねえねえ!\xf000븁\x0000\xfffeドラゴンタイプ　さいきょうの　わざ\xfffeあたしが　おしえてあげる!!\xf000븁\x0000\xfffeどうする?　ポケモンに\xfffeわざを　おぼえさせてあげる?
+Iris: Guess what!!\xf000븁\x0000\xfffeI can teach you the strongest\xfffeDragon-type move!\xf000븁\x0000\xfffeFun, huh? Want me to\xfffeteach your Pokémon this move?
 OK! Well, if you change your mind,\xfffecome again, OK?
-どれどれ...\xf000븁\x0000\xfffeその　ポケモンは\xfffeわざを　おぼえることは　できるけど\xf000븀\x0000\xfffeまだまだ　なついてないよ\xf000븁\x0000\xfffeそれだと　この　わざを\xfffeおぼえさせるのは　むずかしいな
-えーっと\xfffeえーっと\xf000븁\x0000\xfffeわざを　おぼえられる\xfffeポケモンは　いないみたい...
+Let me see...\xf000븁\x0000\xfffeWell, this Pokémon can learn the move,\xfffebut you need to have a really strong\xf000븀\x0000\xfffebond of friendship first.\xf000븁\x0000\xfffeI don't think I can teach it yet.
+OK, great!\xfffeOh, but...\xf000븁\x0000\xfffeYou don't seem to have a\xfffePokémon that can learn this move.
 OK, great! Which Pokémon should\xfffelearn this move?\xf000븁\x0000
-うーん　ごめんね...\xf000븁\x0000\xfffeその　ポケモンでは\xfffeこの　わざ　おぼえられないよ...
-エーッ!\xf000븁\x0000\xfffeタマゴに　わざを　おぼえさせるの?\xfffeじゃあ　アイリス　がんばってみるね\xf000븁\x0000\xfffe...　...　...\xfffe...　...　...\xf000븁\x0000\xfffeごめん...\xfffeちょっと　ムリみたい...
-どれどれ?\xf000븁\x0000\xfffeその　ポケモン　すでに\xfffe\xf000ć\x0001\x0000を　おぼえているよ?
-Iris: りゅうせいぐんの　いりょくは\xfffeものすごーく　すごいんだけど!\xf000븁\x0000\xfffeつかったあとは　じぶんの\xfffeとくしゅこうげきも　さがっちゃうんだ
-\xf000ć\x0001\x0000に　わざを\xfffeおぼえさせるのを　あきらめますか?
+Um... I'm sorry...\xfffeThat Pokémon can't learn this move!
+What?\xf000븁\x0000\xfffeYou want me to teach the move to an Egg?\xfffeOK, I'll do my best!\xf000븁\x0000\xfffe...\xfffe...\xf000븁\x0000\xfffeSorry!\xfffeI think it's impossible!
+This one?\xf000븁\x0000\xfffeUm, but...it looks like this Pokémon\xfffealready knows \xf000ć\x0001\x0000.
+Iris: Draco Meteor's power is\xfffereally amazing!\xf000븁\x0000\xfffeBut after you use it, your Sp. Atk stat\xfffegoes down.
+Give up on teaching a move\xfffeto \xf000Ă\x0001\x0000?
 \xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
 \xf000Ă\x0001\x0000 is trying to\xfffelearn \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeBut \xf000Ă\x0001\x0000 can't learn\xfffemore than four moves.\xf000븁\x0000\xfffeDelete a move to make\xffferoom for \xf000ć\x0001\x0001?
 Give up on learning the\xfffemove \xf000ć\x0001\x0000?
@@ -15,18 +15,18 @@ Give up on learning the\xfffemove \xf000ć\x0001\x0000?
 Is it OK to forget the\xfffemove \xf000ć\x0001\x0000?
 １\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014　…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいに　わすれた!\xf000븁\x0000\xfffeそして...!\xf000븁\x0000\xfffe
 \xf000Ă\x0001\x0000 learned \xf000ć\x0001\x0002!
-シャガ『きみが　のぞむなら\xfffeきみの　ポケモンに\xf000븀\x0000\xfffeドラゴンタイプ　さいきょうの\xf000븀\x0000\xfffeわざを　おしえても　よい\xf000븁\x0000\xfffeさて　ポケモンに\xfffeわざを　おぼえさせるかね?
+Drayden: If you wish, I can teach your\xfffePokémon the strongest\xf000븀\x0000\xfffeDragon-type move.\xf000븁\x0000\xfffeWould you like your Pokémon to learn\xfffethat move?
 Understood.\xfffeCome again if you change your mind.
-フム...\xf000븁\x0000\xfffeきみが　つれている　ポケモンは\xfffeわざを　おぼえることは　できる\xf000븁\x0000\xfffeだが　その　ポケモンは　まだ\xfffeきみに　かんぜんに　なついていない\xf000븁\x0000\xfffeそれでは　この　わざを\xfffeおぼえさせる　わけには　いかない
-なるほど...\xf000븁\x0000\xfffeだが　きみが　つれている　なかに\xfffeわざを　おぼえられる\xf000븀\x0000\xfffeポケモンは　いないようだね
+Hmm...\xf000븁\x0000\xfffeThis Pokémon can learn this move, but\xfffeyour bond of friendship is not yet\xf000븀\x0000\xfffestrong enough.\xf000븁\x0000\xfffeThat means I cannot teach\xfffeit this move.
+I see...\xf000븁\x0000\xfffeBut there are no Pokémon with\xfffeyou right now that can learn this move.
 Which Pokémon should\xfffelearn this move?\xf000븁\x0000
-もうしわけないのだが...\xf000븁\x0000\xfffeその　ポケモンでは\xfffeこの　わざは　おぼえられない
-フム...\xf000븁\x0000\xfffeタマゴに　わざを　おぼえさせるのは\xfffeわたしにも　むずかしいな
+I'm very sorry, but...\xf000븁\x0000\xfffeThis Pokémon cannot learn this move.
+That's an interesting request, but...\xfffeNot even I can teach a move to an Egg.
 Hmm... It looks like this Pokémon\xfffealready knows \xf000ć\x0001\x0000.
-シャガ『りゅうせいぐんの　いりょくは\xfffeすさまじいが　つかうと　じぶんの\xf000븀\x0000\xfffeとくしゅこうげきも　さげてしまうぞ
-つよさを　もとめて\xfffeこんなところまで　きおったか\xf000븁\x0000\xfffe...よろしい\xf000븁\x0000\xfffeその　ねついに　こたえて\xfffeこれぞ!　という　わざを　おしえよう\xf000븁\x0000\xfffeきゅうきょくの　わざ!\xfffeおぬしの　ポケモンに　おしえるのか?
-きゅうきょくの　わざ!\xfffeおぬしの　ポケモンに　おしえるのか?
-おぬしの　つれている\xfffeポケモンでは　おぼえられんぞ!\xf000븁\x0000\xfffeばあさんに　きくのじゃ!　カッ!!
+Drayden: Draco Meteor's power is\xfffeexceptional, but using it lowers\xf000븀\x0000\xfffethe user's Sp. Atk stat.
+Your quest for power has brought\xfffeyou here...\xf000븁\x0000\xfffeVery well.\xf000븁\x0000\xfffeLet me reward your passion with some\xfffeabsolutely astounding moves.\xf000븁\x0000\xfffeThey're the ultimate moves!\xf000븁\x0000\xfffeShall I teach them to\xfffeyour Pokémon?
+The ultimate moves!\xfffeWhich Pokémon shall I teach?
+The Pokémon with you can't\xfffelearn these moves!\xf000븁\x0000\xfffeGo talk to my wife! Keh!!
 Hmm... Well, that is fine, as well.\xfffeVisit if you have a change of heart.
 Well, which Pokémon should I teach?\xf000븁\x0000
 That Pokémon can't learn a move!\xfffeGo talk to my wife! Keh!
@@ -34,18 +34,18 @@ Teach a move to an Egg?\xfffeImpossible, even for me! Keh!
 The bond with your Pokémon\xfffeis not strong enough! Keh!
 That Pokémon already knows\xfffethat move! Keh!
 I should teach \xf000ć\x0001\x0001 to\xfffe\xf000ā\x0001\x0000, right? Keh!
-ここに　しるした　ポケモンに\xfffeきゅうきょくの　わざを　おしえる!\xf000븁\x0000\xfffeもえる　ほのおの　ポケモン\xfffe　リザードン　バクフーン\xf000븀\x0000\xfffe　バシャーモ　ゴウカザル\xf000븀\x0000\xfffe　エンブオー\xf000븁\x0000\xfffeたゆたう　みずの　ポケモン\xfffe　カメックス　オーダイル\xf000븀\x0000\xfffe　ラグラージ　エンペルト\xf000븀\x0000\xfffe　ダイケンキ\xf000븁\x0000\xfffeしずかな　くさの　ポケモン\xfffe　フシギバナ　メガニウム\xf000븀\x0000\xfffe　ジュカイン　ドダイトス\xf000븀\x0000\xfffe　ジャローダ
-きみ　きみ!\xf000븁\x0000\xfffeはかせから　もらった\xfffeポケモン　つれているか?\xf000븁\x0000\xfffeはかせから　もらった　ポケモンなら\xfffeどの　しんかけい　でも\xf000븀\x0000\xfffeきみに　なついとったら\xf000븁\x0000\xfffeとくべつな　わざ...\xfffeがったいわざを　おしえてあげるで?
+Allow me to recite the Pokémon who\xfffecan be taught the ultimate moves!\xf000븁\x0000The blazing fire Pokémon...\xfffeCharizard, Typhlosion,\xf000븀\x0000Blaziken, Infernape,\xf000븀\x0000and Emboar!\xf000븁\x0000The restless water Pokémon...\xfffeBlastoise, Feraligatr,\xf000븀\x0000Swampert, Empoleon,\xf000븀\x0000and Daikenki!\xf000븁\x0000And the quiet grass Pokémon...\xfffeVenusaur, Meganium,\xf000븀\x0000Sceptile, Torterra,\xf000븀\x0000and Jalorda!
+Heya!\xf000븁\x0000\xfffeThe professor gave you a Pokémon to\xfffestart your journey, right?\xf000븁\x0000\xfffeIf that Pokémon is still with you, and if\xfffeyou two have a strong bond, there's a\xf000븀\x0000\xfffespecial move it can learn...\xf000븁\x0000\xfffeWant me to teach it a battle combo move?
 A special move...\xfffeShould I teach it a battle-combo move?
 I can't teach these Pokémon.
 Is that so...\xfffeWell, come on back now, y'hear?
 Which Pokémon should learn the move?\xf000븁\x0000
-その　ポケモンは\xfffeとくべつな　わざを　おぼえへんよ\xf000븁\x0000\xfffeとくべつな　わざを　おぼえるのは\xfffeポケモンはかせ　から\xf000븀\x0000\xfffeもらえる　ポケモン　ぜんぶ　なんや!
+Now, that Pokémon can't learn this\xfffespecial move!\xf000븁\x0000\xfffeI told ya, it's only for the Pokémon who\xfffestarted your journey with you.
 Teach a move to an Egg?\xfffeWhat kinda crazy talk is that?!
 This Pokémon... Well, it doesn't look\xfffelike it's too comfortable with you yet.
 I can't teach it twice. This Pokémon\xfffealready knows the special move!
 Want me to teach \xf000ć\x0001\x0001\xfffeto \xf000ā\x0001\x0000?
-わいの　おきにいり　ポケモン\xf000븁\x0000\xfffeポケモンはかせ　から\xfffeもらえる　ポケモン　ぜんぶ　なんや!\xf000븁\x0000\xfffeこいつらに　とくべつな　わざ...\xfffeがったいわざを　おしえる...!\xf000븀\x0000\xfffeそれが　わいの　ちかい　や!
+The Pokémon I've taken a shine to are\xfffethe ones you get from the professor!\xf000븁\x0000\xfffeTo teach all of these Pokémon a\xfffespecial move, a battle combo move...\xf000븀\x0000\xfffeThat's my pledge!
 わしは　わざおしえ　しょくにん\xf000븁\x0000\xfffeそして　むるいの\xfffe\xf000ĉ\x0001\x0000　マニア!\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0000を　くれたら　おれいに\xfffeおまえさんの　ポケモンに\xf000븀\x0000\xfffeわざを　おしえて　あげるよ\xf000븁\x0000
 わしは　わざおしえ　しょくにん!\xf000븁\x0000
 ポケモンに\xfffeわざを　おしえるかい?
