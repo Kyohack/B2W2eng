@@ -40,48 +40,48 @@
 ハチクマン　ふっかつ？\xfffeゆめの　けっせんは　そらをこえて
 NO DATA
 NO DATA
-ハチクマン
-ハチクマンの　ぎゃくしゅう
-ハチクマンの　ぎゃくしゅう２
-フルメタルコップ
-フルメタルコップ２
-フルメタルコップ３
-フルメタルコップ４
-しんりゃくしゃ
-しんりゃくしゃ　エピソード２
-しんりゃくしゃ　エピソード３
-しんりゃくしゃ　エピソード４
-だいかいじゅう
-だいかいじゅう　エピソード２
-だいかいじゅう　エピソード３
-だいかいじゅう　エピソード４
-タイムゲート　トラベラー
-タイムゲート　トラベラー２
-タイムゲート　トラベラー３
-トレーナーとポケモン　そのあい
-トレーナーとポケモン　そのあい　２
-トレーナーとポケモン　そのあい　３
+Brycenman
+Brycenman's Revenge
+Brycenman's Revenge 2
+Full Metal Cop
+Full Metal Cop 2
+Full Metal Cop 3
+Full Metal Cop 4
+Invaders
+Invaders Episode 2
+Invaders Episode 3
+Invaders Episode 4
+Monster
+Monster Episode 2
+Monster Episode 3
+Monster Episode 4
+Time Gate Traveler
+Time Gate Traveler 2
+Time Gate Traveler 3
+Trainer & Pokemon Love
+Trainer & Pokemon Love 2
+Trainer & Pokemon Love 3
 まほうのくにの　ふしぎなとびら
 まほうのくにの　ふしぎなとびら２
 まほうのくにの　ふしぎなとびら３
-ＯＬ・ザ・ジャイアント！！
-ＯＬ・ザ・ジャイアント！！　パート２
-ＯＬ・ザ・ジャイアント！！　パート３
-ＯＬ・ザ・ジャイアント！！　パート４
-きょうふ！　あくむの　あかいきり
-きょうふ！　あくむの　あかいきり２
-きょうふ！　あくむの　あかいきり３
-わすれえぬ　きおく
-わすれえぬ　きおく２
-わすれえぬ　きおく３
-わすれえぬ　きおく４
-ゴーストイレイザー
-ゴーストイレイザー２
-ゴーストイレイザー３
-ゴーストイレイザー４
-ハチクマンのぎゃくしゅうリターンズ
-ハチクマン
-まいカット　あいてを　たおせ
+OL The Giant!!
+OL The Giant!! Part 2
+OL The Giant!! Part 3
+OL The Giant!! Part 4
+Fear! The Red Fog Nightmare 
+Fear! The Red Fog Nightmare 2
+Fear! The Red Fog Nightmare 3
+Forgotten Memories
+Forgotten Memories 2
+Forgotten Memories 3
+Forgotten Memories 4
+Ghost Erasers
+Ghost Erasers 2
+Ghost Erasers 3
+Ghost Erasers 4
+Brycenman's Revenge Returns
+Brycenman
+Defeat your opponent in every take
 ５カットの　あいだ　いきのこれ\xfffeあいてを　たおすと　ＮＧ
 １５カットいないにセットＨ１をたおせ\xfffeほかの　あいては　むししても　ＯＫ
 ５カットいないに　じぶんの\xfffeポケモンを　ぜんめつ　させろ
@@ -116,19 +116,19 @@ NO DATA
 ６カットの　あいだ　いきのこれ\xfffeあいてを　たおすと　ＮＧ
 ふぶき　で　セットＲ２を　たおせ\xfffeそれいがいの　わざで　たおすと　ＮＧ
 ９カットいないにセットＲ１をたおせ
-まいカット　あいてを　たおせ
-まいカット　あいてを　たおせ
+Defeat your opponent in every take
+Defeat your opponent in every take
 ６カットいないに\xfffeすべての　あいてを　たおせ
 １０カットいないに\xfffeすべての　あいてを　たおせ
-まいカット　あいてを　たおせ
-まいカット　あいてを　たおせ
-ＴＩＴＬＥ　えいがの　なまえ
-ＰＬＯＴ　あらすじ
-ＭＩＳＳＩＯＮ　クリアもくひょう
-きゃくほん
-きょうえんしゃ
-ＣＡＳＴ　きょうえんしゃ
-Item
+Defeat your opponent in every take
+Defeat your opponent in every take
+TITLE Movie Title
+PLOT Script
+MISSION Goal
+SCENARIO
+Co-Star
+CAST Co-Star
+BAG
 Ability
 \xf000Ă\x0001\x0000
 ♂
@@ -141,13 +141,13 @@ Lv. \xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 /
-やくめい
+Official Title
 \xf000\xff00\x0001\x0001\xf000Ŀ\x0001\x0000\xf000\xff00\x0001\x0000\xfffeの　さつえいに　チャレンジしますか？
-チャレンジする
+Challenge
 DETAILS
 CANCEL
-このさくひんを　かんしょう\xfffeしますか？
-このさくひんの　こうかいを\xfffeしゅうりょう　しますか？
+Would you like to\xfffewatch this shot?
+Are you sure you want to quit\xfffethe movie shoot?
 Are you sure you want to exit,\xfffewill be removed？\xfffe
 Yes
 No
@@ -155,25 +155,25 @@ Info
 View
 Back
 Quit
-スクリーン　１
-スクリーン　２
-スクリーン　３
-スクリーン　４
-スクリーン　５
-スクリーン　６
-スクリーン　７
-スクリーン　８
-おもな　しゅつえんキャスト
-こうぎょうせいせき
-あらすじ
-じょうえいさくひんの　さいこうきろく
-こうぎょうせいせき　きろく
+SCREEN 1
+SCREEN 2
+SCREEN 3
+SCREEN 4
+SCREEN 5
+SCREEN 6
+SCREEN 7
+SCREEN 8
+Featured Cast
+Box Office
+Synopsis
+Best Record of Films
+Box Office Record
 \xf000ȃ\x0001\x0002おく円
 おもな　しゅつえんキャスト
 \xf000Ā\x0001\x0001
 \xf000ȃ\x0001\x0000/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-こうかいび
+Release Date
 ？？？おく円
 ＶＳ　\xf000Č\x0001\x0000キッド
 ＶＳ　\xf000Č\x0001\x0000キッド\xfffeかえってきた　ハチクマン
@@ -190,9 +190,9 @@ Quit
 きかいじかけの　かいぶつ
 しんぴの　すなはま
 Ｍ・Ｂ　ふたたび
-デスティニー・メガネ
-ポケモン・ウォーリアー
-ロスト・アンド・リゲイン
+Destiny Scope
+Pokemon Warrior
+Lost and Found
 ペネロペの　ばあい
 バルバラの　ばあい
 マリアの　ばあい
@@ -206,16 +206,16 @@ Quit
 モーテル の　かいき
 ゆうえんちを　さまようもの
 はかばからの　よびごえ
-きどう
-トモダチ
+Start
+Friends
 ぼうそう
-サヨナラ
-ゴーストイレイザー　ファイル１\xfffeゆうれいたちの　むら
-ゴーストイレイザー　ファイル２\xfffeあくりょう　しょうじょ
-ゴーストイレイザー　ファイル３\xfffeあくりょうの　ひほう
-ゴーストイレイザー　ファイル４\xfffeはかいの　まじん
-ザ・ドリームマッチ！！
-ＶＳ　せいぎの　ちゅうねん
+Goodbyes
+Ghost Eraser - FILE 1\xfffeGhost Village
+Ghost Eraser - FILE 2\xfffeCursed Girl
+Ghost Eraser - FILE 3\xfffeDemon Treasures
+Ghost Eraser - FILE 4\xfffeDestructive Spirit
+The Dream Match!!
+VS Wise Man
 ＶＳ　\xf000Č\x0001\x0000ガール
 ＶＳ　\xf000Č\x0001\x0000ガール\xfffeかえって　きた　ハチクマン
 ＶＳ　\xf000Č\x0001\x0000ガール\xfffeハチクマンの　さいご
@@ -223,20 +223,20 @@ Quit
 \xf000Č\x0001\x0000クノイチの　ワナ
 \xf000Č\x0001\x0000クノイチＶＳいもうとポリス
 \xf000Č\x0001\x0000クノイチ　さいごのじけん
-そらからの　きょうふ
-ＵＦＯと　なぞのおんな
-デコイさくせん
+Fear in the Sky
+The UFO and Mysterious Woman
+Decoy Strategy
 じんるい　さいごのけっせん
 しゅつげん！　だいバンギラス！！
 きかいじかけの　かいぶつ
 しんぴの　すなはま
-Ｍ・Ｂ　ふたたび
-デスティニー・メガネ
-ポケモン・ウォーリアー
-ロスト・アンド・リゲイン
-ミゲルの　ばあい
-カミロの　ばあい
-アントニオの　ばあい
+M.T: Second Coming
+Destiny Scope
+Pokemon Warrior
+Lost and Found
+Miguel's Moment
+Camillo's Moment
+Antonio's Moment
 とびらの　おくへ……
 とびらの　ひみつ
 とびらを　あけて……
@@ -244,16 +244,16 @@ Quit
 ほうもんしゃは　なんどでも\xfffeインターフォンを　ならす
 ＯＬの　かのじょは　その\xfffeきょだいかに　いかに　くのうしたか
 さらば　いとしき　ジャイアント
-モーテル の　かいき
+Mysterious Motel
 ゆうえんちを　さまようもの
 はかばからの　よびごえ
-きどう
-トモダチ
+Start
+Friends
 ぼうそう
-サヨナラ
-ゴーストイレイザー　ファイル１\xfffeゆうれいたちの　むら
-ゴーストイレイザー　ファイル２\xfffeあくりょう　しょうじょ
-ゴーストイレイザー　ファイル３\xfffeあくりょうの　ひほう
-ゴーストイレイザー　ファイル４\xfffeはかいの　まじん
-ザ・ドリームマッチ！！
-ＶＳ　せいぎの　ちゅうねん
+Goodbyes
+Ghost Eraser - FILE 1\xfffeGhost Village
+Ghost Eraser - FILE 2\xfffeCursed Girl
+Ghost Eraser - FILE 3\xfffeDemon Treasures
+Ghost Eraser - FILE 4\xfffeDestructive Spirit
+The Dream Match!!
+VS Wise Man
