@@ -112,41 +112,41 @@ YES
 NO
 MOVE POKÉMON
 BATTLE BOX
-ポケモンを　しぼりこむ
-じょうけんを　えらび　ＯＮに　すると\xfffeしぼりこみを　おこないます。
-ポケモンの　なまえの\xfffeかしらもじを　えらんでください。
-ポケモンを　えらんでください。\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xfffe\xf000\xff00\x0001\x0000タイプ１：　\xf000ă\x0001\x0001\xfffeタイプ２：　\xf000ă\x0001\x0002
-ポケモンを　えらんでください。\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xf000\xff00\x0001\x0000\xfffeタイプ１：　\xf000ă\x0001\x0001\xfffeタイプ２：　ーーーー
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　　\xf000\xff00\x0001\x0002がんばりや\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002さみしがり\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeぼうぎょが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002ゆうかん\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeすばやさが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002いじっぱり\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeとくこうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002やんちゃ\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeとくぼうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002ずぶとい\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000ぼうぎょが　せいちょう　しやすい。\xfffeこうげきが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002すなお\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002のんき\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000ぼうぎょが　せいちょう　しやすい。\xfffeすばやさが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002わんぱく\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000ぼうぎょが　せいちょう　しやすい。\xfffeとくこうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002のうてんき\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000ぼうぎょが　せいちょう　しやすい。\xfffeとくぼうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002おくびょう\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000すばやさが　せいちょう　しやすい。\xfffeこうげきが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002せっかち\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000すばやさが　せいちょう　しやすい。\xfffeぼうぎょが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002まじめ\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002ようき\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000すばやさが　せいちょう　しやすい。\xfffeとくこうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002むじゃき\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000すばやさが　せいちょう　しやすい。\xfffeとくぼうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002ひかえめ\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくこうが　せいちょう　しやすい。\xfffeこうげきが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002おっとり\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくこうが　せいちょう　しやすい。\xfffeぼうぎょが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002れいせい\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくこうが　せいちょう　しやすい。\xfffeすばやさが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002てれや\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002うっかりや\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくこうが　せいちょう　しやすい。\xfffeとくぼうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002おだやか\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくぼうが　せいちょう　しやすい。\xfffeこうげきが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002おとなしい\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくぼうが　せいちょう　しやすい。\xfffeぼうぎょが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002なまいき\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくぼうが　せいちょう　しやすい。\xfffeすばやさが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002しんちょう\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくぼうが　せいちょう　しやすい。\xfffeとくこうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002きまぐれ\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
-とくせいの\xfffeかしらもじを　えらんでください。
-とくせいを　えらんでください。\xfffe\xfffeとくせい：　\xf000\xff00\x0001\x0002\xf000Ć\x0001\x0000\xf000\xff00\x0001\x0000\xfffe
-ポケモンの\xfffeせいべつを　えらんでください。
-ポケモンの　もちものに　ついて\xfffeえらんでください。
-ポケモンの　マーキングについて\xfffeえらんでください。
+Narrow down your Pokémon
+Choose the conditions to search\xfffeon, then narrow it down.
+Select the first letter\xfffeof the Pokémon's name.
+Please choose a Pokémon.\xfffe\xfffeName: \xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xfffe\xf000\xff00\x0001\x0000Type1: \xf000ă\x0001\x0001\xfffeType2: \xf000ă\x0001\x0002
+Please choose a Pokémon.\xfffe\xfffeName: \xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xf000\xff00\x0001\x0000\xfffeType1: \xf000ă\x0001\x0001\xfffeType2: ----
+Please select the\xfffePokémon's Nature.\xfffeNature:  \xf000\xff00\x0001\x0002Hardy\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Has Balanced Growth.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Lonely\xfffe\xf000\xff00\x0001\x0000Attack grows easily.\xfffeDefense grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Brave\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Attack grows easily.\xfffeSpeed grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Adamant\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Attack grows easily.\xfffeSpecial Attack grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Naughty\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Attack grows easily.\xfffeSpecial Defense grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Bold\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Defense grows easily.\xfffeAttack grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Docile\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Has Balanced Growth.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Relaxed\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Defense grows easily.\xfffeSpeed grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Impish\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Defense grows easily.\xfffeSpecial Attack grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Lax\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Defense grows easily.\xfffeSpecial Defense grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Timid\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Speed grows easily.\xfffeAttack grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Hasty\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Speed grows easily.\xfffeDefense grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Serious\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Has Balanced Growth.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Jolly\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Speed grows easily.\xfffeSpecial Attack grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Naive\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Speed grows easily.\xfffeSpecial Defense grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Modest\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Special Attack grows easily.\xfffeAttack grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Mild\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Special Attack grows easily.\xfffeDefense grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Quiet\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Special Attack grows easily.\xfffeSpeed grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Bashful\xfffe\xf000\xff00\x0001\x0000Has Balanced Growth.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Rash\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Special Attack grows easily.\xfffeSpecial Defense grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Calm\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Special Defense grows easily.\xfffeAttack grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Gentle\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Special Defense grows easily.\xfffeDefense grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Sassy\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Special Defense grows easily.\xfffeSpeed grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Careful\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Special Defense grows easily.\xfffeSpecial Attack grows poorly.
+Please select the\xfffePokémon's Nature.\xfffeNature: \xf000\xff00\x0001\x0002Quirky\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Has Balanced Growth.
+Select the first letter\xfffeof the Abilities name.
+Please select the Ability.\xfffe\xfffeAbility: \xf000\xff00\x0001\x0002\xf000Ć\x0001\x0000\xf000\xff00\x0001\x0000\xfffe
+Please select the\xfffePokémon's Gender.
+Please select the\xfffePokémon's Item.
+Please select the\xfffePokémon's Markings.
 \xf000봂\x0000NAME
 \xf000봂\x0000NATURE
 \xf000봂\x0000CHARACTERISTIC
