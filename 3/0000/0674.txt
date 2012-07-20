@@ -1,10 +1,10 @@
-Welcome to the Pokémon Wi-Fi club!\xf000븁\x0000\xfffeＷｉ－Ｆｉコネクションを\xfffeごりよう　ですか?
+Welcome to the Pokémon Wi-Fi Club!\xf000븁\x0000\xfffeWould you like to use\xfffeNintendo Wi-Fi Connection?
 Please do visit again.
 Would you like to launch\xfffeNintendo WFC?
 Right this way, please.\xf000븁\x0000
-...あら?\xf000븁\x0000\xfffeおきゃくさまは\xfffeまだ　ともだちてちょうに\xf000븀\x0000\xfffeおともだちを　とうろく　してませんね\xf000븁\x0000\xfffeＷｉ－Ｆｉクラブは\xfffeともだちてちょうに\xf000븀\x0000\xfffeおともだちを　とうろく　していないと\xf000븀\x0000\xfffeごりよう　できません\xf000븁\x0000\xfffeおきゃくさまの　ともだちコードだけ\xfffeうけとりますか?\xf000Ȁ\x0001\x0000
+...Oh?\xf000븁\x0000\xfffeI'm sorry, but you don't have any\xfffefriends registered in your Pal Pad.\xf000븁\x0000\xfffeThe Wi-Fi Club cannot be used if\xfffeno friends are in your Pal Pad.\xf000븁\x0000\xfffeWould you like to get your own\xfffeFriend Code at least?\xf000Ȁ\x0001\x0000
 ...Oh?\xf000븁\x0000\xfffeI'm sorry, but you don't have any\xfffefriends registered in your Pal Pad.\xf000븁\x0000\xfffeThe Wi-Fi Club cannot be used if\xfffeno friends are in your Pal Pad.\xf000븁\x0000\xfffePlease register friends in your\xfffePal Pad, and then come back.\xf000븁\x0000
-Ｗｉ－Ｆｉクラブ　では\xfffeともだちてちょうに　とうろくした\xf000븀\x0000\xfffeひと　どうしで　ポケモンこうかんや\xf000븀\x0000\xfffeつうしんたいせんなどを　たのしめます\xf000븁\x0000\xfffeなかにある　モニターを　そうさすれば\xfffeじぶんが　あそびたい　ないようで\xf000븀\x0000\xfffeあいてを　ぼしゅう　できます\xf000븁\x0000\xfffeまた　ともだちに　ちょくせつ\xfffeはなしかけて　いっしょに\xf000븀\x0000\xfffeあそぶことも　できます\xf000븁\x0000\xfffeＷｉ－Ｆｉコネクションを\xfffeごりよう　ですか?
+At any Wi-Fi Club, you may play using\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffeBy doing so, you may trade or battle with\xfffefriends you have registered in your\xf000븀\x0000\xfffePal Pad.\xf000븁\x0000\xfffeCheck the monitor inside the room to find\xfffeother people to play with.\xf000븁\x0000\xfffeOr you may play with your friends\xfffeby talking to them directly.\xf000븁\x0000\xfffeWould you like to use\xfffeNintendo Wi-Fi Connection?
 Sorry, we're getting things ready.\xfffePlease come back later.
 You have at least one Pokémon\xfffethat can't be taken in.
 Communication error.
@@ -16,7 +16,7 @@ Back
 それでは　こちらに　どうぞ!\xf000븁\x0000
 またの　ごりようを\xfffeおまちして　おります
 Ｗｉ－Ｆｉひろば　は　\xfffeせかいの　ポケモントレーナーと\xf000븀\x0000\xfffeこうりゅう　できる　しせつです\xf000븁\x0000\xfffeおしゃべり　や　ひろばゲーム\xfffeＷｉ－Ｆｉひろば　だけの　どうぐ\xf000븀\x0000\xfffeタッチトイ　などで　あそべます\xf000븁\x0000\xfffeなお　Ｗｉ－Ｆｉひろば　は\xfffe１かいの　せつぞくで　あそべる\xf000븀\x0000\xfffeじかんが　きまって　います\xf000븁\x0000\xfffeしゅうりょう　までの　あいだ\xfffeたくさん　たのしんで　くださいね!\xf000븁\x0000\xfffeＷｉ－Ｆｉコネクションを\xfffeごりよう　ですか?\xf000Ȁ\x0001\x0000
-Ｗｉ－Ｆｉひろばへ　いく
+Go to Wi-Fi Plaza
 Info
 おきゃくさま\xfffeこちらへ　どうぞ!\xf000븁\x0000
 はじめまして!\xf000븁\x0000\xfffeポケモン　Ｗｉ－Ｆｉクラブの\xfffeあんないやく　アオナと　もうします\xf000븁\x0000\xfffeまずは　こちらを　どうぞ!\xf000븁\x0000
