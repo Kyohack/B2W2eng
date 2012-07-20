@@ -22,7 +22,7 @@ Come back for it later.
 We can raise two of your Pokémon.\xfffeWould you like us to raise another?
 You have energetic Pokémon.\xfffeDo you want your Pokémon back?
 By level, your \xf000ā\x0001\x0000 has\xfffegrown by about \xf000ȁ\x0001\x0001.\xf000븁\x0000
-\xf000ā\x0001\x0000を　ひきとるなら\xfffeりょうきんは　\xf000Ȅ\x0001\x0001円　だよ\xf000븀\x0000\xfffeひきとるかい?
+If you want your \xf000ā\x0001\x0000 back,\xfffeit will cost \xf000Ȅ\x0001\x0001円.\xf000븀\x0000\xfffeDo you want it back?
 You don't have enough money...
 \xf000Ā\x0001\x0001 took \xf000ā\x0001\x0000 back\xfffefrom the Day-Care Lady.\xf000븁\x0000
 Do you want to take back the other\xfffeone, too? 
@@ -32,6 +32,6 @@ Leave Pokémon
 Take back
 Back
 Lv. \xf000Ȃ\x0001\x0001
-\xf000ā\x0001\x0000⑭ Lv. \xf000Ȃ\x0001\x0001
-\xf000ā\x0001\x0000⑮ Lv. \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000♂ Lv. \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000♀ Lv. \xf000Ȃ\x0001\x0001
 \xf000ā\x0001\x0000 Lv. \xf000Ȃ\x0001\x0001
