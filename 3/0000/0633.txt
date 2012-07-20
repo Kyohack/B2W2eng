@@ -13,17 +13,17 @@
 せいかーい!　さすがね!\xfffeなんだか　うれしいから　これどうぞ!
 ずかんを　ながめると　おもしろいわよ\xf000븁\x0000\xfffeいがいな　ポケモンが　おおきかったり\xfffeイメージより　ちいさかったり　して
 This is a Poké Ball I got in the past.\xfffeI'm going to give it to you.\xf000븁\x0000
-ぜんぶの　ポケモンを\xfffeモンスターボールで　つかまえる\xf000븀\x0000\xfffeそれが　わたしの　こだわり　だよ
+You can't catch a Pokémon\xfffeif you don't have a Poké Ball!\xf000븁\x0000\xfffeThere are many types of Poké Balls,\xfffeso use the best one for the job.
 Skree skree!
 Hi, hi!\xfffeLet's play Pokémon rock-paper-scissors!
 Oh, that's no fun!
 Here goes!\xfffePokémon rock-paper-scissors...
-あなたが　ほのおで\xfffeあたしは　くさ...\xf000븁\x0000\xfffeくさタイプは\xfffeほのおタイプに　よわい...\xf000븀\x0000\xfffeということで　あたしの　まけね
-あなたが　ほのおで\xfffeあたしは　みず...\xf000븁\x0000\xfffeほのおタイプは\xfffeみずタイプに　よわい!\xf000븀\x0000\xfffeということで　あたしの　かち!
-あなたが　みずで\xfffeあたしは　ほのお...\xf000븁\x0000\xfffeほのおタイプは\xfffeみずタイプに　よわい...\xf000븀\x0000\xfffeということで　あたしの　まけね
-あなたが　みずで\xfffeあたしは　くさ...\xf000븁\x0000\xfffeみずタイプは\xfffeくさタイプに　よわい!\xf000븀\x0000\xfffeということで　あたしの　かち!
-あなたが　くさで\xfffeあたしは　みず...\xf000븁\x0000\xfffeみずタイプは\xfffeくさタイプに　よわい...\xf000븀\x0000\xfffeということで　あたしの　まけね
-あなたが　くさで\xfffeあたしは　ほのお...\xf000븁\x0000\xfffeくさタイプは\xfffeほのおタイプに　よわい!\xf000븀\x0000\xfffeということで　あたしの　かち!
+Your Pokémon is Fire type,\xfffeand mine is Grass type...\xf000븁\x0000\xfffeGrass type is weak against Fire type...\xfffeso I lose.
+Your Pokémon is Fire type,\xfffeand mine is Water type...\xf000븁\x0000\xfffeFire type is weak against Water type...\xfffeso I win!
+Your Pokémon is Water type,\xfffeand mine is Fire type...\xf000븁\x0000\xfffeFire type is weak against Water type...\xfffeso I lose.
+Your Pokémon is Water type,\xfffeand mine is Grass type...\xf000븁\x0000\xfffeWater type is weak against Grass type...\xfffeso I win!
+Your Pokémon is Grass type,\xfffeand mine is Water type...\xf000븁\x0000\xfffeWater type is weak against Grass type...\xfffeso I lose.
+Your Pokémon is Grass type,\xfffeand mine is Fire type...\xf000븁\x0000\xfffeGrass type is weak against Fire type...\xfffeso I win!
 FIRE
 GRASS
 WATER
