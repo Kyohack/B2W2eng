@@ -1,4 +1,4 @@
-Yes
-No
-Confirmation
-Close
+YES
+NO
+CONFIRM
+CLOSE
