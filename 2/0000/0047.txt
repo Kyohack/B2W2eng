@@ -17,5 +17,5 @@ If the leader drops out, the group will\xfffebe disbanded. Is that OK?
 \xf000Ā\x0001\x0000, the leader, has left.\xfffeThe group will be disbanded.
 Seeking a Spin Trade!
 Spin Trade in progress!
-Yes
-No
+YES
+NO
