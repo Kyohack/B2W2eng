@@ -5,6 +5,6 @@ The saved data\xfffecould not be accessed.\xf000븁\x0000
 Unable to connect to the\xfffeother DS system.\xf000븁\x0000
 おもいでリンク　きどうちゅう！\xfffeレポートを　リンクしています\xfffeこのまま　しばらく　おまちください
 Error reading the save file.\xfffeThere may not be a save file,\xfffeor the save file may be corrupted.\xf000븁\x0000
-Yes
-No
-おもいでリンク
+YES
+NO
+MEMORY LINK
