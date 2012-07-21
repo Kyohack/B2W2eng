@@ -1,6 +1,6 @@
-Confirm
-Cancel
+CONFIRM
+CANCEL
 Please enter a phrase or word.
 Stop giving the Pokémon Mail?
-Yes
-No
+YES
+NO
