@@ -4,8 +4,8 @@ A Digital Player ID will be received\xfffevia Infrared Connection.\xf000븁\x000
 You have registered and unregistered\xfffefrom this tournament already.\xf000븁\x0000\xfffeYou cannot reregister\xfffefor this tournament.\xf000븁\x0000
 You have registered and participated\xfffein this tournament already.\xf000븁\x0000\xfffeYou cannot reregister for a tournament\xfffeyou've already participated in.\xf000븁\x0000
 Your Battle Box will be registered\xfffefor the tournament.\xf000븁\x0000\xfffeCaution!\xfffeOnce registered,\xf000븀\x0000\xfffeyou will not be able to\xf000븀\x0000\xfffemove your Pokémon to or from\xf000븀\x0000\xfffeyour Battle Box.\xf000븁\x0000\xfffeWill you still register the Pokémon\xfffein your Battle Box?
-Yes
-No
+YES
+NO
 Will you cancel registering\xfffethe Pokémon to participate?
 The conditions for the tournament\xfffehave not been met.\xf000븁\x0000\xfffePlease place your Pokémon\xfffein the Battle Box.\xf000븁\x0000
 Saving...\xfffeDon't turn off the power.
