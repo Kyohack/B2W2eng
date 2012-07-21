@@ -12,8 +12,8 @@ Well, that's enough from me...\xfffeCould you tell me about yourself?\xf000븁\x
 Are you a boy?\xfffeOr a girl?\xf000븁\x0000
 You're a boy, right?\xf000븁\x0000
 You're a girl, right?\xf000븁\x0000
-What do you think of\xfffe\xf000Ĝ\x0001\x0000?
-Do you think \xf000Ĝ\x0001\x0000\xfffecan \xf000Ĝ\x0001\x0001?
+Boy
+Girl
 I'd like to know your name.\xf000븁\x0000\xfffePlease tell me.\xf000븁\x0000
 Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
 Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
@@ -27,7 +27,7 @@ Hugh
 Default 1
 Default 2
 What is his name?
-\xf000Ā\x0001\x0001　is\xfffehis name?\xf000븁\x0000
+\xf000Ā\x0001\x0001 is\xfffehis name?\xf000븁\x0000
 This young man is Cheren.\xf000븁\x0000\xfffeHe can be a little difficult, but\xfffehe's a very honest person.\xf000븁\x0000
 This young woman is Bianca.\xf000븁\x0000\xfffeShe's a little flighty,\xfffebut she works very hard.\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIt's important that you\xfffeget going and pick up your\xf000븀\x0000\xfffenew Pokémon.\xf000븁\x0000
