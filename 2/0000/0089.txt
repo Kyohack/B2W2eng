@@ -34,7 +34,7 @@ YES
 NO
 Will you receive this Pass Power\xfffefrom the Entree?
 AVAILABLE PASS POWER
-『\xf000Ĝ\x0001\x0000』　を\xfffeハイルツリーから　うけとった！\xf000븁\x0000\xfffeうけとった『\xf000Ĝ\x0001\x0000』を\xfffeＣギアに　とうろくした！
+Received “\xf000Ĝ\x0001\x0000"\xfffefrom the Entree!\xf000븁\x0000\xfffeThe “\xf000Ĝ\x0001\x0000" is\xffferegistered to C-Gear!
 RECEIVE POWER
 Please select the Pass Power\xfffeyou want to receive from the Entree.
 CURRENT PASS POWER

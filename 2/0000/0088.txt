@@ -345,8 +345,8 @@ Well...\xfffeI guess I don't need it right now.\xf000븁\x0000\xfffeKeep me post
 ー
 ー
 ー
-……あれ？\xfffeおかねが　たりないみたいですね\xf000븀\x0000\xfffeまた　こんど　ということで！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
-……あれれ？\xfffeおかねが　たりないみたいですね\xf000븀\x0000\xfffeまた　こんど　ということで！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
+Sorry, you don't have enough money.\xfffeMaybe next time.\xf000븀\x0000\xfffeWell, see you another time, another place!
+Sorry, you don't have enough money.\xfffeMaybe next time.\xf000븀\x0000\xfffeWell, see you another time, another place!
 ー
 ー
 ー
@@ -356,7 +356,7 @@ Ouch!\xfffeI wanted to buy it, but I don't have\xf000븀\x0000\xfffeenough money
 ー
 ー
 Oh my...\xfffeYour Bag is full.\xf000븀\x0000\xfffeMaybe next time.\xf000븁\x0000\xfffeWell, see you another time,\xfffeanother place!
-……あれれ？\xfffeおかねが　たりないみたいですね\xf000븀\x0000\xfffeまた　こんど　ということで！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
+Sorry, you don't have enough money.\xfffeMaybe next time.\xf000븀\x0000\xfffeWell, see you another time, another place!
 ー
 ー
 ー

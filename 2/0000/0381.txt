@@ -165,10 +165,10 @@ The athletes' Pokémon are great!\xf000븁\x0000\xfffeBut my Pokémon are also g
 Your Pokémon are also great!
 おたがいの　ポケモンを\xfffeたたえるために　これを！\xf000븁\x0000
 I will strive to raise my Pokémon\xfffeto that level!
-きょうの　しあい　みたーっ！？\xf000븁\x0000\xfffeせんしゅと　ポケモンの\xfffeおりなす　ボールさばき！\xf000븁\x0000\xfffeこの　こうふんを\xfffeしょうぶに　ぶつけるわ！\xf000븁\x0000
+Did you see today's game?!\xf000븁\x0000\xfffeThere was some great ball handling\xfffeby players and Pokémon!\xf000븁\x0000\xfffeThe excitement is pumping me up\xfffefor a battle!\xf000븁\x0000
 I lost, but I am still excited!
 こうふん　しちゃったから\xfffeプレゼント　しちゃうわ！！\xf000븁\x0000
-スポーツを　たのしむ\xfffeポケモンちゃんが　みられるのは\xf000븀\x0000\xfffeライモンシティ　だけ！
+The only place you can watch Pokémon\xfffeenjoying sports is Nimbasa City!
 When I come here, I get hyper!\xfffeSo, let's have a battle right away!\xf000븁\x0000
 I lost against you too quickly!
 アッサリ　これを　あげるっ！\xf000븁\x0000
@@ -188,7 +188,7 @@ Even as an Ace Trainer, sometimes\xfffeI just want to be an ordinary girl!\xf000
 つぎは　どっちの　チームが\xfffeゴールを　きめるか！？\xf000븀\x0000\xfffeオレに　かてば　おしえるよ！\xf000븁\x0000
 Aha!\xfffeThat team will score next!
 ピキーン！\xfffeオレは　これを　あげる！\xf000븁\x0000
-オレの　ちょうのうりょく\xfffeボールが　ゴールに　きまる\xf000븀\x0000\xfffeすんぜんにしか　はたらかないよ
+My psychic power only works\xffferight before a player scores a point.
 うふふ……\xf000븁\x0000\xfffeわたしが　ねんじた　チームが\xfffeかならず　かつのよ！\xf000븁\x0000
 What...? Was everything up till now\xfffejust a coincidence...?
 わたしに　かてた　ひとには\xfffeかならず　あげるのよ！\xf000븁\x0000
@@ -200,7 +200,7 @@ I like quiet nature,\xfffebut I like lively places like this, too.
 スポーツの　おおくは\xfffeジェントルマンの　あそびから\xf000븀\x0000\xfffeうまれて　いるのだよ！\xf000븁\x0000
 Ladies and Gentlemen!\xfffeThe game is over!
 Because I am a Gentleman,\xfffeI will present you with this gift.\xf000븁\x0000
-ポケモンしょうぶは　ひとと\xfffeポケモンが　なかよくなり\xf000븀\x0000\xfffeしぜんに　うまれた　あそびだね
+Pokémon battles were born spontaneously\xfffewhen people and Pokémon\xf000븀\x0000\xfffefirst became friendly.
 Hey, hey, did you see that? Awesome!\xfffeA lot of famous people from TV are here!\xf000븁\x0000
 Athletes are all coooool.\xfffeI want to be like them.
 オメーも　かっこいいな\xfffeあこがれるよー！　これ　やるよー！\xf000븁\x0000
@@ -365,7 +365,7 @@ Kat: Come on!\xf000븁\x0000\xfffePhae: Look! Even though we lost, \xfffethe bal
 When you are watching basketball,\xfffeit reminds you of fruit in a basket,\xf000븀\x0000\xfffeand it looks delicious. Right?
 Basketball... No, no. For a battle,\xfffeyou need to have two Pokémon.
 My special skill is that I can\xfffespin a ball on my finger.\xf000븀\x0000\xfffeI can spin it forever!\xf000븁\x0000
-あらゆる　スポーツで　つかう\xfffeボールと　おんなじ　デザインの\xf000븀\x0000\xfffeモンスターボールが　ほしいわ！
+I want to have Poké Balls\xfffewith the same designs as\xf000븀\x0000\xfffethe balls used in sports!
 Basketball... No, no. For a battle,\xfffeyou need to have two Pokémon.
 Look!\xfffeMy defense is magnificent!\xf000븁\x0000
 Hawk: It's strange. When professionals\xfffeare playing, it looks so easy...\xf000븁\x0000\xfffeDar: I guess we cannot play\xfffequite as well as the professionals...
@@ -959,7 +959,7 @@ Strike with fury and passion!\xf000븁\x0000
 この　どうぐも\xfffeピカピカに　みがいたんだぜ！\xf000븁\x0000
 つかう　ボールを\xfffeだいじに　あつかうってのは\xf000븀\x0000\xfffeスポーツも　ポケモンも　おなじだろ？
 れんしゅうじあいが　ちかいのよ！\xf000븁\x0000\xfffeあんたを　かべに　みたてて\xfffeスマッシュの　れんしゅうさ！\xf000븁\x0000
-ハアッ！　ハア　ハア　ハア……\xfffeいい　トレーニングに　なったわ……
+Oh, whew! Must...catch...my breath.\xfffeThat was some good training...
 ハア　ハア　ハア\xfffeハア　ハア　ハア……！\xf000븁\x0000
 You and I have just met!\xfffeLet's start this game from the beginning.
 ラリーで　きたえた\xfffeこの　きゃくりょく！\xf000븀\x0000\xfffeみて　おどろきなさい！\xf000븁\x0000
@@ -1848,7 +1848,7 @@ Mwa haha!\xfffeIt's fun!
 The pain of my Pokémon...\xfffeI feel it, too!
 こころ　とぎすまし\xfffeポケモンと　ひとつに！！
 No! Not yet!\xfffeNo! We can fight on!!
-ふわあああ……\xfffeちからを　だしきったのに……\xf000븀\x0000\xfffeまけちゃったんだ　あたしたち！
+Aghhhh...\xfffeI did my best, but we lost...
 おれさまは　なにを　えらそうに\xfffeおしえようと　してたのだ……
 Roll, roll, roll, roll, roll, roll, roll on!\xfffeRoller coaster!
 なんてこと！　しょうりを\xfffeもぎとられてしまうだなんて！！
@@ -1905,7 +1905,7 @@ I'm chasing my dream,\xfffeand I'm fighting for a victory!\xf000븁\x0000
 I can't catch that dream!
 この　ほらあなには\xfffeでんせつの　ポケモンが　ひそんでいた\xf000븁\x0000\xfffeそいつは　なにを　おもい\xfffeなにを　のぞんでいたのだろう？
 If there is a steep cave in the east,\xfffeI go there and train my Pokémon, and\xf000븀\x0000\xfffeif there is a strong Trainer in the west,\xf000븀\x0000\xfffeI go there and challenge that Trainer!\xf000븁\x0000
-たりてない！　きたえかたが\xfffeあっとうてきに　たりてない！！
+They're unworthy! My Pokémon\xfffeclearly lack proper training!!
 Pokémon training Pokémon...\xf000븁\x0000\xfffeIf they live in rugged wilderness,\xfffethat can happen naturally.
 ちょっと　まって！\xf000븁\x0000\xfffeもうすこし　モンスターボールを\xfffeギュッと　にぎりしめさせて\xf000븁\x0000\xfffe……うん！　だいじょうぶ！\xf000븁\x0000
 ギュッ！
@@ -1951,7 +1951,7 @@ Blend into the wilderness!\xfffeThat is a Ranger!\xf000븁\x0000
 なんじゃくものの　オレめ！\xfffeもういちど　やせいに　とけこもう！
 I'm sure you can fully\xfffeutilize this.\xf000븁\x0000
 If you blend into the wilderness too well,\xfffeyou won't be noticed by Pokémon,\xf000븀\x0000\xfffelet alone by people.
-スー　ハー\xfffeヒー　フー\xf000븁\x0000\xfffeはい！　しんこきゅうの　つぎは\xfffeポケモンを　たたかわせましょ！\xf000븁\x0000
+Inhale, exhale.\xfffeInhale, exhale.\xf000븁\x0000\xfffeAll right! Next,\xfffelet our Pokémon fight!\xf000븁\x0000
 かなしくて　でるのは\xfffeためいき　ばかりね……
 あたしからは　ほかにも\xfffeこんな　モノが　でてきます！\xf000븁\x0000
 Different Pokémon can be found\xfffein different places.\xf000븁\x0000\xfffeDoes that mean there is\xfffea perfect place for everyone?
@@ -2278,7 +2278,7 @@ After all, I am the strongest and greatest.\xfffeJust kidding!
 The pain of my Pokémon...\xfffeI feel it, too!
 こころ　とぎすまし\xfffeポケモンと　ひとつに！！
 No! Not yet!\xfffeNo! We can fight on!!
-ふわあああ……\xfffeちからを　だしきったのに……\xf000븀\x0000\xfffeまけちゃったんだ　あたしたち！
+Aghhhh...\xfffeI did my best, but we lost...
 The pain of my Pokémon...\xfffeI feel it, too!
 It only takes one mind\xfffeto hone Pokémon!!
 No! Not yet!\xfffeNo! We can fight on!!
