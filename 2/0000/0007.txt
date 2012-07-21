@@ -9,8 +9,8 @@ Participate
 To participate in the Wi-Fi Competition,\xfffeyou'll need to access the webpage\xf000븀\x0000\xfffeof the Pokémon Global Link to register.\xf000븀\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000\xfffePlease check the Pokémon Global Link\xfffewebpage for the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000
 Will you participate in\xfffethe Wi-Fi Competition?
 Do you want to quit\xfffethe Wi-Fi Competition?
-Yes
-No
+YES
+NO
 Cancel participation
 Will you participate in\xfffethe Live Competition?
 You can check the information\xffferegarding the Live Competition at the\xf000븀\x0000\xfffePokémon official website:\xf000븀\x0000\xfffehttp://www.pokemon.com.\xf000븁\x0000\xfffePlease check the Pokémon official website\xfffefor the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000
