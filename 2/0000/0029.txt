@@ -13,7 +13,7 @@ GRAFFITI MODE
 REC
 GRAFFITI
 ID \xf000Ȅ\x0001\x0000
-―／―
+-/-
 \xf000Ȁ\x0001\x0000/4
 Please select your friend(s).
 CALL FRIEND(S)
