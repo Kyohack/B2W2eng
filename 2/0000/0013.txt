@@ -197,9 +197,9 @@ Please select the\xfffePokémon's Markings.
 レ
 ロ
 ワ
---
+-
 ♂
 ♀
-NATURE
-ABILITY
-ITEM
+GENDER
+HAVE
+NOT HAVE
