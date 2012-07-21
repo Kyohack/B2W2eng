@@ -32,6 +32,6 @@ You can turn wireless communication\xfffeon or off.
 You can choose to save the game\xfffebefore C-Gear launches infrared.
 You have saved data already.\xfffeYou cannot change this option.\xf000븁\x0000
 Would you like to make these changes?
-Yes
-No
+YES
+NO
 Dummy Message.
