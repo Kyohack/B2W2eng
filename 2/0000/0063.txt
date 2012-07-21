@@ -61,7 +61,7 @@ An item that raises the Speed stat\xfffeof a Pokémon in battle. It wears off if
 An item that raises the accuracy\xfffeof a Pokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
 An item that raises the Sp. Atk stat\xfffeof a Pokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
 An item that raises the Sp. Def stat\xfffeof a Pokémon in battle. It wears off if\xfffethe Pokémon is withdrawn.
-An item that attracts Pokémon.\xfffeUse it to flee from any battle with a\xfffewild Pokémon.
+A doll that attracts Pokémon.\xfffeUse it to flee from any battle with a\xfffewild Pokémon.
 An item that attracts Pokémon.\xfffeUse it to flee from any battle with a\xfffewild Pokémon.
 A toy flute made from blue glass.\xfffeA maniac will buy it for a high price.
 A toy flute made from yellow glass.\xfffeA maniac will buy it for a high price.
@@ -111,28 +111,28 @@ A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt spa
 A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is shaped like an egg.
 A vital item that is needed to keep a\xfffestone tower from collapsing. Voices\xfffecan be heard from it occasionally.
 A glowing orb to be held by Giratina.\xfffeIt boosts the power of Dragon- and\xfffeGhost-type moves.
-
-
-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
 A cassette to be held by Genesect.\xfffeIt changes Techno Blast to a\xfffeWater-type move.
 A cassette to be held by Genesect.\xfffeIt changes Techno Blast to an\xfffeElectric-type move.
 A cassette to be held by Genesect.\xfffeIt changes Techno Blast to a\xfffeFire-type move.
 A cassette to be held by Genesect.\xfffeIt changes Techno Blast to an\xfffeIce-type move.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Very sweet chocolate.  \xfffeIt restores the HP of one Pokémon\xfffeby only 20 points.
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+Very sweet chocolate. \xfffeIt restores the HP of one Pokémon\xfffeby only 20 points.
 A brightly gleaming orb to be held by\xfffeDialga. It boosts the power of Dragon-\xfffeand Steel-type moves.
 A beautifully glowing orb to be held by\xfffePalkia. It boosts the power of Dragon-\xfffeand Water-type moves.
 Stationery designed for\xfffeintroductory greetings.\xfffeLet a Pokémon hold it for delivery.
@@ -142,7 +142,7 @@ Stationery designed for\xfffea thank-you note.\xfffeLet a Pokémon hold it for d
 Stationery designed for\xfffewriting questions. \xfffeLet a Pokémon hold it for delivery.
 Stationery designed for\xfffewriting recommendations.\xfffeLet a Pokémon hold it for delivery.
 Stationery designed for\xfffewriting a reply. \xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of \xfffea sky-piercing bridge.  \xfffeLet a Pokémon hold it for use.
+Stationery featuring a print of \xfffea sky-piercing bridge. \xfffeLet a Pokémon hold it for use.
 Stationery featuring a print of\xfffea red drawbridge. \xfffeLet a Pokémon hold it for use.
 Stationery featuring a print of\xfffea steel suspension bridge. \xfffeLet a Pokémon hold it for use.
 Stationery featuring a print of\xfffea brick bridge.\xfffeLet a Pokémon hold it for use.
@@ -424,8 +424,8 @@ It swamps the area around the user\xfffewith a giant wave.\xfffeIt can also be u
 The target is slugged with a punch\xfffethrown at maximum power. This move can\xfffealso be used to move boulders.
 The user charges the target at an\xfffeawesome speed. It can also be used\xfffeto climb a waterfall.
 Diving on the first turn, the user\xfffefloats up and attacks on the second.\xfffeIt can be used for diving in the ocean.
-
-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
 A bag filled with convenient tools\xfffefor exploring. It provides access to\xfffethe Underground.
 A sturdy, spacious bag that is used\xfffeto carry loot obtained in the coal\xfffemine.
 It lists the rules for holding battles.\xfffeFor linked battles, you may choose\xfffewhich set of rules you wish to use.
@@ -625,10 +625,10 @@ An important letter which\xfffeWingull delivers.
 An important letter which\xfffeWingull delivers.
 An important letter which\xfffeWingull delivers.
 A high-tech transceiver with a\xfffecamera function. It allows up to\xfffefour-way calls.
-Records information about the\xfffemedals earned by small chance.
-A unique item that unites a\xfffecertain Pokémon with Kyurem
-A unique item that separates\xfffea centain Pokémon from Kyurem.
-A license card necessary to\xfffegain entry to a little-known\xfffenature reserve.
+A box-like device which stores the\xfffemedals you've collected and displays\xfffeinformation about them.
+A pair of linking pins to combine\xfffeKyurem and a Pokémon which were\xfffesaid to originally be one.
+A pair of linking pins to combine\xfffeKyurem and a Pokémon which were\xfffesaid to originally be one.
+A license card necessary to enter the\xfffeNature Sanctuary that very few people\xfffeknow of.
 A mysterious unbelievable charm that\xfffewhen held, makes it easier for the\xfffeDaycare Man to find eggs. 
 A mysterious shining charm that when\xfffeheld, makes it easier to encounter\xfffeshiny Pokémon. 
 A keycard used to unlock\xfffedoors on the Team Plasma\xfffeFrigate.
@@ -636,4 +636,4 @@ A handkerchief that a regular visitor to\xfffeNacrene City's "Cafe Warehouse" dr
 A device built in order to forcefully\xfffeawaken a Pokémon's abilities.\xfffeIt is an unfinished prototype.
 An Xtransceiver found in the\xfffeNimbasa City Amusement Park.\xfffeIts owner was probably a boy.
 An Xtransceiver found in the\xfffeNimbasa City Amusement Park.\xfffeIts owner was probably a girl.
-A mirror that changes form\xfffeto show the truth.
+A mysterious mirror that will\xfffechange a Pokémon's appearance to\xfffereveal its truly reflected nature.
