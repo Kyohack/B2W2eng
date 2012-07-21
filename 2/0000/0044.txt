@@ -2,12 +2,12 @@ GAME SYNC
 NINTENDO WFC SETTINGS
 BACK
 Would you like to save the game?
-Yes
-No
+YES
+NO
 Saving...\xfffeDon't turn off the power.
 Do you want to choose the\xfffeNintendo Wi-Fi Connection settings?
 The Pokémon has been tucked in.\xfffeDon't turn off the power...
-Save complete!
+Game Sync complete.
 Is it OK to wake up this Pokémon?
 The Pokémon is being woken up...\xfffeDon't turn off the power.
 \xf000Ă\x0001\x0000 has woken up!
