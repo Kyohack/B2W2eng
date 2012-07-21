@@ -63,8 +63,8 @@ ASSIST KEY is locked.
 CHALLENGE KEY is locked.
 FOREST KEY is locked.
 KEY is locked.
-Yes
-No
+YES
+NO
 Do you want to use\xfffeInfrared communication?
 Can't be set.
 KEY SYSTEM
