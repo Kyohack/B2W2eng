@@ -8,17 +8,17 @@ BATTLE ITEMS
 POKÉ BALLS
 LAST USED ITEM
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 NEXT
 HP/PP
 RESTORE
@@ -26,12 +26,12 @@ STATUS
 RESTORE
 POKÉ BALLS
 BATTLE ITEMS
-／
+/
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
 USE
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 It won't have any effect.
 It was wrapped in white fog！\xfffe
 \xf000Ă\x0001\x0000 \xfffeis getting Pumped!
