@@ -1,8 +1,8 @@
 MEDAL SORTING MENU
-Achieved Medal
-Did not achieve Medal
+Achieved
+Not Achieved
 \xf000봃\x0001\xf000Ȃ\x0001\x0000
-\xf000봃\x0001\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
+\xf000봃\x0001\xf000Ȃ\x0001\x0000/\xf000Ȃ\x0001\x0001
 Selected medal has been selected\xfffeand was registered.
 Selection registration\xfffewas terminated.
 Unable to select and register\xfffeunknown Medal(s)!
@@ -16,7 +16,7 @@ NAME ORDER
 NEWER ONES
 RESET SORTING
 QUIT
-\xf000봃\x0001 Achieved on
-\xf000봃\x0001 Got a hint on
-\xf000봃\x0001２０\xf000ȁ\x0001\x0000 /　\xf000ȁ\x0001\x0001 /　\xf000ȁ\x0001\x0002
+Achieved on \xf000봃\x0001
+Got a hint on \xf000봃\x0001
+\xf000봃\x0001 ２０\xf000ȁ\x0001\x0000 /　\xf000ȁ\x0001\x0001 /　\xf000ȁ\x0001\x0002
 The instructions in the Medal Box say to\xfffepress A to touch a medal and use your\xf000븀\x0000\xfffetouch pen to guide you to a Medal.\xfffeSTART can be used to bring up a menu.\xf000븀\x0000\xfffeYou can also tap Medals to view them.
