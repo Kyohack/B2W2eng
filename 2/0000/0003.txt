@@ -12,7 +12,7 @@ The Battle Video has been saved.
 There was an error.\xfffeThe Battle Video couldn't be saved.
 Awaiting your friend's decision...\xfffePlease wait.
 You cannot record videos\xfffewith this Trainer... Please wait.
-+You cannot record videos\xfffewith this Trainer.
+You cannot record videos\xfffewith this Trainer.
 The last battle cannot be recorded.
 Time Limit:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
