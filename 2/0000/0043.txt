@@ -192,9 +192,9 @@ A very unusual thunderstorm is happening!
 A very unusual strong storm is happening!
 \xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000  \xf000Ā\x0001\x0001
-\xf000Ā\x0001\x0000  \xf000Ā\x0001\x0001  \xf000Ā\x0001\x0002
-\xf000Ā\x0001\x0000  \xf000Ā\x0001\x0001  \xf000Ā\x0001\x0002  \xf000Ā\x0001\x0003
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002 \xf000Ā\x0001\x0003
 ◆ A Pokémon outbreak at \xf000ą\x0001\x0000!
 
 
@@ -222,12 +222,12 @@ A very unusual strong storm is happening!
 ◇ Virbank City is a gateway to success for all types of trainers.
 ◇ Pokémon trainers are recruited to work at any time in a large industrial complex.
 ◇ PokéStar Studios is always looking for a star to shoot a film.
-◇タチワキシティから　ヒウンシティいきの　ていきせんが　しゅっこうしています
+◇ An ocean linder has set sail from Virbank City bound for Castelia City
 ◇ A traveling boat is one of most popular of Virbank's means of transportation.
 ◇ Virbank city is focusing on the combinator and the current work there.
 ◇ The farmers are working hard in the complex for each Pokémon for the joy of battle.
 ◇ We should thank all the farmers who got tired and thirsty after working in the complex.
-◇まちの　ひがしにある　クレーンで　にもつの　あげおろしをします
+◇ The crane east of town allows you to load and unload luggage.
 ◇ This is a prime sightseeing spot for tourists who love ruins.
 ◇ The desert is harsh and vast. Please prepare yourself before attempting to cross it.
 ◇ Beware! Vast sandstorms can cover the entire desert.
