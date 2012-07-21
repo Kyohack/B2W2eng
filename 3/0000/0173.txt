@@ -15,7 +15,7 @@ You're going to be a Pokémon trainer!\xf000븀\x0000\xfffeI say yes to that!\xf
 The name of the girl is Bianca!\xfffeShe has a big green hat!
 Oh? You two get along!\xfffeYou're looking for Bianca!\xf000븁\x0000\xfffeHave you not found her yet?\xfffeShe has a big green hat!
 Bianca?\xf000븁\x0000\xfffeThe amazing Prof. Juniper\xfffe told me!
-Welcome back!\xfffeHow are you Pokémon?\xf000븁\x0000\xfffeThey look tired.\xfffeLet them rest here!\xf000븁\x0000
+Welcome back!\xfffeHow are your Pokémon?\xf000븁\x0000\xfffeThey look tired.\xfffeLet them rest here!\xf000븁\x0000
 \xf000Ā\x0001\x0000 your Pokémon look fine, \xfffethey look full of energy!
 Mom: おなじ　いっぽでも\xfffeポケモンのことを　かんがえながらの\xf000븀\x0000\xfffeいっぽの　ほうが　ステキよね!
 Mom: あたしも　わかいころは\xfffeあちこちの　ポケモンセンターを\xf000븀\x0000\xfffeてんてんと　したものよ!
