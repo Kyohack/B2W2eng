@@ -104,7 +104,7 @@ None
 None
 Ｉ・Hiroto
 UFO Servant
-Pokemon Guard
+Pokémon Guard
 Guard Crew
 Guard Crew
 I run around trying to escape
@@ -119,7 +119,7 @@ None
 None
 Ｎ・Suguru
 E's Invention
-Pokemon Guard
+Pokémon Guard
 Guard Crew
 Guard Crew
 None
@@ -134,7 +134,7 @@ None
 None
 Ｎ・Suguru
 UFO Servant
-Pokemon Guard
+Pokémon Guard
 Guard Crew
 Guard Crew
 I run around trying to escape
@@ -149,7 +149,7 @@ None
 None
 Ｎ・Suguru
 E's Invention
-Pokemon Guard
+Pokémon Guard
 Guard Crew
 Guard Crew
 I run around trying to escape
@@ -164,7 +164,7 @@ None
 None
 Ｎ・Suguru
 Huge Creature
-Pokemon Guard
+Pokémon Guard
 Guard Crew
 Guard Crew
 Guard's Cap
@@ -179,7 +179,7 @@ None
 None
 Ｎ・Suguru
 Monster of an opprotunity
-Pokemon Guard
+Pokémon Guard
 Guard Crew
 Guard Crew
 Guard's Cap
@@ -194,7 +194,7 @@ None
 None
 Ｎ・Suguru
 Big Tyranita knob
-Pokemon Guard
+Pokémon Guard
 Guard Crew
 Guard Crew
 Guard's Cap
@@ -622,5 +622,5 @@ Oh oh oh oh oh
 D．Pokenchi
 Takashi Pokemi
 Ｊ．Pokenta
-Ｓ．Pokemon Ski
+Ｓ．Pokémon Ski
 Ｓ．Pocket

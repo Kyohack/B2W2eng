@@ -58,9 +58,9 @@ Monster Episode 4
 Time Gate Traveler
 Time Gate Traveler 2
 Time Gate Traveler 3
-Trainer & Pokemon Love
-Trainer & Pokemon Love 2
-Trainer & Pokemon Love 3
+Trainer & Pokémon Love
+Trainer & Pokémon Love 2
+Trainer & Pokémon Love 3
 まほうのくにの　ふしぎなとびら
 まほうのくにの　ふしぎなとびら２
 まほうのくにの　ふしぎなとびら３
@@ -191,7 +191,7 @@ Release Date
 しんぴの　すなはま
 Ｍ・Ｂ　ふたたび
 Destiny Scope
-Pokemon Warrior
+Pokémon Warrior
 Lost and Found
 ペネロペの　ばあい
 バルバラの　ばあい
@@ -232,7 +232,7 @@ Decoy Strategy
 しんぴの　すなはま
 M.T: Second Coming
 Destiny Scope
-Pokemon Warrior
+Pokémon Warrior
 Lost and Found
 Miguel's Moment
 Camillo's Moment
