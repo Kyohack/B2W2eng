@@ -1,18 +1,18 @@
-Entralink
-Xtransceiver\xfffe
+ENTRALINK
+XTRANSCEIVER
 Union Room
-\xf000ȁ\x0001\x0000Ppl.
+\xf000ȁ\x0001\x0000 Ppl
 Wireless Distribution
-Yes
-No
-Yes
-No
-Back
-Would you like to\xfffesave the game?
+Present
+None
+YES
+NO
+BACK
+Would you like to save the game?
 Saving...\xfffePlease wait
 C-Gear Detected
-Yes
-No
-Connecting\xfffeEntralink...
-Entralink\xfffe　Guests:\xf000Ȁ\x0001\x0000
-Entralink\xfffe　Mission
+Present
+None
+CONNECTING\xfffeENTRALINK...
+ENTRALINK\xfffeGUESTS: \xf000Ȁ\x0001\x0000
+ENTRALINK\xfffeMISSION
