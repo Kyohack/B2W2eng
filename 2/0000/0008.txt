@@ -10,24 +10,24 @@ DELETE VIDEOS
 EMPTY
 \xf000ȃ\x0001\x0000
 Battle
-\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
-\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
+\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002★
 \xf000봂\x0000\xf000Ā\x0001\x0000'S PROFILE
 Mute
 \xf000봂\x0000Born in \xf000ƀ\x0001\x0000
 \xf000봂\x0000Location
 \xf000봂\x0000Trainer's quote
-Data
-Profile
+DATA
+PROFILE
 
-Unregistered
+UNREGISTERED
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
-\xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
+\xf000Ĝ\x0001\x0000 \xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000'S VIDEO
 DELETE MY VIDEO
 DELETE OTHER VIDEOS
-Autumn
+EMPTY
 Delete \xf000Ā\x0001\x0000's Records
 SEARCH BY RANKING
 SEND DATA
@@ -45,17 +45,17 @@ SEND
 Please choose the Pokémon you want to see.
 \xf000Ā\x0001\x0000 Portraits\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
-Photo
-Send Box Data
-View Box Data
-Favorite
-Cool
-Cute
-Suggested
-Fun
-Select
-Box
-View Photo
+PHOTO
+SEND BOX DATA
+VIEW BOX DATA
+FAVORITE
+COOL
+CUTE
+SUGGESTED
+FUN
+SELECT
+BOX
+VIEW PHOTO
 ABC
 DEF
 GHI
@@ -66,25 +66,25 @@ STU
 VWX
 YZ
 
-This Week’s Rankings
-Last Week’s Rankings
-Switch Rankings
-Switch Teams
-Team： Trainer Type
-Team： Birth Month
-Team： Favorite Pokémon
-\xf000Ā\x0001\x0001：\xf000Ď\x0001\x0000
-\xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000がつうまれ
-\xf000Ā\x0001\x0001：\xf000ā\x0001\x0000
+THIS WEEK’S RANKINGS
+LAST WEEK’S RANKINGS
+SWITCH RANKINGS
+SWITCH TEAMS
+TEAM: TRAINER TYPE
+TEAM: BIRTH MONTH
+TEAM: FAVORITE POKÉMON
+\xf000Ā\x0001\x0001:\xf000Ď\x0001\x0000
+\xf000Ā\x0001\x0001:\xf000ȁ\x0001\x0000 Birth Month
+\xf000Ā\x0001\x0001:\xf000ā\x0001\x0000
 \xf000ȁ\x0001\x0000 \xf000Ď\x0001\x0001
-\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001がつ
-\xf000ȁ\x0001\x0000：\xf000ā\x0001\x0001
-Last Week’s Results!
-Colosseum
-Battle Frontier
+\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001 Month
+\xf000ȁ\x0001\x0000:\xf000ā\x0001\x0001
+LAST WEEK’S RESULTS!
+COLOSSEUM
+BATTLE FRONTIER
 SAVE
 VIEW BATTLE\xfffeVIDEO
-BATTLE VIDEO
+BATTLE VIDEOS
 NEWEST 30 BATTLE VIDEOS
 TOP-RANKED BATTLE VIDEOS\xfffeLINK BATTLE
 TOP-RANKED BATTLE VIDEOS\xfffeBATTLE SUBWAY
@@ -106,14 +106,14 @@ Please enter the Video Number.
 Please choose the facility.
 Please choose the Pokémon.
 Please enter the search criteria.
-You haven’t set any search criteria.
+You haven't set any search criteria.
 Loading Battle Video...
 There is no matching Battle Video...
 Sending the Battle Video...
 The Battle Video has been sent!
 \xf000봂\x0000VIEW PROFILE
 \xf000봂\x0000CLOSE PROFILE
-Newest 30 Battle Videos
+LATEST 30 BATTLE VIDEOS
 Please set the search criteria.
 Undefined
 LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
@@ -123,7 +123,7 @@ There is no Battle Video to send.
 \xf000ȁ\x0001\x0000
 Search by Pokémon
 BATTLE SUBWAY
-Location: \xfffe\xf000Ĥ\x0001\x0000
+Location:\xfffe\xf000Ĥ\x0001\x0000
 \xf000봂\x0000SINGLE TRAIN
 \xf000봂\x0000DOUBLE TRAIN
 \xf000봂\x0000MULTI TRAIN
@@ -228,38 +228,38 @@ Competition, Rotation\xfffeLauncher On
 23: Battle Arcade\xfffeMulti
 \xf000봂\x0000TAP HERE!
 Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
-　
+
 Authentication error.\xfffeUnable to connect.
 This data is already registered.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem\xfffewith the Musical Photo.
 There appears to be a problem with the\xfffePokémon in the Musical Photo.
 There appears to be a problem\xfffewith the Profile data.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-　
+
 Authentication error.\xfffeUnable to connect.
 There appears to be a problem with the\xfffechosen Pokémon.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-　
+
 User authentication error.\xfffePlease wait a while before reconnecting.
 This data is already registered.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem with the\xfffeBox Data.
 There appears to be a problem with the\xfffeProfile data.
 There appears to be a problem with your\xfffeparty.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-　
+
 User authentication error.\xfffePlease wait a while before reconnecting.
 There appears to be a problem with your\xfffeparty.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-　
+
 User authentication error.\xfffePlease wait a while before reconnecting.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-　
+
 User authentication error.\xfffePlease wait a while before reconnecting.
 Failed to receive ranking data.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem with your\xffferanking record.
 here appears to be a problem with the\xfffeProfile data.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-　
+
 Authentication error.\xfffeUnable to connect.
 This data is already registered.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem\xfffewith the Battle Video.
@@ -267,21 +267,21 @@ There appears to be a problem\xfffewith the Battle Video.
 There appears to be a problem\xfffewith the Profile data.
 There appears to be a problem with the\xfffePokémon in the Battle Video.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-　
+
 Authentication error.\xfffeUnable to connect.
 There appears to be a problem\xfffewith the search criteria.
 There appears to be a problem\xfffewith the search criteria.
 The search failed...
-　
+
 Authentication error.\xfffeUnable to connect.
 No matching Battle Videos found...\xfffeTouch the Touch Screen to continue.
 You cannot watch this Battle Video.
 Failed to receive the Battle Video.
-　
-　
-　
-　
-　
+
+
+
+
+
 An error occurred.\xfffeError Code 10601
 An error occurred.\xfffeError Code 10602
 An error occurred.\xfffeError Code 10603
@@ -296,16 +296,16 @@ There is no response.\xfffeError Code 10611
 There is no response.\xfffeError Code 10612
 Communication was interrupted.\xfffeError Code 10613
 Unable to connect.\xfffeError Code 10614
-　
-　
-　
-　
-　
-　
-　
+
+
+
+
+
+
+
 The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
-　
-　
+
+
 There is nothing saved.\xfffeTouch the Touch Screen to continue.
 Please choose a Box.
 An empty Box’s Data can’t be sent.
@@ -340,13 +340,13 @@ Saving...\xfffeDon't turn off the power.
 There is no ranking data...\xfffeTouch the Touch Screen to continue.
 Would you like to send\xfffeyour Battle Video?
 
-　
-　
-　
 
-　
-　
-　
+
+
+
+
+
+
 Latest 20 in the Favorite PC Box
 Latest 20 in the Cool PC Box
 Latest 20 in the Cute PC Box
@@ -369,4 +369,4 @@ Idol
 Socialite
 Cowgirl
 Lady
-Goldver．
+Goldver.
