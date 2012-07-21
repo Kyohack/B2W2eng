@@ -11,11 +11,11 @@ MYSTERY GIFT
 BATTLE COMPETITION
 DIGITAL PLAYER ID
 GAME SYNC SETTINGS
-NINTENDO WFC SETTINGS
+NINTENDO Wi-Fi CONNECTION SETTINGS
 MIC TEST
 POKÉMON CENTER
 MOVE POKÉMON IN THE PC
-MOVE POKÉMON
+ORGANIZE PC BOX
 BATTLE BOX
 HOW TO START A LINK TRADE
 HOW TO START A LINK BATTLE
@@ -63,7 +63,7 @@ DOWSING MCHN
 XTRANSCEIVER
 GYM BADGES
 READY BUTTON
-FRIDAY RALLY
+MEDAL RALLY
 TRANSFER POKÉMON WITH POKÉ TRANSFER
 CATCH POKÉMON WITH POKÉ TRANSFER
 When you are playing, press the X Button\xfffeto open the menu and save often.\xfffe\xfffeOnce saved, you can select “CONTINUE"\xfffefrom the main menu to continue playing\xfffethe game from that location even if you've\xfffeturned off your Nintendo DS since.
@@ -74,7 +74,7 @@ You can keep up to 12 Wonder Cards.\xfffe\xfffeTo receive another Wonder Card\xf
 You can participate in competitions\xfffeusing Nintendo Wi-Fi Connection\xfffeand at events.\xfffe\xfffeFor details on the Battle Competition,\xfffego to “BATTLE COMPETITION"\xfffeon the main menu and select\xfffe“Info."
 For more details on Battle Competition,\xfffeincluding Battle Competition rules and\xfffehow to register as a user,\xfffevisit the following official websites.\xfffe\xfffePokémon Global Link website\xfffeThe Official Pokémon website
 Pokémon in your Battle Box\xfffecan participate in Battle Competitions.\xfffe\xfffeOnce registered, you cannot change\xfffethe Pokémon in your Battle Box\xfffeduring the competition.\xfffe\xfffePlease carefully select the right Pokémon\xfffebefore you start the competition.
-バトルたいかいが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffeThe Official Pokémon website\xfffeかくにん　してください。
+Battle Conventionが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffeThe Official Pokémon website\xfffeかくにん　してください。
 Once you have completed\xfffethe registration for Battle Competition,\xfffeyou will be able to check your\xfffeDigital Player ID.\xfffe\xfffeFor more details, please visit\xfffethe Pokémon Global Link.
 Before adjusting Game Sync settings,\xfffeyou must complete your\xfffeNintendo Wi-Fi Connection settings.\xfffe\xfffeWhen these settings are done,\xfffeadjust the Game Sync settings\xfffeto have the Game Sync ID issued.\xfffeThis is a unique ID assigned to you.
 You must have a Game Sync ID\xfffeto register at the\xfffePokémon Global Link using\xfffea computer with Internet access.
