@@ -1,4 +1,4 @@
-－－－－－－－－－－
+----------
 Mystery Zone
 Faraway place
 \xf000Ā\x0001\x0000's \xf000ą\x0001\x0001
@@ -118,7 +118,7 @@ Abyssal Ruins
 Aspertia City
 Virbank City
 Seigaiha City
-PokéStar
+PokéStar Studios
 Join Avenue
 Sangi Town
 Yamaji Town
@@ -129,19 +129,19 @@ Route 22
 Route 23
 Castelia Sewer
 Sangi Ranch
-Virbank Complex
+Virbank Industrial Complex
 Rebirth Mountain
 Stranger's House
 Victory Road
 Plasma Frigate
 Ancient Path
 Clay Road
-－－－－－－－－－－
+----------
 White Tree Hollow
 Black Skyscraper
 Seaside Cave
 Heart Hollow
-Hidden Hole
+Hidden Hollow
 Marine Tube
 Virbank Gate
 Aspertia City
@@ -151,4 +151,4 @@ Underground Ruins
 Rock Chamber
 Ice Chamber
 Steel Chamber
-Sacred Woods
+Oath Forest
