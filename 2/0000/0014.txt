@@ -1,10 +1,10 @@
-\xf000Ă\x0001\x0000 is selected.
-Please mark.
+\xf000\x0102\x0001\x0000 is selected.
+Please Mark
 Release this Pokémon?
-\xf000Ă\x0001\x0000 was released.
-Bye-bye,　\xf000Ă\x0001\x0000!
+\xf000\x0102\x0001\x0000 was released.
+Bye-bye, \xf000\x0102\x0001\x0000!
 Your party's full!
-You're out of Pokémon that can fight!
+That's your last Pokémon!
 What do you want to do?
 Jump to which Box?
 Please pick a theme.
@@ -12,28 +12,28 @@ Pick the wallpaper.
 Continue Box operations?
 The Box is full.
 The Bag is full.
-Took the \xf000ĉ\x0001\x0000.
-\xf000ĉ\x0001\x0000 is now being held.
+Took the \xf000\x0109\x0001\x0000.
+\xf000\x0109\x0001\x0000 is now being held.
 Which one will you take?
 Place it in which Box?
 No item held
 ♂
 ♀
-Take this \xf000ĉ\x0001\x0000?
+Take this \xf000\x0109\x0001\x0000?
 Mail can't be taken away.
-\xf000ĉ\x0001\x0000 is selected.
-Put away \xf000ĉ\x0001\x0000?
-Placed \xf000ĉ\x0001\x0000 in the Bag.
+\xf000\x0109\x0001\x0000 is selected.
+Put away \xf000\x0109\x0001\x0000?
+Placed \xf000\x0109\x0001\x0000 in the Bag.
 It can hold an item.
 Please remove the Mail.
 You can't release an Egg.
 You can't release a fused Kyurem.
-\xf000Ă\x0001\x0000 came back!
-Was it worried about you?
+\xf000\x0102\x0001\x0000 came back!
+Huh, It failed...
 An Egg can't hold an item.
-Touch the Mark!
-DEPOSIT POKÉMON
-WITHDRAW POKÉMON
+Touch to Mark!
+Can be placed in the box!
+Can be placed in the inventory!
 The Box is full.
 Your party's full!
 DEPOSIT POKÉMON
@@ -43,13 +43,13 @@ MOVE ITEMS
 BATTLE BOX
 SELECT A SLEEPY POKÉMON
 Mail cannot be moved!
-It cannot hold \xf000ĉ\x0001\x0000!
+It cannot hold \xf000\x0109\x0001\x0000!
 It has Mail!
-You're out of Pokémon that can fight!
+That's your last Pokémon!
 Mail cannot be moved!
 It cannot hold Mail here.
 Eggs cannot be selected!
-\xf000Ă\x0001\x0000 will be tucked in.\xfffeOK?
+\xf000\x0102\x0001\x0000 will be tucked in.\xfffeOK?
 This Pokémon doesn't seem\xfffesleepy now.
 Select another Pokémon?
 Your Battle Box is locked.\xfffeYou cannot move your Pokémon.
