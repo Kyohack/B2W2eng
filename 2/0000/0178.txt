@@ -23,20 +23,20 @@ Do what with\xfffemail?
 Restore\xfffewhich move?
 Boost the PP\xfffeof which move?
 Send the removed Mail to\xfffeyour PC?
-Yes
-No
+YES
+NO
 The Mail was sent to your PC.
 If the Mail is removed, its written\xfffemessage will be lost. Is that OK?
-Yes
-No
+YES
+NO
 Your PC's Mailbox is full.
 Mail was taken from the\xfffePokémon.
 \xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeHowever, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000\xfffeShould a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
-Yes
-No
+YES
+NO
 Give up on learning the move\xfffe\xf000ć\x0001\x0001?
-Yes
-No
+YES
+NO
 \xf000Ă\x0001\x0000 did not learn\xfffe\xf000ć\x0001\x0001.
 Which move should\xfffebe forgotten?
 1,\xf000븂\x0001\x0014 2, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...
@@ -58,25 +58,25 @@ PP was restored.
 This can't be used until a new\xfffeBadge is obtained.
 Must remove Mail before the\xfffePokémon is allowed to hold an item.
 \xf000Ă\x0001\x0000 is already holding\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffeWould you like to switch the\xfffetwo items?
-Yes
-No
+YES
+NO
 \xf000Ă\x0001\x0000 isn't holding\xfffeanything.
 Received the \xf000ĉ\x0001\x0001\xfffefrom \xf000Ă\x0001\x0000.
 The Bag is full.
 The \xf000ĉ\x0001\x0001 was taken and\xfffereplaced with the \xf000ĉ\x0001\x0002.
 Do you quit to join?
-Yes
-No
+YES
+NO
 I quit the challenge?
-Yes
-No
+YES
+NO
 \xf000Ă\x0001\x0000 woke up.
 Escape and return\xfffeto \xf000ą\x0001\x0000?
-Yes
-No
+YES
+NO
 Teleport and return\xfffeto \xf000ą\x0001\x0000?
-Yes
-No
+YES
+NO
 No more than two Pokémon\xfffemay enter.
 You're already surfing.
 You can't use that here.
@@ -86,7 +86,7 @@ It won't have any effect.
 その　ポケモンとは\xfffeがったい　できません
 ひんしの　ポケモンとは\xfffeがったい　できません
 タマゴとは\xfffeがったい　できません
-２ひき　そろっていません！
+Two Pokémon are needed.
 \xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeHowever, its base \xf000č\x0001\x0001 fell!
 \xf000Ă\x0001\x0000 adores you!\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 fell!
 \xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 can't go lower.
@@ -110,61 +110,61 @@ Mail was transferred from\xfffethe Mailbox.
 This Pokémon is holding an item.\xfffeIt cannot hold Mail.
 This can't be used on\xfffethat Pokémon.
 ここを　だっしゅつして\xfffe\xf000ą\x0001\x0000に　もどる？
-Yes
-No
+YES
+NO
 さいごに　やすんだ\xfffe\xf000ą\x0001\x0000に　もどる？
-Yes
-No
+YES
+NO
 Not enough HP...
-Switch
-Summary
-Item
-Mail
-Read Mail
-Take Mail
-Store
-Quit
-Replace
-Join
-Not entered
+SWITCH
+SUMMARY
+ITEMS
+MAIL
+READ
+TAKE
+STORE
+CLOSE
+REPLACE
+ENTER
+NO ENTRY
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
-Give
-Take
+GIVE
+TAKE
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
-Move
-Move Mail
-Not entered
-Banned
-First
-Second
-Third
-Fourth
-Fifth
-Sixth
-Able!
-Unable!
-Learned
-Able!
-Unable!
-でられます
-Banned
+MOVE
+MOVE MAIL
+NOT ENTERED
+UNABLE
+FIRST
+SECOND
+THIRD
+FOURTH
+FIFTH
+SIXTH
+ABLE!
+UNABLE!
+LEARNED
+ABLE!
+UNABLE!
+ABLE!
+UNABLE!
 Identical Pokémon are not permitted.\xfffe
 Some Pokémon are holding identical\xfffeitems.
 The total of all party members'\xfffelevels has gone over \xf000Ȃ\x0001\x0000.
-でんせつの　ポケモンが\xfffe３ひき　いじょう　います
+There are three or more\xfffelegendary Pokémon.
 The Pokémon which must participate\xfffeis not selected.
-Max HP
-Attack
-Defense
-Sp. Atk
-Sp. Def
-Speed
+MAX HP
+ATTACK
+DEFENSE
+SP. ATK
+SP. DEF
+SPEED
 +
 \xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000 was elevated to\xfffeLv. \xf000Ȃ\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
@@ -175,10 +175,10 @@ This isn't the place for that!
 What will you do\xfffewith the Egg?
 Please select an Egg.
 ぐるぐるこうかんを\xfffeやめますか？
-Confirm
+CONFIRM
 \xf000ā\x0001\x0000 changed Forme!
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffeもつことが　できない！
-この　ばしょでは\xfffe\xf000ĉ\x0001\x0000を　もたせられません
+\xf000Ă\x0001\x0000 cannot hold\xfffe\xf000ĉ\x0001\x0001.
+The \xf000ĉ\x0001\x0000 cannot be\xfffegiven here.
 \xf000Ā\x0001\x0000 is standing by...
 One person standing by...
 Two people standing by...
@@ -187,6 +187,6 @@ Time Limit
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
 Communicating. Please wait.
-Yes
-No
+YES
+NO
 You used your last \xf000ĉ\x0001\x0000.
