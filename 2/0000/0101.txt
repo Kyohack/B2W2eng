@@ -14,16 +14,16 @@ Please input your\xfffeGame Sync ID Code.
 How and when to talk?\xfffe(Transmitted to everyone in the world.)
 How do you convey a message \xfffeto passersby?
 What is your Passerby Message?
-Pokémon's name?
+Your Pokémon's name?
 Please enter the name.
 Numbers may contain\xfffeonly up to four digits.
-The Game Sync ID Code\xfffeis incorrect.
+The Game Sync ID\xfffeis incorrect.
 
 
-Welcome!
+Best regards!
 Thank you!
 Shiro*
 Kuro*
 ⑭
 ⑮
-Please input.
+Please enter.
