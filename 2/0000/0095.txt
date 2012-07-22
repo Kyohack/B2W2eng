@@ -3,9 +3,9 @@ BECOME LEADER
 QUIT
 START
 BACK
-1:\xf000Ā\x0001\x0000
-2:\xf000Ā\x0001\x0000
-3:\xf000Ā\x0001\x0000
-4:\xf000Ā\x0001\x0000
+1: \xf000Ā\x0001\x0000
+2: \xf000Ā\x0001\x0000
+3: \xf000Ā\x0001\x0000
+4: \xf000Ā\x0001\x0000
 Please decide who will be the\xfffeleader.  The remaining players must\xfffeselect "JOIN GROUP".
 When all members have gathered,\xfffepress "START" to begin.
