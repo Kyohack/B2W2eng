@@ -1,9 +1,9 @@
-Game Sync
-NINTENDO WFC SETTINGS
+GAME SYNC
+Wi-Fi Settings
 Is it OK to create data\xfffeto play Game Sync?
 Creating data...\xfffePlease wait a moment.
-Yes
-No
+YES
+NO
 Saving...\xfffeDon't turn off the power.
 Use a computer to access the\xfffePokémon Global Link website\xfffeand enter the Game Sync ID above\xfffeto set up Game Sync.\xfffe\xfffehttp://www.pokemon-gl.com
 Your Game Sync ID has been issued.\xfffe\xfffeYou can check your Game Sync ID\xfffein Game Sync Settings on the main menu.
@@ -21,4 +21,4 @@ An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does 
 A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13209
 An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13210
 The server is experiencing high\xfffetraffic volumes.\xfffeUnable to connect.\xfffePlease wait a little while and try again.\xfffe\xfffeError Code: 13211
-The server is undergoing maintenance.\xfffeYou can review the details at the\xfffePokémon Global Link website.\xfffehttp://www.pokemon-gl.com\xfffe\xfffeError Code: 13212
+The server is undergoing maintenance.\xfffe\xfffeThe details can be reviewed at the\xfffePokémon Global Link website.\xfffe\xfffehttp://www.pokemon-gl.com\xfffe\xfffeError code: 13212
