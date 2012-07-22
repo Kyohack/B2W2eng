@@ -81,4 +81,4 @@ Stash one \xf000ĉ\x0001\x0000 where the beach\xfffebegins on Route 14!\xfffe(Th
 Stash one \xf000ĉ\x0001\x0000 in front of\xfffethe trash can on Route 15!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
 Stash one \xf000ĉ\x0001\x0000 by the\xfffemissing fence on Route 16!\xfffe(The mission restarts if talked to!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
 Sell one \xf000ĉ\x0001\x0001 to \xf000Ā\x0001\x0000\xfffeat a reasonable price!\xfffe(The mission fails if turned down!)\xfffe\xfffe\xfffeTime Limit: \xf000Ȃ\x0001\x0002 seconds\xfffe\xfffePrize Pass Orbs: \xf000ȁ\x0001\x0003 
-ー
+-
