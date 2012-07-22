@@ -1,24 +1,24 @@
 OFFER
-BACK
+QUIT
 SHOW
 SUMMARY
 TRADE
 CANCEL
 Communicating. Please stand by...
 パートナーとなる　あいてに\xfffeせきがいせんを　むけてください
-リーダーに　なりました！
+Became the Leader!
 たいせん　あいての　リーダーに\xfffeせきがいせんを　むけてください
 Please wait a moment.
-FRIEND CODE
-FEELING CHECKS
-Do you want to abort operations?
+Friend Codes
+Feeling Checks:
+Do you want to abort?
 こうかんする　あいてに\xfffeせきがいせんを　むけてください
 POKÉMON TRADES
-In party
+IN PARTY
 Trade \xf000Ă\x0001\x0000 in return for\xfffe\xf000Ă\x0001\x0001?
 Lv. \xf000Ȃ\x0001\x0000
-Are you sure you want to cancel?
-こうかんしました
+Close the link?
+Traded.
 Please wait a moment.
 You and your friend(s) did not select the\xfffesame thing. Returning to previous menu.
 Would you like to save the game?
@@ -51,32 +51,32 @@ Take good care of \xf000Ă\x0001\x0001!
 Stopping communications...\xfffePlease wait.
 Select the first letter in the name of\xfffethe Pokémon you want to find.
 No Pokémon with the selected\xfffeletter was found.
-\xf000봂\x0000A
-\xf000봂\x0000B
-\xf000봂\x0000C
-\xf000봂\x0000D
-\xf000봂\x0000E
-\xf000봂\x0000F
-\xf000봂\x0000G
-\xf000봂\x0000H
-\xf000봂\x0000I
-\xf000봂\x0000J
-\xf000봂\x0000K
-\xf000봂\x0000L
-\xf000봂\x0000M
-\xf000봂\x0000N
-\xf000봂\x0000O
-\xf000봂\x0000P
-\xf000봂\x0000Q
-\xf000봂\x0000R
-\xf000봂\x0000S
-\xf000봂\x0000T
-\xf000봂\x0000U
-\xf000봂\x0000V
-\xf000봂\x0000W
-\xf000봂\x0000X
-\xf000봂\x0000Y
-\xf000봂\x0000Z
+\xf000봂\x0000ア
+\xf000봂\x0000イ
+\xf000봂\x0000ウ
+\xf000봂\x0000エ
+\xf000봂\x0000オ
+\xf000봂\x0000カ
+\xf000봂\x0000キ
+\xf000봂\x0000ク
+\xf000봂\x0000ケ
+\xf000봂\x0000コ
+\xf000봂\x0000サ
+\xf000봂\x0000シ
+\xf000봂\x0000ス
+\xf000봂\x0000セ
+\xf000봂\x0000ソ
+\xf000봂\x0000タ
+\xf000봂\x0000チ
+\xf000봂\x0000ツ
+\xf000봂\x0000テ
+\xf000봂\x0000ト
+\xf000봂\x0000ナ
+\xf000봂\x0000ニ
+\xf000봂\x0000ヌ
+\xf000봂\x0000ネ
+\xf000봂\x0000ノ
+\xf000봂\x0000ハ
 \xf000봂\x0000ヒ
 \xf000봂\x0000フ
 \xf000봂\x0000へ
@@ -100,7 +100,7 @@ You need that Pokémon to\xfffeget through your adventure!
 There is a Pokémon that cannot be\xfffetraded in the other Trainer's party.
 There is a Pokémon that cannot be\xfffetraded in your party.
 It has learned an HM move.\xfffeYou cannot let it leave your party.
-その　ポケモンは\xfffeこうかん　できません
+That Pokémon cannot\xfffebe replaced right now.
 The other Trainer apparently wants to\xfffetrade Pokémon with you.
 Cancel trading?
 Waiting for the other player to finish...
