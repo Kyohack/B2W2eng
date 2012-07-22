@@ -1,19 +1,19 @@
-\xf000봂\x0000ゆうえんち\xfffe\xfffe\xf000봂\x0000そこは　かのじょとの\xfffe\xfffe\xf000봂\x0000おもいでの　ばしょ
-\xf000봂\x0000はじめて　ふたりきりの\xfffe\xfffe\xf000봂\x0000デートを　した　ばしょ
-\xf000봂\x0000こくはくは　かんらんしゃの　なか
-\xf000봂\x0000かのじょと　わかれた　いまも\xfffe\xfffe\xf000봂\x0000きがつけば　ゆうえんちに　いる
-\xf000봂\x0000そして　かのじょと　さいかい　した
-\xf000봂\x0000なぜか　ポケモンしょうぶを　\xfffe\xfffe\xf000봂\x0000もうしこまれた……！
+\xf000\xbd02\x0000ゆうえんち\xfffe\xfffe\xf000\xbd02\x0000そこは かのじょとの\xfffe\xfffe\xf000\xbd02\x0000おもいでの ばしょ
+\xf000\xbd02\x0000はじめて ふたりきりの\xfffe\xfffe\xf000\xbd02\x0000デ-トを した ばしょ
+\xf000\xbd02\x0000こくはくは かんらんしゃの なか
+\xf000\xbd02\x0000かのじょと わかれた いまも\xfffe\xfffe\xf000\xbd02\x0000きがつけば ゆうえんちに いる
+\xf000\xbd02\x0000そして かのじょと さいかい した
+\xf000\xbd02\x0000なぜか ポケモンしょうぶを \xfffe\xfffe\xf000\xbd02\x0000もうしこまれた...!
 None
 None
 None
 None
-\xf000봂\x0000ゆうえんち\xfffe\xfffe\xf000봂\x0000そこは　かれとの\xfffe\xfffe\xf000봂\x0000おもいでの　ばしょ
-\xf000봂\x0000はじめて　ふたりきりで\xfffe\xfffe\xf000봂\x0000デートを　した　ばしょ
-\xf000봂\x0000こくはくは　かんらんしゃの　なか
-\xf000봂\x0000かれと　わかれた　いまも\xfffe\xfffe\xf000봂\x0000きがつけば　ゆうえんちに　いる　
-\xf000봂\x0000そして　かれと\xfffe\xfffe\xf000봂\x0000さいかい　した
-\xf000봂\x0000なぜか　ポケモンしょうぶを　\xfffe\xfffe\xf000봂\x0000もうしこまれた……！
+\xf000\xbd02\x0000ゆうえんち\xfffe\xfffe\xf000\xbd02\x0000そこは かれとの\xfffe\xfffe\xf000\xbd02\x0000おもいでの ばしょ
+\xf000\xbd02\x0000はじめて ふたりきりで\xfffe\xfffe\xf000\xbd02\x0000デ-トを した ばしょ
+\xf000\xbd02\x0000こくはくは かんらんしゃの なか
+\xf000\xbd02\x0000かれと わかれた いまも\xfffe\xfffe\xf000\xbd02\x0000きがつけば ゆうえんちに いる 
+\xf000\xbd02\x0000そして かれと\xfffe\xfffe\xf000\xbd02\x0000さいかい した
+\xf000\xbd02\x0000なぜか ポケモンしょうぶを \xfffe\xfffe\xf000\xbd02\x0000もうしこまれた...!
 None
 None
 None

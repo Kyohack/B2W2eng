@@ -1,10 +1,10 @@
 Welcome to the GTS!
 Exchange established\xfffefor deposited Pokémon!
-\xf000Ă\x0001\x0000 was not traded.\xf000븁\x0000
-\xf000Ă\x0001\x0000 appears to have\xfffefled...\xf000븁\x0000
+\xf000\x0102\x0001\x0000 was not traded.\xf000\xbe01\x0000
+\xf000\x0102\x0001\x0000 appears to have\xfffefled...\xf000\xbe01\x0000
 Are you seeking or offering a Pokémon?
-Do what with this \xf000Ă\x0001\x0000?
-Will you take this \xf000Ă\x0001\x0000?
+Do what with this \xf000\x0102\x0001\x0000?
+Will you take this \xf000\x0102\x0001\x0000?
 Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
 What kind of Pokémon are you seeking?
 Please choose the Pokémon you want.
@@ -14,50 +14,50 @@ Please choose the Pokémon you want!
 Searching for the Pokémon you want...
 None were found!
 Stop searching?
-Trade Pokémon with this Trainer?
+Trade Pokémon with the Trainer?
 Choose the Pokémon you are trading.
-Do what with this \xf000Ă\x0001\x0000?
+Do what with this \xf000\x0102\x0001\x0000?
 You seem to have already traded it...
 The specified Pokémon is different!
 Choose the Pokémon you want to offer.
-Offer \xf000Ă\x0001\x0000?
+Offer \xf000\x0102\x0001\x0000?
 Are these conditions OK?
 Checking GTS's status...
 The Ball Capsule will be detached.\xfffeIs that OK?
-That Pokémon may not be offered\xfffefor trade!\xf000븁\x0000
-That Pokémon may not be offered\xfffefor trade (13266)!\xf000븁\x0000
-That Pokémon may not be offered\xfffefor trade (13267)!\xf000븁\x0000
-That Pokémon may not be offered\xfffefor trade (13268)!\xf000븁\x0000
-That Pokémon may not be offered\xfffefor trade (13269)!\xf000븁\x0000
-That Pokémon may not be offered\xfffefor trade (13270)!\xf000븁\x0000
-That Pokémon may not be offered\xfffefor trade (13271)!\xf000븁\x0000
-An Egg may not be offered\xfffefor trade!\xf000븁\x0000
-Your party is full.\xfffeYou can't receive a Pokémon!\xf000븁\x0000
-Your Storage Boxes are full.\xfffeYou can't receive a Pokémon!\xf000븁\x0000
+That Pokémon may not be offered\xfffefor trade!\xf000\xbe01\x0000
+That Pokémon may not be offered\xfffefor trade (13266)!\xf000\xbe01\x0000
+That Pokémon may not be offered\xfffefor trade (13267)!\xf000\xbe01\x0000
+That Pokémon may not be offered\xfffefor trade (13268)!\xf000\xbe01\x0000
+That Pokémon may not be offered\xfffefor trade (13269)!\xf000\xbe01\x0000
+That Pokémon may not be offered\xfffefor trade (13270)!\xf000\xbe01\x0000
+That Pokémon may not be offered\xfffefor trade (13271)!\xf000\xbe01\x0000
+An Egg may not be offered\xfffefor trade!\xf000\xbe01\x0000
+Your party is full.\xfffeYou can't receive a Pokémon!\xf000\xbe01\x0000
+Your Storage Boxes are full.\xfffeYou can't receive a Pokémon!\xf000\xbe01\x0000
 A trade partner has been found!
 Wi-Fi connection established
-Touch “SELECT" to set trade partner.
+Touch "SELECT" to set trade partner.
 Please change your conditions.
 Please wait a while.
-Your party is full. You can't receive\xfffea Pokémon that is holding Mail.\xf000븁\x0000
+Your party is full. You can't receive\xfffea Pokémon that is holding Mail.\xf000\xbe01\x0000
 There is no room in your party.
-It has a special Ribbon.\xfffeIt can't be offered for a trade.\xf000븁\x0000
+That Pokémon has a special Ribbon.\xfffeIt can't be offered for a trade.\xf000\xbe01\x0000
 GTS check failed.
-\xf000봂\x0000GLOBAL TRADE SYSTEM
-\xf000봂\x0000SUMMARY
-\xf000봂\x0000DEPOSIT POKÉMON
-\xf000봂\x0000SEEK POKÉMON
-\xf000봂\x0000QUIT
-\xf000Ă\x0001\x0000
-\xf000ā\x0001\x0001
-Lv.\xf000Ȃ\x0001\x0002
+\xf000\xbd02\x0000GLOBAL TRADE SYSTEM
+\xf000\xbd02\x0000SUMMARY
+\xf000\xbd02\x0000DEPOSIT POKÉMON
+\xf000\xbd02\x0000SEEK POKÉMON
+\xf000\xbd02\x0000QUIT
+\xf000\x0102\x0001\x0000
+\xf000\x0101\x0001\x0001
+Lv.\xf000\x0202\x0001\x0002
 ITEM
-\xf000ĉ\x0001\x0003
+\xf000\x0109\x0001\x0003
 OFFERER
-\xf000Ā\x0001\x0004
+\xf000\x0100\x0001\x0004
 Desired Pokémon
-\xf000ā\x0001\x0005
-Lv.\xf000Ȃ\x0001\x0006and up
+\xf000\x0101\x0001\x0005
+Lv.\xf000\x0202\x0001\x0006 and up
 No Lv. Preference
 TAKE BACK
 LEAVE AS IS
@@ -66,69 +66,69 @@ NO
 NAME
 Search Pokémon
 POKÉMON
-\xf000ā\x0001\x0000
+\xf000\x0101\x0001\x0000
 GENDER
 
 LEVEL
 
 SEARCH
-\xf000봂\x0000BACK
+\xf000\xbd02\x0000BACK
 SELECT
-\xf000Ă\x0001\x0000
-\xf000ā\x0001\x0001
-Lv. \xf000Ȃ\x0001\x0002
+\xf000\x0102\x0001\x0000
+\xf000\x0101\x0001\x0001
+Lv. \xf000\x0202\x0001\x0002
 ITEM
-\xf000ĉ\x0001\x0003
+\xf000\x0109\x0001\x0003
 OFFERER
-\xf000Ā\x0001\x0004
+\xf000\x0100\x0001\x0004
 WANTED
-\xf000ā\x0001\x0005
+\xf000\x0101\x0001\x0005
 
 
-OT'S LOCATION
-\xf000Ĥ\x0001\x0008
-\xf000ĥ\x0001\x0009
+LOCATION
+\xf000\x0124\x0001\x0008
+\xf000\x0125\x0001\x0009
 IN PARTY
 CANCEL
-\xf000ċ\x0001\x0000
+\xf000\x010b\x0001\x0000
 SUMMARY
 TRADE
-CANCEL
+CLOSE
 YES
 NO
 IN PARTY
 NAME
 DEPOSIT POKÉMON
-\xf000ċ\x0001\x0000
+\xf000\x010b\x0001\x0000
 IN PARTY
 CANCEL
 SUMMARY
 DEPOSIT
 CANCEL
 WANTED
-\xf000ā\x0001\x0000
+\xf000\x0101\x0001\x0000
 
 OFFER POKÉMON
-\xf000Ă\x0001\x0002
+\xf000\x0102\x0001\x0002
 Lv.
-\xf000Ȃ\x0001\x0003
-Lv. \xf000Ȃ\x0001\x0003
-CANCEL
-ABC
-DEF
-GHI
-JKL
-MNO
-PQR
-STU
-VWX
-YZ
-
-EITHER
+\xf000\x0202\x0001\x0003
+Lv. \xf000\x0202\x0001\x0003
+BACK
+A
+KA
+SA
+TA
+NA
+HA
+NA
+YA
+RA
+WA
+Any
 ♂
 ♀
-\xf000봂\x0000Back
-ANY
+\xf000\xbd02\x0000Cancel
+Any
 Lv. 9 and under
 Lv. 10 and up
 Lv. 20 and up
@@ -139,32 +139,32 @@ Lv. 60 and up
 Lv. 70 and up
 Lv. 80 and up
 Lv. 90 and up
-Lv. 100
-\xf000봂\x0000Return
+Level 100
+\xf000\xbd02\x0000Cancel
 He has sent\xfffeto the GTS!
-Pokémon has been registered\xfffein the GTS!\xf000븁\x0000
+Pokémon has been registered\xfffein the GTS!\xf000\xbe01\x0000
 \xfffehas been recieved from the GTS!
-Picked up Pokémon\xfffefrom the GTS!\xf000븁\x0000
-Pokémon trading　\xfffewith the GTS!
-Pokémon exchanging has\xfffecompleted!\xf000븁\x0000
-Unfortunately, it was traded to\xfffeanother Trainer.\xf000븁\x0000
+Picked up Pokémon\xfffefrom the GTS!\xf000\xbe01\x0000
+Pokémon trading\xfffewith the GTS!
+Pokémon exchanging has\xfffecompleted!\xf000\xbe01\x0000
+Unfortunately, it was traded to\xfffeanother Trainer.\xf000\xbe01\x0000
 Saving...\xfffeDon't turn off the power.
 Currently communicating with\xfffeGTS
-The GTS is currently\xfffeundergoing maintenance.\xf000븁\x0000\xfffePlease try again later.\xf000븁\x0000
-The GTS is very crowded now.\xfffePlease try again later (13261).\xf000븁\x0000
+The GTS is currently\xfffeundergoing maintenance.\xf000\xbe01\x0000\xfffePlease try again later.\xf000\xbe01\x0000
+The GTS is very crowded now.\xfffePlease try again later (13261).\xf000\xbe01\x0000
 The search failed...
 Communication error.\xfffeFor help, visit support.nintendo.com.
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13272\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13275\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13263\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13265\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13264\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13273\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13281\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13282\xf000븁\x0000
-Unable to connect to the GTS.\xf000븁\x0000
-You were disconnected from the GTS.\xfffeError code: 13262\xf000븁\x0000
-You were disconnected from the GTS.\xfffeError code: 13274\xf000븁\x0000
+Communication error.\xfffeFor help, visit support.nintendo.com.\xf000\xbe00\x0000\xfffeError code: 13272\xf000\xbe01\x0000
+Communication error.\xfffeFor help, visit support.nintendo.com.\xf000\xbe00\x0000\xfffeError code: 13275\xf000\xbe01\x0000
+Communication error.\xfffeFor help, visit support.nintendo.com.\xf000\xbe00\x0000\xfffeError code: 13263\xf000\xbe01\x0000
+Communication error.\xfffeFor help, visit support.nintendo.com.\xf000\xbe00\x0000\xfffeError code: 13265\xf000\xbe01\x0000
+Communication error.\xfffeFor help, visit support.nintendo.com.\xf000\xbe00\x0000\xfffeError code: 13264\xf000\xbe01\x0000
+Communication error.\xfffeFor help, visit support.nintendo.com.\xf000\xbe00\x0000\xfffeError code: 13273\xf000\xbe01\x0000
+Communication error.\xfffeFor help, visit support.nintendo.com.\xf000\xbe00\x0000\xfffeError code: 13281\xf000\xbe01\x0000
+Communication error.\xfffeFor help, visit support.nintendo.com.\xf000\xbe00\x0000\xfffeError code: 13282\xf000\xbe01\x0000
+Unable to connect to the GTS.\xf000\xbe01\x0000
+You were disconnected from the GTS.\xfffeError code: 13262\xf000\xbe01\x0000
+You were disconnected from the GTS.\xfffeError code: 13274\xf000\xbe01\x0000
 The connection has been lost.
 Returning to the reception counter.
 ANY
@@ -178,74 +178,74 @@ Lv. 61 to 70
 Lv. 71 to 80
 Lv. 81 to 90
 Lv. 91 to 100
-\xf000봂\x0000Back
+\xf000\xbd02\x0000Cancel
 LOCATION
-\xf000Ĥ\x0001\x0000
+\xf000\x0124\x0001\x0000
 ANY
  ANY
-\xf000봂\x0000Back
+\xf000\xbd02\x0000Cancel
 Please choose a Pokémon location.
-This Pokémon cannot be traded in this\xfffeForme!\xf000븁\x0000
-Spiky-eared PICHU cannot be offered\xfffein trade. \xf000ȇ\x0000
-This Pokémon cannot be traded while\xfffeholding that item!\xf000븁\x0000
+This Pokémon cannot be traded in this\xfffeForme!\xf000\xbe01\x0000
+Spiky-eared PICHU cannot be offered\xfffein trade. \xf000\x0207\x0000
+This Pokémon cannot be traded while\xfffeholding that item!\xf000\xbe01\x0000
 O.T.
-There was an error while attempting to\xfffesend an authentication E-Mail.\xf000븁\x0000
-There was a communication error.\xf000븁\x0000
-The data was corrupted.\xfffeIt could not be sent.\xf000븁\x0000
-The server is undergoing maintenance.\xfffePlease connect again later.\xf000븁\x0000
-There was a E-Mail\xfffeauthentication error.\xf000븁\x0000
+There was an error while attempting to\xfffesend an authentication E-Mail.\xf000\xbe01\x0000
+There was a communication error.\xf000\xbe01\x0000
+The data was corrupted.\xfffeIt could not be sent.\xf000\xbe01\x0000
+The server is undergoing maintenance.\xfffePlease connect again later.\xf000\xbe01\x0000
+There was a E-Mail\xfffeauthentication error.\xf000\xbe01\x0000
 Disconnecting from Nintendo Wi-Fi\xfffeConnection... Please wait a moment.
 You have disconnected from Nintendo\xfffeWi-Fi Connection.
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-O
-P
-Q
-R
-S
-T
-U
-V
-W
-X
-Y
-Z
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ア
+イ
+ウ
+エ
+オ
+カ
+キ
+ク
+ケ
+コ
+サ
+シ
+ス
+セ
+ソ
+タ
+チ
+ツ
+テ
+ト
+ナ
+ニ
+ヌ
+ネ
+ノ
+ハ
+ヒ
+フ
+ヘ
+ホ
+マ
+ミ
+ム
+メ
+モ
+ヤ
+ユ
+ヨ
+ラ
+リ
+ル
+レ
+ロ
+ワ
+ 
 GTS
 GTS\xfffeTRADE POKÉMON
 GTS\xfffeSUMMARY
 GTS\xfffeDEPOSIT POKÉMON
 GTS\xfffeSEEK POKÉMON
 CANCEL
-\xf000Ȁ\x0001\x0000
+\xf000\x0200\x0001\x0000
 /

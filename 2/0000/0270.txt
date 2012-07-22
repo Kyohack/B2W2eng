@@ -1,5 +1,5 @@
-\xf000봂\x0000Here a ninja is trying to steal\xfffe\xf000봂\x0000the lab's dream invention,\xfffe\xf000봂\x0000the Dynamic Engine\xfffe\xf000봂\x0000all alone.
-\xf000봂\x0000Thus, the hero waiting for\xfffe\xf000봂\x0000the intruder, was\xfffe\xf000봂\x0000wearing a metal suit\xfffe\xf000봂\x0000covering the entire body...
+\xf000\xbd02\x0000Here a ninja is trying to steal\xfffe\xf000\xbd02\x0000the lab's dream invention,\xfffe\xf000\xbd02\x0000the Dynamic Engine\xfffe\xf000\xbd02\x0000all alone.
+\xf000\xbd02\x0000Thus, the hero waiting for\xfffe\xf000\xbd02\x0000the intruder, was\xfffe\xf000\xbd02\x0000wearing a metal suit\xfffe\xf000\xbd02\x0000covering the entire body...
 None
 None
 None
@@ -8,8 +8,8 @@ None
 None
 None
 None
-\xf000봂\x0000Here a woman is trying to steal\xfffe\xf000봂\x0000the lab's dream invention,\xfffe\xf000봂\x0000the Dynamic Engine\xfffe\xf000봂\x0000all by herself.
-\xf000봂\x0000Thus, the hero waiting for\xfffe\xf000봂\x0000the intruder, was\xfffe\xf000봂\x0000wearing a metal suit\xfffe\xf000봂\x0000covering the entire body...
+\xf000\xbd02\x0000Here a woman is trying to steal\xfffe\xf000\xbd02\x0000the lab's dream invention,\xfffe\xf000\xbd02\x0000the Dynamic Engine\xfffe\xf000\xbd02\x0000all by herself.
+\xf000\xbd02\x0000Thus, the hero waiting for\xfffe\xf000\xbd02\x0000the intruder, was\xfffe\xf000\xbd02\x0000wearing a metal suit\xfffe\xf000\xbd02\x0000covering the entire body...
 None
 None
 None

@@ -1,7 +1,7 @@
-『Search Mode』
+Search Mode
 Please enter the search criteria.
-『Search Results』
-\xf000Ȃ\x0001\x0000 was not found.
+Search Results
+\xf000\x0202\x0001\x0000 was not found.
 Please enter the order.
 Please enter the first letter in the name.
 Please enter the type.
@@ -20,7 +20,7 @@ National Pokédex: Search Mode
 RESET
 START
 CANCEL
-\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
+\xf000\x0202\x0001\x0000.\xf000\x0200\x0001\x0001
 ACCEPT
 CANCEL
 Number
@@ -46,54 +46,54 @@ Flying
 Fire
 Water
 Bug
-――――
-／
-――――
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-O
-P
-Q
-R
-S
-T
-U
-V
-W
-X
-Y
-Z
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-―
+----
+/
+----
+ア.
+イ
+ウ
+エ
+オ
+カ.
+キ
+ク
+ケ
+コ
+サ.
+シ
+ス
+セ
+ソ
+タ.
+チ
+ツ
+テ
+ト
+ナ.
+ニ
+ヌ
+ネ
+ノ
+ハ.
+ヒ
+フ
+ヘ
+ホ
+マ.
+ミ
+ム
+メ
+モ
+ヤ.
+ユ
+ヨ
+ラ.
+リ
+ル
+レ
+ロ
+ワ.
+-
 Red
 Blue
 Yellow
@@ -104,4 +104,4 @@ Purple
 Gray
 White
 Pink
-――――
+----

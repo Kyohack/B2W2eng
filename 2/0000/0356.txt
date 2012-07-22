@@ -5,15 +5,15 @@ Same Pokémon
 Same items
 Wonder Launcher
 : No Restrictions
-: \xf000Ȁ\x0001\x0000
-: \xf000Ȁ\x0001\x0000 or more
-: \xf000Ȁ\x0001\x0000 to \xf000Ȁ\x0001\x0001
+: \xf000\x0200\x0001\x0000
+: \xf000\x0200\x0001\x0000 or more
+: \xf000\x0200\x0001\x0000 to \xf000\x0200\x0001\x0001
 : No Restrictions
-: Becomes \xf000Ȃ\x0001\x0000
-: Up to \xf000Ȃ\x0001\x0000
-: \xf000Ȃ\x0001\x0000 and up
-: Becomes \xf000Ȃ\x0001\x0000-
-: Becomes \xf000Ȃ\x0001\x0000+
+: Becomes \xf000\x0202\x0001\x0000
+: Up to \xf000\x0202\x0001\x0000
+: \xf000\x0202\x0001\x0000 and up
+: Becomes \xf000\x0202\x0001\x0000-
+: Becomes \xf000\x0202\x0001\x0000+
 : Permitted
 : Banned
 : Permitted

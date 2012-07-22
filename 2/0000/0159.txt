@@ -1,24 +1,24 @@
-ことばを　えらんでね！
+Choose a word!
 Think up a pre-battle intro!
 Think up a cool winning line!
 Think up a losing excuse!
-はやっている　ものは？
+What's trendy?
 Think up a Union greeting!
-これで　いいですか？
-Please enter a phrase or word！
-なにも　しないで　やめますか？
-Yes
-No
-GROUP\xfffeMode
+Is this okay?
+Put in a word!
+Stop entering?
+YES
+NO
+Group\xfffeMode
 ABC\xfffeMode
 USE
 CONFIRM
-QUIT
+CLOSE
 EDIT
 ADD NEW MESSAGES
 SELECT
 DELETE
-QUIT
+CLOSE
 Registered message list:\xfffePlease select the message\xfffeyou want to use.
 Please choose a message type\xfffeor the place you want\xfffeyour word or phrase to go.
 Please choose where you want\xfffeyour word or phrase to be placed.

@@ -28,7 +28,7 @@ Bosnia and Herzegovina
 Botswana
 Brazil
 British Virgin Islands
-Brunei Darussalam
+Brunei
 Bulgaria
 Burkina Faso
 Burundi
@@ -120,7 +120,7 @@ Libya
 Liechtenstein
 Lithuania
 Luxembourg
-Macedonia (FYROM)
+Macedonia
 Madagascar
 Malawi
 Malaysia
@@ -172,7 +172,7 @@ South Korea
 Moldova
 Réunion
 Romania
-Russian Federation
+Russia
 Rwanda
 Saint Helena
 Saint Kitts and Nevis
@@ -218,12 +218,12 @@ Ukraine
 United Arab Emirates
 United Kingdom
 Tanzania
-United States of America
-United States Virgin Islands
+Unites States
+American Virgin Islands
 Uruguay
 Uzbekistan
 Vanuatu
-Holy See (Vatican City State)
+Vatican City
 Venezuela
 Vietnam
 Wallis and Futuna

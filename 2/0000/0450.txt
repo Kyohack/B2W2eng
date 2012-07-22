@@ -639,15 +639,15 @@ Spring Form
 
 
 
-Avatar Form
-Avatar Form
+Avatar Forme
+Avatar Forme
 
 
-Avatar Form
-Kyurem Form
-Ordinary Form
-Voice Form
-Genesect Form
+Avatar Forme
+Kyurem Forme
+Ordinary Forme
+Aria Forme
+Genesect
 
 One form
 One form
@@ -725,9 +725,9 @@ Sacred Forme
 Sacred Forme
 White Kyurem
 Black Kyurem
-Resolute Form
+Resolute Forme
 Pirouette Forme
-Genesect's Form
-Genesect's Form
-Genesect's Form
-Genesect's Form
+Genesect
+Genesect
+Genesect
+Genesect

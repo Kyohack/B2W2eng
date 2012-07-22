@@ -1,39 +1,39 @@
 SCENARIO
-CUT 01
-CUT 02
-CUT 03
-CUT 04
-CUT 05
-CUT 06
-CUT 07
-CUT 08
-CUT 09
-CUT 10
-CUT 11
-CUT 12
-CUT 13
-CUT 14
-CUT 15
-CUT 16
-CUT 17
-CUT 18
-CUT 19
-CUT 20
+TAKE 01
+TAKE 02
+TAKE 03
+TAKE 04
+TAKE 05
+TAKE 06
+TAKE 07
+TAKE 08
+TAKE 09
+TAKE 10
+TAKE 11
+TAKE 12
+TAKE 13
+TAKE 14
+TAKE 15
+TAKE 16
+TAKE 17
+TAKE 18
+TAKE 19
+TAKE 20
 Choose your lines wisely!
-Make use of the weather!
+Use the weather!
 Choose your lines wisely!\xfffeDon't fear sacrifices!
 Exploit the foe's weakness!
 Exploit the foe's weakness!
-Finish it immediately!
-Finish it immediately!
-Finish it immediately!
-Finish it immediately!
-Finish it immediately!
-Finish it immediately!
-Finish it immediately!
-Finish it immediately!
-Finish it immediately!
-Finish it immediately!
+Finish it!
+Finish it!
+Finish it!
+Finish it!
+Finish it!
+Finish it!
+Finish it!
+Finish it!
+Finish it!
+Finish it!
 None
 None
 None

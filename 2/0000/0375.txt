@@ -22,7 +22,7 @@ Prevents the Pokémon\xfffefrom becoming confused.
 Negates all moves that\xfffeforce switching out.
 Lowers the foe's\xfffeAttack stat.
 Prevents the foe from\xfffeescaping.
-Inflicts damage to the\xfffePokémon on contact.
+Inflicts damage to the\xfffeattacker on contact.
 Only supereffective\xfffemoves will hit.
 Gives full immunity to all\xfffeGround-type moves.
 Contact may poison or\xfffecause paralysis or sleep.
@@ -108,7 +108,7 @@ Damages the attacker\xfffelanding the finishing hit.
 Senses a foe's\xfffedangerous moves.
 Determines what moves\xfffea foe has.
 Ignores any stat changes\xfffein the Pokémon.
-Powers up “not very\xfffeeffective" moves.
+Powers up "not very\xfffeeffective" moves.
 Reduces damage from\xfffesupereffective attacks.
 Temporarily halves\xfffeAttack and Speed.
 Enables moves to hit\xfffeGhost-type Pokémon.

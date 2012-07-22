@@ -5,21 +5,21 @@ Juniper Pokémon Lab
 This town offers great views\xfffedue to its many hills.
 Pokémon Center
 Entry stairs built in memory of a\xfffeformer home in a snowier climate.
-Striaton City Gym
+Striaton Restaurant
 Pokémon Center
 Trainers' School
 Fennel's Lab
 A city established in restored\xfffestorehouses built 100 years ago.
-Nacrene City Gym
-Pokémon Center
 Nacrene Museum
+Pokémon Center
 Café Warehouse
+Move Tutor's House
 A big city with skyscrapers\xfffepiercing the clouds.
 Castelia City Gym
 Pokémon Center
 Passerby Analytics
 Name-Rating Services
-Pokémon Massage
+Medal Secretariat
 Royal Unova
 A bustling city of entertainment,\xfffewith many theme parks.
 Nimbasa City Gym
@@ -81,7 +81,7 @@ A world-famous sea of shining waves.
 A mysterious forest where people get\xfffelost despite the simple landscape.
 A small road by the shore, where you\xfffecan enjoy the seascape in peace.
 A pastoral road where novice\xfffeTrainers can challenge one another.
-A long and winding road with lots\xfffeof ponds and tall grass.
+A long route with many twists and turns,\xfffeowed to all the grass and ponds.
 A sandstorm delayed the road\xfffeconstruction to connect two cities.
 A busy road where\xfffeperformers gather.
 A road with many trees\xfffefor nature lovers.
@@ -105,54 +105,54 @@ An old bridge that settlers of the\xfffeUnova region built and now live on.
 The most advanced bridge in Unova,\xfffedesigned to soften any impact.
 In the middle of the Unova region,\xfffeit is a place of mysterious power.
 Trainers seeking further strength\xfffeenter the cavern despite the risks.
-イッシュを　みわたせるほど　たかい\xfffeやまの　すそのに　ひろがる　まち
-Aspertia City Gym
+イッシュを みわたせるほど たかい\xfffeやまの すそのに ひろがる まち
+Aspertia City Gym 
 Trainers' School
 Pokémon Center
-くもと　けむりに　おおわれがち　だが\xfffeまちにくらす　ひとびとは　かっぱつ
+くもと けむりに おおわれがち だが\xfffeまちにくらす ひとびとは かっぱつ
 Virbank City Gym
 Pokémon Center
-なみまに　うかぶ　たてものが\xfffeしまのように　みえる　リゾートシティ
+なみまに うかぶ たてものが\xfffeしまのように みえる リゾ-トシティ
 Seigaiha City Gym
 Pokémon Center
-せいしき　めいしょうは\xfffeポケウッドムービースタジオ
-ひとと　こうりゅうする　ほどに\xfffeはってん　していく　おおどおり
-まちの　はじまりを　つげる\xfffeとけいだいが　シンボル
+せいしき めいしょうは\xfffeポケウッドム-ビ-スタジオ
+ひとと こうりゅうする ほどに\xfffeはってん していく おおどおり
+まちの はじまりを つげる\xfffeとけいだいが シンボル
 Pokémon Center
-かざんちかくの　つちを　つかって\xfffeつくる　とうきや　じきが　じまん
+かざんちかくの つちを つかって\xfffeつくる とうきや じきが じまん
 Pokémon Center
-くろのまてんろう
-しろのじゅどう
-It is a popular place for tourists,\xfffebut too harsh to be a resort.
-Ancient ruins with a glorious history,\xfffeburied in the sand as time went by.
-でいりぐちの　かなごうしが　はずされ\xfffeものずきな　トレーナーが　うろつく
-ポケモンと　ひとが　あつまるうちに\xfffeいつしか　ぼくじょうに　なった
-ポケモンが　はたらきやすいように\xfffeせっけい　されている　コンビナート
-おおむかしに　おおきな　ふんかをした\xfffeきろくが　のこっている　かざん
-さいきんも　ふんかを　くりかえし\xfffeニュースに　なっている　かざん
-かなしい　じけんが　あったといわれ\xfffeだれも　よせつけない　とされる　いえ
-わかれみちで　トレーナーを　はばむ\xfffeポケモンリーグ　さいごの　かんもん
-イッシュちほうの　かくちで　みられる\xfffeなぞの　くろい　はんせん
-さいきん　はっけん　された\xfffeこだいのしろの　ぬけみち
-さいくつを　つづけた　ヤーコンにより\xfffeかいつうした　ネジやま　までの　みち
-かつて　プラズマだんの　アジトとして\xfffeいちどだけ　そのすがたを　みせた……
-かぜ　なみ　そして　ポケモンによって\xfffeとおりぬけ　できるようになった　いわ
-ほらあなの　おくふかくは\xfffeシンオウちほうに　つながる　という
-すなち　だった　どうろも　ビルが\xfffeたちならぶ　ばしょに　うまれかわった
-やまの　ふもとに　できた\xfffeゆるやかな　とおりみち
-あきに　なると　おちばが　つもり\xfffeじめんの　ようすが　わからなくなる
-いわが　おおく　およぎづらいが\xfffeかえって　すいえいじまんが　つどう
-きふくや　だんさが　おおいため\xfffeしぜんのめいろに　なっている
-ぜっぺきに　あっとう　されながら\xfffeすすむしかない　やまあいの　みち
-さいせんたんの　ぎじゅつりょくが\xfffeそそぎこまれている　かいていトンネル
-ポケモン　そだてや
-げんざいの　まちの　ランク
-おきゃくに　であった　かず
-いま　あそびに　きている　ひと
-\xf000Ȃ\x0001\x0000
-\xf000Ȇ\x0001\x0000
-\xf000ȁ\x0001\x0000
-こだいの　おうが　ねむると\xfffeつたえられる　おおむかしの　はか
+Black Skyscraper
+White Tree Hollow
+Though a popular tourist spot and\xfffeknown as a resort, it's a harsh desert.
+The ruins of an ancient civilization\xfffewhose glory was buried in the sands.
+でいりぐちの かなごうしが はずされ\xfffeものずきな トレ-ナ-が うろつく
+ポケモンと ひとが あつまるうちに\xfffeいつしか ぼくじょうに なった
+ポケモンが はたらきやすいように\xfffeせっけい されている コンビナ-ト
+おおむかしに おおきな ふんかをした\xfffeきろくが のこっている かざん
+さいきんも ふんかを くりかえし\xfffeニュ-スに なっている かざん
+かなしい じけんが あったといわれ\xfffeだれも よせつけない とされる いえ
+These steep slopes are the last\xfffeobstacle before the Pokémon League!
+イッシュちほうの かくちで みられる\xfffeなぞの くろい はんせん
+さいきん はっけん された\xfffeこだいのしろの ぬけみち
+さいくつを つづけた ヤ-コンにより\xfffeかいつうした ネジやま までの みち
+かつて プラズマだんの アジトとして\xfffeいちどだけ そのすがたを みせた...
+かぜ なみ そして ポケモンによって\xfffeとおりぬけ できるようになった いわ
+ほらあなの おくふかくは\xfffeシンオウちほうに つながる という
+すなち だった どうろも ビルが\xfffeたちならぶ ばしょに うまれかわった
+やまの ふもとに できた\xfffeゆるやかな とおりみち
+あきに なると おちばが つもり\xfffeじめんの ようすが わからなくなる
+いわが おおく およぎづらいが\xfffeかえって すいえいじまんが つどう
+きふくや だんさが おおいため\xfffeしぜんのめいろに なっている
+ぜっぺきに あっとう されながら\xfffeすすむしかない やまあいの みち
+さいせんたんの ぎじゅつりょくが\xfffeそそぎこまれている かいていトンネル
+ポケモン そだてや
+げんざいの まちの ランク
+おきゃくに であった かず
+いま あそびに きている ひと
+\xf000\x0202\x0001\x0000
+\xf000\x0206\x0001\x0000
+\xf000\x0201\x0001\x0000
+こだいの おうが ねむると\xfffeつたえられる おおむかしの はか
 Caitlin's Villa
 わざおもいだし
 わざわすれ

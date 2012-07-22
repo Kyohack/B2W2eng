@@ -1,5 +1,5 @@
-\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeStrange ship going\xfffetowards Souryu?\xf000븁\x0000
-I saw it too!\xfffeLet's head there now!\xf000븁\x0000
-Cheren!　Isn't that\xfffeTeam Plasma's ship?\xf000븁\x0000
-Yeah, there's no doubt! \xf000븁\x0000\xfffeAnyways, we'll\xfffearrive very shortly!\xf000븁\x0000
-Alrighty, I'll leave the rest to you!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xfffeLet me know if\xf000븀\x0000\xfffeanything happens!\xf000븁\x0000
+\xf000\x0100\x0001\x0000!\xf000\xbe01\x0000\xfffeStrange ship going\xfffetowards Souryu?\xf000\xbe01\x0000
+I saw it too!\xfffeLet's head there now!\xf000\xbe01\x0000
+Cheren! Isn't that\xfffeTeam Plasma's ship?\xf000\xbe01\x0000
+Yeah, there's no doubt! \xf000\xbe01\x0000\xfffeAnyways, we'll\xfffearrive very shortly!\xf000\xbe01\x0000
+Alrighty, I'll leave the rest to you!\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000!\xfffeLet me know if\xf000\xbe00\x0000\xfffeanything happens!\xf000\xbe01\x0000

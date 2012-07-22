@@ -1,13 +1,13 @@
-The “How Do You Play the Game" Survey
-The “Details about People" Survey
-The “Pokémon Favorites" Survey
-The “Ideals and Values" Survey
-The “Likable People" Survey
-The “Preferences" Survey
-The “Entertainment" Survey
-The “School Life" Survey
-The “Sports and Pastimes" Survey
-The “More about Pokémon" Survey
+The "How Do You Play the Game" Survey
+The "Details about People" Survey
+The "Pokémon Favorites" Survey
+The "Ideals and Values" Survey
+The "Likable People" Survey
+The "Preferences" Survey
+The "Entertainment" Survey
+The "School Life" Survey
+The "Sports and Pastimes" Survey
+The "More about Pokémon" Survey
 This is a survey about how people play Pokémon\xfffeBlack 2 Version and Pokémon White 2 Version.
 This is a survey to find out details\xfffeabout people.
 This is a survey to find out people's\xfffepreferences when it comes to Pokémon.
@@ -48,33 +48,33 @@ What kind of job do you have?
 Which Gym Leader do you like best?
 What Pokémon type do you like best?
 How long have you been playing?
-The “Pokémon Black Version or\xfffePokémon White Version" Survey
-The “Gender" Survey
-The “Battle vs. Trade" Survey
-The “Where to Live" Survey
-The “Smart vs. Athletic" Survey
-The “Time vs. Money" Survey
-The “Appearance vs. Substance" Survey
-The “Favorite Kind of Pokémon" Survey
-The “Starter Pokémon" Survey
-The “Vacation Spot" Survey
-The “School Days" Survey
-The “Important People" Survey
-The “Seasons" Survey
-The “Food" Survey
-The “Popular People" Survey
-The “Best Thing about Pokémon" Survey
-The “Favorite Subject" Survey
-The “Worst Subject" Survey
-The “Pokémon Jobs" Survey
-The “Leisure Time" Survey
-The “Music" Survey
-The “TV" Survey
-The “Movies" Survey
-The “Sports" Survey
-The “Colors" Survey
-The “Hobbies" Survey
-The “Jobs" Survey
-The “Gym Leaders" Survey
-The “Pokémon Types" Survey
-The “Gameplay Time" Survey
+The "Pokémon Black Version or\xfffePokémon White Version" Survey
+The "Gender" Survey
+The "Battle vs. Trade" Survey
+The "Where to Live" Survey
+The "Smart vs. Athletic" Survey
+The "Time vs. Money" Survey
+The "Appearance vs. Substance" Survey
+The "Favorite Kind of Pokémon" Survey
+The "Starter Pokémon" Survey
+The "Vacation Spot" Survey
+The "School Days" Survey
+The "Important People" Survey
+The "Seasons" Survey
+The "Food" Survey
+The "Popular People" Survey
+The "Best Thing about Pokémon" Survey
+The "Favorite Subject" Survey
+The "Worst Subject" Survey
+The "Pokémon Jobs" Survey
+The "Leisure Time" Survey
+The "Music" Survey
+The "TV" Survey
+The "Movies" Survey
+The "Sports" Survey
+The "Colors" Survey
+The "Hobbies" Survey
+The "Jobs" Survey
+The "Gym Leaders" Survey
+The "Pokémon Types" Survey
+The "Gameplay Time" Survey

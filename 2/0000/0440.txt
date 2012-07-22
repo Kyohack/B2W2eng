@@ -1,6 +1,6 @@
-Yes
-No
-Forget
-Keep old moves!
-Give up on \xf000ć\x0001\x0000!
-Don't give up on \xf000ć\x0001\x0000!
+YES
+NO
+FORGET
+KEEP OLD MOVES!
+Give up on \xf000\x0107\x0001\x0000!
+Don't give up on \xf000\x0107\x0001\x0000!

@@ -101,7 +101,7 @@ Die großen Scheren haben eine\xfffeStärke von 10 000 PS. Aber sie sind\xfffesc
 Sieht aus wie ein Pokéball. Es ist\xfffegefährlich, da es bei Berührung\xfffeexplodieren kann.
 Es lässt sich vom Wind treiben,\xfffewenn es so voller Elektrizität ist,\xfffedass es fast explodiert.
 Die sechs Eier kommunizieren\xfffetelepathisch. Werden sie getrennt,\xfffefinden sie sich schnell wieder.
-Man nennt es den “Laufenden\xfffeDschungel". Wird ein Kopf zu groß,\xfffefällt er ab und wird zu einem OWEI.
+Man nennt es den "Laufenden\xfffeDschungel". Wird ein Kopf zu groß,\xfffefällt er ab und wird zu einem OWEI.
 Denkt es an seine verstorbene\xfffeMutter, weint es, wobei der Schädel\xfffeauf seinem Kopf hohl klingt.
 Von Geburt an trägt dieses wilde\xfffePokémon Knochen. Es setzt sie\xfffetalentiert als Waffen ein.
 Seine Beine können die doppelte\xfffeLänge annehmen. Gegner, die das\xfffenicht wissen, erschrecken.
@@ -145,7 +145,7 @@ Ist sein Magen voll, wird es sehr\xfffelethargisch. Nun kann man problem-\xfffel
 Ein Legendäres Vogel-Pokémon.\xfffeEs kann Blizzards verursachen,\xfffeindem es Feuchtigkeit gefriert.
 Ein Legendäres Vogel-Pokémon,\xfffedas in Gewitterwolken leben soll.\xfffeEs kontrolliert Blitze. 
 Eines der Legendären Vogel-\xfffePokémon. Es wird als Bote des\xfffeFrühlings angesehen.
-Man nennt es “Illusion-Pokémon",\xfffedenn nur wenige haben es gesehen.\xfffeNur seine Haut wurde oft gefunden.
+Man nennt es "Illusion-Pokémon",\xfffedenn nur wenige haben es gesehen.\xfffeNur seine Haut wurde oft gefunden.
 Erscheint um seinen Körper eine\xfffeAura, gibt es einen Wetterwechsel.\xfffeEs soll in Seen und Meeren leben.
 Man sagt, es lebe in den Meeren.\xfffeEs bringt Schiffbrüchige sicher\xfffean Land.
 Die Gene von MEW wurden neu\xfffeangeordnet, wodurch dieses PKMN\xfffeentstand. Es hat ein wildes Herz.
@@ -169,7 +169,7 @@ Es baut eine Falle, indem es ein\xfffeNetz mit dünner, starker Seide\xfffespinn
 Es befestigt Seide an der Beute und\xfffelässt sie frei. Es folgt dem Seiden-\xfffefaden zur Beute u. ihren Freunden.
 Die Umwandlung seiner Beine in\xfffeSchwingen wirkte sich positiv auf's\xfffeFliegen aus. Das Laufen litt eher.
 Über seine Antennen entlädt es\xfffeElektrizität, mit der es seinen\xfffeGegnern einen Schlag versetzt.
-LANTURNs Licht kann aus großen\xfffeTiefen heraufscheinen. Man nennt\xfffees auch “Tiefseestern".
+LANTURNs Licht kann aus großen\xfffeTiefen heraufscheinen. Man nennt\xfffees auch "Tiefseestern".
 Tritt auch nur eine geringe Menge\xfffeElektrizität aus seinen Backen aus,\xfffebekommt es einen Schlag.
 Man sieht es oft, wenn der Himmel\xfffevoller Sterne hängt. Es soll auf\xfffeeiner Sternschnuppe reiten.
 Es hat einen weichen, elastischen\xfffeKörper. Hat es einmal angefangen\xfffezu hüpfen, ist es nicht zu stoppen.
@@ -317,7 +317,7 @@ Je gesünder das ROSELIA, desto\xfffeangenehmer das Aroma seiner Blume,\xfffedas
 Sein Körper besteht fast nur aus\xfffeMagen. Seine starken Verdauungs-\xfffesäfte zersetzen alles sehr schnell.
 Es verschluckt alles in einem\xfffeStück und sondert giftige Stoffe\xfffeab, mit denen es Gegner besprüht. 
 Sie begegnen jedem Gegner, der in\xfffeihr Revier eindringt, im Schwarm.\xfffeIhre Zähne durchdringen alles.
-Seine Zähne durchdringen sogar\xfffeEisen. Es schwimmt mit 120 km/h und\xfffewird “Tyrann des Meeres" genannt.
+Seine Zähne durchdringen sogar\xfffeEisen. Es schwimmt mit 120 km/h und\xfffewird "Tyrann des Meeres" genannt.
 An sonnigen Tagen trifft man diese\xfffePokémon an Stränden, wo sie wie\xfffeBälle herumhüpfen. 
 Das größte PKMN. Es kann mit nur\xfffeeinem Atemzug in Tiefen bis\xfffe3 000 Meter tauchen.
 In seinem Rücken speichert es sehr\xfffeheißes Magma. Regnet es, kühlt das\xfffeMagma ab und es wird langsamer.
@@ -328,7 +328,7 @@ Mit schwarzen Perlen verstärkt es\xfffeseine Psycho-Kräfte. Mit einem\xfffeTan
 Das Muster eines PANDIR ist wie\xfffeein Fingerabdruck. Sein Taumeln\xfffesenkt die gegn. Zielsicherheit.
 Es baut im Wüstensand eine\xfffeFallgrube, setzt sich in ihr auf den\xfffeBoden und wartet auf Beute.
 Es schlägt wild mit den Flügeln.\xfffeSo entstehen Ultraschallwellen,\xfffedie Kopfschmerzen verursachen.
-Mit mächtigem Flügelschlag verur-\xfffesacht es einen Sandsturm. Es wird\xfffe“Geist der Wüste" genannt.
+Mit mächtigem Flügelschlag verur-\xfffesacht es einen Sandsturm. Es wird\xfffe"Geist der Wüste" genannt.
 Dieser Wüstenbewohner speichert\xfffeWasser in seinem Körper. So kann er\xfffe30 Tage ohne Wasser überleben.
 Ein nachtaktives PKMN, das Beute\xfffesucht, die durch die Tageshitze der\xfffeWüste bereits erschöpft ist.
 Es kann nicht entspannen, wenn\xfffees oder seine Umgebung dreckig\xfffeist. Säubert alles mit den Flügeln.
@@ -423,12 +423,12 @@ Spürt es Sonnenlicht, öffnet es\xfffeseine Blütenblätter und nimmt die\xfffe
 Nicht seinen Körper zusammen-\xfffedrücken, sonst sickert eine selt-\xfffesame lilafarbene Flüssigkeit aus!
 Vor langer Zeit hatte es einen\xfffefesten Panzer. Mittlerweile sind\xfffenur noch Spuren davon vorhanden.
 Es ist mit seinen beiden Schweifen\xfffeso geschickt, dass es seine Hände\xfffenur noch selten gebraucht.
-Laut einer alten Volkssage nennt\xfffeman es den “Wegweiser für\xfffeumherstreifende Geister".
+Laut einer alten Volkssage nennt\xfffeman es den "Wegweiser für\xfffeumherstreifende Geister".
 In der Dämmerung steigen ganze\xfffeSchwärme in die Lüfte, verschwinden\xfffeaber sofort, wenn man sie bemerkt.
 Seine Ohren sind immer aufgerollt.\xfffeMit ihnen kann es selbst große\xfffeFelsbrocken zertrümmern.
 Es hat sehr empfindliche Ohren.\xfffeFasst man sie zu rau an, wird es mit\xfffeseinen grazilen Beinen zutreten.
 Sein Ruf ähnelt einer Beschwörung.\xfffeMan sagt, dass er manchmal über die\xfffeKraft verfüge, glücklich zu machen.
-Sein tiefer Ruf lockt andere\xfffeKRAMURX herbei. Man nennt es daher\xfffe“Beschwörer der Nacht".
+Sein tiefer Ruf lockt andere\xfffeKRAMURX herbei. Man nennt es daher\xfffe"Beschwörer der Nacht".
 Es verbirgt, dass es bei schlechter\xfffeFütterung gerne seine Krallen in\xfffedie Nase des Trainers gräbt.
 Umschlingt seinen Körper mit seinen\xfffeSchweifen, um größer zu wirken. Bei\xfffedirektem Augenkontakt blendet es.
 In seinem Maul befindet sich\xfffeeine Kugel, die beim Hopsen ein\xfffeklingelndes Geräusch erzeugt.

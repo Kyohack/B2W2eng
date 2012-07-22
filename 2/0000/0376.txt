@@ -759,7 +759,7 @@ Still, you look mature for your age.\xfffeAre you already an adult, or are you a
 A man with the heart of a boy\xfffeis just a wheedling child.
 How much did this parasol cost?\xfffeWhy, it is a cheap disposable.
 I am a Parasol Lady, but I cannot\xfffespend money for a parasol.
-A parasol is just a tool. It’s fine\xfffeas long as it protects me from the rain.
+A parasol is just a tool. It's fine\xfffeas long as it protects me from the rain.
 I can really cut loose in Pokémon\xfffebattles without being scolded.
 Nobody scolds me. That's why\xfffePokémon battles are the best!
 You like a big fight, don't ya?\xfffeYou are my pal.
@@ -820,7 +820,7 @@ Just having hopes and dreams is not enough.\xfffeWhat is important is... Never m
 I want to have an exhilarating battle.\xfffeGot it?
 Thank you!\xfffeA battle is extremely exhilarating!
 OK, OK, I got it...\xfffeLet's call it a day.
-It's OK if I have training wheels.\xfffeIt’s OK if my Bike doesn't accelerate.
+It's OK if I have training wheels.\xfffeIt's OK if my Bike doesn't accelerate.
 It's OK if you go your own way.\xfffeYou'll reach your goal someday.
 It's OK if you lose.\xfffeIt's OK, 'cause you have a Bicycle.
 You ain't never even gonna see\xfffemy Pokémon's moves.
@@ -857,7 +857,7 @@ I've been with these Pokémon\xfffesince I was a child.
 Pokémon are like family to me.
 I don't think I want to have children.\xfffeI'd rather focus on my Pokémon family.
 Hi, I am a physician!\xfffeHey! Let me give you a shot!
-Come now, let me give you a shot!\xfffeDon’t worry. It won't hurt!
+Come now, let me give you a shot!\xfffeDon't worry. It won't hurt!
 You have strong arms!\xfffeSo let me give you a shot now!
 Cough! Cough, cough! How many\xfffemore people will I be able to save?
 Cough! I wanted to save more people.\xfffeCough, cough!
@@ -898,45 +898,45 @@ Good. You're daring!\xfffeI'll let you come fly on my plane.
 Hey! Yo! It's me.\xfffeI am the best Pilot in the world.
 Listen! A Trainer should be No. 1.\xfffeThat's it!
 You're quite a Trainer!\xfffeBe my apprentice!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Thank you for riding\xfffethe Battle Subway today.\xf000븀\x0000\xfffeI am the Subway Boss Ingo.\xf000븁\x0000\xfffeI will choose the next destination\xfffebased on your talent.\xf000븁\x0000\xfffeDo you understand Pokémon well?\xfffeCan you hold on to your principle?\xf000븀\x0000\xfffeWill you go on to victory or defeat?\xf000븁\x0000\xfffeAll aboard!
-Ah. Your battle was not bad at all.\xf000븁\x0000\xfffeHowever, we seem to have done slightly\xfffebetter than you.\xf000븁\x0000\xfffeWe would really like to battle with you again!\xf000븁\x0000\xfffePlease ride the Battle Subway again!
-Bravo!!\xf000븁\x0000\xfffeYour talent has brought you\xfffeto the destination called Victory!\xf000븁\x0000\xfffeHowever, your journey has just started.\xf000븁\x0000\xfffeWhen you choose your next destination,\xfffego full speed ahead!
-Welcome! I've been waiting for you!\xf000븁\x0000\xfffeLet me introduce myself...\xfffeI am the Subway Boss Ingo.\xf000븁\x0000\xfffeWhat can I see after winning,\xfffewinning, and winning?\xf000븁\x0000\xfffeWhere is my destination?\xf000븁\x0000\xfffeI've kept thinking, and\xfffeI've learned one thing.\xf000븁\x0000\xfffeThat is, you cannot know what happens\xfffeafter winning without winning.\xf000븁\x0000\xfffeTherefore, I will exert every possible\xfffeeffort to battle with you.\xf000븁\x0000\xfffeAll aboard!
-I have won this time, but\xfffeyour talent is very strong!\xf000븁\x0000\xfffeYour tactics...reading...\xfffeYou have great skills.\xf000븁\x0000\xfffeThat's right! I would like to\xfffebattle you again and again!\xf000븁\x0000\xfffePlease ride the Battle Subway again soon!
-Bravo!\xfffeExcellent!!\xf000븁\x0000\xfffeI am glad that I fought so hard\xfffeagainst a wonderful Trainer like you.\xf000븁\x0000\xfffeThat's right!\xfffeYou grow stronger by matching yourself\xf000븀\x0000\xfffeagainst a strong opponent.\xf000븁\x0000\xfffePlease do your best and run\xfffetoward the destination,\xf000븀\x0000\xfffean even higher state.
-I am Emmet.\xf000븁\x0000\xfffeI am a Subway Boss.\xf000븁\x0000\xfffeI like Double Battles.\xf000븁\x0000\xfffeI like combinations of\xfffetwo Pokémon.\xf000븁\x0000\xfffeAnd I like winning\xfffemore than anything else.\xf000븁\x0000\xfffeSo let's start a great battle\xfffein which every Pokémon uses\xf000븀\x0000\xfffevarious moves.
-I am Emmet.\xf000븁\x0000\xfffeI won against you.\xf000븁\x0000\xfffeBut I think I just got lucky.\xf000븁\x0000\xfffeIn a Double Battle, if you misread one thing,\xfffethe rest will be totally different.\xf000븁\x0000\xfffeYou know.\xfffePlease win 20 battles in a row, and\xf000븀\x0000\xfffefight with me!
-I am Emmet.\xf000븁\x0000\xfffeI lost against you.\xf000븁\x0000\xfffeBecause you are the strongest Trainer\xfffeI've fought lately.\xf000븀\x0000\xfffeYou're a verrrrry strong Trainer!\xf000븁\x0000\xfffeYup! It was fun!\xfffeRide the trains some more!
-Hi, do you remember me?\xfffeI am Emmet.\xf000븁\x0000\xfffeI am a Subway Boss.\xf000븁\x0000\xfffeI like Double Battles.\xf000븁\x0000\xfffeI like combinations of \xfffetwo Pokémon.\xf000븁\x0000\xfffeAnd I like winning\xfffemore than anything else.\xf000븁\x0000\xfffeThis time, I am really serious.\xfffeReally serious.\xf000븁\x0000\xfffeBecause if a battle is not serious,\xfffeit is not fun.
-I am Emmet.\xf000븁\x0000\xfffeI won against you.\xfffeBut this is not the end.\xf000븁\x0000\xfffeI am sure you will show up\xfffehere again.\xf000븁\x0000\xfffeI will wait for it and\xfffewin against you again.\xf000븁\x0000\xfffeBecause I am a\xfffeSubway Boss. I am Emmet.
-I am Emmet.\xf000븁\x0000\xfffeI am a Subway Boss,\xfffebut I lost against you again.\xf000븁\x0000\xfffeBut I feel good.\xfffeBecause it was very fun!\xf000븁\x0000\xfffeYou want to win, and\xfffeI don't want to lose.\xf000븀\x0000\xfffeThat's real.\xf000븁\x0000\xfffeWhen we clash in battles,\xfffeI feel very excited!
-I am a Subway Boss, Ingo.\xf000븁\x0000\xfffeThe fellow over to the side is\xfffealso a Subway Boss, Emmet.\xf000븁\x0000\xfffeWill a Multi Battle help us cover\xfffeeach other's weakness?\xf000븁\x0000\xfffeOr will you show your\xfffeoverwhelming power?\xf000븁\x0000\xfffeI look forward to seeing\xfffehow well you fight. \xf000븁\x0000\xfffeHowever, it is difficult to win\xfffeunless you and your partner\xf000븀\x0000\xfffeare in total sync.
-We make a good two-car train,\xfffeIngo and Emmet.\xf000븁\x0000\xfffeThis time, we worked together toward\xfffea victory.\xf000븁\x0000\xfffeHowever, your abilities are\xfffevery impressive.
-Bravo!!\xf000븁\x0000\xfffeWhat you showed us is\xfffea spark as Trainers.\xf000븁\x0000\xfffeHowever, let me say just one thing.\xf000븁\x0000\xfffeWinning against us is a milestone\xfffein your life.\xf000븁\x0000\xfffeYou can rack up more and more.\xf000븁\x0000\xfffePlease move on toward an even\xfffegreater goal!
-Follow the rules.\xfffeSafe driving!\xf000븁\x0000\xfffeFollow the schedule.\xfffeEverybody smile!\xf000븁\x0000\xfffeCheck safety.\xfffeEverything's ready!\xf000븁\x0000\xfffeAim for victory!\xfffeAll aboard!
-I am Emmet.\xf000븁\x0000\xfffeI won together with Ingo.\xf000븁\x0000\xfffeBut if we fight again,\xfffewe won't know what to expect.\xf000븁\x0000\xfffeThat's why we are waiting\xfffefor you to come back!
-I am Emmet.\xf000븁\x0000\xfffeI lost together with Ingo.\xf000븁\x0000\xfffeYour combination is\xfffethe best, perfect!\xf000븀\x0000\xfffeYou're verrrrry strong Trainers.\xf000븁\x0000\xfffeYup! It was so much fun!
-Let me introduce myself again.\xfffeI am a Subway Boss, Ingo!\xf000븁\x0000\xfffeWell, there is nothing else to say\xfffefor the person who comes\xf000븀\x0000\xfffeall the way here.\xf000븁\x0000\xfffeLet's have the greatest battle,\xfffebetter than ever before.
-We, Ingo and Emmet, are a\xfffetwo-car train.\xf000븁\x0000\xfffeThis time, we were able to work toward\xfffea victory.\xf000븁\x0000\xfffeWell, will you stop here?\xfffeOr will you challenge us again?\xf000븁\x0000\xfffeIt's up to you.\xfffeBut let me say one thing.\xf000븁\x0000\xfffeThere is no terminal called End\xfffein your life!
-Bravo!!\xfffeReally excellent!\xf000븁\x0000\xfffeThe best combination of\xfffeyou and your Pokémon.\xf000븀\x0000\xfffeIt is incredible!\xf000븁\x0000\xfffeWhen you and someone else combine,\xfffeyour engine powers something special!\xf000븁\x0000\xfffeIf you like, please challenge us\xfffewith a different combination.
-What I do. What I say.\xfffeAlways the same.\xf000븁\x0000\xfffeFollow the rules.\xfffeSafe driving!\xf000븁\x0000\xfffeFollow the schedules.\xfffeEveryone smile!\xf000븁\x0000\xfffeCheck safety.\xfffeEverything's ready!\xf000븁\x0000\xfffeAim for victory!\xfffeAll aboard!
-I am Emmet.\xf000븁\x0000\xfffeWe won, but\xfffeI am not really satisfied.\xf000븁\x0000\xfffeI can tell that you won't give up.\xfffeBecause you will be much, much stronger.\xf000븁\x0000\xfffeThat's why we are waiting\xfffefor you to come back!
-I am Emmet.\xf000븁\x0000\xfffeWe lost against you again.\xf000븁\x0000\xfffeBut I am satisfied.\xfffeYou are too strong!\xf000븁\x0000\xfffeThe strength you have,\xfffeyour trust in your Pokémon,\xf000븀\x0000\xfffetheir never-ending support!\xf000븁\x0000\xfffeYep! It was the most fun battle ever!\xfffePlease come back soon!
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Thank you for riding\xfffethe Battle Subway today.\xf000\xbe00\x0000\xfffeI am the Subway Boss Ingo.\xf000\xbe01\x0000\xfffeI will choose the next destination\xfffebased on your talent.\xf000\xbe01\x0000\xfffeDo you understand Pokémon well?\xfffeCan you hold on to your principle?\xf000\xbe00\x0000\xfffeWill you go on to victory or defeat?\xf000\xbe01\x0000\xfffeAll aboard!
+Ah. Your battle was not bad at all.\xf000\xbe01\x0000\xfffeHowever, we seem to have done slightly\xfffebetter than you.\xf000\xbe01\x0000\xfffeWe would really like to battle with you again!\xf000\xbe01\x0000\xfffePlease ride the Battle Subway again!
+Bravo!!\xf000\xbe01\x0000\xfffeYour talent has brought you\xfffeto the destination called Victory!\xf000\xbe01\x0000\xfffeHowever, your journey has just started.\xf000\xbe01\x0000\xfffeWhen you choose your next destination,\xfffego full speed ahead!
+Welcome! I've been waiting for you!\xf000\xbe01\x0000\xfffeLet me introduce myself...\xfffeI am the Subway Boss Ingo.\xf000\xbe01\x0000\xfffeWhat can I see after winning,\xfffewinning, and winning?\xf000\xbe01\x0000\xfffeWhere is my destination?\xf000\xbe01\x0000\xfffeI've kept thinking, and\xfffeI've learned one thing.\xf000\xbe01\x0000\xfffeThat is, you cannot know what happens\xfffeafter winning without winning.\xf000\xbe01\x0000\xfffeTherefore, I will exert every possible\xfffeeffort to battle with you.\xf000\xbe01\x0000\xfffeAll aboard!
+I have won this time, but\xfffeyour talent is very strong!\xf000\xbe01\x0000\xfffeYour tactics...reading...\xfffeYou have great skills.\xf000\xbe01\x0000\xfffeThat's right! I would like to\xfffebattle you again and again!\xf000\xbe01\x0000\xfffePlease ride the Battle Subway again soon!
+Bravo!\xfffeExcellent!!\xf000\xbe01\x0000\xfffeI am glad that I fought so hard\xfffeagainst a wonderful Trainer like you.\xf000\xbe01\x0000\xfffeThat's right!\xfffeYou grow stronger by matching yourself\xf000\xbe00\x0000\xfffeagainst a strong opponent.\xf000\xbe01\x0000\xfffePlease do your best and run\xfffetoward the destination,\xf000\xbe00\x0000\xfffean even higher state.
+I am Emmet.\xf000\xbe01\x0000\xfffeI am a Subway Boss.\xf000\xbe01\x0000\xfffeI like Double Battles.\xf000\xbe01\x0000\xfffeI like combinations of\xfffetwo Pokémon.\xf000\xbe01\x0000\xfffeAnd I like winning\xfffemore than anything else.\xf000\xbe01\x0000\xfffeSo let's start a great battle\xfffein which every Pokémon uses\xf000\xbe00\x0000\xfffevarious moves.
+I am Emmet.\xf000\xbe01\x0000\xfffeI won against you.\xf000\xbe01\x0000\xfffeBut I think I just got lucky.\xf000\xbe01\x0000\xfffeIn a Double Battle, if you misread one thing,\xfffethe rest will be totally different.\xf000\xbe01\x0000\xfffeYou know.\xfffePlease win 20 battles in a row, and\xf000\xbe00\x0000\xfffefight with me!
+I am Emmet.\xf000\xbe01\x0000\xfffeI lost against you.\xf000\xbe01\x0000\xfffeBecause you are the strongest Trainer\xfffeI've fought lately.\xf000\xbe00\x0000\xfffeYou're a verrrrry strong Trainer!\xf000\xbe01\x0000\xfffeYup! It was fun!\xfffeRide the trains some more!
+Hi, do you remember me?\xfffeI am Emmet.\xf000\xbe01\x0000\xfffeI am a Subway Boss.\xf000\xbe01\x0000\xfffeI like Double Battles.\xf000\xbe01\x0000\xfffeI like combinations of \xfffetwo Pokémon.\xf000\xbe01\x0000\xfffeAnd I like winning\xfffemore than anything else.\xf000\xbe01\x0000\xfffeThis time, I am really serious.\xfffeReally serious.\xf000\xbe01\x0000\xfffeBecause if a battle is not serious,\xfffeit is not fun.
+I am Emmet.\xf000\xbe01\x0000\xfffeI won against you.\xfffeBut this is not the end.\xf000\xbe01\x0000\xfffeI am sure you will show up\xfffehere again.\xf000\xbe01\x0000\xfffeI will wait for it and\xfffewin against you again.\xf000\xbe01\x0000\xfffeBecause I am a\xfffeSubway Boss. I am Emmet.
+I am Emmet.\xf000\xbe01\x0000\xfffeI am a Subway Boss,\xfffebut I lost against you again.\xf000\xbe01\x0000\xfffeBut I feel good.\xfffeBecause it was very fun!\xf000\xbe01\x0000\xfffeYou want to win, and\xfffeI don't want to lose.\xf000\xbe00\x0000\xfffeThat's real.\xf000\xbe01\x0000\xfffeWhen we clash in battles,\xfffeI feel very excited!
+I am a Subway Boss, Ingo.\xf000\xbe01\x0000\xfffeThe fellow over to the side is\xfffealso a Subway Boss, Emmet.\xf000\xbe01\x0000\xfffeWill a Multi Battle help us cover\xfffeeach other's weakness?\xf000\xbe01\x0000\xfffeOr will you show your\xfffeoverwhelming power?\xf000\xbe01\x0000\xfffeI look forward to seeing\xfffehow well you fight. \xf000\xbe01\x0000\xfffeHowever, it is difficult to win\xfffeunless you and your partner\xf000\xbe00\x0000\xfffeare in total sync.
+We make a good two-car train,\xfffeIngo and Emmet.\xf000\xbe01\x0000\xfffeThis time, we worked together toward\xfffea victory.\xf000\xbe01\x0000\xfffeHowever, your abilities are\xfffevery impressive.
+Bravo!!\xf000\xbe01\x0000\xfffeWhat you showed us is\xfffea spark as Trainers.\xf000\xbe01\x0000\xfffeHowever, let me say just one thing.\xf000\xbe01\x0000\xfffeWinning against us is a milestone\xfffein your life.\xf000\xbe01\x0000\xfffeYou can rack up more and more.\xf000\xbe01\x0000\xfffePlease move on toward an even\xfffegreater goal!
+Follow the rules.\xfffeSafe driving!\xf000\xbe01\x0000\xfffeFollow the schedule.\xfffeEverybody smile!\xf000\xbe01\x0000\xfffeCheck safety.\xfffeEverything's ready!\xf000\xbe01\x0000\xfffeAim for victory!\xfffeAll aboard!
+I am Emmet.\xf000\xbe01\x0000\xfffeI won together with Ingo.\xf000\xbe01\x0000\xfffeBut if we fight again,\xfffewe won't know what to expect.\xf000\xbe01\x0000\xfffeThat's why we are waiting\xfffefor you to come back!
+I am Emmet.\xf000\xbe01\x0000\xfffeI lost together with Ingo.\xf000\xbe01\x0000\xfffeYour combination is\xfffethe best, perfect!\xf000\xbe00\x0000\xfffeYou're verrrrry strong Trainers.\xf000\xbe01\x0000\xfffeYup! It was so much fun!
+Let me introduce myself again.\xfffeI am a Subway Boss, Ingo!\xf000\xbe01\x0000\xfffeWell, there is nothing else to say\xfffefor the person who comes\xf000\xbe00\x0000\xfffeall the way here.\xf000\xbe01\x0000\xfffeLet's have the greatest battle,\xfffebetter than ever before.
+We, Ingo and Emmet, are a\xfffetwo-car train.\xf000\xbe01\x0000\xfffeThis time, we were able to work toward\xfffea victory.\xf000\xbe01\x0000\xfffeWell, will you stop here?\xfffeOr will you challenge us again?\xf000\xbe01\x0000\xfffeIt's up to you.\xfffeBut let me say one thing.\xf000\xbe01\x0000\xfffeThere is no terminal called End\xfffein your life!
+Bravo!!\xfffeReally excellent!\xf000\xbe01\x0000\xfffeThe best combination of\xfffeyou and your Pokémon.\xf000\xbe00\x0000\xfffeIt is incredible!\xf000\xbe01\x0000\xfffeWhen you and someone else combine,\xfffeyour engine powers something special!\xf000\xbe01\x0000\xfffeIf you like, please challenge us\xfffewith a different combination.
+What I do. What I say.\xfffeAlways the same.\xf000\xbe01\x0000\xfffeFollow the rules.\xfffeSafe driving!\xf000\xbe01\x0000\xfffeFollow the schedules.\xfffeEveryone smile!\xf000\xbe01\x0000\xfffeCheck safety.\xfffeEverything's ready!\xf000\xbe01\x0000\xfffeAim for victory!\xfffeAll aboard!
+I am Emmet.\xf000\xbe01\x0000\xfffeWe won, but\xfffeI am not really satisfied.\xf000\xbe01\x0000\xfffeI can tell that you won't give up.\xfffeBecause you will be much, much stronger.\xf000\xbe01\x0000\xfffeThat's why we are waiting\xfffefor you to come back!
+I am Emmet.\xf000\xbe01\x0000\xfffeWe lost against you again.\xf000\xbe01\x0000\xfffeBut I am satisfied.\xfffeYou are too strong!\xf000\xbe01\x0000\xfffeThe strength you have,\xfffeyour trust in your Pokémon,\xf000\xbe00\x0000\xfffetheir never-ending support!\xf000\xbe01\x0000\xfffeYep! It was the most fun battle ever!\xfffePlease come back soon!

@@ -158,8 +158,8 @@ Battle Competition\xfffeChampion Ribbon
 Pokémon World Championships\xfffeRegional Champion Ribbon
 Pokémon World Championships\xfffeNational Champion Ribbon
 Pokémon World Championships\xfffeWorld Champion Ribbon
-League Ribbon\xf000ȁ\x0001\x0000
-Contest Ribbon\xf000ȁ\x0001\x0000
-Tower Ribbon\xf000ȁ\x0001\x0000
-Memorial Ribbon\xf000ȁ\x0001\x0000
-Gift Ribbon\xf000ȁ\x0001\x0000
+League Ribbon\xf000\x0201\x0001\x0000
+Contest Ribbon\xf000\x0201\x0001\x0000
+Tower Ribbon\xf000\x0201\x0001\x0000
+Memorial Ribbon\xf000\x0201\x0001\x0000
+Gift Ribbon\xf000\x0201\x0001\x0000

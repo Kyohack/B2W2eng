@@ -217,7 +217,7 @@ The user makes a soothing bell chime\xfffeto heal the status problems of all the
 A full-power attack that grows more\xfffepowerful the more the user likes\xfffeits Trainer.
 The user attacks by giving the target a\xfffegift with a hidden trap. It restores\xfffeHP sometimes, however.
 A full-power attack that grows more\xfffepowerful the less the user likes\xfffeits Trainer.
-The user creates a protective field that\xfffeprevents status problems for five turns.
+The user creates a protective field\xfffethat prevents status problems\xfffefor five turns.
 The user adds its HP to the target's HP,\xfffethen equally shares the combined HP\xfffewith the target.
 The target is razed with a mystical fire\xfffeof great intensity. It may also leave the\xfffetarget with a burn.
 The user looses a ground-shaking quake\xfffeaffecting everyone around the user.\xfffeIts power varies.
@@ -239,7 +239,7 @@ A unique attack that varies in type and\xfffeintensity depending on the Pokémon
 The user delivers a double chop with its\xfffeforearms crossed.\xfffeCritical hits land more easily.
 The user whips up a vicious tornado\xfffeto tear at the opposing team.\xfffeIt may also make targets flinch.
 The user summons a heavy rain\xfffethat falls for five turns,\xfffepowering up Water-type moves.
-The user intensifies the sun for\xfffefive turns, powering up\xfffeFire-type moves.
+The user intensifies the sun for\xfffefive turns, powering up Fire-type\xfffemoves.
 The user crunches up the target\xfffewith sharp fangs. It may also lower\xfffethe target's Defense stat.
 A retaliation move that counters any\xfffespecial attack, inflicting double the\xfffedamage taken.
 The user hypnotizes itself into\xfffecopying any stat change made\xfffeby the target.
@@ -477,7 +477,7 @@ The user sheds part of its body\xfffeto make itself lighter and sharply\xffferai
 The user scatters a cloud of irritating\xfffepowder to draw attention to itself.\xfffeOpponents aim only at the user.
 The user makes the target float with its\xfffepsychic power. The target is easier to\xfffehit for three turns.
 The user creates a bizarre area\xfffein which Pokémon's held items\xfffelose their effects for five turns.
-The user throws a stone or projectile to\xfffeattack an opponent. A flying Pokémon will\xfffefall to the ground when hit.
+The user throws a stone or projectile\xfffeto attack an opponent. A flying Pokémon\xfffewill fall to the ground when it's hit.
 The user strikes the target with a fierce\xfffeblow. This attack always results in a\xfffecritical hit.
 The user attacks the target with a\xfffebursting flame. The bursting flame damages\xfffePokémon next to the target as well.
 It swamps the area around the user with a\xfffegiant sludge wave.\xfffeIt may also poison those hit.
@@ -500,7 +500,7 @@ Looking for an opening, the user strikes\xfffecontinually. The target's stat cha
 The user attacks by throwing a clump of\xfffespecial mud. All status changes are\xfffereturned to normal.
 The user attacks the target with stored\xfffepower. The more the user's stats are\xffferaised, the greater the damage.
 The user protects itself and its allies\xfffefrom priority moves. If used in\xfffesuccession, its chance of failing rises.
-The user teleports using a strange power\xfffeand switches its place with one of\xfffeits allies.
+The user teleports using a strange\xfffepower and switches its place with one of\xfffeits allies.
 The user shoots boiling hot water at\xfffeits target. It may also leave the target\xfffewith a burn.
 The user breaks its shell, lowering its\xfffeDefense and Sp. Def stats but sharply\xffferaising Attack, Sp. Atk, and Speed stats.
 The user emits a healing pulse which\xffferestores the target's HP by up to\xfffehalf of its max HP.
@@ -521,7 +521,7 @@ A column of fire hits opposing Pokémon.\xfffeWhen used with its Grass equivalen
 A column of grass hits opposing Pokémon.\xfffeWhen used with its water equivalent, its\xfffedamage increases into a vast swamp.
 After making its attack, the user\xffferushes back to switch places with\xfffea party Pokémon in waiting.
 While resisting, the user attacks the\xfffeopposing Pokémon. The targets'\xfffeSp. Atk stat is reduced.
-The user stomps down on the ground\xfffeand attacks everything in the area. Hit\xfffePokémon's Speed stat is reduced.
+The user stomps down on the ground\xfffeand attacks everything in the area.\xfffeThe targets' Speed stat is reduced.
 The user blows a cold breath on the\xfffetarget. This attack always results in\xfffea critical hit.
 The user knocks away the target and\xfffedrags out another Pokémon in its party.\xfffeIn the wild, the battle ends.
 The user is roused, and its Attack\xfffeand Sp. Atk stats increase.

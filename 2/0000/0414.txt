@@ -1,17 +1,17 @@
-Welcome to Geonet, the high-tech\xfffeglobe!\xf000븁\x0000
-What would you like to do?
-You can register your location.\xfffeThat information may be provided\xf000븀\x0000\xfffeto friends and strangers through\xf000븀\x0000\xfffeDS Wireless Communications\xf000븀\x0000\xfffeor over Nintendo Wi-Fi Connection.\xf000븁\x0000\xfffeWould you like to register your\xfffelocation now?
+Welcome to Geonet, the high-tech\xfffeglobe!\xf000\xbe01\x0000
+What now?
+You can register your location.\xfffeThat information may be provided\xf000\xbe00\x0000\xfffeto friends and strangers through\xf000\xbe00\x0000\xfffeDS Wireless Communications\xf000\xbe00\x0000\xfffeor over Nintendo Wi-Fi Connection.\xf000\xbe01\x0000\xfffeWould you like to register your\xfffelocation now?
 Please select the location\xfffewhere you live.
 Please select the area\xfffewhere you live.
-You may not change your location data\xfffeonce you have registered it.\xf000븁\x0000\xfffeDo you wish to register this location?
-\xf000Ĥ\x0001\x0000
-\xf000ĥ\x0001\x0000
-Yes
-No
-See list
+You may not change your location data\xfffeonce you have registered it.\xf000\xbe01\x0000\xfffeDo you wish to register this location?
+\xf000\x0124\x0001\x0000
+\xf000\x0125\x0001\x0000
+YES
+NO
+See List
 Register
-Cancel
+CLOSE
 VIEW
-Your registered location:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+Your registered location:\xfffe\xf000\x0124\x0001\x0000\xfffe\xf000\x0125\x0001\x0001
 To display registered locations, line up\xfffethe cursor and press the X Button.
-QUIT
+\xf000\x0205\x0000QUIT

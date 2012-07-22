@@ -44,21 +44,21 @@ Helps Pokémon grow\xfffefriendly much faster.\xfffeThe effect lasts 60 minutes.
 Increases the Exp. Points\xfffefrom a battle very much.\xfffeThe effect lasts 60 minutes.
 Increases the prize money\xfffefrom a battle very much.\xfffeThe effect lasts 60 minutes.
 Increases the chance to catch\xfffePokémon very much.\xfffeThe effect lasts 60 minutes.
-Dummy
-Dummy
-Dummy
-ゆれる　くさむらや　つちけむりが\xfffeすこしだけ　みつけやすく　なります\xfffeこうかは　３ふん　です
-ゆれる　くさむらや　つちけむりが\xfffeとても　みつけやすく　なります\xfffeこうかは　３ふん　です
-ゆれる　くさむらや　つちけむりが\xfffeかなり　みつけやすく　なります\xfffeこうかは　３ふん　です
-かくしあなで　ポケモンと\xfffeすこし　であいやすく　なります\xfffeこうかは　３ふん　です
-かくしあなで　ポケモンと\xfffeとても　であいやすく　なります\xfffeこうかは　３ふん　です
-かくしあなで　ポケモンと\xfffeかなり　であいやすく　なります\xfffeこうかは　３ふん　です
-めずらしい　ポケモンと\xfffeちょっぴり　であいやすく　なります\xfffeこうかは　３ふん　です
-めずらしい　ポケモンと\xfffeすこし　であいやすく　なります\xfffeこうかは　３ふん　です
-めずらしい　ポケモンと\xfffeであいやすく　なります\xfffeこうかは　３ふん　です
-ゆれる　くさむらや　つちけむりが\xfffeかなり　みつけやすく　なります\xfffeこうかは　１０ふん　です
-ゆれる　くさむらや　つちけむりが\xfffeかなり　みつけやすく　なります\xfffeこうかは　６０ふん　です
-かくしあなで　ポケモンと\xfffeかなり　であいやすく　なります\xfffeこうかは　２０ふん　です
-かくしあなで　ポケモンと\xfffeかなり　であいやすく　なります\xfffeこうかは　６０ふん　です
-めずらしい　ポケモンと\xfffeであいやすく　なります\xfffeこうかは　１０ふん　です
-めずらしい　ポケモンと\xfffeであいやすく　なります\xfffeこうかは　６０ふん　です
+DUMMY
+DUMMY
+DUMMY
+ゆれる くさむらや つちけむりが\xfffeすこしだけ みつけやすく なります\xfffeこうかは 3ふん です
+ゆれる くさむらや つちけむりが\xfffeとても みつけやすく なります\xfffeこうかは 3ふん です
+ゆれる くさむらや つちけむりが\xfffeかなり みつけやすく なります\xfffeこうかは 3ふん です
+かくしあなで ポケモンと\xfffeすこし であいやすく なります\xfffeこうかは 3ふん です
+かくしあなで ポケモンと\xfffeとても であいやすく なります\xfffeこうかは 3ふん です
+かくしあなで ポケモンと\xfffeかなり であいやすく なります\xfffeこうかは 3ふん です
+めずらしい ポケモンと\xfffeちょっぴり であいやすく なります\xfffeこうかは 3ふん です
+めずらしい ポケモンと\xfffeすこし であいやすく なります\xfffeこうかは 3ふん です
+めずらしい ポケモンと\xfffeであいやすく なります\xfffeこうかは 3ふん です
+ゆれる くさむらや つちけむりが\xfffeかなり みつけやすく なります\xfffeこうかは 10ふん です
+ゆれる くさむらや つちけむりが\xfffeかなり みつけやすく なります\xfffeこうかは 60ふん です
+かくしあなで ポケモンと\xfffeかなり であいやすく なります\xfffeこうかは 20ふん です
+かくしあなで ポケモンと\xfffeかなり であいやすく なります\xfffeこうかは 60ふん です
+めずらしい ポケモンと\xfffeであいやすく なります\xfffeこうかは 10ふん です
+めずらしい ポケモンと\xfffeであいやすく なります\xfffeこうかは 60ふん です

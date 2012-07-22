@@ -4,7 +4,7 @@
 ないとへつと
 ないとめあ
 なえとる
-ALLY
+なかま
 なかまつくり
 なきこえ
 なけき
@@ -15,13 +15,13 @@ ALLY
 なつくらー
 なつしー
 なつとれい
-NAME
-Truant
-Slack Off
-Straw Hat
-Snow Crystal
-Lonely Flower
-Surf
+なまえ
+なまけ
+なまける
+なまけろ
+なますん
+なみた
+なみのり
 なやみのたね
-Role Play
+なりきり
 なんしや

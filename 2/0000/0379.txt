@@ -20,19 +20,19 @@ USABLE PASS POWERS
 MUSICAL PERFORMANCES
 Poké Transfer HIGH SCORE
 Battle Test HIGH SCORE
-FES Missions
-PokéStar Studio Films
-PWT Challenges
-\xf000Ĺ\x0001\x0007
+FES MISSIONS CLEARED
+POKÉSTAR STUDIOS FILMS SHOT
+PWT CHAMPIONSHIPS
+\xf000\x0139\x0001\x0007
 Films Directed
 :
--- --, ---- --:--
-ーー：ーー
+--/--/---- --:--
+--:--
 Cancel
 Touch Card to flip.
 Sign Card
-Want to sign \xfffeyour Trainer Card?
-Your current signature will be erased. \xfffeIs that OK?
+Want to sign\xfffeyour Trainer Card?
+Your current signature will be erased.\xfffeIs that OK? 
 Hardy
 Lonely
 Brave
@@ -58,16 +58,16 @@ Gentle
 Sassy
 Careful
 Quirky
-\xf000Ȅ\x0001\x0000
-$\xf000Ȇ\x0001\x0000
-\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000   \xf000ȁ\x0001\x0003:\xf000ȁ\x0001\x0004
-\xf000Ȃ\x0001\x0000
+\xf000\x0204\x0001\x0000
+$\xf000\x0206\x0001\x0000
+\xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/\xf000\x0203\x0001\x0000
+\xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/\xf000\x0203\x0001\x0000 \xf000\x0201\x0001\x0003:\xf000\x0201\x0001\x0004
+\xf000\x0202\x0001\x0000
 Aspertia City Gym Leader\xfffeCheren
 Seeker of Truth
 Each person has a different dream.\xfffeMake yours happen if you desire it.
 Virbank City Gym Leader\xfffeRoxie
-Poison Life, Poison Live!
+Poison life, poison live!
 This is for all of my friends, both\xfffehuman and Pokémon! Let's be happy!
 Castelia City Gym Leader\xfffeBurgh
 Premier Insect Artist
@@ -80,33 +80,33 @@ The Underground Boss
 Ya always want to live honestly\xfffefer yerself and yer Pokémon.
 Mistralton City Gym Leader\xfffeSkyla
 The High-Flying Girl
-You’ll see smiles all around you,\xfffewith the brightest of skies above you.
+You'll see smiles all around you,\xfffewith the brightest of skies above you.
 Opelucid City Gym Leader\xfffeDrayden
 The Spartan Mayor
 Sincere Trainer,\xfffekeep growing stronger!
 Seigaiha City Gym Leader\xfffeMarlon
 Man of the Sea
 Riding an awesome wave is the way to\xfffekeep yourself healthy and active!
-Basic Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Basic Badge\xfffeReceived: \xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/\xf000\x0203\x0001\x0000
 Traded Pokémon up to Lv. 20 will\xfffeobey you.
 
-Toxic Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Toxic Badge\xfffeReceived: \xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/\xf000\x0203\x0001\x0000
 Traded Pokémon up to Lv. 30 will\xfffeobey you.
 
-Insect Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Insect Badge\xfffeReceived: \xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/\xf000\x0203\x0001\x0000
 Traded Pokémon up to Lv. 40 will\xfffeobey you.
 
-Bolt Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Bolt Badge\xfffeReceived: \xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/\xf000\x0203\x0001\x0000
 Traded Pokémon up to Lv. 50 will\xfffeobey you.
 
-Quake Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Quake Badge\xfffeReceived: \xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/\xf000\x0203\x0001\x0000
 Traded Pokémon up to Lv. 60 will\xfffeobey you.
 
-Jet Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Jet Badge\xfffeReceived: \xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/\xf000\x0203\x0001\x0000
 Traded Pokémon up to Lv. 70 will\xfffeobey you.
 
-Legend Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Legend Badge\xfffeReceived: \xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/\xf000\x0203\x0001\x0000
 Traded Pokémon up to Lv. 80 will\xfffeobey you.
 
-Wave Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Wave Badge\xfffeReceived: \xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/\xf000\x0203\x0001\x0000
 All traded Pokémon, regardless of level,\xfffewill obey you.

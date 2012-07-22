@@ -1,7 +1,7 @@
 すいーふひんた
 すいくん
-Swift Swim
-Absorb
+すいすい
+すいとる
 すかいあつはー
 すかいとす
 すかたんく
@@ -13,19 +13,19 @@ Absorb
 すこるひ
 すたーみー
 すつき
-Reckless
+すてみ
 すてみたつくる
 すてるすろつく
 すとーんえつし
 すとらいく
-Sandstorm
+すなあらし
 すないはー
-Sand Stream
-Sand Rush
+すなおこし
+すなかき
 すなかくれ
-Sand-Attack
+すなかけ
 すなしこく
-Sand Force
+すなのちから
 すはーく
 すはつと
 すはめ
@@ -34,12 +34,12 @@ Sand Force
 すふーんまけ
 すほーつ
 すほみー
-EXCUSE ME
+すみません
 すもつく
 すりーはー
 すりーふ
-Switcheroo
-Infiltrator
+すりかえ
+すりぬけ
 するすきん
 するつく
 するといめ

@@ -218,7 +218,7 @@ Ukraine
 United Arab Emirates
 United Kingdom
 Tanzania
-United States of America
+United States\xfffeof America
 United States\xfffeVirgin Islands
 Uruguay
 Uzbekistan
@@ -232,9 +232,9 @@ Yemen
 Zambia
 Zimbabwe
 Please select a floor.
-Will you go to the\xfffe\xf000Ĥ\x0001\x0000 floor?
-Yes
-No
-\xf000Ȃ\x0001\x0002F
+Will you go to the\xfffe\xf000\x0124\x0001\x0000 floor?
+YES
+NO
+\xf000\x0202\x0001\x0002F
 ?
-You selected the current floor.\xf000븁\x0000
+You selected the current floor.\xf000\xbe01\x0000

@@ -6,15 +6,15 @@
 かーる
 かーん
 かいおーか
-Heal Order
+かいふくしれい
 かいふくふうし
-SHOPPING
-Strength
+かいもの
+かいりき
 かいりきー
 かいりきはさみ
 かいりゆー
 かいろす
-CONVERSATION
+かいわ
 かうんたー
 かえんくるま
 かえんたん
@@ -29,20 +29,20 @@ CONVERSATION
 かけふみ
 かけふんしん
 かけほうす
-CLEVERNESS
+かしこさ
 かせおこし
-Speed Boost
-Speed Boost
-Retaliate
-Harden
+かそく
+かそく
+かたきうち
+かたくなる
 かたやふり
-WIN
+かち
 かつかり
 かつこう
-Flare
-SADNESS
+かつこよさ
+かなしさ
 かなしはり
-NO MATCH
+かなわない
 かのしよ
 かはいと
 かはるとん
@@ -53,13 +53,13 @@ NO MATCH
 かふりあす
 かふるも
 かほえらー
-Razor Wind
+かまいたち
 かまかる
 かまけろけ
 かまん
 かみくたく
-Bite
-Thunder
+かみつく
+かみなり
 かみなりのきは
 かみなりはんち
 かむしやら
@@ -74,20 +74,20 @@ Thunder
 からてちよつふ
 からてはさむ
 からなくし
-Withdraw
-Constrict
+からにこもる
+からみつく
 からをやふる
 かるーら
 かるわさ
-HIM
-CUTENESS
-Brick Break
-Imposter
+かれ
+かわいさ
+かわらわり
+かわりもの
 かんしよう
 かんしよう
 かんせきふうし
 かんせきほう
-SPECTATE
+かんせん
 かんそうはた
-SIMPLE
+かんたん
 かんとる

@@ -1,4 +1,4 @@
-\xf000Ā\x0001\x0000
+\xf000\x0100\x0001\x0000
 Cheren
 Roxie
 Burgh
@@ -12,8 +12,8 @@ Grimsley
 Marshal
 Caitlin
 Iris
-\xf000Ā\x0001\x0000
+\xf000\x0100\x0001\x0000
 N
-Colress
+Corless
 Ghetsis
 Banjirou

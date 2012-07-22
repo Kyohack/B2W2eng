@@ -1,7 +1,7 @@
-Our district
-And lie
-Sending party
-Party
+とうく
+とうそ
+とうそうしん
+とうも
 とおせんほう
 とーたくん
 とーとー
@@ -11,9 +11,9 @@ Party
 とーみらー
 とかーす
 ときとき
-Roar of Time
+ときのほうこう
 とく
-SKILLFUL
+とくい
 とくかす
 とくくらけ
 とくけいる
@@ -32,7 +32,7 @@ SKILLFUL
 とけきやのん
 とけちつく
 とけひー
-Acid Armor
+とける
 とこーむ
 とさいとん
 とさきんと

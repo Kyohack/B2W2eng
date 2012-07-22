@@ -7,13 +7,13 @@ GER
 ITA
 SPA
 Details
-\xf000Ȃ\x0001\x0000
+\xf000\x0202\x0001\x0000
 HT
 WT
-『Search Mode』
+Search Mode
 Please enter the search criteria.
-『Search Results』
-RESULTS　\xf000Ȃ\x0001\x0000
+Search Results
+RESULTS \xf000\x0202\x0001\x0000
 Select the Pokédex listing mode.
 List by the first letter in the name.
 List by type.
@@ -35,10 +35,10 @@ Kanto
 Johto
 Reset
 Start
-Cancel
-\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-Accept
-Cancel
+CLOSE
+\xf000\x0202\x0001\x0000.\xf000\x0200\x0001\x0001
+CONFIRM
+CLOSE
 Numerical
 A to Z
 Heaviest
@@ -62,56 +62,56 @@ Flying
 Fire
 Water
 Bug
-ーーーー
+----
 Johto
 Kanto
 Unknown
-ーーーー
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-O
-P
-Q
-R
-S
-T
-U
-V
-W
-X
-Y
-Z
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ー
+----
+ア
+イ
+ウ
+エ
+オ
+カ
+キ
+ク
+ケ
+コ
+サ
+シ
+ス
+セ
+ソ
+タ
+チ
+ツ
+テ
+ト
+ナ
+ニ
+ヌ
+ネ
+ノ
+ハ
+ヒ
+フ
+ヘ
+ホ
+マ
+ミ
+ム
+メ
+モ
+ヤ
+ユ
+ヨ
+ラ
+リ
+ル
+レ
+ロ
+ワ
+-
 Male
 Female
 West Sea
@@ -131,15 +131,15 @@ Morning
 Day
 Night
 Switch
-\xf000ą\x0001\x0000
+\xf000\x0105\x0001\x0000
 Show all
 Show all
 Height Check
 Weight Check
-１．６０ｍ
-１．４８ｍ
-４５．０ｋｇ
-３８．０ｋｇ
+1.60m
+1.48m
+45.0kg
+38.0kg
 Area
 Size
 Pokédex registration completed.
@@ -157,7 +157,7 @@ Wash Rotom
 Frost Rotom
 Fan Rotom
 Mow Rotom
-\xf000ā\x0001\x0000のすがた
+\xf000\x0101\x0001\x0000's Form
 Normal
 Sunny Form
 Rainy Form
@@ -165,30 +165,30 @@ Snowy Form
 Overcast Form
 Sunshine Form
 Spiky-eared
-\xf000ā\x0001\x0000：
+\xf000\x0101\x0001\x0000:
 Compare
-Compare \xf000ā\x0001\x0000
+Compare \xf000\x0101\x0001\x0000
 Forms
 Switch
-Cancel
-Cancel
+BACK
+BACK
 Return to list
-Give a nickname to the\xfffecaught \xf000ā\x0001\x0000?
-Give a nickname to the\xfffecaught \xf000ā\x0001\x0000?
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in someone's PC!
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in Amanita's PC!
+Give a nickname to the\xfffecaught \xf000\x0101\x0001\x0000?
+Give a nickname to the\xfffehatched \xf000\x0101\x0001\x0000?
+\xf000\x0102\x0001\x0000 was transferred to\xfffe\xf000\x010b\x0001\x0001 in someone's PC!
+\xf000\x0102\x0001\x0000 was transferred to\xfffe\xf000\x010b\x0001\x0001 in Amanita's PC!
 INFO
 AREA
 CRY
 FORMS
 COMPARE
-\xf000Ȁ\x0001\x0000'\xf000ȁ\x0001\x0001"
-FORMS SEEN
-SHINY SEEN
-\xf000ȁ\x0001\x0000
-\xf000ȁ\x0001\x0000
+\xf000\x0200\x0001\x0000'\xf000\x0201\x0001\x0001"
+Forms Seen:
+Different Forms:
+\xf000\x0201\x0001\x0000
+\xf000\x0201\x0001\x0000
 (Shiny)
-\xf000ā\x0001\x0000's AREA
+\xf000\x0101\x0001\x0000's AREA
 Spring
 Summer
 Autumn
@@ -200,7 +200,7 @@ GR.
 ALTEZ.
 ALT.
 키
-WT
+Weight
 POIDS
 GEW.
 PESO

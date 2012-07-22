@@ -1,5 +1,5 @@
 Download Tournament
-\xf000Ļ\x0001\x0000
+\xf000\x013b\x0001\x0000
 Battle Rules:
 Single Battle
 Double Battle
@@ -12,41 +12,41 @@ Forbidden Items
 Forbidden Attacks
 None
 Searching for tournament data.\xfffePlease wait a moment...
-Please select the tournament\xfffeyou wish to save.\xf000븁\x0000
-Do you want to disconnect\xfffefrom Nintendo WFC?
+Please select the tournament\xfffeyou wish to save.\xf000\xbe01\x0000
+Do you want to disconnect\xfffefrom Nintendo Wi-Fi?
 YES
 NO
-\xf000Ļ\x0001\x0000　を\xfffeほぞん　しますか？
+Would you like to save\xfffe\xf000\x013b\x0001\x0000?
 YES
 NO
-This tournament has\xfffealready been saved.\xf000븁\x0000
-Received the tournament data!\xf000븁\x0000
+This tournament has\xfffealready been saved.\xf000\xbe01\x0000
+Received the tournament data!\xf000\xbe01\x0000
 Saving the tournament...\xfffeDon't turn off the power.
-Tournament data has been saved.\xf000븁\x0000
-Tournament data is full.\xfffePlease delete a tournament.\xf000븁\x0000
+Tournament data has been saved.\xf000\xbe01\x0000
+Tournament data is full.\xfffePlease delete a tournament.\xf000\xbe01\x0000
 Stop deleting tournament data?
 YES
 NO
-\xf000Ļ\x0001\x0000\xfffewill be erased.  Okay?
+\xf000\x013b\x0001\x0000\xfffewill be erased. Okay?
 YES
 NO
-\xf000Ļ\x0001\x0000\xfffecannot be recovered once it is\xfffegone.  Continue anyway?
+\xf000\x013b\x0001\x0000\xfffecannot be recovered once it is\xfffegone.  Continue anyway?
 YES
 NO
-Tournament data\xfffehas been erased.\xf000븁\x0000
-Data could not be found.\xf000븁\x0000
-Data could not be found.\xf000븁\x0000
-Data could not be found.\xf000븁\x0000
-Do what with\xfffe\xf000Ļ\x0001\x0000?
-READ MORE
-QUIT
-Please select a\xfffetournament to join.\xf000븁\x0000
-Do you wish to join\xfffe\xf000Ļ\x0001\x0000?
+Tournament data\xfffehas been erased.\xf000\xbe01\x0000
+Data could not be found.\xf000\xbe01\x0000
+Data could not be found.\xf000\xbe01\x0000
+Data could not be found.\xf000\xbe01\x0000
+Do what with\xfffe\xf000\x013b\x0001\x0000?
+DETAILS
+CLOSE
+Please select a\xfffetournament to join.\xf000\xbe01\x0000
+Do you wish to join\xfffe\xf000\x013b\x0001\x0000?
 PARTICIPATE
-READ MORE
-QUIT
-\xf000ā\x0001\x0000
-\xf000ĉ\x0001\x0000
-\xf000ć\x0001\x0000
-SAVE
+DETAILS
+CLOSE
+\xf000\x0101\x0001\x0000
+\xf000\x0109\x0001\x0000
+\xf000\x0107\x0001\x0000
+Saved
 Are you sure you want to stop\xfffedownloading tournaments?

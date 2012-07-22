@@ -1,22 +1,22 @@
 BrycenMan Corps
 Heroes of Justice
-\xf000ā\x0001\x0000Kid
-\xf000ā\x0001\x0000Girl
+\xf000\x0101\x0001\x0000Kid
+\xf000\x0101\x0001\x0000Girl
 Minccino Amusement Park Visitor A
 Hironobu
 Minccino Amuesment Park Visitor B
 Megumi
-Extras
-Ｐ　Casting
+Extra
+P Casting
 None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 BrycenMan Corps
 Heroes of Justice
-\xf000ā\x0001\x0000Kid
-\xf000ā\x0001\x0000Girl
+\xf000\x0101\x0001\x0000Kid
+\xf000\x0101\x0001\x0000Girl
 Announcement
 MIYUKI
 None
@@ -27,11 +27,11 @@ None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 BrycenMan Corps
 Heroes of Justice
-\xf000ā\x0001\x0000Kid
-\xf000ā\x0001\x0000Girl
+\xf000\x0101\x0001\x0000Kid
+\xf000\x0101\x0001\x0000Girl
 I run around trying to escape
 The Akito Troupe
 None
@@ -42,11 +42,11 @@ None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 Mecha Police Partner
 Finger of Kakiuchi
-\xf000ā\x0001\x0000Ninja
-\xf000ā\x0001\x0000Kunoichi
+\xf000\x0101\x0001\x0000Ninja
+\xf000\x0101\x0001\x0000Kunoichi
 None
 None
 None
@@ -57,11 +57,11 @@ None
 None
 None
 None
-Ｉ・Hiroto
+I-Hiroto
 Mecha Police Partner
 Finger of Kakiuchi
-\xf000ā\x0001\x0000Ninja
-\xf000ā\x0001\x0000Kunoichi
+\xf000\x0101\x0001\x0000Ninja
+\xf000\x0101\x0001\x0000Kunoichi
 None
 None
 None
@@ -72,11 +72,11 @@ None
 None
 None
 None
-Ｉ・Hiroto
+I-Hiroto
 Mecha Police Partner
 Finger of Kakiuchi
-\xf000ā\x0001\x0000Ninja
-\xf000ā\x0001\x0000Kunoichi
+\xf000\x0101\x0001\x0000Ninja
+\xf000\x0101\x0001\x0000Kunoichi
 None
 None
 None
@@ -87,12 +87,12 @@ None
 None
 None
 None
-Ｉ・Hiroto
+I-Hiroto
 Mecha Police Partner
 かいとうのてさき
-\xf000ā\x0001\x0000Ninja
-\xf000ā\x0001\x0000Kunoichi
-CONNECTION
+\xf000\x0101\x0001\x0000Ninja
+\xf000\x0101\x0001\x0000Kunoichi
+Communication
 Hironobu
 Starting Discharge
 Akito Troupe
@@ -102,7 +102,7 @@ None
 None
 None
 None
-Ｉ・Hiroto
+I-Hiroto
 UFO Servant
 Pokémon Guard
 Guard Crew
@@ -117,7 +117,7 @@ None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 E's Invention
 Pokémon Guard
 Guard Crew
@@ -132,7 +132,7 @@ None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 UFO Servant
 Pokémon Guard
 Guard Crew
@@ -147,7 +147,7 @@ None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 E's Invention
 Pokémon Guard
 Guard Crew
@@ -162,7 +162,7 @@ None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 Huge Creature
 Pokémon Guard
 Guard Crew
@@ -177,7 +177,7 @@ None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 Monster of an opprotunity
 Pokémon Guard
 Guard Crew
@@ -192,7 +192,7 @@ None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 Big Tyranita knob
 Pokémon Guard
 Guard Crew
@@ -207,13 +207,13 @@ None
 None
 None
 None
-Ｎ・Suguru
-きかいのかいぶつ２
+N-Suguru
+きかいのかいぶつ2
 ぼうえいたいポケモン
-ぼうえいたいクルー
-ぼうえいたいクルー
+ぼうえいたいクル-
+ぼうえいたいクル-
 ぼうえいたいキャップ
-ヒロノブ
+Hironobu
 にげまどうしみん
 げきだんアキト
 None
@@ -222,9 +222,9 @@ None
 None
 None
 None
-Ｎ・スグル
+N・スグル
 せいきのはつめい
-はかせの　パートナー
+はかせの パ-トナ-
 てんさいかがくしゃ
 てんさいかがくしゃ
 None
@@ -237,9 +237,9 @@ None
 None
 None
 None
-Ｉ・ヒロト
+I・ヒロト
 レディアンのニンゲン
-はかせのパートナー
+はかせのパ-トナ-
 てんさいかがくしゃ
 てんさいかがくしゃ
 None
@@ -252,9 +252,9 @@ None
 None
 None
 None
-Ｉ・ヒロト
+I・ヒロト
 れきしをかえるカギ
-はかせのパートナー
+はかせのパ-トナ-
 てんさいかがくしゃ
 てんさいかがくしゃ
 None
@@ -267,11 +267,11 @@ None
 None
 None
 None
-Ｉ・ヒロト
+I・ヒロト
 なまいきポケモン
 イケてるポケモン
 ハンサムなしょうねん
-キュートなしょうじょ
+キュ-トなしょうじょ
 None
 None
 None
@@ -282,10 +282,10 @@ None
 None
 None
 None
-Ｎ・スグル
-エリートポケモン
+N・スグル
+エリ-トポケモン
 さえないポケモン
-さえない　しょうねん
+さえない しょうねん
 さえないしょうじょ
 ゆうえんちのきゃく
 げきだんアキト
@@ -297,26 +297,26 @@ None
 None
 None
 None
-Ｉ・ヒロト
-しゃべるドーブル
-エリートポケモン
+I・ヒロト
+しゃべるド-ブル
+エリ-トポケモン
 Ace Trainer
 Ace Trainer
-いっぱんしみんＡ
-ヒロノブ
-いっぱんしみんＢ
-アキト
-いっぱんしみんＣ
-メグミ
-エキストラ
+いっぱんしみんA
+Hironobu
+いっぱんしみんB
+Akito
+いっぱんしみんC
+Megumi
+Extra
 ライモンのみなさん
 None
 None
-Ｓ・テルユキ
-クイーンの　しもべ
+S・Teriyuki
+クイ-ンの しもべ
 おともポケモン
-おうじさま
-おひめさま
+Prince
+Princess
 None
 None
 None
@@ -327,11 +327,11 @@ None
 None
 None
 None
-Ｓ・ヒトミ
-まほうの　とびら
+S・ヒトミ
+まほうの とびら
 おともポケモン
-おうじさま
-おひめさま
+Prince
+Princess
 None
 None
 None
@@ -342,11 +342,11 @@ None
 None
 None
 None
-Ｓ・ヒトミ
-まほうの　とびら
+S・ヒトミ
+まほうの とびら
 おともポケモン
-おうじさま
-おひめさま
+Prince
+Princess
 もんばんぬいぐるみ
 トヤマボイススタジオ
 None
@@ -357,9 +357,9 @@ None
 None
 None
 None
-Ｓ・ヒトミ
+S・ヒトミ
 モニカのポケモン
-マニアの　ポケモン
+マニアの ポケモン
 モニカのこいびと
 モニカのいもうと
 None
@@ -372,9 +372,9 @@ None
 None
 None
 None
-Ｎ・スグル
-おとこの　なかま
-マニアの　ポケモン
+N・スグル
+おとこの なかま
+マニアの ポケモン
 モニカのこいびと
 モニカのいもうと
 None
@@ -387,13 +387,13 @@ None
 None
 None
 None
-Ｎ・スグル
-きょだいＯＬ
-マニアの　ポケモン
+N・スグル
+きょだいOL
+マニアの ポケモン
 モニカのこいびと
 モニカのいもうと
-おびえる　しみんたち
-Ｐ　キャスティング
+おびえる しみんたち
+P Casting
 None
 None
 None
@@ -402,9 +402,9 @@ None
 None
 None
 None
-Ｎ・スグル
-きょだいＯＬ
-マニアの　ポケモン
+N・スグル
+きょだいOL
+マニアの ポケモン
 モニカのこいびと
 モニカのいもうと
 None
@@ -417,9 +417,9 @@ None
 None
 None
 None
-Ｎ・スグル
+N・スグル
 かいきげんしょう
-たびの　あいぼう
+たびの あいぼう
 たびびと
 たびびと
 None
@@ -432,13 +432,13 @@ None
 None
 None
 None
-Ｉ・ヒロト
+I・ヒロト
 かいきげんしょう
 たびのあいぼう
 たびびと
 たびびと
 おそわれるむらびと
-Ｐ　キャスティング
+P Casting
 None
 None
 None
@@ -447,13 +447,13 @@ None
 None
 None
 None
-Ｉ・ヒロト
+I・ヒロト
 かいきげんしょう
 たびのあいぼう
 たびびと
 たびびと
 かいぶつのあし
-Ｐ　キャスティング
+P Casting
 None
 None
 None
@@ -462,9 +462,9 @@ None
 None
 None
 None
-Ｉ・ヒロト
-こころをもつ　ロボ
-はかせのパートナー
+I・ヒロト
+こころをもつ ロボ
+はかせのパ-トナ-
 しょうねんはつめいか
 はつめいしょうじょ
 None
@@ -477,9 +477,9 @@ None
 None
 None
 None
-Ｎ・スグル
-こころをもつ　ロボ
-はかせのパートナー
+N・スグル
+こころをもつ ロボ
+はかせのパ-トナ-
 しょうねんはつめいか
 はつめいしょうじょ
 None
@@ -492,9 +492,9 @@ None
 None
 None
 None
-Ｎ・スグル
-こころをもつ　ロボ
-はかせのパートナー
+N・スグル
+こころをもつ ロボ
+はかせのパ-トナ-
 しょうねんはつめいか
 はつめいしょうじょ
 None
@@ -507,9 +507,9 @@ None
 None
 None
 None
-Ｎ・スグル
-こころをもつ　ロボ
-はかせのパートナー
+N・スグル
+こころをもつ ロボ
+はかせのパ-トナ-
 しょうねんはつめいか
 はつめいしょうじょ
 None
@@ -522,41 +522,41 @@ None
 None
 None
 None
-Ｎ・スグル
+N・スグル
 ゆうれいたち
-ゴーストイレイザーズ
-ゴーストイレイザー
-ゴーストイレイザー
-ひの　たま　１
-ヒロノブ
-ひの　たま　２
-アキト
-ひの　たま　３
-メグミ
-エキストラ
-ヤマジの　みなさん
+Ghost Erasers
+Ghost Eraser
+Ghost Eraser
+ひの たま 1
+Hironobu
+ひの たま 2
+Akito
+ひの たま 3
+Megumi
+Extra
+ヤマジの みなさん
 None
 None
-Ｓ・テルユキ
+S・Teriyuki
 ゆうれいたち
-ゴーストイレイザーズ
-ゴーストイレイザー
-ゴーストイレイザー
-ポルターガイストＡ
-ヒロノブ
-ポルターガイストＢ
-アキト
-ポルターガイストＣ
-メグミ
-エキストラ
-ヤマジの　みなさん
+Ghost Erasers
+Ghost Eraser
+Ghost Eraser
+Poltergeist A
+Hironobu
+Poltergeist B
+Akito
+Poltergeist C
+Megumi
+Extra
+ヤマジの みなさん
 None
 None
-Ｓ・Teriyuki
+S・Teriyuki
 こだいぞうのせんし
-Eraser's Ghost
-Eraser Ghost
-Eraser Ghost
+Ghost Erasers
+Ghost Eraser
+Ghost Eraser
 Young Assisstant
 Hironobu
 Your Assisstant
@@ -564,29 +564,29 @@ Akito
 いらいぬし
 Megumi
 Extra
-Ｐ　Casting
+P Casting
 None
 None
-Ｓ・Teriyuki
+S・Teriyuki
 Devil of Destruction
-Eraser's Ghost\xfffe
-Eraser Ghost
-Eraser Ghost
+Ghost Erasers\xfffe
+Ghost Eraser
+Ghost Eraser
 I run around trying to escape
 Hironobu
 I run around trying to escape
-Ｐ　Casting
+P Casting
 None
 None
 None
 None
 None
 None
-Ｓ・Teriyuki
+S・Teriyuki
 BrycenMan Corps
 Heroes of Justice
-\xf000ā\x0001\x0000Kid
-\xf000ā\x0001\x0000Girl
+\xf000\x0101\x0001\x0000Kid
+\xf000\x0101\x0001\x0000Girl
 None
 None
 None
@@ -597,30 +597,30 @@ None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 BrycenMan Corps
 Heores of Justice
-\xf000ā\x0001\x0000Man
-\xf000ā\x0001\x0000Man
+\xf000\x0101\x0001\x0000Man
+\xf000\x0101\x0001\x0000Man
 Minccino Amusement Park Visitor A
 Hironobu
 Minccino Amusement Park Visitor B
 Megumi
 Extra
-Ｐ　Casting
+P Casting
 None
 None
 None
 None
-Ｎ・Suguru
+N-Suguru
 Screenplay
 Director
 VFX
 PokéStar Studios ART\xfffePro Kenkichi
 None
 Oh oh oh oh oh
-D．Pokenchi
+D.Pokenchi
 Takashi Pokemi
-Ｊ．Pokenta
-Ｓ．Pokémon Ski
-Ｓ．Pocket
+J.Pokenta
+S.Pokémon Ski
+S.Pocket

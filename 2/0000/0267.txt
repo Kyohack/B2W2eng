@@ -1,6 +1,6 @@
-\xf000봂\x0000えがおの　たえない　ゆうえんち\xfffe\xf000봂\x0000みんなの　りそうの　ゆうえんち\xfffe\xfffe\xf000봂\x0000だが　そんな　ばしょに　\xfffe\xf000봂\x0000あやしい　かげが　ひとつ……\xfffe\xf000봂\x0000そう　それは　じけんの　まくあけ……
-\xf000봂\x0000だが　しかし！！\xfffe\xfffe\xf000봂\x0000かげあるところに　ひかりあり！\xfffe\xfffe\xf000봂\x0000あのヒーローが　あらわれた！
-\xf000봂\x0000そう！　ヒーローの　なは！\xfffe\xfffe\xf000봂\x0000\xf000Ă\x0001\x0000キッド！！
+\xf000\xbd02\x0000えがおの たえない ゆうえんち\xfffe\xf000\xbd02\x0000みんなの りそうの ゆうえんち\xfffe\xfffe\xf000\xbd02\x0000だが そんな ばしょに \xfffe\xf000\xbd02\x0000あやしい かげが ひとつ...\xfffe\xf000\xbd02\x0000そう それは じけんの まくあけ...
+\xf000\xbd02\x0000だが しかし!!\xfffe\xfffe\xf000\xbd02\x0000かげあるところに ひかりあり!\xfffe\xfffe\xf000\xbd02\x0000あのヒ-ロ-が あらわれた!
+\xf000\xbd02\x0000そう! ヒ-ロ-の なは!\xfffe\xfffe\xf000\xbd02\x0000\xf000\x0102\x0001\x0000キッド!!
 None
 None
 None
@@ -8,9 +8,9 @@ None
 None
 None
 None
-\xf000봂\x0000えがおの　たえない　ゆうえんち\xfffe\xf000봂\x0000みんなの　りそうの　ゆうえんち\xfffe\xfffe\xf000봂\x0000だが　そんな　ばしょに　\xfffe\xf000봂\x0000あやしい　かげが　ひとつ……\xfffe\xf000봂\x0000そう　それは　じけんの　まくあけ……
-\xf000봂\x0000だが　しかし！！\xfffe\xfffe\xf000봂\x0000かげあるところに　ひかりあり！\xfffe\xfffe\xf000봂\x0000あのヒロインが　あらわれた！
-\xf000봂\x0000そう！　ヒロインの　なは！\xfffe\xfffe\xf000봂\x0000\xf000Ă\x0001\x0000ガール！！
+\xf000\xbd02\x0000えがおの たえない ゆうえんち\xfffe\xf000\xbd02\x0000みんなの りそうの ゆうえんち\xfffe\xfffe\xf000\xbd02\x0000だが そんな ばしょに \xfffe\xf000\xbd02\x0000あやしい かげが ひとつ...\xfffe\xf000\xbd02\x0000そう それは じけんの まくあけ...
+\xf000\xbd02\x0000だが しかし!!\xfffe\xfffe\xf000\xbd02\x0000かげあるところに ひかりあり!\xfffe\xfffe\xf000\xbd02\x0000あのヒロインが あらわれた!
+\xf000\xbd02\x0000そう! ヒロインの なは!\xfffe\xfffe\xf000\xbd02\x0000\xf000\x0102\x0001\x0000ガ-ル!!
 None
 None
 None

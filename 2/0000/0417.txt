@@ -1,36 +1,36 @@
-\xf000봂\x0000Random Matchup Free Mode
-\xf000봂\x0000Random Matchup Rating Mode
-\xf000봂\x0000SINGLE BATTLE
-\xf000봂\x0000DOUBLE BATTLE
-\xf000봂\x0000TRIPLE BATTLE
-\xf000봂\x0000ROTATION BATTLE
-\xf000봂\x0000LAUNCHER BATTLE
-\xf000봂\x0000\xf000Ā\x0001\x0000's Record
-\xf000봃\x0001\x0000Rating:
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000No. of Battles:
-\xf000봃\x0001\x0000\xf000ȅ\x0001\x0000
-\xf000봃\x0001\x0000No. of Wins:
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000No. of Losses:
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000\xf000ȁ\x0001\x0001 \xf000ȁ\x0001\x0002, \xf000ȃ\x0001\x0000 - \xf000ȁ\x0001\x0004 \xf000ȁ\x0001\x0005, \xf000ȃ\x0001\x0003
+\xf000\xbd02\x0000Random Matchup Free Mode
+\xf000\xbd02\x0000Random Matchup Rating Mode
+\xf000\xbd02\x0000Single Battle
+\xf000\xbd02\x0000Double Battle
+\xf000\xbd02\x0000Triple Battle
+\xf000\xbd02\x0000Rotation Battle
+\xf000\xbd02\x0000Launcher Battle
+\xf000\xbd02\x0000\xf000\x0100\x0001\x0000's Record
+\xf000\xbd03\x0001\x0000Rating:
+\xf000\xbd03\x0001\x0000\xf000\x0203\x0001\x0000
+\xf000\xbd03\x0001\x0000No. of Battles:
+\xf000\xbd03\x0001\x0000\xf000\x0205\x0001\x0000
+\xf000\xbd03\x0001\x0000No. of Wins:
+\xf000\xbd03\x0001\x0000\xf000\x0204\x0001\x0000
+\xf000\xbd03\x0001\x0000No. of Losses:
+\xf000\xbd03\x0001\x0000\xf000\x0204\x0001\x0000
+\xf000\xbd03\x0001\x0000\xf000\x0201\x0001\x0001 \xf000\x0201\x0001\x0002, \xf000\x0203\x0001\x0000 - \xf000\x0201\x0001\x0004 \xf000\x0201\x0001\x0005, \xf000\x0203\x0001\x0003
 Registered Pokémon
 Registered Pokémon
 Registered Pokémon
-LOCATION
-GREET
-\xf000Ĥ\x0001\x0000
-\xf000ĥ\x0001\x0000
+Location
+Greeting
+\xf000\x0124\x0001\x0000
+\xf000\x0125\x0001\x0000
 Receiving data...\xfffePlease wait a moment.
 Which mode will you challenge?
-Random Matchup Free mode\xfffewill be launched.\xf000븁\x0000
+Random Matchup Free mode\xfffewill be launched.\xf000\xbe01\x0000
 Free
 Rating
-Quit
+CLOSE
 Will you quit Random Matchup?
-Yes
-No
+YES
+NO
 Searching for your opponent...
 An opponent has been found!
 Quit searching for\xfffesomeone to battle?
@@ -39,83 +39,83 @@ Sending data...\xfffeDon't turn off the power.
 Do you want to continue battling?
 Will you quit Random Matchup?
 Saving...\xfffeDon't turn off the power.
-Random Matchup Rating mode\xfffewill be launched.\xf000븁\x0000
+Random Matchup Rating mode\xfffewill be launched.\xf000\xbe01\x0000
 Waiting for the server...\xfffeDon't turn off the power.
 Awaiting communication...\xfffePlease stand by.
-Kuro*
-Shiro*
-ポケモンバトル　Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
-Join
+Black.
+White.
+Do you want to participate in the\xfffePokemon Wifi Battle Tournament?
+Participate
 Info
-Cancel
-Ｗｉ－Ｆｉたいかいは\xfffeポケモングローバルリンクで\xf000븀\x0000\xfffeとうろく　すると　さんか　できます\xf000븁\x0000\xfffeたいかいの　ルールや\xfffeかいさい　きかんは\xf000븁\x0000\xfffeポケモングロバールリンクを\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeかくにん　してください\xf000븁\x0000
-たいかいへ　さんかするのを\xfffeやめますか？
-Yes
-No
+CLOSE
+Wi-Fiたいかいは\xfffeポケモングロ-バルリンクで\xf000\xbe00\x0000\xfffeとうろく すると さんか できます\xf000\xbe01\x0000\xfffeたいかいの ル-ルや\xfffeかいさい きかんは\xf000\xbe01\x0000\xfffeポケモングロバ-ルリンクを\xfffehttp://www.pokemon-gl.com/\xf000\xbe00\x0000\xfffeかくにん してください\xf000\xbe01\x0000
+Do you want to stop\xfffeparticipating?
+YES
+NO
 Searching for competition data...
-Game Sync ID has not been\xffferegistered at the Pokémon Global Link.\xf000븁\x0000\xfffePlease complete the Game Sync settings\xfffeand access the Pokémon Global Link\xf000븁\x0000\xfffewebpage to register.\xfffehttp://www.pokemon-gl.com\xf000븁\x0000
-さんか　できる\xfffeたいかいが　ありません\xf000븁\x0000\xfffeバトルたいかいは　\xfffeいぜん　さんかした　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000
-No competitions have been found\xfffefor you to participate in.\xf000븁\x0000\xfffeIn Battle Competition,\xfffeyou cannot participate in the same\xf000븀\x0000\xfffecompetition twice.\xf000븁\x0000
+Game Sync ID has not been\xffferegistered at the Pokémon Global Link.\xf000\xbe01\x0000\xfffePlease complete the Game Sync settings\xfffeand access the Pokémon Global Link\xf000\xbe01\x0000\xfffewebpage to register.\xfffehttp://www.pokemon-gl.com\xf000\xbe01\x0000
+さんか できる\xfffeたいかいが ありません\xf000\xbe01\x0000\xfffeBattle Conventionは \xfffeいぜん さんかした たいかいには\xf000\xbe00\x0000\xfffeさんか できません\xf000\xbe01\x0000
+No competitions have been found\xfffefor you to participate in.\xf000\xbe01\x0000\xfffeIn Battle Competition,\xfffeyou cannot participate in the same\xf000\xbe00\x0000\xfffecompetition twice.\xf000\xbe01\x0000
 Player ID will be updated...\xfffeDon't turn off the power.
-There are no current competitions\xfffethat you can participate in.\xf000븁\x0000
-To participate in the Wi-Fi Competition,\xfffeyou need to update your Digital Player ID.\xf000븁\x0000\xfffeIs it OK to update it?
-To participate in the Wi-Fi Competition,\xfffethe Digital Player ID will be updated.\xf000븁\x0000\xfffeThe Battle Box from the previous\xfffetournament will be unregistered.\xf000븁\x0000\xfffeIs it OK to update your Digital Player ID?
-You cannot participate\xfffewithout updating your Digital Player ID.\xf000븁\x0000\xfffeCancel this update?
-デジタルせんしゅしょうを\xfffeこうしん　しています\xf000븁\x0000\xfffeでんげんを　きらないでください
+There are no current competitions\xfffethat you can participate in.\xf000\xbe01\x0000
+To participate in the Wi-Fi Competition,\xfffeyou need to update your Digital Player ID.\xf000\xbe01\x0000\xfffeIs it OK to update it?
+To participate in the Wi-Fi Competition,\xfffethe Digital Player ID will be updated.\xf000\xbe01\x0000\xfffeThe Battle Box from the previous\xfffetournament will be unregistered.\xf000\xbe01\x0000\xfffeIs it OK to update your Digital Player ID?
+You cannot participate\xfffewithout updating your Digital Player ID.\xf000\xbe01\x0000\xfffeCancel this update?
+デジタルせんしゅしょうを\xfffeこうしん しています\xf000\xbe01\x0000\xfffeでんげんを きらないでください
 Unable to update your Digital Player ID.
-Your Battle Box will be registered\xfffefor the tournament.\xf000븁\x0000\xfffeCaution!\xfffeOnce registered,\xf000븀\x0000\xfffeyou will not be able to\xf000븀\x0000\xfffemove your Pokémon to or from\xf000븀\x0000\xfffeyour Battle Box.\xf000븁\x0000\xfffeWill you still register the Pokémon\xfffein your Battle Box?
-Yes
-No
+Your Battle Box will be registered\xfffefor the tournament.\xf000\xbe01\x0000\xfffeCaution!\xfffeOnce registered,\xf000\xbe00\x0000\xfffeyou will not be able to\xf000\xbe00\x0000\xfffemove your Pokémon to or from\xf000\xbe00\x0000\xfffeyour Battle Box.\xf000\xbe01\x0000\xfffeWill you still register the Pokémon\xfffein your Battle Box?
+YES
+NO
 Quit registration?
 Quit the competition registration?
 Sending data...\xfffeDon't turn off the power.
-There was a problem with\xfffeyour Pokémon,\xf000븀\x0000\xfffeand they could not participate.\xf000븁\x0000
-Competition registration\xfffeis complete!\xf000븁\x0000
-The conditions for the tournament\xfffehave not been met.\xf000븁\x0000\xfffePlease place your Pokémon\xfffein the Battle Box.\xf000븁\x0000
+There was a problem with\xfffeyour Pokémon,\xf000\xbe00\x0000\xfffeand they could not participate.\xf000\xbe01\x0000
+Competition registration\xfffeis complete!\xf000\xbe01\x0000
+The conditions for the tournament\xfffehave not been met.\xf000\xbe01\x0000\xfffePlease place your Pokémon\xfffein the Battle Box.\xf000\xbe01\x0000
 Pokémon Competition over Nintendo WFC!\xfffeWhat would you like to do?
 Battle
 Cancel participation
-Cancel
+CLOSE
 Quit the competition?
 Do you want to continue battling?
-The competition time has run out.\xfffeThe competition has ended.\xf000븁\x0000
-Your Battle Box has been\xfffeunregistered.\xf000븁\x0000
-Currently, you have registered no\xfffecompetitions.\xf000븁\x0000
-Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000븁\x0000\xfffeIs it OK to unregister?
+The competition time has run out.\xfffeThe competition has ended.\xf000\xbe01\x0000
+Your Battle Box has been\xfffeunregistered.\xf000\xbe01\x0000
+Currently, you have registered no\xfffecompetitions.\xf000\xbe01\x0000
+Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000\xbe01\x0000\xfffeIs it OK to unregister?
 You will be unregistered.\xfffeAre you sure about this?
 Searching for your opponent...
 Quit searching for\xfffesomeone to battle?
 Your opponent has been found!
-The battle results were\xfffesent to the server.\xf000븁\x0000\xfffeIt'll take a little time\xfffeto calculate your Rating.\xf000븁\x0000\xfffeOnce the calculation is done,\xfffeyour Rating will be updated.\xf000븁\x0000
-つうしん　たいきちゅう　です\xfffeDon't turn off the power.
+The battle results were\xfffesent to the server.\xf000\xbe01\x0000\xfffeIt'll take a little time\xfffeto calculate your Rating.\xf000\xbe01\x0000\xfffeOnce the calculation is done,\xfffeyour Rating will be updated.\xf000\xbe01\x0000
+Communicating...\xfffeDon't turn off the power.
 Receiving data...\xfffeDon't turn off the power.
 Checking the competition\xfffedetails...
 Pokémon Wi-Fi Competition!\xfffeDo you want to continue battling?
 Battle
 Cancel participation
-Cancel
-The competition you've registered\xfffeis not currently held.\xf000븁\x0000\xfffePlease check the competition schedule\xfffeand wait for it.\xf000븁\x0000
-There are no Pokémon in\xfffeyour Battle Box.\xf000븁\x0000\xfffePlease check the tournament\xffferules to place Pokémon\xf000븀\x0000\xfffein your Battle Box.\xf000븁\x0000
-たいせんの　けっかを\xfffeサーバーに　おくりました\xf000븁\x0000
-L\xf000Ȃ\x0001\x0000
+CLOSE
+The competition you've registered\xfffeis not currently held.\xf000\xbe01\x0000\xfffePlease check the competition schedule\xfffeand wait for it.\xf000\xbe01\x0000
+There are no Pokémon in\xfffeyour Battle Box.\xf000\xbe01\x0000\xfffePlease check the tournament\xffferules to place Pokémon\xf000\xbe00\x0000\xfffein your Battle Box.\xf000\xbe01\x0000
+たいせんの けっかを\xfffeサ-バ-に おくりました\xf000\xbe01\x0000
+L\xf000\x0202\x0001\x0000
 ♂
 ♀
 
 You are participating in this competition.\xfffePlease register your Pokémon.
 You are participating in this competition.\xfffeYour Battle Box is being locked.
-Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000븁\x0000\xfffeIs it OK to unregister?
+Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000\xbe01\x0000\xfffeIs it OK to unregister?
 You will be unregistered.\xfffeAre you sure about this?
 It is being unregistered...\xfffeDon't turn off the power.
-Your Battle Box has been\xfffeunregistered.\xf000븁\x0000
+Your Battle Box has been\xfffeunregistered.\xf000\xbe01\x0000
 This competition has already ended.
 You unregistered from this competition.
-You don't have any\xfffeDigital Player ID data.\xf000븁\x0000
-You've been unregistered\xfffefrom the competition, as\xf000븀\x0000\xfffeyour Game Card was inserted into\xf000븀\x0000\xfffeanother DS system.\xf000븁\x0000
-Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000븁\x0000\xfffeIs it OK to unregister?
+You don't have any\xfffeDigital Player ID data.\xf000\xbe01\x0000
+You've been unregistered\xfffefrom the competition, as\xf000\xbe00\x0000\xfffeyour Game Card was inserted into\xf000\xbe00\x0000\xfffeanother DS system.\xf000\xbe01\x0000
+Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000\xbe01\x0000\xfffeIs it OK to unregister?
 You will be unregistered.\xfffeAre you sure about this?
-You have been unregistered\xfffefrom the competition.\xf000븁\x0000
-Back
+You have been unregistered\xfffefrom the competition.\xf000\xbe01\x0000
+BACK
 Unregister
-Yes
-No
-There was a problem with\xfffeyour Pokémon,\xf000븀\x0000\xfffeand they could not participate.\xf000븁\x0000
+YES
+NO
+There was a problem with\xfffeyour Pokémon,\xf000\xbe00\x0000\xfffeand they could not participate.\xf000\xbe01\x0000

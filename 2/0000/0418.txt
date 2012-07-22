@@ -1,69 +1,69 @@
 PAL PAD
 CHECK FRIEND ROSTER
 REGISTER FRIEND CODE
-\xf000Ā\x0001\x0000'S FRIEND CODE
-EXIT
+\xf000\x0100\x0001\x0000'S FRIEND CODE
+CLOSE
 FRIEND ROSTER
-\xf000Ā\x0001\x0000
-\xf000봂\x0000RETURN
+\xf000\x0100\x0001\x0000
+\xf000\xbd02\x0000CANCEL
 DETAILS
 REWRITE NAME
 DELETE
-CANCEL
-What would you like to do\xfffewith \xf000Ā\x0001\x0000's data?
-Record With \xf000Ā\x0001\x0000
-\xf000봂\x0000Ａ：Return to Previous Screen
+CLOSE
+What would you like to do\xfffewith \xf000\x0100\x0001\x0000's data?
+RECORD WITH \xf000\x0100\x0001\x0000
+\xf000\xbd02\x0000A: Return to Previous Screen
 Group
-\xf000Ā\x0001\x0000
-\xf000봂\x0000\xf000Ā\x0001\x0000
-\xf000봂\x0000\xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
+\xf000\x0100\x0001\x0000
+\xf000\xbd02\x0000\xf000\x0100\x0001\x0000
+\xf000\xbd02\x0000\xf000\x0201\x0001\x0000/\xf000\x0201\x0001\x0001
 BATTLE RECORD
 WIN
 LOSE
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000\xbd03\x0001\x0000\xf000\x0203\x0001\x0000
 POKÉMON TRADES
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000\xbd03\x0001\x0000\xf000\x0203\x0001\x0000
 TIMES COOKED
-\xf000ȃ\x0001\x0000
+\xf000\x0203\x0001\x0000
 DATE LAST PLAYED
-\xf000ȃ\x0001\x0000／\xf000ȁ\x0001\x0001／\xf000ȁ\x0001\x0002
+\xf000\x0203\x0001\x0000/\xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002
 Battle Tower
 Battle Factory
 Battle Castle
 Battle Hall
 Battle Arcade
-Prev
+Previous
 Current
 Record
-Win Streak: \xf000ȃ\x0001\x0000
+Win Streak: \xf000\x0203\x0001\x0000
 Level 50
 Open Level
-Rental／Trade
-\xf000봃\x0001\x0000Castle Points
-\xf000ā\x0001\x0000's Record
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000かい
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000ＣＰ
-Win Streak: \xf000ȃ\x0001\x0000
-Games Cleared: \xf000ȃ\x0001\x0000
+Rental/Trade
+\xf000\xbd03\x0001\x0000 Castle Points
+\xf000\x0101\x0001\x0000's Record
+\xf000\xbd03\x0001\x0000\xf000\x0203\x0001\x0000
+\xf000\xbd03\x0001\x0000\xf000\x0203\x0001\x0000CP
+Win Streak: \xf000\x0203\x0001\x0000
+Games Cleared: \xf000\x0203\x0001\x0000
 Plaza Games Played
 Plaza Mini-Games
-\xf000ȃ\x0001\x0000かい
-\xf000Ā\x0001\x0000's Friend Code
-\xf000봂\x0000Return
-\xf000봂\x0000\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
+\xf000\x0203\x0001\x0000
+\xf000\x0100\x0001\x0000'S FRIEND CODE
+\xf000\xbd02\x0000CANCEL
+\xf000\xbd02\x0000\xf000\x0203\x0001\x0001 \xf000\x0203\x0001\x0002 \xf000\x0203\x0001\x0003
 By exchanging Friend Codes\xfffewith other players, you may\xfffetrade and battle with them\xfffeover Nintendo Wi-Fi Connection.
 To obtain your Friend Code,\xfffeplease log on to Nintendo WFC.
-\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003\xfffe\xf000Ā\x0001\x0000 will be registered.
-The Friend Code is wrong.\xfffe\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
-\xf000Ā\x0001\x0000 will be deleted.\xfffeAre you sure about this?
+\xf000\x0203\x0001\x0001 \xf000\x0203\x0001\x0002 \xf000\x0203\x0001\x0003\xfffe\xf000\x0100\x0001\x0000 will be registered.
+The Friend Code is wrong.\xfffe\xf000\x0203\x0001\x0001 \xf000\x0203\x0001\x0002 \xf000\x0203\x0001\x0003
+\xf000\x0100\x0001\x0000 will be deleted.\xfffeAre you sure about this?
 Your Friend Roster is full!
 That Friend Code has already been\xffferegistered.
-\xf000Ā\x0001\x00000's Friend Code:\xfffe\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
+\xf000\x0100\x0001\x0000's Friend Code:\xfffe\xf000\x0203\x0001\x0001 \xf000\x0203\x0001\x0002 \xf000\x0203\x0001\x0003
 CHECK FRIEND CODE
-Register \xf000Ā\x0001\x0000 in your\xfffePal Pad?
+Register \xf000\x0100\x0001\x0000 in your\xfffePal Pad?
 Your Friend Roster is full.\xfffeWill you delete someone?
-Give up on registering\xfffe\xf000Ā\x0001\x0000?
-Delete \xf000Ā\x0001\x0000's data from\xfffeyour Friend Roster?
-Yes
-No
-Please go to the Wi-Fi Club \xfffewith \xf000Ā\x0001\x0000.
+Give up on registering\xfffe\xf000\x0100\x0001\x0000?
+Delete \xf000\x0100\x0001\x0000's data from\xfffeyour Friend Roster?
+YES
+NO
+Please go to the Wi-Fi Club\xfffewith \xf000\x0100\x0001\x0000.

@@ -1,60 +1,60 @@
-Start Wi-Fi Connection
-Connected to Wi-Fi\xfffePlease wait..
-\xf000Ā\x0001\x0000 is seeking someone\xfffeto battle.
-\xf000Ā\x0001\x0000 is seeking someone\xfffeto trade with.
-Waiting for \xfffe\xf000Ā\x0001\x0000.
+Start Wi-Fi connection
+Connected to Wi-Fi.\xfffePlease stand by.
+\xf000\x0100\x0001\x0000 is seeking someone\xfffeto battle.
+\xf000\x0100\x0001\x0000 is seeking someone\xfffeto trade with.
+Waiting for \xfffe\xf000\x0100\x0001\x0000.
 What would you like to seek?
 Seeking participants...
 Suspend your invitation?
 Communicating. Please stand by...
-Are you sure you want to stop\xfffe connecting to Wi-Fi？
-Saving... Please don't\xfffeturn off the power!
-\xf000Ā\x0001\x0000 invites you for\xfffea Voice Chat!
-\xf000Ā\x0001\x0000 appears to be busy...
-You can't connect with\xfffe\xf000Ā\x0001\x0000.
-Communicating with \xf000Ā\x0001\x0000...
-\xf000Ā\x0001\x0000 failed to respond...
-\xf000Ā\x0001\x0000 ended the Voice Chat.
+Are you sure you\xfffewant to disconnect?
+Saving...\xfffeDon't turn off the power.
+\xf000\x0100\x0001\x0000 invites you for\xfffea Voice Chat!
+\xf000\x0100\x0001\x0000 appears to be busy...
+You can't connect with\xfffe\xf000\x0100\x0001\x0000.
+Communicating with \xf000\x0100\x0001\x0000...
+\xf000\x0100\x0001\x0000 failed to respond...
+\xf000\x0100\x0001\x0000 ended the Voice Chat.
 Would you like to end\xfffethis Voice Chat?
 Connected to Wi-Fi connection
 Friends connected
-Yes
-No
-Battle
-Battle
+YES
+NO
+BATTLE
+BATTLE
 During the battle
-Trade
+TRADE
 During the rade
 Voice Chat
 Recruit Partner
 Disconnect from Wi-Fi
-Apply
-View Records
-Cancel
-\xf000Ā\x0001\x0000
-GROUP \xf000Ā\x0001\x0000
+APPLY
+VIEW RECORD
+CANCEL
+\xf000\x0100\x0001\x0000
+GROUP \xf000\x0100\x0001\x0000
 BATTLE RECORD
-W: \xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
-L: \xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+W: \xf000\xbd03\x0001\x0001\xf000\x0203\x0001\x0000
+L: \xf000\xbd03\x0001\x0001\xf000\x0203\x0001\x0000
 POKÉMON TRADES
-\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
-Food Count
-\xf000ȃ\x0001\x0000 Times
+\xf000\xbd03\x0001\x0001\xf000\x0203\x0001\x0000
+Times Cooked
+\xf000\x0203\x0001\x0000
 DATE LAST PLAYED
-Close
-\xf000ȃ\x0001\x0000／\xf000ȁ\x0001\x0001／\xf000ȁ\x0001\x0002
-\xf000Ā\x0001\x0000's results.
-\xf000Ā\x0001\x0000 wants to join you!\xf000븂\x0001<
-Would you like to\xfffebattle with\xf000Ā\x0001\x0000 again?
-Would you like to\xfffetrade with\xf000Ā\x0001\x0000 again?
-Standing by...
+CLOSE
+\xf000\x0203\x0001\x0000/\xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002
+\xf000\x0100\x0001\x0000's results.
+\xf000\x0100\x0001\x0000 wants to join you!\xf000\xbe02\x0001\x003c
+Would you like to\xfffebattle with\xf000\x0100\x0001\x0000 again?
+Would you like to\xfffetrade with\xf000\x0100\x0001\x0000 again?
+Standing By...
 Disconnecting...
-\xf000Ā\x0001\x0000 is in a battle.
-\xf000Ā\x0001\x0000 is trading.
-\xf000Ā\x0001\x0000 is in a Voice Chat.
-Power off while\xfffeWi-Fi is connected？
+\xf000\x0100\x0001\x0000 is in a battle.
+\xf000\x0100\x0001\x0000 is trading.
+\xf000\x0100\x0001\x0000 is in a Voice Chat.
+Power off while\xfffeWi-Fi is connected?
 Reconnect to Nintendo WFC?
-You need at least two Pokémon\xfffeif you want to trade!
+You need at least two Pokémon\xfffein your party if you want to trade!
 Voice Chat was turned on.
 Voice Chat was turned off.
 ???
@@ -68,40 +68,40 @@ Wonder Launcher On
 Wonder Launcher Off
 Your friend ended\xfffethe communication battle.
 Communicating. Please stand by...
-Cannot play Double-Battle\xfffewith 1 Pokémon！
+Cannot play Double-Battle\xfffewith one Pokémon!
 Suspend your request?
-Voice Chat will be turned on\xfffewhile you are playing with this friend.\xf000븁\x0000\xfffeDo you want to play with this friend?
-Voice Chat will be turned off\xfffewhile you are playing with this friend.\xf000븁\x0000\xfffeDo you want to play with this friend?
+Voice Chat will be turned on\xfffewhile you are playing with this friend.\xf000\xbe01\x0000\xfffeDo you want to play with this friend?
+Voice Chat will be turned off\xfffewhile you are playing with this friend.\xf000\xbe01\x0000\xfffeDo you want to play with this friend?
 The request has been suspended.
-Cannot play\xfffewith this friend！
+Cannot play\xfffewith this friend!
 Awaiting your friend's decision.\xfffePlease wait.
 Waiting room
 Canceling...
-A communication error occurred\xfffe\xf000Ȅ\x0001\x0000
-Set Delay ON\xf000븁\x0000
-Set Delay OFF = Default\xf000븁\x0000
+A communication error occurred\xfffe\xf000\x0204\x0001\x0000
+Set Delay ON\xf000\xbe01\x0000
+Set Delay OFF = Default\xf000\xbe01\x0000
 Walk Around
-Multi-Battle
-２ＢＩＴＡＤＰＣＭ
-３ＢＩＴＡＤＰＣＭ
-４ＢＩＴＡＤＰＣＭ
+Multi Battle
+2BITADPCM
+3BITADPCM
+4BITADPCM
 Bucket
 Xtransceiver
-\xf000Ā\x0001\x0000 seems\xfffeto be busy.
-\xf000Ā\x0001\x0000 wants to\xfffehave a Voice Chat.
-\xf000Ā\x0001\x0000 is using\xfffethe Xtransceiver.
-\xf000Ā\x0001\x0000 is looking for someone\xfffeto chat with on the Xtransceiver.
+\xf000\x0100\x0001\x0000 seems\xfffeto be busy.
+\xf000\x0100\x0001\x0000 wants to\xfffehave a Voice Chat.
+\xf000\x0100\x0001\x0000 is using\xfffethe Xtransceiver.
+\xf000\x0100\x0001\x0000 is looking for someone\xfffeto chat with on the Xtransceiver.
 Connect
-\xf000Ā\x0001\x0000 has\xfffecontacted you...
-Do you want to play\xfffewith \xf000Ā\x0001\x0000?
-What would you like to\xfffedo with \xf000Ā\x0001\x0000?
-Would you like to talk with\xfffe\xf000Ā\x0001\x0000 using Voice Chat?
-Would you like to talk with\xfffe\xf000Ā\x0001\x0000 using the Xtransceiver?
-Trade with \xf000Ā\x0001\x0000?
-Confirm
+\xf000\x0100\x0001\x0000 has\xfffecontacted you...
+Do you want to play\xfffewith \xf000\x0100\x0001\x0000?
+What would you like to\xfffedo with \xf000\x0100\x0001\x0000?
+Would you like to talk with\xfffe\xf000\x0100\x0001\x0000 using Voice Chat?
+Would you like to talk with\xfffe\xf000\x0100\x0001\x0000 using the Xtransceiver?
+Trade with \xf000\x0100\x0001\x0000?
+CONFIRM
 Rules
-In party
-Battle Box
+PARTY
+BATTLE BOX
 You do not meet the conditions,\xfffeso you cannot battle.
 Will you have a Single Battle\xfffewith no restrictions?
 Will you have a Double Battle\xfffewith no restrictions?
@@ -114,30 +114,30 @@ Will you have a Rotation Battle\xfffewith flat rules?
 Please select whether to use your\xfffeparty Pokémon or your Battle Box.
 You declined the offer.
 Your friend is apparently\xfffeunable to participate.
-L\xf000Ȃ\x0001\x0000
+L\xf000\x0202\x0001\x0000
 \xf000\xff00\x0001\x0002♂\xf000\xff00\x0001\x0000
 \xf000\xff00\x0001\x0001♀\xf000\xff00\x0001\x0000
-Would you like to play with\xfffe\xf000Ā\x0001\x0000 again?
-In order to send and receive\xfffepictures from others\xf000븀\x0000\xfffeplease change the parental control\xf000븁\x0000\xfffepictures\xfffesettings to\xf000븀\x0000\xfffedisabled.
-You need at least two Pokémon\xfffeif you want to trade!
+Would you like to play with\xfffe\xf000\x0100\x0001\x0000 again?
+In order to send and receive\xfffepictures from others\xf000\xbe00\x0000\xfffeplease change the parental control\xf000\xbe01\x0000\xfffepictures\xfffesettings to\xf000\xbe00\x0000\xfffedisabled.
+You need at least two Pokémon\xfffein your party if you want to trade!
 Talking
 Press the B Button\xfffeto end Voice Chat.
 You ended the conversation.
 Your friend is busy.\xfffeEnding communication...
-Awaiting \xf000Ā\x0001\x0000's response...
-In Standby
+Awaiting \xf000\x0100\x0001\x0000's response...
+Standing By
 In Voice Chat
 Xtransceiver
 In Xtransceiver
-Battle Format\xf000봅\x0001x: \xf000\xff00\x0001\x0002Single Battle\xf000\xff00\x0001\x0000
-Battle Format\xf000봅\x0001x: \xf000\xff00\x0001\x0002Double Battle\xf000\xff00\x0001\x0000
-Battle Format\xf000봅\x0001x: \xf000\xff00\x0001\x0002Triple Battle\xf000\xff00\x0001\x0000
-Battle Format\xf000봅\x0001x: \xf000\xff00\x0001\x0002Rotation Battle\xf000\xff00\x0001\x0000
-Battle Rule\xf000봅\x0001x: \xf000\xff00\x0001\x0002No Restrictions\xf000\xff00\x0001\x0000
-Battle Rule\xf000봅\x0001x: \xf000\xff00\x0001\x0002Flat rules\xf000\xff00\x0001\x0000
-Wonder Launcher\xf000봅\x0001x: \xf000\xff00\x0001\x0002On\xf000\xff00\x0001\x0000
-Wonder Launcher\xf000봅\x0001x: \xf000\xff00\x0001\x0002Off\xf000\xff00\x0001\x0000
-\xf000Ā\x0001\x0000\xfffehas applied to play.
+Battle Format\xf000\xbd05\x0001\x0078: \xf000\xff00\x0001\x0002Single Battle\xf000\xff00\x0001\x0000
+Battle Format\xf000\xbd05\x0001\x0078: \xf000\xff00\x0001\x0002Double Battle\xf000\xff00\x0001\x0000
+Battle Format\xf000\xbd05\x0001\x0078: \xf000\xff00\x0001\x0002Triple Battle\xf000\xff00\x0001\x0000
+Battle Format\xf000\xbd05\x0001\x0078: \xf000\xff00\x0001\x0002Rotation Battle\xf000\xff00\x0001\x0000
+Battle Rule\xf000\xbd05\x0001\x0078: \xf000\xff00\x0001\x0002No Restrictions\xf000\xff00\x0001\x0000
+Battle Rule\xf000\xbd05\x0001\x0078: \xf000\xff00\x0001\x0002Flat rules\xf000\xff00\x0001\x0000
+Wonder Launcher\xf000\xbd05\x0001\x0078: \xf000\xff00\x0001\x0002On\xf000\xff00\x0001\x0000
+Wonder Launcher\xf000\xbd05\x0001\x0078: \xf000\xff00\x0001\x0002Off\xf000\xff00\x0001\x0000
+\xf000\x0100\x0001\x0000\xfffehas applied for the competition.
 It looks like you can't talk now.
 Single
 Double
@@ -147,4 +147,4 @@ Please choose the Pokémon that\xfffewill participate.
 Please select three Pokémon that\xfffewill participate.
 Please select four Pokémon that\xfffewill participate.
 Please select six Pokémon that\xfffewill participate.
-This uses the camera function\xfffeto send image data to your friends.\xf000븀\x0000\xfffeIs this OK?
+This uses the camera function\xfffeto send image data to your friends.\xf000\xbe00\x0000\xfffeIs this OK?

@@ -1,6 +1,6 @@
-\xf000봂\x0000めと　めが　あったら\xfffe\xf000봂\x0000しょうぶが　はじまる\xfffe\xfffe\xf000봂\x0000それが　トレーナーのルール
-\xf000봂\x0000めと　めが　あったら\xfffe\xf000봂\x0000こいが　はじまる\xfffe\xfffe\xf000봂\x0000それは　れんあいのルール
-\xf000봂\x0000これは　とある　トレーナーと\xfffe\xf000봂\x0000そのポケモンによる　こいの　ものがたり
+\xf000\xbd02\x0000めと めが あったら\xfffe\xf000\xbd02\x0000しょうぶが はじまる\xfffe\xfffe\xf000\xbd02\x0000それが トレ-ナ-のル-ル
+\xf000\xbd02\x0000めと めが あったら\xfffe\xf000\xbd02\x0000こいが はじまる\xfffe\xfffe\xf000\xbd02\x0000それは れんあいのル-ル
+\xf000\xbd02\x0000これは とある トレ-ナ-と\xfffe\xf000\xbd02\x0000そのポケモンによる こいの ものがたり
 None
 None
 None
@@ -8,9 +8,9 @@ None
 None
 None
 None
-\xf000봂\x0000めと　めが　あったら\xfffe\xf000봂\x0000しょうぶが　はじまる\xfffe\xfffe\xf000봂\x0000それが　トレーナーのルール
-\xf000봂\x0000めと　めが　あったら\xfffe\xf000봂\x0000こいが　はじまる\xfffe\xfffe\xf000봂\x0000それは　れんあいのルール
-\xf000봂\x0000これは　とある　トレーナーと\xfffe\xf000봂\x0000そのポケモンによる　こいの　ものがたり
+\xf000\xbd02\x0000めと めが あったら\xfffe\xf000\xbd02\x0000しょうぶが はじまる\xfffe\xfffe\xf000\xbd02\x0000それが トレ-ナ-のル-ル
+\xf000\xbd02\x0000めと めが あったら\xfffe\xf000\xbd02\x0000こいが はじまる\xfffe\xfffe\xf000\xbd02\x0000それは れんあいのル-ル
+\xf000\xbd02\x0000これは とある トレ-ナ-と\xfffe\xf000\xbd02\x0000そのポケモンによる こいの ものがたり
 None
 None
 None

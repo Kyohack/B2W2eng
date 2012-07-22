@@ -1,6 +1,6 @@
-\xf000Ā\x0001\x0000's
-Number of Wins
-\xf000ȃ\x0001\x0000 Time
+\xf000\x0100\x0001\x0000's
+Championships
+\xf000\x0203\x0001\x0000 times
 Normal
 Fire
 Water
@@ -18,7 +18,7 @@ Ghost
 Dragon
 Dark
 Steel
-Driftveil City
+Driftveil
 Unova
 Kanto
 Johto
@@ -26,10 +26,10 @@ Hoenn
 Sinnoh
 World
 Champions
-Bicycle
-Bicycle Master
+Rental
+Rental Master
 Mix
 Mix Master
-\xf000Ā\x0001\x0000
-This Champion
-Name
+\xf000\x0100\x0001\x0000
+Total Championships
+NAME

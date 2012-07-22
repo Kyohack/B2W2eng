@@ -101,7 +101,7 @@ La chela più grande ha una potenza\xfffedi 10000 cavalli, ma è così pesante\x
 Sembra una Poké Ball. Toccandolo si\xffferischia di prendere la scossa e di\xfffefarlo esplodere.
 Quando ha accumulato elettricità\xfffefino quasi a scoppiare, si fa\xfffetrasportare dal vento.
 Queste sei uova comunicano per\xfffetelepatia. Si riuniscono subito\xfffeanche se vengono divise.
-Noto come “Giungla in moto". Se\xfffeuna testa diventa troppo grande,\xfffecade e si trasforma in EXEGGCUTE.
+Noto come "Giungla in moto". Se\xfffeuna testa diventa troppo grande,\xfffecade e si trasforma in EXEGGCUTE.
 Piange pensando alla madre defunta\xfffee dal teschio che ha in testa pro-\xfffeviene un rumore sordo e continuo.
 Pokémon selvatico che tiene in\xfffemano un osso sin dalla nascita.\xfffeLo usa abilmente come arma.
 I suoi arti inferiori si allungano del\xfffedoppio, il che sbalordisce i nemici\xfffeche lo vedono per la prima volta.
@@ -145,7 +145,7 @@ Quando ha la pancia piena diventa\xfffetroppo pigro per muoversi e si può\xfffe
 Un Pokémon uccello leggendario.\xfffeRiesce a creare bufere di neve\xfffecongelando l'umidità dell'aria.
 Un Pokémon uccello leggendario.\xfffeSi dice che viva tra le nubi tempo-\xffferalesche. Controlla i fulmini.
 Un Pokémon uccello leggendario.\xfffeSi dice che la sua apparizione pre-\xfffeannunci l'arrivo della primavera.
-Detto “Pokémon miraggio" perché\xfffeè stato avvistato da pochi. È facile\xfffetrovare la sua pelle della muta.
+Detto "Pokémon miraggio" perché\xfffeè stato avvistato da pochi. È facile\xfffetrovare la sua pelle della muta.
 Se il suo corpo emana un'aura, il\xfffetempo cambia all'istante. Si dice\xfffeche viva nei mari e nei laghi.
 Si dice che faccia la sua tana da\xfffequalche parte nel mare. Porta a\xffferiva le vittime di naufragi.
 Un Pokémon creato usando i geni\xfffedi MEW. Si dice che fra i Pokémon\xfffesia quello con l'animo più crudele.
@@ -169,7 +169,7 @@ Tesse una trappola con un filo di\xfffeseta, sottile ma robusto. Attende\xfffela
 Aggancia la preda con un filo di se-\xfffeta e la lascia andare. Poi segue il\xfffefilo e la trova quando è in gruppo.
 La trasformazione delle sue zampe\xfffein ali lo ha reso più leggiadro in\xfffevolo ma più goffo a terra.
 Dalle antenne emette scariche\xfffeelettriche positive e negative con\xfffele quali colpisce i nemici.
-La sua luce è visibile anche quando\xfffesi trova in profondità. È sopranno-\xfffeminato “Stella degli abissi".
+La sua luce è visibile anche quando\xfffesi trova in profondità. È sopranno-\xfffeminato "Stella degli abissi".
 Le sacche elettriche sulle sue\xfffeguance sono piccole. Se fuoriesce\xfffeelettricità, resta fulminato.
 È facile avvistarlo nelle notti con\xfffetante stelle cadenti. Si dice che\xfffearrivi cavalcandone una.
 Ha un corpo morbido ed elastico.\xfffeQuando comincia a saltellare è\xfffepraticamente impossibile fermarlo.
@@ -317,7 +317,7 @@ Più in forma è, più piacevole è il\xfffeprofumo dei suoi fiori. Questa\xfffe
 La maggior parte del suo corpo è\xfffestomaco. I suoi succhi gastrici\xfffedissolvono subito ciò che ingerisce.
 Inghiotte intera qualsiasi cosa.\xfffeDai pori traspira un liquido tossico\xfffecon cui bagna i nemici.
 Attacca in branco chi invade il\xfffesuo territorio. Le zanne aguzze\xfffelacerano anche gli scafi delle navi.
-Con le sue zanne può spezzare\xfffeil ferro. Nuota a 120 km/h. È noto\xfffecome il “Tiranno del mare".
+Con le sue zanne può spezzare\xfffeil ferro. Nuota a 120 km/h. È noto\xfffecome il "Tiranno del mare".
 In giornate soleggiate, gioca\xffferimbalzando sulla spiaggia.\xfffeSpruzza acqua dalle narici.
 Il Pokémon più grande che esista.\xfffeDopo aver inalato aria, si immerge a\xfffeuna profondità di 3000 metri.
 Nella gobba accumula magma. Quando\xfffepiove, il magma si indurisce e\xfffeil Pokémon diventa più lento.
@@ -328,7 +328,7 @@ Usa perle nere per amplificare i\xfffesuoi poteri psichici. Con una danza\xfffea
 Non ci sono due SPINDA con lo stes-\xfffeso motivo maculato. Il suo passo\xfffebarcollante confonde i nemici.
 Scava fosse coniche nella sabbia\xfffedel deserto e attende che le prede\xfffecadano in trappola.
 Fa vibrare violentemente le ali\xfffegenerando onde ultrasoniche che\xfffeprovocano il mal di testa.
-Genera tempeste di sabbia con il\xfffebattito delle ali. È detto anche\xfffe“Spirito primordiale del deserto".
+Genera tempeste di sabbia con il\xfffebattito delle ali. È detto anche\xfffe"Spirito primordiale del deserto".
 Immagazzina acqua nel corpo e\xffferiesce a sopravvivere nel deserto\xfffesenz'acqua anche per 30 giorni.
 Diventa attivo di notte, quando va\xfffea caccia di prede stremate dalla\xfffecalura del deserto.
 Non sta tranquillo se attorno a sé\xfffec'è della sporcizia e la rimuove con\xfffele ali.
@@ -423,12 +423,12 @@ Quando splende il sole, ama aprire\xfffei suoi petali per assorbire i raggi\xfff
 Se si esercita una forte pressione\xfffesul suo corpo, ne fuoriesce un\xfffemisterioso liquido viola.
 In passato portava sulla schiena\xfffeun robusto carapace. Ne rimangono\xfffetracce nelle sue cellule.
 È talmente abile nel maneggiare gli\xfffeoggetti con le sue due code che\xfffesolo raramente usa le mani.
-Fluttua qua e là senza motivo e\xfffeper questo una leggenda lo defini-\xfffesce “Guida degli spiriti vaganti".
+Fluttua qua e là senza motivo e\xfffeper questo una leggenda lo defini-\xfffesce "Guida degli spiriti vaganti".
 Al tramonto, gruppi di DRIFBLIM si\xfffefanno trascinare dal vento. Se av-\xfffevistati, scompaiono all'improvviso.
 Le sue orecchie sono sempre ar-\xffferotolate. Può estenderle con for- \xfffeza per distruggere qualsiasi cosa.
 Ha delle orecchie molto delicate. Se\xfffele si tocca con forza, scalcia\xfffecon le sue graziose gambe.
 I suoi versi sembrano incantesimi.\xfffePare che a volte contengano\xfffeun potere che porta felicità.
-Se emette un verso profondo, molti\xfffeMURKROW accorrono all'istante.\xfffeÈ detto “Evocatore della notte".
+Se emette un verso profondo, molti\xfffeMURKROW accorrono all'istante.\xfffeÈ detto "Evocatore della notte".
 Se l'Allenatore non gli dà da man-\xfffegiare, gli graffia il naso. È un'abi-\xfffetudine che cerca di nascondere.
 Si fascia la vita con le code per\xfffeapparire più grande. Fissa con insi-\xfffestenza chi incrocia il suo sguardo.
 Ha una sfera nella gola. Quando\xfffesaltella, la sfera si muove emet-\xfffetendo dei trilli.

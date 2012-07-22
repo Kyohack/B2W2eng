@@ -1,27 +1,27 @@
-Enter the Train Number (01-\xf000ȁ\x0001\x0000).\xf000븁\x0000
-Receiving data for Rank \xf000ȁ\x0001\x0001,\xfffeTrain Number \xf000ȁ\x0001\x0000...
-You may not challenge that Train\xfffeuntil the next update.\xf000븁\x0000
-Data has been received.\xf000븁\x0000
+Enter the Train Number (01-\xf000\x0201\x0001\x0000).\xf000\xbe01\x0000
+Receiving data for Rank \xf000\x0201\x0001\x0001,\xfffeTrain Number \xf000\x0201\x0001\x0000...
+You may not challenge that Train\xfffeuntil the next update.\xf000\xbe01\x0000
+Data has been received.\xf000\xbe01\x0000
 Cancel your challenge?
-Enter the Rank of the Train\xfffe(01-10) to check your records.\xf000븁\x0000
-Enter the Train Number (01-\xf000ȁ\x0001\x0000).\xf000븁\x0000
+Enter the Rank of the Train\xfffe(01-10) to check your records.\xf000\xbe01\x0000
+Enter the Train Number (01-\xf000\x0201\x0001\x0000).\xf000\xbe01\x0000
 Sending your record data...\xfffeDon't turn off the power.
-Your data has been sent.\xf000븁\x0000
+Your data has been sent.\xf000\xbe01\x0000
 Would you like to cancel your data\xfffedownload?
-トレインナンバーを\xfffeいれてください（００１ー\xf000Ȃ\x0001\x0000）
-トレインナンバーを\xfffeいれてください（００１ー\xf000Ȃ\x0001\x0000）
+トレインナンバ-を\xfffeいれてください(001-\xf000\x0202\x0001\x0000)
+トレインナンバ-を\xfffeいれてください(001-\xf000\x0202\x0001\x0000)
 Connecting to the\xfffeNintendo Wi-Fi Connection
-The Wi-Fi Train is currently undergoing\xfffemaintenance. Please try again later.\xf000븁\x0000\xfffeError code: 13281\xf000븁\x0000
-The Wi-Fi Train is very crowded.\xfffePlease try again later.\xf000븁\x0000\xfffeError code: 13282\xf000븁\x0000
-The Wi-Fi Train is very crowded.\xfffePlease try again later.\xf000븁\x0000\xfffeError code: 13261\xf000븁\x0000
-Unable to connect to the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13262\xf000븁\x0000
-Unable to connect to the Wi-Fi\xfffeTrain.\xf000븁\x0000\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13266\xf000븁\x0000
-You were disconnected from the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13264\xf000븁\x0000
-You were disconnected from the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13267\xf000븁\x0000
-That number cannot be specified\xfffefor the Wi-Fi Train.\xf000븁\x0000\xfffeError code: 13263\xf000븁\x0000
-つうしんエラーが\xfffeはっせい　しました\xf000븁\x0000
-Communication error.\xf000븁\x0000\xfffeError code: 13267\xf000븁\x0000
-There appears to be a problem\xfffewith your Pokémon.\xf000븁\x0000
-Ｗｉ－Ｆｉコネクション　から\xfffeせつだん　しています
-Ｗｉ－Ｆｉコネクション　から\xfffeせつだん　しました
+The Wi-Fi Train is currently undergoing\xfffemaintenance. Please try again later.\xf000\xbe01\x0000\xfffeError code: 13281\xf000\xbe01\x0000
+The Wi-Fi Train is very crowded.\xfffePlease try again later.\xf000\xbe01\x0000\xfffeError code: 13282\xf000\xbe01\x0000
+The Wi-Fi Train is very crowded.\xfffePlease try again later.\xf000\xbe01\x0000\xfffeError code: 13261\xf000\xbe01\x0000
+Unable to connect to the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000\xbe01\x0000\xfffeError code: 13262\xf000\xbe01\x0000
+Unable to connect to the Wi-Fi\xfffeTrain.\xf000\xbe01\x0000\xfffeReturning to the reception counter.\xf000\xbe01\x0000\xfffeError code: 13266\xf000\xbe01\x0000
+You were disconnected from the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000\xbe01\x0000\xfffeError code: 13264\xf000\xbe01\x0000
+You were disconnected from the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000\xbe01\x0000\xfffeError code: 13267\xf000\xbe01\x0000
+That number cannot be specified\xfffefor the Wi-Fi Train.\xf000\xbe01\x0000\xfffeError code: 13263\xf000\xbe01\x0000
+Communication error...\xf000\xbe01\x0000
+Communication error.\xf000\xbe01\x0000\xfffeError code: 13267\xf000\xbe01\x0000
+There appears to be a problem\xfffewith your Pokémon.\xf000\xbe01\x0000
+Disconnecting from Nintendo Wi-Fi\xfffeConnection... Please wait a moment.
+You have disconnected from Nintendo\xfffeWi-Fi Connection.
 Communicating. Please stand by...
