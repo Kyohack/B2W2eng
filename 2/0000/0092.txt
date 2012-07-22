@@ -11,11 +11,11 @@ Will you cancel Poké Transfer?
 Unable to connect to the\xfffeother DS system.\xf000븁\x0000
 Waiting for the other DS system's\xfffedecision.
 Poké Transfer ID: \xf000Ȅ\x0001\x0000
-Pokémon Black Version\xfffePoké Transfer Program
-Pokémon White Version\xfffePoké Transfer Program
+Pokémon Black Version 2\xfffePoké Transfer Program
+Pokémon White Version 2\xfffePoké Transfer Program
 Relocator ID: \xf000Ȅ\x0001\x0000
-Pokémon Black Version\xfffeRelocator Program
-Pokémon White Version\xfffeRelocator Program
+Pokémon Black Version 2\xfffeRelocator Program
+Pokémon White Version 2\xfffeRelocator Program
 YES
 NO
 Please insert a Pokémon Diamond,\xfffePearl, Platinum, HeartGold, or\xfffeSoulSilver Version Game Card in the\xfffeother DS system and turn it on.\xfffe\xfffeThen select\xfffe“Relocator ID: \xf000Ȅ\x0001\x0000"\xfffefrom “DS Download Play."\xfffe\xfffePress the B Button to cancel.
