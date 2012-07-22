@@ -1,2 +1,2 @@
-Communication error.
+Communication error.\xfffeFor help, visit support.nintendo.com.
 Communication error.\xfffePlease turn off the power.
