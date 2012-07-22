@@ -44,4 +44,4 @@ Stash one \xf000ĉ\x0001\x0000 where the beach\xfffebegins on Route 14!
 Stash one \xf000ĉ\x0001\x0000 in front of\xfffethe trash can on Route 15!
 Stash one \xf000ĉ\x0001\x0000 by the\xfffemissing fence on Route 16!
 Sell one \xf000ĉ\x0001\x0001 to \xf000Ā\x0001\x0000\xfffeat a reasonable price!
-ー
+-
