@@ -1,5 +1,5 @@
-Pokémon Trainer
-Pokémon Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
 Youngster
 Lass
 School Kid
@@ -8,22 +8,22 @@ Smasher
 Linebacker
 Waiter
 Waitress
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
 Nursery Aide
 Preschooler
 Preschooler
 Twins
-Pokémon Breeder
-Pokémon Breeder
+⒆⒇ Breeder
+⒆⒇ Breeder
 Lenora
 no data
 no data
 no data
 no data
-Pokémon Ranger
-Pokémon Ranger
+⒆⒇ Ranger
+⒆⒇ Ranger
 Worker
 Backpacker
 Backpacker
@@ -36,9 +36,9 @@ Baker
 Psychic
 Psychic
 no data
-Pokémon Trainer
+⒆⒇ Trainer
 no data
-Pokémon Trainer
+⒆⒇ Trainer
 Rich Boy
 Lady
 Pilot
@@ -64,8 +64,8 @@ Nurse
 Hooligans
 Battle Girl
 Parasol Lady
-Clerk 
-Clerk 
+Clerk ⑭
+Clerk ⑭
 Backers
 Backers
 Veteran
@@ -82,12 +82,12 @@ Elite Four
 Elite Four
 no data
 Depot Agent
-Swimmer 
-Swimmer 
+Swimmer ⑭
+Swimmer ⑮
 Policeman
 Maid
 Subway Boss
-Pokémon Trainer
+⒆⒇  Trainer
 Cyclist
 Cyclist
 Motorcyclist
@@ -98,18 +98,18 @@ no data
 GAME FREAK
 no data
 no data
-Pokémon Trainer
+⒆⒇  Trainer
 Team Plasma
 Subway Boss
 no data
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
+⒆⒇  Trainer
+⒆⒇  Trainer
+⒆⒇  Trainer
+⒆⒇  Trainer
+⒆⒇  Trainer
+⒆⒇  Trainer
+⒆⒇  Trainer
+⒆⒇  Trainer
 Leader
 Leader
 Leader
@@ -143,7 +143,7 @@ Winona
 Tate
 Liza
 Juan
-Pokémon Trainer
+⒆⒇  Trainer
 Guitarist
 Ace Trainer
 Ace Trainer
@@ -178,25 +178,25 @@ Lance
 Steven
 Wallace
 Beauty
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
 Team Plasma
 Team Plasma
 Team Plasma
 Team Plasma
-Pokémon Trainer
+⒆⒇ Trainer
 Team Plasma
 Team Plasma
 Champion
 Mysterious Person
-Pokémon Trainer
+⒆⒇ Trainer
 GAME FREAK
-Pokémon Trainer
-Pokémon Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
 Hero
 Hero
 Ninja
@@ -226,11 +226,11 @@ Stunt Double
 Stunt Double
 Stunt Double
 Ace Trainer
-Pokémon Trainer
-Pokémon Trainer
-Pokémon Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
 no data
 Time Traveler
 Harlequin
 Red
-Pokémon Trainer
+⒆⒇ Trainer
