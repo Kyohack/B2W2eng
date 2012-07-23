@@ -44,7 +44,7 @@ Waiting for the server...\xfffeDon't turn off the power.
 Awaiting communication...\xfffePlease stand by.
 Black.
 White.
-Do you want to participate in the\xfffePokemon Wifi Battle Tournament?
+Do you want to participate in the\xfffePokémon Wifi Battle Tournament?
 Participate
 Info
 CLOSE
