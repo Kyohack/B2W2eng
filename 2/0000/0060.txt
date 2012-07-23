@@ -1,4 +1,4 @@
-The Feeling Check results for\xfffeyou and \xf000Ā\x0001\x0000 show that...
+The Feeling Check results for\xfffeyou and \xf000\x0100\x0001\x0000 show that...
 RESULTS
 You are touching the screen incorrectly. \xfffePlease play according to the guide.
 Your feelings are at Rank I!\xfffeClose enough to say a friendly hello.
@@ -11,6 +11,6 @@ Your feelings are at Rank C!\xfffeClose enough for traveling together.
 Your feelings are at Rank B!\xfffeEverybody's quite envious of you two.
 Your feelings are at Rank A!\xfffeYou are emotionally united.
 Your feelings are at Rank S!\xfffeUndoubtedly a fated pair!
-\xf000Ā\x0001\x0000 put the \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffein the \xf000\xff00\x0001\x0002Medicine\xf000\xff00\x0001\x0000 Case.
-\xf000Ā\x0001\x0000 put the \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffein the \xf000\xff00\x0001\x0002Medicine\xf000\xff00\x0001\x0000 Case.
+\xf000\x0100\x0001\x0000 put the \xf000\x0200\x0001\x0002 \xf000\x0109\x0001\x0001\xfffein the \xf000\xff00\x0001\x0002Medicine\xf000\xff00\x0001\x0000 Case.
+\xf000\x0100\x0001\x0000 put the \xf000\x0200\x0001\x0002 \xf000\x0109\x0001\x0001\xfffein the \xf000\xff00\x0001\x0002Medicine\xf000\xff00\x0001\x0000 Case.
 Too bad!\xfffeThe Bag is full...

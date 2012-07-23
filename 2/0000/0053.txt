@@ -157,7 +157,7 @@ Luciana
 Raymond
 Pascal
 Shura
-Terumi
+Terminus
 Tonoma
 Sanosuke
 Tawney
@@ -246,7 +246,7 @@ Korian'nu
 Sylvia
 Hennessy
 Naho
-Eily
+Airi
 Gretel
 Gonzales
 Gonzaro
@@ -534,7 +534,7 @@ Karel
 Rana
 Leslie
 Libby
-Kin
+Keene
 Kim
 Loretta
 Lotti
@@ -572,7 +572,7 @@ Honore
 Orasu
 Hubert
 Mona
-Myla
+Myra
 Norma
 Jacob
 Django

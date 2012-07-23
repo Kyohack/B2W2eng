@@ -1,5 +1,5 @@
-\xf000Ā\x0001\x0000
-ID \xf000Ȅ\x0001\x0000
+\xf000\x0100\x0001\x0000
+ID \xf000\x0204\x0001\x0000
 When the group is ready:\xfffeA Button: Proceed   B Button: Cancel
 Is this group OK?
 Cancel the Spin Trade?
@@ -13,8 +13,8 @@ The Spin Trade will be canceled.
 Exchanging records.\xfffePlease don't turn off the power!
 The Spin Trade is done!\xfffeYou will be returned to the Union Room.
 If the leader drops out, the group will\xfffebe disbanded. Is that OK?
-\xf000Ā\x0001\x0000 has left.
-\xf000Ā\x0001\x0000, the leader, has left.\xfffeThe group will be disbanded.
+\xf000\x0100\x0001\x0000 has left.
+\xf000\x0100\x0001\x0000, the leader, has left.\xfffeThe group will be disbanded.
 Seeking a Spin Trade!
 Spin Trade in progress!
 YES

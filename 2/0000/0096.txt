@@ -8,11 +8,11 @@ Elegant
 Unique
 Quirky
 Balanced
-Cool Song
-Cute Song
-Elegant Song
-Unique Song
-Transmission Song
+Cool song
+Cute song
+Elegant song
+Unique song
+Transmitted Song
 Dummy Transmission
 Ear
 Head

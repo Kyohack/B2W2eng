@@ -2,5 +2,5 @@ The Hall of Fame!
 The End
 Congratulations on\xfffebeating the game!
 Saving...\xfffeDon't turn off the power.
-\xf000Ā\x0001\x0000 saved the game.
+\xf000\x0100\x0001\x0000 saved the game.
 There is already a saved game file.\xfffeIt is impossible to save.

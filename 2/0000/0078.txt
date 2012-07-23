@@ -1,22 +1,22 @@
-MEDAL SORTING MENU
+Medal Achievement Points
 Achieved
 Not Achieved
-\xf000봃\x0001\xf000Ȃ\x0001\x0000
-\xf000봃\x0001\xf000Ȃ\x0001\x0000/\xf000Ȃ\x0001\x0001
+\xf000\xbd03\x0001\x0018\xf000\x0202\x0001\x0000
+\xf000\xbd03\x0001\x0018\xf000\x0202\x0001\x0000/\xf000\x0202\x0001\x0001
 Selected medal has been selected\xfffeand was registered.
 Selection registration\xfffewas terminated.
 Unable to select and register\xfffeunknown Medal(s)!
 How do you want to sort\xfffeyour Medals?
-IN A LIST
-SINGLE COLUMN
-EARNED METALS
-NOT ACHIEVED
-TYPE MODE
-NAME ORDER
-NEWER ONES
-RESET SORTING
+List Mode
+Single Column Mode
+View Only Medals
+View Only Hints
+By Type
+By Name
+Recent
+Default
 QUIT
-Achieved on \xf000봃\x0001
-Got a hint on \xf000봃\x0001
-\xf000봃\x0001 ２０\xf000ȁ\x0001\x0000 /　\xf000ȁ\x0001\x0001 /　\xf000ȁ\x0001\x0002
-The instructions in the Medal Box say to\xfffepress A to touch a medal and use your\xf000븀\x0000\xfffetouch pen to guide you to a Medal.\xfffeSTART can be used to bring up a menu.\xf000븀\x0000\xfffeYou can also tap Medals to view them.
+\xf000\xbd03\x0001\x0018 Date Achieved
+\xf000\xbd03\x0001\x0018 Date Recieved
+\xf000\xbd03\x0001\x0018\xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002/20\xf000\x0201\x0001\x0000
+The instructions in the Medal Box say to\xfffepress A to touch a medal and use your\xf000\xbe00\x0000\xfffetouch pen to guide you to a Medal.\xfffeSTART can be used to bring up a menu.\xf000\xbe00\x0000\xfffeYou can also tap Medals to view them.

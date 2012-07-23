@@ -1,39 +1,39 @@
-What language would you like the\xfffePokémon names to be?\xf000븀\x0000
+What language do you want to play in?\xfffeEnglish or Japanese?\xf000\xbe01\x0000
 English
 Japanese
-The Pokémon names will be\xfffein English.\xf000븁\x0000
-The Pokémon names will be\xfffein Japanese.\xf000븁\x0000
+The game will be played\xfffein English.\xf000\xbe01\x0000
+The game will be played\xfffein Japanese.\xf000\xbe01\x0000
 Creating save data.\xfffePlease wait...
-Hi there!\xf000븁\x0000\xfffeWelcome to the world of Pokémon!\xf000븁\x0000
-My name is Professor Juniper.\xfffeEveryone calls me the Pokémon Professor!\xf000븁\x0000
-That's right! This world is widely\xfffeinhabited by mysterious creatures\xf000븀\x0000\xfffecalled Pokémon!\xf000븁\x0000
-Pokémon have mysterious powers.\xfffeThey come in many shapes\xf000븀\x0000\xfffeand live in many different places.\xf000븁\x0000\xfffeWe humans live happily with Pokémon!\xfffeLiving and working together,\xf000븀\x0000\xfffewe complement each other.\xf000븁\x0000\xfffeWe help each other out to\xfffeaccomplish difficult tasks.\xf000븁\x0000\xfffeHaving Pokémon battle one another\xfffeis particularly popular, and it deepens\xf000븀\x0000\xfffethe bonds between people and Pokémon.\xf000븀\x0000\xfffeAnd that is why I research Pokémon.\xf000븁\x0000
-Well, that's enough from me...\xfffeCould you tell me about yourself?\xf000븁\x0000
-Are you a boy?\xfffeOr a girl?\xf000븁\x0000
-You're a boy, right?\xf000븁\x0000
-You're a girl, right?\xf000븁\x0000
+Hi there!\xf000\xbe01\x0000\xfffeWelcome to the world of Pokémon!\xf000\xbe01\x0000
+My name is Professor Juniper.\xfffeEveryone calls me the Pokémon Professor!\xf000\xbe01\x0000
+That's right! This world is widely\xfffeinhabited by mysterious creatures\xf000\xbe00\x0000\xfffecalled Pokémon!\xf000\xbe01\x0000
+Pokémon have mysterious powers.\xfffeThey come in many shapes\xf000\xbe00\x0000\xfffeand live in many different places.\xf000\xbe01\x0000\xfffeWe humans live happily with Pokémon!\xfffeLiving and working together,\xf000\xbe00\x0000\xfffewe complement each other.\xf000\xbe01\x0000\xfffeWe help each other out to\xfffeaccomplish difficult tasks.\xf000\xbe01\x0000\xfffeHaving Pokémon battle one another\xfffeis particularly popular, and it deepens\xf000\xbe00\x0000\xfffethe bonds between people and Pokémon.\xf000\xbe00\x0000\xfffeAnd that is why I research Pokémon.\xf000\xbe01\x0000
+Well, that's enough from me...\xfffeCould you tell me about yourself?\xf000\xbe01\x0000
+Are you a boy?\xfffeOr a girl?\xf000\xbe01\x0000
+You're a boy, right?\xf000\xbe01\x0000
+You're a girl, right?\xf000\xbe01\x0000
 Boy
 Girl
-I'd like to know your name.\xf000븁\x0000\xfffePlease tell me.\xf000븁\x0000
-Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
-Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
+I'd like to know your name.\xf000\xbe01\x0000\xfffePlease tell me.\xf000\xbe01\x0000
+Your name is \xf000\x0100\x0001\x0000?\xf000\xbe01\x0000
+Your name is \xf000\x0100\x0001\x0000?\xf000\xbe01\x0000
 YES
 NO
-So your name's \xf000Ā\x0001\x0000.\xfffeWhat a wonderful name!\xf000븁\x0000
-Well then. I'm going to introduce you\xfffeto your two best friends!\xf000븁\x0000
-Allow me to introduce you\xfffeto your rival.\xf000븀\x0000\xfffeHe lives in your city.\xf000븁\x0000
-Now what was\xfffehis name again...\xf000븁\x0000
+So your name's \xf000\x0100\x0001\x0000.\xfffeWhat a wonderful name!\xf000\xbe01\x0000
+Well then. I'm going to introduce you\xfffeto your two best friends!\xf000\xbe01\x0000
+Allow me to introduce you\xfffeto your rival.\xf000\xbe00\x0000\xfffeHe lives in your city.\xf000\xbe01\x0000
+Now what was\xfffehis name again...\xf000\xbe01\x0000
 Hugh
 Default 1
 Default 2
 What is his name?
-\xf000Ā\x0001\x0001 is\xfffehis name?\xf000븁\x0000
-This young man is Cheren.\xf000븁\x0000\xfffeHe can be a little difficult, but\xfffehe's a very honest person.\xf000븁\x0000
-This young woman is Bianca.\xf000븁\x0000\xfffeShe's a little flighty,\xfffebut she works very hard.\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIt's important that you\xfffeget going and pick up your\xf000븀\x0000\xfffenew Pokémon.\xf000븁\x0000
-That Pokémon will become\xfffeyour partner.\xf000븁\x0000\xfffeAfter that, your journey\xfffewill begin!\xf000븁\x0000\xfffeDuring your journey, you will meet many\xfffePokémon and people with different\xf000븀\x0000\xfffepersonalities and points of view!\xf000븁\x0000\xfffeI really hope you find\xfffewhat is important to you\xf000븀\x0000\xfffein all of these travels...\xf000븁\x0000\xfffeThat's right! Befriend\xfffenew people and Pokémon and\xf000븀\x0000\xfffegrow as a person!\xf000븁\x0000\xfffeThat is the most important goal\xfffefor your journey!\xf000븁\x0000\xfffeLet's go visit the world of Pokémon!\xf000븁\x0000
+\xf000\x0100\x0001\x0001 is\xfffehis name?\xf000\xbe01\x0000
+This young man is Cheren.\xf000\xbe01\x0000\xfffeHe can be a little difficult, but\xfffehe's a very honest person.\xf000\xbe01\x0000
+This young woman is Bianca.\xf000\xbe01\x0000\xfffeShe's a little flighty,\xfffebut she works very hard.\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000!\xf000\xbe01\x0000\xfffeIt's important that you\xfffeget going and pick up your\xf000\xbe00\x0000\xfffenew Pokémon.\xf000\xbe01\x0000
+That Pokémon will become\xfffeyour partner.\xf000\xbe01\x0000\xfffeAfter that, your journey\xfffewill begin!\xf000\xbe01\x0000\xfffeDuring your journey, you will meet many\xfffePokémon and people with different\xf000\xbe00\x0000\xfffepersonalities and\xf000\xbe00\x0000\xfffepoints of view!\xf000\xbe01\x0000\xfffeI really hope you find\xfffewhat is important to you\xf000\xbe00\x0000\xfffein all of these travels...\xf000\xbe01\x0000\xfffeThat's right! Befriend\xfffenew people and Pokémon and\xf000\xbe00\x0000\xfffegrow as a person!\xf000\xbe01\x0000\xfffeThat is the most important goal\xfffefor your journey!\xf000\xbe01\x0000\xfffeLet's go visit the world of Pokémon!\xf000\xbe01\x0000
 Hold on a second...!\xfffeI'm making some preparations here.
-Alright!\xfffeThat'll do 'er!\xf000븁\x0000
+Alright!\xfffeThat'll do 'er!\xf000\xbe01\x0000
 Warning!\xfffeYou have another save file,\xfffeso on the journey you're about to start,\xfffeyou won't be able to save.\xfffeIs that okay?
 Start adventure
 Return to menu

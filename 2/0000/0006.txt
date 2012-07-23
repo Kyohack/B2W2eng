@@ -6,7 +6,7 @@ VIEW
 CONFIRM
 WALK
 BACK
-CANCEL
+QUIT
 SHOW
 DUMMY
 CANCEL
@@ -20,7 +20,7 @@ DESELECT
 ???
 ?????
 /
-\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+\xf000\x0201\x0001\x0000/\xf000\x0201\x0001\x0001
 -
 --
 ---
@@ -28,99 +28,99 @@ DESELECT
 ♀
 Lv.
 No.
-＋
++
 →
-ID No.
+IDNo.
 
 Cursor
 Go back!
 What now?
-Give
-\xf000Ȃ\x0001\x0000
+GIVE
+\xf000\x0202\x0001\x0000
 x
 DRINK
-\xf000ȃ\x0001\x0000
+\xf000\x0203\x0001\x0000
 CLOSE
-\xf000ĉ\x0001\x0000 is selected.
+\xf000\x0109\x0001\x0000 is selected.
 You cannot write\xfffemail here！
 There's no Pokémon!
-Move \xf000ĉ\x0001\x0000.
-The \xf000ĉ\x0001\x0000 can't be held.
-You can't give them\xfffe\xf000ĉ\x0001\x0000 here!
-Store how many\xfffe\xf000ĉ\x0001\x0000?
-You stored\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Move \xf000\x0109\x0001\x0000.
+The \xf000\x0109\x0001\x0000 can't be held.
+The \xf000\x0109\x0001\x0000 can't be given here.
+Store how many\xfffe\xf000\x0109\x0001\x0000?
+You stored\xfffe\xf000\x0201\x0001\x0001 \xf000\x0109\x0001\x0000.
 You can't store any more!
-This is an important item\xfffeso you can't throw it away！
-Throw away how many\xfffe\xf000ĉ\x0001\x0000?
-Threw away \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
-Is it OK to throw away\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
-Juniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and\xf000븀\x0000\xfffeplace for everything! But not now.
-You can't dismount your Bike here.
-Juniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and\xf000븀\x0000\xfffeplace for everything! But not now.
-Your Coins: \xf000Ȅ\x0001\x0000
+This is an important item\xfffeso you can't throw it away!
+Throw away how many\xfffe\xf000\x0109\x0001\x0000(s)?
+Threw away \xf000\x0109\x0001\x0000 \xf000\x0202\x0001\x0001(s).
+Is it OK to throw away\xfffe\xf000\x0109\x0001\x0000 \xf000\x0202\x0001\x0001(s)?
+Juniper's words echoed...\xfffe\xf000\x0100\x0001\x0000! There's a time and\xf000\xbe00\x0000\xfffeplace for everything! But not now.
+You can't dismount your bike here.
+Juniper's words echoed...\xfffe\xf000\x0100\x0001\x0000! There's a time and\xf000\xbe00\x0000\xfffeplace for everything! But not now.
+Your Coins: \xf000\x0204\x0001\x0000
 Booted up a TM.
 Booted up an HM.
-It contained\xfffe\xf000ć\x0001\x0000.\xf000븁\x0000\xfffeTeach \xf000ć\x0001\x0000\xfffeto a Pokémon?
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
+It contained \xf000\x0107\x0001\x0000.\xf000\xbe01\x0000\xfffeTeach \xf000\x0107\x0001\x0000\xfffeto a Pokémon?
+\xf000\x0100\x0001\x0000 used the\xfffe\xf000\x0109\x0001\x0001.
 Since a Repel's effects still linger,\xfffeyou can't use this now.
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be lured!
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be repelled!
+\xf000\x0100\x0001\x0000 used the\xfffe\xf000\x0109\x0001\x0001.\xf000\xbe01\x0000Wild Pokémon will be lured.
+\xf000\x0100\x0001\x0000 used the\xfffe\xf000\x0109\x0001\x0001.\xf000\xbe01\x0000Wild Pokémon will be repelled.
 The box is full!
-Powders: \xf000ȃ\x0001\x0000
-\xf000봂\x0000No. \xf000ȁ\x0001\x0000 \xf000ć\x0001\x0001
-No. \xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
-\xf000봂\x0000Hidden \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+Powders: \xf000\x0203\x0001\x0000
+\xf000\xbd02\x0000No. \xf000\x0201\x0001\x0000 \xf000\x0107\x0001\x0001
+No. \xf000\x0202\x0001\x0000\xf000\x0107\x0001\x0001
+\xf000\xbd02\x0000Hidden \xf000\x0201\x0001\x0000　\xf000\x0107\x0001\x0001
 Berry Powder
 Played the Poké Flute!\xfffeWow! That sounds great!
 Played the Poké Flute!
 The Pokémon heard the\xfffeflute and woke up.
 MOVE
-\xf000ĉ\x0001\x0000? Oh, no.\xfffeI can't buy that.
-\xf000ĉ\x0001\x0000? \xfffeHow many will you sell?
-I can pay $\xf000Ȇ\x0001\x0000.\xfffeWould that be OK?
-Turned over the \xf000ĉ\x0001\x0000\xfffeand received $\xf000Ȇ\x0001\x0001.
+\xf000\x0109\x0001\x0000? Oh, no.\xfffeI can't buy that.
+\xf000\x0109\x0001\x0000? \xfffeHow many will you sell?
+I can pay $\xf000\x0206\x0001\x0000.\xfffeWould that be OK?
+Turned over the \xf000\x0109\x0001\x0000\xfffeand recieved $\xf000\x0206\x0001\x0001.
 MONEY
-$\xf000Ȇ\x0001\x0000
-x\xf000ȁ\x0001\x0000
-+$\xf000Ȇ\x0001\x0000
+$\xf000\x0206\x0001\x0000
+x\xf000\x0201\x0001\x0000
++$\xf000\x0206\x0001\x0000
 YES
 NO
 SELL
-x\xf000Ȃ\x0001\x0000
+x\xf000\x0202\x0001\x0000
 Withdraw
 PP
 POWER
 ACCURACY
 CATEGORY
-\xf000ȁ\x0001\x0000
-\xf000Ȃ\x0001\x0000
-Seals: \xf000ȃ\x0001\x0000
-Accessories: \xf000Ȃ\x0001\x0000\xfffeBackdrops: \xf000ȁ\x0001\x0001
+\xf000\x0201\x0001\x0000
+\xf000\x0202\x0001\x0000
+Seals: \xf000\x0203\x0001\x0000
+Accessories: \xf000\x0202\x0001\x0000\xfffeBackdrops: \xf000\x0201\x0001\x0001
 CLOSE BAG
 BURY
 OPEN
-Saved Battle Points:\xfffe\xf000ȃ\x0001\x0000 BP
+Saved Battle Points:\xfffe\xf000\x0203\x0001\x0000 BP
 TYPE
 A Key Item in the Bag can be assigned\xfffeto this button for instant use.
 You can only register up to two items\xfffeto buttons!
 Turned on the power for\xfffeGB Sounds!
 Turned off the power for\xfffeGB Sounds!
-Can't use the \xf000ĉ\x0001\x0000.
+Can't use the \xf000\x0109\x0001\x0000.
 Peeked into treasure bag!
-Took out \xf000ĉ\x0001\x0000!
-Put away \xf000ĉ\x0001\x0000\xfffe in \xf000ĉ\x0001\x0001.
+Took out \xf000\x0109\x0001\x0000!
+Put away \xf000\x0109\x0001\x0000\xfffe in \xf000\x0109\x0001\x0001.
 You took out everything!
 There was nothing inside...
 However, you could not\xfffetake it out...
-Battery power low!\xfffePlease wait \xf000븀\x0000\xf000ȁ\x0001\x0000 steps until\xfffeit is charged!
+Battery power low!\xfffePlease wait \xf000\xbe00\x0000\xf000\x0201\x0001\x0000 steps until\xfffeit is charged!
 The grass lands\xfffewere quiet...
 Poffins:
-\xf000Ȃ\x0001\x0000/100
+\xf000\x0202\x0001\x0000/100
 Please pick a powder\xfffeto cook with!
-Can’t be used when you have someone\xfffewith you!
-You can’t be doing that now!
-Item Pocket\xfffeFor items that will be\xfffeuseful during your adventure.
-Medicine Pocket\xfffeFor items to regain your Pokémon’s\xfffeHP and PP.
+Can't be used when you have someone\xfffewith you!
+You can't be doing that now!
+Item Pocket\xfffeFor items that will be useful during your\xfffeadventure.
+Medicine Pocket\xfffeFor items to regain your Pokémon's\xfffeHP and PP.
 Poké Ball Pocket\xfffeFor all different types of Poké Balls.
 TMs and HMs Pocket\xfffeFor all different types of TMs and HMs.
 Berry Pocket\xfffeFor sorting and storing different\xfffeBerries.
@@ -128,16 +128,16 @@ Mail Pocket\xfffeFor sorting and storing vibrant\xfffestationery.
 Battle Items Pocket\xfffeFor items that are useful during battle.
 Key Items Pocket\xfffeFor items that are indispensable for\xfffeyour adventure.
 Stop
-\xf000ĉ\x0001\x0000
-x\xf000Ȃ\x0001\x0000
+\xf000\x0109\x0001\x0000
+x\xf000\x0202\x0001\x0000
 YES
 NO
-\xf000봂\x0000\xf000ĉ\x0001\x0000
+\xf000\xbd02\x0000\xf000\x0109\x0001\x0000
 It's empty.
-You used a Dark Stone\xfffebut nothing happened...
-You used a Light Stone\xfffebut nothing happened...
+You used a Dark Stone,\xfffebut nothing happened...
+You used a Light Stone,\xfffebut nothing happened...
 Items have been sorted!
-\xf000Ē\x0001\x0000
+\xf000\x0112\x0001\x0000
 Your items have been\xfffeorganized by type!
 Your items have been\xfffeorganized by name!
 Your items have been\xfffeorganized in descending order.
@@ -146,16 +146,16 @@ ALL
 MOVE TO STORAGE
 MOVE BACK
 Please select what\xfffeyou are looking for!
-Put the found \xf000Ē\x0001\x0000 into the \xfffe\xf000Ȃ\x0001\x0001 Case!
-\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 has been moved!
-\xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 was returned!
+Put the found \xf000\x0112\x0001\x0000 into the \xfffe\xf000\x0202\x0001\x0001 Case!
+\xf000\x0109\x0001\x0001 has been moved to \xfffe\xf000\x0112\x0001\x0000 Case!
+\xf000\x0109\x0001\x0001 was returned to the \xfffe\xf000\x0112\x0001\x0000 Case!
 How do you want to organize?
-By Type
-By Name
-Most to least
-Least to most
-Numerical order
-\xfffe\xf000Ȃ\x0001\x0001 belongings found!
+Type
+Name
+Descending
+Ascending
+Numerical
+\xfffe\xf000\x0202\x0001\x0001 items found!
 Your items have been\xfffe organized in numerical order.
 Not found
-Put away
+Close

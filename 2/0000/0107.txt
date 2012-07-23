@@ -10,15 +10,15 @@ Your Game Sync ID has been issued.\xfffe\xfffeYou can check your Game Sync ID\xf
 Use a computer to access the\xfffePokémon Global Link website\xfffeand enter the Game Sync ID above\xfffeto set up Game Sync.\xfffe\xfffehttp://www.pokemon-gl.com
 Game Sync ID
 The Game Sync ID\xfffehas been saved.
-An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13201
-An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13202
-A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13203
-A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13204
-An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13205
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13201
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13202
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13203
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13204
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13205
 This service has been discontinued.\xfffe\xfffeError Code: 13206
-A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13207
-An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13208
-A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13209
-An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13210
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13207
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13208
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13209
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13210
 The server is experiencing high\xfffetraffic volumes.\xfffeUnable to connect.\xfffePlease wait a little while and try again.\xfffe\xfffeError Code: 13211
 The server is undergoing maintenance.\xfffe\xfffeThe details can be reviewed at the\xfffePokémon Global Link website.\xfffe\xfffehttp://www.pokemon-gl.com\xfffe\xfffeError code: 13212

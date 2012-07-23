@@ -1,8 +1,8 @@
-Circumstances seem bad... \xf000Ȅ\x0001\x0009
+Circumstances seem bad... \xf000\x0204\x0001\x0009
 A communication error\xfffehas occurred.\xfffe\xfffeIf you are in the Union Room,\xfffeenter the Union Room again.\xfffeOtherwise,\xfffeyou will be returned\xfffeto your last save.\xfffePlease press A.
-An error has occurred\xfffeduring communications. (\xf000Ȅ\x0001\x0000)\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the\xfffeSupport Center.
+An error has occurred\xfffeduring communications. (\xf000\x0204\x0001\x0000)\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the Support Center.
 A communication error\xfffehas occurred.\xfffe\xfffeReturning to the title screen.\xfffePlease press A.
 The GTS is currently busy.\xfffePlease wait a while,\xfffethen try again.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffePlease press A.
-An error has occurred\xfffeduring communications.\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the\xfffeSupport Center.
+An error has occurred\xfffeduring communications.\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the Support Center.
 A communication error\xfffehas occurred.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffeYou will be returned\xfffeto your last save.\xfffePlease press A.
 A communication error\xfffehas occurred.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffeReturning to the title screen.\xfffePlease press A.

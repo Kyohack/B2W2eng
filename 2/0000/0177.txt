@@ -15,8 +15,8 @@ Do you want to abort?
 こうかんする　あいてに\xfffeせきがいせんを　むけてください
 POKÉMON TRADES
 IN PARTY
-Trade \xf000Ă\x0001\x0000 in return for\xfffe\xf000Ă\x0001\x0001?
-Lv. \xf000Ȃ\x0001\x0000
+Trade \xf000\x0102\x0001\x0000 in return for\xfffe\xf000\x0102\x0001\x0001?
+Lv. \xf000\x0202\x0001\x0000
 Close the link?
 Traded.
 Please wait a moment.
@@ -25,9 +25,9 @@ Would you like to save the game?
 YES
 NO
 Saving...\xfffeDon't turn off the power.
-No. \xf000Ȃ\x0001\x0001
-\xf000ā\x0001\x0000
-\xf000Ă\x0001\x0000
+No.\xf000\x0202\x0001\x0001
+\xf000\x0101\x0001\x0000
+\xf000\x0102\x0001\x0000
 HP
 Attack
 Defense
@@ -37,64 +37,64 @@ Speed
 Nature
 Ability
 Item
-\xf000Ȃ\x0001\x0000/\xf000Ȃ\x0001\x0001
-\xf000Ȃ\x0001\x0000
-\xf000Ĉ\x0001\x0000
-\xf000Ć\x0001\x0000
-\xf000ĉ\x0001\x0000
+\xf000\x0202\x0001\x0000/\xf000\x0202\x0001\x0001
+\xf000\x0202\x0001\x0000
+\xf000\x0108\x0001\x0000
+\xf000\x0106\x0001\x0000
+\xf000\x0109\x0001\x0000
 MOVES LEARNED
-\xf000ć\x0001\x0000
+\xf000\x0107\x0001\x0000
 ♂
 ♀
-\xf000Ā\x0001\x0000 sent over\xfffe\xf000Ă\x0001\x0001.
-Take good care of \xf000Ă\x0001\x0001!
+\xf000\x0100\x0001\x0000 sent over\xfffe\xf000\x0102\x0001\x0001.
+Take good care of \xf000\x0102\x0001\x0001!
 Stopping communications...\xfffePlease wait.
 Select the first letter in the name of\xfffethe Pokémon you want to find.
 No Pokémon with the selected\xfffeletter was found.
-\xf000봂\x0000ア
-\xf000봂\x0000イ
-\xf000봂\x0000ウ
-\xf000봂\x0000エ
-\xf000봂\x0000オ
-\xf000봂\x0000カ
-\xf000봂\x0000キ
-\xf000봂\x0000ク
-\xf000봂\x0000ケ
-\xf000봂\x0000コ
-\xf000봂\x0000サ
-\xf000봂\x0000シ
-\xf000봂\x0000ス
-\xf000봂\x0000セ
-\xf000봂\x0000ソ
-\xf000봂\x0000タ
-\xf000봂\x0000チ
-\xf000봂\x0000ツ
-\xf000봂\x0000テ
-\xf000봂\x0000ト
-\xf000봂\x0000ナ
-\xf000봂\x0000ニ
-\xf000봂\x0000ヌ
-\xf000봂\x0000ネ
-\xf000봂\x0000ノ
-\xf000봂\x0000ハ
-\xf000봂\x0000ヒ
-\xf000봂\x0000フ
-\xf000봂\x0000へ
-\xf000봂\x0000ホ
-\xf000봂\x0000マ
-\xf000봂\x0000ミ
-\xf000봂\x0000ム
-\xf000봂\x0000メ
-\xf000봂\x0000モ
-\xf000봂\x0000ヤ
-\xf000봂\x0000ユ
-\xf000봂\x0000ヨ
-\xf000봂\x0000ラ
-\xf000봂\x0000リ
-\xf000봂\x0000ル
-\xf000봂\x0000レ
-\xf000봂\x0000ロ
-\xf000봂\x0000ワ
+\xf000\xbd02\x0000ア
+\xf000\xbd02\x0000イ
+\xf000\xbd02\x0000ウ
+\xf000\xbd02\x0000エ
+\xf000\xbd02\x0000オ
+\xf000\xbd02\x0000カ
+\xf000\xbd02\x0000キ
+\xf000\xbd02\x0000ク
+\xf000\xbd02\x0000ケ
+\xf000\xbd02\x0000コ
+\xf000\xbd02\x0000サ
+\xf000\xbd02\x0000シ
+\xf000\xbd02\x0000ス
+\xf000\xbd02\x0000セ
+\xf000\xbd02\x0000ソ
+\xf000\xbd02\x0000タ
+\xf000\xbd02\x0000チ
+\xf000\xbd02\x0000ツ
+\xf000\xbd02\x0000テ
+\xf000\xbd02\x0000ト
+\xf000\xbd02\x0000ナ
+\xf000\xbd02\x0000ニ
+\xf000\xbd02\x0000ヌ
+\xf000\xbd02\x0000ネ
+\xf000\xbd02\x0000ノ
+\xf000\xbd02\x0000ハ
+\xf000\xbd02\x0000ヒ
+\xf000\xbd02\x0000フ
+\xf000\xbd02\x0000へ
+\xf000\xbd02\x0000ホ
+\xf000\xbd02\x0000マ
+\xf000\xbd02\x0000ミ
+\xf000\xbd02\x0000ム
+\xf000\xbd02\x0000メ
+\xf000\xbd02\x0000モ
+\xf000\xbd02\x0000ヤ
+\xf000\xbd02\x0000ユ
+\xf000\xbd02\x0000ヨ
+\xf000\xbd02\x0000ラ
+\xf000\xbd02\x0000リ
+\xf000\xbd02\x0000ル
+\xf000\xbd02\x0000レ
+\xf000\xbd02\x0000ロ
+\xf000\xbd02\x0000ワ
 The trade has been canceled.
 You need that Pokémon to\xfffeget through your adventure!
 There is a Pokémon that cannot be\xfffetraded in the other Trainer's party.
@@ -111,12 +111,12 @@ The Mail held by the Pokémon\xfffewas sent to your PC.
 メールを　すてました
 とった　メールを\xfffeパソコンに　てんそう　しました
 The other Trainer cannot\xfffereceive Mail. The trade will be canceled.
-\xf000ā\x0001\x0000
+\xf000\x0101\x0001\x0000
 Please choose your Pokémon to offer.\xfffeYou can select up to three Pokémon.
-\xf000봃\x0001\x0000Selecting...
-\xf000봃\x0001\x0000Selected
-\xf000봃\x0001\x0000Waiting...
-The Pokémon that\xfffe\xf000Ā\x0001\x0000 wants
+\xf000\xbd03\x0001\x0000Selecting...
+\xf000\xbd03\x0001\x0000Selected
+\xf000\xbd03\x0001\x0000Waiting...
+The Pokémon that\xfffe\xf000\x0100\x0001\x0000 wants
 Any Pokémon
 Cool Pokémon
 Cute Pokémon
@@ -127,11 +127,11 @@ Lv. 1 through 49
 Lv. 50
 Lv. 51 through 100
 Confirm
-\xf000Ā\x0001\x0000
-Sending \xf000Ă\x0001\x0000 to \xf000Ā\x0001\x0001.\xfffeGood-bye, \xf000Ă\x0001\x0000!
-Returning \xf000Ă\x0001\x0000 to \xf000Ā\x0001\x0001.\xfffeGood-bye, \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0001 came back\xfffefrom \xf000Ā\x0001\x0000!
-Welcome back, \xf000Ă\x0001\x0001!
+\xf000\x0100\x0001\x0000
+Sending \xf000\x0102\x0001\x0000 to \xf000\x0100\x0001\x0001.\xfffeGood-bye, \xf000\x0102\x0001\x0000!
+Returning \xf000\x0102\x0001\x0000 to \xf000\x0100\x0001\x0001.\xfffeGood-bye, \xf000\x0102\x0001\x0000!
+\xf000\x0102\x0001\x0001 came back\xfffefrom \xf000\x0100\x0001\x0000!
+Welcome back, \xf000\x0102\x0001\x0001!
 TRADE WANTED
 Please choose your Pokémon to offer.\xfffeYou can select up to three Pokémon.
 Are you OK with your selection?
@@ -145,17 +145,17 @@ You cannot choose that Pokémon.
 There is one or more party Pokémon\xfffethat cannot be traded. Select again.
 The other Trainer has a Pokémon\xfffethat cannot be traded. Select again.
 Please select a Pokémon out of\xfffethe Pokémon offered for trade.
-Is it OK to trade \xf000Ă\x0001\x0000\xfffefor your \xf000Ă\x0001\x0001?
+Is it OK to trade \xf000\x0102\x0001\x0000\xfffefor your \xf000\x0102\x0001\x0001?
 The other Trainer canceled\xfffethe trade. Please select again.
 Will you reselect the Pokémon you want\xfffeto offer?
 The trade was canceled.\xfffePlease select again.
 The trade was canceled.\xfffePlease reselect one Pokémon again.
 The other Trainer canceled the trade.\xfffePlease select a Pokémon again.
-\xf000Ă\x0001\x0000 will be offered.
-\xf000Ă\x0001\x0001 was taken out.
+\xf000\x0102\x0001\x0000 will be offered.
+\xf000\x0102\x0001\x0001 was taken out.
 LOG OUT
-\xf000Ă\x0001\x0000 will be\xfffesent to \xf000Ā\x0001\x0001.
-\xf000Ā\x0001\x0000 sent over\xfffe\xf000Ă\x0001\x0001.
+\xf000\x0102\x0001\x0000 will be\xfffesent to \xf000\x0100\x0001\x0001.
+\xf000\x0100\x0001\x0000 sent over\xfffe\xf000\x0102\x0001\x0001.
 Communication failed.
 Communication error.\xfffe(Error Code: 13280)
 Communication error.\xfffe(Error Code: 13281)

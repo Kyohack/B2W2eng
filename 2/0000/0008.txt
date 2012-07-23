@@ -6,29 +6,29 @@ QUIT
 MY VIDEO
 OTHER VIDEOS
 DELETE VIDEOS
-\xf000봂\x0000\xf000Ā\x0001\x0000'S VIDEO
+\xf000\xbd02\x0000\xf000\x0100\x0001\x0000'S VIDEO
 EMPTY
-\xf000ȃ\x0001\x0000
+\xf000\x0203\x0001\x0000
 Battle
-\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
-\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002★
-\xf000봂\x0000\xf000Ā\x0001\x0000'S PROFILE
+\xf000\xbd02\x0000Video No: \xf000\x0201\x0001\x0000-\xf000\x0204\x0001\x0001-\xf000\x0204\x0001\x0002
+\xf000\xbd02\x0000Video No: \xf000\x0201\x0001\x0000-\xf000\x0204\x0001\x0001-\xf000\x0204\x0001\x0002 ★
+\xf000\xbd02\x0000\xf000\x0100\x0001\x0000'S PROFILE
 Mute
-\xf000봂\x0000Born in \xf000ƀ\x0001\x0000
-\xf000봂\x0000Location
-\xf000봂\x0000Trainer's quote
+\xf000\xbd02\x0000Born in \xf000\x0180\x0001\x0000
+\xf000\xbd02\x0000Location
+\xf000\xbd02\x0000Trainer's quote
 DATA
 PROFILE
 
 UNREGISTERED
-\xf000Ĥ\x0001\x0000
-\xf000ĥ\x0001\x0000
-\xf000Ĝ\x0001\x0000 \xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000'S VIDEO
+\xf000\x0124\x0001\x0000
+\xf000\x0125\x0001\x0000
+\xf000\x011c\x0001\x0000 \xf000\x011c\x0001\x0001
+\xf000\x0100\x0001\x0000'S VIDEO
 DELETE MY VIDEO
 DELETE OTHER VIDEOS
 EMPTY
-Delete \xf000Ā\x0001\x0000's Records
+Delete \xf000\x0100\x0001\x0000's Records
 SEARCH BY RANKING
 SEND DATA
 NEWEST 30
@@ -43,8 +43,8 @@ SEND PHOTO
 VIEW PHOTOS
 SEND
 Please choose the Pokémon you want to see.
-\xf000Ā\x0001\x0000 Portraits\xfffe\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
+\xf000\x0100\x0001\x0000 Portraits\xfffe\xf000\x011c\x0001\x0001
+\xf000\x0100\x0001\x0000\xfffe\xf000\x011c\x0001\x0001
 PHOTO
 SEND BOX DATA
 VIEW BOX DATA
@@ -56,16 +56,16 @@ FUN
 SELECT
 BOX
 VIEW PHOTO
-ABC
-DEF
-GHI
-JKL
-MNO
-PQR
-STU
-VWX
-YZ
-
+ア
+カ
+サ
+タ
+ナ
+ハ
+マ
+ヤ
+ラ
+ワ
 THIS WEEK’S RANKINGS
 LAST WEEK’S RANKINGS
 SWITCH RANKINGS
@@ -73,12 +73,12 @@ SWITCH TEAMS
 TEAM: TRAINER TYPE
 TEAM: BIRTH MONTH
 TEAM: FAVORITE POKÉMON
-\xf000Ā\x0001\x0001:\xf000Ď\x0001\x0000
-\xf000Ā\x0001\x0001:\xf000ȁ\x0001\x0000 Birth Month
-\xf000Ā\x0001\x0001:\xf000ā\x0001\x0000
-\xf000ȁ\x0001\x0000 \xf000Ď\x0001\x0001
-\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001 Month
-\xf000ȁ\x0001\x0000:\xf000ā\x0001\x0001
+\xf000\x0100\x0001\x0001:\xf000\x010e\x0001\x0000
+\xf000\x0100\x0001\x0001:\xf000\x0201\x0001\x0000 Birth Month
+\xf000\x0100\x0001\x0001:\xf000\x0101\x0001\x0000
+\xf000\x0201\x0001\x0000 \xf000\x010e\x0001\x0001
+\xf000\x0201\x0001\x0000:\xf000\x0201\x0001\x0001 Month
+\xf000\x0201\x0001\x0000:\xf000\x0101\x0001\x0001
 LAST WEEK’S RESULTS!
 COLOSSEUM
 BATTLE FRONTIER
@@ -90,9 +90,9 @@ TOP-RANKED BATTLE VIDEOS\xfffeLINK BATTLE
 TOP-RANKED BATTLE VIDEOS\xfffeBATTLE SUBWAY
 LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
 
-Where would you like to save\xfffe\xf000Ā\x0001\x0000's Battle Video?
+Where would you like to save\xfffe\xf000\x0100\x0001\x0000's Battle Video?
 Overwrite
-Is it OK to delete\xfffe\xf000Ā\x0001\x0000's Battle Video?
+Is it OK to delete\xfffe\xf000\x0100\x0001\x0000's Battle Video?
 VIEW BATTLE VIDEOS
 SEND BATTLE VIDEO
 NEWEST 30
@@ -111,8 +111,8 @@ Loading Battle Video...
 There is no matching Battle Video...
 Sending the Battle Video...
 The Battle Video has been sent!
-\xf000봂\x0000VIEW PROFILE
-\xf000봂\x0000CLOSE PROFILE
+\xf000\xbd02\x0000VIEW PROFILE
+\xf000\xbd02\x0000CLOSE PROFILE
 LATEST 30 BATTLE VIDEOS
 Please set the search criteria.
 Undefined
@@ -120,45 +120,45 @@ LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
 The same Battle Video can't be sent again.\xfffeTouch the Touch Screen to continue.
 You have not registered your location.
 There is no Battle Video to send.
-\xf000ȁ\x0001\x0000
+\xf000\x0201\x0001\x0000
 Search by Pokémon
 BATTLE SUBWAY
-Location:\xfffe\xf000Ĥ\x0001\x0000
-\xf000봂\x0000SINGLE TRAIN
-\xf000봂\x0000DOUBLE TRAIN
-\xf000봂\x0000MULTI TRAIN
-\xf000봂\x0000Wi-Fi TRAIN
-\xf000봂\x0000BATTLE SUBWAY
-\xf000봂\x0000SUPER SINGLE TRAIN
-\xf000봂\x0000SUPER DOUBLE TRAIN
-\xf000봂\x0000SUPER MULTI TRAIN
+Location:\xfffe\xf000\x0124\x0001\x0000
+\xf000\xbd02\x0000SINGLE TRAIN
+\xf000\xbd02\x0000DOUBLE TRAIN
+\xf000\xbd02\x0000MULTI TRAIN
+\xf000\xbd02\x0000Wi-Fi TRAIN
+\xf000\xbd02\x0000BATTLE SUBWAY
+\xf000\xbd02\x0000SUPER SINGLE TRAIN
+\xf000\xbd02\x0000SUPER DOUBLE TRAIN
+\xf000\xbd02\x0000SUPER MULTI TRAIN
 Please select the Record\xfffeyou want to view.
 PREVIOUS:
 RECORD:
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000 Wins
+\xf000\xbd03\x0001\x0000\xf000\x0203\x0001\x0000
+\xf000\xbd03\x0001\x0000\xf000\x0203\x0001\x0000
+\xf000\xbd03\x0001\x0000 Wins
 Multi with Trainer
 Multi with friend
 RANK
 Current Record
-\xf000봂\x0000Wi-Fi Train Record
+\xf000\xbd02\x0000Wi-Fi Train Record
 CURRENT:
-\xf000봂\x0000\xf000Ā\x0001\x0000'S RATING
-\xf000봂\x0000RATING MODE RECORD
-\xf000봂\x0000FREE MODE RECORD
-\xf000봂\x0000Win
-\xf000봂\x0000Lose
-\xf000봃\x0001\x0000Single:
-\xf000봃\x0001\x0000Double:
-\xf000봃\x0001\x0000Triple:
-\xf000봃\x0001\x0000Rotation:
-\xf000봃\x0001\x0000Launcher:
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000Rating
-\xf000봂\x0000YES
-\xf000봂\x0000NO
+\xf000\xbd02\x0000\xf000\x0100\x0001\x0000'S RATING
+\xf000\xbd02\x0000RATING MODE RECORD
+\xf000\xbd02\x0000FREE MODE RECORD
+\xf000\xbd02\x0000Win
+\xf000\xbd02\x0000Lose
+\xf000\xbd03\x0001\x0000Single:
+\xf000\xbd03\x0001\x0000Double:
+\xf000\xbd03\x0001\x0000Triple:
+\xf000\xbd03\x0001\x0000Rotation:
+\xf000\xbd03\x0001\x0000Launcher:
+\xf000\xbd03\x0001\x0000\xf000\x0203\x0001\x0000
+\xf000\xbd03\x0001\x0000\xf000\x0204\x0001\x0000
+\xf000\xbd03\x0001\x0000Rating
+\xf000\xbd02\x0000YES
+\xf000\xbd02\x0000NO
 YES
 NO
 Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
@@ -226,7 +226,7 @@ Competition, Rotation\xfffeLauncher On
 21: Battle Arcade\xfffeSingle
 22: Battle Arcade\xfffeDouble
 23: Battle Arcade\xfffeMulti
-\xf000봂\x0000TAP HERE!
+\xf000\xbd02\x0000TAP HERE!
 Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
 
 Authentication error.\xfffeUnable to connect.
@@ -257,7 +257,7 @@ An error occurred.\xfffeTouch the Touch Screen to continue.
 User authentication error.\xfffePlease wait a while before reconnecting.
 Failed to receive ranking data.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem with your\xffferanking record.
-here appears to be a problem with the\xfffeProfile data.
+There appears to be a problem\xfffewith the Profile data.
 An error occurred.\xfffeTouch the Touch Screen to continue.
 
 Authentication error.\xfffeUnable to connect.
@@ -319,7 +319,7 @@ Saving...\xfffeDon't turn off the power.
 Receiving ranking data...
 Sending save data...
 Save completed.\xfffeTouch the Touch Screen to continue.
-Is it OK to delete\xfffe\xf000Ā\x0001\x0000's Battle Video?
+Is it OK to delete\xfffe\xf000\x0100\x0001\x0000's Battle Video?
 Is it really OK to delete this data?
 Deleting data...\xfffeSaving... Don't turn off the power.
 The data was deleted.\xfffeTouch the Touch Screen to continue.
@@ -332,7 +332,7 @@ The same data can't be sent again.\xfffeTouch the Touch Screen to continue.
 Receiving Battle Videos...
 No matching data was found...\xfffeTouch the Touch Screen to continue.
 No matching Musical Photo was found...\xfffeTouch the Touch Screen to continue.
-Your Battle Video was sent.\xfffeVideo no.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+Your Battle Video was sent.\xfffeVideo no.: \xf000\x0201\x0001\x0000-\xf000\x0204\x0001\x0001-\xf000\x0204\x0001\x0002
 The game will be saved before\xfffeyou can view Battle Videos.
 Deleting data... Saving a lot of\xfffedata... Don't turn off the power.
 Saving a lot of data...\xfffeDon't turn off the power.
@@ -369,4 +369,4 @@ Idol
 Socialite
 Cowgirl
 Lady
-Goldver.
+Black.
