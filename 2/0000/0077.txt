@@ -1,14 +1,14 @@
 Loading...\xfffePlease wait a moment.
-The game inserted is not compatible.\xfffeTurn off the power, insert a\xfffecompatible Game Card, and try again.\xf000븁\x0000
+The game inserted is not compatible.\xfffeTurn off the power, insert a\xfffecompatible Game Card, and try again.\xf000\xbe01\x0000
 Saving...\xfffeDon't turn off the power.
-The game has been saved.\xf000븂\x0001<
+The game has been saved.\xf000\xbe02\x0001\x003c
 The Relocator will close.\xfffePlease turn off the power.
-The saved data could not be accessed.\xfffeThe Relocator will close.\xf000븁\x0000
-Unable to connect to the\xfffeother DS system.\xf000븁\x0000
-Save failed...\xfffeThe Relocator will close.\xf000븁\x0000
+The saved data could not be accessed.\xfffeThe Relocator will close.\xf000\xbe01\x0000
+Unable to connect to the\xfffeother DS system.\xf000\xbe01\x0000
+Save failed...\xfffeThe Relocator will close.\xf000\xbe01\x0000
 The Relocator is activated.\xfffeSearching for Pokémon...\xfffe\xfffePlease wait a moment.
 The save file was corrupted\xfffeor is missing.\xfffeThe save file could not\xfffebe read.
-The game inserted is not compatible.\xfffeTurn off the power, insert a\xfffecompatible Game Card, and try again.\xf000븁\x0000
+The game inserted is not compatible.\xfffeTurn off the power, insert a\xfffecompatible Game Card, and try again.\xf000\xbe01\x0000
 YES
 NO
-Debug ROM\xfffeDP Y\xfffePT X\xfffeGS A
+DebugROM\xfffeDP Y\xfffePT X\xfffeGS A

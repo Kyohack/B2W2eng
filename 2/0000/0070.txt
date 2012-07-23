@@ -1,5 +1,5 @@
 MAILBOX
-\xf000Ȁ\x0001\x0000
+\xf000\x0200\x0001\x0000
 /
 CANCEL
 CLOSE
@@ -7,7 +7,7 @@ READ
 ERASE
 GIVE
 CANCEL
-What would you like to do with\xfffe\xf000Ā\x0001\x0000's Mail?
+What would you like to do with\xfffe\xf000\x0100\x0001\x0000's Mail?
 The message will be lost.\xfffeIs that OK?
 The message was erased.
 Let a Pokémon hold this Mail?

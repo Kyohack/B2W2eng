@@ -3,11 +3,11 @@ TEXT SPEED
 BATTLE SCENE
 BATTLE STYLE
 SOUND
-NAMES
-Wi-Fi
+LETTER MODE
+WIRELESS
 SAVE BEFORE IR
 CONFIRM
-QUIT
+CLOSE
 SLOW
 MID
 FAST
@@ -27,11 +27,11 @@ You can choose from three different\xfffetext-scrolling speeds.
 You can choose whether to view\xfffemove animations.
 You can choose to switch Pokémon\xfffewhen an opponent's Pokémon faints.
 You can choose the way the game sounds.
-You can change the language\xfffeof Pokémon names.
-You can turn wireless communication\xfffeon or off.
+Choose to display text\xfffein English or Japanese.
+Choose to have constant wireless\xfffecommunication on or off.
 You can choose to save the game\xfffebefore C-Gear launches infrared.
-You have saved data already.\xfffeYou cannot change this option.\xf000븁\x0000
+You have saved data already.\xfffeYou cannot change this option.\xf000\xbe01\x0000
 Would you like to make these changes?
 YES
 NO
-Dummy Message.
+Dummy message

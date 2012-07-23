@@ -5,7 +5,7 @@ Pink Barrette
 Blue Barrette
 Red Barrette
 Blue Flower
-Crimson Scarf
+Red Scarf
 Red Flower
 Big Barrette
 Headband
@@ -13,7 +13,7 @@ Square Glasses
 Striped Barrette
 Small Barrette
 Decorative Ribbon
-Purse
+Tote Bag
 Necklace
 Gorgeous Flower
 Round Button
@@ -28,9 +28,9 @@ Ladle
 Toy Cake
 Chef's Hat
 Frying Pan
-Bib
+Apron
 Red Parasol
-Germ Mask
+Flu Mask
 Mallet
 Colorful Parasol
 Wrench
@@ -41,11 +41,11 @@ Frilly Apron
 Dressy Tie
 Lace Cap
 Scarlet Cape
-Toy Cutlass
+Toy Katana
 Toy Sword
 Pirate Hat
 Cowboy Hat
-Rigid Shield
+Sturdy Shield
 Black Wings
 Witchy Hat
 White Wings

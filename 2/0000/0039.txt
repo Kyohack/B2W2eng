@@ -1,113 +1,113 @@
-The number of participants
-\xf000봃\x0001\x0000\xf000Ȃ\x0001\x0000にん
-\xf000ļ\x0001\x0001を\xfffeつかいますか？\xfffeひつよう　\xf000Ȃ\x0001\x0002こ／もってる　\xf000Ȃ\x0001\x0003こ
-\xf000Ā\x0001\x0000さんが　はつどうした\xfffe\xf000ļ\x0001\x0001を\xfffeつかいますか？
-とくしゅPass Power はつどう！！\xfffe\xf000ļ\x0001\x0001を\xfffeつかいますか？
-\xf000ļ\x0001\x0001を\xfffeつかいました！
-+You do not have enough Pass Orbs\xfffeto use this Pass Power.\xfffe\xf000Ȃ\x0001\x0002 needed/\xf000Ȃ\x0001\x0003 held
-\xf000ļ\x0001\x0001を\xfffeつかっています\xfffeのこり　\xf000ȁ\x0001\x0005びょう
-\xf000ļ\x0001\x0001を\xfffeつかっています\xfffeのこり　\xf000Ȃ\x0001\x0004ふん\xf000ȁ\x0001\x0005びょう
-Said “\xf000Ĝ\x0001\x0000!"
-フェスミッションを\xfffeリタイア　しますか？
-ほうしゅう　\xf000봃\x0001\x0008\xf000ĉ\x0001\x0003\xf000ȃ\x0001\x0004こ
+Players
+\xf000\xbd03\x0001\x0000\xf000\x0202\x0001\x0000にん
+\xf000\x013c\x0001\x0001を\xfffeつかいますか?\xfffeひつよう \xf000\x0202\x0001\x0002こ/もってる \xf000\x0202\x0001\x0003こ
+\xf000\x0100\x0001\x0000さんが はつどうした\xfffe\xf000\x013c\x0001\x0001を\xfffeつかいますか?
+とくしゅPass Power はつどう!!\xfffe\xf000\x013c\x0001\x0001を\xfffeつかいますか?
+\xf000\x013c\x0001\x0001を\xfffeつかいました!
+You don't have enough Pass Power\xfffeto use Exit Power.\xfffeNeeded: \xf000\x0202\x0001\x0002 / Held: \xf000\x0202\x0001\x0003
+\xf000\x013c\x0001\x0001を\xfffeつかっています\xfffeのこり \xf000\x0201\x0001\x0005びょう
+\xf000\x013c\x0001\x0001を\xfffeつかっています\xfffeのこり \xf000\x0202\x0001\x0004ふん\xf000\x0201\x0001\x0005びょう
+You said\xfffe"\xf000\x011c\x0001\x0000"!
+Retire from\xfffeFes Mission?
+Rewarded \xf000\xbd03\x0001\x0008\xf000\x0109\x0001\x0003\xf000\x0203\x0001\x0004 points.
 SCORE
 Total
-\xf000Ȅ\x0001\x0000
+\xf000\x0204\x0001\x0000
 Remaining Time
-\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+\xf000\x0201\x0001\x0000:\xf000\x0201\x0001\x0001
 Confirm
 YES
 NO
 CONFIRM
 CLOSE
-Doing?
-Was held!
+Healthy?
+Hosted!
 Joined!
-\xf000ą\x0001\x0000 Move
-\xf000ā\x0001\x0000 During the battle!
-\xf000ā\x0001\x0000 was defeated!
-\xf000ā\x0001\x0000 was caught!
-\xf000ā\x0001\x0000 Got away...
-Trainer has challenged you to a battle!
-Defeated trainer!
+\xf000\x0105\x0001\x0000 was moved!
+\xf000\x0101\x0001\x0000 is in battle!
+\xf000\x0101\x0001\x0000 was defeated!
+\xf000\x0101\x0001\x0000 was caught!
+\xf000\x0101\x0001\x0000 escaped
+Battling a Trainer!
+Defeated a Trainer!
 You whited out!
-Used \xf000ĉ\x0001\x0000
-\xf000ĉ\x0001\x0000を　ひろった！
-Used \xf000ć\x0001\x0000
-かいものちゅう……
+Used \xf000\x0109\x0001\x0000
+Picked up \xf000\x0109\x0001\x0000!
+Used \xf000\x0107\x0001\x0000
+Shopping...
 Used Pass Power!
-かんらんしゃに　のった！
+Got on Ferris Wheel!
 You are looking at a billboard
 Received an egg!
-\xf000ā\x0001\x0000 was defeated!
-\xf000ā\x0001\x0000 was caught!
-Found \xf000ĉ\x0001\x0000!
+\xf000\x0101\x0001\x0000 was defeated!
+\xf000\x0101\x0001\x0000 was caught!
+Found \xf000\x0109\x0001\x0000!
 You rang the bell!
-\xf000ā\x0001\x0000 was defeated!
-\xf000ā\x0001\x0000 was caught!
-Found \xf000ĉ\x0001\x0000!
-Found \xf000ĉ\x0001\x0000!
-\xf000ā\x0001\x0000　Has just hatched!
-\xf000ā\x0001\x0000を　つりあげた！
-Found \xf000ā\x0001\x0000!
-まいごを　たすけてあげた！
-\xf000ĉ\x0001\x0000を　わたした
-Have just beaten the elite trainer!
+\xf000\x0101\x0001\x0000 was defeated!
+\xf000\x0101\x0001\x0000 was caught!
+Found \xf000\x0109\x0001\x0000!
+Found \xf000\x0109\x0001\x0000!
+\xf000\x0101\x0001\x0000 hatched from the egg!
+\xf000\x0101\x0001\x0000 was hooked!
+Found \xf000\x0101\x0001\x0000!
+Helped lost child!
+Handed over the \xf000\x0109\x0001\x0000
+Defeated Elite Trainer
 Trade succeeded! 
-\xf000ĉ\x0001\x0000　Bought!
+\xf000\x0109\x0001\x0000 was bought!
 The correct answer to the quiz!
-じゃんけんに　かった！
-\xf000ĉ\x0001\x0000　Received
-Not enough money!
-じゃんけんに　まけた！
-\xf000Ă\x0001\x0000　Fainted
-\xf000Ă\x0001\x0000のＨＰが　すくない！
-\xf000Ă\x0001\x0000のＰＰが　すくない！
-\xf000Ĝ\x0001\x0000
-\xf000Ā\x0001\x0000の\xfffe\xf000Đ\x0001\x0001を\xfffeつかいますか？
+Won at Rock-Paper-Scissors!
+\xf000\x0109\x0001\x0000 was received!
+You don't have enough money!
+Lost at Rock-Paper-Scissors!
+\xf000\x0102\x0001\x0000 fainted
+\xf000\x0102\x0001\x0000's HP is low!
+\xf000\x0102\x0001\x0000's PP is low!
+\xf000\x011c\x0001\x0000
+Use \xf000\x0100\x0001\x0000's\xfffe\xf000\x0110\x0001\x0001?
 
 
-\xf000ą\x0001\x0000と\xfffeはつげん　しました
+\xf000\x0105\x0001\x0000と\xfffeはつげん しました
 Remaining time
-The number of participants
-クリアもくひょう\xf000ȃ\x0001\x0000ひき
+Players
+クリアもくひょう\xf000\x0203\x0001\x0000ひき
 Total score
 ほうしゅう
-\xf000Ȃ\x0001\x0000にん
+\xf000\x0202\x0001\x0000にん
 ひき
-My score
-Ranking
-Top score
+My Score
+Rank
+Top Score
 High Scores
-\xf000ȃ\x0001\x0000ひき
-\xf000Ȃ\x0001\x0000にんちゅう　\xf000Ȃ\x0001\x0001ばんめ
+\xf000\x0203\x0001\x0000ひき
+\xf000\x0202\x0001\x0000にんちゅう \xf000\x0202\x0001\x0001ばんめ
 Remaining time
 Score bonus
 Double score
-\xf000ĉ\x0001\x0000\xf000ȁ\x0001\x0001こ
-+\xf000ȁ\x0001\x0000こ
-\xf000ȃ\x0001\x0000こ
-\xf000ȃ\x0001\x0000かい
-\xf000ȃ\x0001\x0000
-クリアもくひょう\xf000ȃ\x0001\x0000にん
-クリアもくひょう\xf000ȃ\x0001\x0000こ
-クリアもくひょう\xf000ȃ\x0001\x0000かい
-クリアもくひょう\xf000ȃ\x0001\x0000
-\xf000ĉ\x0001\x0000\xf000ȁ\x0001\x0001こ～
-\xf000ȁ\x0001\x0000ふん\xf000ȁ\x0001\x0001びょう
-\xf000ȁ\x0001\x0000ふん
-\xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001ひき
-\xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001にん
-\xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001こ
-\xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001かい
-\xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001
-Mission acomplished!
-Mission acomplished!
-\xf000Ā\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffe\xf000ȁ\x0001\x0002こ　てにいれた！
-ざんねん！　\xf000ĉ\x0001\x0000は\xfffeこれいじょう　もてない！
+\xf000\x0109\x0001\x0000\xf000\x0201\x0001\x0001こ
++\xf000\x0201\x0001\x0000こ
+\xf000\x0203\x0001\x0000こ
+\xf000\x0203\x0001\x0000 games
+\xf000\x0203\x0001\x0000
+クリアもくひょう\xf000\x0203\x0001\x0000にん
+クリアもくひょう\xf000\x0203\x0001\x0000こ
+クリアもくひょう\xf000\x0203\x0001\x0000かい
+クリアもくひょう\xf000\x0203\x0001\x0000
+\xf000\x0109\x0001\x0000\xf000\x0201\x0001\x0001 Orbs
+\xf000\x0201\x0001\x0000ふん\xf000\x0201\x0001\x0001びょう
+\xf000\x0201\x0001\x0000ふん
+\xf000\x0100\x0001\x0000のスコア\xf000\x0203\x0001\x0001ひき
+\xf000\x0100\x0001\x0000のスコア\xf000\x0203\x0001\x0001にん
+\xf000\x0100\x0001\x0000のスコア\xf000\x0203\x0001\x0001こ
+\xf000\x0100\x0001\x0000のスコア\xf000\x0203\x0001\x0001かい
+\xf000\x0100\x0001\x0000のスコア\xf000\x0203\x0001\x0001
+Mission accomplished!
+Mission failed!
+\xf000\x0100\x0001\x0000は \xf000\x0109\x0001\x0001を\xfffe\xf000\x0201\x0001\x0002こ てにいれた!
+ざんねん! \xf000\x0109\x0001\x0000は\xfffeこれいじょう もてない!
 Incidence double score bonus!
-\xf000Ā\x0001\x0000の　おもいが\xfffeハイルツリーと　きょうめいした！\xf000븁\x0000\xfffeハイリンクの\xfffe\xf000Ń\x0001\x0001ＬＶが　\xf000ȁ\x0001\x0002あがった！
-みんなの　おもいが\xfffeハイルツリーと　きょうめいした！\xf000븁\x0000\xfffeハイリンクの\xfffe\xf000Ń\x0001\x0000ＬＶが　\xf000ȁ\x0001\x0001あがった！
+\xf000\x0100\x0001\x0000の おもいが\xfffeハイルツリ-と きょうめいした!\xf000\xbe01\x0000\xfffeハイリンクの\xfffe\xf000\x0143\x0001\x0001LVが \xf000\x0201\x0001\x0002あがった!
+みんなの おもいが\xfffeハイルツリ-と きょうめいした!\xf000\xbe01\x0000\xfffeハイリンクの\xfffe\xf000\x0143\x0001\x0000LVが \xf000\x0201\x0001\x0001あがった!
 White
 Black
 Clear target

@@ -1,62 +1,62 @@
-Mark\xf000ȃ\x0001\x0000
-Mark\xf000ȃ\x0001\x0000 People
-Mark\xf000ȃ\x0001\x0000 Pokémon
-Mark\xf000ȃ\x0001\x0000 #
-Mark\xf000ȃ\x0001\x0000 Rounds
-\xf000봃\x0001\x0000 Participants\xf000Ȃ\x0001\x0000People
-Use the \xf000Đ\x0001\x0001\xfffe that \xf000Ā\x0001\x0000 activated?
-Said "\xf000Ĝ\x0001\x0000!"
+Mark\xf000\x0203\x0001\x0000
+Mark\xf000\x0203\x0001\x0000 People
+Mark\xf000\x0203\x0001\x0000 Pokémon
+Mark\xf000\x0203\x0001\x0000 #
+Mark\xf000\x0203\x0001\x0000 Rounds
+\xf000\xbd03\x0001\x0000 Participants\xf000\x0202\x0001\x0000People
+Use the \xf000\x0111\x0001\x0001\xfffethat \xf000\x0100\x0001\x0000 activated?
+You said\xfffe"\xf000\x011c\x0001\x0000"!
 Retire from\xfffeFes Mission?
 Confirm
 YES
 NO
 Confirm
 CLOSE
-\xf000봃\x0001\x0000Score\xf000ȃ\x0001\x0000
-Available!
+\xf000\xbd03\x0001\x0000Score\xf000\x0203\x0001\x0000
+Hosted!
 Joined!
-\xf000ą\x0001\x0000 was moved!
-\xf000ā\x0001\x0000 is in battle!
-\xf000ā\x0001\x0000 was defeated!
-\xf000ā\x0001\x0000 was caught!
+\xf000\x0105\x0001\x0000 was moved!
+\xf000\x0101\x0001\x0000 is in battle!
+\xf000\x0101\x0001\x0000 was defeated!
+\xf000\x0101\x0001\x0000 was caught!
 Ran away from battle!
-Battling the trainer!
-Defeated the trainer!
-Was wiped out!
-Used \xf000ĉ\x0001\x0000
-Picked up \xf000ĉ\x0001\x0000!
-Used \xf000ć\x0001\x0000
+Battling a Trainer!
+Defeated a Trainer!
+You whited out!
+Used \xf000\x0109\x0001\x0000
+Picked up \xf000\x0109\x0001\x0000!
+Used \xf000\x0107\x0001\x0000
 Shopping...
 Used Pass Power!
 Got on Ferris Wheel!
-Examine sign
+Examined a sign
 Received an egg!
-\xf000ā\x0001\x0000 was defeated!
-\xf000ā\x0001\x0000 was caught!
-\xf000ā\x0001\x0000 was defeated!
-\xf000ā\x0001\x0000 was caught!
-Found a \xf000ĉ\x0001\x0000!
+\xf000\x0101\x0001\x0000 was defeated!
+\xf000\x0101\x0001\x0000 was caught!
+\xf000\x0101\x0001\x0000 was defeated!
+\xf000\x0101\x0001\x0000 was caught!
+Found a \xf000\x0109\x0001\x0000!
 You rang the bell!
-Found a \xf000ĉ\x0001\x0000!
-Found a \xf000ĉ\x0001\x0000!
-\xf000ā\x0001\x0000 was born!
-\xf000ā\x0001\x0000 was fished!
-Found a \xf000ā\x0001\x0000!
+Found a \xf000\x0109\x0001\x0000!
+Found a \xf000\x0109\x0001\x0000!
+\xf000\x0101\x0001\x0000 hatched from the egg!
+\xf000\x0101\x0001\x0000 was hooked!
+Found a \xf000\x0101\x0001\x0000!
 Helped lost child!
-Handed over \xf000ĉ\x0001\x0000
-Item exchange successful!
-Bought \xf000ĉ\x0001\x0000!
+Handed over the \xf000\x0109\x0001\x0000
+Trade succeeded! 
+\xf000\x0109\x0001\x0000 was bought!
 Won in Rock-Paper-Scissors!
-Correct answer to the quiz!
+The correct answer to the quiz!
 Helped practice!
-Received \xf000ĉ\x0001\x0000!
-Correct answer to the quiz!
+\xf000\x0109\x0001\x0000 was received!
+The correct answer to the quiz!
 You don't have enough money!
 Lost in Rock-Paper-Scissors!
 Incorrect answer to quiz!
-\xf000ā\x0001\x0000 is dying!
-\xf000ā\x0001\x0000's HP is low!
-\xf000ā\x0001\x0000's PP is low!
-\xf000Ĝ\x0001\x0000
-\xf000Ā\x0001\x0000の\xfffe\xf000Đ\x0001\x0001を\xfffeuse?
-\xf000ą\x0001\x0000と\xfffesaid
+\xf000\x0101\x0001\x0000 is dying!
+\xf000\x0101\x0001\x0000's HP is low!
+\xf000\x0101\x0001\x0000's PP is low!
+\xf000\x011c\x0001\x0000
+Use \xf000\x0100\x0001\x0000's \xfffe\xf000\x0110\x0001\x0001?
+\xf000\x0105\x0001\x0000 remarked!

@@ -6,7 +6,7 @@ Checking...\xfffePlease maintain the Infrared Connection.
 Tap the menu in the Touch Screen\xfffeto begin!
 BEGIN CHECK
 RANKING
-CANCEL
 BACK
+CLOSE
 FEELING CHECK
-You wish to continue and\xfffethe scene has changed.
+Scene has changed\xfffeplease continue onward.

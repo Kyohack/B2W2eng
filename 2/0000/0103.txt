@@ -1,12 +1,12 @@
-\xf000Ā\x0001\x0000 has joined.
+\xf000\x0100\x0001\x0000 has joined.
 Would you like to stop drawing?
-\xf000Ā\x0001\x0000 has left.
-\xf000Ā\x0001\x0000, the leader, has left.\xfffeThe group will be disbanded.\xf000븂\x0001<
+\xf000\x0100\x0001\x0000 has left.
+\xf000\x0100\x0001\x0000, the leader, has left.\xfffeThe group will be disbanded.\xf000\xbe02\x0001\x003c
 If the leader drops out, the group will\xfffebe disbanded. Is that OK?
-There are no members.\xfffeThe group will be disbanded.\xf000븂\x0001<
+There are no members.\xfffeThe group will be disbanded.\xf000\xbe02\x0001\x003c
 The drawing session was ended.
 QUIT
-\xf000Ā\x0001\x0000
+\xf000\x0100\x0001\x0000
 Sign your Trainer Card!
 Is this okay?
 Create a new\xfffesignature?

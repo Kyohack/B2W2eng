@@ -1,5 +1,5 @@
 Your name?
-\xf000ā\x0001\x0000's nickname?
+\xf000\x0101\x0001\x0000's nickname?
 Box name?
 Your rival's name?
 Your friend's name?
@@ -7,14 +7,14 @@ How do you greet passersby?
 How do you thank passersby?
 What's your message\xfffeto passersby?
 This town's name?\xfffe(Record it on your Trainer Card.)
-Your title? (This city is\xfffethe only reffered location.)
+Your title?\xfffe(This city is the only referred location.)
 My saying?\xfffe(Transmitted to everyone in the world.)
 Enter your password.
 Please input your\xfffeGame Sync ID Code.
 How and when to talk?\xfffe(Transmitted to everyone in the world.)
 How do you convey a message \xfffeto passersby?
 What is your Passerby Message?
-Your Pokémon's name?
+Your Pokémon's nickname?
 Please enter the name.
 Numbers may contain\xfffeonly up to four digits.
 The Game Sync ID\xfffeis incorrect.
@@ -22,8 +22,8 @@ The Game Sync ID\xfffeis incorrect.
 
 Best regards!
 Thank you!
-Shiro*
-Kuro*
-⑭
-⑮
+White.
+Black.
+♂
+♀
 Please enter.

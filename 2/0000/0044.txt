@@ -1,5 +1,5 @@
 GAME SYNC
-NINTENDO WFC SETTINGS
+WI-FI SETTINGS
 BACK
 Would you like to save the game?
 YES
@@ -10,17 +10,17 @@ The Pokémon has been tucked in.\xfffeDon't turn off the power...
 Game Sync complete.
 Is it OK to wake up this Pokémon?
 The Pokémon is being woken up...\xfffeDon't turn off the power.
-\xf000Ă\x0001\x0000 has woken up!
+\xf000\x0102\x0001\x0000 has woken up!
 Please wait a moment...
-\xf000Ă\x0001\x0000 fell\xfffeasleep. It's sleeping soundly!
-\xf000Ă\x0001\x0000 has woken up!
+\xf000\x0102\x0001\x0000 fell\xfffeasleep. It's sleeping soundly!
+\xf000\x0102\x0001\x0000 woke up!
 Game Sync has run out of energy.\xfffeIt will take one day to recharge it.
 This Pokémon is not dreaming yet.
-Wake up this Pokémon?
+Wake up the Pokémon?
 There are no Pokémon in your PC that can\xfffebe sent to the Pokémon Dream World.
 This Pokémon is dreaming.
-You haven't yet received the\xfffeDream Remnants from last time.\xf000븁\x0000\xfffeYou'll lose it if you wake this Pokémon up\xfffeto receive new Dream Remnants.\xf000븁\x0000\xfffeIs it OK to wake up this Pokémon?
-\xf000Ă\x0001\x0000 has gained\xfffe\xf000ȁ\x0001\x0001 level(s).
+You haven't yet received the\xfffeDream Remnants from last time.\xf000\xbe01\x0000\xfffeYou'll lose it if you wake this Pokémon up\xfffeto receive new Dream Remnants.\xf000\xbe01\x0000\xfffeIs it OK to wake up this Pokémon?
+\xf000\x0102\x0001\x0000 has gained\xfffe\xf000\x0201\x0001\x0001 level(s).
 C-Gear skin has changed.\xfffeMusical show has changed.\xfffePokédex skin has changed.
 C-Gear skin has changed.
 Musical show has changed.
@@ -28,23 +28,23 @@ Pokédex skin has changed.
 C-Gear skin has changed.\xfffeMusical show has changed.
 Musical show has changed.\xfffePokédex skin has changed.
 C-Gear skin has changed.\xfffePokédex skin has changed.
-An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13201
-An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13202
-A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xfffeplease refer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13203
-A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13204
-An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13205
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13201
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13202
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xfffeplease refer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13203
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13204
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13205
 This service has been discontinued.\xfffe\xfffeError Code: 13206
-A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13207
-An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13208
-A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13209
-An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13210
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13207
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13208
+A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13209
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the "Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13210
 The server is experiencing high\xfffetraffic volumes.\xfffeUnable to connect.\xfffePlease wait a little while and try again.\xfffe\xfffeError Code: 13211
 The server is undergoing maintenance.\xfffeYou can review the details at the\xfffePokémon Global Link website.\xfffehttp://www.pokemon-gl.com\xfffe\xfffeError Code: 13212
 You can let your Pokémon play\xfffein the Pokémon Dream World on the Internet.
 You must set up\xfffethe Game Sync settings\xfffeto play Pokémon Dream World.
 Please read the Instruction Booklet\xfffefor details about Game Sync settings.
-\xf000Ă\x0001\x0000 has woken up!
-There is already a saved game file.\xfffeIt is impossible to save.\xf000븁\x0000\xfffePlease refer to the Instruction\xfffeBooklet for details.\xf000븁\x0000\xfffePress Up + SELECT + B Button\xfffeon the title screen to erase\xf000븀\x0000\xfffethe current saved game file.
+\xf000\x0102\x0001\x0000 has woken up!
+There is already a saved game file.\xfffeIt is impossible to save.\xf000\xbe01\x0000\xfffePlease refer to the Instruction\xfffeBooklet for details.\xf000\xbe01\x0000\xfffePress Up + SELECT + B Button on\xfffethe title screen if you want to erase\xf000\xbe00\x0000\xfffethe current saved game file.
 Your Game Sync ID has been issued.\xfffe\xfffeYou can check your Game Sync ID\xfffein Game Sync Settings on the main menu.
 Access the Pokémon Global Link website\xfffeat http://www.pokemon-gl.com/\xfffeand complete the setup\xfffeto use all features of Game Sync.\xfffe\xfffeRead the Instruction Booklet\xfffefor complete details.
-Your PC is full!\xf000븁\x0000\xfffeYou must have one empty place\xfffeavailable to wake up the Pokémon.
+Your PC is full!\xf000\xbe01\x0000\xfffeYou must have one empty place\xfffeavailable to wake up the Pokémon.

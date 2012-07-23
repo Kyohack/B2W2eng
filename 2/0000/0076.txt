@@ -1,10 +1,10 @@
 Loading...\xfffePlease wait a moment.
-No compatible Game Card is inserted.\xfffePlease turn off the power and\xfffeinsert a compatible Game Card\xfffebefore you retry Poké Transfer.\xf000븁\x0000
-おもいでリンクを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-The saved data\xfffecould not be accessed.\xf000븁\x0000
-Unable to connect to the\xfffeother DS system.\xf000븁\x0000
-おもいでリンク　きどうちゅう！\xfffeレポートを　リンクしています\xfffeこのまま　しばらく　おまちください
-Error reading the save file.\xfffeThere may not be a save file,\xfffeor the save file may be corrupted.\xf000븁\x0000
+No compatible Game Card is inserted.\xfffePlease turn off the power and\xfffeinsert a compatible Game Card\xfffebefore you retry Poké Transfer.\xf000\xbe01\x0000
+おもいでリンクを しゅうりょうします\xfffeでんげんを きって\xfffeしゅうりょうしてください
+The saved data\xfffecould not be accessed.\xf000\xbe01\x0000
+Unable to connect to the\xfffeother DS system.\xf000\xbe01\x0000
+おもいでリンク きどうちゅう!\xfffeレポ-トを リンクしています\xfffeこのまま しばらく おまちください
+Error reading the save file.\xfffeThere may not be a save file,\xfffeor the save file may be corrupted.\xf000\xbe01\x0000
 YES
 NO
 MEMORY LINK
