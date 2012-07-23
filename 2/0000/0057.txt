@@ -1,4 +1,4 @@
-Please press A to begin\xfffethe infrared communication\xf000븁\x0000\xfffeto your opponent.
+Please press A to begin\xfffethe infrared communication\xf000\xbe01\x0000\xfffeto your opponent.
 Each player has chosen\xfffea different tournament.
 Your opponent has been found!
 To start playing\xfffepress the A button.
@@ -7,6 +7,6 @@ You Lose
 Its a Draw
 Connection waiting.
 Competed in Wi-Fi
-Participate in a tournament.
+Competed in Tournament
 View digital player award
 BACK

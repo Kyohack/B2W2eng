@@ -1,12 +1,12 @@
 No Answer
-Black2
-White2
+Black 2
+White 2
 Male
 Female
 Battle
 Trade
-The City
-The Countryside
+City
+Countryside
 Smart
 Athletic
 Time
@@ -36,7 +36,7 @@ Chasing a dream
 Reality Check
 -
 -
-Interesting
+Fun
 Cool
 Kind
 Rich
@@ -45,17 +45,17 @@ Collecting
 The Story
 Pokémon
 Flying
-Become transparent
+Become invisible
 Stop Time
 Read Minds
 Use
 Save
 Be Proud
 Donate
-0 - 5 years
-5 - 10 years
-10 - 15 years
-15 - years
+0-5 Years
+5-10 Years
+10-15 Years
+15+ Years
 Play Outside
 Shopping
 Reading
@@ -82,12 +82,12 @@ Puzzle
 RPG
 Adventure
 Simulation
-Sport
+Sports
 Work
-Interpersonal
+Relationships
 Hobby
-Health
-Become Mighty
+Health 
+Fame
 -
 Exercising
 Reading

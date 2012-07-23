@@ -630,10 +630,10 @@ DNA Link Pin
 DNA Link Pin
 License
 Round Charm
-Shiny Charm
+Shining Charm
 Plasma Card
 Dirty Handkerchief
-Colress's Machine
-Forgotten Item 1
-Forgotten Item 2
+Corless' Machine
+Forgotten Item
+Forgotten Item
 Reflecting Mirror

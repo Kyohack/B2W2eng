@@ -4,10 +4,10 @@ POKÉMON
 BAG
 TRAINER CARD
 SAVE
-OPTIONS　
-
+OPTIONS
+ 
 CHAT
-
+ 
 RETIRE
 Pokédex selected.
 Pokémon Status selected.

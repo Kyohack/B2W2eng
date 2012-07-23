@@ -5,71 +5,71 @@ VIEW RECORD
 MISSION RECORD
 Please receive\xfffethe Fes Mission.
 Please accept\xfffethe Pass Power.
-Entree's Total Level: \xf000Ȃ\x0001\x0000
-◆White Lv.: \xf000ȃ\x0001\x0000
-◇Black Lv.: \xf000ȃ\x0001\x0000
-Available Pass Powers: \xf000ȃ\x0001\x0000
+Entree's Total Level: \xf000\x0202\x0001\x0000
+◆White Lv.: \xf000\x0203\x0001\x0000
+◇Black Lv.: \xf000\x0203\x0001\x0000
+Available Pass Powers: \xf000\x0203\x0001\x0000
 MISSIONS COMPLETED
 MISSIONS HOSTED
 MISSIONS PERFORMED
 MOST PARTICIPANTS
 HIGH SCORE
-\xf000Ȅ\x0001\x0000かい
-\xf000Ȅ\x0001\x0000かい
-\xf000Ȅ\x0001\x0000かい
-\xf000Ȃ\x0001\x0000にん
-\xf000Ȅ\x0001\x0000かい
+\xf000\x0204\x0001\x0000かい
+\xf000\x0204\x0001\x0000かい
+\xf000\x0204\x0001\x0000かい
+\xf000\x0202\x0001\x0000にん
+\xf000\x0204\x0001\x0000かい
 BEGIN A MISSION
 MISSION IN PROGRESS
-The mission is starting now!\xf000븂\x0001Z
+The mission is starting now!\xf000\xbe02\x0001\x005a
 Another mission is already\xfffein progress.
 Please select one of the\xfffesix missions.
 Please select a mission.
 You cannot accept this mission\xfffewhen three worlds are connected.
 You cannot accept a mission when\xfffeyou have a visitor in your Entralink.
-By selecting missions,\xfffeyou can help others.\xf000븁\x0000\xfffePlease select “SUPPORT MISSION"\xfffeand begin a mission.
-The wrong mission was selected...\xf000븁\x0000\xfffePlease select “SUPPORT MISSION"\xfffeto begin.
-\xf000ȃ\x0001\x0000こ
+By selecting missions,\xfffeyou can help others.\xf000\xbe01\x0000\xfffePlease select "SUPPORT MISSION"\xfffeand begin a mission.
+The wrong mission was selected...\xf000\xbe01\x0000\xfffePlease select "SUPPORT MISSION"\xfffeto begin.
+\xf000\x0203\x0001\x0000こ
 YES
 NO
 Will you receive this Pass Power\xfffefrom the Entree?
 AVAILABLE PASS POWER
-Received “\xf000Ĝ\x0001\x0000"\xfffefrom the Entree!\xf000븁\x0000\xfffeThe “\xf000Ĝ\x0001\x0000" is\xffferegistered to C-Gear!
+Received "\xf000\x011c\x0001\x0000"\xfffefrom the Entree!\xf000\xbe01\x0000\xfffeThe "\xf000\x011c\x0001\x0000" is\xffferegistered to C-Gear!
 RECEIVE POWER
 Please select the Pass Power\xfffeyou want to receive from the Entree.
 CURRENT PASS POWER
 No Pass Power has been received.
-Orbs needed: \xf000ȃ\x0001\x0000
-\xf000봂\x0000◆The White Level to receive it: \xf000Ȃ\x0001\x0000◆\xfffe\xfffeCurrent levels\xfffe◇Black Lv. : \xf000Ȃ\x0001\x0002   ◆White Lv. : \xf000Ȃ\x0001\x0001
-\xf000봂\x0000◆The Black Level to receive it: \xf000Ȃ\x0001\x0000◆\xfffe\xfffeCurrent levels\xfffe◇Black Lv. : \xf000Ȃ\x0001\x0002   ◆White Lv. : \xf000Ȃ\x0001\x0001
-チャレンジできる　フェスミッション
-チャレンジする　フェスミッションを\xfffeえらんでください
+Orbs needed: \xf000\x0203\x0001\x0000
+\xf000\xbd02\x0000◆The White Level to receive it: \xf000\x0202\x0001\x0000◆\xfffe\xfffeCurrent levels\xfffe◇Black Lv. : \xf000\x0202\x0001\x0002   ◆White Lv. : \xf000\x0202\x0001\x0001
+\xf000\xbd02\x0000◆The Black Level to receive it: \xf000\x0202\x0001\x0000◆\xfffe\xfffeCurrent levels\xfffe◇Black Lv. : \xf000\x0202\x0001\x0002   ◆White Lv. : \xf000\x0202\x0001\x0001
+チャレンジできる フェスミッション
+チャレンジする フェスミッションを\xfffeえらんでください
 ミッションかいし
-\xf000ŀ\x0001\x0000　Lv\xf000Ȁ\x0001\x0001を\xfffeかいし　しますか？
-フェスミッション　を\xfffeかいし　します
-はつどうちゅうの　デルパワー
+\xf000\x0140\x0001\x0000 Lv\xf000\x0200\x0001\x0001を\xfffeかいし しますか?
+フェスミッション を\xfffeかいし します
+はつどうちゅうの デルパワ-
 None
 Entralink
-\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-\xf000Ĝ\x0001\x0000を\xfffeつかいますか？\xfffeひつよう\xf000ȃ\x0001\x0001こ／もってる\xf000ȃ\x0001\x0002こ
-デルダマが　たりません\xfffe\xfffeひつよう\xf000ȃ\x0001\x0000こ／もってる\xf000ȃ\x0001\x0001こ
+\xf000\x0201\x0001\x0000:\xf000\x0201\x0001\x0001
+\xf000\x011c\x0001\x0000を\xfffeつかいますか?\xfffeひつよう\xf000\x0203\x0001\x0001こ/もってる\xf000\x0203\x0001\x0002こ
+デルダマが たりません\xfffe\xfffeひつよう\xf000\x0203\x0001\x0000こ/もってる\xf000\x0203\x0001\x0001こ
 ミッションせつめい
 せいげんじかん
-クリアもくひょう
+Clear target
 ほうしゅう
 High Scores
-\xf000ȁ\x0001\x0000ふん\xf000ȁ\x0001\x0001びょう
-\xf000ȃ\x0001\x0000ひき
-\xf000ĉ\x0001\x0000\xf000Ȃ\x0001\x0001こ
-L\xf000Ȁ\x0001\x0000
-\xf000ȁ\x0001\x0000ふん
-\xf000ĉ\x0001\x0000\xf000Ȃ\x0001\x0001こ~
-\xf000ȃ\x0001\x0000にん
-\xf000ȃ\x0001\x0000かい
-\xf000ȃ\x0001\x0000
+\xf000\x0201\x0001\x0000m \xf000\x0201\x0001\x0001s
+\xf000\x0203\x0001\x0000 Animals
+\xf000\x0109\x0001\x0000\xf000\x0202\x0001\x0001 Orbs
+L\xf000\x0200\x0001\x0000
+\xf000\x0201\x0001\x0000 Min
+\xf000\x0109\x0001\x0000\xf000\x0202\x0001\x0001 Orbs
+\xf000\x0203\x0001\x0000 Ppl
+\xf000\x0203\x0001\x0000 Games
+\xf000\x0203\x0001\x0000
 TOTAL
 MY SCORE
 さいこうきろく
-デルパワーは　３つまでしか\xfffeうけとれません！\xf000븁\x0000\xfffeあたらしく　デルパワーを\xfffeうけとる　ために\xf000븀\x0000\xfffePlease select the Pass Power\xfffeyou want to receive from the Entree.
-『\xf000Ĝ\x0001\x0000』　を\xfffeハイルツリーに　かえし\xf000븁\x0000\xfffe『\xf000Ĝ\x0001\x0001』を\xfffeハイルツリーから　うけとった！\xf000븁\x0000\xfffeうけとった『\xf000Ĝ\x0001\x0001』を\xfffeＣギアに　とうろくした！
+デルパワ-は 3つまでしか\xfffeうけとれません!\xf000\xbe01\x0000\xfffeあたらしく デルパワ-を\xfffeうけとる ために\xf000\xbe00\x0000\xfffePlease select the Pass Power\xfffeyou want to receive from the Entree.
+『\xf000\x011c\x0001\x0000』 を\xfffeハイルツリ-に かえし\xf000\xbe01\x0000\xfffe『\xf000\x011c\x0001\x0001』を\xfffeハイルツリ-から うけとった!\xf000\xbe01\x0000\xfffeうけとった『\xf000\x011c\x0001\x0001』を\xfffeCギアに とうろくした!
 CANCEL

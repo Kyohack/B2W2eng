@@ -1,7 +1,7 @@
 ENTRALINK
 XTRANSCEIVER
 Union Room
-\xf000ȁ\x0001\x0000 Ppl
+\xf000\x0201\x0001\x0000 Ppl
 Wireless Distribution
 Present
 None
@@ -9,10 +9,10 @@ YES
 NO
 BACK
 Would you like to save the game?
-Saving...\xfffePlease wait
+Saving...\xfffePlease wait.
 C-Gear Detected
 Present
 None
 CONNECTING\xfffeENTRALINK...
-ENTRALINK\xfffeGUESTS: \xf000Ȁ\x0001\x0000
+ENTRALINK\xfffeGUESTS: \xf000\x0200\x0001\x0000
 ENTRALINK\xfffeMISSION

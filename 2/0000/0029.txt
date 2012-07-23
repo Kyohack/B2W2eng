@@ -11,25 +11,25 @@ Close the graffiti marker
 Stamps
 GRAFFITI MODE
 REC
-GRAFFITI
-ID \xf000Ȅ\x0001\x0000
+Scribble
+ID \xf000\x0204\x0001\x0000
 -/-
-\xf000Ȁ\x0001\x0000/4
+\xf000\x0200\x0001\x0000/4
 Please select your friend(s).
 CALL FRIEND(S)
-JOIN
-Calling!
+Participate
+Calling
 Calling.
 Calling..
 Calling...
-Connecting!
+Connecting
 Connecting.
 Connecting..
 Connecting...
-Searching for your friends!
-Searching for your friends.
-Searching for your friends..
-Searching for your friends...
+Searching for friends
+Searching for friends.
+Searching for friends..
+Searching for friends...
 Would you like to stop the Xtransceiver?
 If the leader drops out, the group will\xfffebe disbanded. Is that OK?
 YES
@@ -41,29 +41,29 @@ Call failed.
 Failed to connect.
 Parental Controls prohibits the transfer\xfffeof photos.\xfffeIf you wish to send them, please change\xfffethe System Settings to allow this.
 Waiting for the other player to finish...
-ただいま　『\xf000Ĝ\x0001\x0000』の\xfffeさんかしゃを　ぼしゅうちゅうです！\xfffeしめきりまで　あと\xf000ȁ\x0001\x0001びょうです！
-『\xf000Ĝ\x0001\x0000』の\xfffeかいしまで　しばらくおまちください
-『\xf000Ĝ\x0001\x0000』が\xfffeちゅうし　されました
-\xf000Ā\x0001\x0000さんから\xfffe『\xf000Ĝ\x0001\x0001』の　おさそいが\xfffeきています　さんかしますか？
-『\xf000Ĝ\x0001\x0000』の\xfffeさんかを　ことわりました\xfffeゲームを　ちゅうし　します
-ゲームに　しようする　しゃしんを\xfffe３まい　さつえいします
-\xf000Ȁ\x0001\x0000まいめの　しゃしんを\xfffeさつえいします
-すました　おかおで……
-えがおで　スマイル……
-こまった　おかおで……
-びっくり　おどろきがおで……
-ゲームに　しようする　かおを\xfffeえらびます
-よーい……\xfffeスタート！
-ほかの　ひとの　じゅんびが\xfffeおわるまで　おまちください
-じゅんびが　ととのいました！\xfffeそれでは　ゲーム　スタートです！
-\xf000Ĝ\x0001\x0000いろの　ふうせんを　タッチして\xfffeたくさんの　ふうせんを　キャッチしよう！\xfffeほかのいろを　タッチすると　げんてんだぞ！
-タッチスクリーンを　こうごに　タッチ！\xfffeふうせんに　くうきを　いれて\xfffeたくさん　はれつさせよう！
-もういちど\xfffe『\xf000Ĝ\x0001\x0000』を　\xfffeあそびますか？
+ただいま 『\xf000\x011c\x0001\x0000』の\xfffeさんかしゃを ぼしゅうちゅうです!\xfffeしめきりまで あと\xf000\x0201\x0001\x0001びょうです!
+『\xf000\x011c\x0001\x0000』の\xfffeかいしまで しばらくおまちください
+『\xf000\x011c\x0001\x0000』が\xfffeちゅうし されました
+\xf000\x0100\x0001\x0000さんから\xfffe『\xf000\x011c\x0001\x0001』の おさそいが\xfffeきています さんかしますか?
+『\xf000\x011c\x0001\x0000』の\xfffeさんかを ことわりました\xfffeゲ-ムを ちゅうし します
+ゲ-ムに しようする しゃしんを\xfffe3まい さつえいします
+\xf000\x0200\x0001\x0000まいめの しゃしんを\xfffeさつえいします
+すました おかおで...
+えがおで スマイル...
+こまった おかおで...
+びっくり おどろきがおで...
+ゲ-ムに しようする かおを\xfffeえらびます
+よ-い...\xfffeスタ-ト!
+ほかの ひとの じゅんびが\xfffeおわるまで おまちください
+じゅんびが ととのいました!\xfffeそれでは ゲ-ム スタ-トです!
+\xf000\x011c\x0001\x0000いろの ふうせんを タッチして\xfffeたくさんの ふうせんを キャッチしよう!\xfffeほかのいろを タッチすると げんてんだぞ!
+タッチスクリ-ンを こうごに タッチ!\xfffeふうせんに くうきを いれて\xfffeたくさん はれつさせよう!
+もういちど\xfffe『\xf000\x011c\x0001\x0000』を \xfffeあそびますか?
 Balloon catch
 Balloon smash
 Game Rules
-Cancel
-\xf000Ȃ\x0001\x0000
+Suspend
+\xf000\x0202\x0001\x0000
 Red
 Blue
 Yellow

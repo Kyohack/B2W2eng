@@ -336,7 +336,7 @@ Summons a hailstorm that lasts for\xfffefive turns. The hailstorm damages\xfffea
 The user tenses its muscles to bulk up\xfffeits body, boosting both its Attack and\xfffeDefense stats.
 The user drenches the target in a\xfffespecial poisonous liquid. Its power\xfffeis doubled if the target is poisoned.
 A unique attack that varies in type and\xfffeintensity depending on the Pokémon\xfffeusing it.
-The user intensifies the sun for\xfffefive turns, powering up\xfffeFire-type moves.
+The user intensifies the sun for\xfffefive turns, powering up Fire-type\xfffemoves.
 The target is taunted into a rage that\xfffeallows it to use only attack moves\xfffefor three turns.
 The target is struck with an icy-cold\xfffebeam of energy.\xfffeIt may also freeze the target solid.
 A howling blizzard is summoned to strike\xfffethe opposing team. It may also freeze\xfffethem solid.
@@ -345,10 +345,10 @@ A wondrous wall of light is put up to\xfffesuppress damage from special attacks\
 It enables the user to evade all\xfffeattacks. Its chance of failing rises\xfffeif it is used in succession.
 The user summons a heavy rain that\xfffefalls for five turns, powering up\xfffeWater-type moves.
 The user makes the target float with\xfffeits psychic power. The target is easier\xfffeto hit for three turns.
-The user creates a protective field that\xfffeprevents status problems for five turns.
+The user creates a protective field\xfffethat prevents status problems\xfffefor five turns.
 A full-power attack that grows more\xfffepowerful the less the user likes its\xfffeTrainer.
 A two-turn attack. The user gathers\xfffelight, then blasts a bundled beam on\xfffethe second turn.
-The user throws a stone or projectile to\xfffeattack an opponent. A flying Pokémon will\xfffefall to the ground when hit.
+The user throws a stone or projectile\xfffeto attack an opponent. A flying Pokémon\xfffewill fall to the ground when it's hit.
 A strong electric blast is loosed at the\xfffetarget. It may also leave the target\xfffewith paralysis.
 A wicked thunderbolt is dropped\xfffeon the target to inflict damage. It may\xfffealso leave the target with paralysis.
 The user sets off an earthquake that\xfffestrikes every Pokémon around it.
@@ -625,13 +625,13 @@ An important letter which\xfffeWingull delivers.
 An important letter which\xfffeWingull delivers.
 An important letter which\xfffeWingull delivers.
 A high-tech transceiver with a\xfffecamera function. It allows up to\xfffefour-way calls.
-A box-like device which stores the\xfffemedals you've collected and displays\xfffeinformation about them.
+A box-like device which stores the\xfffemedals you've collected and displays\xfffeinformation about them. 
 A pair of linking pins to combine\xfffeKyurem and a Pokémon which were\xfffesaid to originally be one.
-A pair of linking pins to combine\xfffeKyurem and a Pokémon which were\xfffesaid to originally be one.
-A license card necessary to enter the\xfffeNature Sanctuary that very few people\xfffeknow of.
+A pair of linking pins to combine\xfffeKyurem and a Pokémon which were\xfffesaid to originally be one. 
+A license card necessary to enter the\xfffeNature Sanctuary that very few people\xfffeknow of. 
 A mysterious unbelievable charm that\xfffewhen held, makes it easier for the\xfffeDaycare Man to find eggs. 
 A mysterious shining charm that when\xfffeheld, makes it easier to encounter\xfffeshiny Pokémon. 
-A keycard used to unlock\xfffedoors on the Team Plasma\xfffeFrigate.
+A key card needed in order\xfffeto gain access inside\xfffethe Plasma Frigate ship.
 A handkerchief that a regular visitor to\xfffeNacrene City's "Cafe Warehouse" dropped.\xfffeIt faintly smells of Pokémon.
 A device built in order to forcefully\xfffeawaken a Pokémon's abilities.\xfffeIt is an unfinished prototype.
 An Xtransceiver found in the\xfffeNimbasa City Amusement Park.\xfffeIts owner was probably a boy.

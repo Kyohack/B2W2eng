@@ -1,7 +1,7 @@
 ----------
 Mystery Zone
 Faraway place
-\xf000Ā\x0001\x0000's \xf000ą\x0001\x0001
+\xf000\x0100\x0001\x0000's \xf000\x0105\x0001\x0001
 Nuvema Town
 Accumula Town
 Striaton City
@@ -56,7 +56,7 @@ Mistralton Cave
 Rumination Field
 Celestial Tower
 Moor of Icirrus
-Shopping Mall Nine
+Shopping Mall
 Challenger's Cave
 Poké Transfer Lab
 Giant Chasm
@@ -144,11 +144,11 @@ Heart Hollow
 Hidden Hollow
 Marine Tube
 Virbank Gate
-Aspertia City
-Nature Reserve
+Aspertia Gate
+Nature Sanctuary
 Medal Secretariat
 Underground Ruins
-Rock Chamber
-Ice Chamber
-Steel Chamber
+Rocky Mountain Room
+Glacier Room
+Iron Room
 Oath Forest

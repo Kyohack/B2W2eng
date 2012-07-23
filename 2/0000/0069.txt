@@ -1,57 +1,57 @@
-To participate in the Live Competition,\xfffeyou need to update your Digital Player ID.\xf000븁\x0000\xfffeIs it OK to update it?
-To participate in the Live Competition,\xfffethe Digital Player ID will be updated.\xf000븁\x0000\xfffeThe Battle Box from the previous\xfffetournament will be unregistered.\xf000븁\x0000\xfffeIs it OK to update your Digital Player ID?
-A Digital Player ID will be received\xfffevia Infrared Connection.\xf000븁\x0000\xfffePlease point your Nintendo Game Card\xfffeat the sending Game Card\xf000븀\x0000\xfffeand press the A Button.\xf000븁\x0000
-You have registered and unregistered\xfffefrom this tournament already.\xf000븁\x0000\xfffeYou cannot reregister\xfffefor this tournament.\xf000븁\x0000
-You have registered and participated\xfffein this tournament already.\xf000븁\x0000\xfffeYou cannot reregister for a tournament\xfffeyou've already participated in.\xf000븁\x0000
-Your Battle Box will be registered\xfffefor the tournament.\xf000븁\x0000\xfffeCaution!\xfffeOnce registered,\xf000븀\x0000\xfffeyou will not be able to\xf000븀\x0000\xfffemove your Pokémon to or from\xf000븀\x0000\xfffeyour Battle Box.\xf000븁\x0000\xfffeWill you still register the Pokémon\xfffein your Battle Box?
+To participate in the Live Competition,\xfffeyou need to update your Digital Player ID.\xf000\xbe01\x0000\xfffeIs it OK to update it?
+To participate in the Live Competition,\xfffethe Digital Player ID will be updated.\xf000\xbe01\x0000\xfffeThe Battle Box from the previous\xfffetournament will be unregistered.\xf000\xbe01\x0000\xfffeIs it OK to update your Digital Player ID?
+A Digital Player ID will be received\xfffevia Infrared Connection.\xf000\xbe01\x0000\xfffePlease point your Nintendo Game Card\xfffeat the sending Game Card\xf000\xbe00\x0000\xfffeand press the A Button.\xf000\xbe01\x0000
+You have registered and unregistered\xfffefrom this tournament already.\xf000\xbe01\x0000\xfffeYou cannot reregister\xfffefor this tournament.\xf000\xbe01\x0000
+You have registered and participated\xfffein this tournament already.\xf000\xbe01\x0000\xfffeYou cannot reregister for a tournament\xfffeyou've already participated in.\xf000\xbe01\x0000
+Your Battle Box will be registered\xfffefor the tournament.\xf000\xbe01\x0000\xfffeCaution!\xfffeOnce registered,\xf000\xbe00\x0000\xfffeyou will not be able to\xf000\xbe00\x0000\xfffemove your Pokémon to or from\xf000\xbe00\x0000\xfffeyour Battle Box.\xf000\xbe01\x0000\xfffeWill you still register the Pokémon\xfffein your Battle Box?
 YES
 NO
 Will you cancel registering\xfffethe Pokémon to participate?
-The conditions for the tournament\xfffehave not been met.\xf000븁\x0000\xfffePlease place your Pokémon\xfffein the Battle Box.\xf000븁\x0000
+The conditions for the tournament\xfffehave not been met.\xf000\xbe01\x0000\xfffePlease place your Pokémon\xfffein the Battle Box.\xf000\xbe01\x0000
 Saving...\xfffeDon't turn off the power.
-Your Battle Box has been registered\xfffefor the tournament.\xf000븁\x0000\xfffeYou will not be able to\xfffemove your Pokémon to or from\xf000븀\x0000\xfffeyour Battle Box.\xf000븁\x0000
+Your Battle Box has been registered\xfffefor the tournament.\xf000\xbe01\x0000\xfffeYou will not be able to\xfffemove your Pokémon to or from\xf000\xbe00\x0000\xfffeyour Battle Box.\xf000\xbe01\x0000
 Pokémon Battle Competition!\xfffeWhat would you like to do?
 Battle
 Look back
 Cancel participation
-The last battle will be\xfffeplayed back.\xf000븁\x0000
-Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000븁\x0000\xfffeIs it OK to unregister?
+The last battle will be\xfffeplayed back.\xf000\xbe01\x0000
+Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000\xbe01\x0000\xfffeIs it OK to unregister?
 You will be unregistered.\xfffeAre you sure about this?
-Your Battle Box has been\xfffeunregistered.\xf000븁\x0000
-You will communicate with your opponent\xfffevia Infrared Connection.\xf000븁\x0000\xfffePlease face your Nintendo Game Card\xfffeat your opponent's Game Card\xf000븀\x0000\xfffeand press the A Button.\xf000븁\x0000
+Your Battle Box has been\xfffeunregistered.\xf000\xbe01\x0000
+You will communicate with your opponent\xfffevia Infrared Connection.\xf000\xbe01\x0000\xfffePlease face your Nintendo Game Card\xfffeat your opponent's Game Card\xf000\xbe00\x0000\xfffeand press the A Button.\xf000\xbe01\x0000
 Will you cancel the Infrared Connection?
-The selected tournaments do not match.\xf000븁\x0000\xfffePlease check the Digital Player ID\xfffeand follow the instructions\xf000븀\x0000\xfffegiven by tournament staff.\xf000븁\x0000
+The selected tournaments do not match.\xf000\xbe01\x0000\xfffePlease check the Digital Player ID\xfffeand follow the instructions\xf000\xbe00\x0000\xfffegiven by tournament staff.\xf000\xbe01\x0000
 An opponent has been found!
-Follow the instructions given by \xfffetournament staff and press the A Button.\xf000븁\x0000
-The battle has ended.\xfffeThe Pokémon in your Battle Box\xf000븀\x0000\xfffeare now unregistered.\xf000븁\x0000
-Failed to receive\xfffeyour Digital Player ID.\xf000븁\x0000
-Failed to receive\xfffeyour Digital Player ID.\xf000븁\x0000
-The connection\xfffefailed.\xf000븁\x0000
-Live Competition will be ended.\xf000븁\x0000
+Follow the instructions given by \xfffetournament staff and press the A Button.\xf000\xbe01\x0000
+The battle has ended.\xfffeThe Pokémon in your Battle Box\xf000\xbe00\x0000\xfffeare now unregistered.\xf000\xbe01\x0000
+Failed to receive\xfffeyour Digital Player ID.\xf000\xbe01\x0000
+Failed to receive\xfffeyour Digital Player ID.\xf000\xbe01\x0000
+The connection\xfffefailed.\xf000\xbe01\x0000
+Live Competition will be ended.\xf000\xbe01\x0000
 DONE
-Live Competition is ended.\xfffeThank you for participating.\xf000븁\x0000
+Live Competition is ended.\xfffeThank you for participating.\xf000\xbe01\x0000
 Receiving data...\xfffePlease wait a moment.
 Searching for your opponent...\xfffePlease wait a moment.
-There was a problem\xfffewith the last battle.\xf000븀\x0000\xfffeIt cannot be played back.\xf000븁\x0000
+There was a problem\xfffewith the last battle.\xf000\xbe00\x0000\xfffeIt cannot be played back.\xf000\xbe01\x0000
 Communicating. Please stand by...
-You have already had a battle\xfffewith this person.\xf000븁\x0000\xfffeYou cannot battle\xfffethe same opponent again.\xf000븁\x0000
-There are no Pokémon in\xfffeyour Battle Box.\xf000븁\x0000\xfffePlease check the tournament\xffferules to place Pokémon\xf000븀\x0000\xfffein your Battle Box.\xf000븁\x0000
+You have already had a battle\xfffewith this person.\xf000\xbe01\x0000\xfffeYou cannot battle\xfffethe same opponent again.\xf000\xbe01\x0000
+There are no Pokémon in\xfffeyour Battle Box.\xf000\xbe01\x0000\xfffePlease check the tournament\xffferules to place Pokémon\xf000\xbe00\x0000\xfffein your Battle Box.\xf000\xbe01\x0000
 Please choose your Pokémon.
-An error occurred, and\xfffethe battle has been disrupted.\xf000븁\x0000\xfffePlease follow the instructions\xfffegiven by tournament staff.\xf000븁\x0000
+An error occurred, and\xfffethe battle has been disrupted.\xf000\xbe01\x0000\xfffePlease follow the instructions\xfffegiven by tournament staff.\xf000\xbe01\x0000
 Check Results
-Does not meet the\xfffetournament requirements.\xf000븁\x0000
-The amount of Pokémon does\xfffenot meet the requirements.\xf000븁\x0000
-The level of the Pokémon do\xfffenot meet the requirements.\xf000븁\x0000
-This Pokémon cannot\xfffeparticipate.\xf000븁\x0000
-The Pokémon's type\xfffeis the same.\xf000븁\x0000
-The Pokémon's held item\xfffeis the same.\xf000븁\x0000
-It's an egg.\xf000븁\x0000
-You do not have\xfffethe proper tools.\xf000븁\x0000
-You do not have Pokémon\xfffeneeded to participate.\xf000븁\x0000
-The total level of participants\xfffedoes not meet the requirements.\xf000븁\x0000
-Confirm rules of tournament,\xfffeplease set Pokémon to\xf000븀\x0000\xfffethe Battle Box\xf000븁\x0000
-\xf000Ā\x0001\x0000 Remain \xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001 Remain \xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 has won!\xf000븁\x0000
-\xf000Ā\x0001\x0000 Remain \xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001 Remain \xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 has lost!\xf000븁\x0000
-\xf000Ā\x0001\x0000 Remain \xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001 Remain \xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 have tied!\xf000븁\x0000
-\xf000Ā\x0001\x0000 Remain \xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001 Remain \xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 has given up!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 has lost!\xf000븁\x0000
-\xf000Ā\x0001\x0000 Remain \xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001 Remain \xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0001 has given up!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 has won!\xf000븁\x0000
+Does not meet the\xfffetournament requirements.\xf000\xbe01\x0000
+The amount of Pokémon does\xfffenot meet the requirements.\xf000\xbe01\x0000
+The level of the Pokémon do\xfffenot meet the requirements.\xf000\xbe01\x0000
+This Pokémon cannot\xfffeparticipate.\xf000\xbe01\x0000
+The Pokémon's type\xfffeis the same.\xf000\xbe01\x0000
+The Pokémon's held item\xfffeis the same.\xf000\xbe01\x0000
+It's an egg.\xf000\xbe01\x0000
+You do not have\xfffethe proper tools.\xf000\xbe01\x0000
+You do not have Pokémon\xfffeneeded to participate.\xf000\xbe01\x0000
+The total level of participants\xfffedoes not meet the requirements.\xf000\xbe01\x0000
+Confirm rules of tournament,\xfffeplease set Pokémon to\xf000\xbe00\x0000\xfffethe Battle Box\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Remain \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Remain \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has won!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Remain \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Remain \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has lost!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Remain \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Remain \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 have tied!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Remain \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Remain \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has given up!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has lost!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Remain \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Remain \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0001 has given up!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has won!\xf000\xbe01\x0000
