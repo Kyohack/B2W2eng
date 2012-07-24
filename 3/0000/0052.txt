@@ -1,11 +1,11 @@
 Currently, we exhibit works in the motif\xfffeof legends in the Unova region.
 If you want to see Burgh's paintings,\xfffego to the Pokémon Gym!
-Title 「ドラゴン　しろと　くろと」
-Title 「つみかさね　つみとかね」
-Title 「むごたらしい　しんじつ」
-Title 「きえた　えいゆう」
-Title 「はるかな　りそう」
-Title 「であうべくして　であった\xfffeいっぴきと　ひとり」
+Title “Ideals and Truth"
+Title “Soaring White Dragon"
+Title “White Flame"」
+Title “Alighting Black Dragon"
+Title “Black Lightning Bolt"
+Title “Twin Heroes"
 I am not as good an artist as Burgh,\xfffebut I have a liking for paintings.\xf000븁\x0000\xfffeLet me see. Today, I'd like to paint\xfffe\xf000ă\x0001\x0000-type Pokémon!\xf000븁\x0000\xfffeWill you show me what kinds of Pokémon\xfffeyou have?
 Please show me a Pokémon that's\xfffe\xf000ă\x0001\x0000 type!\xf000븁\x0000
 Oh! You have that type!\xfffeI'm inspired!\xf000븁\x0000\xfffeThank you! As a token of my gratitude,\xfffewhich one would you like?
