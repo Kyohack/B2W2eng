@@ -1,9 +1,9 @@
 CONFIRM
 CANCEL
-L\xf000\x0202\x0001\x0000
-\xf000\x0102\x0001\x0000
-\xf000\x0202\x0001\x0000
-\xf000\x0202\x0001\x0000
+L\xf000Ȃ\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
 /
 ♂
 ♀
@@ -17,9 +17,9 @@ Select a Pokémon.
 Deposit which Pokémon?
 Use on which Pokémon?
 Use with which Pokémon?
-Do what with\xfffe\xf000\x0102\x0001\x0000?
+Do what with\xfffe\xf000Ă\x0001\x0000?
 Do what with\xfffean item?
-Do what with\xfffethe mail?
+Do what with\xfffemail?
 Restore\xfffewhich move?
 Boost the PP\xfffeof which move?
 Send the removed Mail to\xfffeyour PC?
@@ -31,70 +31,70 @@ YES
 NO
 Your PC's Mailbox is full.
 Mail was taken from the\xfffePokémon.
-\xf000\x0102\x0001\x0000 wants to learn\xfffe\xf000\x0107\x0001\x0001!\xf000\xbe01\x0000However, \xf000\x0102\x0001\x0000 already knows four moves.\xfffeDelete a move to learn \xf000\x0107\x0001\x0001?
+\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeHowever, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000\xfffeShould a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
 YES
 NO
-Give up on learning\xfffe\xf000\x0107\x0001\x0001?
+Give up on learning the move\xfffe\xf000ć\x0001\x0001?
 YES
 NO
-\xf000\x0102\x0001\x0000 did not learn\xfffe\xf000\x0107\x0001\x0001.
+\xf000Ă\x0001\x0000 did not learn\xfffe\xf000ć\x0001\x0001.
 Which move should\xfffebe forgotten?
-1, \xf000\xbe02\x0001\x00142, and\xf000\xbe02\x0001\x0014... \xf000\xbe02\x0001\x0014... \xf000\xbe02\x0001\x0014... Ta-da!\xf000\xbe05\x0001\x0003\xf000\xbe05\x0001\x0006\xf000\xbe01\x0000\xfffe\xf000\x0102\x0001\x0000 forgot how to\xfffeuse \xf000\x0107\x0001\x0001.\xf000\xbe01\x0000\xfffeAnd...
-\xf000\x0102\x0001\x0000 learned\xfffe\xf000\x0107\x0001\x0001!\xf000\xbe05\x0001\x0002\xf000\xbe05\x0001\x0005
-\xf000\x0102\x0001\x0000 and \xf000\x0107\x0001\x0001\xfffeare not compatible.\xf000\xbe01\x0000\xfffe\xf000\x0107\x0001\x0001 can't be learned.
-\xf000\x0102\x0001\x0000 already knows\xfffe\xf000\x0107\x0001\x0001.
-\xf000\x0102\x0001\x0000's HP was restored\xfffeby \xf000\x0202\x0001\x0001 point(s).
-\xf000\x0102\x0001\x0000 was cured of its\xfffepoisoning.
-\xf000\x0102\x0001\x0000 was cured of\xfffeparalysis.
-\xf000\x0102\x0001\x0000's burn was healed.
-\xf000\x0102\x0001\x0000 was thawed out.
+1,\xf000븂\x0001\x0014 2, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...
+\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+\xf000Ă\x0001\x0000 and \xf000ć\x0001\x0001\xfffeare not compatible.\xf000븁\x0000\xfffe\xf000ć\x0001\x0001 can't be learned.
+\xf000Ă\x0001\x0000 already knows\xfffe\xf000ć\x0001\x0001.
+\xf000Ă\x0001\x0000's HP was restored\xfffeby \xf000Ȃ\x0001\x0001 point(s).
+\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
+\xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
+\xf000Ă\x0001\x0000's burn was healed.
+\xf000Ă\x0001\x0000 was thawed out.
 PP was restored.
-\xf000\x0102\x0001\x0000 recovered from\xfffefainting!
-\xf000\x0102\x0001\x0000 became healthy.
-\xf000\x0107\x0001\x0000's PP\xfffeincreased.
-\xf000\x0102\x0001\x0000 snapped out of its\xfffeconfusion.
-\xf000\x0102\x0001\x0000 got over its\xfffeinfatuation.
-\xf000\x0102\x0001\x0000's base \xf000\x010d\x0001\x0001\xffferose!
+\xf000Ă\x0001\x0000 recovered from\xfffefainting!
+\xf000Ă\x0001\x0000 became healthy.
+\xf000ć\x0001\x0000's PP\xfffeincreased.
+\xf000Ă\x0001\x0000 snapped out of its\xfffeconfusion.
+\xf000Ă\x0001\x0000\xfffesnapped out of its infatuation!
+\xf000Ă\x0001\x0000's base \xf000č\x0001\x0001\xffferose!
 This can't be used until a new\xfffeBadge is obtained.
 Must remove Mail before the\xfffePokémon is allowed to hold an item.
-\xf000\x0102\x0001\x0000 is already holding\xfffe\xf000\x0109\x0001\x0001.\xf000\xbe01\x0000\xfffeWould you like to switch the\xfffetwo items?
+\xf000Ă\x0001\x0000 is already holding\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffeWould you like to switch the\xfffetwo items?
 YES
 NO
-\xf000\x0102\x0001\x0000 isn't holding\xfffeanything.
-Received the \xf000\x0109\x0001\x0001\xfffefrom \xf000\x0102\x0001\x0000.
+\xf000Ă\x0001\x0000 isn't holding\xfffeanything.
+Received the \xf000ĉ\x0001\x0001\xfffefrom \xf000Ă\x0001\x0000.
 The Bag is full.
-The \xf000\x0109\x0001\x0001 was taken and\xfffereplaced with the \xf000\x0109\x0001\x0002.
+The \xf000ĉ\x0001\x0001 was taken and\xfffereplaced with the \xf000ĉ\x0001\x0002.
 Do you quit to join?
 YES
 NO
 I quit the challenge?
 YES
 NO
-\xf000\x0102\x0001\x0000 woke up.
-Escape and return\xfffeto \xf000\x0105\x0001\x0000?
+\xf000Ă\x0001\x0000 woke up.
+Escape and return\xfffeto \xf000ą\x0001\x0000?
 YES
 NO
-Teleport and return\xfffeto \xf000\x0105\x0001\x0000?
+Teleport and return\xfffeto \xf000ą\x0001\x0000?
 YES
 NO
 No more than two Pokémon\xfffemay enter.
 You're already surfing.
 You can't use that here.
 It won't have any effect.
-ひんしの ポケモンには\xfffeつかえません
-てもちが いっぱい なので\xfffeぶんり できません
-その ポケモンとは\xfffeがったい できません
-ひんしの ポケモンとは\xfffeがったい できません
-タマゴとは\xfffeがったい できません
+ひんしの　ポケモンには\xfffeつかえません
+てもちが　いっぱい　なので\xfffeぶんり　できません
+その　ポケモンとは\xfffeがったい　できません
+ひんしの　ポケモンとは\xfffeがったい　できません
+タマゴとは\xfffeがったい　できません
 Two Pokémon are needed.
-\xf000\x0102\x0001\x0000 became more friendly.\xf000\xbe01\x0000\xfffeHowever, its base \xf000\x010d\x0001\x0001 fell!
-\xf000\x0102\x0001\x0000 adores you!\xf000\xbe01\x0000\xfffeIts base \xf000\x010d\x0001\x0001 fell!
-\xf000\x0102\x0001\x0000 became more friendly.\xf000\xbe01\x0000\xfffeIts base \xf000\x010d\x0001\x0001 can't go lower.
-\xf000\x0102\x0001\x0000 was given the\xfffe\xf000\x0109\x0001\x0001 to hold.
-\xf000\x0102\x0001\x0000の\xfffe\xf000\x0109\x0001\x0001と\xf000\xbe01\x0000\xfffe\xf000\x0102\x0001\x0002の\xfffe\xf000\x0109\x0001\x0003を いれかえた!
-はっきんだまを ギラティナには\xfffeいどうできない!
-はっきんだまは ギラティナから\xfffeいどうできない!
-タマゴには どうぐを\xfffeもたせられない!
+\xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeHowever, its base \xf000č\x0001\x0001 fell!
+\xf000Ă\x0001\x0000 adores you!\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 fell!
+\xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 can't go lower.
+\xf000Ă\x0001\x0000 was given the\xfffe\xf000ĉ\x0001\x0001 to hold.
+\xf000Ă\x0001\x0000の\xfffe\xf000ĉ\x0001\x0001と\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002の\xfffe\xf000ĉ\x0001\x0003を　いれかえた！
+はっきんだまを　ギラティナには\xfffeいどうできない！
+はっきんだまは　ギラティナから\xfffeいどうできない！
+タマゴには　どうぐを\xfffeもたせられない！
 Choose a Pokémon.
 Two Pokémon are needed.
 Three Pokémon are needed.
@@ -109,10 +109,10 @@ No more than five Pokémon\xfffemay enter.
 Mail was transferred from\xfffethe Mailbox.
 This Pokémon is holding an item.\xfffeIt cannot hold Mail.
 This can't be used on\xfffethat Pokémon.
-ここを だっしゅつして\xfffe\xf000\x0105\x0001\x0000に もどる?
+ここを　だっしゅつして\xfffe\xf000ą\x0001\x0000に　もどる？
 YES
 NO
-さいごに やすんだ\xfffe\xf000\x0105\x0001\x0000に もどる?
+さいごに　やすんだ\xfffe\xf000ą\x0001\x0000に　もどる？
 YES
 NO
 Not enough HP...
@@ -127,16 +127,16 @@ CLOSE
 REPLACE
 ENTER
 NO ENTRY
-\xf000\x0107\x0001\x0000
-\xf000\x0107\x0001\x0000
-\xf000\x0107\x0001\x0000
-\xf000\x0107\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
 GIVE
 TAKE
-\xf000\x0107\x0001\x0000
-\xf000\x0107\x0001\x0000
-\xf000\x0107\x0001\x0000
-\xf000\x0107\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
 MOVE
 MOVE MAIL
 NOT ENTERED
@@ -156,7 +156,7 @@ ABLE!
 UNABLE!
 Identical Pokémon are not permitted.\xfffe
 Some Pokémon are holding identical\xfffeitems.
-The total of all party members'\xfffelevels has gone over \xf000\x0202\x0001\x0000.
+The total of all party members'\xfffelevels has gone over \xf000Ȃ\x0001\x0000.
 There are three or more\xfffelegendary Pokémon.
 The Pokémon which must participate\xfffeis not selected.
 MAX HP
@@ -166,27 +166,27 @@ SP. ATK
 SP. DEF
 SPEED
 +
-\xf000\x0202\x0001\x0000
-\xf000\x0102\x0001\x0000 was elevated to\xfffeLv. \xf000\x0202\x0001\x0001!\xf000\xbe05\x0001\x0002\xf000\xbe05\x0001\x0005
-\xf000\x0102\x0001\x0000 learned\xfffe\xf000\x0107\x0001\x0001!\xf000\xbe05\x0001\x0003\xf000\xbe05\x0001\x0005
+\xf000Ȃ\x0001\x0000
+\xf000Ă\x0001\x0000 was elevated to\xfffeLv. \xf000Ȃ\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0003\xf000븅\x0001\x0005
 You can't use that when you have\xfffesomeone with you.
 This isn't the place for that!
-\xf000\x0109\x0001\x0001
+\xf000ĉ\x0001\x0001
 What will you do\xfffewith the Egg?
 Please select an Egg.
-ぐるぐるこうかんを\xfffeやめますか?
+Cancel the Spin Trade?
 CONFIRM
-\xf000\x0101\x0001\x0000 changed Forme!
-\xf000\x0102\x0001\x0000 cannot hold\xfffe\xf000\x0109\x0001\x0001.
-The \xf000\x0109\x0001\x0000 cannot be\xfffegiven here.
-\xf000\x0100\x0001\x0000 is standing by...
+\xf000ā\x0001\x0000 changed Forme!
+\xf000Ă\x0001\x0000 cannot hold\xfffe\xf000ĉ\x0001\x0001.
+The \xf000ĉ\x0001\x0000 cannot be\xfffegiven here.
+\xf000Ā\x0001\x0000 is standing by...
 One person standing by...
 Two people standing by...
 Three people standing by...
 Time Limit
-\xf000\x0201\x0001\x0000:\xf000\x0201\x0001\x0001
-\xf000\x0201\x0001\x0001
+\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+\xf000ȁ\x0001\x0001
 Communicating. Please wait.
 YES
 NO
-You used your last \xf000\x0109\x0001\x0000.
+You used your last \xf000ĉ\x0001\x0000.
