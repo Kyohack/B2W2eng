@@ -58,7 +58,7 @@ Bianca: Hey, hey!
 せっかくだから　はいろうよ!\xf000븁\x0000
 Route 5\xfffePerformer Street
 Driftveil Drawbridge
-おとくな　けいじばん!\xf000븁\x0000\xfffe\xfffeバッグには　どうぐの　しゅるいごとに\xfffeポケットが　あります\xf000븁\x0000\xfffeいれる　どうぐの　しゅるいに　よって\xfffeじどうてきに　ふりわけられます\xf000븁\x0000\xfffeつかいたい　どうぐが　どこに　あるのか\xfffeポケットの　なまえで　すぐわかります\xf000븁\x0000\xfffeまた　フリースペースには\xfffeどうぐの　しゅるいに　かんけいなく\xf000븁\x0000\xfffeすきな　どうぐを　いれておけるので\xfffeよく　つかうものを　まとめておけます
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeThere are different Cases\xfffefor each type of item.\xf000븁\x0000\xfffeItems are placed automatically in\xfffethe correct Case by their type.\xf000븁\x0000\xfffeThe name of the Case tells you\xfffewhat type of items will be kept there.\xf000븁\x0000\xfffeまた　フリースペースには\xfffeどうぐの　しゅるいに　かんけいなく\xf000븁\x0000\xfffeすきな　どうぐを　いれておけるので\xfffeよく　つかうものを　まとめておけます
 Cheren: ...きいたよ\xf000븁\x0000\xfffeNという　ポケモントレーナーと\xfffeであったんだってね\xf000븁\x0000\xfffeだから　というわけでは　ないけど\xfffeぼくと　たたかってくれないかな?
 Cheren: きみとの　しょうぶで\xfffeたしかめたいことが　あるんだ\xf000븁\x0000\xfffeぼくと　たたかってくれないかな?
 きみと　\xf000Ā\x0001\x0001は\xfffeどこか　にているから\xf000븀\x0000\xfffeポケモンしょうぶが　たのしみ　だよ!\xf000븁\x0000
