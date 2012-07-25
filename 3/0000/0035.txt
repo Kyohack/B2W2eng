@@ -1,11 +1,11 @@
-まゆが　やぶれて\xfffeとびだすのは　ミーでした!\xf000븁\x0000\xfffeさあ　というわけで\xfffeミーと　しょうぶ　してくれよ!\xf000븁\x0000
-Hiding makes battle instincts dull,\xfffeyou know.\xf000븁\x0000
+まゆが やぶれて\xfffeとびだすのは ミーでした!\xf000\xbe01\x0000\xfffeさあ というわけで\xfffeミーと しょうぶ してくれよ!\xf000\xbe01\x0000
+Hiding makes battle instincts dull,\xfffeyou know.\xf000\xbe01\x0000
 Hiding makes battle instincts dull,\xfffeyou know.
-マユに　くるまれ　せいしんとういつ!\xf000븁\x0000\xfffeおだやかな　きもちの　ぼくは\xfffeひとあじも　ふたあじも　ちがうよ!\xf000븁\x0000
-マユの　なかで　ポケモンは\xfffeいちど　どろどろに　なって\xf000븀\x0000\xfffeからだを　つくりなおすらしい...\xf000븁\x0000\xfffeほんとうかなあ?
-Guide: いやあ!　プラズマだんや\xfffeジムリーダーを　さがして\xf000븁\x0000\xfffeヒウンシティを　みぎひだり\xfffeひとが　おおくて　へたばったでしょ?\xf000븁\x0000\xfffeというわけで\xfffeこれを　さしあげるっす!\xf000븁\x0000
-この　ジムはですね\xfffeまさに　マユが　テーマっす!\xf000븁\x0000\xfffeマユの　なかに　はいり\xfffeいとを　つたわって\xf000븀\x0000\xfffeどんどん　うえに　むかってくださいっす!\xf000븁\x0000\xfffeマユと　いとは　かならず\xfffeアーティさんに　つながっています!
-Wow! That's amazing!\xf000븁\x0000\xfffeYou swatted aside our Gym Leader\xfffeBurgh's tricky attacks...\xf000븁\x0000\xfffeI can barely imagine how much\xfffestronger you're going to get!
-Castelia Pokémon Gym\xf000븁\x0000\xfffeTrainers certified by\xfffeGym Leader Burgh!
-Castelia Pokémon Gym\xf000븁\x0000\xfffeTrainers certified by\xfffeGym Leader Burgh!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 
-Castelia Pokémon Gym\xf000븁\x0000\xfffeTrainers certified by\xfffeGym Leader Burgh!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001
+マユに くるまれ せいしんとういつ!\xf000\xbe01\x0000\xfffeおだやかな きもちの ぼくは\xfffeひとあじも ふたあじも ちがうよ!\xf000\xbe01\x0000
+マユの なかで Pokémon\xfffeいちど どろどろに なって\xf000\xbe00\x0000\xfffeからだを つくりなおすらしい...\xf000\xbe01\x0000\xfffeほんとうかなあ?
+Guide: いやあ! プラズマだんや\xfffeGym Leaderを さがして\xf000\xbe01\x0000\xfffeCasteliaシティを みぎひだり\xfffeひとが おおくて へたばったでしょ?\xf000\xbe01\x0000\xfffeというわけで\xfffeこれを さしあげるっす!\xf000\xbe01\x0000
+この ジムはですね\xfffeまさに マユが テーマっす!\xf000\xbe01\x0000\xfffeマユの なかに はいり\xfffeいとを つたわって\xf000\xbe00\x0000\xfffeどんどん うえに むかってくださいっす!\xf000\xbe01\x0000\xfffeマユと いとは かならず\xfffeアーティさんに つながっています!
+Wow! That's amazing!\xf000\xbe01\x0000\xfffeYou swatted aside our Gym Leader\xfffeBurgh's tricky attacks...\xf000\xbe01\x0000\xfffeI can barely imagine how much\xfffestronger you're going to get!
+Castelia Pokémon Gym\xf000\xbe01\x0000\xfffeTrainers certified by\xfffeGym Leader Burgh!
+Castelia Pokémon Gym\xf000\xbe01\x0000\xfffeTrainers certified by\xfffeGym Leader Burgh!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 
+Castelia Pokémon Gym\xf000\xbe01\x0000\xfffeTrainers certified by\xfffeGym Leader Burgh!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 \xf000\x0100\x0001\x0001

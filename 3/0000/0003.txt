@@ -6,9 +6,9 @@ no data
 no data
 no data
 no data
-Takurou: Some people already decided to\xfffeget their hands on what they want!\xf000븁\x0000\xfffeIf you have a Pokémon that you desire,\xfffenever give up!\xf000븁\x0000\xfffeTrust your decision to be right\xfffeand give it your best!
-Takurou: This is our favorite shop.\xf000븁\x0000\xfffeさいしんの　アイテムが\xfffeにゅうか　されたみたいだぜ!
-タクロウ『むかしは　かねめあての\xfffeわるいやつらが　ウロチョロしてたがな\xf000븀\x0000\xfffeおれが　ほとんど　たいじしてやった!\xf000븁\x0000\xfffeへっ!　ブラックシティの　へいわを\xfffeI'll be the one making the decisions!
+Takurou: Some people already decided to\xfffeget their hands on what they want!\xf000\xbe01\x0000\xfffeIf you have a Pokémon that you desire,\xfffenever give up!\xf000\xbe01\x0000\xfffeTrust your decision to be right\xfffeand give it your best!
+Takurou: This is our favorite shop.\xf000\xbe01\x0000\xfffeさいしんの アイテムが\xfffeにゅうか されたみたいだぜ!
+タクロウ: むかしは かねめあての\xfffeわるいやつらが ウロチョロしてたがな\xf000\xbe00\x0000\xfffeおれが ほとんど たいじしてやった!\xf000\xbe01\x0000\xfffeへっ! ブラックシティの へいわを\xfffeキメるのは おれだぜ!
 no data
 no data
 no data
@@ -26,9 +26,9 @@ no data
 no data
 no data
 no data
-Karen『つわものたちが　あつまる\xfffeしゅぎょうじょうが　あると　きいて\xf000븀\x0000\xfffeポケモンたちを　つれてきたの!\xf000븁\x0000\xfffeあなたも　トレーナーね!\xfffeともに　はげみましょう!
-Karen『You're \xf000Ā\x0001\x0000,　right!\xf000븁\x0000\xfffeくろのまてんろうを　だいぶ\xfffeこうりゃく　したみたいだけど\xf000븀\x0000\xfffeわたしも　まけないから!
-Karen『くろのまてんろうの\xfffeクリアおめでとう　\xf000Ā\x0001\x0000!!\xf000븀\x0000\xfffeあなたの　うわさで　もちきりよ!\xf000븁\x0000\xfffeショップでも　クリアきねんに\xfffeしんせいひんを　にゅうかしたってさ!
+Karen: つわものたちが あつまる\xfffeしゅぎょうじょうが あると きいて\xf000\xbe00\x0000\xfffeポケモンたちを つれてきたの!\xf000\xbe01\x0000\xfffeあなたも Trainerね!\xfffeともに はげみましょう!
+Karen: You're \xf000\x0100\x0001\x0000, right!\xf000\xbe01\x0000\xfffeくろのまてんろうを だいぶ\xfffeこうりゃく したみたいだけど\xf000\xbe00\x0000\xfffeわたしも まけないから!
+Karen: くろのまてんろうの\xfffeクリアおめでとう \xf000\x0100\x0001\x0000!!\xf000\xbe00\x0000\xfffeあなたの うわさで もちきりよ!\xf000\xbe01\x0000\xfffeショップでも クリアきねんに\xfffeしんせいひんを にゅうかしたってさ!
 no data
 no data
 no data
@@ -38,8 +38,8 @@ no data
 no data
 no data
 no data
-Kazuho『ろんぶんを　かくために\xfffeブラックシティに　きたんです\xf000븁\x0000\xfffeテーマは　としせいかつと　ポケモン!\xf000븁\x0000\xfffeとかいで　つかれた　ひとびとに\xfffeポケモンが　あたえる\xf000븀\x0000\xfffeいやしの　こうかを　しらべにきたの!
-Kazuho『ブラックシティで\xfffeちょうさしていた　けんきゅうが\xf000븀\x0000\xfffeやっと　まとまったの!\xf000븁\x0000\xfffeやっぱり　とかいでも　いちばんの\xfffeストレスかいしょうほうは\xf000븀\x0000\xfffeポケモンと　ふれあうことだったのよ!
+Kazuho: ろんぶんを かくために\xfffeブラックシティに きたんです\xf000\xbe01\x0000\xfffeテーマは としせいかつと ポケモン!\xf000\xbe01\x0000\xfffeとかいで つかれた ひとびとに\xfffeポケモンが あたえる\xf000\xbe00\x0000\xfffeいやしの こうかを しらべにきたの!
+Kazuho: ブラックシティで\xfffeちょうさしていた けんきゅうが\xf000\xbe00\x0000\xfffeやっと まとまったの!\xf000\xbe01\x0000\xfffeやっぱり とかいでも いちばんの\xfffeストレスかいしょうほうは\xf000\xbe00\x0000\xfffeポケモンと ふれあうことだったのよ!
 no data
 no data
 no data
@@ -70,9 +70,9 @@ no data
 no data
 no data
 no data
-Yumiko: 『なだたる　かいしゃが　あつまる\xfffeこの　ブラックシティでも　ゆびおりの\xf000븀\x0000\xfffeきぎょうに　しゅうしょく　したの!\xf000븁\x0000\xfffeバリバリ　はたらいて\xfffeしゅっせ　しちゃうんだから!
-Yumiko: 『わたし　もうだめ!　だめなの!\xfffeうわぁああああああああああん!\xf000븁\x0000\xfffeひぐっ...　しごとでは　しっぱいするし\xfffeこいびとには　ふられちゃうし...\xf000븁\x0000\xfffeホワイトフォレストに　にげたい...\xfffeもりと　ポケモンに　いやされたい...
-Yumiko: The company in between us\xfffeおおきなトラブルを　かいけつしてね\xf000븀\x0000\xfffeみんなに　ほめられちゃった♪\xf000븁\x0000\xfffeI know a lot has happened, please don't\xfffestop. I'm glad that you continued!\xf000븁\x0000\xfffeこれからも　このブラックシティで\xfffeバリバリ　おかねを　かせいでいくわよ
+Yumiko: : なだたる かいしゃが あつまる\xfffeこの ブラックシティでも ゆびおりの\xf000\xbe00\x0000\xfffeきぎょうに しゅうしょく したの!\xf000\xbe01\x0000\xfffeバリバリ はたらいて\xfffeしゅっせ しちゃうんだから!
+Yumiko: : わたし もうだめ! だめなの!\xfffeうわぁああああああああああん!\xf000\xbe01\x0000\xfffeひぐっ... しごとでは しっぱいするし\xfffeこいびとには ふられちゃうし...\xf000\xbe01\x0000\xfffeホワイトフォレストに にげたい...\xfffeもりと ポケモンに いやされたい...
+Yumiko: The company in between us\xfffeおおきなトラブルを かいけつしてね\xf000\xbe00\x0000\xfffeみんなに ほめられちゃった♪\xf000\xbe01\x0000\xfffeI know a lot has happened, please don't\xfffestop. I'm glad that you continued!\xf000\xbe01\x0000\xfffeこれからも このブラックシティで\xfffeバリバリ おかねを かせいでいくわよ
 no data
 no data
 no data
@@ -86,17 +86,17 @@ no data
 no data
 no data
 no data
-Eriza『とみと　めいせいを　もとめて\xfffeこの　よくぼうの\xf000븀\x0000\xfffeまちに　やってきたの!\xf000븁\x0000\xfffeまずは　くろのまてんろう　ってのを\xfffeだれよりも　はやく　クリアして\xf000븀\x0000\xfffeゆうめいじんに　なってやるんだから!\xf000븁\x0000\xfffe...って　うそ!\xfffeあなた　クリアしたの?\xf000븀\x0000\xfffeえー!　わたしの　けいかくがぁ!!
+Eriza: とみと めいせいを もとめて\xfffeこの よくぼうの\xf000\xbe00\x0000\xfffeまちに やってきたの!\xf000\xbe01\x0000\xfffeまずは くろのまてんろう ってのを\xfffeだれよりも はやく クリアして\xf000\xbe00\x0000\xfffeゆうめいじんに なってやるんだから!\xf000\xbe01\x0000\xfffe...って うそ!\xfffeあなた クリアしたの?\xf000\xbe00\x0000\xfffeえー! わたしの けいかくがぁ!!
 no data
 no data
 no data
-Hironori『ほしいものが　あるんスけど\xfffeなかなか　ショップに\xf000븀\x0000\xfffeにゅうか　されないんスよね!\xf000븁\x0000\xfffeしばらくしたら　しいれてくれるって\xfffeショップの　ひとは　いってたッスけど\xf000븀\x0000\xfffeまちきれないッス!
-Hironori『ショップに　いってみたッスか?\xfffeしんしょうひんが　にゅうかされてたッス!\xf000븁\x0000\xfffeでも　まだ　オレのほしい\xfffeアレは　にゅうかされて　ないッス...\xf000븁\x0000\xfffeはやく　アレが　てに　はいらないと\xfffeオレは　たいへんなことに　なるッス!
-Hironori『やっとショップに\xfffeアレが　にゅうかされたッス!\xf000븀\x0000\xfffeずーっと　まってたッスよぉ～\xf000븁\x0000\xfffe...えっ　アレってなにかって?\xf000븁\x0000\xfffeプライバシー　ッス!\xfffeぜったい　おしえられないッス!
+Hironori: ほしいものが あるんスけど\xfffeなかなか ショップに\xf000\xbe00\x0000\xfffeにゅうか されないんスよね!\xf000\xbe01\x0000\xfffeしばらくしたら しいれてくれるって\xfffeショップの ひとは いってたッスけど\xf000\xbe00\x0000\xfffeまちきれないッス!
+Hironori: ショップに いってみたッスか?\xfffeしんしょうひんが にゅうかされてたッス!\xf000\xbe01\x0000\xfffeでも まだ オレのほしい\xfffeアレは にゅうかされて ないッス...\xf000\xbe01\x0000\xfffeはやく アレが てに はいらないと\xfffeオレは たいへんなことに なるッス!
+Hironori: やっとショップに\xfffeアレが にゅうかされたッス!\xf000\xbe00\x0000\xfffeずーっと まってたッスよぉ~\xf000\xbe01\x0000\xfffe...えっ アレってなにかって?\xf000\xbe01\x0000\xfffeプライバシー ッス!\xfffeぜったい おしえられないッス!
 no data
-Ken『イッシュのなんかん\xfffeくろのまてんろう　に\xf000븀\x0000\xfffeいどもうって　トレーナーが\xf000븀\x0000\xfffeせかいじゅうから　あつまってきてる\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000も　ちょうせんするのか?\xf000븁\x0000\xfffeハードな　たたかいが　まっているぞ\xfffeとびきりの　ポケモンを　つれていけよ
-Ken『イッシュのなんかん\xfffeくろのまてんろう　での\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000の　かつやく　きいてるぜ\xf000븁\x0000\xfffeだけど　ゆだんするなよ\xfffeエリアが　あがれば　あがるほど\xf000븀\x0000\xfffeひとくせある　あいてが　ふえてくる...\xf000븁\x0000\xfffeまっ　けいけんしゃの　ちゅうこくさ\xfffeがんばって　うえを　めざせよ
-Ken『イッシュのなんかん\xfffeくろのまてんろうを\xf000븀\x0000\xfffeついに　せいは　したんだってな!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000...\xfffeすごいよ　おまえ...\xf000븁\x0000\xfffeおれだって　なんども　ちょうせんした\xfffeだけど　そのたびに　しっぱいして\xf000븀\x0000\xfffeいつしか　あきらめちまってた...\xf000븁\x0000\xfffeポケモンと　じぶんを　しんじつづけた\xfffeおまえを　そんけい　するぜ!
+Ken: イッシュのなんかん\xfffeくろのまてんろう に\xf000\xbe00\x0000\xfffeいどもうって トレーナーが\xf000\xbe00\x0000\xfffeせかいじゅうから あつまってきてる\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000も ちょうせんするのか?\xf000\xbe01\x0000\xfffeハードな たたかいが まっているぞ\xfffeとびきりの ポケモンを つれていけよ
+Ken: イッシュのなんかん\xfffeくろのまてんろう での\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000の かつやく きいてるぜ\xf000\xbe01\x0000\xfffeだけど ゆだんするなよ\xfffeエリアが あがれば あがるほど\xf000\xbe00\x0000\xfffeひとくせある あいてが ふえてくる...\xf000\xbe01\x0000\xfffeまっ けいけんしゃの ちゅうこくさ\xfffeがんばって うえを めざせよ
+Ken: イッシュのなんかん\xfffeくろのまてんろうを\xf000\xbe00\x0000\xfffeついに せいは したんだってな!\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000...\xfffeすごいよ おまえ...\xf000\xbe01\x0000\xfffeおれだって なんども ちょうせんした\xfffeだけど そのたびに しっぱいして\xf000\xbe00\x0000\xfffeいつしか あきらめちまってた...\xf000\xbe01\x0000\xfffeポケモンと じぶんを しんじつづけた\xfffeおまえを そんけい するぜ!
 no data
 no data
 no data
@@ -110,9 +110,9 @@ no data
 no data
 no data
 no data
-Emi『アルバイトを　してないときは\xfffeくろのまてんろうで　しょうきんを\xf000븀\x0000\xfffeがっぽり　かせいでいるの!\xf000븁\x0000\xfffeこっちにきて　よかったわ\xfffeのどかな　ところは　すきだけど\xf000븁\x0000\xfffeホワイトフォレストじゃ\xfffeこうは　もうけられないもの
-Emi『\xf000Ā\x0001\x0000って\xfffeくろのまてんろうで\xf000븀\x0000\xfffeかなり　うえまで　いったんだって?\xf000븁\x0000\xfffeすごいよね　わたしなんか\xfffeさいしょのエリアで　げんかい!\xf000븁\x0000\xfffeそれでも　じゅうぶん　おこづかいは\xfffeかせげるから　いいけどさ!
-Emi『おかねを　かせぐためとはいえ\xfffeこんなに　おなじまちに　いたのは\xf000븀\x0000\xfffeはじめてだな...\xf000븁\x0000\xfffeいろんなひととも　しりあったし\xfffeおきにいりの　おみせもできた...\xf000븁\x0000\xfffeでも　そろそろ　たびにでなきゃ\xfffeつぎは　ホワイトフォレストで\xf000븀\x0000\xfffeのんびりってのも　いいかもね!
+Emi: アルバイトを してないときは\xfffeくろのまてんろうで しょうきんを\xf000\xbe00\x0000\xfffeがっぽり かせいでいるの!\xf000\xbe01\x0000\xfffeこっちにきて よかったわ\xfffeのどかな ところは すきだけど\xf000\xbe01\x0000\xfffeホワイトフォレストじゃ\xfffeこうは もうけられないもの
+Emi: \xf000\x0100\x0001\x0000って\xfffeくろのまてんろうで\xf000\xbe00\x0000\xfffeかなり うえまで いったんだって?\xf000\xbe01\x0000\xfffeすごいよね わたしなんか\xfffeさいしょのエリアで げんかい!\xf000\xbe01\x0000\xfffeそれでも じゅうぶん おこづかいは\xfffeかせげるから いいけどさ!
+Emi: おかねを かせぐためとはいえ\xfffeこんなに おなじまちに いたのは\xf000\xbe00\x0000\xfffeはじめてだな...\xf000\xbe01\x0000\xfffeいろんなひととも しりあったし\xfffeおきにいりの おみせもできた...\xf000\xbe01\x0000\xfffeでも そろそろ たびにでなきゃ\xfffeつぎは ホワイトフォレストで\xf000\xbe00\x0000\xfffeのんびりってのも いいかもね!
 no data
 no data
 no data

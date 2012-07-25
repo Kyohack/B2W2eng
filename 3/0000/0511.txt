@@ -1,40 +1,40 @@
-Uh...\xfffeWho was I again?\xf000븁\x0000\xfffe...\xfffe...\xf000븁\x0000\xfffe...Oh, that's right!\xfffeI am the Move Deleter!\xf000븁\x0000
+Uh...\xfffeWho was I again?\xf000\xbe01\x0000\xfffe...\xfffe...\xf000\xbe01\x0000\xfffe...Oh, that's right!\xfffeI am the Move Deleter!\xf000\xbe01\x0000
 You've come to make me force your\xfffePokémon to forget some moves?
-Which Pokémon should forget a move?\xf000븁\x0000
+Which Pokémon should forget a move?\xf000\xbe01\x0000
 Remember me if there are moves that\xfffeneed to be forgotten.
-That Pokémon knows only one move,\xfffeso it can't be forgotten...\xf000븁\x0000
-What? That's an Egg.\xfffeNo Egg should know any moves.\xf000븁\x0000
-OK, then.\xfffeWhich move should be forgotten?\xf000븁\x0000
-Hm! The move \xf000ć\x0001\x0000?\xfffeShould that move be forgotten?
-It worked perfectly!\xf000븁\x0000\xfffeYour Pokémon has forgotten the move\xfffe\xf000ć\x0001\x0000 completely.
-Teach which move\xfffeto \xf000Ă\x0001\x0000?
-Teach the move\xfffe\xf000ć\x0001\x0001?
-Give up on teaching a move\xfffeto \xf000Ă\x0001\x0000?
-\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 wants to remember\xfffethe move \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeBut \xf000Ă\x0001\x0000 can't learn more\xfffethan four moves.\xf000븁\x0000\xfffeDelete an existing move to make \xffferoom for \xf000ć\x0001\x0001?
-1, \xf000븂\x0001\x00142, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Ta-da!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븁\x0000\xfffe\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...\xf000븁\x0000
-\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
-Give up on learning\xfffe\xf000ć\x0001\x0001?
-\xf000Ă\x0001\x0000 didn't learn\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
-\xf000Ā\x0001\x0002 gave a\xfffeHeart Scale as thanks!
-Delete the move\xfffe\xf000ć\x0001\x0000?
-Which move should\xfffe\xf000Ă\x0001\x0000 remember?\xf000븁\x0000
-Should the move \xf000ć\x0001\x0001\xfffebe remembered?
-Give up trying to make \xfffe\xf000Ă\x0001\x0000 remember a move?
-\xf000Ă\x0001\x0000 remembered the move\xfffe\xf000ć\x0001\x0001 it had forgotten!\xf000븁\x0000
-\xf000Ă\x0001\x0000 wants to remember\xfffethe move \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeBut \xf000Ă\x0001\x0000 can't learn more\xfffethan four moves.\xf000븁\x0000\xfffeDelete an existing move to make \xffferoom for \xf000ć\x0001\x0001?
-1, \xf000븂\x0001\x00142, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Ta-da!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븁\x0000\xfffe\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...\xf000븁\x0000
-\xf000Ă\x0001\x0000 remembered the move\xfffe\xf000ć\x0001\x0001 it had forgotten!\xf000븁\x0000
-Give up on making the Pokémon\xffferemember \xf000ć\x0001\x0001?
-\xf000Ă\x0001\x0000 did not remember the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000
-\xf000Ā\x0001\x0000 handed over one\xfffeHeart Scale in exchange.
-Is it OK to forget the\xfffemove \xf000ć\x0001\x0000?
-Everybody calls me the reminder girl.\xf000븁\x0000\xfffeI know every move that Pokémon learn\xfffewhile they're leveling up.\xf000븁\x0000\xfffeAnd I can make Pokémon remember\xfffethose moves!\xf000븁\x0000\xfffeIf you bring me a Heart Scale, I'll make\xfffea Pokémon remember a move.\xf000븁\x0000
+That Pokémon knows only one move,\xfffeso it can't be forgotten...\xf000\xbe01\x0000
+What? That's an Egg.\xfffeNo Egg should know any moves.\xf000\xbe01\x0000
+OK, then.\xfffeWhich move should be forgotten?\xf000\xbe01\x0000
+Hm! The move \xf000\x0107\x0001\x0000?\xfffeShould that move be forgotten?
+It worked perfectly!\xf000\xbe01\x0000\xfffeYour Pokémon has forgotten the move\xfffe\xf000\x0107\x0001\x0000 completely.
+Teach which move\xfffeto \xf000\x0102\x0001\x0000?
+Teach the move\xfffe\xf000\x0107\x0001\x0001?
+Give up on teaching a move\xfffeto \xf000\x0102\x0001\x0000?
+\xf000\x0102\x0001\x0000 learned\xfffe\xf000\x0107\x0001\x0001!
+\xf000\x0102\x0001\x0000 wants to remember\xfffethe move \xf000\x0107\x0001\x0001.\xf000\xbe01\x0000\xfffeBut \xf000\x0102\x0001\x0000 can't learn more\xfffethan four moves.\xf000\xbe01\x0000\xfffeDelete an existing move to make \xffferoom for \xf000\x0107\x0001\x0001?
+1, \xf000\xbe02\x0001\x00142, and\xf000\xbe02\x0001\x0014... \xf000\xbe02\x0001\x0014... \xf000\xbe02\x0001\x0014... Ta-da!\xf000\xbe05\x0001\x0003\xf000\xbe05\x0001\x0005\xf000\xbe01\x0000\xfffe\xf000\xbe01\x0000\xfffe\xf000\x0102\x0001\x0000 forgot how to\xfffeuse \xf000\x0107\x0001\x0001.\xf000\xbe01\x0000\xfffeAnd...\xf000\xbe01\x0000
+\xf000\x0102\x0001\x0000 learned\xfffe\xf000\x0107\x0001\x0001!\xf000\xbe01\x0000
+Give up on learning\xfffe\xf000\x0107\x0001\x0001?
+\xf000\x0102\x0001\x0000 didn't learn\xfffe\xf000\x0107\x0001\x0001!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0002 gave a\xfffeHeart Scale as thanks!
+Delete the move\xfffe\xf000\x0107\x0001\x0000?
+Which move should\xfffe\xf000\x0102\x0001\x0000 remember?\xf000\xbe01\x0000
+Should the move \xf000\x0107\x0001\x0001\xfffebe remembered?
+Give up trying to make \xfffe\xf000\x0102\x0001\x0000 remember a move?
+\xf000\x0102\x0001\x0000 remembered the move\xfffe\xf000\x0107\x0001\x0001 it had forgotten!\xf000\xbe01\x0000
+\xf000\x0102\x0001\x0000 wants to remember\xfffethe move \xf000\x0107\x0001\x0001.\xf000\xbe01\x0000\xfffeBut \xf000\x0102\x0001\x0000 can't learn more\xfffethan four moves.\xf000\xbe01\x0000\xfffeDelete an existing move to make \xffferoom for \xf000\x0107\x0001\x0001?
+1, \xf000\xbe02\x0001\x00142, and\xf000\xbe02\x0001\x0014... \xf000\xbe02\x0001\x0014... \xf000\xbe02\x0001\x0014... Ta-da!\xf000\xbe05\x0001\x0003\xf000\xbe05\x0001\x0005\xf000\xbe01\x0000\xfffe\xf000\xbe01\x0000\xfffe\xf000\x0102\x0001\x0000 forgot how to\xfffeuse \xf000\x0107\x0001\x0001.\xf000\xbe01\x0000\xfffeAnd...\xf000\xbe01\x0000
+\xf000\x0102\x0001\x0000 remembered the move\xfffe\xf000\x0107\x0001\x0001 it had forgotten!\xf000\xbe01\x0000
+Give up on making the Pokémon\xffferemember \xf000\x0107\x0001\x0001?
+\xf000\x0102\x0001\x0000 did not remember the\xfffemove \xf000\x0107\x0001\x0001.\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 handed over one\xfffeHeart Scale in exchange.
+Is it OK to forget the\xfffemove \xf000\x0107\x0001\x0000?
+Everybody calls me the reminder girl.\xf000\xbe01\x0000\xfffeI know every move that Pokémon learn\xfffewhile they're leveling up.\xf000\xbe01\x0000\xfffeAnd I can make Pokémon remember\xfffethose moves!\xf000\xbe01\x0000\xfffeIf you bring me a Heart Scale, I'll make\xfffea Pokémon remember a move.\xf000\xbe01\x0000
 Should a move be remembered?
-Which Pokémon should be taught?\xf000븁\x0000
-If any of your Pokémon need to\xffferemember a move, bring me a Heart Scale!
+Which Pokémon should learn it?\xf000\xbe01\x0000
+If any of your Pokémon needs to\xffferemember a move, bring me a Heart Scale!
 Don't you think it'd be tough for\xfffean Egg to learn a move?
-Sorry... There isn't a move\xfffeI can teach that Pokémon.
+Sorry... There isn't any move,\xfffeI can teach that Pokémon.
 Category
 POWER
 ACCURACY
@@ -42,14 +42,14 @@ PP
 Battle Move
 Appeal point(s)
 Contest Move
-\xf000Ȃ\x0001\x0000
-\xf000Ȃ\x0001\x0000
-\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+\xf000\x0202\x0001\x0000
+\xf000\x0202\x0001\x0000
+\xf000\x0201\x0001\x0000/\xf000\x0201\x0001\x0001
 QUIT
 ---
 BACK
 LEARN
 Remember which move?
-\xf000Ă\x0001\x0000
-Lv.\xf000Ȃ\x0001\x0000
+\xf000\x0102\x0001\x0000
+Lv.\xf000\x0202\x0001\x0000
 Learned Move

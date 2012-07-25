@@ -1,56 +1,56 @@
-Iris: Guess what!!\xf000븁\x0000\xfffeI can teach you the strongest\xfffeDragon-type move!\xf000븁\x0000\xfffeFun, huh? Want me to\xfffeteach your Pokémon this move?
+Iris: Guess what!!\xf000\xbe01\x0000\xfffeI can teach you the strongest\xfffeDragon-type move!\xf000\xbe01\x0000\xfffeFun, huh? Want me to\xfffeteach your Pokémon this move?
 OK! Well, if you change your mind,\xfffecome again, OK?
-Let me see...\xf000븁\x0000\xfffeWell, this Pokémon can learn the move,\xfffebut you need to have a really strong\xf000븀\x0000\xfffebond of friendship first.\xf000븁\x0000\xfffeI don't think I can teach it yet.
-OK, great!\xfffeOh, but...\xf000븁\x0000\xfffeYou don't seem to have a\xfffePokémon that can learn this move.
-OK, great! Which Pokémon should\xfffelearn this move?\xf000븁\x0000
+Let me see...\xf000\xbe01\x0000\xfffeWell, this Pokémon can learn the move,\xfffebut you need to have a really strong\xf000\xbe00\x0000\xfffebond of friendship first.\xf000\xbe01\x0000\xfffeI don't think I can teach it yet.
+OK, great!\xfffeOh, but...\xf000\xbe01\x0000\xfffeYou don't seem to have a\xfffePokémon that can learn this move.
+OK, great! Which Pokémon should\xfffelearn this move?\xf000\xbe01\x0000
 Um... I'm sorry...\xfffeThat Pokémon can't learn this move!
-What?\xf000븁\x0000\xfffeYou want me to teach the move to an Egg?\xfffeOK, I'll do my best!\xf000븁\x0000\xfffe...\xfffe...\xf000븁\x0000\xfffeSorry!\xfffeI think it's impossible!
-This one?\xf000븁\x0000\xfffeUm, but...it looks like this Pokémon\xfffealready knows \xf000ć\x0001\x0000.
-Iris: Draco Meteor's power is\xfffereally amazing!\xf000븁\x0000\xfffeBut after you use it, your Sp. Atk stat\xfffegoes down.
-Give up on teaching a move\xfffeto \xf000Ă\x0001\x0000?
-\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 is trying to\xfffelearn \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeBut \xf000Ă\x0001\x0000 can't learn\xfffemore than four moves.\xf000븁\x0000\xfffeDelete a move to make\xffferoom for \xf000ć\x0001\x0001?
-Give up on learning the\xfffemove \xf000ć\x0001\x0000?
-\xf000Ă\x0001\x0000 did not learn \xf000ć\x0001\x0001!
-Is it OK to forget the\xfffemove \xf000ć\x0001\x0000?
-1, \xf000븂\x0001\x00142, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Ta-da!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...!\xf000븁\x0000\xfffe
-\xf000Ă\x0001\x0000 learned \xf000ć\x0001\x0002!
-Drayden: If you wish, I can teach your\xfffePokémon the strongest\xf000븀\x0000\xfffeDragon-type move.\xf000븁\x0000\xfffeWould you like your Pokémon to learn\xfffethat move?
+What?\xf000\xbe01\x0000\xfffeYou want me to teach the move to an Egg?\xfffeOK, I'll do my best!\xf000\xbe01\x0000\xfffe...\xfffe...\xf000\xbe01\x0000\xfffeSorry!\xfffeI think it's impossible!
+This one?\xf000\xbe01\x0000\xfffeUm, but...it looks like this Pokémon\xfffealready knows \xf000\x0107\x0001\x0000.
+Iris: Draco Meteor's power is\xfffereally amazing!\xf000\xbe01\x0000\xfffeBut after you use it, your Sp. Atk stat\xfffegoes down.
+Give up on teaching a move\xfffeto \xf000\x0102\x0001\x0000?
+\xf000\x0102\x0001\x0000 learned\xfffe\xf000\x0107\x0001\x0001!
+\xf000\x0102\x0001\x0000 is trying to\xfffelearn \xf000\x0107\x0001\x0001!\xf000\xbe01\x0000\xfffeBut \xf000\x0102\x0001\x0000 can't learn more than\xfffefour moves.\xf000\xbe01\x0000\xfffeDelete a move to make room\xfffefor \xf000\x0107\x0001\x0001?
+Give up on learning the\xfffemove \xf000\x0107\x0001\x0000?
+\xf000\x0102\x0001\x0000 did not learn \xf000\x0107\x0001\x0001!
+Is it OK to forget the\xfffemove \xf000\x0107\x0001\x0000?
+1, \xf000\xbe02\x0001\x00142, and\xf000\xbe02\x0001\x0014... \xf000\xbe02\x0001\x0014... \xf000\xbe02\x0001\x0014... Ta-da!\xf000\xbe05\x0001\x0003\xf000\xbe05\x0001\x0006\xf000\xbe01\x0000\xfffe\xf000\x0102\x0001\x0000 forgot how to\xfffeuse \xf000\x0107\x0001\x0001.\xf000\xbe01\x0000\xfffeAnd...\xf000\xbe01\x0000
+\xf000\x0102\x0001\x0000 learned \xf000\x0107\x0001\x0002!
+Drayden: If you wish, I can teach your\xfffePokémon the strongest\xf000\xbe00\x0000\xfffeDragon-type move.\xf000\xbe01\x0000\xfffeWould you like your Pokémon to learn\xfffethat move?
 Understood.\xfffeCome again if you change your mind.
-Hmm...\xf000븁\x0000\xfffeThis Pokémon can learn this move, but\xfffeyour bond of friendship is not yet\xf000븀\x0000\xfffestrong enough.\xf000븁\x0000\xfffeThat means I cannot teach\xfffeit this move.
-I see...\xf000븁\x0000\xfffeBut there are no Pokémon with\xfffeyou right now that can learn this move.
-Which Pokémon should\xfffelearn this move?\xf000븁\x0000
-I'm very sorry, but...\xf000븁\x0000\xfffeThis Pokémon cannot learn this move.
+Hmm...\xf000\xbe01\x0000\xfffeThis Pokémon can learn this move, but\xfffeyour bond of friendship is not yet\xf000\xbe00\x0000\xfffestrong enough.\xf000\xbe01\x0000\xfffeThat means I cannot teach\xfffeit this move.
+I see...\xf000\xbe01\x0000\xfffeBut there are no Pokémon with\xfffeyou right now that can learn this move.
+Which Pokémon should\xfffelearn this move?\xf000\xbe01\x0000
+I'm very sorry, but...\xf000\xbe01\x0000\xfffeThis Pokémon cannot learn this move.
 That's an interesting request, but...\xfffeNot even I can teach a move to an Egg.
-Hmm... It looks like this Pokémon\xfffealready knows \xf000ć\x0001\x0000.
-Drayden: Draco Meteor's power is\xfffeexceptional, but using it lowers\xf000븀\x0000\xfffethe user's Sp. Atk stat.
-Your quest for power has brought\xfffeyou here...\xf000븁\x0000\xfffeVery well.\xf000븁\x0000\xfffeLet me reward your passion with some\xfffeabsolutely astounding moves.\xf000븁\x0000\xfffeThey're the ultimate moves!\xf000븁\x0000\xfffeShall I teach them to\xfffeyour Pokémon?
+Hmm... It looks like this Pokémon\xfffealready knows \xf000\x0107\x0001\x0000.
+Drayden: Draco Meteor's power is\xfffeexceptional, but using it lowers\xf000\xbe00\x0000\xfffethe user's Sp. Atk stat.
+Your quest for power has brought\xfffeyou here...\xf000\xbe01\x0000\xfffeVery well.\xf000\xbe01\x0000\xfffeLet me reward your passion with some\xfffeabsolutely astounding moves.\xf000\xbe01\x0000\xfffeThey're the ultimate moves!\xf000\xbe01\x0000\xfffeShall I teach them to\xfffeyour Pokémon?
 The ultimate moves!\xfffeWhich Pokémon shall I teach?
-The Pokémon with you can't\xfffelearn these moves!\xf000븁\x0000\xfffeGo talk to my wife! Keh!!
+The Pokémon with you can't\xfffelearn these moves!\xf000\xbe01\x0000\xfffeGo talk to my wife! Keh!!
 Hmm... Well, that is fine, as well.\xfffeVisit if you have a change of heart.
-Well, which Pokémon should I teach?\xf000븁\x0000
+Well, which Pokémon should I teach?\xf000\xbe01\x0000
 That Pokémon can't learn a move!\xfffeGo talk to my wife! Keh!
 Teach a move to an Egg?\xfffeImpossible, even for me! Keh!
 The bond with your Pokémon\xfffeis not strong enough! Keh!
 That Pokémon already knows\xfffethat move! Keh!
-I should teach \xf000ć\x0001\x0001 to\xfffe\xf000ā\x0001\x0000, right? Keh!
-Allow me to recite the Pokémon who\xfffecan be taught the ultimate moves!\xf000븁\x0000The blazing fire Pokémon...\xfffeCharizard, Typhlosion,\xf000븀\x0000Blaziken, Infernape,\xf000븀\x0000and Emboar!\xf000븁\x0000The restless water Pokémon...\xfffeBlastoise, Feraligatr,\xf000븀\x0000Swampert, Empoleon,\xf000븀\x0000and Daikenki!\xf000븁\x0000And the quiet grass Pokémon...\xfffeVenusaur, Meganium,\xf000븀\x0000Sceptile, Torterra,\xf000븀\x0000and Jalorda!
-Heya!\xf000븁\x0000\xfffeThe professor gave you a Pokémon to\xfffestart your journey, right?\xf000븁\x0000\xfffeIf that Pokémon is still with you, and if\xfffeyou two have a strong bond, there's a\xf000븀\x0000\xfffespecial move it can learn...\xf000븁\x0000\xfffeWant me to teach it a battle combo move?
+I should teach \xf000\x0107\x0001\x0001 to\xfffe\xf000\x0101\x0001\x0000, right? Keh!
+Allow me to recite the Pokémon who\xfffecan be taught the ultimate moves!\xf000\xbe01\x0000The blazing fire Pokémon...\xfffeCharizard, Typhlosion,\xf000\xbe00\x0000Blaziken, Infernape,\xf000\xbe00\x0000and Emboar!\xf000\xbe01\x0000The restless water Pokémon...\xfffeBlastoise, Feraligatr,\xf000\xbe00\x0000Swampert, Empoleon,\xf000\xbe00\x0000and Daikenki!\xf000\xbe01\x0000And the quiet grass Pokémon...\xfffeVenusaur, Meganium,\xf000\xbe00\x0000Sceptile, Torterra,\xf000\xbe00\x0000and Jalorda!
+Heya!\xf000\xbe01\x0000\xfffeThe professor gave you a Pokémon to\xfffestart your journey, right?\xf000\xbe01\x0000\xfffeIf that Pokémon is still with you, and if\xfffeyou two have a strong bond, there's a\xf000\xbe00\x0000\xfffespecial move it can learn...\xf000\xbe01\x0000\xfffeWant me to teach it a battle combo move?
 A special move...\xfffeShould I teach it a battle-combo move?
 I can't teach these Pokémon.
 Is that so...\xfffeWell, come on back now, y'hear?
-Which Pokémon should learn the move?\xf000븁\x0000
-Now, that Pokémon can't learn this\xfffespecial move!\xf000븁\x0000\xfffeI told ya, it's only for the Pokémon who\xfffestarted your journey with you.
+Which Pokémon should learn the move?\xf000\xbe01\x0000
+Now, that Pokémon can't learn this\xfffespecial move!\xf000\xbe01\x0000\xfffeI told ya, it's only for the Pokémon who\xfffestarted your journey with you.
 Teach a move to an Egg?\xfffeWhat kinda crazy talk is that?!
 This Pokémon... Well, it doesn't look\xfffelike it's too comfortable with you yet.
 I can't teach it twice. This Pokémon\xfffealready knows the special move!
-Want me to teach \xf000ć\x0001\x0001\xfffeto \xf000ā\x0001\x0000?
-The Pokémon I've taken a shine to are\xfffethe ones you get from the professor!\xf000븁\x0000\xfffeTo teach all of these Pokémon a\xfffespecial move, a battle combo move...\xf000븀\x0000\xfffeThat's my pledge!
-わしは　わざおしえ　しょくにん\xf000븁\x0000\xfffeそして　むるいの\xfffe\xf000ĉ\x0001\x0000　マニア!\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0000を　くれたら　おれいに\xfffeおまえさんの　ポケモンに\xf000븀\x0000\xfffeわざを　おしえて　あげるよ\xf000븁\x0000
-わしは　わざおしえ　しょくにん!\xf000븁\x0000
-This Pokémon\xfffeわざを　おしえるかい?
-ほい　きた!\xf000븁\x0000\xfffeじゃあ　おしえる\xfffeわざを　えらんどくれ\xf000븁\x0000
-\xf000ĉ\x0001\x0000が　あつまったら\xfffeまた　いつでも　おいで
-\xf000Ā\x0001\x0000は　おれいに\xfffe\xf000ĉ\x0001\x0001を　\xf000ȁ\x0001\x0002コ　わたした
-That Pokémon\xfffeこの　わざを　おぼえられないよ!
-That Pokémon すでに\xfffeおなじ　わざを　おぼえてるよ!
+Want me to teach \xf000\x0107\x0001\x0001\xfffeto \xf000\x0101\x0001\x0000?
+The Pokémon I've taken a shine to are\xfffethe ones you get from the professor!\xf000\xbe01\x0000\xfffeTo teach all of these Pokémon a\xfffespecial move, a battle combo move...\xf000\xbe00\x0000\xfffeThat's my pledge!
+わしは わざおしえ しょくにん\xf000\xbe01\x0000\xfffeそして むるいの\xfffe\xf000\x0109\x0001\x0000 マニア!\xf000\xbe01\x0000\xfffe\xf000\x0109\x0001\x0000を くれたら おれいに\xfffeおまえさんの ポケモンに\xf000\xbe00\x0000\xfffeわざを おしえて あげるよ\xf000\xbe01\x0000
+わしは わざおしえ しょくにん!\xf000\xbe01\x0000
+This Pokémon\xfffeわざを おしえるかい?
+ほい きた!\xf000\xbe01\x0000\xfffeじゃあ おしえる\xfffeわざを えらんどくれ\xf000\xbe01\x0000
+\xf000\x0109\x0001\x0000が あつまったら\xfffeまた いつでも おいで
+\xf000\x0100\x0001\x0000は おれいに\xfffe\xf000\x0109\x0001\x0001を \xf000\x0201\x0001\x0002コ わたした
+That Pokémon\xfffeこの わざを おぼえられないよ!
+That Pokémon すでに\xfffeおなじ わざを おぼえてるよ!

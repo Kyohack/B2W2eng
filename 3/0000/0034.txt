@@ -1,24 +1,24 @@
-Iris: Hey! Hey!\xf000븁\x0000\xfffeThe pier nearby!\xf000븁\x0000\xfffeヒウンで　あやしいと　いえば\xfffeスリムストリート　か\xf000븀\x0000\xfffeここかなと　おもうんだ\xf000븁\x0000
-Iris: Over here!\xfffeI said HERE!!!\xf000븁\x0000
-ベッドで　ねむりに　つくとき\xf000븁\x0000\xfffeぼくの　ポケモンの　こうげきが\xfffeきゅうしょに　あたったとき\xf000븁\x0000\xfffeぼくの　じんせいは　いろんな\xfffeよろこびに　あふれておるのです!
+Iris: Hey! Hey!\xf000\xbe01\x0000\xfffeThe pier nearby!\xf000\xbe01\x0000\xfffeヒウンで あやしいと いえば\xfffeスリムストリート か\xf000\xbe00\x0000\xfffeここかなと おもうんだ\xf000\xbe01\x0000
+Iris: Over here!\xfffeI said HERE!!!\xf000\xbe01\x0000
+ベッドで ねむりに つくとき\xf000\xbe01\x0000\xfffeぼくの ポケモンの こうげきが\xfffeきゅうしょに あたったとき\xf000\xbe01\x0000\xfffeぼくの じんせいは いろんな\xfffeよろこびに あふれておるのです!
 I am a battling Businessman!\xfffeI won't give up!
 Look at everyone move!\xfffeWhy am I the one who's tired?
 It's easy to get tired!\xfffeAnd hard to gain energy!
-ポケモンの　わざを　かえるか\xfffeもたせる　どうぐを　かえるか...?
-ひとに　かこまれて　いきるには\xfffeみんなを　すきに　なるか\xf000븀\x0000\xfffeじぶんだけ　すきでいるか　なのかな?
-こんなに　はってん　するまえの\xfffeヒウンって　どんなふう　だったのかな
+ポケモンの わざを かえるか\xfffeもたせる どうぐを かえるか...?
+ひとに かこまれて いきるには\xfffeみんなを すきに なるか\xf000\xbe00\x0000\xfffeじぶんだけ すきでいるか なのかな?
+こんなに はってん するまえの\xfffeCasteliaって どんなふう だったのかな
 A good-looking woman with\xfffestrong Pokémon is good!
-The Battle Company\xfffemonitors the battles that goes on.\xf000븁\x0000\xfffeAll trainers are welcome to\xfffecome by and play!
+The Battle Company\xfffemonitors the battles that goes on.\xf000\xbe01\x0000\xfffeAll trainers are welcome to\xfffecome by and play!
 This is one booming season...
-At last!　Castelia City!\xfffeFirst, I must try Hiunrarii!\xf000븁\x0000\xfffeOh hello, it's your first time\xfffehear in Castelia?\xf000븁\x0000\xfffeGood!\xfffePlease take this bike!!!\xf000븁\x0000
-ヒウンラリーの\xfffeルールは　かんたん!\xf000븁\x0000\xfffeきめられた　ポイントを　めぐり\xfffeピエロに　はなしかけるだけ!\xf000븀\x0000\xfffeやるも　やらぬも　じゆう　なのです!\xf000븁\x0000\xfffeラリーの　ポイントは\xfffeメダルじむきょく!\xf000븁\x0000\xfffeすれちがいちょうさたい\xf000븁\x0000\xfffeそして　バトルカンパニー!\xf000븁\x0000\xfffeそれでは　プレゼントした\xfffeじてんしゃに　のって　レッツゴー!
-やるも　やらぬも　じゆうの\xfffeヒウンラリー!　あなたが\xf000븀\x0000\xfffeまだ　おとずれて　いないのは...\xf000븁\x0000
-メダルじむきょく!\xf000븁\x0000
-Pass the survey to each person!\xf000븁\x0000
-Battle Company!\xf000븁\x0000
-の　\xf000Ȁ\x0001\x0000かしょ　ですね!\xf000븁\x0000\xfffeでは　めぐって　めぐって\xfffeヒウンラリー! Let's go!
-What! Counting to zero!\xfffe...ということは\xf000븁\x0000\xfffeヒウンラリー　せいは!\xfffeCongratulations!\xf000븁\x0000\xfffeこれは　ささやかな　ものですが\xfffeきねんひんに　どうぞ!\xf000븁\x0000
-ヒウンシティを　あいする\xfffeひとを　ふやすための　ラリー!\xf000븁\x0000\xfffeですから　さいしょに　きまえよく\xfffeじてんしゃも　プレゼント　したのです\xf000븁\x0000\xfffeこれからも　ヒウンシティを\xfffeあいして　くださいね!\xf000븁\x0000\xfffeヒウン　ヒウン　ヒウンシティ♪\xfffeヒヤ　ウィー　ゴー♪
+At last! Castelia City!\xfffeFirst, I must try Hiunrarii!\xf000\xbe01\x0000\xfffeOh hello, it's your first time\xfffehear in Castelia?\xf000\xbe01\x0000\xfffeGood!\xfffePlease take this bike!!!\xf000\xbe01\x0000
+Casteliaラリーの\xfffeルールは かんたん!\xf000\xbe01\x0000\xfffeきめられた ポイントを めぐり\xfffeピエロに はなしかけるだけ!\xf000\xbe00\x0000\xfffeやるも やらぬも じゆう なのです!\xf000\xbe01\x0000\xfffeラリーの ポイントは\xfffeメダルじむきょく!\xf000\xbe01\x0000\xfffeすれちがいちょうさたい\xf000\xbe01\x0000\xfffeそして バトルカンパニー!\xf000\xbe01\x0000\xfffeそれでは プレゼントした\xfffeじてんしゃに のって レッツゴー!
+やるも やらぬも じゆうの\xfffeCasteliaラリー! あなたが\xf000\xbe00\x0000\xfffeまだ おとずれて いないのは...\xf000\xbe01\x0000
+メダルじむきょく!\xf000\xbe01\x0000
+Pass the survey to each person!\xf000\xbe01\x0000
+Battle Company!\xf000\xbe01\x0000
+の \xf000\x0200\x0001\x0000かしょ ですね!\xf000\xbe01\x0000\xfffeでは めぐって めぐって\xfffeCasteliaラリー! Let's go!
+What! Counting to zero!\xfffe...ということは\xf000\xbe01\x0000\xfffeCasteliaラリー せいは!\xfffeCongratulations!\xf000\xbe01\x0000\xfffeこれは ささやかな ものですが\xfffeきねんひんに どうぞ!\xf000\xbe01\x0000
+Casteliaシティを あいする\xfffeひとを ふやすための ラリー!\xf000\xbe01\x0000\xfffeですから さいしょに きまえよく\xfffeじてんしゃも プレゼント したのです\xf000\xbe01\x0000\xfffeこれからも Casteliaシティを\xfffeあいして くださいね!\xf000\xbe01\x0000\xfffeCastelia Castelia Casteliaシティ♪\xfffeヒヤ ウィー ゴー♪
 Castelia City\xfffeA City of Grandeur
 Ahead: Castelia Street\xfffeOcean Side: Cruise Dock
 Ahead: Mode Street\xfffeOcean Side: Prime Pier

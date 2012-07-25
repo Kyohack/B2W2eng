@@ -1,37 +1,37 @@
-I'm the Day-Care Man.\xf000븁\x0000\xfffeWe take care of the precious Pokémon\xfffeof other Trainers.\xf000븁\x0000\xfffeIf you'd like us to raise your\xfffePokémon, have a word with my wife.
-Glad you came!\xfffeYour \xf000Ă\x0001\x0000's doing just fine.
-Glad you came!\xf000븁\x0000\xfffeYour \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001 are doing just fine.\xf000븁\x0000\xfffeThe two seem to get along very well!
-Glad you came!\xf000븁\x0000\xfffeYour \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001 are doing just fine.\xf000븁\x0000\xfffeThe two seem to get along.
-Glad you came!\xf000븁\x0000\xfffeYour \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001 are doing just fine.\xf000븁\x0000\xfffeThe two don't really seem to like\xfffeeach other much.
-Glad you came!\xf000븁\x0000\xfffeYour \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001 are doing just fine.\xf000븁\x0000\xfffeThe two prefer to play with other\xfffePokémon more than with each other.
-Ah, it's you!\xf000븁\x0000\xfffeWe were raising your Pokémon,\xfffeand my goodness, were we surprised!\xf000븁\x0000\xfffeYour Pokémon was holding an Egg!\xf000븁\x0000\xfffeWe don't know how it got there,\xfffebut your Pokémon had it.\xf000븁\x0000\xfffeYou do want it, don't you?
-\xf000Ā\x0001\x0000 received the Egg from\xfffethe Day-Care Man.
+I'm the Day-Care Man.\xf000\xbe01\x0000\xfffeWe take care of the precious Pokémon\xfffeof other Trainers.\xf000\xbe01\x0000\xfffeIf you'd like us to raise your\xfffePokémon, have a word with my wife.
+Glad you came!\xfffeYour \xf000\x0102\x0001\x0000's doing just fine.
+Glad you came!\xf000\xbe01\x0000\xfffeYour \xf000\x0102\x0001\x0000 and\xfffe\xf000\x0102\x0001\x0001 are doing just fine.\xf000\xbe01\x0000\xfffeThe two seem to get along very well!
+Glad you came!\xf000\xbe01\x0000\xfffeYour \xf000\x0102\x0001\x0000 and\xfffe\xf000\x0102\x0001\x0001 are doing just fine.\xf000\xbe01\x0000\xfffeThe two seem to get along.
+Glad you came!\xf000\xbe01\x0000\xfffeYour \xf000\x0102\x0001\x0000 and\xfffe\xf000\x0102\x0001\x0001 are doing just fine.\xf000\xbe01\x0000\xfffeThe two don't really seem to like\xfffeeach other much.
+Glad you came!\xf000\xbe01\x0000\xfffeYour \xf000\x0102\x0001\x0000 and\xfffe\xf000\x0102\x0001\x0001 are doing just fine.\xf000\xbe01\x0000\xfffeThe two prefer to play with other\xfffePokémon more than with each other.
+Ah, it's you!\xf000\xbe01\x0000\xfffeWe were raising your Pokémon,\xfffeand my goodness, were we surprised!\xf000\xbe01\x0000\xfffeYour Pokémon was holding an Egg!\xf000\xbe01\x0000\xfffeWe don't know how it got there,\xfffebut your Pokémon had it.\xf000\xbe01\x0000\xfffeYou do want it, don't you?
+\xf000\x0100\x0001\x0000 received the Egg from\xfffethe Day-Care Man.
 You take good care of it.
 You have no room for it right now...\xfffeCome back when you've made room.
 I really will keep it.\xfffeYou do want this Egg, yes?
 Well then, I'll hang on to it.\xfffeThanks!
-I'm the Day-Care Lady.\xfffeWe can raise Pokémon for you.\xf000븁\x0000\xfffeWould you like us to raise\xfffeyour Pokémon?
-I'm the Day-Care Lady.\xf000븁\x0000\xfffeWe can raise Pokémon for you.\xfffeWhat do you want to do today?
+I'm the Day-Care Lady.\xfffeWe can raise Pokémon for you.\xf000\xbe01\x0000\xfffeWould you like us to raise\xfffeyour Pokémon?
+I'm the Day-Care Lady.\xf000\xbe01\x0000\xfffeWe can raise Pokémon for you.\xfffeWhat do you want to do today?
 Very good.\xfffeCome again.
 Ah, there you are!\xfffeMy husband was looking for you.
-You can't leave your only Pokémon\xfffewith me! How would you battle?\xf000븁\x0000\xfffeCome back another time.
-Which Pokémon should we raise\xfffefor you?\xf000븁\x0000
+You can't leave your only Pokémon\xfffewith me! How would you battle?\xf000\xbe01\x0000\xfffeCome back another time.
+Which Pokémon should we raise\xfffefor you?\xf000\xbe01\x0000
 Now, now.\xfffeThat is merely an Egg!
-Fine, we'll raise your \xf000Ă\x0001\x0000\xfffefor a while.\xf000븁\x0000
+Fine, we'll raise your \xf000\x0102\x0001\x0000\xfffefor a while.\xf000\xbe01\x0000
 Come back for it later.
 We can raise two of your Pokémon.\xfffeWould you like us to raise another?
 You have energetic Pokémon.\xfffeDo you want your Pokémon back?
-By level, your \xf000ā\x0001\x0000 has\xfffegrown by about \xf000ȁ\x0001\x0001.\xf000븁\x0000
-If you want your \xf000ā\x0001\x0000 back,\xfffeit will cost \xf000Ȅ\x0001\x0001円.\xf000븀\x0000\xfffeDo you want it back?
+By level, your \xf000\x0101\x0001\x0000 has\xfffegrown by about \xf000\x0201\x0001\x0001.\xf000\xbe01\x0000
+If you want your \xf000\x0101\x0001\x0000 back,\xfffeit will cost $\xf000\x0204\x0001\x0001.\xf000\xbe00\x0000\xfffeDo you want it back?
 You don't have enough money...
-\xf000Ā\x0001\x0001 took \xf000ā\x0001\x0000 back\xfffefrom the Day-Care Lady.\xf000븁\x0000
+\xf000\x0100\x0001\x0001 took \xf000\x0101\x0001\x0000 back\xfffefrom the Day-Care Lady.\xf000\xbe01\x0000
 Do you want to take back the other\xfffeone, too? 
-Huh? Now, now.\xf000븁\x0000\xfffeIf you leave that Pokémon with\xfffeme, you'll be left with just one.\xf000븁\x0000\xfffeYou will be better off if you catch\xfffesome more, if I do say so myself.
-$\xf000ȅ\x0001\x0002
+Huh? Now, now.\xf000\xbe01\x0000\xfffeIf you leave that Pokémon with\xfffeme, you'll be left with just one.\xf000\xbe01\x0000\xfffeYou will be better off if you catch\xfffesome more, if I do say so myself.
+$\xf000\x0205\x0001\x0002
 Leave Pokémon
 Take back
-Back
-Lv. \xf000Ȃ\x0001\x0001
-\xf000ā\x0001\x0000♂ Lv. \xf000Ȃ\x0001\x0001
-\xf000ā\x0001\x0000♀ Lv. \xf000Ȃ\x0001\x0001
-\xf000ā\x0001\x0000 Lv. \xf000Ȃ\x0001\x0001
+Cancel
+Lv. \xf000\x0202\x0001\x0001
+\xf000\x0101\x0001\x0000♂ Lv. \xf000\x0202\x0001\x0001
+\xf000\x0101\x0001\x0000♀ Lv. \xf000\x0202\x0001\x0001
+\xf000\x0101\x0001\x0000 Lv. \xf000\x0202\x0001\x0001

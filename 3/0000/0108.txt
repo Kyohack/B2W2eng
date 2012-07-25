@@ -1,25 +1,25 @@
-Hmph!　Ready and waiting!\xf000븁\x0000\xfffeNow, show me what kind of\xfffeskill you've got, kid!\xf000븁\x0000
-... Well\xfffeThat was the show!\xf000븁\x0000\xfffeThey make 'em younger every day.\xfffeTrainers with true ability, I mean.\xf000븀\x0000\xfffeThey sure come at you fast!\xf000븁\x0000\xfffeHmph.\xfffeTake the damn thing!\xf000븁\x0000
-\xf000Ā\x0001\x0000 obtained the Quake Badge!\xf000븁\x0000
-You've got 5 badges now.\xf000븁\x0000\xfffeThat means that traded Pokémon up to\xfffelevel 60 will obey ya now.\xf000븁\x0000\xfffeALSO!\xfffeHere's a TM to remember our fight.\xf000븁\x0000
-An eagle does not know how\xfffemuch talent it has.\xf000븁\x0000\xfffeIf you think you can go anywhere,\xfffethen go anywhere.\xf000븁\x0000\xfffeIf you think you can do anything,\xfffethen do anything.\xf000븁\x0000\xfffeIt's up to you to decide the limits of\xfffewhat what you like and what you can do.\xf000븁\x0000
-...That's right.\xfffeSoar with the eagles!\xf000븁\x0000
-Clay: ... Hmph!\xfffeRemember what I said about eagles?\xf000븁\x0000\xfffeIf you think you can go anywhere,\xfffethen go anywhere.\xf000븁\x0000\xfffeIf you think you can do anything,\xfffethen do anything.\xf000븁\x0000\xfffeIt's up to you to decide the limits of\xfffewhat what you like and what you can do.
-Keep diggin belivin' you'll be right.\xfffeKeep fighting belivin' you'll win.\xf000븀\x0000\xfffeThat is my team's philosophy!\xf000븁\x0000
-Mr. Clay is amazing!\xfffeHe always knows exactly where dig.\xf000븁\x0000\xfffeGet it?　That means that\xfffewhere there's ore to be found\xf000븀\x0000\xfffeMr. Clay's not far behind!
-What you encountered riding a\xfffeconveyor belt was me!\xf000븁\x0000\xfffeIsn't that wild?\xf000븁\x0000
-You ever use one of the lifts?\xf000븁\x0000\xfffeIf you don't know where you are, just\xfffego up above to look around!\xf000븀\x0000\xfffeYou know what I mean?
-Anything can come true if you\xfffedon't limit your effort!\xf000븁\x0000\xfffeGranted, it'll be tough and will\xfffetake a lot of effort,\xf000븀\x0000\xfffebut think about what you can achieve!\xf000븁\x0000
-Driftveil's Pokémon Gym has been\xfffefrantically digging.\xf000븁\x0000\xfffeIt's stained with the tears and sweat\xfffeof hard working Pokémon!
-My Pokémon and I are\xfffedrilling PROFESSIONALS!\xf000븁\x0000\xfffeYou can't dig your way through them!\xfffeImpenetrable! Overcoming any opponent!\xf000븁\x0000
-Drillbur and Excadrill have an\xfffeamazing Drill Run attack!\xf000븁\x0000\xfffeTakes out anything in their path!!\xfffeUses their whole body!!
-Both far away and close,\xfffeare you sure what's next?\xf000븁\x0000
-Things far away and close...\xf000븁\x0000\xfffeFrom here, you're not far from Clay.\xf000븁\x0000\xfffeSorry bout that...\xfffeIt wasn't very romantic sounding.
-Darkness...\xf000븁\x0000\xfffeFeeling the breath of Pokémon,\xfffestep by step, advance!\xf000븁\x0000\xfffeI'll show you what was built with\xfffethe bonds of my Pokémon!\xf000븁\x0000
-It's just as dark as\xfffeit is in space here!\xf000븁\x0000\xfffeI'll dream of space because\xfffeI don't know what it's like.
-To dig is to dig~\xfffeTo have dug is dug!\xf000븁\x0000
+Hmph! Ready and waiting!\xf000\xbe01\x0000\xfffeNow, show me what kind of\xfffeskill you've got, kid!\xf000\xbe01\x0000
+... Well\xfffeThat was the show!\xf000\xbe01\x0000\xfffeThey make 'em younger every day.\xfffeTrainers with true ability, I mean.\xf000\xbe00\x0000\xfffeThey sure come at you fast!\xf000\xbe01\x0000\xfffeHmph.\xfffeTake the damn thing!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 obtained the Quake Badge!\xf000\xbe01\x0000
+You've got 5 badges now.\xf000\xbe01\x0000\xfffeThat means that traded Pokémon up to\xfffelevel 60 will obey ya now.\xf000\xbe01\x0000\xfffeALSO!\xfffeHere's a TM to remember our fight.\xf000\xbe01\x0000
+An eagle does not know how\xfffemuch talent it has.\xf000\xbe01\x0000\xfffeIf you think you can go anywhere,\xfffethen go anywhere.\xf000\xbe01\x0000\xfffeIf you think you can do anything,\xfffethen do anything.\xf000\xbe01\x0000\xfffeIt's up to you to decide the limits of\xfffewhat what you like and what you can do.\xf000\xbe01\x0000
+...That's right.\xfffeSoar with the eagles!\xf000\xbe01\x0000
+Clay: ... Hmph!\xfffeRemember what I said about eagles?\xf000\xbe01\x0000\xfffeIf you think you can go anywhere,\xfffethen go anywhere.\xf000\xbe01\x0000\xfffeIf you think you can do anything,\xfffethen do anything.\xf000\xbe01\x0000\xfffeIt's up to you to decide the limits of\xfffewhat what you like and what you can do.
+Keep diggin belivin' you'll be right.\xfffeKeep fighting belivin' you'll win.\xf000\xbe00\x0000\xfffeThat is my team's philosophy!\xf000\xbe01\x0000
+Mr. Clay is amazing!\xfffeHe always knows exactly where dig.\xf000\xbe01\x0000\xfffeGet it? That means that\xfffewhere there's ore to be found\xf000\xbe00\x0000\xfffeMr. Clay's not far behind!
+What you encountered riding a\xfffeconveyor belt was me!\xf000\xbe01\x0000\xfffeIsn't that wild?\xf000\xbe01\x0000
+You ever use one of the lifts?\xf000\xbe01\x0000\xfffeIf you don't know where you are, just\xfffego up above to look around!\xf000\xbe00\x0000\xfffeYou know what I mean?
+Anything can come true if you\xfffedon't limit your effort!\xf000\xbe01\x0000\xfffeGranted, it'll be tough and will\xfffetake a lot of effort,\xf000\xbe00\x0000\xfffebut think about what you can achieve!\xf000\xbe01\x0000
+Driftveil's Pokémon Gym has been\xfffefrantically digging.\xf000\xbe01\x0000\xfffeIt's stained with the tears and sweat\xfffeof hard working Pokémon!
+My Pokémon and I are\xfffedrilling PROFESSIONALS!\xf000\xbe01\x0000\xfffeYou can't dig your way through them!\xfffeImpenetrable! Overcoming any opponent!\xf000\xbe01\x0000
+Drillbur and Excadrill have an\xfffeamazing Drill Run attack!\xf000\xbe01\x0000\xfffeTakes out anything in their path!!\xfffeUses their whole body!!
+Both far away and close,\xfffeare you sure what's next?\xf000\xbe01\x0000
+Things far away and close...\xf000\xbe01\x0000\xfffeFrom here, you're not far from Clay.\xf000\xbe01\x0000\xfffeSorry bout that...\xfffeIt wasn't very romantic sounding.
+Darkness...\xf000\xbe01\x0000\xfffeFeeling the breath of Pokémon,\xfffestep by step, advance!\xf000\xbe01\x0000\xfffeI'll show you what was built with\xfffethe bonds of my Pokémon!\xf000\xbe01\x0000
+It's just as dark as\xfffeit is in space here!\xf000\xbe01\x0000\xfffeI'll dream of space because\xfffeI don't know what it's like.
+To dig is to dig~\xfffeTo have dug is dug!\xf000\xbe01\x0000
 There are pitfalls everywhere in life!\xfffeIf you fall in, climb back up!
-Welcome to the Driftveil Gym!\xfffeAs a welcome, here's a gift from me!\xf000븁\x0000
-The Gym Leader, Clay, uses\xfffeGround-type Pokémon here!\xf000븁\x0000\xfffeSo a good strategy here would pay\xfffeattention to the fact Ground Pokémon\xf000븀\x0000\xfffeare weak to Water type attacks!\xf000븁\x0000\xfffeIn addition,　Grass Types and\xfffeIce Types are also a good idea.\xf000븁\x0000\xfffeMoreover, this gym is pitch black\xfffeuntil you walk onto a platform.\xf000븀\x0000\xfffeI hope my clues have "illuminated"\xf000븀\x0000\xfffesome ideas for you.
-From time to time, I remember when\xfffethe Quake Badge started here.\xf000븁\x0000\xfffeI wanted to battle Clay so bad!
-\xf000Ā\x0001\x0000 pressed the lift switch!
+Welcome to the Driftveil Gym!\xfffeAs a welcome, here's a gift from me!\xf000\xbe01\x0000
+The Gym Leader, Clay, uses\xfffeGround-type Pokémon here!\xf000\xbe01\x0000\xfffeSo a good strategy here would pay\xfffeattention to the fact Ground Pokémon\xf000\xbe00\x0000\xfffeare weak to Water type attacks!\xf000\xbe01\x0000\xfffeIn addition, Grass Types and\xfffeIce Types are also a good idea.\xf000\xbe01\x0000\xfffeMoreover, this gym is pitch black\xfffeuntil you walk onto a platform.\xf000\xbe00\x0000\xfffeI hope my clues have "illuminated"\xf000\xbe00\x0000\xfffesome ideas for you.
+From time to time, I remember when\xfffethe Quake Badge started here.\xf000\xbe01\x0000\xfffeI wanted to battle Clay so bad!
+\xf000\x0100\x0001\x0000 pressed the lift switch!

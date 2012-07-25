@@ -1,30 +1,30 @@
-Alder: \xf000Ā\x0001\x0000!\xfffeHey, are your Pokémon healthy?\xf000븁\x0000\xfffeYou'll have an advantage over other\xfffetrainers if your Pokémon do their best.\xfffeI wish your Pokémon good luck.\xf000븀\x0000\xfffeAlways be kind to them!\xf000븁\x0000
-My house is up ahead.\xf000븁\x0000\xfffeGo to the Pokémon Center, please.\xfffeI'll see you later!\xf000븁\x0000
-Alder: Alright, this way!\xfffeSo, shall we train?\xf000븁\x0000
-By the way... why\xfffedo you have 2 Town Maps?\xf000븁\x0000\xfffe...... ...... ......\xfffe...... ...... ......\xf000븁\x0000
-Oh!\xfffeIs that your friend's Town Map?\xf000븁\x0000Trainer
-\xf000ā\x0001\x0000 is your\xfffefriend's companion, don't you think?\xf000븁\x0000\xfffeYes! Some time ago when I was 20,\xfffeI trained Pokémon in Kanto...\xf000븁\x0000\xfffeThere! If possible, deliver\xfffethe Town Map ahead!\xf000븁\x0000
-Advance along the road\xfffeof route 20 soon!\xf000븁\x0000
-Along the road of Route 20\xfffeyou can advance!\xf000븁\x0000\xfffeCome! They're awaiting the\xfffedelivery of the Town Map!
-Alder『Oh! Giving the\xfffeTown Map to your friend!\xf000븁\x0000\xfffeHmm...!\xf000븁\x0000\xfffeわずかの　あいだに　おまえさんも\xfffeポケモンも　みちがえるようだ!\xf000븁\x0000\xfffeよし!　きたえるのは　なし\xf000븁\x0000\xfffeかわりに　おまえさんと　ポケモンの\xfffeちからを　かしてくれい!\xf000븁\x0000
-Alder『\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeヒオウギに　できたばかりの\xfffeNew Trainer's School\xf000븀\x0000\xfffeand Pokémon Gym's too.\xf000븁\x0000\xfffeジムリーダーが　とうちゃくしたと\xfffeれんらくが　あったぞ!\xf000븁\x0000\xfffeそこで　アドバイスだ!\xf000븁\x0000\xfffeどれほど　パートナーの　ポケモンを\xfffeりかい　しているか　たしかめるため\xf000븀\x0000\xfffeジムリーダーに　いどむと　いい!\xf000븁\x0000
-In the morning\xfffethe Pokémon are hungry,\xf000븁\x0000\xfffeIn the evening, Pokémon are worn\xfffeout from playing and hog the bed.\xf000븁\x0000\xfffeAh! I'm satisfied.
-Nevertheless, Sangi Ranch has\xfffesome wild Pokémon leaping around\xf000븁\x0000\xfffeそりゃもう　じぶんの　ポケモンだけが\xfffeたより　っちゅー　わけよ!
-Don't forget to\xfffekeep saving your game every\xf000븀\x0000\xfffeonce in a while!
-From the past to the future\xfffeI think it's a great thing\xf000븁\x0000\xfffeto play with your Pokémon\xfffeat any time!
+Alder: There you are! \xf000\x0100\x0001\x0000,\xfffehow are your Pokémon doing?\xf000\xbe01\x0000\xfffeTrainer's and their Pokémon always\xfffehave obstacles to overcome, but each\xf000\xbe00\x0000\xfffeone makes them stronger!\xf000\xbe01\x0000
+My house is up ahead.\xf000\xbe01\x0000\xfffeWhere I train young trainers and\xfffetheir Pokémon! Follow me.\xf000\xbe01\x0000
+Alder: It's over there!\xfffeIt's where I train as well!\xf000\xbe01\x0000
+By the way...Why are you carrying\xfffe2 Town Maps with you?\xf000\xbe01\x0000\xfffe... ... ...\xfffe... ... ...\xf000\xbe01\x0000
+Ahh!\xfffeOne is for your friend.\xf000\xbe01\x0000
+I noticed someone earlier that\xfffecame through with a \xf000\x0101\x0001\x0000.\xf000\xbe01\x0000\xfffeOh! They were headed towards Route 20\xfffeto train their Pokémon...\xf000\xbe01\x0000\xfffeAlright! You need to\xfffebring them that map!\xf000\xbe01\x0000
+Continue along route 20!\xf000\xbe01\x0000
+Continue along route 20!\xf000\xbe01\x0000\xfffeHurry! They'll need that map\xfffeto avoid getting lost!
+Alder: Oh! Giving the\xfffeTown Map to your friend!\xf000\xbe01\x0000\xfffeHmm...!\xf000\xbe01\x0000\xfffeわずかの あいだに おまえさんも\xfffeポケモンも みちがえるようだ!\xf000\xbe01\x0000\xfffeよし! きたえるのは なし\xf000\xbe01\x0000\xfffeかわりに おまえさんと ポケモンの\xfffeちからを かしてくれい!\xf000\xbe01\x0000
+Alder: \xf000\x0100\x0001\x0000!\xf000\xbe01\x0000\xfffeヒオウギに できたばかりの\xfffeNew Trainer's School\xf000\xbe00\x0000\xfffeand Pokémon Gym's too.\xf000\xbe01\x0000\xfffeジムリーダーが とうちゃくしたと\xfffeれんらくが あったぞ!\xf000\xbe01\x0000\xfffeそこで アドバイスだ!\xf000\xbe01\x0000\xfffeどれほど パートナーの ポケモンを\xfffeりかい しているか たしかめるため\xf000\xbe00\x0000\xfffeジムリーダーに いどむと いい!\xf000\xbe01\x0000
+In the morning\xfffethe Pokémon are hungry,\xf000\xbe01\x0000\xfffeIn the evening, Pokémon are worn\xfffeout from playing and hog the bed.\xf000\xbe01\x0000\xfffeAh! I'm satisfied.
+Nevertheless, Sangi Ranch has\xfffesome wild Pokémon leaping around\xf000\xbe01\x0000\xfffeそりゃもう じぶんの ポケモンだけが\xfffeたより っちゅー わけよ!
+Don't forget to\xfffekeep saving your game every\xf000\xbe00\x0000\xfffeonce in a while!
+From the past to the future\xfffeI think it's a great thing\xf000\xbe01\x0000\xfffeto play with your Pokémon\xfffeat any time!
 Do you want to know\xfffewhat Alder taught us?
-During a battle,　the Pokémon\xfffethat appears\xf000븀\x0000\xfffeon the upper-left of the list!\xf000븁\x0000\xfffeThat's why I set the Pokémon\xfffeI want to raise to become stronger!
+During a battle, the Pokémon\xfffethat appears\xf000\xbe00\x0000\xfffeon the upper-left of the list!\xf000\xbe01\x0000\xfffeThat's why I set the Pokémon\xfffeI want to raise to become stronger!
 I can't refrain anymore..\xfffeAt long last *drumroll* it's complete!
-Do you think traveling with Pokémon\xfffechanges people?
+Hmm, you like Japanese games, eh?\xfffeThink you could handle things in Japanese?
 Me too! Traveling and thinking about many\xfffethings can definitely make a difference.
-You're right! It's fine to just enjoy the\xfffejourney without overthinking it!
-This is Sangi Town  サンギは\xfffeうらないや　けいさんに　つかう　ぼう
+Yeah, good for fan translations! Though,\xfffealas, they're rarely in capable hands.\xf000\xbe00\x0000Such is life!
+This is Sangi Town  サンギは\xfffeうらないや けいさんに つかう ぼう
 The old clock tower...
-Bianca: Ooooii!\xf000븁\x0000
-Bianca: Hey hey!\xf000븁\x0000
-Pardon me!\xf000븁\x0000\xfffeI forgot to tell you about\xfffea function in your Pokédex\xf000븁\x0000\xfffeknown as the Area List!\xfffeThis is great!\xf000븀\x0000\xfffeLet me borrow this a sec.\xf000븁\x0000
-\xf000Ā\x0001\x0000's Pokédex has\xfffebeen upgraded!
-The Area list mode \xfffeof the Pokédex can\xf000븁\x0000\xfffetell you the location of\xfffeany Pokémon!\xf000븁\x0000
-To use: Open the Pokédex\xfffeon the lower left\xf000븀\x0000\xfffeof the screen, touch 「Area」!\xf000븀\x0000\xfffeAfter, choose the location and\xf000븁\x0000\xfffeit will tell you the\xfffeall the Pokémon that\xf000븀\x0000\xfffeinhabit the area!\xf000븁\x0000\xfffeWould you like to\xfffelisten to instructions again?
-Here's some advice!\xf000븁\x0000\xfffeWhen walking down a path\xfffethe grass might shake!\xf000븀\x0000\xfffeIf the grass is shaking..\xf000븁\x0000\xfffethe rest is\xfffeup to you!\xf000븁\x0000
-Embark on your journey around the\xfffeworld, and fill up your Pokédex!\xf000븁\x0000\xfffeSo go to many places\xfffeand meet many Pokémon! \xf000븁\x0000\xfffeSee you later!\xf000븁\x0000
+Bianca: Ooooii!\xf000\xbe01\x0000
+Bianca: Hey hey!\xf000\xbe01\x0000
+Pardon me!\xf000\xbe01\x0000\xfffeI forgot to tell you about\xfffea function in your Pokédex\xf000\xbe01\x0000\xfffeknown as the Area List!\xfffeThis is great!\xf000\xbe00\x0000\xfffeLet me borrow this a sec.\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000's Pokédex has\xfffebeen upgraded!
+The Area list mode \xfffeof the Pokédex can\xf000\xbe01\x0000\xfffetell you the location of\xfffeany Pokémon!\xf000\xbe01\x0000
+To use: Open the Pokédex\xfffeon the lower left\xf000\xbe00\x0000\xfffeof the screen, touch 「Area」!\xf000\xbe00\x0000\xfffeAfter, choose the location and\xf000\xbe01\x0000\xfffeit will tell you the\xfffeall the Pokémon that\xf000\xbe00\x0000\xfffeinhabit the area!\xf000\xbe01\x0000\xfffeWould you like to\xfffelisten to instructions again?
+Here's some advice!\xf000\xbe01\x0000\xfffeWhen walking down a path\xfffethe grass might shake!\xf000\xbe00\x0000\xfffeIf the grass is shaking..\xf000\xbe01\x0000\xfffethe rest is\xfffeup to you!\xf000\xbe01\x0000
+Embark on your journey around the\xfffeworld, and fill up your Pokédex!\xf000\xbe01\x0000\xfffeSo go to many places\xfffeand meet many Pokémon! \xf000\xbe01\x0000\xfffeSee you later!\xf000\xbe01\x0000

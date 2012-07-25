@@ -1,17 +1,17 @@
-おや?　ちょうせんしゃ　っすか?\xf000븁\x0000\xfffeもうしわけない　ですね\xfffeジムリーダー　なんですけど\xf000븀\x0000\xfffeちょいと　るすに　してまして...\xf000븁\x0000\xfffeいきさきは　わかってるっす!\xfffeこの　ゆうえんちの　いりぐちちかく\xf000븁\x0000\xfffeジェットコースターに　のれる\xfffeたてものに　いる　はずなんすよ
-きらり　きらきら　まばゆい\xfffeファッションショー!
-ピエロの　メイクには\xfffeなみだマークが　ついているんですって
-ジェットコースターに　かんらんしゃ!\xfffeどっちから　たのしもうかなー!
+おや? ちょうせんしゃ っすか?\xf000\xbe01\x0000\xfffeもうしわけない ですね\xfffeGym Leader なんですけど\xf000\xbe00\x0000\xfffeちょいと るすに してまして...\xf000\xbe01\x0000\xfffeいきさきは わかってるっす!\xfffeこの ゆうえんちの いりぐちちかく\xf000\xbe01\x0000\xfffeジェットコースターに のれる\xfffeたてものに いる はずなんすよ
+きらり きらきら まばゆい\xfffeファッションショー!
+ピエロの メイクには\xfffeなみだマークが ついているんですって
+ジェットコースターに かんらんしゃ!\xfffeどっちから たのしもうかなー!
 The Xtransceiver has been picked up!
-\xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
+\xf000\x0100\x0001\x0000 picked up the Xtransceiver.\xf000\xbe01\x0000
 The Xtransceiver has been picked up!
-\xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
-Nimbasa City Pokémon Gym\xfffeLeader: Elesa\xf000븀\x0000\xfffeThe Shining Beauty
-あー　あーああっあー♪\xf000븁\x0000\xfffeはっ　はじめての　デートで\xfffeなにを　はなせば...
-かれったら　ゆうえんち　でも\xfffeギターを　ならしてばかり...\xf000븁\x0000\xfffeステキ!　こころから\xfffeおんがくを　あいしているのね!
-た!　たぶんね!!
-こないだ　この　ゆうえんちに\xfffeアイドルが　さつえいで　きてたの♪\xf000븁\x0000\xfffeしってる?　あの　テレビの\xfffeバラエティに　でてる　アイドルだよ!\xf000븁\x0000\xfffeしゅうろくを　みてて　おもったけど\xfffeライブキャスターが　すきなのね!\xf000븁\x0000\xfffeきゅうけいちゅう　えがおで\xfffeずっと　おはなし　してたよ～♪
+\xf000\x0100\x0001\x0000 picked up the Xtransceiver.\xf000\xbe01\x0000
+Nimbasa City Pokémon Gym\xfffeLeader: Elesa\xf000\xbe00\x0000\xfffeThe Shining Beauty
+あー あーああっあー♪\xf000\xbe01\x0000\xfffeはっ はじめての デートで\xfffeなにを はなせば...
+かれったら ゆうえんち でも\xfffeギターを ならしてばかり...\xf000\xbe01\x0000\xfffeステキ! こころから\xfffeおんがくを あいしているのね!
+た! たぶんね!!
+こないだ この ゆうえんちに\xfffeアイドルが さつえいで きてたの♪\xf000\xbe01\x0000\xfffeしってる? あの テレビの\xfffeバラエティに でてる アイドルだよ!\xf000\xbe01\x0000\xfffeしゅうろくを みてて おもったけど\xfffeライブキャスターが すきなのね!\xf000\xbe01\x0000\xfffeきゅうけいちゅう えがおで\xfffeずっと おはなし してたよ~♪
 てゅう♪
 ぐほっお!!
-ジェットコースターの　いいところ\xfffeそれは　こころから　さけべるところね
-シャイニング　ジェットコースター\xfffe...もとライモン　ポケモンジム
+ジェットコースターの いいところ\xfffeそれは こころから さけべるところね
+シャイニング ジェットコースター\xfffe...もとNimbasa Pokémon Gym

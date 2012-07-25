@@ -1,12 +1,12 @@
-The music is too loud.\xfffe\xf000Ā\x0001\x0000's voice can't be heard!
-Let's go! You're the reason\xfffethe music stopped!!\xf000븁\x0000
-Oh\xfffeI'm not supposed to lose!\xf000븁\x0000\xfffeOr rather,\xfffedoes this mean that you are strong?\xf000븁\x0000\xfffeIt's just frustrating\xfffebecause I was being lazy.\xf000븀\x0000\xfffeIt was refreshing to suffer a defeat!\xf000븁\x0000\xfffeHere!\xfffeYou won this token of our battle!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received\xfffethe Toxic Badge from Roxie!\xf000븁\x0000
-This is your 2nd badge!\xf000븁\x0000\xfffePokémon up to level 30\xfffewill obey you.\xf000븁\x0000\xfffeThey will acknowledge your power..\xfffeand will no longer ignore commands\xf000븁\x0000\xfffeAlso, here!\xfffePut this TM to use!\xf000븁\x0000
-TM09 is Venoshock!\xfffeSpecial venom gets poured on opponent!\xf000븁\x0000\xfffeMoreover.. the damage is doubled if\xfffethe opponent is poisoned!\xf000븀\x0000\xfffeThe punch will be effective! Tee-hee
-Your Pokémon..\xf000븁\x0000\xfffeWon!　I'm overflowing with\xfffeabsurd feelings right now..\xf000븁\x0000\xfffeI can do so much\xffferight about now!
-Are you going\xfffeto PokéStar Studios?!\xf000븁\x0000\xfffeAh! I remember\xfffemy dad!!\xf000븀\x0000\xfffeHe can't do a captain's job!\xf000븁\x0000
-Your favorite Pokémon and\xfffemusic are persistant to be\xf000븀\x0000\xffferather Roxie-ish\xf000븁\x0000\xfffeYou are achieving what you really\xfffelike.. isn't that great!\xf000븁\x0000\xfffe...Making trouble to someone is\xfffeabsolutely unlikely from you!
-That's Roxie for you!　Extraordinarily\xfffebringing out the Pokémon's Charm\xf000븁\x0000\xfffeNevertheless..　Her actions\xfffehere are always dazzling.
-Hey you!\xf000븁\x0000\xfffeFighting with Gym Leader Roxie\xfffeI really felt the sparkle\xf000븁\x0000\xfffePlease go and visit PokéStar Studios\xf000븁\x0000
-I'm P.A!\xf000븁\x0000\xfffeThe sounds from this Venue are\xfffebalanced and easy to listen to!\xf000븁\x0000\xfffeAre you a trainer?\xf000븁\x0000\xfffeIf that's the case, do\xfffeyou  consider the balance of Pokémon Types?
+The music is too loud.\xfffe\xf000\x0100\x0001\x0000's voice can't be heard!
+Let's go! You're the reason\xfffethe music stopped!!\xf000\xbe01\x0000
+Oh\xfffeI'm not supposed to lose!\xf000\xbe01\x0000\xfffeOr rather,\xfffedoes this mean that you are strong?\xf000\xbe01\x0000\xfffeIt's just frustrating\xfffebecause I was being lazy.\xf000\xbe00\x0000\xfffeIt was refreshing to suffer a defeat!\xf000\xbe01\x0000\xfffeHere!\xfffeYou won this token of our battle!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 received the\xfffeToxic Badge from Roxie!\xf000\xbe01\x0000
+This is your 2nd badge!\xf000\xbe01\x0000\xfffePokémon up to level 30\xfffewill obey you.\xf000\xbe01\x0000\xfffeThey will acknowledge your power..\xfffeand will no longer ignore commands\xf000\xbe01\x0000\xfffeAlso, here!\xfffePut this TM to use!\xf000\xbe01\x0000
+TM09 is Venoshock!\xfffeSpecial venom gets poured on opponent!\xf000\xbe01\x0000\xfffeMoreover.. the damage is doubled if\xfffethe opponent is poisoned!\xf000\xbe00\x0000\xfffeThe punch will be effective! Tee-hee
+Your Pokémon..\xf000\xbe01\x0000\xfffeWon! I'm overflowing with\xfffeabsurd feelings right now..\xf000\xbe01\x0000\xfffeI can do so much\xffferight about now!
+Are you going\xfffeto PokéStar Studios?!\xf000\xbe01\x0000\xfffeAh! I remember\xfffemy dad!!\xf000\xbe00\x0000\xfffeHe can't do a captain's job!\xf000\xbe01\x0000
+Your favorite Pokémon and\xfffemusic are persistant to be\xf000\xbe00\x0000\xffferather Roxie-ish\xf000\xbe01\x0000\xfffeYou are achieving what you really\xfffelike.. isn't that great!\xf000\xbe01\x0000\xfffe...Making trouble to someone is\xfffeabsolutely unlikely from you!
+That's Roxie for you! Extraordinarily\xfffebringing out the Pokémon's Charm\xf000\xbe01\x0000\xfffeNevertheless.. Her actions\xfffehere are always dazzling.
+Hey you!\xf000\xbe01\x0000\xfffeFighting with Gym Leader Roxie\xfffeI really felt the sparkle\xf000\xbe01\x0000\xfffePlease go and visit PokéStar Studios\xf000\xbe01\x0000
+I'm P.A!\xf000\xbe01\x0000\xfffeThe sounds from this Venue are\xfffebalanced and easy to listen to!\xf000\xbe01\x0000\xfffeAre you a trainer?\xf000\xbe01\x0000\xfffeIf that's the case, do\xfffeyou  consider the balance of Pokémon Types?

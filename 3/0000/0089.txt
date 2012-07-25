@@ -1,17 +1,17 @@
 There is a football game in\xfffeBig Stadium now!
-Football players are practicing in\xfffeBig Stadium now.\xf000븁\x0000\xfffePeople can watch them practicing!
+Football players are practicing in\xfffeBig Stadium now.\xf000\xbe01\x0000\xfffePeople can watch them practicing!
 There is a baseball game\xfffein Big Stadium now!
-Infielders are practicing\xfffein Big Stadium now.\xf000븁\x0000\xfffePeople can watch them practicing!
+Infielders are practicing\xfffein Big Stadium now.\xf000\xbe01\x0000\xfffePeople can watch them practicing!
 There is a soccer game\xfffein Big Stadium now!
-Soccer players are practicing\xfffein Big Stadium now!\xf000븁\x0000\xfffePeople can watch them practicing!
+Soccer players are practicing\xfffein Big Stadium now!\xf000\xbe01\x0000\xfffePeople can watch them practicing!
 You sure look up to athletes when\xfffeyou're a kid.
 I'm raising the same Pokémon as\xfffemy favorite athlete's Pokémon.
 When I throw a Poké Ball, I copy the\xfffethrowing form of a quarterback!
 When I throw a Poké Ball, I copy the form\xfffeof a pitcher!
 When I throw a Poké Ball, I copy the\xfffethrow-in of a keeper!
-Ha ha! I am a football player!\xf000븁\x0000\xfffeI injured my hand, so I can't sign\xfffeautographs! I'm sorry about that.\xf000븁\x0000\xfffeSo, what does the autograph on your\xfffeTrainer Card look like?
-Yeah! I am an Infielder!\xf000븁\x0000\xfffeI hurt my hand, so I can't write\xfffean autograph! Sorry!\xf000븁\x0000\xfffeSay, how did you sign your Trainer Card?
-Bwa ha ha! I am a Striker!\xf000븁\x0000\xfffeMy hand got hurt, so I won't be able to\xfffesign any autographs! Regrets!\xf000븁\x0000\xfffeWhat does your Trainer Card signature\xfffelook like?
-I am sorry.\xf000븁\x0000\xfffeBut you cannot go onto the field\xfffebecause a game is in progress.
-I am sorry.\xf000븁\x0000\xfffeBut you cannot go onto the field\xfffebecause a game is in progress.
-I am sorry.\xf000븁\x0000\xfffeBut you cannot go onto the field\xfffebecause a game is in progress.
+Ha ha! I am a football player!\xf000\xbe01\x0000\xfffeI injured my hand, so I can't sign\xfffeautographs! I'm sorry about that.\xf000\xbe01\x0000\xfffeSo, what does the autograph on your\xfffeTrainer Card look like?
+Yeah! I am an Infielder!\xf000\xbe01\x0000\xfffeI hurt my hand, so I can't write\xfffean autograph! Sorry!\xf000\xbe01\x0000\xfffeSay, how did you sign your Trainer Card?
+Bwa ha ha! I am a Striker!\xf000\xbe01\x0000\xfffeMy hand got hurt, so I won't be able to\xfffesign any autographs! Regrets!\xf000\xbe01\x0000\xfffeWhat does your Trainer Card signature\xfffelook like?
+I am sorry.\xf000\xbe01\x0000\xfffeBut you cannot go onto the field\xfffebecause a game is in progress.
+I am sorry.\xf000\xbe01\x0000\xfffeBut you cannot go onto the field\xfffebecause a game is in progress.
+I am sorry.\xf000\xbe01\x0000\xfffeBut you cannot go onto the field\xfffebecause a game is in progress.

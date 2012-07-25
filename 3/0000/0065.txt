@@ -1,16 +1,16 @@
-By taking a Feeling Check, you can get\xfffea Sweet Heart. That's a good item, right?
-I am the Feeling Reader.\xf000븁\x0000\xfffeI've heard a lot of people take\xfffeFeeling Checks using the C-Gear.
-I am the Feeling Reader.\xf000븁\x0000\xfffeFrom the results of your Feeling Checks,\xfffeI'll tell you your lucky person\xf000븀\x0000\xfffefor today!\xf000븁\x0000\xfffeAre you interested?\xfffeDo you want to know your lucky person?
-The person who can make your day\xfffeexceptionally happy...\xf000븁\x0000\xfffeIt's \xf000Ā\x0001\x0000!
-Oh, you don't have to hesitate.\xfffeI will read it for free!
-The person who can make your day\xfffeexceptionally happy is...\xf000븁\x0000\xfffeOh dear. You've taken a Feeling Check\xfffeonly with \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI suggest that you take Feeling Checks\xfffewith a lot of people!
-こんにちは!\xf000븁\x0000\xfffeよろしければ　あなたの　ポケモンに\xfffeマッサージ　しましょうか?
-Oh, I see.\xfffePlease see me if you change your mind.
-All right! Let me get started.\xf000븁\x0000
-Massage the Egg?\xfffeIt may be a bit too early for that.
-はい　おつかれさま!!\xf000븁\x0000\xfffeいまの　マッサージで\xfffeあなたに　とても　なついたみたい!
-はい　おつかれさまでした!\xf000븁\x0000\xfffeいまの　マッサージで\xfffeあなたに　なついたみたいね!
-はい　おつかれさまでした\xf000븁\x0000\xfffeいまの　マッサージで\xfffeあなたに　すこし　なついたみたいね!
-ごめんなさい!　さっきの\xfffeマッサージで　あたし　クタクタ...\xf000븀\x0000\xfffeまた　あした　きてみてね!
-ひとから　もらった\xfffeポケモンの　なまえは　かえられない\xf000븁\x0000\xfffeなんたって　なまえを　つけた　ひとの\xfffeおもいが　こめられているからな!
-みきり『ふふん!!
+The Heart Sweets you get\xfffefrom Feeling Checks... They're nice!
+I am the Feeling Reader.\xf000\xbe01\x0000\xfffeI've heard a lot of people take\xfffeFeeling Checks using the C-Gear.
+I'm the Feeling Reader!\xf000\xbe01\x0000Based on your Feeling Check\xffferesults, I can pin down\xf000\xbe00\x0000your lucky partner for the day!\xf000\xbe00\x0000So, want your fortune?
+The person who can make your day\xfffeexceptionally happy...\xf000\xbe01\x0000\xfffeIt's \xf000\x0100\x0001\x0000!
+Oh? Go on, try it!\xfffeIt's just fortune telling!
+The person who can make your day\xfffeexceptionally happy is...\xf000\xbe01\x0000\xfffeOh dear. You've taken a Feeling Check\xfffeonly with \xf000\x0100\x0001\x0000.\xf000\xbe01\x0000\xfffeI suggest that you take Feeling Checks\xfffewith a lot of people!
+Good day!\xf000\xbe01\x0000Would you like me to\xfffemassage one of your Pokémon?
+Feel free to come back\xfffeif you change your mind.
+Alright!\xfffeJust relax...\xf000\xbe01\x0000
+Um, massaging an egg...?\xfffeI think it's a little early for that.
+Okay! Finished!\xf000\xbe01\x0000It seemed to really\xfffelike the massage!
+Okay! Finished!\xf000\xbe01\x0000It seemed to\xfffelike the massage!
+はい おつかれさまでした\xf000\xbe01\x0000\xfffeいまの マッサージで\xfffeあなたに すこし なついたみたいね!
+I'm sorry!\xfffeI've exhausted from that massage...\xf000\xbe00\x0000You can come back tomorrow!
+The names of Pokémon you receive\xfffefrom others can't be changed.\xf000\xbe01\x0000They're too full of all the thoughts\xfffeof the person who named them!
+みきり: ふふん!!

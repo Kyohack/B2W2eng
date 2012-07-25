@@ -1,11 +1,11 @@
-Ah, a fantastic trainer!\xfffeWhat kinds of Pokémon do you have?\xf000븁\x0000Oh! Your \xf000ā\x0001\x0000...\xf000븁\x0000
-ものすごーく　なついているのね!\xfffeいっしょにいると　しあわせ　なんだ
-あなたは　\xf000ā\x0001\x0000のことが　すきで\xfffeどんなときも　そばに　いるのね!
-あなたと　\xf000ā\x0001\x0000\xfffeもっと　すてきな　コンビに　なれそう!
+Ah, a fantastic trainer!\xfffeWhat kinds of Pokémon do you have?\xf000\xbe01\x0000Oh! Your \xf000\x0101\x0001\x0000...\xf000\xbe01\x0000
+ものすごーく なついているのね!\xfffeいっしょにいると しあわせ なんだ
+あなたは \xf000\x0101\x0001\x0000のことが すきで\xfffeどんなときも そばに いるのね!
+あなたと \xf000\x0101\x0001\x0000\xfffeもっと すてきな コンビに なれそう!
 It's a little bit friendly to you...\xfffeSomething like that.
 Hmmm...\xfffeIt may still take some time.
-ひょっとして　ポケモンしょうぶで\xfffeきぜつ　させて　ばかりじゃない?
-あらま?　スパルタ?　それとも\xfffeやつあたりの　わざを　つかうの?
+ひょっとして ポケモンしょうぶで\xfffeきぜつ させて ばかりじゃない?
+あらま? スパルタ? それとも\xfffeやつあたりの わざを つかうの?
 Fwish fwish!
 Pwoof...
-きびしい　やせいで　いきぬくより\xfffeひとと　ともに　いるほうが\xf000븁\x0000\xfffeあんぜんで　いいと　かんがえる\xfffeポケモンも　いるかも　しれないよね
+きびしい やせいで いきぬくより\xfffeひとと ともに いるほうが\xf000\xbe01\x0000\xfffeあんぜんで いいと かんがえる\xfffeポケモンも いるかも しれないよね
