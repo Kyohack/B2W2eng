@@ -1,51 +1,51 @@
 Brycen
 Brycen
-モブタロウ
+Mobutarou
 Brycen
 Brycen
-ヨハンソン
+Johansson
 Brycen
-モブヒコ
-ビバリ
-モブヒコ
-ビバリ
-クミ
-マサヒコ
-クミ
-マサチカ
+Mobuhiko
+Bibari
+Mobuhiko
+Bibari
+Kumi
+Masahiko
+Kumi
+Masachika
 Peter
-モブコ
-モブコ
-メンデス
-カタリーナ
-イザベル
+Mobuko
+Mobuko
+Mendes
+Catalina
+Isabel
 Sabrina
-モブヘイ
+Mobuhei
 Sabrina
 Kiyomi
 Terry
 Terry
 Terry
-モブエ
-モブエ
-モブエ
-ゲンズブル
-バーグマン
-ゲンズブル
-バーグマン
-ニコルソン
-アビゲイル
-モブジロウ
-ウッド
+Mobue
+Mobue
+Mobue
+Genzuburu
+Bergman
+Genzuburu
+Bergman
+Nicholson
+Abigail
+Mobujirou
+Woody
 Brycen
 Brycen
 Brycen Man
 Brycen Man
 Brycen Man
-メカポリス
-メカポリス
-ポリアンナ
-メカポリス
+Mekaporisu
+Mekaporisu
+Porianna
+Mekaporisu
 UFO
 E
 UFO
@@ -53,98 +53,16 @@ Alien
 ???
 Hoffman
 ???
-セリザワ
-ストレンジ
-LEDIAN
-LEDIAN
-ペネロペ
-バルバラ
-Maria
-???
-Stuffed
-ジュジュベ
-モニカ
-グアイ
-グアイ
-グアイ
-Red Wear
-Red Wear
-Red Wear
-マニュエル
-Simon
-マニュエル
-Simon
-カダス
-セラエノ
-Ancient Statue
-アーカム
-Brycen Man
-Brycen Man
-Brycen
-Brycen
-モブタロウ
-Brycen
-Brycen
-アイ
-Brycen
-モブヒコ
-ビバリ
-モブヒコ
-ビバリ
-クミ
-マサヒコ
-クミ
-マサチカ
-Peter
-モブコ
-モブコ
-ホセ
-ロドリゲス
-ファビオ
-Sabrina
-モブヘイ
-Sabrina
-Kiyomi
-Terry
-Terry
-Terry
-モブエ
-モブエ
-モブエ
-ゲンズブル
-バーグマン
-ゲンズブル
-バーグマン
-ニコルソン
-アビゲイル
-モブジロウ
-ウッド
-Brycen
-Brycen
-Brycen Man
-Brycen Man
-Brycen Man
-メカポリス
-メカポリス
-ポリアンナ
-メカポリス
-UFO
-E
-UFO
-Alien
-???
-Hoffman
-???
-セリザワ
+Serizawa
 Strange
 LEDIAN
 LEDIAN
-Miguel
-カミロ
-アントニオ
+Penelope
+Barbara
+Maria
 ???
 Stuffed
-ジュジュベ
+Jujube
 Monica
 グアイ
 グアイ
@@ -156,10 +74,92 @@ Manuel
 Simon
 Manuel
 Simon
-カダス
-セラエノ
+Kadasu
+Seraeno
 Ancient Statue
-ア-カム
+Arkham
+Brycen Man
+Brycen Man
+Brycen
+Brycen
+Mobutarou
+Brycen
+Brycen
+Eyi
+Brycen
+Mobuhiko
+Bibari
+Mobuhiko
+Bibari
+Kumi
+Masahiko
+Kumi
+Masachika
+Peter
+Mobuko
+Mobuko
+Jose
+Rodriguez
+Fabio
+Sabrina
+Mobuhei
+Sabrina
+Kiyomi
+Terry
+Terry
+Terry
+Mobue
+Mobue
+Mobue
+Genzuburu
+Bergman
+Genzuburu
+Bergman
+Nicholson
+Abigail
+Mobujirou
+Woody
+Brycen
+Brycen
+Brycen Man
+Brycen Man
+Brycen Man
+Mekaporisu
+Mekaporisu
+Porianna
+Mekaporisu
+UFO
+E
+UFO
+Alien
+???
+Hoffman
+???
+Serizawa
+Strange
+LEDIAN
+LEDIAN
+Miguel
+Camillo
+Antonio
+???
+Stuffed
+Jujube
+Monica
+グアイ
+グアイ
+グアイ
+Red Wear
+Red Wear
+Red Wear
+Manuel
+Simon
+Manuel
+Simon
+Kadasu
+Seraeno
+Ancient Statue
+Arkham
 Brycen Man
 Brycen Man
 UFO
@@ -167,13 +167,13 @@ Brycen Man
 M・B
 M・B2
 てんそうき
-モニカ
+Monica
 Puppet
 Monster
 F-00
-まじん
-しろとびら
-くろとびら
+Devil
+White door
+Black door
 セット
 セット
 セット
@@ -193,6 +193,6 @@ F-00
 UFO
 Monica
 F-00
-カラテオ-
+Karateou
 Smeargle
-ホミカパパ
+Homikapapa
