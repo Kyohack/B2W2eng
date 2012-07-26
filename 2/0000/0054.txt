@@ -1,8 +1,8 @@
-What language do you want to play in?\xfffeEnglish or Japanese?\xf000\xbe01\x0000
+What language would you like the\xfffePokémon names to be?\xf000븀\x0000
 English
 Japanese
-The game will be played\xfffein English.\xf000\xbe01\x0000
-The game will be played\xfffein Japanese.\xf000\xbe01\x0000
+The Pokémon names will be\xfffein English.\xf000븁\x0000
+The Pokémon names will be\xfffein Japanese.\xf000븁\x0000
 Creating save data.\xfffePlease wait...
 Hi there!\xf000\xbe01\x0000\xfffeWelcome to the world of Pokémon!\xf000\xbe01\x0000
 My name is Professor Juniper.\xfffeEveryone calls me the Pokémon Professor!\xf000\xbe01\x0000
