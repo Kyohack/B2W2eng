@@ -1,23 +1,23 @@
-Hello!\xfffeI'm the Game Director.\xf000븁\x0000\xfffeOh! You are working on your Pokédex!\xfffeIf you fill it up a lot, please let me see!
-Hello!\xfffeI'm the Game Director.\xf000븁\x0000\xfffeOh! You've caught every kind of\xfffePokémon in Unova!\xf000븁\x0000\xfffeWow! Excellent!\xfffeWe'll give you an award!!\xf000븁\x0000
+Hello!\xfffeI'm the Game Director.\xf000\xbe01\x0000\xfffeOh! You are working on your Pokédex!\xfffeIf you fill it up a lot, please let me see!
+Hello!\xfffeI'm the Game Director.\xf000\xbe01\x0000\xfffeOh! You've caught every kind of\xfffePokémon in Unova!\xf000\xbe01\x0000\xfffeWow! Excellent!\xfffeWe'll give you an award!!\xf000\xbe01\x0000
 I will send this award certificate\xfffeto your house!
-Hello!\xfffeI'm the Game Director.\xf000븁\x0000\xfffeOh?! Excellent! You've finally collected\xfffeall the Pokémon and completed\xf000븀\x0000\xfffeyour Pokédex!\xf000븁\x0000\xfffeTo honor the efforts you have made in\xfffecompleting this Pokédex...\xf000븁\x0000\xfffeAllow me to present you with this award!\xf000븁\x0000
-How did you meet all the Pokémon\xfffeto fill up your Pokédex?\xf000븁\x0000\xfffeDid you work long and hard to catch\xfffeand raise them?\xf000븁\x0000\xfffeDid you receive them as gifts from\xfffefriends?\xf000븁\x0000\xfffeMaybe you got some in trades from\xfffearound the world?\xf000븁\x0000\xfffeThough everyone's Pokédex may look the\xfffesame, the stories they contain are\xf000븀\x0000\xfffeall unique!
+Hello!\xfffeI'm the Game Director.\xf000\xbe01\x0000\xfffeOh?! Excellent! You've finally collected\xfffeall the Pokémon and completed\xf000\xbe00\x0000\xfffeyour Pokédex!\xf000\xbe01\x0000\xfffeTo honor the efforts you have made in\xfffecompleting this Pokédex...\xf000\xbe01\x0000\xfffeAllow me to present you with this award!\xf000\xbe01\x0000
+How did you meet all the Pokémon\xfffeto fill up your Pokédex?\xf000\xbe01\x0000\xfffeDid you work long and hard to catch\xfffeand raise them?\xf000\xbe01\x0000\xfffeDid you receive them as gifts from\xfffefriends?\xf000\xbe01\x0000\xfffeMaybe you got some in trades from\xfffearound the world?\xf000\xbe01\x0000\xfffeThough everyone's Pokédex may look the\xfffesame, the stories they contain are\xf000\xbe00\x0000\xfffeall unique!
 I will send this award certificate\xfffeto your house, too!
-プログラムはね\xfffeとにかく　かんがえ　くんで\xf000븀\x0000\xfffeさいごに　いのる!\xf000븁\x0000\xfffeうごけ!　うごけっ!\xfffeうごけったら　うごけーっ!
-あたし　グラフィッカーなの!\xf000븁\x0000\xfffeみたことも　ないものを　かくには\xfffeいろんな　ものを　かんさつ　よね!\xf000븁\x0000\xfffeみるだけじゃなく　ぶんせきして\xfffeじぶんの　ものに　しないと!
-ポケモンしょうぶで\xfffeつよくなる　ポイントはねえ\xf000븀\x0000\xfffeそうだねえ\xf000븀\x0000\xfffeいっぱい　しょうぶ　することかな!\xf000븀\x0000\xfffeよければ　しょうぶ　する?
-Well, let's begin!\xf000븁\x0000
-そっかー　じゃあ　こんど\xfffeしょうぶ　できると　いいよねー
+プログラムはね\xfffeとにかく かんがえ くんで\xf000\xbe00\x0000\xfffeさいごに いのる!\xf000\xbe01\x0000\xfffeうごけ! うごけっ!\xfffeうごけったら うごけーっ!
+あたし グラフィッカーなの!\xf000\xbe01\x0000\xfffeみたことも ないものを かくには\xfffeいろんな ものを かんさつ よね!\xf000\xbe01\x0000\xfffeみるだけじゃなく ぶんせきして\xfffeじぶんの ものに しないと!
+ポケモンしょうぶで\xfffeつよくなる ポイントはねえ\xf000\xbe00\x0000\xfffeそうだねえ\xf000\xbe00\x0000\xfffeいっぱい しょうぶ することかな!\xf000\xbe00\x0000\xfffeよければ しょうぶ する?
+Well, let's begin!\xf000\xbe01\x0000
+そっかー じゃあ こんど\xfffeしょうぶ できると いいよねー
 Oh! You've become strong! I can tell.\xfffeDo you want to have a battle with me?
-Well, let's begin!\xf000븁\x0000
-You think about battles very thoroughly.\xf000븁\x0000\xfffeI lost, but I learned a lot from you.\xfffeBesides, it was fun!\xf000븁\x0000\xfffeCome back again tomorrow.
-No?\xf000븁\x0000\xfffeI've been raising Pokémon, thinking about\xfffetheir Abilities and just the right\xf000븀\x0000\xfffecombination of held items.\xf000븁\x0000\xfffeWhat a pity...\xfffe
-I'm Snorlax.\xf000븁\x0000\xfffeNo, no. I'm the Planner!\xf000븁\x0000\xfffeI don't mean to butt in, but the\xfffeLeftovers item is important, isn't it?
-I am the Sound Designer!\xf000븁\x0000\xfffeI put in a lot of wonderful mechanisms\xfffeto change the game's music!\xf000븁\x0000\xfffeHow many of them have you noticed?
-I can tell you take the sound seriously,\xfffeso here's a treat for you!\xf000븁\x0000\xfffeWhat do you think about this\xfffedramatic sound?\xf000븁\x0000
-Were you surprised?\xf000븁\x0000\xfffeWell, for a strong Trainer like you,\xfffewinning against Team Rocket\xf000븀\x0000\xfffewould be a piece of cake!
-ねおきの　サウンドデザイナー　だけど\xfffeみんな　どんな　きょくが　すきかな?
-こんにちは\xfffeゲームフリーク　です!
-いまですね　ぼくはですね\xf000븁\x0000\xfffeあたらしいですね　ゲームのですね\xf000븁\x0000\xfffeきかくをですね　かんがえているのです
-ここ　ひんやり　してますよ\xfffeサーバーは　ひやさないとね
+Well, let's begin!\xf000\xbe01\x0000
+You think about battles very thoroughly.\xf000\xbe01\x0000\xfffeI lost, but I learned a lot from you.\xfffeBesides, it was fun!\xf000\xbe01\x0000\xfffeCome back again tomorrow.
+No?\xf000\xbe01\x0000\xfffeI've been raising Pokémon, thinking about\xfffetheir Abilities and just the right\xf000\xbe00\x0000\xfffecombination of held items.\xf000\xbe01\x0000\xfffeWhat a pity...\xfffe
+I'm Snorlax.\xf000\xbe01\x0000\xfffeNo, no. I'm the Planner!\xf000\xbe01\x0000\xfffeI don't mean to butt in, but the\xfffeLeftovers item is important, isn't it?
+I am the Sound Designer!\xf000\xbe01\x0000\xfffeI put in a lot of wonderful mechanisms\xfffeto change the game's music!\xf000\xbe01\x0000\xfffeHow many of them have you noticed?
+I can tell you take the sound seriously,\xfffeso here's a treat for you!\xf000\xbe01\x0000\xfffeWhat do you think about this\xfffedramatic sound?\xf000\xbe01\x0000
+Were you surprised?\xf000\xbe01\x0000\xfffeWell, for a strong Trainer like you,\xfffewinning against Team Rocket\xf000\xbe00\x0000\xfffewould be a piece of cake!
+ねおきの サウンドデザイナー だけど\xfffeみんな どんな きょくが すきかな?
+こんにちは\xfffeゲームフリーク です!
+いまですね ぼくはですね\xf000\xbe01\x0000\xfffeあたらしいですね ゲームのですね\xf000\xbe01\x0000\xfffeきかくをですね かんがえているのです
+ここ ひんやり してますよ\xfffeサーバーは ひやさないとね

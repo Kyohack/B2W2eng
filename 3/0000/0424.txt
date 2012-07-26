@@ -1,13 +1,13 @@
-Oh! A Trainer!\xf000븁\x0000\xfffeLet me introduce myself. I am a member\xfffeof the Hip Waders. As its name suggests,\xf000븀\x0000\xfffeit's a fishing club!\xf000븁\x0000\xfffeWhy don't you join and enjoy\xfffesome fishing?
-Hey, Trainer!\xf000븁\x0000\xfffeWhy don't you join the Hip Waders\xfffeand go fishing?
-That's the way the tide turns, huh?\xf000븁\x0000\xfffeBut, I won't give up. If you change your\xfffemind, come see me again!
-Awesome! Now you are the second member\xfffeof the Hip Waders!\xf000븁\x0000
-Here we go! I'll announce the\xfffeOfficial Hip Waders Catch of the Day!\xf000븁\x0000\xfffeThe Pokémon we're fishing for\xfffetoday is \xf000ā\x0001\x0000!\xf000븀\x0000\xfffeIf you catch one, please show it to me!
-The Official Hip Waders Catch of the Day\xfffeis \xf000ā\x0001\x0000!\xf000븀\x0000\xfffeHave you caught one already?
-That's great! Show it to me!\xf000븁\x0000
-Oh! This is a great \xf000ā\x0001\x0000!\xf000븁\x0000\xfffeThat's why you're the second member of\xfffethe Hip Waders!\xf000븁\x0000\xfffeCool! Take these with you!\xf000븁\x0000
-Oh! This is a great \xf000ā\x0001\x0000!\xf000븁\x0000\xfffe...But when it comes to the\xfffeOfficial Hip Waders Catch of the Day,\xf000븀\x0000\xfffea Pokémon you caught before today\xf000븀\x0000\xfffedoesn't count. Sorry!
-Oh! This is a great \xf000ā\x0001\x0000!\xf000븁\x0000\xfffeBut it's not the Official Hip Waders\xfffeCatch of the Day. Sorry!
-The Official Hip Waders Catch of the Day\xfffeis \xf000ā\x0001\x0000!\xf000븀\x0000\xfffeI'm counting on you, Member No. 2!
-The appeal of fishing...\xf000븁\x0000\xfffeThat's something you have to discover\xfffethrough experience, rather than\xf000븀\x0000\xfffelistening to me talk about it!\xf000븁\x0000\xfffeRight, Member No. 2?
-Yo! Member No. 2!\xfffeTimes have changed...\xf000븁\x0000\xfffeThat's right! Because today is a new day,\xfffewe've got a new Official Hip Waders\xf000븀\x0000\xfffeCatch of the Day! Isn't it exciting?\xf000븁\x0000
+Oh! A Trainer!\xf000\xbe01\x0000\xfffeLet me introduce myself. I am a member\xfffeof the Hip Waders. As its name suggests,\xf000\xbe00\x0000\xfffeit's a fishing club!\xf000\xbe01\x0000\xfffeWhy don't you join and enjoy\xfffesome fishing?
+Hey, Trainer!\xf000\xbe01\x0000\xfffeWhy don't you join the Hip Waders\xfffeand go fishing?
+That's the way the tide turns, huh?\xf000\xbe01\x0000\xfffeBut, I won't give up. If you change your\xfffemind, come see me again!
+Awesome! Now you are the second member\xfffeof the Hip Waders!\xf000\xbe01\x0000
+Here we go! I'll announce the\xfffeOfficial Hip Waders Catch of the Day!\xf000\xbe01\x0000\xfffeThe Pokémon we're fishing for\xfffetoday is \xf000\x0101\x0001\x0000!\xf000\xbe00\x0000\xfffeIf you catch one, please show it to me!
+The Official Hip Waders Catch of the Day\xfffeis \xf000\x0101\x0001\x0000!\xf000\xbe00\x0000\xfffeHave you caught one already?
+That's great! Show it to me!\xf000\xbe01\x0000
+Oh! This is a great \xf000\x0101\x0001\x0000!\xf000\xbe01\x0000\xfffeThat's why you're the second member of\xfffethe Hip Waders!\xf000\xbe01\x0000\xfffeCool! Take these with you!\xf000\xbe01\x0000
+Oh! This is a great \xf000\x0101\x0001\x0000!\xf000\xbe01\x0000\xfffe...But when it comes to the\xfffeOfficial Hip Waders Catch of the Day,\xf000\xbe00\x0000\xfffea Pokémon you caught before today\xf000\xbe00\x0000\xfffedoesn't count. Sorry!
+Oh! This is a great \xf000\x0101\x0001\x0000!\xf000\xbe01\x0000\xfffeBut it's not the Official Hip Waders\xfffeCatch of the Day. Sorry!
+The Official Hip Waders Catch of the Day\xfffeis \xf000\x0101\x0001\x0000!\xf000\xbe00\x0000\xfffeI'm counting on you, Member No. 2!
+The appeal of fishing...\xf000\xbe01\x0000\xfffeThat's something you have to discover\xfffethrough experience, rather than\xf000\xbe00\x0000\xfffelistening to me talk about it!\xf000\xbe01\x0000\xfffeRight, Member No. 2?
+Yo! Member No. 2!\xfffeTimes have changed...\xf000\xbe01\x0000\xfffeThat's right! Because today is a new day,\xfffewe've got a new Official Hip Waders\xf000\xbe00\x0000\xfffeCatch of the Day! Isn't it exciting?\xf000\xbe01\x0000

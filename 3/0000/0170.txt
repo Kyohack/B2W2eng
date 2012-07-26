@@ -1,23 +1,23 @@
-サンギタウンの　アデクさんに\xfffeせんせいを　おねがい　してたの\xf000븁\x0000\xfffeだけど　これからは　わかいひとの\xfffeじだいだからって　ことわられたのよね
-きみは　ポケモンしょうぶの　とき\xfffeどうぐを　つかったりしてる?\xf000븀\x0000\xfffeよければ　これを　つかってみてよ!\xf000븁\x0000
-ディフェンダーを　つかった\xfffeポケモンは　ぼうぎょが　たかまる!\xf000븁\x0000\xfffeしょうぶのとき　わざを　だすのか\xfffeそれとも　どうぐを　つかうのか\xf000븀\x0000\xfffeトレーナーの　はんだんが　だいじだよ
-しんかキャンセル　という\xfffeテクニックが　あるの!\xf000븀\x0000\xfffeじゃ　きょうかしょを　よむわね\xf000븁\x0000\xfffe「ポケモンが　しんかする　しゅんかん\xfffe　Ｂボタンを　おすことで\xf000븀\x0000\xfffe　ポケモンは　おどろき　しんかをやめる」
-ポケモンに　どうぐを\xfffeもたせられるだろ?\xf000븁\x0000\xfffeでもさ　ひとが　つくった　どうぐ...\xfffeたとえば　キズぐすり　とかは\xf000븀\x0000\xfffeつかいかたが　わからないみたいだね
-ノーマルタイプの　ポケモンは\xfffeかくとうタイプに　よわい!\xf000븁\x0000\xfffeだけど　このあたりだと\xfffeサンギぼくじょうの\xf000븀\x0000\xfffeリオル　ぐらいしか　いないからね...\xf000븁\x0000\xfffeほのお　みず　くさタイプの\xfffeポケモンで　たたかうなら\xf000븀\x0000\xfffeじゅんすいな　つよさくらべに　なるね
-こくばんに　ポケモンが\xfffeたたかっているときに　おこる\xf000븁\x0000\xfffeたいちょうの　へんかに　ついて\xfffeかかれてます\xf000븁\x0000
-What do you want to read about?
-どくを　うけると\xfffeたたかっている　あいだ\xf000븀\x0000\xfffeたいりょくが　へっていきます\xf000븁\x0000\xfffeせんとうが　おわっても\xfffeどくの　ままです\xf000븁\x0000\xfffeどくけしで　なおしましょう\xf000븁\x0000
-Paralysis reduces the Speed stat\xfffeand may prevent movement.\xf000븁\x0000\xfffeIt remains after battle, so use a\xfffeParlyz Heal.\xf000븁\x0000
-If a Pokémon falls asleep, it will be\xfffeunable to attack.\xf000븁\x0000\xfffeThe Pokémon may wake up on its own,\xfffebut if a battle ends while it is\xf000븀\x0000\xfffesleeping, it will stay asleep.\xf000븁\x0000\xfffeWake it up using an Awakening.\xf000븁\x0000
-A burn reduces the Attack stat and\xfffesteadily reduces the victim's HP.\xf000븁\x0000\xfffeA burn lingers after battle.\xfffeCure a burn using a Burn Heal.\xf000븁\x0000
-If a Pokémon is frozen, it becomes\xfffecompletely helpless.\xf000븁\x0000\xfffeThe Pokémon may thaw out on its own,\xfffebut if a battle ends while it is\xf000븀\x0000\xfffefrozen, it will stay frozen.\xf000븁\x0000\xfffeThaw it out using an Ice Heal.\xf000븁\x0000
+サンギタウンの アデクさんに\xfffeせんせいを おねがい してたの\xf000\xbe01\x0000\xfffeだけど これからは わかいひとの\xfffeじだいだからって ことわられたのよね
+きみは ポケモンしょうぶの とき\xfffeどうぐを つかったりしてる?\xf000\xbe00\x0000\xfffeよければ これを つかってみてよ!\xf000\xbe01\x0000
+ディフェンダーを つかった\xfffePokémon ぼうぎょが たかまる!\xf000\xbe01\x0000\xfffeしょうぶのとき わざを だすのか\xfffeそれとも どうぐを つかうのか\xf000\xbe00\x0000\xfffeTrainerの はんだんが だいじだよ
+しんかキャンセル という\xfffeテクニックが あるの!\xf000\xbe00\x0000\xfffeじゃ きょうかしょを よむわね\xf000\xbe01\x0000\xfffe「ポケモンが しんかする しゅんかん\xfffe Bボタンを おすことで\xf000\xbe00\x0000\xfffe Pokémon おどろき しんかをやめる」
+ポケモンに どうぐを\xfffeもたせられるだろ?\xf000\xbe01\x0000\xfffeでもさ ひとが つくった どうぐ...\xfffeたとえば キズぐすり とかは\xf000\xbe00\x0000\xfffeつかいかたが わからないみたいだね
+ノーマルタイプの Pokémon\xfffeかくとうタイプに よわい!\xf000\xbe01\x0000\xfffeだけど このあたりだと\xfffeサンギぼくじょうの\xf000\xbe00\x0000\xfffeリオル ぐらいしか いないからね...\xf000\xbe01\x0000\xfffeほのお みず くさタイプの\xfffeポケモンで たたかうなら\xf000\xbe00\x0000\xfffeじゅんすいな つよさくらべに なるね
+こくばんに ポケモンが\xfffeたたかっているときに おこる\xf000\xbe01\x0000\xfffeたいちょうの へんかに ついて\xfffeかかれてます\xf000\xbe01\x0000
+Which will you look at?
+Poisoning makes a Pokémon\xfffelose health during battle.\xf000\xbe01\x0000Even after the battle ends,\xfffepoison will remain.\xf000\xbe01\x0000Heal it with an Antidote.\xf000\xbe01\x0000
+Paralyzation lowers speed and makes a\xfffePokémon sometimes unable to use moves.\xf000\xbe01\x0000\xfffeFollowing the battle,\xfffeparalyzation will remain.\xf000\xbe01\x0000\xfffeHeal it with a Paralyze Heal.\xf000\xbe01\x0000
+Sleep will make a Pokémon\xfffetemporarily unable to use moves.\xf000\xbe01\x0000\xfffeThough it can wake up,\xfffeif sleeping when the battle ends,\xf000\xbe00\x0000\xfffea Pokémon will stay asleep.\xf000\xbe01\x0000\xfffeHeal it with an Awakening.\xf000\xbe01\x0000
+Being burned will not only lower Attack,\xfffebut steadily lower health.\xf000\xbe01\x0000\xfffeEven after the battle ends,\xfffea burn will remain.\xf000\xbe01\x0000\xfffeHeal it with a Burn Heal.\xf000\xbe01\x0000
+Being frozen will make a Pokémon\xfffeunable to do anything.\xf000\xbe01\x0000\xfffeThough it can thaw,\xfffeif frozen when the battle ends,\xf000\xbe00\x0000\xfffea Pokémon will stay frozen.\xf000\xbe01\x0000\xfffeHeal it with an Ice Heal.\xf000\xbe01\x0000
 Poison
-Paralysis
+Paralyze
 Sleep
 Burn
 Frozen
-Back
-ヒオウギ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　チェレン\xfffeにんてい　トレーナー!
-ヒオウギ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　チェレン\xfffeにんてい　トレーナー!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-ヒオウギ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　チェレン\xfffeにんてい　トレーナー!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　\xf000Ā\x0001\x0001
-まさにいま　ジムリーダーは\xfffeねっせんの　まっさいちゅう　っす!
+Quit
+Aspertia Pokémon Gym\xf000\xbe01\x0000\xfffeGym Leader: Cheren\xfffeCertified Trainers!
+Aspertia Pokémon Gym\xf000\xbe01\x0000\xfffeGym Leader: Cheren\xfffeCertified Trainers!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000
+Aspertia Pokémon Gym\xf000\xbe01\x0000\xfffeGym Leader: Cheren\xfffeCertified Trainers!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 \xf000\x0100\x0001\x0001
+まさにいま Gym Leaderは\xfffeねっせんの まっさいちゅう っす!

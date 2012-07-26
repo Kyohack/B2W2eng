@@ -1,6 +1,6 @@
-ポケモンたちが　あるきつづけて\xfffeいつのまにか　できたのが　もりのみち\xf000븁\x0000\xfffeそっちを　あるけば　なんだか\xfffeポケモンきぶんを　あじわえるでしょ
-よう!　たびの　トレーナー!\xf000븁\x0000\xfffeきみも　たのもしい　ポケモンに\xfffeためしのいわを　くだかせてみな!
-It's a challenge rock.\xf000븁\x0000\xfffeWould you like to have \xf000Ă\x0001\x0000\xfffesmash the rock?
-\xf000Ă\x0001\x0000は\xfffeためしのいわを　こわそうとした!\xf000븁\x0000\xfffeいわの　いちぶが　くだけ\xfffeすなと　なって　おちた!!\xf000븁\x0000
+ポケモンたちが あるきつづけて\xfffeいつのまにか できたのが もりのみち\xf000\xbe01\x0000\xfffeそっちを あるけば なんだか\xfffeポケモンきぶんを あじわえるでしょ
+よう! たびの Trainer!\xf000\xbe01\x0000\xfffeきみも たのもしい ポケモンに\xfffeためしのいわを くだかせてみな!
+It's a challenge rock.\xf000\xbe01\x0000\xfffeWould you like to have \xf000\x0102\x0001\x0000\xfffesmash the rock?
+\xf000\x0102\x0001\x0000は\xfffeためしのいわを こわそうとした!\xf000\xbe01\x0000\xfffeいわの いちぶが くだけ\xfffeすなと なって おちた!!\xf000\xbe01\x0000
 It's a challenge rock.
 Pinwheel Forest\xfffeDid you remember to pack an Antidote?

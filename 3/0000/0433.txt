@@ -1,34 +1,34 @@
 This tree looks like it can be\xfffecut down! Would you like to cut it?
-\xf000Ă\x0001\x0000 used Cut!\xf000븁\x0000
+\xf000\x0102\x0001\x0000 used Cut!\xf000\xbe01\x0000
 This tree looks like it can be\xfffecut down!
 This rock appears to be breakable.\xfffeWould you like to use Rock Smash?
 It's a big boulder, but a Pokémon\xfffemay be able to push it aside.
-\xf000Ă\x0001\x0000 used Rock Smash!\xf000븁\x0000
-It's a big boulder... but a Pokémon\xfffemay be able to push it aside.\xf000븁\x0000Would you like to use Strength?
-\xf000Ă\x0001\x0000は\xfffeかいりきを　はっき　した!\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000の　かいりきの　おかげで\xfffeいわを　おせるように　なった!
+\xf000\x0102\x0001\x0000 used Rock Smash!\xf000\xbe01\x0000
+It's a large boulder, but a Pokémon\xfffemay be able to push it aside.\xf000\xbe01\x0000Would you like to use Strength?
+\xf000\x0102\x0001\x0000 used Strength!\xf000\xbe01\x0000\xfffe\xf000\x0102\x0001\x0000 can push around large boulders!
 It's a big boulder, but a Pokémon\xfffemay be able to push it aside.
 Strength made it possible to move\xfffeboulders around.
-\xf000Ă\x0001\x0000 used Strength!\xf000븁\x0000
-\xf000Ă\x0001\x0000's Strength made it\xfffepossible to move boulders around!
+\xf000\x0102\x0001\x0000 used Strength!\xf000\xbe01\x0000
+\xf000\x0102\x0001\x0000's Strength made it\xfffepossible to move boulders around!
 The boulder fell down!
 The water is a deep blue...\xfffeWould you like to surf on it?
-\xf000Ă\x0001\x0000 used Surf!\xf000븁\x0000
+\xf000\x0102\x0001\x0000 used Surf!\xf000\xbe01\x0000
 Surf can't be used if you have\xfffesomeone with you.
 A deep fog drapes the area...\xfffeWill a Pokémon's move lift it?
-\xf000Ă\x0001\x0000 used Defog!\xf000븁\x0000
+\xf000\x0102\x0001\x0000 used Defog!\xf000\xbe01\x0000
 A deep fog drapes the area...\xfffebut a Pokémon may be able to clear it?
 The wall is very rocky...\xfffeWould you like to use Rock Climb?
-\xf000Ă\x0001\x0000 used Rock Climb!\xf000븁\x0000
+\xf000\x0102\x0001\x0000 used Rock Climb!\xf000\xbe01\x0000
 The wall is very rocky...\xfffeWill a Pokémon's move scale it?
 Rock Climb can't be used if you have\xfffesomeone with you!
 It's a large waterfall.\xfffeWould you like to use Waterfall?
-\xf000Ă\x0001\x0000 used Waterfall!\xf000븁\x0000
+\xf000\x0102\x0001\x0000 used Waterfall!\xf000\xbe01\x0000
 A wall of water is crashing down with\xfffea mighty roar.
-Teleport to \xf000ą\x0001\x0000,\xfffethe last place you or your Pokémon rested?
-\xf000Ă\x0001\x0000 used Flash!\xf000븁\x0000
-\xf000Ă\x0001\x0000 used Teleport!\xf000븁\x0000
-\xf000Ă\x0001\x0000 used Dig!\xf000븁\x0000
+Teleport to \xf000\x0105\x0001\x0000,\xfffethe last place you or your Pokémon rested?
+\xf000\x0102\x0001\x0000 used Flash!\xf000\xbe01\x0000
+\xf000\x0102\x0001\x0000 used Teleport!\xf000\xbe01\x0000
+\xf000\x0102\x0001\x0000 used Dig!\xf000\xbe01\x0000
 It's a deep part of the sea, but a\xfffePokémon may be able to dive down.
 It's a deep part of the sea.\xfffeWould you like to use Dive?
-\xf000Ă\x0001\x0000 used Dive!\xf000븁\x0000
-ふたりで　いるときは\xfffe\xf000ć\x0001\x0000は　つかえません!
+\xf000\x0102\x0001\x0000 used Dive!\xf000\xbe01\x0000
+\xf000\x0107\x0001\x0000 can't be used if you have\xfffesomeone with you.

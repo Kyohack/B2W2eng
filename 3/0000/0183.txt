@@ -1,14 +1,14 @@
-あのね!　どくタイプの　ポケモンには\xfffeどくポケモンで　いどみな!　って\xf000븀\x0000\xfffeホミカちゃんが　おしえてくれたよ\xf000븁\x0000\xfffeホミカちゃんはね　ジムリーダーなの!\xfffeかっこよく　がっきを　ひくんだよ!!
-ジムバッジを　たくさん　もってるほど\xfffeショップで　かうことが　できる\xf000븀\x0000\xfffeどうぐの　しゅるいも　ふえるのか!!
-きみは　ジムバッジを\xfffe\xf000Ȁ\x0001\x0000コ　もっているんだ?\xf000븁\x0000\xfffeほう!　だったら　ショップで　かえる\xfffeどうぐも　いろいろ　ふえているよな!　
-Hey, you there!\xf000븁\x0000When you play, do you prefer\xfffeto do it outside or inside?
-I see, I see, yes, yes!\xf000븁\x0000Do you care about what everyone\xfffeknows, or what no one knows?
-Oh, really?\xf000븁\x0000
-In my view, you are a person with\xfffecommon sense!
-I'd say you are quite active!
-I'd say you are very curious!
-I'd say you are quite composed!
-I'd say you are quite relaxed!
+あのね! どくタイプの ポケモンには\xfffeどくポケモンで いどみな! って\xf000\xbe00\x0000\xfffeホミカちゃんが おしえてくれたよ\xf000\xbe01\x0000\xfffeホミカちゃんはね Gym Leaderなの!\xfffeかっこよく がっきを ひくんだよ!!
+ジムバッジを たくさん もってるほど\xfffeショップで かうことが できる\xf000\xbe00\x0000\xfffeどうぐの しゅるいも ふえるのか!!
+きみは ジムバッジを\xfffe\xf000\x0200\x0001\x0000コ もっているんだ?\xf000\xbe01\x0000\xfffeほう! だったら ショップで かえる\xfffeどうぐも いろいろ ふえているよな! 
+Hey, you there!\xf000\xbe01\x0000When you play, do you prefer\xfffeto do it outside or inside?
+I see, I see, yes, yes!\xf000\xbe01\x0000Do you care about what everyone\xfffeknows, or what no one knows?
+Oh, really!\xf000\xbe01\x0000
+In my opinion, you seem like\xfffea straightforward person!
+You seem like\xfffea rather active type!
+Your curiosity seems\xfffeto know no bounds!
+You must be\xfffea very quiet person!
+You sound like\xfffesome kind of maniac!
 Outside
 At home
 Neither

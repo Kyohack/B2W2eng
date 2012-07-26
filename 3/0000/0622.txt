@@ -1,1 +1,1 @@
-\xf000Ā\x0001\x0000 checked the PC!\xf000븁\x0000\xfffePokémon Basics...\xf000븁\x0000\xfffePeople live alongside Pokémon in\xfffethis world.\xf000븁\x0000\xfffeThe people who battle with Pokémon are\xfffecalled Pokémon Trainers.
+\xf000\x0100\x0001\x0000 checked the PC!\xf000\xbe01\x0000\xfffePokémon Basics...\xf000\xbe01\x0000\xfffePeople live alongside Pokémon in\xfffethis world.\xf000\xbe01\x0000\xfffeThe people who battle with Pokémon are\xfffecalled Pokémon Trainers.

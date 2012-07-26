@@ -1,4 +1,4 @@
-Hm! So you took time out of\xfffeyour day to talk to me, of all people...\xf000븁\x0000An admirable trainer!\xfffeI'm so pleased with you!\xf000븀\x0000Take this Technical Machine!\xf000븁\x0000
-Pokémon that use Charge Beam will\xfffesometimes have special attack raised.\xf000븁\x0000If all goes well, you can\xfffesteadily increase your power!
-ここで　うまれて　ここで　しぬ\xf000븁\x0000\xfffeヤマジは　いなかまち　だが\xfffeよそを　しらんから　きにならんよ
-きれいなだけが　とりえで\xfffeなにも　ないけど　たりないモノは\xf000븀\x0000\xfffeフウロちゃんが　はこんでくれるんだ
+Hm! So you took time out of\xfffeyour day to talk to me, of all people...\xf000\xbe01\x0000An admirable trainer!\xfffeI'm so pleased with you!\xf000\xbe00\x0000Take this Technical Machine!\xf000\xbe01\x0000
+Pokémon that use Charge Beam will\xfffesometimes have special attack raised.\xf000\xbe01\x0000If all goes well, you can\xfffesteadily increase your power!
+ここで うまれて ここで しぬ\xf000\xbe01\x0000\xfffeヤマジは いなかまち だが\xfffeよそを しらんから きにならんよ
+きれいなだけが とりえで\xfffeなにも ないけど たりないモノは\xf000\xbe00\x0000\xfffeフウロちゃんが はこんでくれるんだ

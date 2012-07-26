@@ -1,12 +1,12 @@
 There is a tennis match\xfffein Small Court now!
-Tennis players are practicing \xfffein Small Court now!\xf000븁\x0000\xfffePeople can watch them practicing!
+Tennis players are practicing \xfffein Small Court now!\xf000\xbe01\x0000\xfffePeople can watch them practicing!
 There is a basketball game\xfffein Small Court now!
-Basketball players are practicing \xfffein Small Court now!\xf000븁\x0000\xfffePeople can watch them practicing!
-We love sports.\xfffeWatching games is great, but we enjoy\xf000븀\x0000\xfffewatching practices, too!
-New styles of basketball and tennis\xfffecreated by people and Pokémon...\xf000븀\x0000\xfffeThese may be advanced forms of sports.
-If you speak to athletes during a\xfffepractice, they may challenge you to a\xf000븀\x0000\xfffePokémon battle!
+Basketball players are practicing \xfffein Small Court now!\xf000\xbe01\x0000\xfffePeople can watch them practicing!
+We love sports.\xfffeWatching games is great, but we enjoy\xf000\xbe00\x0000\xfffewatching practices, too!
+New styles of basketball and tennis\xfffecreated by people and Pokémon...\xf000\xbe00\x0000\xfffeThese may be advanced forms of sports.
+If you speak to athletes during a\xfffepractice, they may challenge you to a\xf000\xbe00\x0000\xfffePokémon battle!
 First-rank Smashers are waiting for you\xfffein the court with their Pokémon!
 First-rank Hoopsters are waiting for you\xfffein the court with their Pokémon!
-I am sorry.\xf000븁\x0000\xfffeBut you cannot enter the court\xfffebecause a game is in progress.
-I am sorry.\xf000븁\x0000\xfffeBut you cannot enter the court\xfffebecause a game is in progress.
-I am sorry.\xf000븁\x0000\xfffeBut you cannot enter the court\xfffebecause a game is in progress.
+I am sorry.\xf000\xbe01\x0000\xfffeBut you cannot enter the court\xfffebecause a game is in progress.
+I am sorry.\xf000\xbe01\x0000\xfffeBut you cannot enter the court\xfffebecause a game is in progress.
+I am sorry.\xf000\xbe01\x0000\xfffeBut you cannot enter the court\xfffebecause a game is in progress.

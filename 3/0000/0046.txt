@@ -1,16 +1,16 @@
-Welcome to the majestic\xfffeRoyal Unova!\xf000븁\x0000\xfffeWould you like to buy\xfffea ticket for 1000 Pokédollars?
-This cruise is the\xfffefirst of its first kind.\xf000븁\x0000
-Royal Unova's navigation system\xfffeis under maintenance.\xf000븀\x0000\xfffeCome back in the evening.
+Welcome to the majestic\xfffeRoyal Unova!\xf000\xbe01\x0000\xfffeWould you like to buy\xfffea ticket for 1000 Pokédollars?
+This cruise is the\xfffefirst of its first kind.\xf000\xbe01\x0000
+Royal Unova's navigation system\xfffeis under maintenance.\xf000\xbe00\x0000\xfffeCome back in the evening.
 I'm sorry, you don't have enough money.\xfffePlease come back again.
-Would you pay 1000 Pokédollars\xfffefor a ferry ticket?
-On the fifth floor, you will\xfffeget a fantastic view of Unova's\xf000븁\x0000\xfffeSky Arrow Bridge, then\xfffecruise under the\xf000븁\x0000\xfffemagnificent Wonder Bridge, and\xfffeback to the robusting Castelia City!\xf000븁\x0000
-Royal Unova is a proud\xfffecruise line that serves\xf000븁\x0000\xfffetrainers from all over the\xfffeworld to take a vacation.\xf000븁\x0000\xfffeOn the first floor,\xfffe rooms can be serve\xf000븁\x0000\xfffeas a relaxing hospitality!\xfffeAlso, be sure to turn\xf000븁\x0000\xfffeoff your C-Gear!\xfffeThe radio signals can\xf000븁\x0000\xfffeinterfere with the\xfffemechanisms in the ship!\xf000븁\x0000
+The ticket is $1,000.\xfffeWould you like to get on board?
+On the fifth floor, you will\xfffeget a fantastic view of Unova's\xf000\xbe01\x0000\xfffeSky Arrow Bridge, then\xfffecruise under the\xf000\xbe01\x0000\xfffemagnificent Wonder Bridge, and\xfffeback to the robusting Castelia City!\xf000\xbe01\x0000
+Royal Unova is a proud\xfffecruise line that serves\xf000\xbe01\x0000\xfffetrainers from all over the\xfffeworld to take a vacation.\xf000\xbe01\x0000\xfffeOn the first floor,\xfffe rooms can be serve\xf000\xbe01\x0000\xfffeas a relaxing hospitality!\xfffeAlso, be sure to turn\xf000\xbe01\x0000\xfffeoff your C-Gear!\xfffeThe radio signals can\xf000\xbe01\x0000\xfffeinterfere with the\xfffemechanisms in the ship!\xf000\xbe01\x0000
 Are you sure you want\xfffeto turn off the power of the C-Gear?
-We are leaving the port shortly.\xfffeBon voyage!\xf000븁\x0000
+We are leaving the port shortly.\xfffeBon voyage!\xf000\xbe01\x0000
 Certainly.\xfffePlease come back again.
-Thank you for sailing with us on the\xfffeRoyal Unova.\xf000븁\x0000\xfffeHave a nice day!
+Thank you for sailing with us on the\xfffeRoyal Unova.\xf000\xbe01\x0000\xfffeHave a nice day!
 We are closed for the day.\xfffePlease come again tomorrow.
-Congratulations!\xf000븁\x0000\xfffeYou have defeated all\xfffeof the trainers on board!\xf000븁\x0000\xfffePlease accept this as\xfffean award!\xf000븁\x0000
+Congratulations!\xf000\xbe01\x0000\xfffeYou have defeated all\xfffeof the trainers on board!\xf000\xbe01\x0000\xfffePlease accept this as\xfffean award!\xf000\xbe01\x0000
 Get On Board
 About the Ship
-Back
+Quit

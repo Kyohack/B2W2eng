@@ -1,10 +1,10 @@
-いらっしゃいませ\xfffeホテル　リッチホドモエ　です\xf000븁\x0000\xfffeあいにく　まんしつで　ございますが\xfffeごゆるりと　くつろいで　くださいませ
-わざわざ　きてくださって\xfffeかんしゃ　いたしますわ!\xf000븁\x0000\xfffeあなたは　トレーナーさん?\xf000븁\x0000\xfffe...　...　...\xfffe...　...　...\xf000븁\x0000\xfffeまあ　ポケモンずかん　を!\xfffeそれは　ステキ　ですわ!\xf000븁\x0000\xfffeそれでは　わたくしの　おねがい\xfffeきいて　くださる　かしら?
-あら　トレーナーさん\xfffeわざわざ　きてくださるなんて!\xf000븁\x0000\xfffeほんじつも　わたくしの　おねがい\xfffeきいて　くださる　かしら?
-「\xf000ć\x0001\x0000」という　わざを\xfffeおぼえた　ポケモンが　みたいわ!\xf000븁\x0000\xfffe「\xf000ć\x0001\x0000」という　わざ　よ\xfffeほんじつちゅうに　よろしくね
-「\xf000ć\x0001\x0000」という　わざを\xfffeおぼえた　ポケモンが　みたいわ!\xf000븁\x0000\xfffe「\xf000ć\x0001\x0000」という　わざ　よ\xfffeほんじつちゅうに　よろしくね\xf000븁\x0000\xfffeって　まあ　まあ　まあ!\xfffeあなたの　\xf000ā\x0001\x0001\xf000븀\x0000\xfffe「\xf000ć\x0001\x0000」が　つかえるのね!\xf000븁\x0000\xfffeわざわざ　おぼえさせたの?\xfffeステキ!\xf000븁\x0000\xfffeこれは　ほんの　きもち\xfffeえんりょせずに　うけとって!\xf000븁\x0000
+いらっしゃいませ\xfffeホテル リッチホドモエ です\xf000\xbe01\x0000\xfffeあいにく まんしつで ございますが\xfffeごゆるりと くつろいで くださいませ
+I am grateful that you came all this way!\xfffeAre you a Trainer?\xf000\xbe01\x0000\xfffeOoh, you have a Pokédex!\xfffeIt's so marvelous!\xf000\xbe01\x0000\xfffeI wonder if you'd please do me a favor.
+あら Trainerさん\xfffeわざわざ きてくださるなんて!\xf000\xbe01\x0000\xfffeほんじつも わたくしの おねがい\xfffeきいて くださる かしら?
+I would like to see a Pokémon that has\xfffelearned a move called \xf000\x0107\x0001\x0000.\xf000\xbe01\x0000\xfffeTo be clear, that's \xf000\x0107\x0001\x0000.\xfffePlease show it to me today.
+I would like to see a Pokémon that\xfffelearned a move called \xf000\x0107\x0001\x0000.\xf000\xbe01\x0000\xfffeTo be clear, that's \xf000\x0107\x0001\x0000.\xfffePlease show it to me today.\xf000\xbe01\x0000\xfffeOh, my, my, my!\xf000\xbe01\x0000\xfffeYour \xf000\x0101\x0001\x0001 can\xfffeuse \xf000\x0107\x0001\x0000!\xf000\xbe01\x0000\xfffeDid you go to the trouble of teaching it\xfffeto your Pokémon? Marvelous!\xf000\xbe01\x0000\xfffeThis is a small token of my appreciation.\xfffePlease don't hesitate to accept this.\xf000\xbe01\x0000
 I'm touched that you came all the way\xfffehere, yet you are being so unkind.
-わたくしが　みたいのは\xfffe「\xf000ć\x0001\x0000」を　おぼえた\xf000븀\x0000\xfffeポケモン!　よろしくね
-まあ　あなたの　\xf000ā\x0001\x0001\xfffe「\xf000ć\x0001\x0000」が　つかえるのね!\xf000븁\x0000\xfffeわざわざ　おぼえさせたの?\xfffeステキ!\xf000븁\x0000\xfffeこれは　ほんの　きもち\xfffeえんりょせずに　うけとって!\xf000븁\x0000
-「\xf000ć\x0001\x0000」って　わざ\xfffeじっさいに　つかうと\xf000븀\x0000\xfffeどんな　かんじ　なのかしら?\xf000븁\x0000\xfffeもちろん　あなたなら\xfffeステキに　つかいこなせますわね!
-ポケモンによって　おぼえられる　わざ\xfffeおぼえられない　わざが　あるんだな
+わたくしが みたいのは\xfffe「\xf000\x0107\x0001\x0000」を おぼえた\xf000\xbe00\x0000\xfffeポケモン! よろしくね
+Oh, my goodness. Your \xf000\x0101\x0001\x0001 can\xfffeuse \xf000\x0107\x0001\x0000!\xf000\xbe01\x0000\xfffeYou went to all the trouble of teaching\xfffeit to your Pokémon? That's so touching!\xf000\xbe01\x0000\xfffeThis is a small token of my appreciation.\xfffePlease don't hesitate to accept this.\xf000\xbe01\x0000
+I wonder what \xf000\x0107\x0001\x0000 looks like\xfffewhen it is actually used.\xf000\xbe01\x0000\xfffeI am sure you can use it skillfully!
+ポケモンによって おぼえられる わざ\xfffeおぼえられない わざが あるんだな

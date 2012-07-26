@@ -1,24 +1,24 @@
-The people working in this building\xfffedon't fight over their opinions,\xf000븀\x0000just Pokémon!\xf000븁\x0000You look decently strong, but\xfffeif you're going to the upper floor,\xf000븀\x0000be as careful as you need to be!\xf000븁\x0000
-おっと!　よければ\xfffeこれを　ポケモンに!\xf000븁\x0000
-それは　がくしゅうそうち!\xf000븁\x0000\xfffeがくしゅうそうちを　もたせた\xfffeポケモンは　たたかわなくても\xf000븀\x0000\xfffeけいけんちを　わけてもらえるよ!\xf000븁\x0000\xfffeまだ　よわい　ポケモンを\xfffeそだてるのに　やくだつかもね!\xf000븁\x0000
-わたしは　おそうじおじさん♪\xfffeきれい　きれいに　したいのよ♪\xf000븁\x0000
-Welcome!\xf000븁\x0000\xfffeIf you use the elevator, please use the\xfffebuttons on the door or next to the door.
-Every morning, my Pokémon wakes me\xfffewith Wake-Up Slap, so I always look like\xf000븀\x0000\xfffea wreck.\xf000븁\x0000\xfffeBut I appreciate its good intentions, so\xfffeI'll work my hardest to provide for it\xf000븀\x0000\xfffetoday, as always.
-That's a Pokédex\xfffeyou have there, isn't it?!\xf000븁\x0000Ohhh! Awesome!\xfffeYou're a Pokémon collector!\xf000븁\x0000I gotcha!\xfffeI'll help you out!\xf000븁\x0000Hey, so, what Pokémon\xfffedid you pick first?
-Snivy!\xfffeWell, take this!\xf000븁\x0000It raises the power of grass moves\xfffefor any Pokémon that holds it!\xf000븁\x0000
-Oshawott!\xfffeWell, take this!\xf000븁\x0000It raises the power of water moves\xfffefor any Pokémon that holds it!\xf000븁\x0000
-Tepig!\xfffeWell, take this!\xf000븁\x0000It raises the power of fire moves\xfffefor any Pokémon that holds it!\xf000븁\x0000
-There are lots of items that\xfffetake effect when Pokémon hold them,\xf000븀\x0000so search 'em out!\xf000븁\x0000Well, good luck in\xfffegetting those Pokédex pages filled!
+The people working in this building\xfffedon't fight over their opinions,\xf000\xbe00\x0000just Pokémon!\xf000\xbe01\x0000You look decently strong, but\xfffeif you're going to the upper floor,\xf000\xbe00\x0000be as careful as you need to be!\xf000\xbe01\x0000
+おっと! よければ\xfffeこれを ポケモンに!\xf000\xbe01\x0000
+それは がくしゅうそうち!\xf000\xbe01\x0000\xfffeがくしゅうそうちを もたせた\xfffePokémon たたかわなくても\xf000\xbe00\x0000\xfffeけいけんちを わけてもらえるよ!\xf000\xbe01\x0000\xfffeまだ よわい ポケモンを\xfffeそだてるのに やくだつかもね!\xf000\xbe01\x0000
+わたしは おそうじおじさん♪\xfffeきれい きれいに したいのよ♪\xf000\xbe01\x0000
+Welcome!\xf000\xbe01\x0000\xfffeIf you use the elevator, please use the\xfffebuttons on the door or next to the door.
+Every morning, my Pokémon wakes me\xfffewith Wake-Up Slap, so I always look like\xf000\xbe00\x0000\xfffea wreck.\xf000\xbe01\x0000\xfffeBut I appreciate its good intentions, so\xfffeI'll work my hardest to provide for it\xf000\xbe00\x0000\xfffetoday, as always.
+That's a Pokédex\xfffeyou have there, isn't it?!\xf000\xbe01\x0000Ohhh! Awesome!\xfffeYou're a Pokémon collector!\xf000\xbe01\x0000I gotcha!\xfffeI'll help you out!\xf000\xbe01\x0000Hey, so, what Pokémon\xfffedid you pick first?
+Snivy!\xfffeWell, take this!\xf000\xbe01\x0000It raises the power of grass moves\xfffefor any Pokémon that holds it!\xf000\xbe01\x0000
+Oshawott!\xfffeWell, take this!\xf000\xbe01\x0000It raises the power of water moves\xfffefor any Pokémon that holds it!\xf000\xbe01\x0000
+Tepig!\xfffeWell, take this!\xf000\xbe01\x0000It raises the power of fire moves\xfffefor any Pokémon that holds it!\xf000\xbe01\x0000
+There are lots of items that\xfffetake effect when Pokémon hold them,\xf000\xbe00\x0000so search 'em out!\xf000\xbe01\x0000Well, good luck in\xfffegetting those Pokédex pages filled!
 Snivy
 Oshawott
 Tepig
-Back
-Do you have Snivy?
-Do you have Oshawott?
-Do you have Tepig?
-Then, what is the Pokémon you chose\xfffeat the beginning of your journey?
+Quit
+Snivy, huh?
+Oshawott, huh?
+Tepig, huh?
+Well, what was the\xfffePokémon you started with?
 If you want to tell me, please speak\xfffeto me!
-レッツ　トライ　ヒウンラリー!\xfffeバトルカンパニー　オーケー!!
-バトルカンパニーは　ポケモンと\xfffeトレーナーのための　どうぐを\xf000븀\x0000\xfffeいろいろ　かいはつ　してるー!
+レッツ トライ ヒウンラリー!\xfffeバトルカンパニー オーケー!!
+バトルカンパニーは ポケモンと\xfffeトレーナーのための どうぐを\xf000\xbe00\x0000\xfffeいろいろ かいはつ してるー!
 This is Battle Company.\xfffeResearch and Development of Items!
 Burgh's signature is scrawled in the\xfffecorner of the painting.

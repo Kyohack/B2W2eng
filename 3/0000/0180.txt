@@ -1,44 +1,44 @@
-???: ホミカよ　\xfffeちちを　とめないでおくれ\xf000븁\x0000\xfffeわたしは　じぶんの　かのうせいを\xfffeさぐるため　いざ　ポケウッドへ!\xf000븁\x0000\xfffeムービースター　でもある\xfffeせんちょうを　めざすのです!\xf000븁\x0000
-Roxie: You!\xfffeHow goes, Captian?\xf000븁\x0000\xfffeふね　うごかしてくれないと\xfffeこまる　ひと　いるでしょーが!\xf000븁\x0000
-Captian: いとしの　むすめよ\xf000븁\x0000\xfffeきみは　ジムリーダーと　バンドを\xfffeかけもち　しているでは　ないですか?\xf000븀\x0000\xfffeわたしにも　できるはずなのです!\xf000븁\x0000
-Roxie: Wha--aaa--t??\xf000븁\x0000\xfffeFool! Fool! Fool! Fool!\xfffeFool! Fool! Fool! FOOL!\xf000븁\x0000\xfffeダメなのは　かけもち　じゃなくて\xfffeめいわく　かけてることだって!\xf000븁\x0000\xfffeせんちょうの　ワガママで\xfffeふね　のれないとか　ゆるさん!!\xf000븁\x0000\xfffeあー　もう!\xfffeジムに　いこッ!\xf000븁\x0000
-This is the fascinating wonderland\xfffeof PokéStar!\xf000븁\x0000\xfffeいわゆる　えいがスタジオ　だけど\xfffeいまは　オーディション...\xf000븁\x0000\xfffeせんちょうさんの　えんぎを　みていて\xfffeかんけいしゃ　いがい　おことわり!
-This is the fascinating wonderland\xfffeof PokéStar!\xf000븁\x0000\xfffeいわゆる　えいがスタジオ　だけど\xfffeいまは　オーディション...\xf000븁\x0000\xfffeせんちょうさんの　えんぎを　みていて\xfffeかんけいしゃ　いがい　おことわり!\xf000븁\x0000
+???: ホミカよ \xfffeちちを とめないでおくれ\xf000\xbe01\x0000\xfffeわたしは じぶんの かのうせいを\xfffeさぐるため いざ ポケウッドへ!\xf000\xbe01\x0000\xfffeムービースター でもある\xfffeせんちょうを めざすのです!\xf000\xbe01\x0000
+Roxie: You!\xfffeHow goes, Captian?\xf000\xbe01\x0000\xfffeふね うごかしてくれないと\xfffeこまる ひと いるでしょーが!\xf000\xbe01\x0000
+Captian: いとしの むすめよ\xf000\xbe01\x0000\xfffeきみは ジムリーダーと バンドを\xfffeかけもち しているでは ないですか?\xf000\xbe00\x0000\xfffeわたしにも できるはずなのです!\xf000\xbe01\x0000
+Roxie: Wha--aaa--t??\xf000\xbe01\x0000\xfffeFool! Fool! Fool! Fool!\xfffeFool! Fool! Fool! FOOL!\xf000\xbe01\x0000\xfffeダメなのは かけもち じゃなくて\xfffeめいわく かけてることだって!\xf000\xbe01\x0000\xfffeせんちょうの ワガママで\xfffeふね のれないとか ゆるさん!!\xf000\xbe01\x0000\xfffeあー もう!\xfffeジムに いこッ!\xf000\xbe01\x0000
+This is the fascinating wonderland\xfffeof PokéStar!\xf000\xbe01\x0000\xfffeいわゆる えいがスタジオ だけど\xfffeいまは オーディション...\xf000\xbe01\x0000\xfffeせんちょうさんの えんぎを みていて\xfffeかんけいしゃ いがい おことわり!
+This is the fascinating wonderland\xfffeof PokéStar!\xf000\xbe01\x0000\xfffeいわゆる えいがスタジオ だけど\xfffeいまは オーディション...\xf000\xbe01\x0000\xfffeせんちょうさんの えんぎを みていて\xfffeかんけいしゃ いがい おことわり!\xf000\xbe01\x0000
 Xtransceiver is ringing!
-\xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
-Roxie: Are you...\xfffeTeam Plasma by any chance?\xf000븁\x0000
-Or course!\xfffeWe're Team Plasma!\xf000븁\x0000\xfffe２ねんまえ...\xfffeおうとして　えいゆうとして\xf000븀\x0000\xfffeあがめた　おとこに　うらぎられ\xf000븁\x0000\xfffeイッシュちほうの　せいふくは\xfffeしっぱいに　おわった...!\xf000븁\x0000\xfffeだが!　おれたちは　あきらめない!\xfffeいつだって　ネバーギブアップ!\xf000븁\x0000\xfffeすでに　あたらしい\xfffeさくせんも　うごきはじめているのだ!\xf000븁\x0000
-\xf000Ā\x0001\x0001: ...くちを　とじろよ\xf000븁\x0000\xfffeポケモンを　すくう!　といいつつ\xfffeただの　ポケモンどろぼう　だった\xf000븀\x0000\xfffeさいていの　オマエら　だ...\xf000븀\x0000\xfffeゆるしてもらえると　おもうな...!\xf000븁\x0000
-Team Plasma: ぼくじょう　では\xfffeヨーテリーに　おいかけられるし\xf000븁\x0000
-Team Plasma: ここじゃ　からまれるし\xfffeなんだか　イマイチね\xf000븁\x0000
-Team Plasma: まあ　いいじゃないか\xfffeこいつから　ポケモンを　うばえば...\xf000븁\x0000\xfffeボーイ　アンド　ガール\xfffeじゅんびが　できたら　かかってきな\xf000븁\x0000
-\xf000Ā\x0001\x0001: ...オマエたちも\xfffeあたらしい　さくせんも　つぶす\xf000븁\x0000\xfffe...プラズマだんは\xfffeぜったいに　ゆるさない\xf000븁\x0000
-Roxie: \xf000Ā\x0001\x0000!\xfffeYou also!!
-\xf000Ā\x0001\x0001: ...those Pokémon thieves.
+\xf000\x0100\x0001\x0000 picked up the Xtransceiver.\xf000\xbe01\x0000
+Roxie: Are you...\xfffeTeam Plasma by any chance?\xf000\xbe01\x0000
+That's right!\xfffeWe're Team Plasma!\xf000\xbe01\x0000\xfffe2 years ago...\xfffeWe were betrayed by the man\xf000\xbe00\x0000\xfffewe called our king.\xf000\xbe01\x0000\xfffeOur attempt to conquer the Unova\xffferegion ended in failure...!\xf000\xbe01\x0000\xfffeHowever! We'll keep on trying!\xfffeWe'll never give up!\xf000\xbe01\x0000\xfffeWE're already undergoing our new\xfffeplan of conquest!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: ...Shut up.\xf000\xbe01\x0000\xfffePokémon help humans! Stealing and holding\xfffethem captive is the last thing\xf000\xbe00\x0000\xfffewe would want...\xf000\xbe00\x0000\xfffeYou should see that...!\xf000\xbe01\x0000
+Team Plasma: The place where we\xfffesearched for the Lillipup...\xf000\xbe01\x0000
+Team Plasma: It seemed to be held\xfffecaptive there.\xf000\xbe01\x0000
+Team Plasma: That Pokémon was being\xfffedeprived of its freedom...\xf000\xbe01\x0000\xfffeThat boy and girl\xfffepair are to blame.\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: ...オマエたちも\xfffeあたらしい さくせんも つぶす\xf000\xbe01\x0000\xfffe...プラズマだんは\xfffeぜったいに ゆるさない\xf000\xbe01\x0000
+Roxie: \xf000\x0100\x0001\x0000!\xfffeYou also!!
+\xf000\x0100\x0001\x0001: ...those Pokémon thieves.
 Team Plasma: What is it?\xfffeWanna beat me?
-Haha! オマエの　ポケモン\xfffeサクっと　ちょうだい　して\xf000븀\x0000\xfffeせかいせいふくに　つかうぜー!!\xf000븁\x0000
-そうそう\xfffeオレたちに　さからうなよ
-Team Plasma: No way! こんな\xfffeこどもたちに　ふかくを　とるとは...\xf000븁\x0000\xfffeクッ...　にげるぞ!!\xf000븁\x0000
-\xf000Ā\x0001\x0001: Tsk!\xfffeWhat an evil lot!\xf000븁\x0000
-Roxie: After them!\xfffeGo search around Route 20!!!\xf000븁\x0000
-...まけていたら　たいせつな\xfffeポケモンを　とられてた\xf000븁\x0000\xfffeあんたたち　アリガト\xf000븁\x0000\xfffeこれ　つかいなよ!!\xf000븁\x0000
-\xf000Ā\x0001\x0001: それ...\xfffeひでんマシン　だな\xf000븀\x0000\xfffeなかみは　いあいぎり!\xf000븁\x0000\xfffeいあいぎりを　おぼえた　ポケモンは\xfffeたたかって　いないときでも\xf000븀\x0000\xfffeみちの　ほそい　きを　きれる!\xf000븁\x0000\xfffeおっと!　そんな　はなしより\xfffeプラズマだんを　おいかけるぜッ!\xf000븁\x0000
-Roxie battles with poison!\xfffeShiver shiver shiver!\xf000븁\x0000\xfffeだがよ　おれさまは　コンビナートで\xfffeコイルを　つかまえたから　へいきだぜ\xf000븁\x0000\xfffeほら　おまえも　これをやるから\xfffeコイルでも　なんでも　つかまえな!\xf000븁\x0000
-Roxie battles with poison!\xfffeShiver shiver shiver!\xf000븁\x0000\xfffeだがよ　おれさまは　コンビナートで\xfffeコイルを　つかまえたから　へいきだぜ
+Haha! オマエの ポケモン\xfffeサクっと ちょうだい して\xf000\xbe00\x0000\xfffeせかいせいふくに つかうぜー!!\xf000\xbe01\x0000
+そうそう\xfffeオレたちに さからうなよ
+Team Plasma: No way! こんな\xfffeこどもたちに ふかくを とるとは...\xf000\xbe01\x0000\xfffeクッ... にげるぞ!!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: Tsk!\xfffeWhat an evil lot!\xf000\xbe01\x0000
+Roxie: After them!\xfffeGo search around Route 20!!!\xf000\xbe01\x0000
+...まけていたら たいせつな\xfffeポケモンを とられてた\xf000\xbe01\x0000\xfffeあんたたち アリガト\xf000\xbe01\x0000\xfffeこれ つかいなよ!!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: それ...\xfffeひでんマシン だな\xf000\xbe00\x0000\xfffeなかみは いあいぎり!\xf000\xbe01\x0000\xfffeいあいぎりを おぼえた ポケモンは\xfffeたたかって いないときでも\xf000\xbe00\x0000\xfffeみちの ほそい きを きれる!\xf000\xbe01\x0000\xfffeおっと! そんな はなしより\xfffeプラズマだんを おいかけるぜッ!\xf000\xbe01\x0000
+Roxie battles with poison!\xfffeShiver shiver shiver!\xf000\xbe01\x0000\xfffeだがよ おれさまは コンビナートで\xfffeコイルを つかまえたから へいきだぜ\xf000\xbe01\x0000\xfffeほら おまえも これをやるから\xfffeコイルでも なんでも つかまえな!\xf000\xbe01\x0000
+Roxie battles with poison!\xfffeShiver shiver shiver!\xf000\xbe01\x0000\xfffeだがよ おれさまは コンビナートで\xfffeコイルを つかまえたから へいきだぜ
 The complex nearby has a lot\xfffeof wild Pokémon. Check it out!
-Look!\xfffeバトルボックスを　ぞんじておるか?\xf000븁\x0000\xfffeポケモンセンターの　パソコンで\xfffeつかえる　べんりな　きのう　じゃよ
-あたし　うまれたときから\xfffeこの　ミルホッグと　いっしょ　なの!\xf000븁\x0000\xfffeするどいめ　という　とくせいで\xfffeなんども　たすけてくれたんだから!
+Look!\xfffeバトルボックスを ぞんじておるか?\xf000\xbe01\x0000\xfffeポケモンセンターの パソコンで\xfffeつかえる べんりな きのう じゃよ
+あたし うまれたときから\xfffeこの ミルホッグと いっしょ なの!\xf000\xbe01\x0000\xfffeするどいめ という とくせいで\xfffeなんども たすけてくれたんだから!
 Hoguu!
-Roxie's band!\xf000븁\x0000\xfffeちかごろ　ライブチケットが\xfffeとりづらくなってさあ♪\xf000븁\x0000\xfffeそのうち　かいがいで\xfffeツアーとか　しちゃったりして!
-あたしの　メダル\xfffeとても　きれいでしょ!\xf000븁\x0000\xfffeヒントメダルの　なぞを　といて\xfffeもっともっと　あつめるんだから!
-C-Gear must be off first!\xfffeそして...\xf000븁\x0000\xfffeＣギアの　まんなかに　ある\xfffe\xf000\xff00\x0001\x0001CONNECTED\xf000\xff00\x0001\x0000に　タッチして\xf000븀\x0000\xfffeすれちがいログを　チェックだぜ!!
-C-Gear must be off first!\xfffeそして...\xf000븁\x0000\xfffeＣギアの　\xf000\xff00\x0001\x0001WIRELESS\xf000\xff00\x0001\x0000を　タッチ!\xfffeさらに　\xf000\xff00\x0001\x0001ハイリンク\xf000\xff00\x0001\x0000を　タッチ!\xf000븀\x0000\xfffeひまなら　やってみな!　すごいぞ!
-1 2 3 4 5 6!\xf000븁\x0000\xfffeYou can only hold up to\xfffesix Pokéballs!\xf000븀\x0000\xfffeWhich means six Pokémon!
-Roxie: ...that movie was\xfffepretty interesting, you tell me.\xf000븁\x0000
-Roxie's Father: ...you saw the movie\xf000븁\x0000\xfffedidn't you...\xf000븁\x0000\xfffeというより　わたしは　まいあがって\xfffeリオルマンに　なりきれませんでした\xf000븁\x0000\xfffeそれでは　だれも\xfffeハラハラドキドキ　しないのです...\xf000븁\x0000
-Roxie: Look!\xfffeDon't give up!\xf000븁\x0000\xfffeI also challenge like\xfffea Captian as well!\xf000븁\x0000\xfffeめいわく　かけなきゃ\xfffeあたしだって　おこらないよーだ!\xf000븁\x0000\xfffeもっとも　ポケウッドの　ひとは\xfffeどうおもってるか　しらないけど!\xf000븁\x0000
-Ahh...\xfffeSeen it?\xf000븁\x0000\xfffeTeam Plasma has\xffferetreated...\xf000븁\x0000\xfffeなんか　スッキリしないけど\xfffeいなくなったし　よしと　しないとね\xf000븁\x0000\xfffeあっ!　バタバタ　しちゃったけど\xfffeヒウンいきの　ふねに　のれるから\xf000븁\x0000
-Roxie's Father: All right! やはり\xfffeせんちょうとして　がんばりましょう!\xf000븁\x0000\xfffeあらなみを　かきわけ　みんなを\xfffeハラハラドキドキ　させるのです!\xf000븁\x0000
+Roxie's band!\xf000\xbe01\x0000\xfffeちかごろ ライブチケットが\xfffeとりづらくなってさあ♪\xf000\xbe01\x0000\xfffeそのうち かいがいで\xfffeツアーとか しちゃったりして!
+あたしの メダル\xfffeとても きれいでしょ!\xf000\xbe01\x0000\xfffeヒントメダルの なぞを といて\xfffeもっともっと あつめるんだから!
+C-Gear must be off first!\xfffeそして...\xf000\xbe01\x0000\xfffeCギアの まんなかに ある\xfffe\xf000\xff00\x0001\x0001CONNECTED\xf000\xff00\x0001\x0000に タッチして\xf000\xbe00\x0000\xfffeすれちがいログを チェックだぜ!!
+C-Gear must be off first!\xfffeそして...\xf000\xbe01\x0000\xfffeCギアの \xf000\xff00\x0001\x0001WIRELESS\xf000\xff00\x0001\x0000を タッチ!\xfffeさらに \xf000\xff00\x0001\x0001ハイリンク\xf000\xff00\x0001\x0000を タッチ!\xf000\xbe00\x0000\xfffeひまなら やってみな! すごいぞ!
+1 2 3 4 5 6!\xf000\xbe01\x0000\xfffeYou can only hold up to\xfffesix Pokéballs!\xf000\xbe00\x0000\xfffeWhich means six Pokémon!
+Roxie: ...that movie was\xfffepretty interesting, you tell me.\xf000\xbe01\x0000
+Roxie's Father: ...you saw the movie\xf000\xbe01\x0000\xfffedidn't you...\xf000\xbe01\x0000\xfffeというより わたしは まいあがって\xfffeリオルマンに なりきれませんでした\xf000\xbe01\x0000\xfffeそれでは だれも\xfffeハラハラドキドキ しないのです...\xf000\xbe01\x0000
+Roxie: Look!\xfffeDon't give up!\xf000\xbe01\x0000\xfffeI also challenge like\xfffea Captian as well!\xf000\xbe01\x0000\xfffeめいわく かけなきゃ\xfffeあたしだって おこらないよーだ!\xf000\xbe01\x0000\xfffeもっとも ポケウッドの ひとは\xfffeどうおもってるか しらないけど!\xf000\xbe01\x0000
+Ahh...\xfffeSeen it?\xf000\xbe01\x0000\xfffeTeam Plasma has\xffferetreated...\xf000\xbe01\x0000\xfffeなんか スッキリしないけど\xfffeいなくなったし よしと しないとね\xf000\xbe01\x0000\xfffeあっ! バタバタ しちゃったけど\xfffeヒウンいきの ふねに のれるから\xf000\xbe01\x0000
+Roxie's Father: All right! やはり\xfffeせんちょうとして がんばりましょう!\xf000\xbe01\x0000\xfffeあらなみを かきわけ みんなを\xfffeハラハラドキドキ させるのです!\xf000\xbe01\x0000
 Welcome to Virbank City.\xfffeA city of water vapors.
 Up ahead is PokéStar.\xfffeWhere the magic of cinema happens! 
-Virbank City Pokémon Gym\xfffeLeader: Roxie\xf000븀\x0000\xfffePoison Life! Poison Vibe!
+Virbank City Pokémon Gym\xfffeLeader: Roxie\xf000\xbe00\x0000\xfffePoison Life! Poison Vibe!

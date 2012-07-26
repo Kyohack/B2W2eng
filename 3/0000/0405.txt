@@ -1,25 +1,25 @@
-Drayden: Should you wish it,\xfffeI can teach your Pokémon\xf000븀\x0000the ultimate dragon-type move.\xf000븁\x0000So, shall I teach\xfffeone of your Pokémon?\xf000븁\x0000
+Drayden: Should you wish it,\xfffeI can teach your Pokémon\xf000\xbe00\x0000the ultimate dragon-type move.\xf000\xbe01\x0000So, shall I teach\xfffeone of your Pokémon?\xf000\xbe01\x0000
 Understood.\xfffeCome again if you change your mind.
-Hmm...\xf000븁\x0000\xfffeThis Pokémon can learn this move, but\xfffeyour bond of friendship is not yet\xf000븀\x0000\xfffestrong enough.\xf000븁\x0000\xfffeWhich means I cannot teach\xfffeit this move at the moment.
-I see...\xf000븁\x0000\xfffeBut there are no Pokémon with\xfffeyou right now that can learn this move.
-Which Pokémon should\xfffelearn this move?\xf000븁\x0000
-I'm very sorry, but...\xf000븁\x0000\xfffeThis Pokémon cannot learn this move.
+Hmm...\xf000\xbe01\x0000\xfffeThis Pokémon can learn this move, but\xfffeyour bond of friendship is not yet\xf000\xbe00\x0000\xfffestrong enough.\xf000\xbe01\x0000\xfffeThat means I cannot teach\xfffeit this move.
+I see...\xf000\xbe01\x0000\xfffeBut there are no Pokémon with\xfffeyou right now that can learn this move.
+Which Pokémon should\xfffelearn this move?\xf000\xbe01\x0000
+I'm very sorry, but...\xf000\xbe01\x0000\xfffeThis Pokémon cannot learn this move.
 That's an interesting request, but...\xfffeNot even I can teach a move to an Egg.
-Hmm... It looks like this Pokémon\xfffealready knows \xf000ć\x0001\x0000.
-Drayden: Draco Meteor is\xfffetremendously powerful, but using it\xf000븀\x0000will lower your own Special Attack.
-Give up on teaching a move\xfffeto \xf000Ă\x0001\x0000?
-\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000However, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000Should a move be forgotten and\xfffereplaced with \xf000ć\x0001\x0001?
-Give up on learning the\xfffemove \xf000ć\x0001\x0000?
-\xf000Ă\x0001\x0000 didn't learn\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
-Is it OK to forget\xfffethe move \xf000ć\x0001\x0001?
-1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000And...\xf000븁\x0000\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
-Iris: Hey hey!\xfffeLemme teach your Pokémon the\xf000븀\x0000ultimate dragon-type move!!\xf000븁\x0000Whaddya say? Want me\xfffeto teach a Pokémon?\xf000븁\x0000
+Hmm... It looks like this Pokémon\xfffealready knows \xf000\x0107\x0001\x0000.
+Drayden: Draco Meteor is\xfffetremendously powerful, but using it\xf000\xbe00\x0000lowers your own Special Attack.
+Give up on teaching a move\xfffeto \xf000\x0102\x0001\x0000?
+\xf000\x0102\x0001\x0000 learned\xfffe\xf000\x0107\x0001\x0001!
+\xf000\x0102\x0001\x0000 wants to learn the\xfffemove \xf000\x0107\x0001\x0001.\xf000\xbe01\x0000However, \xf000\x0102\x0001\x0000 already\xfffeknows four moves.\xf000\xbe01\x0000Should a move be deleted and\xfffereplaced with \xf000\x0107\x0001\x0001?
+Give up on learning the\xfffemove \xf000\x0107\x0001\x0000?
+\xf000\x0102\x0001\x0000 didn't learn\xfffe\xf000\x0107\x0001\x0001!\xf000\xbe01\x0000
+Forget the move\xfffe\xf000\x0107\x0001\x0001?
+1,\xf000\xbe02\x0001\x0014 2,\xf000\xbe02\x0001\x0014 and...\xf000\xbe02\x0001\x0014...\xf000\xbe02\x0001\x0014 ...Poof!\xf000\xbe05\x0001\x0003\xf000\xbe05\x0001\x0005\xf000\xbe04\x0000\xf000\xbe01\x0000\xf000\x0102\x0001\x0000 forgot how to\xfffeuse \xf000\x0107\x0001\x0001.\xf000\xbe01\x0000And...\xf000\xbe01\x0000\xf000\x0102\x0001\x0000 learned\xfffe\xf000\x0107\x0001\x0001!\xf000\xbe01\x0000
+Iris: Hey hey!\xfffeLemme teach you the\xf000\xbe00\x0000ultimate dragon-type move!!\xf000\xbe01\x0000Whaddya say? Want me\xfffeto teach a Pokémon?\xf000\xbe01\x0000
 OK! Well, if you change your mind,\xfffecome again, OK?
-Lessee here...\xf000븁\x0000That Pokémon\xfffeCOULD learn it, but...\xf000븁\x0000It's... not so\xfffeattached to you...\xf000븁\x0000That'll make it really hard\xfffeto teach it this move!
-Ummm,\xfffeuhhh...\xf000븁\x0000You don't have any\xfffePokémon I could teach, sorry...
-OK, great! Which Pokémon should\xfffelearn this move?\xf000븁\x0000
+Lessee here...\xf000\xbe01\x0000That Pokémon\xfffeCOULD learn it, but...\xf000\xbe01\x0000It's... not so\xfffeattached to you...\xf000\xbe01\x0000That'll make it really hard\xfffeto teach it this move!
+Ummm,\xfffeuhhh...\xf000\xbe01\x0000You don't have any\xfffePokémon I could teach, sorry...
+OK, great! Which Pokémon should\xfffelearn this move?\xf000\xbe01\x0000
 Um... I'm sorry...\xfffeThat Pokémon can't learn this move!
-WHAAA?!\xf000븁\x0000Teach it to an EGG?\xfffe...OKAY! Iris will DO HER BEST!!\xf000븁\x0000HRNNN... ... ...\xfffe... ... ...gh!\xf000븁\x0000Sorry...\xfffeNot gonna work...
-Whazzat? Doesn't that Pokémon\xfffealready know \xf000ć\x0001\x0000?
-Iris: Draco Meteor is\xfffesuper-DUPER powerful! But!\xf000븁\x0000After you use it, your\xfffeSpecial Attack goes down!
+WHAAA?!\xf000\xbe01\x0000Teach it to an EGG?\xfffe...OKAY! Iris will DO HER BEST!!\xf000\xbe01\x0000HRNNN... ... ...\xfffe... ... ...gh!\xf000\xbe01\x0000Sorry...\xfffeNot gonna work...
+Whazzat? Doesn't that Pokémon\xfffealready know \xf000\x0107\x0001\x0000?
+Iris: Draco Meteor is\xfffesuper-DUPER powerful! But!\xf000\xbe01\x0000After you use it, your\xfffeSpecial Attack goes down!

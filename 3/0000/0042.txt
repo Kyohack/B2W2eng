@@ -1,8 +1,8 @@
-Where did I put those sunglasses?\xf000븁\x0000
-Ahahaha! Did I get you?!\xf000븁\x0000Aha, I'm really sorry!\xfffeHere, I'll give you this!\xf000븁\x0000
-Nyeh!\xfffeNot bad spotting me!\xf000븁\x0000If you're that good,\xfffeI suppose I'll give you this!\xf000븁\x0000
-Use Flash to lower\xfffethe foe's accuracy...\xf000븁\x0000Hit with it twice,\xfffeand it'll be nearly halved...\xf000븀\x0000More light, more problems...\xf000븁\x0000
-Use Flash to lower\xfffethe foe's accuracy...\xf000븁\x0000Hit with it twice,\xfffeand it'll be nearly halved...\xf000븀\x0000More light, more problems...
+Dolly!!\xf000\xbe01\x0000
+Ahahaha! Did I get you?!\xf000\xbe01\x0000Aha, I'm really sorry!\xfffeHere, I'll give you this!\xf000\xbe01\x0000
+Nyeh!\xfffeNot bad spotting me!\xf000\xbe01\x0000If you're that good,\xfffeI suppose I'll give you this!\xf000\xbe01\x0000
+Use Flash to lower\xfffethe foe's accuracy...\xf000\xbe01\x0000Hit with it twice,\xfffeand it'll be nearly halved...\xf000\xbe00\x0000More light, more problems...\xf000\xbe01\x0000
+Use Flash to lower\xfffethe foe's accuracy...\xf000\xbe01\x0000Hit with it twice,\xfffeand it'll be nearly halved...\xf000\xbe00\x0000More light, more problems...
 Huhu!
 Ehehehe...
 Seriously
@@ -11,4 +11,4 @@ Gehehe!
 ヒャッハー!
 いえーい!
 ブラザー!
-Café Sonata
+Café\xfffeThe Chill Spot

@@ -1,68 +1,68 @@
-ほんじつ　ロイヤルイッシュごう　には\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　いて\xf000븀\x0000\xfffeあなたは　\xf000Ȁ\x0001\x0004にんに　かっていますね\xf000븁\x0000\xfffeふねは　しゅっこうちゅう　ですが\xfffeそれでも　おりますか?
-ほんじつ　ロイヤルイッシュごう　には\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　います\xf000븁\x0000\xfffeふねは　しゅっこうちゅう　ですが\xfffeそれでも　おりますか?
-There are a lot of cabins in this big ship!\xfffeI would like to give you advice 'cause\xf000븀\x0000\xfffeyou need help finding Trainers!\xf000븁\x0000\xfffeDo you want to listen to my hint?
-きてきが　なるまで\xfffeはなしに　むちゅうに　なってしまう\xf000븁\x0000\xfffeせんしつの　なかには\xfffeそんな　おきゃくさんも　いるよ!
+ほんじつ ロイヤルイッシュごう には\xfffe\xf000\x0200\x0001\x0003にん Trainerが いて\xf000\xbe00\x0000\xfffeあなたは \xf000\x0200\x0001\x0004にんに かっていますね\xf000\xbe01\x0000\xfffeふねは しゅっこうちゅう ですが\xfffeそれでも おりますか?
+ほんじつ ロイヤルイッシュごう には\xfffe\xf000\x0200\x0001\x0003にん Trainerが います\xf000\xbe01\x0000\xfffeふねは しゅっこうちゅう ですが\xfffeそれでも おりますか?
+There are a lot of cabins in this big ship!\xfffeI would like to give you advice 'cause\xf000\xbe00\x0000\xfffeyou need help finding Trainers!\xf000\xbe01\x0000\xfffeDo you want to listen to my hint?
+きてきが なるまで\xfffeはなしに むちゅうに なってしまう\xf000\xbe01\x0000\xfffeせんしつの なかには\xfffeそんな おきゃくさんも いるよ!
 The Royal Unova's renowned observation\xfffedeck is just ahead.
-If you’re looking in the cabins with\xfffeblue doors for someone to battle,\xf000븀\x0000\xfffeyou’ll find only one Trainer there today.
-It seems the number of Trainers in the\xfffecabins with blue doors today is \xf000Ȁ\x0001\x0002.
+If you’re looking in the cabins with\xfffeblue doors for someone to battle,\xf000\xbe00\x0000\xfffeyou’ll find only one Trainer there today.
+It seems the number of Trainers in the\xfffecabins with blue doors today is \xf000\x0200\x0001\x0002.
 It's running on the ocean!\xfffeWhat a peculiar thing to see!
-I can't make up my mind whether to go to\xfffethe observation deck or battle some\xf000븀\x0000\xfffeTrainers in the cabins.
+I can't make up my mind whether to go to\xfffethe observation deck or battle some\xf000\xbe00\x0000\xfffeTrainers in the cabins.
 I'm running with the rhythm of the waves,\xfffebut it's a real challenge!
-Having battles on the ship and seeing\xfffethe scenery from the deck...\xf000븀\x0000\xfffeThis ship is the best!
-どの　へやに　はいるか\xfffeずっと　まよっているんだ!
-I came here from Johto for business,\xfffebut everything is dynamic here.
-おおっ!　いいところに　きた!\xfffeはなしあいてが　ほしかったんだ!\xf000븁\x0000\xfffeおれは　ジョウトちほう　から\xfffeしゅっちょうで　きてるんだけどさ\xf000븁\x0000\xfffeこっちの　ひとって　クールっていうか\xfffeとかいてきな　かんじじゃない?\xf000븁\x0000\xfffeそのせいか　きんちょうしちゃって\xfffeともだちを　つくれなくてね\xf000븁\x0000\xfffeきょうだって\xfffeせっかくの　やすみだってのに\xf000븀\x0000\xfffeひとりさみしく　ふねのうえさ\xf000븁\x0000\xfffe...そうだ!\xf000븁\x0000\xfffeおれに　イッシュりゅうの　ともだちの\xfffeつくりかたを　おしえてくれよ!\xf000븁\x0000\xfffeなっ　たのむよ!\xfffe...いそがしいって?\xf000븀\x0000\xfffeそこを　なんとか　おねがいだから!\xf000븁\x0000\xfffe...　...　...\xfffe...　...　...\xf000븁\x0000\xfffe...いやー　ひさしぶりに　ひとと\xfffeたくさん　はなせたよ　ありがとうな!\xf000븁\x0000
-あぁ!　きてきが　なってる!\xf000븁\x0000\xfffeいそがしいところ　わるかった!\xfffeトレーナー　みつかると　いいな\xf000븁\x0000\xfffeおれは　おまえに　きいた　ほうほうで\xfffeこっちでの　ともだちを　みつけるよ
-おやすみちゅうでも　きぎょうせんしは\xfffeりんせんたいせい　さ!　いくぞっ!\xf000븁\x0000
-なんかい　やっても\xfffeきみには　かないそうも　ないな...\xf000븁\x0000\xfffeおとなしく　ふなたびを\xfffeたのしむことに　するよ!
-ぼくはね　うみべの　まちに\xfffeりょこうに　いくと\xf000븀\x0000\xfffeいつも　ゆうらんせんに　のるんだ\xf000븁\x0000\xfffeあるいた　ばしょを　とおくから　みて\xfffeしっかり　とらえなおすのさ
-こうして　のんびり　していると\xfffeいままで　そだててきた\xf000븀\x0000\xfffeポケモンたちの　ことを　おもいだすよ\xf000븁\x0000\xfffeなかには　ぶきようなのも　いたけど\xfffeみんな　さいこうの　れんちゅうだった
-うまれこきょうの　ポケモンが\xfffeせかいに　つうよう　すること\xf000븁\x0000\xfffeしょうめい　したくて\xfffeずーっと　たびして　きたんだ!\xf000븀\x0000\xfffeきみにも　まけないよ!\xf000븁\x0000
-せかいには　きみみたいな\xfffeトレーナーが　ゴロゴロしてるんだ...\xf000븀\x0000\xfffeワクワクしてくるよ!
-カントー　ジョウト　シンオウ...\xf000븁\x0000\xfffeいろんな　ところから　きた　ひとが\xfffeこの　ふねに　のってるみたいよ\xf000븁\x0000\xfffeふねからの　けしき　だけじゃなく\xfffeめずらしい　ポケモンに　であえそう!
-かんぱんで　てをひろげて\xfffeポケモンになった　きぶんでいたら\xf000븁\x0000\xfffeきゅうに　ふねが　ゆれて\xfffeおっこちそうに　なっちゃった!\xf000븁\x0000\xfffe...あーあ　そういうときに　さっと\xfffeたすけてくれる　ひとが　いればなー
-じゃーん!　あったりぃ!\xfffeいきなり　しょうぶに　いくよー!\xf000븁\x0000
-しょうぶしに　くる\xfffeトレーナーを　まってたんだけど\xf000븀\x0000\xfffeまちくたびれちゃった!\xf000븁\x0000\xfffeきてくれて　ありがと!
-なぁなぁ!\xfffeふねってさ　テンション　あがるよな!\xf000븁\x0000\xfffeたかまるテンションの　ままに\xfffeてっていてきに　あばれてやったら\xf000븀\x0000\xfffeこのへやに　とじこめられちゃった...\xf000븁\x0000\xfffeもう　わるいこと　しないから\xfffeへやから　だしてくれー!
-おいらと　たたかいたい　ってのか?\xfffeへへっ!　この　みのほどしらずが!\xf000븁\x0000\xfffeって　あれ?　ボールがない...?\xf000븁\x0000\xfffeあー!　モンスターボールを\xfffeいえに　おいてきちまったー!
-きもち　わるい...\xf000븁\x0000\xfffeだけど　おいらは　トレーナー!\xfffeふなよいに　まけずに　たたかうぜ!\xf000븁\x0000
-ウッ…!\xf000븁\x0000\xfffeわるい...\xfffeしばらく　はなしかけないでくれ...
-あたしね　このふねが　だいすき!\xfffeだって　ロイヤル　ですもの!
-ねぇ　きいてよ!\xfffeみんな　ひどいんだよ!\xf000븁\x0000\xfffeわたしの　こと　みがってとか\xfffeおしゃべり　だなんて　いうんだ!\xf000븁\x0000\xfffeしずかで　やさしい　みんなが\xfffeあこがれる　おんなのこ　なのに!\xf000븁\x0000\xfffe...はなしは　かわるけど\xfffeあなたのすきな　ポケモンはなに?\xf000븁\x0000\xfffe...あっ　やっぱいいや　それより\xfffeこの　ようふく　かわいくない?\xf000븁\x0000\xfffeおきにいりの　ブランドでね...\xf000븁\x0000\xfffe...　...　...\xfffe...　...　...\xf000븁\x0000\xfffe...しつれい　しちゃうわ　まったく!\xfffeどこか　おしゃべり　なのよ!\xf000븁\x0000
-あっ!　きてき!\xf000븁\x0000\xfffeちょっと　おはなし　しただけなのに\xfffeもう　こんな　じかんに　なっちゃった!
-わたしね　さいきん\xfffeイッシュに　ひっこして　きたんだ!\xf000븁\x0000\xfffeふふっ　こっちじゃ　あんまり　みない\xfffeポケモンだって　もってるんだから!\xf000븀\x0000\xfffeねっ!　しょうぶ　しましょ!\xf000븁\x0000
-わたしの　ポケモン　かわいいでしょ?\xf000븁\x0000\xfffeこっちでも　たくさん\xfffeポケモン　あつめないとな　っと!
-しょうぶが　したいって?\xf000븁\x0000\xfffeああ　やだやだ　これだから\xfffeやばんな　れんちゅうは...\xf000븁\x0000\xfffeたたかって　ばかり　いないで\xfffeたまには　この　ゆうがな　ひとときを\xf000븀\x0000\xfffeしずかに　あじわったら　どうだい?
-この　ロイヤルイッシュごうは\xfffeぼくが　うまれるよりも　まえから\xf000븁\x0000\xfffeヒウンシティの　うみを\xfffeはしって　いるんだって!
-よくぞ　きた!\xf000븁\x0000\xfffeパパも　ママも　かんぱんに　いて\xfffeたいくつ　してんだ!　しょうぶ!\xf000븁\x0000
-こどもを　おいて　かんぱんで\xfffeあいを　かたりあう　パパとママ\xf000븀\x0000\xfffeどうかと　おもうよ!
-きょうは　かぜが　つよいから\xfffeおへやで　たのしむことに　するわ\xf000븁\x0000\xfffeみなとに　もどるまで\xfffeこの　すてきな　おへやを\xf000븀\x0000\xfffeひとりじめ　しちゃうんだから♪
-１かいめの　きてきは\xfffeこんにちは　はじめまして\xf000븁\x0000\xfffe２かいめの　きてきは\xfffeきょうも　うみは　きれいだね\xf000븁\x0000\xfffe３かいめと　４かいめは\xfffeふなたび　たのしんでいるかな?\xf000븁\x0000\xfffe５かいめの　きてきは\xfffeありがとう　またきてね\xf000븁\x0000\xfffeそんなふうに　ふねが　いっていると\xfffeおもえば　すこしは　なごまない?
-あなた!　キュートな　わたくしを\xfffeむかえに　きてくださったの!\xf000븁\x0000\xfffeうふふっ!　とびっきりの\xfffeポケモンしょうぶで　おあいてするわ!\xf000븁\x0000
-そうね...　あなたが　つれていくのは\xfffeあたしではなく　ポケモンよね
-きみから　みると　わたしは\xfffeうみの　むこうの　トレーナー\xf000븁\x0000\xfffeわたしから　みると　きみは\xfffeうみの　むこうの　トレーナー
-さぁ　どうぞ　すわりなさい\xfffeいま　おちゃを　いれるから!\xf000븁\x0000\xfffeえんりょ　しないで\xf000븁\x0000\xfffeしんしたる　もの\xfffeへやにきた　おきゃくさまを\xf000븀\x0000\xfffeおもてなしするのは　とうぜんのこと\xf000븁\x0000\xfffeほらほら　しばらくは\xfffeたたかいは　わすれてしまいなさい\xf000븁\x0000\xfffeん～　こうちゃが　いいかな?\xfffeそれとも　コーヒー?\xf000븀\x0000\xfffeほーら　いいにおいが　してきたろ?\xf000븁\x0000\xfffe...　...　...　\xfffe...　...　...\xf000븁\x0000\xfffe...ふふっ　たのしかったよ\xfffeまた　おいで\xf000븁\x0000
-とても　たのしかったよ\xf000븁\x0000\xfffeのんびり　したかったら\xfffeまた　きておくれ
-さぁ　どうぞ　すわりなさい\xfffeいま　おちゃを　いれるから...\xf000븁\x0000\xfffeなんてな!　わしは　トレーナー!\xfffeポケモンで　きみを　もてなす!\xf000븁\x0000
-はげしい　ポケモンしょうぶの　あとは\xfffeティーブレイクと　いこうじゃないか\xf000븁\x0000\xfffeどうだい?　きみも　いっぱい?\xfffe...って　おちゃを　きらしていたよ
-ポケモントレーナーを　さがしてるの?\xf000븁\x0000\xfffeごめんね...　わたしは　しらないわ\xfffeせんいんさん　なら　しってるかもよ?
-こうして　うみの　ゆらめきに\xfffeからだを　あずけていたら\xf000븁\x0000\xfffeゆたかな　ポエムが　こころの\xfffeおくから　わきあがってきたの!\xf000븁\x0000\xfffeタイトルはね\xfffe『なにもかも　あおい』\xf000븀\x0000\xfffeきいてくれるかしら?\xf000븁\x0000\xfffeああ　うみよ!　あなたは　あおい!\xfffeそらよ!　あなたも　あおい!\xf000븀\x0000\xfffeわたしだって　あおにさい!\xf000븀\x0000\xfffeいつのひか　あの　ゆうやけも\xf000븀\x0000\xfffeあおく　なってしまいそうで　こわくて\xf000븀\x0000\xfffeわたしの　かおも　あおくなる...\xf000븁\x0000\xfffeいじょう　おわりよっ!\xf000븁\x0000\xfffeつぎは　『なにもかも　あかい』ね\xfffeそれじゃ　いくわよ!\xf000븁\x0000\xfffe...　...　...　\xfffe...　...　...\xf000븁\x0000\xfffe...うん　かんどうてきな　ポエムね!\xfffeふふっ　ないても　いいのよ?\xf000븁\x0000
-トレーナーを　さがしていたの?\xfffeごめんなさい　きがつかなくって\xf000븁\x0000\xfffeてっきり　すてきなポエムを　さがして\xfffeさまよってるのかと　おもっちゃった
-ふふっ　トレーナーを　おさがし?\xfffeおばあちゃんだけど　いいかしら?\xf000븁\x0000
-うみの　うえでの　たいせんというのも\xfffeふぜいが　あって　いいわね!
-はなしが　とーっても　ながい!\xf000븁\x0000\xfffeポケモンに　なぞらえ\xfffeハブネークの　おじさん　という\xf000븁\x0000\xfffeめいわくな　ひとが\xfffeどこかの　せんしつに　いるんだって
-くくっ!　わたしに\xfffeはなしかけてしまったね!\xf000븁\x0000\xfffeいちど　くらいついたら\xfffeえいえんに　にがさない!\xf000븁\x0000\xfffeゆうらんせんの　みんなは\xfffeわたしを　ポケモンに　なぞらえ\xf000븀\x0000\xfffeハブネークの　おじさんと　よぶ!\xf000븁\x0000\xfffeだって　おじさん　さびしいんだ!\xfffeわかいこ　と　はなしたいんだ!\xf000븁\x0000\xfffeさぁさぁ　まずは　おじさんの\xfffeしごとのグチを　きいてくれたまえ...\xf000븁\x0000\xfffe...　...　...　\xfffe...　...　...\xf000븁\x0000\xfffe...あれ!\xfffeなにを　はなそうと　していたっけ?\xf000븁\x0000
-きてきが　なんかい　なっても\xfffeいいじゃないか!\xf000븁\x0000\xfffeさびしいんだ!\xfffeいかないでくれよ!
-ごめんなさい!　この　おへやは\xfffeせいそうちゅう　なの...\xf000븁\x0000\xfffeあらっ!?\xfffeあなた　トレーナーね!\xf000븁\x0000\xfffeふふっ　おねえさんと　こっそり\xfffeポケモンしょうぶ　しましょ!\xf000븁\x0000
-さぼって　しょうぶ　したことは\xfffeふたりだけの　ヒミツよ!
-Today...\xf000븁\x0000\xfffeAs for people, we have \xf000Ȁ\x0001\x0000 on the\xfffeport side and \xf000Ȁ\x0001\x0001 on the starboard side.
-Today...\xf000븁\x0000\xfffeThe number of people on the starboard\xfffeside is \xf000Ȁ\x0001\x0001, and...none on the port side.
-Today...\xf000븁\x0000\xfffeThe number of people on the port side is\xfffe\xf000Ȁ\x0001\x0000, and...none on the starboard side.
+Having battles on the ship and seeing\xfffethe scenery from the deck...\xf000\xbe00\x0000\xfffeThis ship is the best!
+どの へやに はいるか\xfffeずっと まよっているんだ!
+I came from Johto for my job, but...\xfffethis place is bursting with excitement!
+おおっ! いいところに きた!\xfffeはなしあいてが ほしかったんだ!\xf000\xbe01\x0000\xfffeおれは ジョウトちほう から\xfffeしゅっちょうで きてるんだけどさ\xf000\xbe01\x0000\xfffeこっちの ひとって クールっていうか\xfffeとかいてきな かんじじゃない?\xf000\xbe01\x0000\xfffeそのせいか きんちょうしちゃって\xfffeともだちを つくれなくてね\xf000\xbe01\x0000\xfffeきょうだって\xfffeせっかくの やすみだってのに\xf000\xbe00\x0000\xfffeひとりさみしく ふねのうえさ\xf000\xbe01\x0000\xfffe...そうだ!\xf000\xbe01\x0000\xfffeおれに イッシュりゅうの ともだちの\xfffeつくりかたを おしえてくれよ!\xf000\xbe01\x0000\xfffeなっ たのむよ!\xfffe...いそがしいって?\xf000\xbe00\x0000\xfffeそこを なんとか おねがいだから!\xf000\xbe01\x0000\xfffe... ... ...\xfffe... ... ...\xf000\xbe01\x0000\xfffe...いやー ひさしぶりに ひとと\xfffeたくさん はなせたよ ありがとうな!\xf000\xbe01\x0000
+あぁ! きてきが なってる!\xf000\xbe01\x0000\xfffeいそがしいところ わるかった!\xfffeTrainer みつかると いいな\xf000\xbe01\x0000\xfffeおれは おまえに きいた ほうほうで\xfffeこっちでの ともだちを みつけるよ
+おやすみちゅうでも きぎょうせんしは\xfffeりんせんたいせい さ! いくぞっ!\xf000\xbe01\x0000
+なんかい やっても\xfffeきみには かないそうも ないな...\xf000\xbe01\x0000\xfffeおとなしく ふなたびを\xfffeたのしむことに するよ!
+ぼくはね うみべの まちに\xfffeりょこうに いくと\xf000\xbe00\x0000\xfffeいつも ゆうらんせんに のるんだ\xf000\xbe01\x0000\xfffeあるいた ばしょを とおくから みて\xfffeしっかり とらえなおすのさ
+こうして のんびり していると\xfffeいままで そだててきた\xf000\xbe00\x0000\xfffeポケモンたちの ことを おもいだすよ\xf000\xbe01\x0000\xfffeなかには ぶきようなのも いたけど\xfffeみんな さいこうの れんちゅうだった
+うまれこきょうの ポケモンが\xfffeせかいに つうよう すること\xf000\xbe01\x0000\xfffeしょうめい したくて\xfffeずーっと たびして きたんだ!\xf000\xbe00\x0000\xfffeきみにも まけないよ!\xf000\xbe01\x0000
+せかいには きみみたいな\xfffeTrainerが ゴロゴロしてるんだ...\xf000\xbe00\x0000\xfffeワクワクしてくるよ!
+カントー ジョウト シンオウ...\xf000\xbe01\x0000\xfffeいろんな ところから きた ひとが\xfffeこの ふねに のってるみたいよ\xf000\xbe01\x0000\xfffeふねからの けしき だけじゃなく\xfffeめずらしい ポケモンに であえそう!
+かんぱんで てをひろげて\xfffeポケモンになった きぶんでいたら\xf000\xbe01\x0000\xfffeきゅうに ふねが ゆれて\xfffeおっこちそうに なっちゃった!\xf000\xbe01\x0000\xfffe...あーあ そういうときに さっと\xfffeたすけてくれる ひとが いればなー
+じゃーん! あったりぃ!\xfffeいきなり しょうぶに いくよー!\xf000\xbe01\x0000
+しょうぶしに くる\xfffeTrainerを まってたんだけど\xf000\xbe00\x0000\xfffeまちくたびれちゃった!\xf000\xbe01\x0000\xfffeきてくれて ありがと!
+なぁなぁ!\xfffeふねってさ テンション あがるよな!\xf000\xbe01\x0000\xfffeたかまるテンションの ままに\xfffeてっていてきに あばれてやったら\xf000\xbe00\x0000\xfffeこのへやに とじこめられちゃった...\xf000\xbe01\x0000\xfffeもう わるいこと しないから\xfffeへやから だしてくれー!
+おいらと たたかいたい ってのか?\xfffeへへっ! この みのほどしらずが!\xf000\xbe01\x0000\xfffeって あれ? ボールがない...?\xf000\xbe01\x0000\xfffeあー! モンスターボールを\xfffeいえに おいてきちまったー!
+きもち わるい...\xf000\xbe01\x0000\xfffeだけど おいらは Trainer!\xfffeふなよいに まけずに たたかうぜ!\xf000\xbe01\x0000
+ウッ...!\xf000\xbe01\x0000\xfffeわるい...\xfffeしばらく はなしかけないでくれ...
+あたしね このふねが だいすき!\xfffeだって ロイヤル ですもの!
+ねぇ きいてよ!\xfffeみんな ひどいんだよ!\xf000\xbe01\x0000\xfffeわたしの こと みがってとか\xfffeおしゃべり だなんて いうんだ!\xf000\xbe01\x0000\xfffeしずかで やさしい みんなが\xfffeあこがれる おんなのこ なのに!\xf000\xbe01\x0000\xfffe...はなしは かわるけど\xfffeあなたのすきな Pokémonなに?\xf000\xbe01\x0000\xfffe...あっ やっぱいいや それより\xfffeこの ようふく かわいくない?\xf000\xbe01\x0000\xfffeおきにいりの ブランドでね...\xf000\xbe01\x0000\xfffe... ... ...\xfffe... ... ...\xf000\xbe01\x0000\xfffe...しつれい しちゃうわ まったく!\xfffeどこか おしゃべり なのよ!\xf000\xbe01\x0000
+あっ! きてき!\xf000\xbe01\x0000\xfffeちょっと おはなし しただけなのに\xfffeもう こんな じかんに なっちゃった!
+わたしね さいきん\xfffeイッシュに ひっこして きたんだ!\xf000\xbe01\x0000\xfffeふふっ こっちじゃ あんまり みない\xfffeポケモンだって もってるんだから!\xf000\xbe00\x0000\xfffeねっ! しょうぶ しましょ!\xf000\xbe01\x0000
+わたしの ポケモン かわいいでしょ?\xf000\xbe01\x0000\xfffeこっちでも たくさん\xfffeポケモン あつめないとな っと!
+しょうぶが したいって?\xf000\xbe01\x0000\xfffeああ やだやだ これだから\xfffeやばんな れんちゅうは...\xf000\xbe01\x0000\xfffeたたかって ばかり いないで\xfffeたまには この ゆうがな ひとときを\xf000\xbe00\x0000\xfffeしずかに あじわったら どうだい?
+この ロイヤルイッシュごうは\xfffeぼくが うまれるよりも まえから\xf000\xbe01\x0000\xfffeCasteliaシティの うみを\xfffeはしって いるんだって!
+よくぞ きた!\xf000\xbe01\x0000\xfffeパパも ママも かんぱんに いて\xfffeたいくつ してんだ! しょうぶ!\xf000\xbe01\x0000
+こどもを おいて かんぱんで\xfffeあいを かたりあう パパとママ\xf000\xbe00\x0000\xfffeどうかと おもうよ!
+きょうは かぜが つよいから\xfffeおへやで たのしむことに するわ\xf000\xbe01\x0000\xfffeみなとに もどるまで\xfffeこの すてきな おへやを\xf000\xbe00\x0000\xfffeひとりじめ しちゃうんだから♪
+1かいめの きてきは\xfffeこんにちは はじめまして\xf000\xbe01\x0000\xfffe2かいめの きてきは\xfffeきょうも うみは きれいだね\xf000\xbe01\x0000\xfffe3かいめと 4かいめは\xfffeふなたび たのしんでいるかな?\xf000\xbe01\x0000\xfffe5かいめの きてきは\xfffeありがとう またきてね\xf000\xbe01\x0000\xfffeそんなふうに ふねが いっていると\xfffeおもえば すこしは なごまない?
+あなた! キュートな わたくしを\xfffeむかえに きてくださったの!\xf000\xbe01\x0000\xfffeうふふっ! とびっきりの\xfffeポケモンしょうぶで おあいてするわ!\xf000\xbe01\x0000
+そうね... あなたが つれていくのは\xfffeあたしではなく ポケモンよね
+きみから みると わたしは\xfffeうみの むこうの Trainer\xf000\xbe01\x0000\xfffeわたしから みると きみは\xfffeうみの むこうの Trainer
+さぁ どうぞ すわりなさい\xfffeいま おちゃを いれるから!\xf000\xbe01\x0000\xfffeえんりょ しないで\xf000\xbe01\x0000\xfffeしんしたる もの\xfffeへやにきた おきゃくさまを\xf000\xbe00\x0000\xfffeおもてなしするのは とうぜんのこと\xf000\xbe01\x0000\xfffeほらほら しばらくは\xfffeたたかいは わすれてしまいなさい\xf000\xbe01\x0000\xfffeん~ こうちゃが いいかな?\xfffeそれとも コーヒー?\xf000\xbe00\x0000\xfffeほーら いいにおいが してきたろ?\xf000\xbe01\x0000\xfffe... ... ... \xfffe... ... ...\xf000\xbe01\x0000\xfffe...ふふっ たのしかったよ\xfffeまた おいで\xf000\xbe01\x0000
+とても たのしかったよ\xf000\xbe01\x0000\xfffeのんびり したかったら\xfffeまた きておくれ
+さぁ どうぞ すわりなさい\xfffeいま おちゃを いれるから...\xf000\xbe01\x0000\xfffeなんてな! わしは Trainer!\xfffeポケモンで きみを もてなす!\xf000\xbe01\x0000
+はげしい ポケモンしょうぶの あとは\xfffeティーブレイクと いこうじゃないか\xf000\xbe01\x0000\xfffeどうだい? きみも いっぱい?\xfffe...って おちゃを きらしていたよ
+ポケモンTrainerを さがしてるの?\xf000\xbe01\x0000\xfffeごめんね... わたしは しらないわ\xfffeせんいんさん なら しってるかもよ?
+こうして うみの ゆらめきに\xfffeからだを あずけていたら\xf000\xbe01\x0000\xfffeゆたかな ポエムが こころの\xfffeおくから わきあがってきたの!\xf000\xbe01\x0000\xfffeタイトルはね\xfffe: なにもかも あおい』\xf000\xbe00\x0000\xfffeきいてくれるかしら?\xf000\xbe01\x0000\xfffeああ うみよ! あなたは あおい!\xfffeそらよ! あなたも あおい!\xf000\xbe00\x0000\xfffeわたしだって あおにさい!\xf000\xbe00\x0000\xfffeいつのひか あの ゆうやけも\xf000\xbe00\x0000\xfffeあおく なってしまいそうで こわくて\xf000\xbe00\x0000\xfffeわたしの かおも あおくなる...\xf000\xbe01\x0000\xfffeいじょう おわりよっ!\xf000\xbe01\x0000\xfffeつぎは : なにもかも あかい』ね\xfffeそれじゃ いくわよ!\xf000\xbe01\x0000\xfffe... ... ... \xfffe... ... ...\xf000\xbe01\x0000\xfffe...うん かんどうてきな ポエムね!\xfffeふふっ ないても いいのよ?\xf000\xbe01\x0000
+Trainerを さがしていたの?\xfffeごめんなさい きがつかなくって\xf000\xbe01\x0000\xfffeてっきり すてきなポエムを さがして\xfffeさまよってるのかと おもっちゃった
+ふふっ Trainerを おさがし?\xfffeおばあちゃんだけど いいかしら?\xf000\xbe01\x0000
+うみの うえでの たいせんというのも\xfffeふぜいが あって いいわね!
+はなしが とーっても ながい!\xf000\xbe01\x0000\xfffeポケモンに なぞらえ\xfffeハブネークの おじさん という\xf000\xbe01\x0000\xfffeめいわくな ひとが\xfffeどこかの せんしつに いるんだって
+くくっ! わたしに\xfffeはなしかけてしまったね!\xf000\xbe01\x0000\xfffeいちど くらいついたら\xfffeえいえんに にがさない!\xf000\xbe01\x0000\xfffeゆうらんせんの みんなは\xfffeわたしを ポケモンに なぞらえ\xf000\xbe00\x0000\xfffeハブネークの おじさんと よぶ!\xf000\xbe01\x0000\xfffeだって おじさん さびしいんだ!\xfffeわかいこ と はなしたいんだ!\xf000\xbe01\x0000\xfffeさぁさぁ まずは おじさんの\xfffeしごとのグチを きいてくれたまえ...\xf000\xbe01\x0000\xfffe... ... ... \xfffe... ... ...\xf000\xbe01\x0000\xfffe...あれ!\xfffeなにを はなそうと していたっけ?\xf000\xbe01\x0000
+きてきが なんかい なっても\xfffeいいじゃないか!\xf000\xbe01\x0000\xfffeさびしいんだ!\xfffeいかないでくれよ!
+ごめんなさい! この おへやは\xfffeせいそうちゅう なの...\xf000\xbe01\x0000\xfffeあらっ!?\xfffeあなた Trainerね!\xf000\xbe01\x0000\xfffeふふっ おねえさんと こっそり\xfffeポケモンしょうぶ しましょ!\xf000\xbe01\x0000
+さぼって しょうぶ したことは\xfffeふたりだけの ヒミツよ!
+Today...\xf000\xbe01\x0000\xfffeAs for people, we have \xf000\x0200\x0001\x0000 on the\xfffeport side and \xf000\x0200\x0001\x0001 on the starboard side.
+Today...\xf000\xbe01\x0000\xfffeThe number of people on the starboard\xfffeside is \xf000\x0200\x0001\x0001, and...none on the port side.
+Today...\xf000\xbe01\x0000\xfffeThe number of people on the port side is\xfffe\xf000\x0200\x0001\x0000, and...none on the starboard side.
 If you're so inclined, speak to me.\xfffeI will give you a hint anytime.
-トレーナーさがしの　ヒント\xfffeききたいかい?
-Certainly. Just a moment, please.\xf000븁\x0000
+Do you want to know a hint\xfffeabout looking for Trainers?
+Certainly. Just a moment, please.\xf000\xbe01\x0000
 Certainly.\xfffePlease continue to have a great time!
 Won against every Trainer on the ship!
-Thank you very much for sailing with us\xfffeon the Royal Unova.\xf000븁\x0000\xfffeThe number of Trainers aboard the\xfffeRoyal Unova today is \xf000Ȁ\x0001\x0003.\xf000븀\x0000\xfffePlease enjoy the trip.\xf000븁\x0000
-The number of Trainers aboard the\xfffeRoyal Unova today is \xf000Ȁ\x0001\x0003.\xf000븀\x0000\xfffeYou... Congratulations!\xf000븁\x0000\xfffeYou've won against every Trainer\xfffeon the ship!\xf000븁\x0000\xfffeThe ship is nearing the port.\xfffeWould you like to get off the ship?
-ごじょうせん　ありがとうございました\xf000븁\x0000\xfffeこの　ゆうらんせんは　まもなく\xfffeヒウンシティに　とうちゃくいたします\xf000븁\x0000
+Thank you very much for sailing with us\xfffeon the Royal Unova.\xf000\xbe01\x0000\xfffeThe number of Trainers aboard the\xfffeRoyal Unova today is \xf000\x0200\x0001\x0003.\xf000\xbe00\x0000\xfffePlease enjoy the trip.\xf000\xbe01\x0000
+The number of Trainers aboard the\xfffeRoyal Unova today is \xf000\x0200\x0001\x0003.\xf000\xbe00\x0000\xfffeYou... Congratulations!\xf000\xbe01\x0000\xfffeYou've won against every Trainer\xfffeon the ship!\xf000\xbe01\x0000\xfffeThe ship is nearing the port.\xfffeWould you like to get off the ship?
+Thank you for sailing with us.\xf000\xbe01\x0000\xfffeThis cruise ship will arrive\xfffein Castelia City shortly.\xf000\xbe01\x0000
