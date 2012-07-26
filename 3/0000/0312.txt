@@ -3,8 +3,8 @@ VHYDZPRUIOOD\xfffeGHYDV
 OODURIHSRK\xfffeVLJQLN
 HYROKWLZ\xfffeWFDNQLKW
 GHHUJDIL\xfffeJQRUWVWFD
-It seems you can go up here!\xf000븁\x0000Continue to the upper floor?
-It seems you can go down here!\xf000븁\x0000Return to the lower floor?
+It seems you can go up here!\xf000\xbe01\x0000Continue to the upper floor?
+It seems you can go down here!\xf000\xbe01\x0000Return to the lower floor?
 とゆあるくてろそんえく\xfffeにひゆろさえせにけえふおき
 つとゆむるくめぬとききあめつ\xfffeめりあえるめふおき
 ろうなおちれひなまそ\xfffeれうなおみけひなまそふおき

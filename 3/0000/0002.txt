@@ -1,7 +1,7 @@
-\xf000봂\x0000PLAYER: \xf000Ā\x0001\x0000
-\xf000봂\x0000This document certifies that\xfffe\xf000봂\x0000you have made the great\xfffe\xf000봂\x0000achievement of catching all\xfffe\xf000봂\x0000the Pokémon in the Unova region.
+\xf000\xbd02\x0000PLAYER: \xf000\x0100\x0001\x0000
+\xf000\xbd02\x0000This document certifies that\xfffe\xf000\xbd02\x0000you have made the great\xfffe\xf000\xbd02\x0000achievement of catching all\xfffe\xf000\xbd02\x0000the Pokémon in the Unova region.
 This document certifies\xfffethat you have successfully\xfffecompleted your\xfffeNational Pokédex.
-\xf000봂\x0000GAME FREAK\xfffe\xf000봂\x0000All the staff
-PLAYER: \xf000Ā\x0001\x0000
-\xf000봃\x0001\x0000GAME FREAK\xfffe\xf000봃\x0001\x0000All the staff
+\xf000\xbd02\x0000GAME FREAK\xfffe\xf000\xbd02\x0000All the staff
+PLAYER: \xf000\x0100\x0001\x0000
+\xf000\xbd03\x0001\x0000GAME FREAK\xfffe\xf000\xbd03\x0001\x0000All the staff
 This document certifies\xfffethat you have successfully\xfffecompleted your\xfffeNational Pokédex.

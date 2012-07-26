@@ -1,37 +1,37 @@
-Clay: ここだ!\xf000븁\x0000
-どうだ!\xfffeりっぱな　たてもの　だろ!\xf000븁\x0000\xfffeポケモンワールドトーナメントの\xfffeかいじょう　だぞ!　ホレボレするだろ\xf000븁\x0000\xfffeさ!\xfffeおまえら　ついてこい!\xf000븁\x0000
-Cheren: それにしても　\xf000Ā\x0001\x0000たち\xfffeすっかり　みちがえたよね\xf000븁\x0000\xfffeヒオウギで　しょうぶ　したときとは\xfffeうんでいの　ちがい　だよ\xf000븁\x0000\xfffeポケモンと　いっしょの　たびは\xfffeみんなを　せいちょう　させ...\xf000븁\x0000
-\xf000Ā\x0001\x0001『いまのッ!?\xf000븁\x0000
-おいかけるぞッ!\xfffe\xf000Ā\x0001\x0000　オマエも　きてくれッ!!\xf000븁\x0000
-およしなさい\xf000븁\x0000
-Colress: わざわざ\xfffeきけんなことに　くびを　つっこむ\xf000븀\x0000\xfffeひつようなど　ありません!\xf000븁\x0000
-\xf000Ā\x0001\x0001『さがしてる　ポケモンが!\xf000븁\x0000\xfffeいもうとの　チョロネコが\xfffeいるかも　しれないんだッ!!\xf000븁\x0000
-Cheren: ぼくも　いきます\xf000븁\x0000\xfffeかれを　まもらないと!\xf000븁\x0000
-Colress: りかい　できません\xfffeゆうき　ではなく　おろか　です!\xf000븁\x0000\xfffeポケモンが　いれば　トレーナーは\xfffeどんなことでも　できるのですか?\xf000븁\x0000\xfffe...いえいえ\xfffeありえませんよ\xf000븁\x0000\xfffeすべての　トレーナーと　ポケモンは\xfffeモンスターボールで　むすばれている\xf000븁\x0000\xfffeということは　トレーナーが\xfffeパートナーの　ポケモンを　しんじれば\xf000븀\x0000\xfffeふかのう　など　なくなりますっ!\xf000븁\x0000
-Colress: しんじる...\xfffeふかくていようそ　すぎますよ\xf000븁\x0000\xfffeですが　ポケモンを　しんじることで\xfffeプラズマだんと　むきあう　きけんも\xf000븀\x0000\xfffeのりこえられると　いうのなら!\xf000븁\x0000\xfffeおともだちを　たすけるなら!\xf000븁\x0000\xfffeかれらを　おいかけ　みなみにある\xfffeはとばに　むかいなさいっ!
-\xf000Ā\x0001\x0001『ダークトリニティ?\xfffeアイツら　なんだよッ!?\xf000븁\x0000\xfffeあーッ!　もうッ!\xfffeプラズマだん　どこ　きえたッ!\xf000븁\x0000
-Cheren: ダークトリニティは...\xf000븁\x0000\xfffeひとの　うごきを　ふうじて　つれさる\xfffeちょうじんてきな　れんちゅう...\xf000븁\x0000\xfffeそれよりも　さっきの　ことば...!\xf000븁\x0000\xfffe「われわれは　いまいちど\xfffeでんせつの　ドラゴンポケモンを\xf000븀\x0000\xfffeしたがえ　イッシュを　しはいする!」\xf000븀\x0000\xfffeとは　どういう　ことだろう?\xf000븁\x0000\xfffeでんせつの　ドラゴンポケモン\xfffeレシラムも　ゼクロムも\xf000븀\x0000\xfffeイッシュには　いないはずなのに...?\xf000븁\x0000
-\xf000Ā\x0001\x0000\xf000븁\x0000\xfffeぼくは　しらべることが　あるので\xfffe６ばんどうろに　いく\xf000븁\x0000\xfffeきみも　どうちゅう　きをつけなよ\xf000븁\x0000
-A helmet is an valuable tool\xfffefor protecting yourself from impacts!\xf000븁\x0000Your Pokémon should\xfffewear them, too!\xf000븁\x0000
-The Rugged Helmet is a\xfffewondrous item that, when held...\xf000븁\x0000Deals damage to the opponent\xfffewhenever it lands a blow!\xf000븁\x0000..."Landing a blow" being\xfffeany move that strikes directly!
+Clay: ここだ!\xf000\xbe01\x0000
+どうだ!\xfffeりっぱな たてもの だろ!\xf000\xbe01\x0000\xfffeポケモンワールドトーナメントの\xfffeかいじょう だぞ! ホレボレするだろ\xf000\xbe01\x0000\xfffeさ!\xfffeおまえら ついてこい!\xf000\xbe01\x0000
+Cheren: それにしても \xf000\x0100\x0001\x0000たち\xfffeすっかり みちがえたよね\xf000\xbe01\x0000\xfffeヒオウギで しょうぶ したときとは\xfffeうんでいの ちがい だよ\xf000\xbe01\x0000\xfffeポケモンと いっしょの たびは\xfffeみんなを せいちょう させ...\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: いまのッ!?\xf000\xbe01\x0000
+おいかけるぞッ!\xfffe\xf000\x0100\x0001\x0000 オマエも きてくれッ!!\xf000\xbe01\x0000
+およしなさい\xf000\xbe01\x0000
+Colress: わざわざ\xfffeきけんなことに くびを つっこむ\xf000\xbe00\x0000\xfffeひつようなど ありません!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: さがしてる ポケモンが!\xf000\xbe01\x0000\xfffeいもうとの チョロネコが\xfffeいるかも しれないんだッ!!\xf000\xbe01\x0000
+Cheren: ぼくも いきます\xf000\xbe01\x0000\xfffeかれを まもらないと!\xf000\xbe01\x0000
+Colress: りかい できません\xfffeゆうき ではなく おろか です!\xf000\xbe01\x0000\xfffeポケモンが いれば Trainerは\xfffeどんなことでも できるのですか?\xf000\xbe01\x0000\xfffe...いえいえ\xfffeありえませんよ\xf000\xbe01\x0000\xfffeすべての Trainerと Pokémon\xfffeモンスターボールで むすばれている\xf000\xbe01\x0000\xfffeということは Trainerが\xfffeパートナーの ポケモンを しんじれば\xf000\xbe00\x0000\xfffeふかのう など なくなりますっ!\xf000\xbe01\x0000
+Colress: しんじる...\xfffeふかくていようそ すぎますよ\xf000\xbe01\x0000\xfffeですが ポケモンを しんじることで\xfffeプラズマだんと むきあう きけんも\xf000\xbe00\x0000\xfffeのりこえられると いうのなら!\xf000\xbe01\x0000\xfffeおともだちを たすけるなら!\xf000\xbe01\x0000\xfffeかれらを おいかけ みなみにある\xfffeはとばに むかいなさいっ!
+\xf000\x0100\x0001\x0001: ダークトリニティ?\xfffeアイツら なんだよッ!?\xf000\xbe01\x0000\xfffeあーッ! もうッ!\xfffeプラズマだん どこ きえたッ!\xf000\xbe01\x0000
+Cheren: ダークトリニティは...\xf000\xbe01\x0000\xfffeひとの うごきを ふうじて つれさる\xfffeちょうじんてきな れんちゅう...\xf000\xbe01\x0000\xfffeそれよりも さっきの ことば...!\xf000\xbe01\x0000\xfffe「われわれは いまいちど\xfffeでんせつの ドラゴンポケモンを\xf000\xbe00\x0000\xfffeしたがえ イッシュを しはいする!」\xf000\xbe00\x0000\xfffeとは どういう ことだろう?\xf000\xbe01\x0000\xfffeでんせつの ドラゴンポケモン\xfffeレシラムも ゼクロムも\xf000\xbe00\x0000\xfffeイッシュには いないはずなのに...?\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000\xf000\xbe01\x0000\xfffeぼくは しらべることが あるので\xfffeRoute 6に いく\xf000\xbe01\x0000\xfffeきみも どうちゅう きをつけなよ\xf000\xbe01\x0000
+A helmet is an valuable tool\xfffefor protecting yourself from impacts!\xf000\xbe01\x0000Your Pokémon should\xfffewear them, too!\xf000\xbe01\x0000
+The Rugged Helmet is a\xfffewondrous item that, when held...\xf000\xbe01\x0000Deals damage to the opponent\xfffewhenever it lands a blow!\xf000\xbe01\x0000..."Landing a blow" being\xfffeany move that strikes directly!
 no data
-みずのちかい\xfffeほのおのちかい\xf000븀\x0000\xfffeくさのちかい\xf000븁\x0000\xfffeこれら　３つの　わざは\xfffeたたかいのとき　くみあわせることで\xf000븀\x0000\xfffeとくしゅな　こうかが　うまれるのよ!
-no　data
-no　data
-no　data
-じいさんが　きゅうきょくの　わざを\xfffeおしえられるのは　いまから\xf000븀\x0000\xfffeなまえを　よぶ　ポケモン　じゃよ\xf000븁\x0000\xfffeもえる　ほのおの　ポケモン\xfffeリザードン　バクフーン\xf000븀\x0000\xfffeバシャーモ　ゴウカザル\xf000븀\x0000\xfffeエンブオー\xf000븁\x0000\xfffeたゆたう　みずの　ポケモン\xfffeカメックス　オーダイル\xf000븀\x0000\xfffeラグラージ　エンペルト\xf000븀\x0000\xfffeダイケンキ\xf000븁\x0000\xfffeしずかな　くさの　ポケモン\xfffeフシギバナ　メガニウム\xf000븀\x0000\xfffeジュカイン　ドダイトス\xf000븀\x0000\xfffeジャローダ　じゃよ!
-どんな　トレーナーが　つどうのか?\xfffeどんな　たたかいに　なるのか!?
-ひとまえで　しょうぶ　するなら\xfffeまいあがらないように　しないとね\xf000븁\x0000\xfffeそんなこといいつつ　あたしは\xfffeはなびらのまい　ちょうのまいに\xf000븀\x0000\xfffeほのおのまい　りゅうのまい\xf000븁\x0000\xfffeめずらしいところでは\xfffeみかづきのまい　の　わざが　すきよ
-あたしの　ポケモンを\xfffeみんなに　アッピール!!
-じぶんの　チャレンジが\xfffeせかいに　つながっていく...\xf000븀\x0000\xfffeなんて　ステキなの!
-When a Pokémon learns\xfffethe move Hidden Power...\xf000븁\x0000What type will it be?\xfffeSomehow, I know!\xf000븁\x0000What type of Hidden Power\xfffewill your Pokémon learn?\xf000븀\x0000Show me and I'll tell you!
-The type of Hidden Power\xfffeyour Pokémon will learn...\xf000븀\x0000It is clear to me! I shall reveal it!
-If this Pokémon\xfffeis taught Hidden Power,\xf000븀\x0000its type shall be... \xf000ă\x0001\x0000!
-If this Pokémon\xfffeuses Hidden Power,\xf000븀\x0000its type shall be... \xf000ă\x0001\x0000!
-If you want to know, ask me, and I'll\xfffeactivate my hidden power for you!
-It's not possible for an Egg to use\xfffeHidden Power!
-I'm sorry, but this Pokémon can't learn\xfffeto use Hidden Power.
-そこの　ほらあなは\xfffeこだいのぬけみち!\xf000븁\x0000\xfffeさいきん　みつかったんだが\xfffeなんと　なんと!\xf000븁\x0000\xfffe...あれ?　どこに\xfffeつながって　いたんだっけ?
-うみを　わたってこそ　ふね!\xfffeみなとに　いる　ふねは　さびしそうね
+みずのちかい\xfffeほのおのちかい\xf000\xbe00\x0000\xfffeくさのちかい\xf000\xbe01\x0000\xfffeこれら 3つの わざは\xfffeたたかいのとき くみあわせることで\xf000\xbe00\x0000\xfffeとくしゅな こうかが うまれるのよ!
 no data
-ポケモンワールドトーナメント\xfffeあるいは　ＰＷＴ\xf000븀\x0000\xfffeこのみで　つかいわけて　ください
+no data
+no data
+じいさんが きゅうきょくの わざを\xfffeおしえられるのは いまから\xf000\xbe00\x0000\xfffeなまえを よぶ ポケモン じゃよ\xf000\xbe01\x0000\xfffeもえる ほのおの ポケモン\xfffeリザードン バクフーン\xf000\xbe00\x0000\xfffeバシャーモ ゴウカザル\xf000\xbe00\x0000\xfffeエンブオー\xf000\xbe01\x0000\xfffeたゆたう みずの ポケモン\xfffeカメックス オーダイル\xf000\xbe00\x0000\xfffeラグラージ エンペルト\xf000\xbe00\x0000\xfffeダイケンキ\xf000\xbe01\x0000\xfffeしずかな くさの ポケモン\xfffeフシギバナ メガニウム\xf000\xbe00\x0000\xfffeジュカイン ドダイトス\xf000\xbe00\x0000\xfffeジャローダ じゃよ!
+どんな Trainerが つどうのか?\xfffeどんな たたかいに なるのか!?
+ひとまえで しょうぶ するなら\xfffeまいあがらないように しないとね\xf000\xbe01\x0000\xfffeそんなこといいつつ あたしは\xfffeはなびらのまい ちょうのまいに\xf000\xbe00\x0000\xfffeほのおのまい りゅうのまい\xf000\xbe01\x0000\xfffeめずらしいところでは\xfffeみかづきのまい の わざが すきよ
+あたしの ポケモンを\xfffeみんなに アッピール!!
+じぶんの チャレンジが\xfffeせかいに つながっていく...\xf000\xbe00\x0000\xfffeなんて ステキなの!
+When a Pokémon learns\xfffethe move Hidden Power...\xf000\xbe01\x0000What type will it be?\xfffeSomehow, I know!\xf000\xbe01\x0000What type of Hidden Power\xfffewill your Pokémon learn?\xf000\xbe00\x0000Show me and I'll tell you!
+The type of Hidden Power\xfffeyour Pokémon will learn...\xf000\xbe00\x0000It is clear to me! I shall reveal it!
+If this Pokémon\xfffeis taught Hidden Power,\xf000\xbe00\x0000its type shall be... \xf000\x0103\x0001\x0000!
+If this Pokémon\xfffeuses Hidden Power,\xf000\xbe00\x0000its type shall be... \xf000\x0103\x0001\x0000!
+If you want to know, ask me, and I'll\xfffeactivate the hidden power for you!
+An egg cannot even\xfffeuse Hidden Power whatsoever!
+Alas, this Pokémon\xfffecannot learn Hidden Power!
+そこの ほらあなは\xfffeこだいのぬけみち!\xf000\xbe01\x0000\xfffeさいきん みつかったんだが\xfffeなんと なんと!\xf000\xbe01\x0000\xfffe...あれ? どこに\xfffeつながって いたんだっけ?
+うみを わたってこそ ふね!\xfffeみなとに いる ふねは さびしそうね
+no data
+ポケモンワールドトーナメント\xfffeあるいは PWT\xf000\xbe00\x0000\xfffeこのみで つかいわけて ください

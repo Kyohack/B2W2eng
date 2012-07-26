@@ -1,22 +1,22 @@
-Clay: こんかい　おまえたちに\xfffeさんか　してもらうのは\xf000븁\x0000\xfffeホドモエトーナメント!　ルールは\xfffeなんでも　オーケーの　たいかいだ!\xf000븁\x0000\xfffe８にん　さんかの　トーナメントで\xfffe３かい　かてば　ゆうしょう　だぞ!\xf000븁\x0000
-Cheren: なぜ　ぼくまで...\xfffeしらべることが　あるのに\xf000븁\x0000
-Clay: わかるか　チェレン\xfffeポケモンと　ともに　たたかう　いみを\xf000븀\x0000\xfffeつたえられるのは　おまえ　なんだよ\xf000븁\x0000\xfffeそれに　おまえの　ともだちだった\xfffeあいつは　いないしさ\xf000븁\x0000\xfffeそれに　わかい　ちから!\xf000븁\x0000\xfffeみんな　みらいの\xfffeスターが　だいすき　だからな!\xf000븁\x0000\xfffeさあ!　じゅんびが　できたら\xfffeうけつけカウンターに　いくんだ!\xf000븁\x0000
-Clay: じゅんびが　できたら\xfffeうけつけカウンターに　いくんだぞ!
-Cheren: Phew...\xfffeかわらないね　ヤーコンさんは\xf000븁\x0000\xfffeだけど　トーナメントそのものは\xfffeたしかに　おもしろそう　なんだよね\xf000븁\x0000\xfffeよしっ!\xfffeぼくは　うけつけを　してくるよ\xf000븁\x0000
-\xf000Ā\x0001\x0001: Ah! Me too!\xf000븁\x0000
-\xf000Ā\x0001\x0000も　はやくしろよ\xfffeじゅんすいに　しょうぶしようぜ!\xf000븁\x0000
-Clay: You guys!\xfffeIt was a good match!\xf000븁\x0000\xfffeこれなら　みんなが　われこそはと\xfffeトーナメントに　さんか　したくなる!\xf000븁\x0000
-Roxie: Hey! You guys!\xf000븁\x0000\xfffeもっと　はげしく　くるおしい\xfffeポケモンしょうぶを　みせなよ!\xf000븁\x0000\xfffeもう!　ホミカが　エントリーして\xfffeかんきゃく　みんなの\xf000븀\x0000\xfffeりせいを　ブッとばしちゃうッ!\xf000븁\x0000
-Clay: ほら　どうだ!\xfffeさっそく　きたぞ!!\xf000븁\x0000\xfffeこうして　かくちの　きょうごうが\xfffeつどい　もりあがっていけば\xf000븁\x0000\xfffeポケモントレーナーたちの\xfffeりきりょうも　たかまる...\xf000븁\x0000\xfffeではなく　ホドモエは　さらに\xfffeはってんして　かねも　もうかる!\xf000븁\x0000\xfffeじゃあな!　おまえらも　どんどん\xfffeさんかして　もりあげてくれよ!\xf000븁\x0000
-Colress: おおくの　トレーナーが\xfffeしょうぶを　つうじて\xf000븀\x0000\xfffeポケモンの　のうりょくを　ひきだす\xf000븁\x0000\xfffeこの　かせつを　たしかめるため\xfffeわたくしは　さらに　たたかいつづけ\xf000븀\x0000\xfffeいつか　こたえを　みつけますっ!
-\xf000Ā\x0001\x0001: Uughh...\xf000븁\x0000\xfffeI will win my first\xfffevictory in the tournament now!
-Cheren: The Unova Gym Leaders\xfffewill be also be participating\xf000븀\x0000\xfffein the tournament as well.
-I have one here!\xfffeなを　はせる　おとこ!\xf000븁\x0000\xfffe...いまは　ただの　かんきゃくだ
+Clay: こんかい おまえたちに\xfffeさんか してもらうのは\xf000\xbe01\x0000\xfffeホドモエトーナメント! ルールは\xfffeなんでも オーケーの たいかいだ!\xf000\xbe01\x0000\xfffe8にん さんかの トーナメントで\xfffe3かい かてば ゆうしょう だぞ!\xf000\xbe01\x0000
+Cheren: なぜ ぼくまで...\xfffeしらべることが あるのに\xf000\xbe01\x0000
+Clay: わかるか チェレン\xfffeポケモンと ともに たたかう いみを\xf000\xbe00\x0000\xfffeつたえられるのは おまえ なんだよ\xf000\xbe01\x0000\xfffeそれに おまえの ともだちだった\xfffeあいつは いないしさ\xf000\xbe01\x0000\xfffeそれに わかい ちから!\xf000\xbe01\x0000\xfffeみんな みらいの\xfffeスターが だいすき だからな!\xf000\xbe01\x0000\xfffeさあ! じゅんびが できたら\xfffeうけつけカウンターに いくんだ!\xf000\xbe01\x0000
+Clay: じゅんびが できたら\xfffeうけつけカウンターに いくんだぞ!
+Cheren: Phew...\xfffeかわらないね ヤーコンさんは\xf000\xbe01\x0000\xfffeだけど トーナメントそのものは\xfffeたしかに おもしろそう なんだよね\xf000\xbe01\x0000\xfffeよしっ!\xfffeぼくは うけつけを してくるよ\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: Ah! Me too!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000も はやくしろよ\xfffeじゅんすいに しょうぶしようぜ!\xf000\xbe01\x0000
+Clay: You guys!\xfffeIt was a good match!\xf000\xbe01\x0000\xfffeこれなら みんなが われこそはと\xfffeトーナメントに さんか したくなる!\xf000\xbe01\x0000
+Roxie: Hey! You guys!\xf000\xbe01\x0000\xfffeもっと はげしく くるおしい\xfffeポケモンしょうぶを みせなよ!\xf000\xbe01\x0000\xfffeもう! ホミカが エントリーして\xfffeかんきゃく みんなの\xf000\xbe00\x0000\xfffeりせいを ブッとばしちゃうッ!\xf000\xbe01\x0000
+Clay: ほら どうだ!\xfffeさっそく きたぞ!!\xf000\xbe01\x0000\xfffeこうして かくちの きょうごうが\xfffeつどい もりあがっていけば\xf000\xbe01\x0000\xfffeポケモントレーナーたちの\xfffeりきりょうも たかまる...\xf000\xbe01\x0000\xfffeではなく ホドモエは さらに\xfffeはってんして かねも もうかる!\xf000\xbe01\x0000\xfffeじゃあな! おまえらも どんどん\xfffeさんかして もりあげてくれよ!\xf000\xbe01\x0000
+Colress: おおくの トレーナーが\xfffeしょうぶを つうじて\xf000\xbe00\x0000\xfffeポケモンの のうりょくを ひきだす\xf000\xbe01\x0000\xfffeこの かせつを たしかめるため\xfffeわたくしは さらに たたかいつづけ\xf000\xbe00\x0000\xfffeいつか こたえを みつけますっ!
+\xf000\x0100\x0001\x0001: Uughh...\xf000\xbe01\x0000\xfffeI will win my first\xfffevictory in the tournament now!
+Cheren: The Unova Gym Leaders\xfffewill be also be participating\xf000\xbe00\x0000\xfffein the tournament as well.
+I have one here!\xfffeなを はせる おとこ!\xf000\xbe01\x0000\xfffe...いまは ただの かんきゃくだ
 So many trainers from all over\xfffecomes here to compete!
-Clay is not like anyone else!\xf000븁\x0000\xfffeHe helped developed Driftveil\xfffehere!
+Clay is not like anyone else!\xf000\xbe01\x0000\xfffeHe helped developed Driftveil\xfffehere!
 Two years ago, this place\xfffewas full of frozen containers...
 The Pokémon World Tournament\xfffeis really getting audiences pumped!
 People who goes alone to\xfffedo this are brave! It's discouraging!
 Ohh... Are the seats\xfffesold out already?
-The Pokémon World Tournament!\xf000븁\x0000\xfffeWhere trainers all over\xfffecomes and compete in\xf000븀\x0000\xfffethe Pokémon Tournament!
-Hey Trainer!\xfffeLet's discuss about BP!\xf000븁\x0000\xfffeBP is\xfffeBattle Points for short.\xf000븁\x0000\xfffeNimbasa City's Battle Subway and\xfffethe tournament here is where\xf000븀\x0000\xfffeyou can rack up those points!\xf000븁\x0000\xfffeThose points are accumulated\xfffeto obtain prizes also.
+The Pokémon World Tournament!\xf000\xbe01\x0000\xfffeWhere trainers all over\xfffecomes and compete in\xf000\xbe00\x0000\xfffethe Pokémon Tournament!
+Hey Trainer!\xfffeLet's discuss about BP!\xf000\xbe01\x0000\xfffeBP is\xfffeBattle Points for short.\xf000\xbe01\x0000\xfffeNimbasa City's Battle Subway and\xfffethe tournament here is where\xf000\xbe00\x0000\xfffeyou can rack up those points!\xf000\xbe01\x0000\xfffeThose points are accumulated\xfffeto obtain prizes also.

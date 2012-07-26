@@ -1,13 +1,13 @@
-N: \xf000븉\x0001\x0001...Right here,\xfffethis place is my world.\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001ボクは　おさないころに　ふかい\xfffeもりの　おくに　おきざりに　された\xf000븁\x0000\xfffeそんな　ボクを　そだててくれたのは\xfffeもりの　ポケモンたち...\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001あるひのこと　ボクの　まえに\xfffeおやと　なのる　おとこが　あらわれた\xf000븁\x0000\xfffeそれが　ゲーチス\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001カレが　ボクに　あたえてくれたのは\xfffeハルモニア　という　なまえ\xf000븁\x0000\xfffeおうとしての　かずおおくの　ちしき\xf000븁\x0000\xfffeかたく　かたく　こころを　とざし\xfffeはなすことも　できない　ポケモン\xf000븁\x0000\xfffeそして　この　へや...\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001...そとに　いるよ\xf000븉\x0001\x0000\xf000븁\x0000
-It's a basketball that looks like\xfffeit's been used a lot.\xf000븀\x0000\xfffeIt says Harmonia on it...
+N: \xf000\xbe09\x0001\x0001...Right here,\xfffethis place is my world.\xf000\xbe09\x0001\x0000\xf000\xbe01\x0000
+\xf000\xbe09\x0001\x0001ボクは おさないころに ふかい\xfffeもりの おくに おきざりに された\xf000\xbe01\x0000\xfffeそんな ボクを そだててくれたのは\xfffeもりの ポケモンたち...\xf000\xbe09\x0001\x0000\xf000\xbe01\x0000
+\xf000\xbe09\x0001\x0001あるひのこと ボクの まえに\xfffeおやと なのる おとこが あらわれた\xf000\xbe01\x0000\xfffeそれが ゲーチス\xf000\xbe09\x0001\x0000\xf000\xbe01\x0000
+\xf000\xbe09\x0001\x0001カレが ボクに あたえてくれたのは\xfffeハルモニア という なまえ\xf000\xbe01\x0000\xfffeおうとしての かずおおくの ちしき\xf000\xbe01\x0000\xfffeかたく かたく こころを とざし\xfffeはなすことも できない ポケモン\xf000\xbe01\x0000\xfffeそして この へや...\xf000\xbe09\x0001\x0000\xf000\xbe01\x0000
+\xf000\xbe09\x0001\x0001...そとに いるよ\xf000\xbe09\x0001\x0000\xf000\xbe01\x0000
+It's a basketball that looks like\xfffeit's been used a lot.\xf000\xbe00\x0000\xfffeIt says Harmonia on it...
 It's a home-style basketball hoop...
 This toy box is full of new toys...
 A skateboard is resting on\xfffea pile of wheels.
-A halfpipe for skateboards...\xf000븁\x0000\xfffeIt has Pokémon scratch marks\xfffeon it here and there...
+A halfpipe for skateboards...\xf000\xbe01\x0000\xfffeIt has Pokémon scratch marks\xfffeon it here and there...
 An art panel with a\xfffeprinted geometric pattern.
 This panel has a dart stuck in it.
 It's a set of trains and tracks.\xfffeHas it been played with recently?

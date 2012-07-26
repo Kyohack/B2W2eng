@@ -2,9 +2,9 @@ no data
 no data
 no data
 no data
-ヒロコ『ポワ～ン...\xf000븁\x0000\xfffeあっ!　すいません　ひなたぼっこ\xfffeしてて　つい　ポワポワしてました\xf000븁\x0000\xfffeん～　いいてんき　ですね!\xfffeここで　いっしょに　ポワりませんか?
-ヒロコ『わわっ!　みました!?\xfffeずーっと　しょうひんが　かわってなかった\xf000븀\x0000\xfffeあの　ぐうたらショップに\xf000븀\x0000\xfffeしんしょうひんが　ならんだんです!\xf000븁\x0000\xfffeうーん...\xfffeあめでも　ふらなきゃ　いいんですけど
-ヒロコ『ポケモンが　あそんでいるのを\xfffeあさから　ボーっと　ながめていたら\xf000븀\x0000\xfffeしあわせな　きぶんに　なってきました\xf000븁\x0000\xfffeあしたも　こんなふうに\xfffeきもちのいい　ひだと　いいですね!
+ヒロコ: ポワ~ン...\xf000\xbe01\x0000\xfffeあっ! すいません ひなたぼっこ\xfffeしてて つい ポワポワしてました\xf000\xbe01\x0000\xfffeん~ いいてんき ですね!\xfffeここで いっしょに ポワりませんか?
+ヒロコ: わわっ! みました!?\xfffeずーっと しょうひんが かわってなかった\xf000\xbe00\x0000\xfffeあの ぐうたらショップに\xf000\xbe00\x0000\xfffeしんしょうひんが ならんだんです!\xf000\xbe01\x0000\xfffeうーん...\xfffeあめでも ふらなきゃ いいんですけど
+ヒロコ: ポケモンが あそんでいるのを\xfffeあさから ボーっと ながめていたら\xf000\xbe00\x0000\xfffeしあわせな きぶんに なってきました\xf000\xbe01\x0000\xfffeあしたも こんなふうに\xfffeきもちのいい ひだと いいですね!
 no data
 no data
 no data
@@ -14,16 +14,16 @@ no data
 no data
 no data
 no data
-マサオ『おれの　にいちゃんは\xfffeショップで　はたらいてるんだけど\xf000븁\x0000\xfffeめんどうくさがって　なかなか\xfffeしんせいひんを　ならべないのさ\xf000븁\x0000\xfffeどうくつ　たんけんでも　しながら\xfffeきながに　まっておくれよ
-マサオ『すーっごい　ひさしぶりに!\xfffeにいちゃんが　はたらくショップに\xf000븀\x0000\xfffeしんせいひんが　ならんだんだよ!\xf000븁\x0000\xfffeおれの　にいちゃんは　やればできる\xfffeにいちゃん　なんだー!
-マサオ『にいちゃんが　さいきん\xfffeめちゃくちゃ　やるきなんだー!\xf000븁\x0000\xfffeはたらいてる　ショップにも　ガンガン\xfffeしんせいひん　ならべたりしてさー!\xf000븁\x0000\xfffeしろのじゅどうを　せいはした\xfffe\xf000Ā\x0001\x0000　って　トレーナーに\xf000븀\x0000\xfffeしげき　されたんだって!
+マサオ: おれの にいちゃんは\xfffeショップで はたらいてるんだけど\xf000\xbe01\x0000\xfffeめんどうくさがって なかなか\xfffeしんせいひんを ならべないのさ\xf000\xbe01\x0000\xfffeどうくつ たんけんでも しながら\xfffeきながに まっておくれよ
+マサオ: すーっごい ひさしぶりに!\xfffeにいちゃんが はたらくショップに\xf000\xbe00\x0000\xfffeしんせいひんが ならんだんだよ!\xf000\xbe01\x0000\xfffeおれの にいちゃんは やればできる\xfffeにいちゃん なんだー!
+マサオ: にいちゃんが さいきん\xfffeめちゃくちゃ やるきなんだー!\xf000\xbe01\x0000\xfffeはたらいてる ショップにも ガンガン\xfffeしんせいひん ならべたりしてさー!\xf000\xbe01\x0000\xfffeしろのじゅどうを せいはした\xfffe\xf000\x0100\x0001\x0000 って Trainerに\xf000\xbe00\x0000\xfffeしげき されたんだって!
 no data
 no data
 no data
 no data
 no data
-タクマ『さいきん　イッシュのなんかん\xfffeしろのじゅどうで\xf000븀\x0000\xfffeすごうでトレーナーが　つぎつぎと\xf000븀\x0000\xfffeたおされているんだって\xf000븁\x0000\xfffeどうやら　\xf000Ā\x0001\x0000という　なまえの\xfffeトレーナーが　やったらしい\xf000븁\x0000\xfffe...まさか　きみじゃないよね?\xfffeいつか　てあわせ　ねがいたいなぁ
-タクマ『きみが　\xf000Ā\x0001\x0000　か!\xfffeしろのじゅどうを　せいはしたんだろ?\xf000븁\x0000\xfffeすごいなぁ　おれなんて\xfffeずっと　さいしょのエリアで\xf000븀\x0000\xfffeくせん　してるんだよ...\xf000븁\x0000\xfffeこんど　コツを　おしえてよ!
+タクマ: さいきん イッシュのなんかん\xfffeしろのじゅどうで\xf000\xbe00\x0000\xfffeすごうでTrainerが つぎつぎと\xf000\xbe00\x0000\xfffeたおされているんだって\xf000\xbe01\x0000\xfffeどうやら \xf000\x0100\x0001\x0000という なまえの\xfffeTrainerが やったらしい\xf000\xbe01\x0000\xfffe...まさか きみじゃないよね?\xfffeいつか てあわせ ねがいたいなぁ
+タクマ: きみが \xf000\x0100\x0001\x0000 か!\xfffeしろのじゅどうを せいはしたんだろ?\xf000\xbe01\x0000\xfffeすごいなぁ おれなんて\xfffeずっと さいしょのエリアで\xf000\xbe00\x0000\xfffeくせん してるんだよ...\xf000\xbe01\x0000\xfffeこんど コツを おしえてよ!
 no data
 no data
 no data
@@ -46,9 +46,9 @@ no data
 no data
 no data
 no data
-カルロス『ホワイトフォレストじゃ\xfffeみんなで　あつめた　きのみを\xf000븀\x0000\xfffeみんなで　わけあうんだ\xf000븁\x0000\xfffeおとしよりの　ぶんだけ　ちょっと\xfffeおおめに　ひろってきたよ
-カルロス『まいにち　ここで\xfffeきのみを　たべて　くらしているとさ\xf000븁\x0000\xfffeたまに　とかいの　しげきてきな\xfffeたべものが　こいしくなるんだ\xf000븁\x0000\xfffe...ひさしぶりに　たべあるきの\xfffeたびにでも　でようかなー?
-カルロス『たびの　じゅんびをしようと\xfffeショップに　いってみたら\xf000븀\x0000\xfffeかなり　しなぞろえが　よくなってたよ\xf000븁\x0000\xfffeでさ　ショップの　にいちゃんが\xfffe\xf000Ā\x0001\x0000に　まけてられないって\xf000븀\x0000\xfffeいってたけど　どういう　いみだろ?
+カルロス: ホワイトフォレストじゃ\xfffeみんなで あつめた きのみを\xf000\xbe00\x0000\xfffeみんなで わけあうんだ\xf000\xbe01\x0000\xfffeおとしよりの ぶんだけ ちょっと\xfffeおおめに ひろってきたよ
+カルロス: まいにち ここで\xfffeきのみを たべて くらしているとさ\xf000\xbe01\x0000\xfffeたまに とかいの しげきてきな\xfffeたべものが こいしくなるんだ\xf000\xbe01\x0000\xfffe...ひさしぶりに たべあるきの\xfffeたびにでも でようかなー?
+カルロス: たびの じゅんびをしようと\xfffeショップに いってみたら\xf000\xbe00\x0000\xfffeかなり しなぞろえが よくなってたよ\xf000\xbe01\x0000\xfffeでさ ショップの にいちゃんが\xfffe\xf000\x0100\x0001\x0000に まけてられないって\xf000\xbe00\x0000\xfffeいってたけど どういう いみだろ?
 no data
 no data
 no data
@@ -66,17 +66,17 @@ no data
 no data
 no data
 no data
-ガクト『しんせいなる　しろのたいじゅに\xfffeとつぜん　ほらあなが　できた!\xf000븁\x0000\xfffeちょうさいんや　トレーナーが\xfffeたくさん　きているみたいだけど\xf000븁\x0000\xfffeじもとみんの　われわれが　いちばんに\xfffeさいかそうに　いくぞ!
-ガクト『おお!　\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeはなしには　きいてるよ\xfffeどうくつの　だいぶ　ふかいところまで\xf000븀\x0000\xfffeもぐったみたいだな!\xf000븁\x0000\xfffeはやくも　あきらめぎみの　わしに\xfffeかわって　さいかそうまで　いってくれ!
-ガクト『もりの　みんなを\xfffeだいひょうして　\xf000Ā\x0001\x0000　の\xf000븀\x0000\xfffeしろのじゅどう　せいはを\xf000븀\x0000\xfffeいわわせて　もらうよ!\xf000븁\x0000\xfffeおめでとう!\xfffeほんとうに　よく　がんばったね!
+ガクト: しんせいなる しろのたいじゅに\xfffeとつぜん ほらあなが できた!\xf000\xbe01\x0000\xfffeちょうさいんや Trainerが\xfffeたくさん きているみたいだけど\xf000\xbe01\x0000\xfffeじもとみんの われわれが いちばんに\xfffeさいかそうに いくぞ!
+ガクト: おお! \xf000\x0100\x0001\x0000!\xf000\xbe01\x0000\xfffeはなしには きいてるよ\xfffeどうくつの だいぶ ふかいところまで\xf000\xbe00\x0000\xfffeもぐったみたいだな!\xf000\xbe01\x0000\xfffeはやくも あきらめぎみの わしに\xfffeかわって さいかそうまで いってくれ!
+ガクト: もりの みんなを\xfffeだいひょうして \xf000\x0100\x0001\x0000 の\xf000\xbe00\x0000\xfffeしろのじゅどう せいはを\xf000\xbe00\x0000\xfffeいわわせて もらうよ!\xf000\xbe01\x0000\xfffeおめでとう!\xfffeほんとうに よく がんばったね!
 no data
 no data
 no data
 no data
 no data
-ミホ『わーん　たいくつー!\xf000븁\x0000\xfffeこっちに　きたばかりなんだけど\xfffeさっそく　なにもない　せいかつに\xf000븀\x0000\xfffeたえられなくなってきたの!\xf000븁\x0000\xfffeチョー　ネオンが　こいしいよー!
-ミホ『こっちに　ひっこしてきたら\xfffeおはだが　つるつるに　なったの!\xf000븁\x0000\xfffeとれたての　きのみを\xfffeまいにち　たべている　おかげかな?\xf000븁\x0000\xfffeだいしぜんって　すごいね!\xfffeだいしぜん　ばんざーい!!
-ミホ『のはらに　ねっころがるとか\xfffeぼんやりと　もりのむこうに\xf000븀\x0000\xfffeおちていく　たいようを　みているとか\xf000븁\x0000\xfffeそういう　なんでもないことが\xfffeここでは　さいこうに　たのしいって\xf000븀\x0000\xfffeもりのひとたちが　おしえてくれたの!
+ミホ: わーん たいくつー!\xf000\xbe01\x0000\xfffeこっちに きたばかりなんだけど\xfffeさっそく なにもない せいかつに\xf000\xbe00\x0000\xfffeたえられなくなってきたの!\xf000\xbe01\x0000\xfffeチョー ネオンが こいしいよー!
+ミホ: こっちに ひっこしてきたら\xfffeおはだが つるつるに なったの!\xf000\xbe01\x0000\xfffeとれたての きのみを\xfffeまいにち たべている おかげかな?\xf000\xbe01\x0000\xfffeだいしぜんって すごいね!\xfffeだいしぜん ばんざーい!!
+ミホ: のはらに ねっころがるとか\xfffeぼんやりと もりのむこうに\xf000\xbe00\x0000\xfffeおちていく たいようを みているとか\xf000\xbe01\x0000\xfffeそういう なんでもないことが\xfffeここでは さいこうに たのしいって\xf000\xbe00\x0000\xfffeもりのひとたちが おしえてくれたの!
 no data
 no data
 no data
@@ -102,9 +102,9 @@ no data
 no data
 no data
 no data
-ローザ『まずい...　まずいわ...\xfffeまいにち　ひるね　ばかりしていたら\xf000븀\x0000\xfffeうでが　すっごい　にぶっちゃった!\xf000븁\x0000\xfffeよーっし!　しろのじゅどう　で\xfffeしゅぎょうを　やりなおすわよ!
-ローザ『わたしも　しろのたいじゅに\xfffeちょうせん　してるんだけどさ\xf000븁\x0000\xfffeあそこって　なんか\xfffeへんな　トレーナーばかりいるよね\xf000븁\x0000\xfffeまー　みんな　じつりょくは\xfffeそうとうな　もんだけどさ!
-ローザ『しょしんに　かえって\xfffeしろのじゅどうで　しゅぎょうしたらね\xf000븁\x0000\xfffeかけだしのころに　かんじた\xfffeポケモンしょうぶの　たのしさを\xf000븀\x0000\xfffeおもいだしたわ!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000　は　あそこで　なにか\xfffeたいせつなものを　みつけられた?
+ローザ: まずい... まずいわ...\xfffeまいにち ひるね ばかりしていたら\xf000\xbe00\x0000\xfffeうでが すっごい にぶっちゃった!\xf000\xbe01\x0000\xfffeよーっし! しろのじゅどう で\xfffeしゅぎょうを やりなおすわよ!
+ローザ: わたしも しろのたいじゅに\xfffeちょうせん してるんだけどさ\xf000\xbe01\x0000\xfffeあそこって なんか\xfffeへんな Trainerばかりいるよね\xf000\xbe01\x0000\xfffeまー みんな じつりょくは\xfffeそうとうな もんだけどさ!
+ローザ: しょしんに かえって\xfffeしろのじゅどうで しゅぎょうしたらね\xf000\xbe01\x0000\xfffeかけだしのころに かんじた\xfffeポケモンしょうぶの たのしさを\xf000\xbe00\x0000\xfffeおもいだしたわ!\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000 は あそこで なにか\xfffeたいせつなものを みつけられた?
 no data
 no data
 no data
@@ -114,44 +114,44 @@ no data
 no data
 no data
 no data
-グレース『あなたが　\xf000Ā\x0001\x0000　ね!\xf000븁\x0000\xfffeまごが　すごいトレーナーが\xfffeもりにきた　なんてさわいでるから\xf000븀\x0000\xfffeついつい　みにきちゃった!\xf000븁\x0000\xfffeこわもての　ひとかと　おもったら\xfffeみためは　ずいぶん　かわいいのね!
+グレース: あなたが \xf000\x0100\x0001\x0000 ね!\xf000\xbe01\x0000\xfffeまごが すごいTrainerが\xfffeもりにきた なんてさわいでるから\xf000\xbe00\x0000\xfffeついつい みにきちゃった!\xf000\xbe01\x0000\xfffeこわもての ひとかと おもったら\xfffeみためは ずいぶん かわいいのね!
 no data
 no data
 no data
-むわ～ん
+むわ~ん
 きゅ?
 チュルチュル
 ポロロン
 ふしゅー!
-ぐろごろ～
+ぐろごろ~
 White Forest\xfffePeople and Nature in Harmony
-しょうばいはんじょう!\xf000븁\x0000\xfffeホワイトフォレストの　めいてんと\xfffeいえば　この　おみせ!\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で!\xf000븀\x0000\xfffeいかがですか?
-しょうばいはんじょう!\xf000븁\x0000\xfffeホワイトフォレストの　めいてんと\xfffeいえば　この　おみせ!\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で!\xf000븀\x0000\xfffeいかがですか?
-Here you go!\xfffeおきゃくさん　いい　かいものしたね!\xf000븁\x0000
+しょうばいはんじょう!\xf000\xbe01\x0000\xfffeホワイトフォレストの めいてんと\xfffeいえば この おみせ!\xf000\xbe01\x0000\xfffeきょうは とくべつに\xfffe\xf000\x0109\x0001\x0000を \xf000\x0204\x0001\x0001円で!\xf000\xbe00\x0000\xfffeいかがですか?
+しょうばいはんじょう!\xf000\xbe01\x0000\xfffeホワイトフォレストの めいてんと\xfffeいえば この おみせ!\xf000\xbe01\x0000\xfffeきょうは とくべつに\xfffe\xf000\x0109\x0001\x0000を \xf000\x0204\x0001\x0001円で!\xf000\xbe00\x0000\xfffeいかがですか?
+Here you go!\xfffeおきゃくさん いい かいものしたね!\xf000\xbe01\x0000
 Oh no! Your bag is full!
 Hey!\xfffeYou don't have enough money!
-Come back again soon!\xfffeひんしつには　じしんが　あるからさ!
-おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
-せんきゃくばんらい!\xf000븁\x0000\xfffeホワイトフォレストの　ほんけと\xfffeいえば　この　おみせ!\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で!\xf000븀\x0000\xfffeいかがですか?
-せんきゃくばんらい!\xf000븁\x0000\xfffeホワイトフォレストの　ほんけと\xfffeいえば　この　おみせ!\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で!\xf000븀\x0000\xfffeいかがですか?
-Here you go!\xfffeおきゃくさん　いい　かいものしたね!\xf000븁\x0000
+Come back again soon!\xfffeひんしつには じしんが あるからさ!
+おっと すまない\xfffeきょうは うりきれだ\xf000\xbe00\x0000\xfffeまた べつのひに きてくれよ
+せんきゃくばんらい!\xf000\xbe01\x0000\xfffeホワイトフォレストの ほんけと\xfffeいえば この おみせ!\xf000\xbe01\x0000\xfffeきょうは とくべつに\xfffe\xf000\x0109\x0001\x0000を \xf000\x0204\x0001\x0001円で!\xf000\xbe00\x0000\xfffeいかがですか?
+せんきゃくばんらい!\xf000\xbe01\x0000\xfffeホワイトフォレストの ほんけと\xfffeいえば この おみせ!\xf000\xbe01\x0000\xfffeきょうは とくべつに\xfffe\xf000\x0109\x0001\x0000を \xf000\x0204\x0001\x0001円で!\xf000\xbe00\x0000\xfffeいかがですか?
+Here you go!\xfffeおきゃくさん いい かいものしたね!\xf000\xbe01\x0000
 Oh no! Your bag is full!
 Hey!\xfffeYou don't have enough money!
-Come back again soon!\xfffeひんしつには　じしんが　あるからさ!
-おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
-はくりたばい!\xf000븁\x0000\xfffeホワイトフォレストの　がんそと\xfffeいえば　この　おみせ!\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で!\xf000븀\x0000\xfffeいかがですか?
-はくりたばい!\xf000븁\x0000\xfffeホワイトフォレストの　がんそと\xfffeいえば　この　おみせ!\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で!\xf000븀\x0000\xfffeいかがですか?
-Here you go!\xfffeおきゃくさん　いい　かいものしたね!\xf000븁\x0000
+Come back again soon!\xfffeひんしつには じしんが あるからさ!
+おっと すまない\xfffeきょうは うりきれだ\xf000\xbe00\x0000\xfffeまた べつのひに きてくれよ
+はくりたばい!\xf000\xbe01\x0000\xfffeホワイトフォレストの がんそと\xfffeいえば この おみせ!\xf000\xbe01\x0000\xfffeきょうは とくべつに\xfffe\xf000\x0109\x0001\x0000を \xf000\x0204\x0001\x0001円で!\xf000\xbe00\x0000\xfffeいかがですか?
+はくりたばい!\xf000\xbe01\x0000\xfffeホワイトフォレストの がんそと\xfffeいえば この おみせ!\xf000\xbe01\x0000\xfffeきょうは とくべつに\xfffe\xf000\x0109\x0001\x0000を \xf000\x0204\x0001\x0001円で!\xf000\xbe00\x0000\xfffeいかがですか?
+Here you go!\xfffeおきゃくさん いい かいものしたね!\xf000\xbe01\x0000
 Oh no! Your bag is full!
 Hey!\xfffeYou don't have enough money!
-Come back again soon!\xfffeひんしつには　じしんが　あるからさ!
-おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
-りえきかんげん!\xf000븁\x0000\xfffeホワイトフォレストの　しにせと\xfffeいえば　この　おみせ!\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で!\xf000븀\x0000\xfffeいかがですか?
-りえきかんげん!\xf000븁\x0000\xfffeホワイトフォレストの　しにせと\xfffeいえば　この　おみせ!\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で!\xf000븀\x0000\xfffeいかがですか?
-Here you go!\xfffeおきゃくさん　いい　かいものしたね!\xf000븁\x0000
+Come back again soon!\xfffeひんしつには じしんが あるからさ!
+おっと すまない\xfffeきょうは うりきれだ\xf000\xbe00\x0000\xfffeまた べつのひに きてくれよ
+りえきかんげん!\xf000\xbe01\x0000\xfffeホワイトフォレストの しにせと\xfffeいえば この おみせ!\xf000\xbe01\x0000\xfffeきょうは とくべつに\xfffe\xf000\x0109\x0001\x0000を \xf000\x0204\x0001\x0001円で!\xf000\xbe00\x0000\xfffeいかがですか?
+りえきかんげん!\xf000\xbe01\x0000\xfffeホワイトフォレストの しにせと\xfffeいえば この おみせ!\xf000\xbe01\x0000\xfffeきょうは とくべつに\xfffe\xf000\x0109\x0001\x0000を \xf000\x0204\x0001\x0001円で!\xf000\xbe00\x0000\xfffeいかがですか?
+Here you go!\xfffeおきゃくさん いい かいものしたね!\xf000\xbe01\x0000
 Oh no! Your bag is full!
 Hey!\xfffeYou don't have enough money!
-Come back again soon!\xfffeひんしつには　じしんが　あるからさ!
-おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
+Come back again soon!\xfffeひんしつには じしんが あるからさ!
+おっと すまない\xfffeきょうは うりきれだ\xf000\xbe00\x0000\xfffeまた べつのひに きてくれよ
 Buy
 No thanks!

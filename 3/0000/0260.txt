@@ -1,39 +1,39 @@
 If you look for something in an empty\xfffeplace like this, you can discover things!
-If you look for something in an empty\xfffeplace like this, you can discover things!\xf000븁\x0000\xfffeHere! Take this fossil\xfffeI found a while ago!\xf000븁\x0000
-I might find another\xfffefossil by tomorrow,\xf000븀\x0000so come again if you want!
-どーも　こんにちは!\xfffeおじさん　じゅうきマニア　だよ!\xf000븁\x0000\xfffeと　いうわけで　キミ!\xfffeはたらく　くるまは　すきかな?
-おお!　やっぱり!?\xfffeいいよね!　はたらく　くるま!\xf000븁\x0000\xfffeそんな　キミに　いきなり　だけど\xfffeクイズ　だしちゃうよ!\xf000븁\x0000\xfffeクイズは　ぜんぶで　５もん!\xfffeぜんもん　せいかい　したら\xf000븀\x0000\xfffeプレゼント　あげちゃうかもよ!
-えっ!?　ゴメン\xfffeよく　きこえなかったんだけど\xf000븁\x0000\xfffeもう１ど　きくよ!\xfffeはたらく　くるまは　すきかな?
-やあ!　まってたよ!\xfffeそれじゃあ　さっそく　はじめようか!
-はたらく　くるま　クイズ!\xf000븁\x0000\xfffeりゃく　して\xfffeはたらＱ!\xf000븁\x0000\xfffeそれでは　もんだいです!\xf000븁\x0000\xfffeねんきの　はいった\xfffeさびた　クレーンしゃが\xf000븀\x0000\xfffeめいぶつなのは　ズバリ　どこ?
+If you look for something in an empty\xfffeplace like this, you can discover things!\xf000\xbe01\x0000\xfffeHere! Take this fossil\xfffeI found a while ago!\xf000\xbe01\x0000
+I might find another\xfffefossil by tomorrow,\xf000\xbe00\x0000so come again if you want!
+どーも こんにちは!\xfffeおじさん じゅうきマニア だよ!\xf000\xbe01\x0000\xfffeと いうわけで キミ!\xfffeはたらく くるまは すきかな?
+おお! やっぱり!?\xfffeいいよね! はたらく くるま!\xf000\xbe01\x0000\xfffeそんな キミに いきなり だけど\xfffeクイズ だしちゃうよ!\xf000\xbe01\x0000\xfffeクイズは ぜんぶで 5もん!\xfffeぜんもん せいかい したら\xf000\xbe00\x0000\xfffeプレゼント あげちゃうかもよ!
+えっ!? ゴメン\xfffeよく きこえなかったんだけど\xf000\xbe01\x0000\xfffeもう1ど きくよ!\xfffeはたらく くるまは すきかな?
+やあ! まってたよ!\xfffeそれじゃあ さっそく はじめようか!
+はたらく くるま クイズ!\xf000\xbe01\x0000\xfffeりゃく して\xfffeはたらQ!\xf000\xbe01\x0000\xfffeそれでは もんだいです!\xf000\xbe01\x0000\xfffeねんきの はいった\xfffeさびた クレーンしゃが\xf000\xbe00\x0000\xfffeめいぶつなのは ズバリ どこ?
 Virbank City
 Driftveil City
 Undella Town
 Seigaiha City
-はたらく　くるま　クイズ!\xf000븁\x0000\xfffeりゃく　して\xfffeはたらＱ!\xf000븁\x0000\xfffeそれでは　もんだいです!\xf000븁\x0000\xfffe４ばんどうろを　とおる\xfffeトレーラーは　ぜんぶで\xf000븀\x0000\xfffe３つの　ボディカラーが　ありますが\xf000븀\x0000\xfffeそれは　あか　あお\xf000븀\x0000\xfffeあとは　ズバリ　なにいろ?
+はたらく くるま クイズ!\xf000\xbe01\x0000\xfffeりゃく して\xfffeはたらQ!\xf000\xbe01\x0000\xfffeそれでは もんだいです!\xf000\xbe01\x0000\xfffeRoute 4を とおる\xfffeトレーラーは ぜんぶで\xf000\xbe00\x0000\xfffe3つの ボディカラーが ありますが\xf000\xbe00\x0000\xfffeそれは あか あお\xf000\xbe00\x0000\xfffeあとは ズバリ なにいろ?
 Green
 Yellow
 White
 Black
-はたらく　くるま　クイズ!\xf000븁\x0000\xfffeりゃく　して\xfffeはたらＱ!\xf000븁\x0000\xfffeそれでは　もんだいです!\xf000븁\x0000\xfffeズバリ!\xfffeいま　なんもん　め?
+はたらく くるま クイズ!\xf000\xbe01\x0000\xfffeりゃく して\xfffeはたらQ!\xf000\xbe01\x0000\xfffeそれでは もんだいです!\xf000\xbe01\x0000\xfffeズバリ!\xfffeいま なんもん め?
 Question 1
 Question 2
 Question 3
 Question 4
-はたらく　くるま　クイズ!\xf000븁\x0000\xfffeりゃく　して\xfffeはたらＱ!\xf000븁\x0000\xfffeそれでは　もんだいです!\xf000븁\x0000\xfffeきいろい　ドリルカーが　あるのは\xfffeズバリ!　どこの　ジム?
+はたらく くるま クイズ!\xf000\xbe01\x0000\xfffeりゃく して\xfffeはたらQ!\xf000\xbe01\x0000\xfffeそれでは もんだいです!\xf000\xbe01\x0000\xfffeきいろい ドリルカーが あるのは\xfffeズバリ! どこの ジム?
 Seigaiha City Gym
 Opelucid Gym
 Mistralton Gym
 Driftveil Gym
-はたらく　くるま　クイズ!\xf000븁\x0000\xfffeりゃく　して\xfffeはたらＱ!\xf000븁\x0000\xfffeそれでは　もんだいです!\xf000븁\x0000\xfffeズバリ!　この　ネジやまに\xfffeブルドーザーは\xf000븀\x0000\xfffeなんだい　あるんだい?
+はたらく くるま クイズ!\xf000\xbe01\x0000\xfffeりゃく して\xfffeはたらQ!\xf000\xbe01\x0000\xfffeそれでは もんだいです!\xf000\xbe01\x0000\xfffeズバリ! この ネジやまに\xfffeブルドーザーは\xf000\xbe00\x0000\xfffeなんだい あるんだい?
 One
 Two
 Three
 Four
-...\xf000븁\x0000\xfffeWell done!\xfffeYour answer is correct!\xf000븁\x0000\xfffeさえてるねえ　キミ!
-...\xf000븁\x0000\xfffeンー　おしい!\xfffeToo bad!\xf000븁\x0000\xfffeBut it's still a nice try!
-よっ　みらいの　じゅうきマニア!\xf000븁\x0000\xfffeあした　また　きてくれれば\xfffeつぎの　もんだい　を\xf000븀\x0000\xfffeしゅつだい　するから\xf000븀\x0000\xfffeぜひ　ちょうせんしてね!
-まちがえた　もんだいは\xfffeあした　また　きてくれれば\xf000븀\x0000\xfffeもういちど　ちょうせん　できるよ\xf000븁\x0000\xfffeきみのこと　まってるからね!
-おおっ!　キミ　すごいよ!\xf000븁\x0000\xfffeまさか　おじさん　こんしんの\xfffeはたらＱを　ぜんもん\xf000븀\x0000\xfffeせいかい　してしまうなんて!\xf000븁\x0000\xfffeきみは　しょうしん　しょうめいの\xfffeじゅうきマニア　だね...\xf000븁\x0000\xfffeそう　メダルじむきょく\xfffeさすらいの　しんさいん　である\xf000븀\x0000\xfffeおじさんが　みとめた\xf000븀\x0000\xfffeじゅうきマニア　だよ!
-じゅうきマニアとしての\xfffeキミの　さいのうを\xf000븀\x0000\xfffeメダルおやじに　つたえておくよ
-しんじだいの　じゅうきマニア\xfffeたんじょうの　しゅんかんに\xf000븀\x0000\xfffeたちあうことが　できて\xf000븀\x0000\xfffeおじさんは　しあわせ　だよ!
+...\xf000\xbe01\x0000\xfffeWell done!\xfffeYour answer is correct!\xf000\xbe01\x0000\xfffeさえてるねえ キミ!
+...\xf000\xbe01\x0000\xfffeンー おしい!\xfffeToo bad!\xf000\xbe01\x0000\xfffeBut it's still a nice try!
+よっ みらいの じゅうきマニア!\xf000\xbe01\x0000\xfffeあした また きてくれれば\xfffeつぎの もんだい を\xf000\xbe00\x0000\xfffeしゅつだい するから\xf000\xbe00\x0000\xfffeぜひ ちょうせんしてね!
+まちがえた もんだいは\xfffeあした また きてくれれば\xf000\xbe00\x0000\xfffeもういちど ちょうせん できるよ\xf000\xbe01\x0000\xfffeきみのこと まってるからね!
+おおっ! キミ すごいよ!\xf000\xbe01\x0000\xfffeまさか おじさん こんしんの\xfffeはたらQを ぜんもん\xf000\xbe00\x0000\xfffeせいかい してしまうなんて!\xf000\xbe01\x0000\xfffeきみは しょうしん しょうめいの\xfffeじゅうきマニア だね...\xf000\xbe01\x0000\xfffeそう メダルじむきょく\xfffeさすらいの しんさいん である\xf000\xbe00\x0000\xfffeおじさんが みとめた\xf000\xbe00\x0000\xfffeじゅうきマニア だよ!
+じゅうきマニアとしての\xfffeキミの さいのうを\xf000\xbe00\x0000\xfffeメダルおやじに つたえておくよ
+しんじだいの じゅうきマニア\xfffeたんじょうの しゅんかんに\xf000\xbe00\x0000\xfffeたちあうことが できて\xf000\xbe00\x0000\xfffeおじさんは しあわせ だよ!

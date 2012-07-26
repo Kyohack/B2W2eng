@@ -1,9 +1,9 @@
-Juniper: おや!\xfffeわざわざ　ありがとうね!\xf000븁\x0000\xfffeヒオウギシティから\xfffeカノコタウンって　いがいと\xf000븀\x0000\xfffeきょりが　あるでしょ?\xf000븁\x0000\xfffeで　スカイアローブリッジを　わたって\xfffeいろんな　ポケモンに　あえたの?\xf000븁\x0000\xfffeという　わけで...\xf000븁\x0000
-Juniper: ハーイ!　\xfffeさいきんの　ちょうしは　どう?\xf000븁\x0000
-きょかしょうが　あれば\xfffeフキヨセシティから　ひこうきで\xf000븀\x0000\xfffeしぜんほごくに　いけるわよ!\xf000븁\x0000\xfffeどんな　ばしょかは\xfffeついてからの　おたのしみね!
-まるいおまもりを　もっていると\xfffeどうしてだか　そだてやさんで\xf000븀\x0000\xfffeポケモンの　タマゴが　いつもより\xf000븀\x0000\xfffeはっけん　されやすくなるのよ!
-ひかるおまもりを　もっていると\xfffeどうしてだか　くさむら　などから\xf000븀\x0000\xfffeひかる　ポケモンが　いつもより\xf000븀\x0000\xfffeおおく　とびだしてくるのよ!
-イッシュずかんに　とうろくされる\xfffeすべての　ポケモンと　であえたら\xf000븀\x0000\xfffeプレゼントしたい　ものが　あるの\xf000븁\x0000\xfffeイッシュちほうの　すみずみまで\xfffeポケモンを　さがしてね!　ヨロシク!
+Juniper: おや!\xfffeわざわざ ありがとうね!\xf000\xbe01\x0000\xfffeヒオウギシティから\xfffeカノコタウンって いがいと\xf000\xbe00\x0000\xfffeきょりが あるでしょ?\xf000\xbe01\x0000\xfffeで スカイアローブリッジを わたって\xfffeいろんな ポケモンに あえたの?\xf000\xbe01\x0000\xfffeという わけで...\xf000\xbe01\x0000
+Juniper: ハーイ! \xfffeさいきんの ちょうしは どう?\xf000\xbe01\x0000
+きょかしょうが あれば\xfffeフキヨセシティから ひこうきで\xf000\xbe00\x0000\xfffeしぜんほごくに いけるわよ!\xf000\xbe01\x0000\xfffeどんな ばしょかは\xfffeついてからの おたのしみね!
+まるいおまもりを もっていると\xfffeどうしてだか そだてやさんで\xf000\xbe00\x0000\xfffeポケモンの タマゴが いつもより\xf000\xbe00\x0000\xfffeはっけん されやすくなるのよ!
+ひかるおまもりを もっていると\xfffeどうしてだか くさむら などから\xf000\xbe00\x0000\xfffeひかる ポケモンが いつもより\xf000\xbe00\x0000\xfffeおおく とびだしてくるのよ!
+イッシュずかんに とうろくされる\xfffeすべての ポケモンと であえたら\xf000\xbe00\x0000\xfffeプレゼントしたい ものが あるの\xf000\xbe01\x0000\xfffeイッシュちほうの すみずみまで\xfffeポケモンを さがしてね! ヨロシク!
 no data
 no data
 no data
@@ -12,12 +12,12 @@ no data
 no data
 no data
 no data
-アララギパパ『よお　\xf000Ā\x0001\x0000!\xfffeポケモンと　であっておるか?\xf000븁\x0000\xfffeイッシュちほうは　もちろん\xfffeせかいには　ほんとうに\xf000븀\x0000\xfffeおおくの　ポケモンが　いるぞ!\xf000븁\x0000\xfffeそれを　しってもらうため\xfffeせいそくちリストを　つくったんだよ\xf000븁\x0000\xfffeで　ここに　きたのは...\xf000븁\x0000
-Cedric: Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000
-そうだったよ\xf000븁\x0000\xfffeヒオウギで　わたすのを\xfffeすっかり　わすれていてね\xf000븀\x0000\xfffeほら　すごいつりざお　だよ!\xf000븁\x0000
-その　すごいつりざおを　つかえば\xfffeみずのなかの　ポケモンも\xf000븀\x0000\xfffeつりあげることが　できるんだよ!\xf000븁\x0000\xfffeいいかい?　すごいつりざおの\xfffeせつめいしょを　よむよ\xf000븁\x0000\xfffeまず　すいめんに　むかって\xfffeすごいつりざおを　つかいます!\xf000븁\x0000\xfffeつぎに　きもちを　しゅうちゅう!\xf000븁\x0000\xfffeポケモンが　くいついたら\xfffe「!」と　でるので　そのときに\xf000븀\x0000\xfffeすばやく　つりざおを　ひきましょう!\xf000븁\x0000\xfffeだとさ\xfffeなんだか　おもしろいモン　だね
+Cedric: よお \xf000\x0100\x0001\x0000!\xfffeポケモンと であっておるか?\xf000\xbe01\x0000\xfffeイッシュちほうは もちろん\xfffeせかいには ほんとうに\xf000\xbe00\x0000\xfffeおおくの ポケモンが いるぞ!\xf000\xbe01\x0000\xfffeそれを しってもらうため\xfffeせいそくちリストを つくったんだよ\xf000\xbe01\x0000\xfffeで ここに きたのは...\xf000\xbe01\x0000
+Cedric: Hey, \xf000\x0100\x0001\x0000!\xf000\xbe01\x0000
+そうだったよ\xf000\xbe01\x0000\xfffeヒオウギで わたすのを\xfffeすっかり わすれていてね\xf000\xbe00\x0000\xfffeほら すごいつりざお だよ!\xf000\xbe01\x0000
+その すごいつりざおを つかえば\xfffeみずのなかの ポケモンも\xf000\xbe00\x0000\xfffeつりあげることが できるんだよ!\xf000\xbe01\x0000\xfffeいいかい? すごいつりざおの\xfffeせつめいしょを よむよ\xf000\xbe01\x0000\xfffeまず すいめんに むかって\xfffeすごいつりざおを つかいます!\xf000\xbe01\x0000\xfffeつぎに きもちを しゅうちゅう!\xf000\xbe01\x0000\xfffeポケモンが くいついたら\xfffe「!」と でるので そのときに\xf000\xbe00\x0000\xfffeすばやく つりざおを ひきましょう!\xf000\xbe01\x0000\xfffeだとさ\xfffeなんだか おもしろいモン だね
 Skreet! Skreet!
-Father and daughter...\xf000븁\x0000\xfffeIt's a picture of the two\xfffeProfessor Junipers.
+Father and daughter...\xf000\xbe01\x0000\xfffeIt's a picture of the two\xfffeProfessor Junipers.
 no data
 Adventure Rule No. 1\xfffeThe X Button opens the menu.
 Adventure Rule No. 2\xfffeRecord your progress with SAVE.

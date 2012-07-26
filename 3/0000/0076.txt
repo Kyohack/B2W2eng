@@ -1,13 +1,13 @@
 You can take the Battle Subway from\xfffeGear Station!
-The Battle Subway!\xf000븁\x0000\xfffeAs the name suggests, it's the subway\xfffewhere Trainers wage battles.
-The Battle Subway has seven lines\xfffein total!\xf000븁\x0000\xfffeBut I heard that the only lines you can\xfffetake at the beginning are the Single,\xf000븀\x0000\xfffeDouble, or Multi Trains!
-The Battle Subway has seven lines\xfffein total!\xf000븁\x0000\xfffeBut you can't take the trains called\xfffe“Super" unless you make a great effort.
-Hi, hi!\xf000븁\x0000\xfffePlease tell me how you introduce yourself\xfffebefore a battle and how you feel when\xf000븀\x0000\xfffeyou win or lose.
-Please tell me how you introduce yourself\xfffebefore a battle.\xf000븁\x0000
-Please tell me how you feel when you\xfffelose a battle.\xf000븁\x0000
-Please tell me how you feel when you\xfffewin a battle!\xf000븁\x0000
-Please tell me how you feel when you\xfffebecome No. 1!\xf000븁\x0000
-Got it! Thanks!\xfffe\xf000Ĝ\x0001\x0000, huh...
+The Battle Subway!\xf000\xbe01\x0000\xfffeAs the name suggests, it's the subway\xfffewhere Trainers wage battles.
+The Battle Subway has seven lines\xfffein total!\xf000\xbe01\x0000\xfffeBut I heard that the only lines you can\xfffetake at the beginning are the Single,\xf000\xbe00\x0000\xfffeDouble, or Multi Trains!
+The Battle Subway has seven lines\xfffein total!\xf000\xbe01\x0000\xfffeBut you can't take the trains called\xfffe"Super" unless you make a great effort.
+Hi, hi!\xf000\xbe01\x0000\xfffePlease tell me how you introduce yourself\xfffebefore a battle and how you feel when\xf000\xbe00\x0000\xfffeyou win or lose.
+Please tell me how you introduce yourself\xfffebefore a battle.\xf000\xbe01\x0000
+Please tell me how you feel when you\xfffelose a battle.\xf000\xbe01\x0000
+Please tell me how you feel when you\xfffewin a battle!\xf000\xbe01\x0000
+Please tell me how you feel when you\xfffebecome No. 1!\xf000\xbe01\x0000
+Got it! Thanks!\xfffe\xf000\x011c\x0001\x0000, huh...
 Oh, you prefer not to say?\xfffeOh, well...
 Thanks! Will you tell me your other\xfffefeelings, too?
 Got it! Thanks!

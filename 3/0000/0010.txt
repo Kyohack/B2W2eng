@@ -1,24 +1,24 @@
 TEST
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Single Train here.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Double Train here.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Multi Train here.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Wi-Fi Train here.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Super Single Train here.\xf000븁\x0000
-Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Single Train is\xfffeonly for those who beat the Single Train.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Super Double Train here.\xf000븁\x0000
-Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Double Train is\xfffeonly for those who beat the Double Train.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Super Multi Train here.\xf000븁\x0000
-Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Multi Train is\xfffeonly for those who beat the Multi Train.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI will guide you to\xfffethe Single Train here.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI will guide you to\xfffethe Double Train here.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI will guide you to\xfffethe Multi Train here.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI will guide you to\xfffethe Wi-Fi Train here.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI will guide you to\xfffethe Super Single Train here.\xf000\xbe01\x0000
+Welcome to the Battle Subway.\xf000\xbe01\x0000\xfffeI am sorry, but this Super Single Train is\xfffeonly for those who beat the Single Train.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI will guide you to\xfffethe Super Double Train here.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI am sorry, but this Super Double Train\xfffeis only for those who beat\xf000\xbe00\x0000\xfffethe Double Train.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI will guide you to\xfffethe Super Multi Train here.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI am sorry, but this Super Multi Train is\xfffeonly for those who beat the Multi Train.\xf000\xbe01\x0000
 test
-Currently, \xf000Ā\x0001\x0000 has\xfffewon \xf000ȃ\x0001\x0001 battles in a row.\xf000븁\x0000
-In the Single Train, you will battle\xfffeusing three Pokémon.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Single Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000븁\x0000
-If you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
-In the Double Train, you will battle\xfffeusing four Pokémon.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Double Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000븁\x0000
-If you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
-In the Multi Train, you and a friend will\xfffeteam up to battle another team of two\xf000븀\x0000\xfffeTrainers. Everyone will use two Pokémon.\xf000븁\x0000\xfffeA team cannot have duplicate Pokémon,\xfffeand the two Pokémon of one Trainer\xf000븀\x0000\xfffecannot hold the same item.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Multi Train has seven cars, so you\xfffewill battle seven pairs of Trainers.\xf000븁\x0000
-If you manage to defeat all seven pairs,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
-In the Wi-Fi Train, you will battle\xfffeusing three Pokémon.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Wi-Fi Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000븁\x0000
-Your opponents will come from around the\xfffeworld via Nintendo Wi-Fi Connection.\xf000븁\x0000\xfffeIf you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeThe Wi-Fi Train has a ranking system.\xf000븁\x0000\xfffeIf you keep winning, your rank will go up,\xfffeand if you lose, it will go down.\xf000븁\x0000\xfffeKeep winning and fight against\xfffestronger opponents.\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
+Currently, \xf000\x0100\x0001\x0000 has\xfffewon \xf000\x0203\x0001\x0001 battles in a row.\xf000\xbe01\x0000
+In the Single Train, you will battle\xfffeusing three Pokémon.\xf000\xbe01\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000\xbe01\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000\xbe01\x0000\xfffeThe Single Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000\xbe01\x0000
+If you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000\xbe00\x0000\xfffeBattle Points (BP).\xf000\xbe00\x0000\xfffeGood luck!\xf000\xbe01\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000\xbe01\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000\xbe00\x0000\xfffePlease be aware of that!\xf000\xbe01\x0000
+In the Double Train, you will battle\xfffeusing four Pokémon.\xf000\xbe01\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000\xbe01\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000\xbe01\x0000\xfffeThe Double Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000\xbe01\x0000
+If you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000\xbe00\x0000\xfffeBattle Points (BP).\xf000\xbe00\x0000\xfffeGood luck!\xf000\xbe01\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000\xbe01\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000\xbe00\x0000\xfffePlease be aware of that!\xf000\xbe01\x0000
+In the Multi Train, you and a friend will\xfffeteam up to battle another team of two\xf000\xbe00\x0000\xfffeTrainers. Everyone will use two Pokémon.\xf000\xbe01\x0000\xfffeA team cannot have duplicate Pokémon,\xfffeand the two Pokémon of one Trainer\xf000\xbe00\x0000\xfffecannot hold the same item.\xf000\xbe01\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000\xbe01\x0000\xfffeThe Multi Train has seven cars, so you\xfffewill battle seven pairs of Trainers.\xf000\xbe01\x0000
+If you manage to defeat all seven pairs,\xfffeyou will arrive at a station and earn\xf000\xbe00\x0000\xfffeBattle Points (BP).\xf000\xbe00\x0000\xfffeGood luck!\xf000\xbe01\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000\xbe01\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000\xbe00\x0000\xfffePlease be aware of that!\xf000\xbe01\x0000
+In the Wi-Fi Train, you will battle\xfffeusing three Pokémon.\xf000\xbe01\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000\xbe01\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000\xbe01\x0000\xfffeThe Wi-Fi Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000\xbe01\x0000
+Your opponents will come from around the\xfffeworld via Nintendo Wi-Fi Connection.\xf000\xbe01\x0000\xfffeIf you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000\xbe00\x0000\xfffeBattle Points (BP).\xf000\xbe00\x0000\xfffeGood luck!\xf000\xbe01\x0000\xfffeThe Wi-Fi Train has a ranking system.\xf000\xbe01\x0000\xfffeIf you keep winning, your rank will go up,\xfffeand if you lose, it will go down.\xf000\xbe01\x0000\xfffeKeep winning and fight against\xfffestronger opponents.\xf000\xbe01\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000\xbe01\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000\xbe00\x0000\xfffePlease be aware of that!\xf000\xbe01\x0000
 Would you like to board\xfffethe Single Train?
 Would you like to board\xfffethe Double Train?
 Would you like to board\xfffethe Multi Train?
@@ -27,87 +27,87 @@ Would you like to board\xfffethe Super Single Train?
 Would you like to board\xfffethe Super Double Train?
 Would you like to board\xfffethe Super Multi Train?
 test
-Passenger!\xf000븁\x0000\xfffeYou don't have \xf000Ȁ\x0001\x0000\xfffePokémon that can be entered.\xf000븁\x0000\xfffeTo enter, please prepare\xfffe\xf000Ȁ\x0001\x0000 Pokémon of different species\xf000븀\x0000\xfffewith different items!
+Passenger!\xf000\xbe01\x0000\xfffeYou don't have \xf000\x0200\x0001\x0000\xfffePokémon that can be entered.\xf000\xbe01\x0000\xfffeTo enter, please prepare\xfffe\xf000\x0200\x0001\x0000 Pokémon of different species\xf000\xbe00\x0000\xfffewith different items!
 test
-Please select the Pokémon you wish\xfffeto enter.\xf000븁\x0000
-Now, please board\xfffethe Single Train!\xf000븁\x0000
-Now, please board\xfffethe Double Train!\xf000븁\x0000
-Now, please board\xfffethe Multi Train!\xf000븁\x0000
-Now, please board\xfffethe Wi-Fi Train!\xf000븁\x0000\xfffeAre you ready?
-Now, please board\xfffethe Super Single Train!\xf000븁\x0000
-Now, please board\xfffethe Super Double Train!\xf000븁\x0000
-Now, please board\xfffethe Super Multi Train!\xf000븁\x0000
+Please select the Pokémon you wish\xfffeto enter.\xf000\xbe01\x0000
+Now, please board\xfffethe Single Train!\xf000\xbe01\x0000
+Now, please board\xfffethe Double Train!\xf000\xbe01\x0000
+Now, please board\xfffethe Multi Train!\xf000\xbe01\x0000
+Now, please board\xfffethe Wi-Fi Train!\xf000\xbe01\x0000\xfffeAre you ready?
+Now, please board\xfffethe Super Single Train!\xf000\xbe01\x0000
+Now, please board\xfffethe Super Double Train!\xf000\xbe01\x0000
+Now, please board\xfffethe Super Multi Train!\xf000\xbe01\x0000
 Would you like to save and interrupt\xfffeyour challenge?
-It's good to see you back.\xf000븁\x0000\xfffeWould you like to resume your challenge\xfffeat the Battle Subway?
+It's good to see you back.\xf000\xbe01\x0000\xfffeWould you like to resume your challenge\xfffeat the Battle Subway?
 Saving...\xfffeDon't turn off the power.
-Now, I will guide you to the place\xfffewhere you interrupted your challenge.\xf000븁\x0000
-Thank you for playing!\xf000븁\x0000\xfffeIf you want to resume your challenge,\xfffeplease visit us again.\xf000븁\x0000
+Now, I will guide you to the place\xfffewhere you interrupted your challenge.\xf000\xbe01\x0000
+Thank you for playing!\xf000\xbe01\x0000\xfffeIf you want to resume your challenge,\xfffeplease visit us again.\xf000\xbe01\x0000
 Saving...\xfffeDon't turn off the power.
-Excuse me!\xf000븁\x0000\xfffeYou didn't save before you quit your\xfffechallenge last time.\xf000븁\x0000\xfffeI am sorry, but you'll have to start\xfffeyour challenge over again.\xf000븁\x0000
+Excuse me!\xf000\xbe01\x0000\xfffeYou didn't save before you quit your\xfffechallenge last time.\xf000\xbe01\x0000\xfffeI am sorry, but you'll have to start\xfffeyour challenge over again.\xf000\xbe01\x0000
 We hope to see you again!
 Board
 Info
-Back
+Cancel
 Successive records
 Earlier train
 Please select whether to use your\xfffeparty Pokémon or your Battle Box.
 In party
 Battle Box
-Back
+Cancel
 Would you like to communicate with a\xfffefriend and take this challenge together?
-\xf000Ā\x0001\x0000's current rank is \xf000ȁ\x0001\x0001.\xf000븁\x0000
-It's good to see you back.\xf000븁\x0000\xfffeYour previous results were not sent out\xfffeusing Nintendo Wi-Fi Connection.\xf000븀\x0000\xfffeWould you like to send them now?
-Your results were sent out using\xfffeNintendo Wi-Fi Connection!\xf000븁\x0000
-I've downloaded the Rank \xf000ȁ\x0001\x0000\xfffeTrain No. \xf000Ȃ\x0001\x0001's successive records.\xf000븁\x0000\xfffePlease confirm on the Performance\xfffeMonitor outside this platform.\xf000븁\x0000
-Please decide which of you two will\xfffebecome the leader.\xf000븁\x0000\xfffeThe other player must then choose\xfffe“Join group."
-Both Trainers have chosen the\xfffePokémon \xf000ā\x0001\x0000.\xf000븁\x0000\xfffePlease confer with the other Trainer\xfffeand choose different Pokémon.\xf000븁\x0000
-Both Trainers have chosen the Pokémon\xfffe\xf000ā\x0001\x0000 and \xf000ā\x0001\x0001.\xf000븁\x0000\xfffePlease confer with the other Trainer\xfffeand choose different Pokémon.\xf000븁\x0000
-You and the other Trainer have chosen\xfffedifferent trains.\xf000븁\x0000\xfffePlease confer with the other Trainer\xfffeand come back again.\xf000븁\x0000
-Hi! I'm Hilbert!\xf000븁\x0000\xfffeIt's your first time challenging the\xfffeMulti Train, right?\xf000븁\x0000\xfffeWell, you need a partner!\xf000븁\x0000
-Hi! I'm Hilda!\xf000븁\x0000\xfffeYou're challenging the Multi Train for the\xfffefirst time, right?\xf000븁\x0000\xfffeYou can't take this challenge alone.\xfffeYou need a partner!\xf000븁\x0000
-Hi, \xf000Ā\x0001\x0000!\xfffeGood to see you again!\xf000븁\x0000
-Hi, \xf000Ā\x0001\x0000!\xfffeNice to see you again!\xf000븁\x0000
-Are you looking for a partner?\xf000븁\x0000\xfffeThen why don't you team up\xfffewith me? Yeah! It'll be great!\xf000븁\x0000\xfffeWhat sort of Pokémon should I use?
-Are you here by yourself today?\xf000븁\x0000\xfffeWhy don't you team up with me, then?\xfffeIt'll be fun!\xf000븁\x0000\xfffeWhat sort of Pokémon should I use?
+\xf000\x0100\x0001\x0000's current rank is \xf000\x0201\x0001\x0001.\xf000\xbe01\x0000
+It's good to see you back.\xf000\xbe01\x0000\xfffeYour previous results were not sent out\xfffeusing Nintendo Wi-Fi Connection.\xf000\xbe00\x0000\xfffeWould you like to send them now?
+Your results were sent out using\xfffeNintendo Wi-Fi Connection!\xf000\xbe01\x0000
+I've downloaded the Rank \xf000\x0201\x0001\x0000\xfffeTrain No. \xf000\x0202\x0001\x0001's successive records.\xf000\xbe01\x0000\xfffePlease confirm on the Performance\xfffeMonitor outside this platform.\xf000\xbe01\x0000
+Please decide which of you two will\xfffebecome the leader.\xf000\xbe01\x0000\xfffeThe other player must then choose\xfffe"Join group."
+Both Trainers have chosen the\xfffePokémon \xf000\x0101\x0001\x0000.\xf000\xbe01\x0000\xfffePlease confer with the other Trainer\xfffeand choose different Pokémon.\xf000\xbe01\x0000
+Both Trainers have chosen the Pokémon\xfffe\xf000\x0101\x0001\x0000 and \xf000\x0101\x0001\x0001.\xf000\xbe01\x0000\xfffePlease confer with the other Trainer\xfffeand choose different Pokémon.\xf000\xbe01\x0000
+You and the other Trainer have chosen\xfffedifferent trains.\xf000\xbe01\x0000\xfffePlease confer with the other Trainer\xfffeand come back again.\xf000\xbe01\x0000
+Hi! I'm Hilbert!\xf000\xbe01\x0000\xfffeIt's your first time challenging the\xfffeMulti Train, right?\xf000\xbe01\x0000\xfffeWell, you need a partner!\xf000\xbe01\x0000
+Hi! I'm Hilda!\xf000\xbe01\x0000\xfffeYou're challenging the Multi Train for the\xfffefirst time, right?\xf000\xbe01\x0000\xfffeYou can't take this challenge alone.\xfffeYou need a partner!\xf000\xbe01\x0000
+Hi, \xf000\x0100\x0001\x0000!\xfffeGood to see you again!\xf000\xbe01\x0000
+Hi, \xf000\x0100\x0001\x0000!\xfffeNice to see you again!\xf000\xbe01\x0000
+Are you looking for a partner?\xf000\xbe01\x0000\xfffeThen why don't you team up\xfffewith me? Yeah! It'll be great!\xf000\xbe01\x0000\xfffeWhat sort of Pokémon should I use?
+Are you here by yourself today?\xf000\xbe01\x0000\xfffeWhy don't you team up with me, then?\xfffeIt'll be fun!\xf000\xbe01\x0000\xfffeWhat sort of Pokémon should I use?
 FOCUSED ON ATTACK
 FOCUSED ON DEFENSE
 FOCUSED ON BALANCE
-OK. I'll focus on Attack!\xfffeThen, let's begin!\xf000븁\x0000
-OK. I'll focus on Defense!\xfffeThen, let's begin!\xf000븁\x0000
-OK. I'll focus on a balance between\xfffeAttack and Defense! Let's begin!\xf000븁\x0000
-OK. I'll focus on Attack!\xfffeThen, let's begin!\xf000븁\x0000
-OK. I'll focus on Defense!\xfffeThen, let's begin!\xf000븁\x0000
-OK. I'll focus on a balance between\xfffeAttack and Defense! Let's begin!\xf000븁\x0000
-You don't want to team up with me?\xfffeOK then, bye!\xf000븁\x0000
-You don't want to team up with me?\xfffeOK then, bye!\xf000븁\x0000
+OK. I'll focus on Attack!\xfffeThen, let's begin!\xf000\xbe01\x0000
+OK. I'll focus on Defense!\xfffeThen, let's begin!\xf000\xbe01\x0000
+OK. I'll focus on a balance between\xfffeAttack and Defense! Let's begin!\xf000\xbe01\x0000
+OK. I'll focus on Attack!\xfffeThen, let's begin!\xf000\xbe01\x0000
+OK. I'll focus on Defense!\xfffeThen, let's begin!\xf000\xbe01\x0000
+OK. I'll focus on a balance between\xfffeAttack and Defense! Let's begin!\xf000\xbe01\x0000
+You don't want to team up with me?\xfffeOK then, bye!\xf000\xbe01\x0000
+You don't want to team up with me?\xfffeOK then, bye!\xf000\xbe01\x0000
 Become leader
 Join group
 Launch DS Wireless Communications?
 Failed to disconnect
 Saving...\xfffeDon't turn off the power.
-Unfortunately, you have been\xfffedemoted to Rank \xf000ȁ\x0001\x0000...\xf000븁\x0000
-Would you like to use\xfffeInfrared Communication or\xf000븀\x0000\xfffeDS Wireless Communications?
+Unfortunately, you have been\xfffedemoted to Rank \xf000\x0201\x0001\x0000...\xf000\xbe01\x0000
+Would you like to use\xfffeInfrared Communication or\xf000\xbe00\x0000\xfffeDS Wireless Communications?
 Infrared Communication
 DS Wireless Communications
-Would you like to launch\xfffeInfrared Communication and\xf000븀\x0000\xfffeDS Wireless Communications?
-Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Single Train is\xfffeonly for those who beat the Single Train.\xf000븁\x0000
-Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Double Train is\xfffeonly for those who beat the Double Train.\xf000븁\x0000
-Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Multi Train is\xfffeonly for those who beat the Multi Train.\xf000븁\x0000
-That was awesome!\xfffeLet's battle together again!\xf000븁\x0000
-That was really fun!\xfffeLet's battle together again!\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Super Single Train\xfffeisn't ready yet.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Super Double Train\xfffeisn't ready yet.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Super Multi Train\xfffeisn't ready yet.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Wi-Fi Train\xfffeisn't ready yet.\xf000븁\x0000
-Would you like to send these results\xfffeusing Nintendo WFC?
+Would you like to launch\xfffeInfrared Communication and\xf000\xbe00\x0000\xfffeDS Wireless Communications?
+Welcome to the Battle Subway.\xf000\xbe01\x0000\xfffeI am sorry, but this Super Single Train is\xfffeonly for those who beat the Single Train.\xf000\xbe01\x0000
+Welcome to the Battle Subway.\xf000\xbe01\x0000\xfffeI am sorry, but this Super Double Train is\xfffeonly for those who beat the Double Train.\xf000\xbe01\x0000
+Welcome to the Battle Subway.\xf000\xbe01\x0000\xfffeI am sorry, but this Super Multi Train is\xfffeonly for those who beat the Multi Train.\xf000\xbe01\x0000
+That was awesome!\xfffeLet's battle together again!\xf000\xbe01\x0000
+That was really fun!\xfffeLet's battle together again!\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI'm sorry, but this Super Single Train\xfffeisn't ready yet.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI'm sorry, but this Super Double Train\xfffeisn't ready yet.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI'm sorry, but this Super Multi Train\xfffeisn't ready yet.\xf000\xbe01\x0000
+Welcome to the Battle Subway!\xf000\xbe01\x0000\xfffeI'm sorry, but this Wi-Fi Train\xfffeisn't ready yet.\xf000\xbe01\x0000
+Would you like to send these\xffferesults using Nintendo WFC?
 Communicating. Please stand by...
 What kinds of Pokémon\xfffeshould I enter?
 What kinds of Pokémon\xfffeshould I enter?
-\xf000Ā\x0001\x0000 achieved a win streak\xfffeof \xf000ȃ\x0001\x0001 in the Multi Train challenge\xf000븀\x0000\xfffewith a Trainer.\xf000븁\x0000
-\xf000Ā\x0001\x0000 achieved a win streak of \xf000ȃ\x0001\x0001\xfffein the Multi Train challenge with a friend.\xf000븁\x0000
-\xf000Ā\x0001\x0000 achieved a win streak of\xfffe\xf000ȃ\x0001\x0001 in the Multi Train challenge with a\xf000븀\x0000\xfffeTrainer and a win streak of \xf000ȃ\x0001\x0002 in\xf000븀\x0000\xfffethe Multi Train challenge with a friend.\xf000븁\x0000
+\xf000\x0100\x0001\x0000 achieved a win streak\xfffeof \xf000\x0203\x0001\x0001 in the Multi Train challenge\xf000\xbe00\x0000\xfffewith a Trainer.\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 achieved a win streak of \xf000\x0203\x0001\x0001\xfffein the Multi Train challenge with a friend.\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 achieved a win streak of\xfffe\xf000\x0203\x0001\x0001 in the Multi Train challenge with a\xf000\xbe00\x0000\xfffeTrainer and a win streak of \xf000\x0203\x0001\x0002 in\xf000\xbe00\x0000\xfffethe Multi Train challenge with a friend.\xf000\xbe01\x0000
 NO DATA
 Would you like to board\xfffethe train to Anville Town?
-The train is leaving the station shortly.\xfffeAll aboard!\xf000븁\x0000
+The train is leaving the station shortly.\xfffeAll aboard!\xf000\xbe01\x0000
 We hope to see you again!
-We hope to see you again!\xf000븁\x0000
+We hope to see you again!\xf000\xbe01\x0000

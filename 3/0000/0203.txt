@@ -1,55 +1,55 @@
-　
-Yeah, Its troublesome...\xfffeI'm so busy...\xf000븁\x0000
-Wait! Hey you!\xf000븁\x0000
-Welcome to Join Avenue!\xf000븁\x0000\xfffe... At least that's what I'd say\xfffeif there was anything here...\xf000븀\x0000\xfffebut its just a street...\xf000븁\x0000\xfffeOops! That was rude.\xfffeI should introduce myself.\xf000븁\x0000\xfffeI am the owner of Join Avenue!\xf000븁\x0000\xfffeMy dream is to have\xfffethis place filled with people\xf000븀\x0000\xfffefrom around the world!\xf000븁\x0000\xfffe…But I seem to have no one to\xfffeman the place. It's a problem.\xf000븁\x0000\xfffe...　...　...\xfffe...　...　...\xf000븁\x0000\xfffeWait! I've got it!\xf000븁\x0000\xfffeYou're a trainer, which means\xfffeyou go everywhere, right?\xf000븁\x0000\xfffeAnd you meet many people...\xfffeI've got a request for you.\xf000븁\x0000\xfffeHow about it?\xfffeWill you do it for me?
-Thank you!\xf000븁\x0000\xfffeSO! What I need you to do\xfffeis tell people about this place.\xf000븁\x0000\xfffeI want everyone in the world to\xfffeknow. What's your　"Catchphrase"?\xf000븁\x0000
+ 
+Yeah, Its troublesome...\xfffeI'm so busy...\xf000\xbe01\x0000
+Wait! Hey you!\xf000\xbe01\x0000
+Welcome to Join Avenue!\xf000\xbe01\x0000\xfffe... At least that's what I'd say\xfffeif there was anything here...\xf000\xbe00\x0000\xfffebut its just a street...\xf000\xbe01\x0000\xfffeOops! That was rude.\xfffeI should introduce myself.\xf000\xbe01\x0000\xfffeI am the owner of Join Avenue!\xf000\xbe01\x0000\xfffeMy dream is to have\xfffethis place filled with people\xf000\xbe00\x0000\xfffefrom around the world!\xf000\xbe01\x0000\xfffe...But I seem to have no one to\xfffeman the place. It's a problem.\xf000\xbe01\x0000\xfffe... ... ...\xfffe... ... ...\xf000\xbe01\x0000\xfffeWait! I've got it!\xf000\xbe01\x0000\xfffeYou're a trainer, which means\xfffeyou go everywhere, right?\xf000\xbe01\x0000\xfffeAnd you meet many people...\xfffeI've got a request for you.\xf000\xbe01\x0000\xfffeHow about it?\xfffeWill you do it for me?
+Thank you!\xf000\xbe01\x0000\xfffeSO! What I need you to do\xfffeis tell people about this place.\xf000\xbe01\x0000\xfffeI want everyone in the world to\xfffeknow. What's your "Catchphrase"?\xf000\xbe01\x0000
 Come on, I'm worried and you came.\xfffeDon't you see?
-I see!\xf000븁\x0000\xfffeSo that's what you'd\xfffe"instinctively" say, then?\xf000븁\x0000\xfffeSo when you first meet someone,\xfffehow do you introduce yourself?\xf000븁\x0000
-\xf000ķ\x0001\x0000\xfffe\xf000ķ\x0001\x0001　\xf000븁\x0000\xfffe...Yes!!\xf000븁\x0000\xfffeJust as I thought!\xfffeYou're the only one!\xf000븀\x0000\xfffeImpossible for anyone but you!\xf000븁\x0000
-...Oops.\xfffeSo it is.\xf000븁\x0000
-Secretaries!\xf000븁\x0000\xfffeLet's make this another\xfffegreat year!\xf000븁\x0000
-See you later!\xf000븁\x0000
-Nice to meet you.\xf000븁\x0000\xfffeWhat should we call you?\xf000븁\x0000
-\xf000ĺ\x0001\x0000!\xf000븁\x0000\xfffeYou are responsible for\xfffemaintaining this street.\xf000븁\x0000\xfffeNot many people visit\xfffethis empty street yet\xf000븀\x0000\xfffeso please create a nice Avenue!\xf000븁\x0000\xfffeI will describe how to \xfffedevelop Join Avenue next.\xf000븁\x0000\xfffeWhen you're ready to hear,\xfffetalk to me, please.
-\xf000ĺ\x0001\x0000!\xf000븁\x0000\xfffeあなたは　いま　いちにんまえの\xfffe\xf000ĺ\x0001\x0000に　なるため\xf000븁\x0000\xfffeせつめいを\xfffeうけている　ところで　ございます
-ひとを　よぶためには\xfffeべんりで　やくだつ　しせつを\xf000븀\x0000\xfffeつくるのが　よいでしょう\xf000븁\x0000\xfffeそう!　おみせ　です!\xf000븁\x0000\xfffeおみせを　つくるには\xfffeゆめを　もって\xf000븁\x0000\xfffeこの　まちへ　やってきた　ひとを\xfffe「しょうたい」すると　できあがります\xf000븁\x0000\xfffe...おや?\xfffeだれか　いらしたみたいです\xf000븁\x0000\xfffeさっそく\xfffe「しょうたいする」を　して　みましょう
-まずは　おみせを　たてましょう\xf000븁\x0000\xfffeまちを　あるくひとに　はなしかけて\xfffe「しょうたいする」を　えらんで\xf000븀\x0000\xfffeおみせを　つくって　もらいましょう
-Congratulations!\xfffeりっぱな　おみせが　たちましたね\xf000븁\x0000\xfffeおみせを　つくっても　おきゃくさまが\xfffeこなければ　いみが　ありません\xf000븁\x0000\xfffeつぎは　おきゃくさまに\xfffeおみせを　しょうかい　しましょう\xf000븁\x0000\xfffeおきゃくさまに　はなしかけて\xfffe「あんない」を　しましょう\xf000븁\x0000\xfffe...おや?　また\xfffeどなたか　いらっしゃったようです\xf000븁\x0000\xfffeさっそく\xfffe「あんないする」を　してみましょう
-おきゃくさまを　おみせに\xfffe「あんない」して　あげましょう
-Congratulations!\xf000븁\x0000\xfffeおきゃくさまを\xfffeおみせに　ごあんないして\xf000븀\x0000\xfffeまちの　にんきが　あがりました\xf000븁\x0000\xfffeまちや　おみせの　にんきを　あげて\xfffeゆうめいに　していきましょう\xf000븁\x0000\xfffeおきゃくさまを　よぶ　コツは\xfffeとにかく　つうしんを　することです\xf000븁\x0000\xfffeＣギアを　オンにして\xfffeすれちがって　みたり\xf000븁\x0000\xfffeユニオンルームや\xfffeグローバルターミナル　などの\xf000븀\x0000\xfffeつうしん　しせつへ　いってみましょう\xf000븁\x0000\xfffeそれでは　わたくしどもは\xfffe\xf000ĺ\x0001\x0000の　ひしょとして\xf000븀\x0000\xfffeこちらの　へやで　おまちしています\xf000븁\x0000\xfffeいろいろと　サポートを　いたしますので\xfffeぜひ　いらして　くださいね\xf000븁\x0000\xfffeそれでは\xf000븁\x0000
-You are a full-pledged \xfffe\xf000ĺ\x0001\x0000と　なるため\xf000븁\x0000\xfffeせつめいを\xfffeうけている　ところで　ございます
-You are a full-pledged \xfffe\xf000ĺ\x0001\x0000に　なるため\xf000븁\x0000\xfffeせつめいを\xfffeうけている　ところで　ございます
-You are a full-pledged \xfffe\xf000ĺ\x0001\x0000に　なるため\xf000븁\x0000\xfffeせつめいを\xfffeうけている　ところで　ございます
-You are a full-pledged \xfffe\xf000ĺ\x0001\x0000に　なるため\xf000븁\x0000\xfffeせつめいを\xfffeうけている　ところで　ございます
-You are a full-pledged \xfffe\xf000ĺ\x0001\x0000に　なるため\xf000븁\x0000\xfffeせつめいを\xfffeうけている　ところで　ございます
-You are a full-pledged \xfffe\xf000ĺ\x0001\x0000に　なるため\xf000븁\x0000\xfffeせつめいを\xfffeうけている　ところで　ございます
-Sorry to interrupt, Owner...\xf000븁\x0000\xfffeThat other bit of work is\xfffestarting momentarily...\xf000븁\x0000
-This is \xf000Ĺ\x0001\x0000\xfffe\xf000ĺ\x0001\x0001's Office\xf000븁\x0000
-This is \xfffe\xf000Ĺ\x0001\x0000\xf000븁\x0000\xfffeWhere you can socialize and\xfffeinteract with people.\xf000븁\x0000
-This is \xfffe\xf000Ĺ\x0001\x0000\xf000븁\x0000\xfffeWhere you can socialize and\xfffeinteract with people.\xf000븁\x0000
+I see!\xf000\xbe01\x0000\xfffeSo that's what you'd\xfffe"instinctively" say, then?\xf000\xbe01\x0000\xfffeSo when you first meet someone,\xfffehow do you introduce yourself?\xf000\xbe01\x0000
+\xf000\x0137\x0001\x0000\xfffe\xf000\x0137\x0001\x0001 \xf000\xbe01\x0000\xfffe...Yes!!\xf000\xbe01\x0000\xfffeJust as I thought!\xfffeYou're the only one!\xf000\xbe00\x0000\xfffeImpossible for anyone but you!\xf000\xbe01\x0000
+...Oops.\xfffeSo it is.\xf000\xbe01\x0000
+Secretaries!\xf000\xbe01\x0000\xfffeLet's make this another\xfffegreat year!\xf000\xbe01\x0000
+See you later!\xf000\xbe01\x0000
+Nice to meet you.\xf000\xbe01\x0000\xfffeWhat should we call you?\xf000\xbe01\x0000
+\xf000\x013a\x0001\x0000!\xf000\xbe01\x0000\xfffeYou are responsible for\xfffemaintaining this street.\xf000\xbe01\x0000\xfffeNot many people visit\xfffethis empty street yet\xf000\xbe00\x0000\xfffeso please create a nice Avenue!\xf000\xbe01\x0000\xfffeI will describe how to \xfffedevelop Join Avenue next.\xf000\xbe01\x0000\xfffeWhen you're ready to hear,\xfffetalk to me, please.
+\xf000\x013a\x0001\x0000!\xf000\xbe01\x0000\xfffeあなたは いま いちにんまえの\xfffe\xf000\x013a\x0001\x0000に なるため\xf000\xbe01\x0000\xfffeせつめいを\xfffeうけている ところで ございます
+ひとを よぶためには\xfffeべんりで やくだつ しせつを\xf000\xbe00\x0000\xfffeつくるのが よいでしょう\xf000\xbe01\x0000\xfffeそう! おみせ です!\xf000\xbe01\x0000\xfffeおみせを つくるには\xfffeゆめを もって\xf000\xbe01\x0000\xfffeこの まちへ やってきた ひとを\xfffe「しょうたい」すると できあがります\xf000\xbe01\x0000\xfffe...おや?\xfffeだれか いらしたみたいです\xf000\xbe01\x0000\xfffeさっそく\xfffe「しょうたいする」を して みましょう
+まずは おみせを たてましょう\xf000\xbe01\x0000\xfffeまちを あるくひとに はなしかけて\xfffe「しょうたいする」を えらんで\xf000\xbe00\x0000\xfffeおみせを つくって もらいましょう
+Congratulations!\xfffeりっぱな おみせが たちましたね\xf000\xbe01\x0000\xfffeおみせを つくっても おきゃくさまが\xfffeこなければ いみが ありません\xf000\xbe01\x0000\xfffeつぎは おきゃくさまに\xfffeおみせを しょうかい しましょう\xf000\xbe01\x0000\xfffeおきゃくさまに はなしかけて\xfffe「あんない」を しましょう\xf000\xbe01\x0000\xfffe...おや? また\xfffeどなたか いらっしゃったようです\xf000\xbe01\x0000\xfffeさっそく\xfffe「あんないする」を してみましょう
+おきゃくさまを おみせに\xfffe「あんない」して あげましょう
+Congratulations!\xf000\xbe01\x0000\xfffeおきゃくさまを\xfffeおみせに ごあんないして\xf000\xbe00\x0000\xfffeまちの にんきが あがりました\xf000\xbe01\x0000\xfffeまちや おみせの にんきを あげて\xfffeゆうめいに していきましょう\xf000\xbe01\x0000\xfffeおきゃくさまを よぶ コツは\xfffeとにかく つうしんを することです\xf000\xbe01\x0000\xfffeCギアを オンにして\xfffeすれちがって みたり\xf000\xbe01\x0000\xfffeユニオンルームや\xfffeグローバルターミナル などの\xf000\xbe00\x0000\xfffeつうしん しせつへ いってみましょう\xf000\xbe01\x0000\xfffeそれでは わたくしどもは\xfffe\xf000\x013a\x0001\x0000の ひしょとして\xf000\xbe00\x0000\xfffeこちらの へやで おまちしています\xf000\xbe01\x0000\xfffeいろいろと サポートを いたしますので\xfffeぜひ いらして くださいね\xf000\xbe01\x0000\xfffeそれでは\xf000\xbe01\x0000
+You are a full-pledged \xfffe\xf000\x013a\x0001\x0000と なるため\xf000\xbe01\x0000\xfffeせつめいを\xfffeうけている ところで ございます
+You are a full-pledged \xfffe\xf000\x013a\x0001\x0000に なるため\xf000\xbe01\x0000\xfffeせつめいを\xfffeうけている ところで ございます
+You are a full-pledged \xfffe\xf000\x013a\x0001\x0000に なるため\xf000\xbe01\x0000\xfffeせつめいを\xfffeうけている ところで ございます
+You are a full-pledged \xfffe\xf000\x013a\x0001\x0000に なるため\xf000\xbe01\x0000\xfffeせつめいを\xfffeうけている ところで ございます
+You are a full-pledged \xfffe\xf000\x013a\x0001\x0000に なるため\xf000\xbe01\x0000\xfffeせつめいを\xfffeうけている ところで ございます
+You are a full-pledged \xfffe\xf000\x013a\x0001\x0000に なるため\xf000\xbe01\x0000\xfffeせつめいを\xfffeうけている ところで ございます
+Sorry to interrupt, Owner...\xf000\xbe01\x0000\xfffeThat other bit of work is\xfffestarting momentarily...\xf000\xbe01\x0000
+This is \xf000\x0139\x0001\x0000\xfffe\xf000\x013a\x0001\x0001's Office\xf000\xbe01\x0000
+This is \xfffe\xf000\x0139\x0001\x0000\xf000\xbe01\x0000\xfffeWhere you can socialize and\xfffeinteract with people.\xf000\xbe01\x0000
+This is \xfffe\xf000\x0139\x0001\x0000\xf000\xbe01\x0000\xfffeWhere you can socialize and\xfffeinteract with people.\xf000\xbe01\x0000
 Banzai!
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000ķ\x0001\x0002\xf000븀\x0000\xfffe\xf000ĺ\x0001\x0003! Banzai!\xf000븁\x0000
-\xf000Ā\x0001\x0000\xfffeであったひ：20\xf000ȁ\x0001\x0001ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち\xf000븁\x0000
-\xf000ĸ\x0001\x0004\xfffeみせのランク　\xf000ȁ\x0001\x0005
-\xf000ĺ\x0001\x0002の　まち\xfffe\xf000Ĺ\x0001\x0000　ランク　\xf000Ȃ\x0001\x0001
-おみせに　あんないしたひと　\xf000Ȇ\x0001\x0000\xfffeまちに　しょうたいしたひと　\xf000Ȇ\x0001\x0001\xf000븁\x0000\xfffeまちの　ひょうばん\xfffe『\xf000ł\x0001\x0002』\xf000븁\x0000
-だい\xf000Ȁ\x0001\x0004ひしょ　\xf000Ā\x0001\x0000\xfffeであったひ：20\xf000ȁ\x0001\x0001ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 had become\xfffeknown to the Unova region!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffeいだいなる　\xf000Ĺ\x0001\x0000を\xfffeしらないものは　いない!!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffeいだいなる　\xf000Ĺ\x0001\x0000を\xfffeしらないものは　いない!!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffeいだいなる　\xf000Ĺ\x0001\x0000を\xfffeしらないものは　いない!!\xf000븁\x0000
-\xf000\xff00\x0001\x0002\xf000봂\x0000※Caution!\xf000\xff00\x0001\x0000\xf000븁\x0000\xfffeThe words you enter now are sent\xfffeto anyone you communicate with.\xf000븁\x0000\xfffePlease think carefully when\xfffeselecting your words.\xf000븁\x0000
-\xf000\xff00\x0001\x0002\xf000봂\x0000※Caution!\xf000\xff00\x0001\x0000\xf000븁\x0000\xfffeThe words you enter now are sent\xfffeto anyone you communicate with.\xf000븁\x0000\xfffePlease think carefully when\xfffeselecting your words.\xf000븁\x0000
+\xf000\x0100\x0001\x0000: \xf000\x0137\x0001\x0001\xfffe\xf000\x0137\x0001\x0002\xf000\xbe00\x0000\xfffe\xf000\x013a\x0001\x0003! Banzai!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000\xfffeであったひ:20\xf000\x0201\x0001\x0001ねん\xf000\x0201\x0001\x0002がつ\xf000\x0201\x0001\x0003にち\xf000\xbe01\x0000
+\xf000\x0138\x0001\x0004\xfffeみせのランク \xf000\x0201\x0001\x0005
+\xf000\x013a\x0001\x0002の まち\xfffe\xf000\x0139\x0001\x0000 ランク \xf000\x0202\x0001\x0001
+おみせに あんないしたひと \xf000\x0206\x0001\x0000\xfffeまちに しょうたいしたひと \xf000\x0206\x0001\x0001\xf000\xbe01\x0000\xfffeまちの ひょうばん\xfffe:\xf000\x0142\x0001\x0002』\xf000\xbe01\x0000
+だい\xf000\x0200\x0001\x0004ひしょ \xf000\x0100\x0001\x0000\xfffeであったひ:20\xf000\x0201\x0001\x0001ねん\xf000\x0201\x0001\x0002がつ\xf000\x0201\x0001\x0003にち
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffe\xf000\x0139\x0001\x0000 had become\xfffeknown to the Unova region!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffeいだいなる \xf000\x0139\x0001\x0000を\xfffeしらないものは いない!!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffeいだいなる \xf000\x0139\x0001\x0000を\xfffeしらないものは いない!!\xf000\xbe01\x0000
+Congratulations!\xf000\xbe01\x0000\xfffeいだいなる \xf000\x0139\x0001\x0000を\xfffeしらないものは いない!!\xf000\xbe01\x0000
+\xf000\xff00\x0001\x0002\xf000\xbd02\x0000※Caution!\xf000\xff00\x0001\x0000\xf000\xbe01\x0000\xfffeThe words you enter now are sent\xfffeto anyone you communicate with.\xf000\xbe01\x0000\xfffePlease think carefully when\xfffeselecting your words.\xf000\xbe01\x0000
+\xf000\xff00\x0001\x0002\xf000\xbd02\x0000※Caution!\xf000\xff00\x0001\x0000\xf000\xbe01\x0000\xfffeThe words you enter now are sent\xfffeto anyone you communicate with.\xf000\xbe01\x0000\xfffePlease think carefully when\xfffeselecting your words.\xf000\xbe01\x0000
