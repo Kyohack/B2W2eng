@@ -8,13 +8,13 @@ I am glad you were\xfffemy first challenger\xf000\xbe00\x0000\xfffeas a Gym Lead
 \xf000\x0100\x0001\x0000 Cheren gave\xfffeyou the Basic Badge!\xf000\xbe01\x0000
 You are given the Basic Badge\xfffeas a commemoration of your gym match!\xf000\xbe01\x0000\xfffeIf you have the badge,\xfffePokémon up to level 20\xf000\xbe00\x0000\xfffeand even traded pokemon\xf000\xbe00\x0000\xfffewill listen to your commands.\xf000\xbe01\x0000\xfffeHere, take this too!\xf000\xbe01\x0000
 TM83 contains Work Up\xfffeand can be taught to a Pokémon.\xf000\xbe00\x0000\xfffeIf you use Work Up, the Pokémon's\xf000\xbe00\x0000\xfffeAttack and Sp. Atk go up!\xf000\xbe01\x0000\xfffeBy the way, TMs can be used\xfffeas many times as you want.\xf000\xbe01\x0000
-この イッシュちほう には\xfffe8つの Pokémon Gym\xf000\xbe00\x0000\xfffe8つの ジムバッジが ある\xf000\xbe01\x0000\xfffeきみも ポケモンTrainerなら\xfffeすべての ジムバッジを あつめなよ!\xf000\xbe01\x0000\xfffeそのほうが ポケモンずかんの\xfffeページも うまっていくからね!\xf000\xbe01\x0000\xfffeうん! ぼくも 2ねんほどまえ\xfffeポケモンずかんを もって\xf000\xbe00\x0000\xfffeベルたちと いっしょに たびしたんだ
+This particular region\xfffehas 8 Pokémon gyms\xf000\xbe00\x0000\xfffeand 8 gym badges.\xf000\xbe01\x0000\xfffeAlthough Pokémon trainers\xfffedon't just collect gym badges!\xf000\xbe01\x0000\xfffeYou can use your pokedex\xfffeand try to fill the pages!\xf000\xbe01\x0000\xfffeYeah.. 2 years ago I went on\xfffean adventure to fill the pokedex.\xf000\xbe00\x0000\xfffeBianca and I traveled together.
 Cheren: これから なにをするかは\xfffeきみが きめれば いいんだよ\xf000\xbe01\x0000\xfffeまよっても だいじょうぶ\xfffeきみには ポケモンが いるからね!
-チェレンさんに みこまれて\xfffeジムの Trainerに なったぜ!\xf000\xbe01\x0000
+I'll become a gym leader\xfffeas good as Mr.Cheren!\xf000\xbe01\x0000
 もうひとりの おんなのこに かてれば\xfffeGym Leaderと しょうぶ できるよ!
 すごいな! きみなら\xfffeGym Leaderと しょうぶ できるよ!
 ...チェレンさんに みこまれたのも\xfffeほかに ひとが いないから?\xf000\xbe01\x0000\xfffeイヤイヤ! たとえ そうでも\xfffeぼくが つよくなれば いいんだ!
-たったいま チェレンさんから\xfffeまなんだことを おしえてあげる!\xf000\xbe01\x0000
+I'll show you what I've\xfffelearned from Mr.Cheren!\xf000\xbe01\x0000
 まっ ちょっとは やるわね!\xfffeだけど もうひとりに かてるの?
 まっ かなり やるわね!\xfffeだけど チェレンさんに かてるの?
 じぶんの ポケモンのこと\xfffeもっと くわしく しってあげよっと!
