@@ -1,4 +1,4 @@
 This way leads to Route 16\xfffeand Marvelous Bridge!
-Route 16の まよいのもり...\xf000\xbe01\x0000\xfffe2ねんまえ ゾロアークという\xfffeポケモンが みんなを ばかして\xf000\xbe00\x0000\xfffeすみかを かくしていたのよ
-レッツ トレーニング!\xf000\xbe01\x0000\xfffeこれを ポケモンに もたせて\xfffeさあ からだを いじめよう!!\xf000\xbe01\x0000
-きょうせいギプスを もたせた\xfffePokémon すばやさが さがるが\xf000\xbe00\x0000\xfffeそのぶん つよく そだつ!\xf000\xbe01\x0000\xfffeちょっと つかいにくい どうぐだが\xfffeそれが あじ なんだよ きっと!
+Route 16's Lostlorn Forest...\xf000\xbe01\x0000\xfffeTwo years ago, there was\xfffea Pokémon name Zoroark, who\xf000\xbe00\x0000\xfffeterrified many residents.
+Let's train!\xf000\xbe01\x0000\xfffeFinding the differences\xfffein each Pokémon is fun!!!\xf000\xbe01\x0000
+Macho Brace improves the\xfffePokémon's strength by a lot, but also\xf000\xbe00\x0000\xfffedecreases the Pokémon's speed!\xf000\xbe01\x0000\xfffeIt makes it a difficult\xfffeitem to use!
