@@ -1,14 +1,14 @@
-Team Plasma: なんだ おまえら?\xf000\xbe01\x0000
+Team Plasma: Who are you guys?\xf000\xbe01\x0000
 \xf000\x0100\x0001\x0001: ...いっておく\xf000\xbe01\x0000\xfffeオレは いまから いかるぜッ!!\xf000\xbe01\x0000
-Team Plasma: クッ...!\xfffeなかまに しらせないと!\xf000\xbe01\x0000
-Team Plasma: やばいわ!\xfffeこのままだと しんにゅう される!\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001: ...アイツら チョロネコ\xfffeつれていなかったな!\xf000\xbe01\x0000
-バリア だな\xf000\xbe01\x0000
-しかも こっちには\xfffeパスワードを いれる そうち...\xf000\xbe01\x0000
-ということはだ\xf000\xbe01\x0000\xfffeパスワードを さがすか ききだして\xfffeバリアを けすしかないか\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000! てわけして\xfffeパスワードを さがすぜ!\xf000\xbe01\x0000
-そうちが ある...\xf000\xbe01\x0000\xfffeパスワードを いれるには\xfffeカードキーが ひつよう みたいだ
-そうちが ある...\xfffeパスワードを いれるみたいだ\xf000\xbe01\x0000\xfffeパスワードを いれますか?
-その パスワードは\xfffeまちがって います
-パスワード\xfffeにゅうりょく せいこう!
-すべての バリアが かいじょ され\xfffeさきに すすめるように なった!
-あぶない!\xfffeバリアは でんりゅうで ビリビリだ!
+Team Plasma: Kuh...!\xfffeDon't tell anyone!\xf000\xbe01\x0000
+Team Plasma: Dangerous!\xfffeIt can be penerated by this!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: ...アイツら Purrlion\xfffeつれていなかったな!\xf000\xbe01\x0000
+Barrier is gone.\xf000\xbe01\x0000
+The device would need\xfffea password...\xf000\xbe01\x0000
+ということはだ\xf000\xbe01\x0000\xfffeパスワードを さがすか ききだして\xfffeバリアを けすしかないか\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000! Lets go\xfffefind the passwords!\xf000\xbe01\x0000
+That device...\xf000\xbe01\x0000\xfffeIt seems that the\xfffepassword also needs a Card Key.
+That device...\xfffeA password can be inserted.\xf000\xbe01\x0000\xfffeInsert a password?
+The password\xfffewas incorrect.
+The input\xfffepassword worked!
+You can move foward since\xfffethe barriers are down!
+Watch out!\xfffeThe barrier current is down!
