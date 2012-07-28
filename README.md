@@ -3,6 +3,8 @@ B2W2eng
 
 Pokemon Black2 and White2 English Translation by PokeStation/Project Pokemon
 
+Some contributors are not listed, as they never added themselves to the list.
+
 Pokestation Contributors:
 Kyohack
 CloneCharizard
@@ -34,6 +36,7 @@ Nigoli
 Serebii
 
 Technical Contributors:
+Vinnymac/Kyohack - Error Messages, DSi Page, PKMN Type/Ailments, Battle UI, Title Screen, Intro Text, HM Item, Keyboard, and more.
 Kakkoii - Title Screen, error messages, statuses
 Kazo - Letter and number resizing
 Kaphotics - Matching text files to specific areas in the game
