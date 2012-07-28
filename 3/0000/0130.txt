@@ -5,20 +5,20 @@ Understood!\xfffeLet me know when you are ready.
 Are you boarding now?\xfffeI want to fly now!
 Juniper: Hey!\xfffeSorry for letting you wait.\xf000\xbe01\x0000\xfffeSkyla, let's\xfffetake off immediately!
 Skyla,\xfffetake us to Yamaji Town!\xf000\xbe01\x0000
-Bel: Huff... Huff...\xf000\xbe01\x0000\xfffeWait... Wait for me...\xfffeI want to fly too.\xf000\xbe01\x0000\xfffeI... I have research to do\xfffeat Rebirth Mountain...\xf000\xbe01\x0000
+Bianca: Huff... Huff...\xf000\xbe01\x0000\xfffeWait... Wait for me...\xfffeI want to fly too.\xf000\xbe01\x0000\xfffeI... I have research to do\xfffeat Rebirth Mountain...\xf000\xbe01\x0000
 Juniper: Oh my! Bel,\xfffeyou are just like a researcher!\xf000\xbe01\x0000\xfffeEverybody, \xfffelet's go to Yamaji Town together!!\xf000\xbe01\x0000
 Skyla: Hee hee!\xfffeAre you ready!?\xf000\xbe01\x0000\xfffeWell then...\xfffeLet's fly!!\xf000\xbe01\x0000
 Hello!\xf000\xbe01\x0000\xfffeQuickly delivering a lot!\xfffeMistralton Cargo Service!\xf000\xbe01\x0000\xfffeWe would also fly people if the\xfffeGym Leader would allow it...
-すばやく たくさん おとどけ!\xfffeフキヨセ カーゴ サービス です\xf000\xbe01\x0000\xfffeひこうきに のって\xfffeヤマジタウンに いかれますか?
+We deliver things quickly!\xfffeThis is Mistralton Cargo Service.\xf000\xbe01\x0000\xfffeWant to head to\xfffeYamaji Town by plane?
 I understand! それでは\xfffeフウロさんに れんらく しますので\xf000\xbe00\x0000\xfffeひこうきに のって おまちください\xf000\xbe01\x0000
-はい!\xfffeいつでも ごりよう ください!
-すばやく たくさん おとどけ!\xfffeフキヨセ カーゴ サービス です\xf000\xbe01\x0000
-あ...!\xfffeそれは きょかしょう!\xf000\xbe01\x0000\xfffeイッシュちほう から\xfffeとおくとおく はなれた\xf000\xbe00\x0000\xfffeしぜんほごくへ いくための もの!\xf000\xbe01\x0000\xfffeそれでは\xfffeしぜんほごくに いかれますか?
-すばやく たくさん おとどけ!\xfffeフキヨセ カーゴ サービス です\xf000\xbe01\x0000\xfffeこんかいは どちらに いかれますか?
+Yes!\xfffePlease come again anytime!
+We deliver things quickly!\xfffeThis is Mistralton Cargo Service.\xf000\xbe01\x0000
+Ahh..!\xfffeIt is permitted!\xf000\xbe01\x0000\xfffeイッシュちほう から\xfffeとおくとおく はなれた\xf000\xbe00\x0000\xfffeしぜんほごくへ いくための もの!\xf000\xbe01\x0000\xfffeそれでは\xfffeしぜんほごくに いかれますか?
+We deliver things quickly!\xfffeThis is Mistralton Cargo Service.\xf000\xbe01\x0000\xfffeWhat will you send?
 Yamaji Town
 Nature Reserve
 Quit
-わざ「そらをとぶ」の いきさきは\xfffeいちど いった ポケモンセンターだよ
+HM-Fly sends you to any\xfffevisited Poké Center.
 ひこうきの こうぞうを しらないと\xfffeせいびは できないだろ?\xf000\xbe01\x0000\xfffeポケモンしょうぶも おなじさ\xfffeポケモンに くわしいほど かてるだろ
 Hey, you!\xf000\xbe01\x0000\xfffeDo you have any Flying or Psychic\xfffePokémon with you?\xf000\xbe01\x0000
 Ah!\xfffe You have a \xf000\x0101\x0001\x0000, eh?\xf000\xbe01\x0000\xfffeCould you help me\xfffeget my luggage? It's stuck!\xf000\xbe01\x0000
@@ -29,12 +29,12 @@ Chulululuwa!
 What!? You don't have the\xfffe: Ace Pilot』medal!?\xf000\xbe01\x0000\xfffeI see... We pilots\xfffeare yearning for that medal. I was\xf000\xbe00\x0000\xfffealmost certain that you would have it.
 If you ever receive the\xfffe: Ace Pilot』 medal,\xf000\xbe00\x0000\xfffeplease show it to me!
 You... You!\xf000\xbe01\x0000\xfffethe: Ace Pilot』medal.\xfffeYou have it, don't you!?\xf000\xbe01\x0000\xfffeTh- This is...\xf000\xbe01\x0000\xfffethe : Ace Pilot』 medal\xfffethat everyone wants!\xf000\xbe00\x0000\xfffeSo cool...\xf000\xbe01\x0000\xfffePlease let me take a look!\xfffeThank you so much!
-"Flying Ace pilot"...\xfffeIt sounds so sweet...\xf000\xbe01\x0000\xfffeそらを じゆうに とびまわった\xfffeキミの ポケモンに カンパイ!\xf000\xbe01\x0000\xfffeぼくも ひこうきの\xfffeそうじゅう がんばるぞー!
+"Flying Ace Pilot"...\xfffeIt sounds so sweet...\xf000\xbe01\x0000\xfffeそらを じゆうに とびまわった\xfffeキミの ポケモンに カンパイ!\xf000\xbe01\x0000\xfffeぼくも ひこうきの\xfffeそうじゅう がんばるぞー!
 Welcome to Mistralton, the town of sky!\xfffeTake this in commemorative item!\xf000\xbe01\x0000
 するどいくちばし という どうぐを\xfffeポケモンに もたせてあげると\xf000\xbe01\x0000\xfffeひこうタイプの わざの\xfffeいりょくが アップ するのよ!
 Sweets, lovely Heart Sweets! ♪\xfffeCheck your feelings together...\xf000\xbe01\x0000If they're super-affectionate,\xfffeyou'll get so many sweets! ♪\xf000\xbe00\x0000So sweet and enchanting... ♪\xf000\xbe01\x0000
 Oh? You have\xfffesome Heart Sweets!\xf000\xbe01\x0000Will you trade ten Heart Sweets\xfffefor one of my Heart Scales?
-なんだか きょうは\xfffeとくべつ きぶん!\xf000\xbe01\x0000\xfffeあなたの ハートスイーツ 5まいと\xfffeハートのウロコを こうかんしない?
+I'm in a special\xfffemood today!\xf000\xbe01\x0000\xfffeあなたの ハートスイーツ 5まいと\xfffeハートのウロコを こうかんしない?
 Bring me a lot of Heart Sweets,\xfffeand I'll trade you some good stuff!
 Hooray!\xfffeYou're full of heart!\xf000\xbe01\x0000
 Ah? What a shame,\xfffewhat a shame indeed!\xf000\xbe01\x0000\xfffeあなたの ハートのウロコ\xfffeもう いっぱい なのね
