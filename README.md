@@ -1,9 +1,9 @@
 B2W2eng
 =======
 
-Pokemon Black2 �& White2 English Translation by PokeStation
+Pokemon Black2 and White2 English Translation by PokeStation/Project Pokemon
 
-Contributors:
+Pokestation Contributors:
 Kyohack
 CloneCharizard
 wowfreak3000
@@ -21,6 +21,26 @@ Renegal
 JackR50
 OctopodaChong
 Bounky
+
+Project Pokemon Contributors:
+soneek
+Guested
+Skyhi101
+Froggyrobot
+FritzDuck
+Kaarosu
+Chase
+Nigoli
+Serebii
+
+Technical Contributors:
+Kakkoii - Title Screen, error messages, statuses
+Kazo - Letter and number resizing
+Kaphotics - Matching text files to specific areas in the game
+Bond697 - Breaking 5 character name limit
+Skyhi101 - Cart testing
+darkspirit456 - DAT making for TTDS/YS Menu
+
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 
