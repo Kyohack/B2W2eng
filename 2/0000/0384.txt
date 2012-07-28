@@ -1,12 +1,12 @@
 Please select an opponent
 あいてを よびだす
 あいてを よびだしちゅう!
-Professor Juniper 
+Juniper 
 \xf000\x0100\x0001\x0001
 Cheren
 Bianca
 Mom
-???
+？？？
 はなす
 しんかを おしえて
 ずかんチェック
