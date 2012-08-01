@@ -342,7 +342,7 @@ Charles
 Iris
 Grunt
 Grunt
-Corless
+Colress
 Ghetsis
 Rood
 Zinzolin
@@ -356,7 +356,7 @@ Shibuki
 Nagisa
 Grunt
 Nishino
-Corless
+Colress
 Grunt
 Kyouhei
 Kyouhei
@@ -579,7 +579,7 @@ Tetsuharu
 パ-カ-
 Lisa
 ガンジロウ
-Corless
+Colress
 Alder
 Dark
 Zinzolin
@@ -811,4 +811,4 @@ Grunt
 Grunt
 Kuritsugu
 Grunt
-Corless
+Colress

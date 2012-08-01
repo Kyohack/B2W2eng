@@ -14,6 +14,6 @@ Caitlin
 Iris
 \xf000\x0100\x0001\x0000
 N
-Corless
+Colress
 Ghetsis
 Banjirou
