@@ -1,30 +1,30 @@
 no data
 no data
-\xf000\x0203\x0001\x0000, \xf000\x0203\x0001\x0001, \xf000\x0203\x0001\x0002, \xf000\x0203\x0001\x0003\xfffe\xf000\x0203\x0001\x0004
-\xf000\x0113\x0001\x0000
+\xf000ȃ\x0001\x0000, \xf000ȃ\x0001\x0001, \xf000ȃ\x0001\x0002, \xf000ȃ\x0001\x0003\xfffe\xf000ȃ\x0001\x0004
+\xf000ē\x0001\x0000
 YES
 NO
-What are people's favorite things?\xfffeWhat is popular right now?\xf000\xbe01\x0000\xfffeHave you ever wondered about\xfffethese things?\xf000\xbe01\x0000\xfffeWelcome to Passerby Analytics HQ!\xf000\xbe01\x0000\xfffeThis is where you can find\xfffeall the answers.\xf000\xbe01\x0000\xfffe...You have good eyes.\xfffeEyes full of curiosity.\xf000\xbe01\x0000\xfffe...Good! I will specially appoint you\xfffeas a statistician!\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001 was appointed\xfffeas a statistician!\xf000\xbe01\x0000
-Statisticians have only one task!\xfffeThey conduct requested surveys.\xf000\xbe01\x0000\xfffeFirst, you'll receive survey requests\xfffefrom me.\xf000\xbe01\x0000\xfffeThen, with the Survey Radar, you'll\xfffechoose the survey you want to conduct.\xf000\xbe01\x0000\xfffeThen, if you pass by a lot of people,\xfffethe radar will collect the information.\xf000\xbe01\x0000\xfffeOf course, we've prepared compensation\xfffefor the survey.\xf000\xbe01\x0000\xfffeStatistician \xf000\x0100\x0001\x0001!\xfffeI expect you to do a great job!\xf000\xbe01\x0000
-Statistician \xf000\x0100\x0001\x0001,\xfffegood to see you!\xf000\xbe01\x0000\xfffeAre you surveying people vigorously?\xf000\xbe01\x0000
-You've finished all the requests.\xf000\xbe01\x0000\xfffeFrom now on, feel free to survey\xfffewhatever you want to know!
+What are people's favorite things?\xfffeWhat is popular right now?\xf000븁\x0000\xfffeHave you ever wondered about\xfffethese things?\xf000븁\x0000\xfffeWelcome to Passerby Analytics HQ!\xf000븁\x0000\xfffeThis is where you can find\xfffeall the answers.\xf000븁\x0000\xfffe...You have good eyes.\xfffeEyes full of curiosity.\xf000븁\x0000\xfffe...Good! I will specially appoint you\xfffeas a statistician!\xf000븁\x0000
+\xf000Ā\x0001\x0001 was appointed\xfffeas a statistician!\xf000븁\x0000
+Statisticians have only one task!\xfffeThey conduct requested surveys.\xf000븁\x0000\xfffeFirst, you'll receive survey requests\xfffefrom me.\xf000븁\x0000\xfffeThen, with the Survey Radar, you'll\xfffechoose the survey you want to conduct.\xf000븁\x0000\xfffeThen, if you pass by a lot of people,\xfffethe radar will collect the information.\xf000븁\x0000\xfffeOf course, we've prepared compensation\xfffefor the survey.\xf000븁\x0000\xfffeStatistician \xf000Ā\x0001\x0001!\xfffeI expect you to do a great job!\xf000븁\x0000
+Statistician \xf000Ā\x0001\x0001,\xfffegood to see you!\xf000븁\x0000\xfffeAre you surveying people vigorously?\xf000븁\x0000
+You've finished all the requests.\xf000븁\x0000\xfffeFrom now on, feel free to survey\xfffewhatever you want to know!
 What would you like to do today?
 Accept a request
 Report the result
-No thanks!
+Nothing
 Check the request
-Accept a survey request, right?\xf000\xbe01\x0000\xfffeFirst, choose a survey method.
+Accept a survey request, right?\xf000븁\x0000\xfffeFirst, choose a survey method.
 Timed survey
 Head-count survey
 Cancel
-A timed survey, right?\xf000\xbe01\x0000\xfffeThis is a survey to collect data\xfffefor a specified time.\xf000\xbe01\x0000
-A head-count survey, right?\xf000\xbe01\x0000\xfffeThis is a survey to collect data for\xfffea specified number of people.\xf000\xbe01\x0000
+A timed survey, right?\xf000븁\x0000\xfffeThis is a survey to collect data\xfffefor a specified time.\xf000븁\x0000
+A head-count survey, right?\xf000븁\x0000\xfffeThis is a survey to collect data for\xfffea specified number of people.\xf000븁\x0000
 Please choose a request on which\xfffeyou are going to conduct a survey.
-OK...\xf000\xbe01\x0000\xfffePlease come back again\xfffeif you want to accept a request.
-You've already accepted a survey\xffferequest!\xf000\xbe01\x0000\xfffeTry your best to conduct the survey.\xfffeOr do you want to cancel the survey?
-You'll need to resurvey for the data\xfffeyou've already collected...\xf000\xbe01\x0000\xfffeAre you sure you want to cancel?
-OK...\xf000\xbe01\x0000\xfffePlease come back again if you\xfffewant to accept a request.
+OK...\xf000븁\x0000\xfffePlease come back again\xfffeif you want to accept a request.
+You've already accepted a survey\xffferequest!\xf000븁\x0000\xfffeTry your best to conduct the survey.\xfffeOr do you want to cancel the survey?
+You'll need to resurvey for the data\xfffeyou've already collected...\xf000븁\x0000\xfffeAre you sure you want to cancel?
+OK...\xf000븁\x0000\xfffePlease come back again if you\xfffewant to accept a request.
 Then, please continue the survey.
 Which version is more popular?
 The first Pokémon you picked?
@@ -38,348 +38,348 @@ Favorite Pokémon type?
 Where do people prefer to live?
 About what's most important
 Favorite kinds of people?
-しょうらいに ついて
-きょうかん される うたは?
+About seasons
+About art
 Favorite music?
 About TV and movies
-If you had a time machine?
-もしも...だったら?
-Most popular game?
+Favorite time in school?
+About study
+Most popular sport?
 About a holiday
-ポケモンを どれくらい あそんでる?
+What do you want to become the most?
 Most popular Gym Leader?
 Most fun part of Pokémon?
 Cancel
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeYou need to find out which is more\xfffepopular, Pokémon Black Version\xf000\xbe00\x0000\xfffeor Pokémon White Version.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffetwo hours or more.\xf000\xbe01\x0000\xfffeI'm thinking of taking up Pokémon, too.\xfffeI want to know which one is most popular.\xf000\xbe01\x0000
-This survey is...\xfffea request from a Pokémon Professor.\xf000\xbe01\x0000\xfffeYou need to find out the most popular\xfffestarter Pokémon.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffetwo hours or more.\xf000\xbe01\x0000\xfffeHe wants to use the results\xfffefor his research.\xf000\xbe01\x0000
-This survey is...\xfffea request from a mother.\xf000\xbe01\x0000\xfffeYou need to find out how long people\xfffehave been playing the game.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffefour hours or more.\xf000\xbe01\x0000\xfffeShe wants to compare her child's game\xfffetime and the result of the survey.\xf000\xbe01\x0000
-This survey is...\xfffea request from a newspaper company.\xf000\xbe01\x0000\xfffeYou need to find out which are the\xfffemajority, men or women.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffefour hours or more.\xf000\xbe01\x0000\xfffeThey want to publish the result\xfffein tomorrow's morning paper.\xf000\xbe01\x0000
-This survey is...\xfffea request from a magazine company.\xf000\xbe01\x0000\xfffeYou need to find out the most\xfffecommon job.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffefour hours or more.\xf000\xbe01\x0000\xfffeThey want to use the result for their\xfffefeature article.\xf000\xbe01\x0000
-This survey is...\xfffea request from a leisure company.\xf000\xbe01\x0000\xfffeYou need to find out the most\xfffecommon hobby.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffefour hours or more.\xf000\xbe01\x0000\xfffeThey want to use the result as a\xfffereference for their projects.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeYou need to find out which one is more\xfffepopular, battles or trades.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffeeight hours or more.\xf000\xbe01\x0000\xfffeLately, I've been addicted to Pokémon,\xfffeso I want to know how other people play.\xf000\xbe01\x0000
-This survey is...\xfffea request from a girl.\xf000\xbe01\x0000\xfffeYou need to find out the most popular\xfffekind of Pokémon.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffeeight hours or more.\xf000\xbe01\x0000\xfffeShe wants to submit the result as her\xfffehomework.\xf000\xbe01\x0000
-This survey is...\xfffea request from a Trainer.\xf000\xbe01\x0000\xfffeYou need to find out the most popular\xfffePokémon type.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffeeight hours or more.\xf000\xbe01\x0000\xfffeHe wants to use the result to plan\xfffehis battles.\xf000\xbe01\x0000
-This survey is...\xfffea request from a real-estate firm.\xf000\xbe01\x0000\xfffeYou need to find out where people want\xfffeto live, in a city or in the countryside.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffeeight hours or more.\xf000\xbe01\x0000\xfffeThey want to use the result for\xfffetheir business.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeYou need to find out which one people\xfffewant more, time or money,\xf000\xbe00\x0000\xfffeand what's most important to people.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe12 hours or more.\xf000\xbe01\x0000\xfffeI'd like to know...\xfffewhat people cherish the most...\xf000\xbe01\x0000\xfffeWhat? Why?\xfffeI cannot tell you the reason.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeYou need to find out which kind of person\xfffeis more popular, a smart person or an\xf000\xbe00\x0000\xfffeathletic person...\xf000\xbe01\x0000\xfffeand which one people desire more,\xfffeappearance or substance.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe12 hours or more.\xf000\xbe01\x0000\xfffeIt's a survey about the most popular\xfffetype of person.\xf000\xbe01\x0000\xfffeWhat? Did something happen?\xfffeNo, nothing... Never mind!\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeYou need to find out people's favorite\xfffeseason and favorite food.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe12 hours or more.\xf000\xbe01\x0000\xfffeDon't you want to offer delicious food\xfffedepending on the season?\xf000\xbe01\x0000\xfffeTo whom? That's a secret!\xf000\xbe01\x0000
-This survey is...\xfffea request from an artist.\xf000\xbe01\x0000\xfffeYou need to find out people's favorite\xfffecolors and favorite music.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe12 hours or more.\xf000\xbe01\x0000\xfffeHe wants to use the result for his art.\xf000\xbe01\x0000
-This survey is...\xfffea request from a popular singer.\xf000\xbe01\x0000\xfffeYou need to find out\xfffepeople's favorite music.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe16 hours or more.\xf000\xbe01\x0000\xfffeShe wants to use the result\xfffefor her new song.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeYou need to find out people's favorite\xfffeTV programs and movies.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe16 hours or more.\xf000\xbe01\x0000\xfffeI want to have a lot of things to talk\xfffeabout. So I need to know the trends!\xf000\xbe01\x0000
-This survey is...\xfffea request from a student.\xf000\xbe01\x0000\xfffeYou need to find out\xfffepeople's favorite time in school.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe16 hours or more.\xf000\xbe01\x0000\xfffeHe wants to use the result\xfffefor his school life.\xf000\xbe01\x0000
-This survey is...\xfffea request from a teacher.\xf000\xbe01\x0000\xfffeYou need to find out people's favorite\xfffesubjects and weakest subjects.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe16 hours or more.\xf000\xbe01\x0000\xfffeShe wants to use the result\xfffefor her classes.\xf000\xbe01\x0000
-This survey is...\xfffea request from an athlete.\xf000\xbe01\x0000\xfffeYou need to find out\xfffethe most popular sport.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe20 hours or more.\xf000\xbe01\x0000\xfffeHe wants to use the result\xfffefor his games.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeYou need to find out the most popular\xfffeway to spend a holiday, and the most\xf000\xbe00\x0000\xfffepopular fun place.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe20 hours or more.\xf000\xbe01\x0000\xfffeWhy? Well, to tell you the truth,\xfffeI have a date next weekend.\xf000\xbe01\x0000\xfffeSo, I want to check out some\xfffetrendy places.\xf000\xbe01\x0000
-This survey is...\xfffea request from a Pokémon fan.\xf000\xbe01\x0000\xfffeYou need to find out what people most\xfffewant to become.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe20 hours or more.\xf000\xbe01\x0000\xfffeHe wants to use the result\xfffeto promote Pokémon.\xf000\xbe01\x0000
-This survey is...\xfffea request from a Gym Leader.\xf000\xbe01\x0000\xfffeYou need to find out who is the most\xfffepopular Gym Leader.\xf000\xbe01\x0000\xfffeThe survey must be conducted for\xfffe24 hours or more.\xf000\xbe01\x0000\xfffeHe wants to use the result\xfffefor his Gym operation.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeYou need to find out the most fun part\xfffeof Pokémon.\xf000\xbe01\x0000\xfffeThe survey must be conducted\xfffefor 24 hours or more.\xf000\xbe01\x0000\xfffe...There is a lot going on for grown-ups.\xf000\xbe01\x0000\xfffeFrom now on, I will live a life dedicated\xfffeto Pokémon.\xf000\xbe01\x0000\xfffeI will research the appeal of Pokémon!\xf000\xbe01\x0000
-...Oh?\xf000\xbe01\x0000\xfffeYou've passed by so many people already!\xfffeI knew you could do it, \xf000\x0100\x0001\x0001.\xf000\xbe01\x0000\xfffeI think the current data is enough.\xfffePlease report the survey results to me!\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffefive or more people to find out which is\xf000\xbe00\x0000\xfffemore popular, Pokémon Black Version\xf000\xbe00\x0000\xfffeor Pokémon White Version.\xf000\xbe01\x0000\xfffeI'm thinking of taking up Pokémon, too.\xfffeI want to know which one is most popular.\xf000\xbe01\x0000
-This survey is...\xfffea request from a Pokémon Professor.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffefive or more people to find out\xf000\xbe00\x0000\xfffethe most-picked starter Pokémon.\xf000\xbe01\x0000\xfffeHe wants to use the result of the survey\xfffefor his research.\xf000\xbe01\x0000
-This survey is...\xfffea request from a mother.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffeten or more people to find out\xf000\xbe00\x0000\xfffehow long people have spent playing\xf000\xbe00\x0000\xfffethe game.\xf000\xbe01\x0000\xfffeShe wants to compare her child's\xfffegame time with the result of the survey.\xf000\xbe01\x0000
-This survey is...\xfffea request from a newspaper company.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffeten or more people to find out\xf000\xbe00\x0000\xfffewhich are the majority,\xf000\xbe00\x0000\xfffemen or women.\xf000\xbe01\x0000\xfffeThey want to publish the result\xfffein tomorrow's morning paper.\xf000\xbe01\x0000
-This survey is...\xfffea request from a magazine company.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffeten or more people to find out\xf000\xbe00\x0000\xfffethe most common job.\xf000\xbe01\x0000\xfffeThey want to use the result\xfffefor their feature article.\xf000\xbe01\x0000
-This survey is...\xfffea request from a leisure company.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffeten or more people to find out\xf000\xbe00\x0000\xfffethe most common hobby.\xf000\xbe01\x0000\xfffeThey want to use the result\xfffeas a reference for their projects.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe20 or more people to find out\xf000\xbe00\x0000\xfffewhich one is more popular,\xf000\xbe00\x0000\xfffebattles or trades.\xf000\xbe01\x0000\xfffeLately, I've been addicted to Pokémon,\xfffeand I want to know how people play it.\xf000\xbe01\x0000
-This survey is...\xfffea request from a girl.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe20 or more people to find out\xf000\xbe00\x0000\xfffethe most popular kind of Pokémon.\xf000\xbe01\x0000\xfffeShe wants to submit the result\xfffeas her homework.\xf000\xbe01\x0000
-This survey is...\xfffea request from a Trainer.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe20 or more people to find out\xf000\xbe00\x0000\xfffethe most popular Pokémon type.\xf000\xbe01\x0000\xfffeHe wants to use the result\xfffefor his battles.\xf000\xbe01\x0000
-This survey is...\xfffea request from a real-estate firm.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe20 or more people to find out\xf000\xbe00\x0000\xfffewhere people want to live,\xf000\xbe00\x0000\xfffein a city or in the countryside.\xf000\xbe01\x0000\xfffeThey want to use the result\xfffefor their business.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe30 or more people to find out\xf000\xbe00\x0000\xfffewhich one people want, time or money,\xf000\xbe00\x0000\xfffeand what's most important to people.\xf000\xbe01\x0000\xfffeI'd like to know... \xfffewhat people cherish the most...\xf000\xbe01\x0000\xfffeWhat? Why?\xfffeI cannot tell you the reason.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe30 or more people to find out\xf000\xbe00\x0000\xfffewhich person is more popular, \xf000\xbe00\x0000\xfffea smart person or an athletic person...\xf000\xbe01\x0000\xfffeand which one people desire more,\xfffeappearance or substance.\xf000\xbe01\x0000\xfffeIt's a survey about the most popular\xfffekind of person.\xf000\xbe01\x0000\xfffeWhat?\xfffeDid something happen?\xf000\xbe01\x0000\xfffeNo, nothing...\xfffeNever mind!\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe30 or more people to find out\xf000\xbe00\x0000\xfffepeople's favorite seasons and\xf000\xbe00\x0000\xfffefavorite food.\xf000\xbe01\x0000\xfffeDon't you want to offer delicious food\xfffedepending on the season?\xf000\xbe01\x0000\xfffeTo whom?\xfffeThat's a secret!\xf000\xbe01\x0000
-This survey is...\xfffea request from an artist.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe30 or more people to find out\xf000\xbe00\x0000\xfffepeople's favorite colors and music.\xf000\xbe01\x0000\xfffeHe wants to use the result\xfffefor his art.\xf000\xbe01\x0000
-This survey is...\xfffea request from a popular singer.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe40 or more people to find out\xf000\xbe00\x0000\xfffepeople's favorite music.\xf000\xbe01\x0000\xfffeShe wants to use the result\xfffefor her new song.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe40 or more people to find out\xf000\xbe00\x0000\xfffepeople's favorite TV programs\xf000\xbe00\x0000\xfffeand movies.\xf000\xbe01\x0000\xfffeI want to have a lot of things to talk\xfffeabout. So I need to know the trends!\xf000\xbe01\x0000
-This survey is...\xfffea request from a student.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe40 or more people to find out\xf000\xbe00\x0000\xfffepeople's favorite time in school.\xf000\xbe01\x0000\xfffeHe wants to use the result\xfffefor his school life.\xf000\xbe01\x0000
-This survey is...\xfffea request from a teacher.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe40 or more people to find out\xf000\xbe00\x0000\xfffepeople's favorite subjects\xf000\xbe00\x0000\xfffeand weakest subjects.\xf000\xbe01\x0000\xfffeShe wants to use the result\xfffefor her classes.\xf000\xbe01\x0000
-This survey is...\xfffea request from an athlete.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe50 or more people to find out\xf000\xbe00\x0000\xfffethe most popular sport.\xf000\xbe01\x0000\xfffeHe wants to use the result\xfffefor his games.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe50 or more people to find out\xf000\xbe00\x0000\xfffethe most popular way to spend a holiday,\xf000\xbe00\x0000\xfffeand the most popular fun place.\xf000\xbe01\x0000\xfffeTo tell you the truth, \xfffeI have a date next weekend.\xf000\xbe01\x0000\xfffeSo, I want to check out\xfffetrendy places.\xf000\xbe01\x0000
-This survey is...\xfffea request from a Pokémon fan.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe50 or more people to find out\xf000\xbe00\x0000\xfffewhat people want to become the most.\xf000\xbe01\x0000\xfffeHe wants to use the result\xfffeto promote Pokémon.\xf000\xbe01\x0000
-This survey is...\xfffea request from a Gym Leader.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe100 or more people to find out\xf000\xbe00\x0000\xfffethe most popular Gym Leader.\xf000\xbe01\x0000\xfffeHe wants to use the result\xfffefor his Gym operation.\xf000\xbe01\x0000
-This survey is...\xfffea request from me.\xf000\xbe01\x0000\xfffeThis survey requires you to pass by\xfffe100 or more people to find out\xf000\xbe00\x0000\xfffethe most fun part of Pokémon.\xf000\xbe01\x0000\xfffe...There is a lot going on for grown-ups.\xf000\xbe01\x0000\xfffeFrom now on, I will live a life dedicated\xfffeto Pokémon.\xf000\xbe01\x0000\xfffeI will research the appeal of Pokémon!\xf000\xbe01\x0000
-...Oh?\xf000\xbe01\x0000\xfffeYou've already got the data\xfffefor this survey!\xf000\xbe01\x0000\xfffeI knew you could do it, \xf000\x0100\x0001\x0001.\xfffePlease report the survey result to me!\xf000\xbe01\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeYou need to find out which is more\xfffepopular, Pokémon Black Version\xf000븀\x0000\xfffeor Pokémon White Version.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffetwo hours or more.\xf000븁\x0000\xfffeI'm thinking of taking up Pokémon, too.\xfffeI want to know which one is most popular.\xf000븁\x0000
+This survey is...\xfffea request from a Pokémon Professor.\xf000븁\x0000\xfffeYou need to find out the most popular\xfffestarter Pokémon.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffetwo hours or more.\xf000븁\x0000\xfffeHe wants to use the results\xfffefor his research.\xf000븁\x0000
+This survey is...\xfffea request from a mother.\xf000븁\x0000\xfffeYou need to find out how long people\xfffehave been playing the game.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffefour hours or more.\xf000븁\x0000\xfffeShe wants to compare her child's game\xfffetime and the result of the survey.\xf000븁\x0000
+This survey is...\xfffea request from a newspaper company.\xf000븁\x0000\xfffeYou need to find out which are the\xfffemajority, men or women.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffefour hours or more.\xf000븁\x0000\xfffeThey want to publish the result\xfffein tomorrow's morning paper.\xf000븁\x0000
+This survey is...\xfffea request from a magazine company.\xf000븁\x0000\xfffeYou need to find out the most\xfffecommon job.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffefour hours or more.\xf000븁\x0000\xfffeThey want to use the result for their\xfffefeature article.\xf000븁\x0000
+This survey is...\xfffea request from a leisure company.\xf000븁\x0000\xfffeYou need to find out the most\xfffecommon hobby.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffefour hours or more.\xf000븁\x0000\xfffeThey want to use the result as a\xfffereference for their projects.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeYou need to find out which one is more\xfffepopular, battles or trades.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffeeight hours or more.\xf000븁\x0000\xfffeLately, I've been addicted to Pokémon,\xfffeso I want to know how other people play.\xf000븁\x0000
+This survey is...\xfffea request from a girl.\xf000븁\x0000\xfffeYou need to find out the most popular\xfffekind of Pokémon.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffeeight hours or more.\xf000븁\x0000\xfffeShe wants to submit the result as her\xfffehomework.\xf000븁\x0000
+This survey is...\xfffea request from a Trainer.\xf000븁\x0000\xfffeYou need to find out the most popular\xfffePokémon type.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffeeight hours or more.\xf000븁\x0000\xfffeHe wants to use the result to plan\xfffehis battles.\xf000븁\x0000
+This survey is...\xfffea request from a real-estate firm.\xf000븁\x0000\xfffeYou need to find out where people want\xfffeto live, in a city or in the countryside.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffeeight hours or more.\xf000븁\x0000\xfffeThey want to use the result for\xfffetheir business.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeYou need to find out which one people\xfffewant more, time or money,\xf000븀\x0000\xfffeand what's most important to people.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe12 hours or more.\xf000븁\x0000\xfffeI'd like to know...\xfffewhat people cherish the most...\xf000븁\x0000\xfffeWhat? Why?\xfffeI cannot tell you the reason.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeYou need to find out which kind of person\xfffeis more popular, a smart person or an\xf000븀\x0000\xfffeathletic person...\xf000븁\x0000\xfffeand which one people desire more,\xfffeappearance or substance.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe12 hours or more.\xf000븁\x0000\xfffeIt's a survey about the most popular\xfffetype of person.\xf000븁\x0000\xfffeWhat? Did something happen?\xfffeNo, nothing... Never mind!\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeYou need to find out people's favorite\xfffeseason and favorite food.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe12 hours or more.\xf000븁\x0000\xfffeDon't you want to offer delicious food\xfffedepending on the season?\xf000븁\x0000\xfffeTo whom? That's a secret!\xf000븁\x0000
+This survey is...\xfffea request from an artist.\xf000븁\x0000\xfffeYou need to find out people's favorite\xfffecolors and favorite music.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe12 hours or more.\xf000븁\x0000\xfffeHe wants to use the result for his art.\xf000븁\x0000
+This survey is...\xfffea request from a popular singer.\xf000븁\x0000\xfffeYou need to find out\xfffepeople's favorite music.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe16 hours or more.\xf000븁\x0000\xfffeShe wants to use the result\xfffefor her new song.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeYou need to find out people's favorite\xfffeTV programs and movies.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe16 hours or more.\xf000븁\x0000\xfffeI want to have a lot of things to talk\xfffeabout. So I need to know the trends!\xf000븁\x0000
+This survey is...\xfffea request from a student.\xf000븁\x0000\xfffeYou need to find out\xfffepeople's favorite time in school.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe16 hours or more.\xf000븁\x0000\xfffeHe wants to use the result\xfffefor his school life.\xf000븁\x0000
+This survey is...\xfffea request from a teacher.\xf000븁\x0000\xfffeYou need to find out people's favorite\xfffesubjects and weakest subjects.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe16 hours or more.\xf000븁\x0000\xfffeShe wants to use the result\xfffefor her classes.\xf000븁\x0000
+This survey is...\xfffea request from an athlete.\xf000븁\x0000\xfffeYou need to find out\xfffethe most popular sport.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe20 hours or more.\xf000븁\x0000\xfffeHe wants to use the result\xfffefor his games.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeYou need to find out the most popular\xfffeway to spend a holiday, and the most\xf000븀\x0000\xfffepopular fun place.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe20 hours or more.\xf000븁\x0000\xfffeWhy? Well, to tell you the truth,\xfffeI have a date next weekend.\xf000븁\x0000\xfffeSo, I want to check out some\xfffetrendy places.\xf000븁\x0000
+This survey is...\xfffea request from a Pokémon fan.\xf000븁\x0000\xfffeYou need to find out what people most\xfffewant to become.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe20 hours or more.\xf000븁\x0000\xfffeHe wants to use the result\xfffeto promote Pokémon.\xf000븁\x0000
+This survey is...\xfffea request from a Gym Leader.\xf000븁\x0000\xfffeYou need to find out who is the most\xfffepopular Gym Leader.\xf000븁\x0000\xfffeThe survey must be conducted for\xfffe24 hours or more.\xf000븁\x0000\xfffeHe wants to use the result\xfffefor his Gym operation.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeYou need to find out the most fun part\xfffeof Pokémon.\xf000븁\x0000\xfffeThe survey must be conducted\xfffefor 24 hours or more.\xf000븁\x0000\xfffe...There is a lot going on for grown-ups.\xf000븁\x0000\xfffeFrom now on, I will live a life dedicated\xfffeto Pokémon.\xf000븁\x0000\xfffeI will research the appeal of Pokémon!\xf000븁\x0000
+...Oh?\xf000븁\x0000\xfffeYou've passed by so many people already!\xfffeI knew you could do it, \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeI think the current data is enough.\xfffePlease report the survey results to me!\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffefive or more people to find out which is\xf000븀\x0000\xfffemore popular, Pokémon Black Version\xf000븀\x0000\xfffeor Pokémon White Version.\xf000븁\x0000\xfffeI'm thinking of taking up Pokémon, too.\xfffeI want to know which one is most popular.\xf000븁\x0000
+This survey is...\xfffea request from a Pokémon Professor.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffefive or more people to find out\xf000븀\x0000\xfffethe most-picked starter Pokémon.\xf000븁\x0000\xfffeHe wants to use the result of the survey\xfffefor his research.\xf000븁\x0000
+This survey is...\xfffea request from a mother.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffeten or more people to find out\xf000븀\x0000\xfffehow long people have spent playing\xf000븀\x0000\xfffethe game.\xf000븁\x0000\xfffeShe wants to compare her child's\xfffegame time with the result of the survey.\xf000븁\x0000
+This survey is...\xfffea request from a newspaper company.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffeten or more people to find out\xf000븀\x0000\xfffewhich are the majority,\xf000븀\x0000\xfffemen or women.\xf000븁\x0000\xfffeThey want to publish the result\xfffein tomorrow's morning paper.\xf000븁\x0000
+This survey is...\xfffea request from a magazine company.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffeten or more people to find out\xf000븀\x0000\xfffethe most common job.\xf000븁\x0000\xfffeThey want to use the result\xfffefor their feature article.\xf000븁\x0000
+This survey is...\xfffea request from a leisure company.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffeten or more people to find out\xf000븀\x0000\xfffethe most common hobby.\xf000븁\x0000\xfffeThey want to use the result\xfffeas a reference for their projects.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe20 or more people to find out\xf000븀\x0000\xfffewhich one is more popular,\xf000븀\x0000\xfffebattles or trades.\xf000븁\x0000\xfffeLately, I've been addicted to Pokémon,\xfffeand I want to know how people play it.\xf000븁\x0000
+This survey is...\xfffea request from a girl.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe20 or more people to find out\xf000븀\x0000\xfffethe most popular kind of Pokémon.\xf000븁\x0000\xfffeShe wants to submit the result\xfffeas her homework.\xf000븁\x0000
+This survey is...\xfffea request from a Trainer.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe20 or more people to find out\xf000븀\x0000\xfffethe most popular Pokémon type.\xf000븁\x0000\xfffeHe wants to use the result\xfffefor his battles.\xf000븁\x0000
+This survey is...\xfffea request from a real-estate firm.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe20 or more people to find out\xf000븀\x0000\xfffewhere people want to live,\xf000븀\x0000\xfffein a city or in the countryside.\xf000븁\x0000\xfffeThey want to use the result\xfffefor their business.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe30 or more people to find out\xf000븀\x0000\xfffewhich one people want, time or money,\xf000븀\x0000\xfffeand what's most important to people.\xf000븁\x0000\xfffeI'd like to know... \xfffewhat people cherish the most...\xf000븁\x0000\xfffeWhat? Why?\xfffeI cannot tell you the reason.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe30 or more people to find out\xf000븀\x0000\xfffewhich person is more popular, \xf000븀\x0000\xfffea smart person or an athletic person...\xf000븁\x0000\xfffeand which one people desire more,\xfffeappearance or substance.\xf000븁\x0000\xfffeIt's a survey about the most popular\xfffekind of person.\xf000븁\x0000\xfffeWhat?\xfffeDid something happen?\xf000븁\x0000\xfffeNo, nothing...\xfffeNever mind!\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe30 or more people to find out\xf000븀\x0000\xfffepeople's favorite seasons and\xf000븀\x0000\xfffefavorite food.\xf000븁\x0000\xfffeDon't you want to offer delicious food\xfffedepending on the season?\xf000븁\x0000\xfffeTo whom?\xfffeThat's a secret!\xf000븁\x0000
+This survey is...\xfffea request from an artist.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe30 or more people to find out\xf000븀\x0000\xfffepeople's favorite colors and music.\xf000븁\x0000\xfffeHe wants to use the result\xfffefor his art.\xf000븁\x0000
+This survey is...\xfffea request from a popular singer.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe40 or more people to find out\xf000븀\x0000\xfffepeople's favorite music.\xf000븁\x0000\xfffeShe wants to use the result\xfffefor her new song.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe40 or more people to find out\xf000븀\x0000\xfffepeople's favorite TV programs\xf000븀\x0000\xfffeand movies.\xf000븁\x0000\xfffeI want to have a lot of things to talk\xfffeabout. So I need to know the trends!\xf000븁\x0000
+This survey is...\xfffea request from a student.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe40 or more people to find out\xf000븀\x0000\xfffepeople's favorite time in school.\xf000븁\x0000\xfffeHe wants to use the result\xfffefor his school life.\xf000븁\x0000
+This survey is...\xfffea request from a teacher.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe40 or more people to find out\xf000븀\x0000\xfffepeople's favorite subjects\xf000븀\x0000\xfffeand weakest subjects.\xf000븁\x0000\xfffeShe wants to use the result\xfffefor her classes.\xf000븁\x0000
+This survey is...\xfffea request from an athlete.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe50 or more people to find out\xf000븀\x0000\xfffethe most popular sport.\xf000븁\x0000\xfffeHe wants to use the result\xfffefor his games.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe50 or more people to find out\xf000븀\x0000\xfffethe most popular way to spend a holiday,\xf000븀\x0000\xfffeand the most popular fun place.\xf000븁\x0000\xfffeTo tell you the truth, \xfffeI have a date next weekend.\xf000븁\x0000\xfffeSo, I want to check out\xfffetrendy places.\xf000븁\x0000
+This survey is...\xfffea request from a Pokémon fan.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe50 or more people to find out\xf000븀\x0000\xfffewhat people want to become the most.\xf000븁\x0000\xfffeHe wants to use the result\xfffeto promote Pokémon.\xf000븁\x0000
+This survey is...\xfffea request from a Gym Leader.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe100 or more people to find out\xf000븀\x0000\xfffethe most popular Gym Leader.\xf000븁\x0000\xfffeHe wants to use the result\xfffefor his Gym operation.\xf000븁\x0000
+This survey is...\xfffea request from me.\xf000븁\x0000\xfffeThis survey requires you to pass by\xfffe100 or more people to find out\xf000븀\x0000\xfffethe most fun part of Pokémon.\xf000븁\x0000\xfffe...There is a lot going on for grown-ups.\xf000븁\x0000\xfffeFrom now on, I will live a life dedicated\xfffeto Pokémon.\xf000븁\x0000\xfffeI will research the appeal of Pokémon!\xf000븁\x0000
+...Oh?\xf000븁\x0000\xfffeYou've already got the data\xfffefor this survey!\xf000븁\x0000\xfffeI knew you could do it, \xf000Ā\x0001\x0001.\xfffePlease report the survey result to me!\xf000븁\x0000
 Will you accept this survey request?
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"Which version is more popular?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"The first Pokémon\xf000\xbe00\x0000\xfffeyou picked?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"How long have you been playing?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"More men or more women?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"The most common job?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"The most common hobby?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"More popular,\xf000\xbe00\x0000\xfffebattles or trades?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"Favorite kind of Pokémon?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"Favorite Pokémon type?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"Where do people prefer to live?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"About what's most important."\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"Favorite kinds of people?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"About seasons."\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"About art."\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"Favorite music?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"About TV and movies."\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"Favorite time in school?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"About study."\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"Most popular sport?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"About a holiday."\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"What do you want to\xf000\xbe00\x0000\xfffebecome the most?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"Most popular\xf000\xbe00\x0000\xfffeGym Leader?"\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffeaccepted the survey request\xf000\xbe00\x0000\xfffe"Most fun part of Pokémon?"\xf000\xbe01\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“Which version is more popular?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“The first Pokémon\xf000븀\x0000\xfffeyou picked?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“How long have you been playing?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“More men or more women?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“The most common job?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“The most common hobby?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“More popular,\xf000븀\x0000\xfffebattles or trades?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“Favorite kind of Pokémon?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“Favorite Pokémon type?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“Where do people prefer to live?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“About what's most important."\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“Favorite kinds of people?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“About seasons."\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“About art."\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“Favorite music?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“About TV and movies."\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“Favorite time in school?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“About study."\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“Most popular sport?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“About a holiday."\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“What do you want to\xf000븀\x0000\xfffebecome the most?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“Most popular\xf000븀\x0000\xfffeGym Leader?"\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffeaccepted the survey request\xf000븀\x0000\xfffe“Most fun part of Pokémon?"\xf000븁\x0000
 Then, when you finish the survey,\xfffeplease come and report it to me.
-Then, when you finish the survey,\xfffeplease come and report it to me.\xf000\xbe01\x0000
+Then, when you finish the survey,\xfffeplease come and report it to me.\xf000븁\x0000
 Accept another request?
-You have finished the survey!\xfffePlease report the survey result.\xf000\xbe01\x0000
-You haven't finished the survey,\xfffe"Which version is more popular?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"The first Pokémon you picked?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"How long have you been playing?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"More men or more women?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"The most common job?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"The most common hobby?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"More popular, battles or trades?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite kind of Pokémon?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite Pokémon type?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Where do people prefer to live?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About what's most important."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite kinds of people?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About seasons."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About art."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite music?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About TV and movies."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite time in school?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About study."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most popular sport?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About a holiday."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"What do you want\xf000\xbe00\x0000\xfffeto become the most?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most popular\xf000\xbe00\x0000\xfffeGym Leader?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most fun part of Pokémon?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000\x0201\x0001\x0002.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Which version is more popular?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"The first Pokémon you picked?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"How long have you been playing?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"More men or more women?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most common job?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most common hobby?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"More popular, battles or trades?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite kind of Pokémon?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite Pokémon type?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Where do people prefer to live?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About what's most important."\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite kinds of people?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About seasons."\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About art."\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite music?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About TV and movies."\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite time in school?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About study."\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most popular sport?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About a holiday."\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"What do you want\xf000\xbe00\x0000\xfffeto become the most?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most popular\xf000\xbe00\x0000\xfffeGym Leader?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most fun part of Pokémon?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Which version is more popular?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"The first Pokémon\xf000\xbe00\x0000\xfffeyou picked?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"How long have you been playing?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"More men or more women?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"The most common job?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"The most common hobby?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"More popular, battles or trades?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite kind of Pokémon?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite Pokémon type?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Where do people prefer to live?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About what's most important."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite kinds of people?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About seasons."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About art."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite music?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About TV and movies."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Favorite time in school?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About study."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most popular sport?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"About a holiday."\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"What do you want\xf000\xbe00\x0000\xfffeto become the most?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most popular\xf000\xbe00\x0000\xfffeGym Leader?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You haven't finished the survey,\xfffe"Most fun part of Pokémon?"\xf000\xbe01\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000\x0202\x0001\x0001.\xf000\xbe01\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
-You don't seem to have accepted\xfffea survey request.\xf000\xbe01\x0000\xfffePlease come back if you want to\xfffeaccept a request.
-Reported the result of the survey\xfffe"Which version is more popular?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"The first Pokémon you picked?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"How long have you been playing?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"More men or more women?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Most common job?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Most common hobby?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"More popular, battles or trades?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Favorite kind of Pokémon"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Favorite Pokémon type?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Where do people prefer to live?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"About what's most important"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Favorite kinds of people?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"About seasons"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"About art"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Favorite music?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"About TV and movies"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Favorite time in school?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"About study"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Most popular sport?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"About a holiday"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"What do you want to become the most?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Most popular Gym Leader?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Reported the result of the survey\xfffe"Most fun part of Pokémon?"\xf000\xbe00\x0000\xfffeto the leader!\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeAs for Pokémon Black Version and\xfffePokémon White Version, more people have\xf000\xbe00\x0000\xfffePokémon \xf000\x0113\x0001\x0000 Version.\xf000\xbe01\x0000\xfffeThat is helpful.\xf000\xbe01\x0000\xfffeEither version seems to be fun to play.\xfffeNow, it's more difficult to choose!\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like the\xfffemost selected starter Pokémon.\xf000\xbe01\x0000\xfffeThat came as a surprise.\xfffeThat's why the survey is interesting!\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe most common playing time.\xf000\xbe01\x0000\xfffeI am happy that people enjoy the game\xfffefor long hours!\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeAs for women and men,\xfffethe majority of people who play Pokémon\xf000\xbe00\x0000\xfffeare "\xf000\x0113\x0001\x0000."\xf000\xbe01\x0000\xfffeAnyone can enjoy Pokémon!\xfffeI want everyone to enjoy it.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe most common job.\xf000\xbe01\x0000\xfffeMany different people\xfffeare playing the game.\xf000\xbe01\x0000\xfffeWhat a wonderful thing!\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe most common hobby.\xf000\xbe01\x0000\xfffeIt's great to enjoy various things.\xfffeBecause your world will be broadened.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeAs for battles and trades, more people\xfffeseem to enjoy "\xf000\x0113\x0001\x0000."\xf000\xbe01\x0000\xfffeThat is helpful.\xf000\xbe01\x0000\xfffeYou can enjoy various things.\xfffeThat's the beauty of Pokémon.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeIt looks like people prefer\xfffe"\xf000\x0113\x0001\x0000" Pokémon.\xf000\xbe01\x0000\xfffeThere are so many different Pokémon!\xfffeI want to meet lots of them.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe most popular Pokémon type.\xf000\xbe01\x0000\xfffeThere are many different Pokémon types.\xf000\xbe01\x0000\xfffeThis will be useful information\xfffefor battles!\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeAs for a city or the countryside,\xfffemore people seem to want to live in\xf000\xbe00\x0000\xfffe"\xf000\x0113\x0001\x0000."\xf000\xbe01\x0000\xfffeThere is a saying:\xfffeEvery bird finds its own nest charming.\xf000\xbe00\x0000\xfffeIt's difficult to say which one is better.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeAs for time or money, it looks like more\xfffepeople chose "\xf000\x0113\x0001\x0000."\xf000\xbe01\x0000\xfffeAnd what's most important to people\xfffeseems to be "\xf000\x0113\x0001\x0001."\xf000\xbe01\x0000\xfffeThat is helpful.\xf000\xbe01\x0000\xfffeI don't want to lose sight of\xfffewhat is important for myself.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeAs for a smart or an athletic person,\xfffemore people chose "\xf000\x0113\x0001\x0000."\xf000\xbe01\x0000\xfffeAs for appearance or substance,\xfffemore people chose "\xf000\x0113\x0001\x0001."\xf000\xbe01\x0000\xfffeThe most popular type of person is\xfffe"\xf000\x0113\x0001\x0002."\xf000\xbe01\x0000\xfffeThat is helpful.\xf000\xbe01\x0000\xfffeDifferent people are charmed by\xfffedifferent qualities.\xf000\xbe01\x0000\xfffeWhy don't people notice\xfffemy charms...?\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe people's favorite season.\xf000\xbe01\x0000\xfffeThe people's favorite food seems to be\xfffe"\xf000\x0113\x0001\x0001."\xf000\xbe01\x0000\xfffeIt was helpful.\xf000\xbe01\x0000\xfffeDelicious food varies seasonally.\xfffeTaste the difference!\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe people's favorite color.\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0001" looks like\xfffethe people's favorite music.\xf000\xbe01\x0000\xfffePopular things are not necessarily good.\xfffeWe should value what we love.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe people's favorite music.\xf000\xbe01\x0000\xfffeIt may be a good idea\xfffeto relax and listen to music.\xf000\xbe01\x0000\xfffeI will make use of the result\xfffefor my life.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe people's favorite kind of TV program.\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0001" looks like\xfffethe people's favorite kind of movie.\xf000\xbe01\x0000\xfffeThat is helpful.\xf000\xbe01\x0000\xfffeThat should prevent me from\xffferunning out of conversation topics.\xf000\xbe01\x0000\xfffeI look forward to my next date.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe people's favorite time in school.\xf000\xbe01\x0000\xfffeSchool... It brings back memories.\xf000\xbe01\x0000\xfffeIn the old days,\xfffejust being in school was fun.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe people's favorite subject.\xf000\xbe01\x0000\xfffeAnd, "\xf000\x0113\x0001\x0001" looks like\xfffethe people's weakest subject.\xf000\xbe01\x0000\xfffeTo have a balanced life, play hard and\xfffestudy hard.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeIt looks like the most popular sport is\xfffe"\xf000\x0113\x0001\x0000."\xf000\xbe01\x0000\xfffeExercise is also important.\xf000\xbe01\x0000\xfffeThere is nothing more valuable\xfffethan good health.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffe"\xf000\x0113\x0001\x0000" looks like\xfffethe most popular way of\xf000\xbe00\x0000\xfffespending a holiday.\xf000\xbe01\x0000\xfffeAnd, "\xf000\x0113\x0001\x0001" looks like\xfffethe most popular fun place.\xf000\xbe01\x0000\xfffeThat is helpful.\xfffeThis will make my date special.\xf000\xbe01\x0000\xfffeWith who? That's a secret!\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeIt looks like people want to become a\xfffe"\xf000\x0113\x0001\x0000" the most.\xf000\xbe01\x0000\xfffeIt's not bad to long to be something,\xfffebut first we should have confidence\xf000\xbe00\x0000\xfffein ourselves.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeIt looks like the most popular Gym Leader\xfffeis "\xf000\x0113\x0001\x0000."\xf000\xbe01\x0000\xfffeGym Leaders are icons for children.\xfffeI think all Leaders are attractive.\xf000\xbe01\x0000
-Hmm... I see...\xf000\xbe01\x0000\xfffeIt looks like the most fun part\xfffeof Pokémon is "\xf000\x0113\x0001\x0000."\xf000\xbe01\x0000\xfffeThat is helpful.\xf000\xbe01\x0000\xfffeThere are many ways to enjoy Pokémon.\xfffeSo you can enjoy Pokémon indefinitely!\xf000\xbe01\x0000
-It's an excellent survey!\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0001, you've come up to\xfffemy expectation.\xf000\xbe01\x0000\xfffeThis is the compensation for the survey.\xfffePlease accept this.\xf000\xbe01\x0000
-Your great work surprises me every time.\xf000\xbe01\x0000\xfffeAll right! From today, you are a\xfffe"B-rank statistician"!\xf000\xbe01\x0000
-Your great work surprises me every time.\xf000\xbe01\x0000\xfffeAll right! From today, you are an\xfffe"A-rank statistician"!\xf000\xbe01\x0000
-Your great work surprises me every time.\xf000\xbe01\x0000\xfffeAll right! From today, you are an\xfffe"S-rank statistician"!\xf000\xbe01\x0000
-Your great work surprises me every time.\xf000\xbe01\x0000\xfffeAll right! From today, you are an\xfffe"S+ rank statistician"!\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffewas appointed as a\xf000\xbe00\x0000\xfffe"B-rank statistician"!\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffewas appointed as an\xf000\xbe00\x0000\xfffe"A-rank statistician"!\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffewas appointed as an\xf000\xbe00\x0000\xfffe"S-rank statistician"!\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001\xfffewas appointed as an\xf000\xbe00\x0000\xfffe"S+ rank statistician"!\xf000\xbe01\x0000
-You'll become a "B-rank statistician"\xfffeif you complete a requested survey\xf000\xbe00\x0000\xfffethis many more times: \xf000\x0201\x0001\x0001.\xf000\xbe00\x0000\xfffeKeep it up!\xf000\xbe01\x0000
-You'll become an "A-rank statistician"\xfffeif you complete a requested survey\xf000\xbe00\x0000\xfffethis many more times: \xf000\x0201\x0001\x0001.\xf000\xbe00\x0000\xfffeKeep it up!\xf000\xbe01\x0000
-You'll become an "S-rank statistician"\xfffeif you complete a requested survey\xf000\xbe00\x0000\xfffethis many more times: \xf000\x0201\x0001\x0001.\xf000\xbe00\x0000\xfffeKeep it up!\xf000\xbe01\x0000
-You'll become an "S+ rank statistician"\xfffeif you complete a requested survey\xf000\xbe00\x0000\xfffethis many more times: \xf000\x0201\x0001\x0001.\xf000\xbe00\x0000\xfffeKeep it up!\xf000\xbe01\x0000
-I'm expecting great work\xfffefor the next survey, too!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0001!
-This completes all the survey requests.\xfffe\xf000\x0100\x0001\x0001, well done!\xf000\xbe00\x0000\xfffeI'm incredibly moved!\xf000\xbe01\x0000\xfffeThis is a token of my appreciation.\xfffePlease accept this.\xf000\xbe01\x0000
-From now on, feel free to survey\xfffewhatever you want to know.\xf000\xbe01\x0000\xfffeI have high hopes for\xfffeyour future success!
-I see...\xf000\xbe01\x0000\xfffeI'm lonely, so\xfffeplease come visit me sometimes.
-This is Passerby Analytics HQ.\xf000\xbe01\x0000\xfffeIf you want to join us,\xfffeplease speak to the leader.
-Hi, \xf000\x0100\x0001\x0001.\xfffeAre you conducting a survey vigorously?\xf000\xbe01\x0000
-Excuse me, new statistician!\xfffePlease wait!\xf000\xbe01\x0000
-Actually, I have a favor to ask you.\xf000\xbe01\x0000\xfffeI'm asking statisticians to answer\xfffea questionnaire.\xf000\xbe01\x0000\xfffeOK, here we go!\xf000\xbe01\x0000
-I'd like to ask you to answer\xfffea questionnaire again.\xf000\xbe01\x0000\xfffeWill you?
-All right.\xf000\xbe01\x0000\xfffeIf you change your mind,\xfffeplease speak to me.
-Oh? It looks like you've answered\xfffeall the questionnaires.\xf000\xbe01\x0000\xfffeWould you like to re-answer\xfffethe questionnaires you did before?
+You have finished the survey!\xfffePlease report the survey result.\xf000븁\x0000
+You haven't finished the survey,\xfffe“Which version is more popular?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“The first Pokémon you picked?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“How long have you been playing?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“More men or more women?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“The most common job?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“The most common hobby?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“More popular, battles or trades?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite kind of Pokémon?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite Pokémon type?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Where do people prefer to live?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About what's most important."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite kinds of people?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About seasons."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About art."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite music?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About TV and movies."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite time in school?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About study."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most popular sport?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About a holiday."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“What do you want\xf000븀\x0000\xfffeto become the most?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most popular\xf000븀\x0000\xfffeGym Leader?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most fun part of Pokémon?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more hours: \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Which version is more popular?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“The first Pokémon you picked?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“How long have you been playing?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“More men or more women?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most common job?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most common hobby?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“More popular, battles or trades?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite kind of Pokémon?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite Pokémon type?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Where do people prefer to live?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About what's most important."\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite kinds of people?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About seasons."\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About art."\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite music?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About TV and movies."\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite time in school?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About study."\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most popular sport?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About a holiday."\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“What do you want\xf000븀\x0000\xfffeto become the most?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most popular\xf000븀\x0000\xfffeGym Leader?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most fun part of Pokémon?"\xf000븁\x0000\xfffeYou need to conduct the survey\xfffefor at least one person.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Which version is more popular?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“The first Pokémon\xf000븀\x0000\xfffeyou picked?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“How long have you been playing?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“More men or more women?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“The most common job?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“The most common hobby?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“More popular, battles or trades?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite kind of Pokémon?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite Pokémon type?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Where do people prefer to live?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About what's most important."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite kinds of people?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About seasons."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About art."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite music?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About TV and movies."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Favorite time in school?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About study."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most popular sport?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“About a holiday."\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“What do you want\xf000븀\x0000\xfffeto become the most?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most popular\xf000븀\x0000\xfffeGym Leader?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You haven't finished the survey,\xfffe“Most fun part of Pokémon?"\xf000븁\x0000\xfffeYou need to conduct the survey for\xfffethis many more people: \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeKeep it up and complete the survey.\xfffeOr do you want to cancel this survey?
+You don't seem to have accepted\xfffea survey request.\xf000븁\x0000\xfffePlease come back if you want to\xfffeaccept a request.
+Reported the result of the survey\xfffe“Which version is more popular?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“The first Pokémon you picked?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“How long have you been playing?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“More men or more women?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Most common job?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Most common hobby?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“More popular, battles or trades?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Favorite kind of Pokémon"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Favorite Pokémon type?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Where do people prefer to live?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“About what's most important"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Favorite kinds of people?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“About seasons"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“About art"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Favorite music?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“About TV and movies"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Favorite time in school?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“About study"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Most popular sport?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“About a holiday"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“What do you want to become the most?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Most popular Gym Leader?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Reported the result of the survey\xfffe“Most fun part of Pokémon?"\xf000븀\x0000\xfffeto the leader!\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeAs for Pokémon Black Version and\xfffePokémon White Version, more people have\xf000븀\x0000\xfffePokémon \xf000ē\x0001\x0000 Version.\xf000븁\x0000\xfffeThat is helpful.\xf000븁\x0000\xfffeEither version seems to be fun to play.\xfffeNow, it's more difficult to choose!\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like the\xfffemost selected starter Pokémon.\xf000븁\x0000\xfffeThat came as a surprise.\xfffeThat's why the survey is interesting!\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe most common playing time.\xf000븁\x0000\xfffeI am happy that people enjoy the game\xfffefor long hours!\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeAs for women and men,\xfffethe majority of people who play Pokémon\xf000븀\x0000\xfffeare “\xf000ē\x0001\x0000."\xf000븁\x0000\xfffeAnyone can enjoy Pokémon!\xfffeI want everyone to enjoy it.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe most common job.\xf000븁\x0000\xfffeMany different people\xfffeare playing the game.\xf000븁\x0000\xfffeWhat a wonderful thing!\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe most common hobby.\xf000븁\x0000\xfffeIt's great to enjoy various things.\xfffeBecause your world will be broadened.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeAs for battles and trades, more people\xfffeseem to enjoy “\xf000ē\x0001\x0000."\xf000븁\x0000\xfffeThat is helpful.\xf000븁\x0000\xfffeYou can enjoy various things.\xfffeThat's the beauty of Pokémon.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeIt looks like people prefer\xfffe“\xf000ē\x0001\x0000" Pokémon.\xf000븁\x0000\xfffeThere are so many different Pokémon!\xfffeI want to meet lots of them.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe most popular Pokémon type.\xf000븁\x0000\xfffeThere are many different Pokémon types.\xf000븁\x0000\xfffeThis will be useful information\xfffefor battles!\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeAs for a city or the countryside,\xfffemore people seem to want to live in\xf000븀\x0000\xfffe“\xf000ē\x0001\x0000."\xf000븁\x0000\xfffeThere is a saying:\xfffeEvery bird finds its own nest charming.\xf000븀\x0000\xfffeIt's difficult to say which one is better.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeAs for time or money, it looks like more\xfffepeople chose “\xf000ē\x0001\x0000."\xf000븁\x0000\xfffeAnd what's most important to people\xfffeseems to be “\xf000ē\x0001\x0001."\xf000븁\x0000\xfffeThat is helpful.\xf000븁\x0000\xfffeI don't want to lose sight of\xfffewhat is important for myself.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeAs for a smart or an athletic person,\xfffemore people chose “\xf000ē\x0001\x0000."\xf000븁\x0000\xfffeAs for appearance or substance,\xfffemore people chose “\xf000ē\x0001\x0001."\xf000븁\x0000\xfffeThe most popular type of person is\xfffe“\xf000ē\x0001\x0002."\xf000븁\x0000\xfffeThat is helpful.\xf000븁\x0000\xfffeDifferent people are charmed by\xfffedifferent qualities.\xf000븁\x0000\xfffeWhy don't people notice\xfffemy charms...?\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe people's favorite season.\xf000븁\x0000\xfffeThe people's favorite food seems to be\xfffe“\xf000ē\x0001\x0001."\xf000븁\x0000\xfffeIt was helpful.\xf000븁\x0000\xfffeDelicious food varies seasonally.\xfffeTaste the difference!\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe people's favorite color.\xf000븁\x0000\xfffe“\xf000ē\x0001\x0001" looks like\xfffethe people's favorite music.\xf000븁\x0000\xfffePopular things are not necessarily good.\xfffeWe should value what we love.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe people's favorite music.\xf000븁\x0000\xfffeIt may be a good idea\xfffeto relax and listen to music.\xf000븁\x0000\xfffeI will make use of the result\xfffefor my life.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe people's favorite kind of TV program.\xf000븁\x0000\xfffe“\xf000ē\x0001\x0001" looks like\xfffethe people's favorite kind of movie.\xf000븁\x0000\xfffeThat is helpful.\xf000븁\x0000\xfffeThat should prevent me from\xffferunning out of conversation topics.\xf000븁\x0000\xfffeI look forward to my next date.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe people's favorite time in school.\xf000븁\x0000\xfffeSchool... It brings back memories.\xf000븁\x0000\xfffeIn the old days,\xfffejust being in school was fun.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe people's favorite subject.\xf000븁\x0000\xfffeAnd, “\xf000ē\x0001\x0001" looks like\xfffethe people's weakest subject.\xf000븁\x0000\xfffeTo have a balanced life, play hard and\xfffestudy hard.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeIt looks like the most popular sport is\xfffe“\xf000ē\x0001\x0000."\xf000븁\x0000\xfffeExercise is also important.\xf000븁\x0000\xfffeThere is nothing more valuable\xfffethan good health.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffe“\xf000ē\x0001\x0000" looks like\xfffethe most popular way of\xf000븀\x0000\xfffespending a holiday.\xf000븁\x0000\xfffeAnd, “\xf000ē\x0001\x0001" looks like\xfffethe most popular fun place.\xf000븁\x0000\xfffeThat is helpful.\xfffeThis will make my date special.\xf000븁\x0000\xfffeWith who? That's a secret!\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeIt looks like people want to become a\xfffe“\xf000ē\x0001\x0000" the most.\xf000븁\x0000\xfffeIt's not bad to long to be something,\xfffebut first we should have confidence\xf000븀\x0000\xfffein ourselves.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeIt looks like the most popular Gym Leader\xfffeis “\xf000ē\x0001\x0000."\xf000븁\x0000\xfffeGym Leaders are icons for children.\xfffeI think all Leaders are attractive.\xf000븁\x0000
+Hmm... I see...\xf000븁\x0000\xfffeIt looks like the most fun part\xfffeof Pokémon is “\xf000ē\x0001\x0000."\xf000븁\x0000\xfffeThat is helpful.\xf000븁\x0000\xfffeThere are many ways to enjoy Pokémon.\xfffeSo you can enjoy Pokémon indefinitely!\xf000븁\x0000
+It's an excellent survey!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001, you've come up to\xfffemy expectation.\xf000븁\x0000\xfffeThis is the compensation for the survey.\xfffePlease accept this.\xf000븁\x0000
+Your great work surprises me every time.\xf000븁\x0000\xfffeAll right! From today, you are a\xfffe“B-rank statistician"!\xf000븁\x0000
+Your great work surprises me every time.\xf000븁\x0000\xfffeAll right! From today, you are an\xfffe“A-rank statistician"!\xf000븁\x0000
+Your great work surprises me every time.\xf000븁\x0000\xfffeAll right! From today, you are an\xfffe“S-rank statistician"!\xf000븁\x0000
+Your great work surprises me every time.\xf000븁\x0000\xfffeAll right! From today, you are an\xfffe“S+ rank statistician"!\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffewas appointed as a\xf000븀\x0000\xfffe“B-rank statistician"!\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffewas appointed as an\xf000븀\x0000\xfffe“A-rank statistician"!\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffewas appointed as an\xf000븀\x0000\xfffe“S-rank statistician"!\xf000븁\x0000
+\xf000Ā\x0001\x0001\xfffewas appointed as an\xf000븀\x0000\xfffe“S+ rank statistician"!\xf000븁\x0000
+You'll become a “B-rank statistician"\xfffeif you complete a requested survey\xf000븀\x0000\xfffethis many more times: \xf000ȁ\x0001\x0001.\xf000븀\x0000\xfffeKeep it up!\xf000븁\x0000
+You'll become an “A-rank statistician"\xfffeif you complete a requested survey\xf000븀\x0000\xfffethis many more times: \xf000ȁ\x0001\x0001.\xf000븀\x0000\xfffeKeep it up!\xf000븁\x0000
+You'll become an “S-rank statistician"\xfffeif you complete a requested survey\xf000븀\x0000\xfffethis many more times: \xf000ȁ\x0001\x0001.\xf000븀\x0000\xfffeKeep it up!\xf000븁\x0000
+You'll become an “S+ rank statistician"\xfffeif you complete a requested survey\xf000븀\x0000\xfffethis many more times: \xf000ȁ\x0001\x0001.\xf000븀\x0000\xfffeKeep it up!\xf000븁\x0000
+I'm expecting great work\xfffefor the next survey, too!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0001!
+This completes all the survey requests.\xfffe\xf000Ā\x0001\x0001, well done!\xf000븀\x0000\xfffeI'm incredibly moved!\xf000븁\x0000\xfffeThis is a token of my appreciation.\xfffePlease accept this.\xf000븁\x0000
+From now on, feel free to survey\xfffewhatever you want to know.\xf000븁\x0000\xfffeI have high hopes for\xfffeyour future success!
+I see...\xf000븁\x0000\xfffeI'm lonely, so\xfffeplease come visit me sometimes.
+This is Passerby Analytics HQ.\xf000븁\x0000\xfffeIf you want to join us,\xfffeplease speak to the leader.
+Hi, \xf000Ā\x0001\x0001.\xfffeAre you conducting a survey vigorously?\xf000븁\x0000
+Excuse me, new statistician!\xfffePlease wait!\xf000븁\x0000
+Actually, I have a favor to ask you.\xf000븁\x0000\xfffeI'm asking statisticians to answer\xfffea questionnaire.\xf000븁\x0000\xfffeOK, here we go!\xf000븁\x0000
+I'd like to ask you to answer\xfffea questionnaire again.\xf000븁\x0000\xfffeWill you?
+All right.\xf000븁\x0000\xfffeIf you change your mind,\xfffeplease speak to me.
+Oh? It looks like you've answered\xfffeall the questionnaires.\xf000븁\x0000\xfffeWould you like to re-answer\xfffethe questionnaires you did before?
 Then, will you choose a questionnaire\xfffeyou'd like to answer?
 Details about people
-Favorite Pokémon
-Everyone's Ideals
-Favorite People
-みんなの しょうらい
-Everyone's Hobbies
-もしも...だったら
-What Do You Play?
-Pokémon
-Is this questionnaire fine?
-アンケートは なんども \xfffeこたえられるから\xf000\xbe00\x0000\xfffeこたえを かえたくなったら いってね
-それじゃ はじめるわよ\xfffeこんかいの アンケートは...\xf000\xbe01\x0000\xfffe: どんなひとが いるか』に ついてよ\xf000\xbe01\x0000
-Okay, let's get started!\xfffeThis questionnaire is called...\xf000\xbe01\x0000"Favorite Pokémon"!\xf000\xbe01\x0000
-Okay, let's get started!\xfffeThis questionnaire is called...\xf000\xbe01\x0000"Everyone's Ideals"!\xf000\xbe01\x0000
-Okay, let's get started!\xfffeThis questionnaire is called...\xf000\xbe01\x0000"Favorite People"!\xf000\xbe01\x0000
-それじゃ はじめるわよ\xfffeこんかいの アンケートは...\xf000\xbe01\x0000\xfffe: みんなの しょうらい』に ついてよ\xf000\xbe01\x0000
-Okay, let's get started!\xfffeThis questionnaire is called...\xf000\xbe01\x0000"Everyone's Hobbies"!\xf000\xbe01\x0000
-それじゃ はじめるわよ\xfffeこんかいの アンケートは...\xf000\xbe01\x0000\xfffe: もしも...だったら』に ついてよ\xf000\xbe01\x0000
-Okay, let's get started!\xfffeThis questionnaire is called...\xf000\xbe01\x0000"What Do You Play?"!\xf000\xbe01\x0000
-Okay, let's get started!\xfffeThis questionnaire is called...\xf000\xbe01\x0000"Pokémon"!\xf000\xbe01\x0000
-"What's your hobby?"
-"Do you prefer to battle\xfffeor trade Pokémon?"
-"Do you prefer to live\xfffein the city or the country?"
-"Which kind of partner\xfffewould you choose?"
-: アナタは しょうらい\xfffeどんな ひとに なりたい?』
-"What's your favorite\xfffekind of music?
-: もしも タイムマシンが あったら\xfffeどの じだいに いきたい?』
-: アナタが ともだちと あそぶなら\xfffeどう あそびたい?』
-"What do you think is\xfffemost interesting about Pokémon?"
-"What's your job?"
-"What's your favorite kind of Pokémon?"
-"Which do you want?"
-"What do you look for\xfffein a partner?"
-: アナタは ゆめを おう?\xfffeそれとも げんじつを みる?』
-"What are your favorite\xfffegenre of TV programs?"
-: アナタは まほうが つかえたら\xfffeどんなことを したい?』
-"What do you do\xfffeon your days off?"
-: アナタは ポケモンを\xfffeどれくらい あそんでる?』
+Pokémon favorites
+Ideals and values
+Likable people
+Preferences
+Entertainment
+School life
+Sports and pastimes
+More about Pokémon
+Choose this questionnaire?
+You can answer the questionnaires\xfffeas many times as you want.\xf000븁\x0000\xfffeIf you want to change your answers,\xfffeplease let me know.
+Let's get started.\xfffeThis questionnaire...\xf000븁\x0000\xfffeis about\xfffe“Details about people."\xf000븁\x0000
+Let's get started.\xfffeThis questionnaire...\xf000븁\x0000\xfffeis about\xfffe“Pokémon favorites."\xf000븁\x0000
+Let's get started.\xfffeThis questionnaire...\xf000븁\x0000\xfffeis about\xfffe“Ideals and values."\xf000븁\x0000
+Let's get started.\xfffeThis questionnaire...\xf000븁\x0000\xfffeis about\xfffe“Likable people."\xf000븁\x0000
+Let's get started.\xfffeThis questionnaire...\xf000븁\x0000\xfffeis about\xfffe“Preferences."\xf000븁\x0000
+Let's get started.\xfffeThis questionnaire...\xf000븁\x0000\xfffeis about\xfffe“Entertainment."\xf000븁\x0000
+Let's get started.\xfffeThis questionnaire...\xf000븁\x0000\xfffeis about\xfffe“School life."\xf000븁\x0000
+Let's get started.\xfffeThis questionnaire...\xf000븁\x0000\xfffeis about\xfffe“Sports and pastimes."\xf000븁\x0000
+Let's get started.\xfffeThis questionnaire...\xf000븁\x0000\xfffeis about\xfffe“More about Pokémon."\xf000븁\x0000
+“What is your hobby?"
+“Which do you prefer,\xfffebattles or trades?"
+“Where do people prefer to live?"
+“Which partner would you choose?"
+“What is your favorite season?"
+“What is your favorite music?"
+“What is your favorite time\xfffein school?"
+“Where would you like to go\xfffefor fun?"
+“What do you think\xfffethe most fun part of Pokémon is?"
+“What is your job?"
+“What is your favorite kind of Pokémon?"
+“Which one do you wish you had more of?"
+“What do you value more in a person?"
+“What is your favorite food?"
+“What is your favorite kind of\xfffeTV program?"
+“What is your favorite school subject?"
+“What do you do on holidays?"
+“What would you want to become?"
 
-"What's your favorite Pokémon type?"
-"What's important to you?"
-"What's your favorite\xfffekind of person?"
-: アナタが しょうらい\xfffeがんばりたいことは?』
-"What's your favorite\xfffegenre of movies?"
-: もし たくさん おかねを\xfffeもっていたら どうする?』
-: アナタが すきな ゲームは?』
-"What's your favorite gym leader?"
-I see, I see...\xfffeAlright!\xf000\xbe01\x0000Next...\xf000\xbe01\x0000
-I see, I see...\xfffeAlright!\xf000\xbe01\x0000...Okay, that's the end!\xf000\xbe01\x0000Thanks!\xfffeThat was a good questionnaire!\xf000\xbe01\x0000
-そうだ! このアンケートようし\xfffeアナタにも あげるわ\xf000\xbe01\x0000
-"What Kind of Person? Survey"\xfffeadded to the Survey Radar!\xf000\xbe01\x0000
-"Favorite Pokémon Survey"\xfffeadded to the Survey Radar!\xf000\xbe01\x0000
-"Everyone's Ideals Survey"\xfffeadded to the Survey Radar!\xf000\xbe01\x0000
-"Favorite People Survey"\xfffeadded to the Survey Radar!\xf000\xbe01\x0000
-ちょうさレーダーに\xfffe: みんなの しょうらいを\xf000\xbe00\x0000\xfffeちょうさ』が ふえた!\xf000\xbe01\x0000
-"Everyone's Hobbies Survey"\xfffeadded to the Survey Radar!\xf000\xbe01\x0000
-ちょうさレーダーに\xfffe: もしも...だったら を\xf000\xbe00\x0000\xfffeちょうさ』が ふえた!\xf000\xbe01\x0000
-"What Do You Play? Survey"\xfffeadded to the Survey Radar!\xf000\xbe01\x0000
-"Pokémon Specifics Survey"\xfffeadded to the Survey Radar!\xf000\xbe01\x0000
-それと... アンケートに\xfffeこたえてくれた おれいよ\xf000\xbe01\x0000
-That's makes all the\xfffequestionnaires complete!\xf000\xbe01\x0000Now I know you pretty well!\xfffeAnd it was fun, too!\xf000\xbe01\x0000
-アンケートは なんども\xfffeこたえられるから\xf000\xbe00\x0000\xfffeこたえを かえたくなったら いってね
-That makes the number of remaining\xfffequestionnaires... \xf000\x0200\x0001\x0001!\xf000\xbe01\x0000
-If you want to answer any other\xfffequestionnaires, tell me!
-While we're here, would you\xfffedo another questionnaire?
-Good day!\xfffeGreetings are important!\xf000\xbe01\x0000
-Would you tell me\xfffeyour preferred greeting?
-Would you tell me\xfffeyour preferred greeting?
+“What is your favorite Pokémon type?"
+“What's most important to you?"
+“What type of person\xfffedo you like?"
+“What is your favorite color?"
+“What is your favorite kind of movie?"
+“What is your weakest subject?"
+“What is your favorite sport?"
+“Who is your favorite Gym Leader?"
+I see, I see...\xfffeUh-huh.\xf000븁\x0000\xfffeNext up...\xf000븁\x0000
+I see, I see...\xfffeUh-huh.\xf000븁\x0000\xfffe...OK. That's it!\xf000븁\x0000\xfffeThank you.\xfffeI got a useful questionnaire.\xf000븁\x0000
+Oh, I will give this questionnaire sheet\xfffeto you, too.\xf000븁\x0000
+The “Details About People" survey\xfffewas added to the Survey Radar!\xf000븁\x0000
+The “Pokémon Favorites" survey\xfffewas added to the Survey Radar!\xf000븁\x0000
+The “Ideals and Values" survey\xfffewas added to the Survey Radar!\xf000븁\x0000
+The “Likable People" survey\xfffewas added to the Survey Radar!\xf000븁\x0000
+The “Preferences" survey\xfffewas added to the Survey Radar!\xf000븁\x0000
+The “Entertainment" survey\xfffewas added to the Survey Radar!\xf000븁\x0000
+The “School Life" survey\xfffewas added to the Survey Radar!\xf000븁\x0000
+The “Sports and Pastimes" survey\xfffewas added to the Survey Radar!\xf000븁\x0000
+The “More About Pokémon" survey\xfffewas added to the Survey Radar!\xf000븁\x0000
+And... This is a thank-you gift\xfffefor answering the questionnaire.\xf000븁\x0000
+This is the end of \xfffeall the questionnaires.\xf000븁\x0000\xfffeIt was fun to get to know you!\xf000븁\x0000
+You can answer the questionnaires\xfffeas many times as you want, so\xf000븀\x0000\xfffeif you want to change your answers,\xf000븀\x0000\xfffeplease let me know.
+Now, you have...\xfffethis many questionnaires left: \xf000Ȁ\x0001\x0001.\xf000븁\x0000
+If you want to answer other\xfffequestionnaires, too, speak to me.
+Since you're here, why don't you\xfffeanswer other questionnaires, too?
+Hello!\xfffeGreeting is important, isn't it?\xf000븁\x0000
+If you don't mind, would you tell me\xfffeyour favorite greeting?
+If you don't mind, would you tell me\xfffeyour favorite greeting again?
 Hello!
-Well, see you later!\xf000\xbe01\x0000And always give\xfffean enthusiastic greeting!
-Right! A great greeting!\xfffeFull of energy!\xf000\xbe01\x0000Greet me cheerfully again!\xfffeI'll be waiting!
-Good day!\xfffeYou don't forget to show people\xf000\xbe00\x0000when you're thankful, right?\xf000\xbe01\x0000
-あら?\xfffeモンスターボールを おとしたわよ\xf000\xbe00\x0000\xfffeはい どうぞ\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001 took\xfffethe dropped Pokéball.\xf000\xbe01\x0000
-... ...\xfffe... ...\xf000\xbe01\x0000\xfffeこら! まちなさい!\xf000\xbe01\x0000\xfffeおせわに なった ひとには\xfffeかんしゃ する!\xf000\xbe01\x0000\xfffeささいなことだけど だいじなことよ\xf000\xbe01\x0000\xfffeさあ あなたの かんしゃの きもちを\xfffeおしえてもらえるかしら?
-よかったら また あなたの\xfffeかんしゃの きもちを\xf000\xbe00\x0000\xfffeおしえてくれるかしら?
-
-それじゃ またこんどね\xf000\xbe01\x0000\xfffeかんしゃの きもちは\xfffeわすれちゃ ダメよ
-すてきな ことばね\xfffeこころが あたたかくなるわ\xf000\xbe01\x0000\xfffeだれかが あなたを\xfffeたすけてくれた ときは\xf000\xbe00\x0000\xfffeかんしゃの きもちを つたえてあげて\xf000\xbe01\x0000\xfffeその きもちは きっと\xfffeあいてに つたわるはずよ
-What a wonderful way of putting it!\xfffeIt warms the heart!\xf000\xbe01\x0000Whenever anyone helps you,\xfffetell them your gratitude!\xf000\xbe01\x0000You should always\xfffelet them know!
-Do you know about Surveyer Ranks?\xf000\xbe01\x0000Fulfill a lot of requests,\xfffeand your rank goes up!\xf000\xbe01\x0000A higher rank will make\xfffeeveryone respect you.\xf000\xbe01\x0000And you might get requests\xfffethat net you good stuff!
-たいいんランクって しってる?\xf000\xbe01\x0000\xfffeあ Aランクの\xfffe\xf000\x0100\x0001\x0001たいいん\xf000\xbe01\x0000\xfffeもう Aランクたいいん なんだね\xfffeすごいな...\xf000\xbe01\x0000\xfffeオレも がんばって\xfffeちょうさしないと!\xf000\xbe01\x0000\xfffeAランクの いらいは\xfffeむずかしい らしいから\xf000\xbe00\x0000\xfffeがんばって ちょうさしてね!
-Do you know about Surveyer Ranks?\xf000\xbe01\x0000Ah, you're A Rank\xfffeSurveyer \xf000\x0100\x0001\x0001!\xf000\xbe01\x0000A Rank Surveyer already?\xfffeAmazing...\xf000\xbe00\x0000I'll try hard, too!\xf000\xbe00\x0000Gotta survey!\xf000\xbe01\x0000A Rank requests\xfffeare pretty difficult,\xf000\xbe00\x0000so good luck conducting!
-Do you know about Surveyer Ranks?\xf000\xbe01\x0000...S Rank\xfffeSurveyer \xf000\x0100\x0001\x0001!\xf000\xbe01\x0000Just a little more, and you'll be\xfffeat the max rank of SS!\xf000\xbe01\x0000I support you!\xfffeGood luck!!
-Do you know the ranks of statisticians?\xf000\xbe01\x0000\xfffeOh, you are \xf000\x0100\x0001\x0001.\xfffeYou are an S+ rank statistician!\xf000\xbe01\x0000\xfffeWow! I will also do my best to\xfffeadvance in rank as much as possible!
-When you want to know\xfffeyour own surveying progress,\xf000\xbe00\x0000check the pie chart on the wall.\xf000\xbe01\x0000All your info as a surveyer\xfffeis displayed there.\xf000\xbe01\x0000Of course, we keep track of\xfffenot just surveys, but you!
-Have you answered a questionnaire?\xf000\xbe01\x0000\xfffeYou should at least answer about\xfffewhat kind of person you are.
-Are you having a hard time getting new\xfffesurvey items in the Survey Radar?\xf000\xbe01\x0000\xfffeIf you want more survey items, answer\xfffequestionnaires in the headquarters.
-If you are an S-rank statistician, you\xfffemust have answered all the\xf000\xbe00\x0000\xfffequestionnaires.\xf000\xbe01\x0000\xfffeWhat you want to know is\xfffewhat everybody wants to know.\xf000\xbe01\x0000\xfffePlease volunteer to answer\xfffequestionnaires.
-Good work today,\xfffe\xf000\x0100\x0001\x0001!\xf000\xbe01\x0000\xfffeWe have more statisticians, and\xfffethis place has become quite lively.\xf000\xbe01\x0000\xfffeThe way things are going,\xfffewe can collect more survey data.
-The more I conduct surveys,\xfffethe more fun it will be.\xf000\xbe01\x0000\xfffeI'm determined to pass by more people!\xf000\xbe01\x0000\xfffeIt's way more fun to conduct surveys\xfffewith people than doing them by myself.
-By any chance, are you having trouble?\xf000\xbe01\x0000\xfffeIf it's difficult to pass by many people,\xfffeI recommend you try a timed survey.\xf000\xbe01\x0000\xfffeIt takes time, but if you pass by just\xfffeone person, you can complete the\xf000\xbe00\x0000\xffferequest.
-I'll give you a hint.\xf000\xbe01\x0000\xfffeIf you go to a place full of people,\xfffeI recommend a head-count survey.\xf000\xbe01\x0000\xfffeYou can collect survey data really fast,\xfffeso you can complete the request\xf000\xbe00\x0000\xfffein a short time.
-さっき アンケートに こたえたら\xfffeアンケートようしを もらえたわよ\xf000\xbe01\x0000\xfffeぜんぶの アンケートに\xfffeこたえてみようかな...
-When I answered a questionnaire earlier,\xfffeI got a questionnaire sheet.\xf000\xbe01\x0000\xfffeMaybe I will answer all the\xfffequestionnaires...
-あたらしい たいいんが\xfffeアンケートに こたえないのよ\xf000\xbe01\x0000\xfffeアンケートに こたえれば\xfffeもっと いろいろな ちょうさが\xf000\xbe00\x0000\xfffeできるのに... もったいないな...
-New statisticians are not\xfffeanswering questionnaires.\xf000\xbe01\x0000\xfffeIf they answered questionnaires,\xfffethey could conduct more surveys...\xf000\xbe00\x0000\xfffeWhat a shame!
-Hello, \xf000\x0100\x0001\x0001!\xf000\xbe01\x0000\xfffeI've also started teaching novice\xfffestatisticians how to conduct surveys.
-いま にんきがある\xfffeゲームって なんだろう?\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0001たいいんは\xfffeしってますか?
-What is the popular food now?\xfffe\xf000\x0100\x0001\x0001, do you have any idea?
-What is the popular...\xfffeOh, \xf000\x0100\x0001\x0001.\xf000\xbe01\x0000\xfffeI knew it.\xfffeI have to take a survey by myself...\xf000\xbe01\x0000\xfffeAh, it is a pain in the neck...
-The survey requests from the leader\xfffeare hard. Don't you agree?\xf000\xbe01\x0000\xfffeBesides, the number of more difficult\xfffesurveys are increasing...
-Hello! Good work today, \xf000\x0100\x0001\x0001.\xf000\xbe01\x0000\xfffeHave you finished all the\xfffesurvey requests from the leader?\xf000\xbe01\x0000\xfffeI heard if you finish all the requests,\xfffeyou can get something good!
-きみは うれしいとき\xfffeどんなカンジで よろこぶ?\xf000\xbe01\x0000\xfffeぼくは: ヤッター!』なんだけど\xfffeもっと ステキな\xf000\xbe00\x0000\xfffeよろこびかたを おしえてよ
-うれしいときに つい いってしまう!\xfffeそんな ことばを おしえてよ!
-やったー!
-それじゃ またこんどね\xf000\xbe01\x0000\xfffeうれしい ときは\xfffeおもいっきり よろこばなきゃ ね!
-ステキな セリフ!!\xf000\xbe01\x0000\xfffeすれちがいログの はつげんで\xfffeすばやく にゅうりょくできるように\xf000\xbe00\x0000\xfffeとうろく しておいたからね!
+Then, maybe next time.\xfffeLet's always have a cheerful greeting!
+Yes, it's a good greeting!\xfffeIt cheers me up!\xf000븁\x0000\xfffePlease feel free to come and say hi again!\xfffeI look forward to seeing you again!
+Hello! Do you always have a feeling\xfffeof gratitude?\xf000븁\x0000
+Oh, you dropped your Poké Ball.\xfffeHere you are.\xf000븁\x0000
+\xf000Ā\x0001\x0001 received a Poké Ball.\xf000븁\x0000
+Please remember to thank someone\xfffewho helps you!\xf000븁\x0000\xfffeIt may sound trivial, but it's important.\xf000븁\x0000\xfffeNow, will you tell me your\xfffefeeling of gratitude?
+If you don't mind, will you show me your\xfffefeeling of gratitude again?
+Thanks!
+Then, maybe next time.\xf000븁\x0000\xfffeDon't forget a feeling of gratitude!
+What a wonderful phrase!\xfffeIt warms up my heart.\xf000븁\x0000\xfffeIf somebody helps you,\xfffeshow your feelings of gratitude.\xf000븁\x0000\xfffeI am sure they will appreciate\xfffeyour feelings.
+Do you know the ranks of statisticians?\xf000븁\x0000\xfffeIf you complete several survey\xffferequests, you can advance in rank!\xf000븁\x0000\xfffeIf you advance in rank,\xfffepeople will look up to you, and\xf000븀\x0000\xfffeyou can get something good!
+Do you know the ranks of statisticians?\xf000븁\x0000\xfffeOh, you are \xf000Ā\x0001\x0001.\xfffeYou are a B-rank statistician.\xf000븁\x0000\xfffeYou advanced to the B rank!\xfffeYou've been working hard.\xf000븁\x0000\xfffeIf you advance in rank,\xfffeyou'll get more new requests, so\xf000븀\x0000\xfffeyou might want to talk to the leader.
+Do you know the ranks of statisticians?\xf000븁\x0000\xfffeOh, you are \xf000Ā\x0001\x0001.\xfffeYou are an A-rank statistician.\xf000븁\x0000\xfffeYou're already in the A rank.\xfffeThat's awesome!\xf000븁\x0000\xfffeI also have to work hard\xfffeand take surveys.\xf000븁\x0000\xfffeI heard requests for the A rank\xfffewere difficult.\xf000븁\x0000\xfffeKeep up the good work!
+Do you know the ranks of statisticians?\xf000븁\x0000\xfffeOh, you are \xf000Ā\x0001\x0001.\xfffeYou are an S-rank statistician.\xf000븁\x0000\xfffeYou are close to the S+ rank,\xfffewhich is the best!\xf000븁\x0000\xfffeI will support you!\xfffeGood luck.
+Do you know the ranks of statisticians?\xf000븁\x0000\xfffeOh, you are \xf000Ā\x0001\x0001.\xfffeYou are an S+ rank statistician!\xf000븁\x0000\xfffeWow! I will also do my best to\xfffeadvance in rank as much as possible!
+If you want to check your information,\xfffelook at the graph on the back wall.\xf000븁\x0000\xfffeInformation about all the statisticians\xfffeis kept there.\xf000븁\x0000\xfffeOf course, we checked the information\xfffeabout you!
+Have you answered a questionnaire?\xf000븁\x0000\xfffeYou should at least answer about\xfffewhat kind of person you are.
+Are you having a hard time getting new\xfffesurvey items in the Survey Radar?\xf000븁\x0000\xfffeIf you want more survey items, answer\xfffequestionnaires in the headquarters.
+If you are an S-rank statistician, you\xfffemust have answered all the\xf000븀\x0000\xfffequestionnaires.\xf000븁\x0000\xfffeWhat you want to know is\xfffewhat everybody wants to know.\xf000븁\x0000\xfffePlease volunteer to answer\xfffequestionnaires.
+Good work today,\xfffe\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeWe have more statisticians, and\xfffethis place has become quite lively.\xf000븁\x0000\xfffeThe way things are going,\xfffewe can collect more survey data.
+The more I conduct surveys,\xfffethe more fun it will be.\xf000븁\x0000\xfffeI'm determined to pass by more people!\xf000븁\x0000\xfffeIt's way more fun to conduct surveys\xfffewith people than doing them by myself.
+By any chance, are you having trouble?\xf000븁\x0000\xfffeIf it's difficult to pass by many people,\xfffeI recommend you try a timed survey.\xf000븁\x0000\xfffeIt takes time, but if you pass by just\xfffeone person, you can complete the\xf000븀\x0000\xffferequest.
+I'll give you a hint.\xf000븁\x0000\xfffeIf you go to a place full of people,\xfffeI recommend a head-count survey.\xf000븁\x0000\xfffeYou can collect survey data really fast,\xfffeso you can complete the request\xf000븀\x0000\xfffein a short time.
+Good work today,\xfffe\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeYou've become the top statistician\xfffeinstantly.\xf000븁\x0000\xfffeI should learn a lot from you\xfffeand work hard!
+When I answered a questionnaire earlier,\xfffeI got a questionnaire sheet.\xf000븁\x0000\xfffeMaybe I will answer all the\xfffequestionnaires...
+After the questionnaire, the next step is\xfffeconducting a survey.\xf000븁\x0000\xfffeSet the request you want to survey\xfffeon the Survey Radar...\xf000븀\x0000\xfffeAnd let's go!
+New statisticians are not\xfffeanswering questionnaires.\xf000븁\x0000\xfffeIf they answered questionnaires,\xfffethey could conduct more surveys...\xf000븀\x0000\xfffeWhat a shame!
+Hello, \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeI've also started teaching novice\xfffestatisticians how to conduct surveys.
+What is the popular movie now?\xfffe\xf000Ā\x0001\x0001, do you have any idea?
+What is the popular food now?\xfffe\xf000Ā\x0001\x0001, do you have any idea?
+What is the popular...\xfffeOh, \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeI knew it.\xfffeI have to take a survey by myself...\xf000븁\x0000\xfffeAh, it is a pain in the neck...
+The survey requests from the leader\xfffeare hard. Don't you agree?\xf000븁\x0000\xfffeBesides, the number of more difficult\xfffesurveys are increasing...
+Hello! Good work today, \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeHave you finished all the\xfffesurvey requests from the leader?\xf000븁\x0000\xfffeI heard if you finish all the requests,\xfffeyou can get something good!
+Oh! \xf000Ā\x0001\x0001!\xfffeI'm honored to see you!\xf000븁\x0000\xfffeOh, wow!\xfffe\xf000Ā\x0001\x0001 spoke to me!
+きみは　うれしいとき\xfffeどんなカンジで　よろこぶ？\xf000븁\x0000\xfffeぼくは『ヤッター！』なんだけど\xfffeもっと　ステキな\xf000븀\x0000\xfffeよろこびかたを　おしえてよ
+うれしいときに　つい　いってしまう！\xfffeそんな　ことばを　おしえてよ！
+やったー！
+それじゃ　またこんどね\xf000븁\x0000\xfffeうれしい　ときは\xfffeおもいっきり　よろこばなきゃ　ね！
+ステキな　セリフ！！\xf000븁\x0000\xfffeすれちがいログの　はつげんで\xfffeすばやく　にゅうりょくできるように\xf000븀\x0000\xfffeとうろく　しておいたからね！
 STATISTICIANS WANTED!\xfffeFOR DETAILS, ASK THE LEADER!
-\xf000\x0100\x0001\x0000\xfffeStatistician rank: C rank\xfffeNumber of times thanked: \xf000\x0204\x0001\x0002\xfffeNumber of people passed by: \xf000\x0204\x0001\x0001
-\xf000\x0100\x0001\x0000\xfffeStatistician rank: B rank\xfffeNumber of times thanked: \xf000\x0204\x0001\x0002\xfffeNumber of people passed by: \xf000\x0204\x0001\x0001
-\xf000\x0100\x0001\x0000\xfffeStatistician rank: A rank\xfffeNumber of times thanked: \xf000\x0204\x0001\x0002\xfffeNumber of people passed by: \xf000\x0204\x0001\x0001
-\xf000\x0100\x0001\x0000\xfffeStatistician rank: S rank\xfffeNumber of times thanked: \xf000\x0204\x0001\x0002\xfffeNumber of people passed by: \xf000\x0204\x0001\x0001
-\xf000\x0100\x0001\x0000\xfffeStatistician rank: SS rank\xfffeNumber of times thanked: \xf000\x0204\x0001\x0002\xfffeNumber of people passed by: \xf000\x0204\x0001\x0001
-レッツ トライ Casteliaラリー!\xfffeすれちがいちょうさたい オーケー!!
-すれちがいちょうさたいは みんなの\xfffeはやりや このみを しらべてるー!
+\xf000Ā\x0001\x0000\xfffeStatistician rank: C rank\xfffeNumber of times thanked: \xf000Ȅ\x0001\x0002\xfffeNumber of people passed by: \xf000Ȅ\x0001\x0001
+\xf000Ā\x0001\x0000\xfffeStatistician rank: B rank\xfffeNumber of times thanked: \xf000Ȅ\x0001\x0002\xfffeNumber of people passed by: \xf000Ȅ\x0001\x0001
+\xf000Ā\x0001\x0000\xfffeStatistician rank: A rank\xfffeNumber of times thanked: \xf000Ȅ\x0001\x0002\xfffeNumber of people passed by: \xf000Ȅ\x0001\x0001
+\xf000Ā\x0001\x0000\xfffeStatistician rank: S rank\xfffeNumber of times thanked: \xf000Ȅ\x0001\x0002\xfffeNumber of people passed by: \xf000Ȅ\x0001\x0001
+\xf000Ā\x0001\x0000\xfffeStatistician rank: S+ rank\xfffeNumber of times thanked: \xf000Ȅ\x0001\x0002\xfffeNumber of people passed by: \xf000Ȅ\x0001\x0001
+レッツ　トライ　ヒウンラリー！\xfffeすれちがいちょうさたい　オーケー！！
+すれちがいちょうさたいは　みんなの\xfffeはやりや　このみを　しらべてるー！
