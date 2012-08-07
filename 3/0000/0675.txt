@@ -96,6 +96,6 @@ Uh-oh!\xf000\xbe01\x0000\xfffeI'm sorry, but your party and all your\xfffePC Box
 Uh-oh!\xf000\xbe01\x0000\xfffeYou need at least two Pokémon in your\xfffeparty to use the GTS.\xf000\xbe01\x0000
 Uh-oh!\xf000\xbe01\x0000\xfffeYou need at least two Pokémon in your\xfffeparty to use GTS Negotiations.\xf000\xbe01\x0000
 In the Global Terminal, you can battle or\xfffetrade Pokémon with Pokémon fans from\xf000\xbe00\x0000\xfffearound the world by connecting to\xf000\xbe00\x0000\xfffeNintendo Wi-Fi Connection.\xf000\xbe01\x0000\xfffeFor details, please listen to the\xfffeexplanation at each facility.\xf000\xbe01\x0000
-ランダムマッチ または\xfffeWi-Fiたいかいの さんかちゅうに\xf000\xbe00\x0000\xfffeほんたいの でんげんが きれたため\xf000\xbe01\x0000\xfffe1じかん\xfffeランダムマッチや たいかいで\xf000\xbe00\x0000\xfffeたいせんが できなくなります\xf000\xbe01\x0000\xfffeじかんが たちましたら\xfffeおこしください
-でんげんの せつだんに ついて
-ランダムマッチ または\xfffeWi-Fiたいかいの さんかちゅうに\xf000\xbe00\x0000\xfffeほんたいの でんげんが きれると\xf000\xbe01\x0000\xfffe1じかん ランダムマッチや たいかいで\xfffeたいせんが できなくなります\xf000\xbe00\x0000\xfffeごちゅうい ください\xf000\xbe01\x0000
+Make sure you have time,\xfffebecause if the power is turned off\xf000\xbe00\x0000\xfffeyou will not be able to play\xf000\xbe01\x0000\xffferandom matches or tournaments\xf000\xbe00\x0000\xfffeover Nintendo Wi-Fi\xf000\xbe01\x0000\xfffefor at least\xfffeone hour
+About turning the power off
+If the power runs out\xfffewhile playing over the Nintendo Wi-Fi,\xf000\xbe00\x0000\xfffe\you will not be able to playxf000\xbe01\x0000\xfffe1in random matches or tournaments\xfffefor one hour\xf000\xbe00\x0000\xfffeafter leaving.\xf000\xbe01\x0000
