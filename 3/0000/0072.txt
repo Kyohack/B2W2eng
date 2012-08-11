@@ -1,60 +1,60 @@
 \xf000\x0100\x0001\x0001: ...Hold up.\xfffeWhat have you guys done here?\xf000\xbe01\x0000
-Team Plasma: ...Nothing particular.\xfffeWe only just got here.\xf000\xbe01\x0000\xfffeWe have a question of our own.\xfffeWhat'd we ever do to YOU?\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001: ...Not to us. However...\xf000\xbe01\x0000\xfffeDepriving a person of their\xfffePokémon is unforgivable!\xf000\xbe01\x0000\xfffe...I am...\xf000\xbe01\x0000\xfffe...REALLY ANGRY NOW!!\xf000\xbe01\x0000
-Team Plasma: Oh man...\xfffeTrainers these days are dangerous!\xf000\xbe01\x0000\xfffeOr are they? Mistaken ideas of the\xfffestrength of one and their Pokémon?\xf000\xbe01\x0000\xfffeFeh, no matter how good you think\xfffeyou are, you won't stop us!\xf000\xbe01\x0000
+Team Plasma: ...Nothing, really.\xfffeWe were just standing here.\xf000\xbe01\x0000\xfffeNow let me ask you,\xfffeWhat have we ever done to YOU guys?\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: ...You haven't done anything to us...\xf000\xbe01\x0000\xfffeBut I'm not going to let you get away\xfffewith stealing other people's Pokémon!\xf000\xbe01\x0000\xfffe...Let me warn you...\xf000\xbe01\x0000\xfffe...RIGHT NOW, I'M REALLY PISSED OFF!!\xf000\xbe01\x0000
+Team Plasma: Oh brother...\xfffeTrainers these days are so full of hot air!\xf000\xbe01\x0000\xfffeThat it? Are you confusing\xfffethe strength of your Pokémon with your own?\xf000\xbe01\x0000\xfffeOh well. I don't really care what you think,\xfffebut I'm not letting you get in our way!\xf000\xbe01\x0000
 \xf000\x0100\x0001\x0001: \xf000\x0100\x0001\x0000!\xfffeI'm counting on you!
 \xf000\x0100\x0001\x0001: \xf000\x0100\x0001\x0000!\xfffeI'm counting on you!\xf000\xbe01\x0000
-Team Plasma: Heh heh heh!\xf000\xbe01\x0000\xfffeTwo years ago, we stole fully\xfffetrained Pokémon, eh?\xf000\xbe01\x0000\xfffeYou think you can beat us?\xf000\xbe01\x0000
-Team Plasma: I'm next!\xf000\xbe01\x0000\xfffeTwo years ago, we stole fully\xfffetrained Pokémon, eh?\xf000\xbe01\x0000\xfffeYou think you can beat us?\xf000\xbe01\x0000
-Team Plasma: No way! I don't believe it!\xf000\xbe01\x0000\xfffeI shoulda trained those 2 years\xfffeinstead of bullying trainers!\xf000\xbe01\x0000
-Team Plasma: I- I lost in sheer seconds!\xfffeThat's not possible!\xf000\xbe00\x0000\xfffeJ-just who IS this guy?
+Team Plasma: Heh heh heh!\xf000\xbe01\x0000\xfffeThis is the Pokémon I stole\xfffeand trained two years ago.\xf000\xbe01\x0000\xfffePretty strong, ain't it?\xf000\xbe01\x0000
+Team Plasma: I'm next!\xf000\xbe01\x0000\xfffeThis is the Pokémon I stole\xfffeand trained two years ago\xf000\xbe01\x0000\xfffePretty string, ain't it?\xf000\xbe01\x0000
+Team Plasma: Is this for real?!\xf000\xbe01\x0000\xfffeAnd after I bullied so many trainers\xfffethese past two years for my training!\xf000\xbe01\x0000
+Team Plasma: H-How could I lose!\xfffeIn just the blink of an eye!\xf000\xbe00\x0000\xfffeJ-just who IS this kid?
 Team Plasma: Its just like a kid\xfffeto be that cheeky!\xf000\xbe01\x0000
-Team Plasma: My turn!\xfffeI'll give you no mercy!\xf000\xbe01\x0000
+Team Plasma: My turn!\xfffeI'll show you no mercy!\xf000\xbe01\x0000
 Team Plasma: Two years later and I'm\xfffestill making the same mistakes!\xf000\xbe01\x0000
 Team Plasma: I'm beaten!\xfffeDone in by two little children.\xf000\xbe01\x0000\xfffe...Granted, you're pretty STRONG\xfffefor being children...\xf000\xbe01\x0000\xfffeWe, Team Plasma, are searching\xfffefor a certain something...\xf000\xbe01\x0000\xfffeIf we can find it, maybe\xfffeHE can manifest its true power...\xf000\xbe01\x0000\xfffeFarewell!\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0001: ...5 years ago\xf000\xbe01\x0000\xfffeMy little sister recieved a\xfffePurrloin as a present\xf000\xbe00\x0000\xfffeand then Team Plasma stole it...\xf000\xbe01\x0000\xfffeI was just a kid\xfffeand I couldn't do anything...\xf000\xbe01\x0000\xfffeThat's why... that's why...\xfffeI have to become STRONGER!!\xf000\xbe01\x0000
-Just as I thought! You\xfffereally do have intellect!\xf000\xbe01\x0000\xfffeWell...!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: ...5 years ago\xf000\xbe01\x0000\xfffeThe Purrloin my little sister\xfffe was given as a present\xf000\xbe00\x0000\xfffewas stolen by Team Plasma...\xf000\xbe01\x0000\xfffeI was just a kid at the time,\xfffeso I couldn't do a thing...\xf000\xbe01\x0000\xfffeThat's why... That's why...\xfffeI have to become STRONGER!!\xf000\xbe01\x0000
+Just as I thought! You\xfffereally do have good sense!\xf000\xbe01\x0000\xfffeNow then...!\xf000\xbe01\x0000
 \xf000\x0100\x0001\x0001 restored \xfffe\xf000\x0100\x0001\x0000's Pokémon\xf000\xbe00\x0000\xfffeto full health!
-\xf000\x0100\x0001\x0001: This is great!\xfffeYou both fill the Pokédex and\xf000\xbe00\x0000\xfffehelp me become stronger!\xf000\xbe01\x0000\xfffeI'm counting on you from now on!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0001: Listen up!\xfffeGet stronger while you fill that Pokédex of yours\xf000\xbe00\x0000\xfffeand back me up, will ya?!\xf000\xbe01\x0000\xfffeI'm counting on you from now on!\xf000\xbe01\x0000
 Ah, Gear Station... \xfffeOnly here can you battle with \xf000\xbe00\x0000\xfffePokémon on the Subway!\xf000\xbe01\x0000\xfffeWhen you come to give it a try,\xfffethe Subway Masters are here!\xf000\xbe01\x0000\xfffeIsn't that amazing? They're\xfffethe strongest trainers in\xf000\xbe00\x0000\xfffeGear Station by far!\xf000\xbe01\x0000\xfffeMoreover, they're offering the\xfffechance of a double battle if\xf000\xbe00\x0000\xfffeI can find a partner!\xf000\xbe01\x0000\xfffeIt's a once in a lifetime chance!\xfffePlease! Will you be my partner?
-Oh I see!\xfffeYou're not ready yet?\xf000\xbe01\x0000\xfffeOkay, I'll wait here so we can\xfffebattle them when you are!
-Preparations complete? Wanna\xfffegive battling together a try?
+Oh, I see!\xfffeYou're not ready yet?\xf000\xbe01\x0000\xfffeOkay, I'll wait here so we can\xfffebattle them when you are!
+Are you all set?\xfffeWill you fight with me?
 Thank you!\xf000\xbe01\x0000\xfffeOh right, my name!\xfffeYou can call me Mei!\xf000\xbe01\x0000\xfffeLet's become a pair that exceeds\xfffeeven the Subway Masters!!\xf000\xbe01\x0000
 Let's challenge the Subway Masters\xfffetogether!\xf000\xbe01\x0000
 They're strong!\xfffeAs expected of Subway Masters!\xf000\xbe01\x0000\xfffeNext time I want to fight them\xfffemuch more seriously!\xf000\xbe01\x0000\xfffeThank you again, \xf000\x0100\x0001\x0000!\xfffeAs a token of my gratitude,\xfffeI want you to have this!\xf000\xbe01\x0000
 With the Battle Recorder,\xfffeyou can record battles with your\xf000\xbe00\x0000\xfffefriends as well as battles in\xf000\xbe00\x0000\xfffethe Battle Subway!\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000!\xf000\xbe01\x0000\xfffeIt was a lot of fun battling\xfffewith you by my side!\xf000\xbe01\x0000\xfffeI really hope we meet again!\xfffeSee ya later!\xf000\xbe01\x0000
 Ah, Gear Station... \xfffeOnly here can you battle with \xf000\xbe00\x0000\xfffePokémon on the Subway!\xf000\xbe01\x0000\xfffeWhen you come to give it a try,\xfffethe Subway Masters are here!\xf000\xbe01\x0000\xfffeAwesome, right? They're\xfffethe strongest trainers in\xf000\xbe00\x0000\xfffeGear Station by far!\xf000\xbe01\x0000\xfffeMoreover, they're offering the\xfffechance of a double battle if\xf000\xbe00\x0000\xfffeI can find a partner!\xf000\xbe01\x0000\xfffeIt's a once in a lifetime chance!\xfffeCome on! Be my partner!
 Oh I see!\xfffeYou're not ready yet?\xf000\xbe01\x0000\xfffeOkay, I'll wait here so we can\xfffebattle them when you are!
-Preparations complete? Wanna\xfffegive battling together a try?
-Thank you!\xf000\xbe01\x0000\xfffeあっ じぶんは キョウヘイ\xf000\xbe01\x0000\xfffeポケモンずき どうしが みせるのは\xfffeベストすぎる コンビネーションだね!\xf000\xbe01\x0000
+All set?\xfffeLet's fight togehter!
+Thank you!\xf000\xbe01\x0000\xfffeOh, I'm Kyouhei.\xf000\xbe01\x0000\xfffePokémon lovers really make\xfffecombinations that are too good to be true, don't they?!\xf000\xbe01\x0000
 Let's challenge the Subway Masters\xfffetogether!\xf000\xbe01\x0000
 They're strong!\xfffeAs expected of Subway Masters!\xf000\xbe01\x0000\xfffeNext time I want to fight them\xfffemuch more seriously!\xf000\xbe01\x0000\xfffeThank you again, \xf000\x0100\x0001\x0000!\xfffeAs a token of my gratitude,\xfffeI want you to have this!\xf000\xbe01\x0000
 With the Battle Recorder,\xfffeyou can record battles with your\xf000\xbe00\x0000\xfffefriends as well as battles in\xf000\xbe00\x0000\xfffethe Battle Subway!\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000!\xf000\xbe01\x0000\xfffeIt was a lot of fun battling\xfffewith you by my side!\xf000\xbe01\x0000\xfffeI really hope we meet again!\xfffeSee ya later!\xf000\xbe01\x0000
 I am Subway Boss Ingo!\xf000\xbe01\x0000\xfffeI'm in charge of departures\xfffeof the Subway from Gear Station.\xf000\xbe00\x0000\xfffeas well as the battles onboard them.
 And I am Emmet!\xf000\xbe01\x0000\xfffeI'm also a Subway Boss!\xf000\xbe01\x0000\xfffeI love Double Battles, as well as\xf000\xbe00\x0000\xfffethe two Pokémon combinations you\xf000\xbe00\x0000\xfffecan create in them!
-Ingo: This is such an irregular\xfffeplace for a battle for me...\xf000\xbe01\x0000\xfffeこれも なにかの えん\xfffeたたかうことで みえる けしき\xf000\xbe00\x0000\xfffeわかることも あるでしょう\xf000\xbe01\x0000\xfffeでは Emmet\xfffeなにかございましたら どうぞ!\xf000\xbe01\x0000
-Emmet: ルールを まもって\xfffeあんぜん うんてん!\xf000\xbe01\x0000\xfffeめざすは しょうり!\xfffeしゅっぱつ しんこう!\xf000\xbe01\x0000
-Ingo: ブラボー!!\xf000\xbe01\x0000\xfffeあなたがたと ポケモンの\xfffeコンビネーション! すばらしいです\xf000\xbe01\x0000
-Emmet: ぼく Emmet\xf000\xbe01\x0000\xfffeきみたちに まけちゃった\xf000\xbe01\x0000\xfffeだけど おもしろかった!\xfffeまた あそぼうよ!\xf000\xbe01\x0000
-Ingo: ぜひ! ぜひ! つぎは\xfffeちかてつに ごじょうしゃに なって\xf000\xbe00\x0000\xfffeしょうぶ してくださいまし!\xf000\xbe01\x0000\xfffeそれでは しゅっぱつ しんこうーッ!!\xf000\xbe01\x0000
-えっ! カナワタウンで\xfffeポケモンを さがしている\xf000\xbe00\x0000\xfffeTrainerさんが いるって!?\xf000\xbe01\x0000
-おまえさん\xfffeずいぶん とおくから きたんだなあ\xf000\xbe01\x0000
-わかった! ぼくが カナワタウンに\xfffeこのコを おくっていくよ\xf000\xbe01\x0000\xfffeおしえてくれて かんしゃ です!
-うきゃ!
-ポケモンとの コンビネーションは\xfffeまさに スーパープレイ!\xf000\xbe01\x0000\xfffeどこで みれるか? きになるなら\xfffeビッグスタジアムや リトルコートだ!
-Nimbasa あちこち\xfffeポケモン きたえーる♪
-カナワタウンに いきたいんだけどよ\xfffeギアステーションは どこだ?
-\xf000\x0139\x0001\x0000に\xfffeあたらしい おみせが できるのを\xf000\xbe00\x0000\xfffeこころまちにして すれちがうのだ!
-ポケモン 3びきで いどむ\xfffeトリプルバトルに\xf000\xbe00\x0000\xfffeローテーションバトル!\xf000\xbe01\x0000\xfffeどうしよう! あたしの パートナー\xfffeまだ 2ひきしか いないんだ
-おりこうにしてた ごほうびに また\xfffeゆうえんちに つれてきてもらったの!\xf000\xbe00\x0000\xfffeこんどは バオップも いっしょ!
-プオバ!
-あのね ジェットコースターでね\xfffeビューン! って いくのってね\xf000\xbe01\x0000\xfffeポケモンの わざのね\xfffeでんこうせっかを つかったみたいだね
-Nimbasaの Gym Leader\xfffeカミツレさんは ファッションモデル!\xf000\xbe01\x0000\xfffeキャットウォークを かろやかに\xfffeすすむ ようすを みたいものだわ!
-まあ あなた!\xfffeバトルレコーダーを もっているのね!\xf000\xbe01\x0000\xfffeその バトルレコーダーが あれば\xfffeともだち との しょうぶや\xf000\xbe01\x0000\xfffeバトルサブウェイでの しょうぶを\xfffeきろく することが できるのよ!\xf000\xbe01\x0000\xfffeいいわ! あなた\xfffeなぞのオンナが ここ!\xf000\xbe00\x0000\xfffeトライアルハウスに おまねきするわ!\xf000\xbe01\x0000
-まあ あなた!\xfffeどうみても Trainerね!\xf000\xbe01\x0000\xfffeいいわ! あなた\xfffeなぞのオンナが ここ!\xf000\xbe00\x0000\xfffeトライアルハウスに おまねきするわ!\xf000\xbe01\x0000
-まあ あなた!\xfffeバトルレコーダーを もっているのね!\xf000\xbe01\x0000\xfffeその バトルレコーダーが あれば\xfffeともだち との しょうぶや\xf000\xbe01\x0000\xfffeバトルサブウェイでの しょうぶを\xfffeきろく することが できるのよ!\xf000\xbe01\x0000\xfffeだけど この トライアルハウスに\xfffeはいれるのは もっと つよい ひと\xf000\xbe01\x0000\xfffeそう チャンピオンに かてば ここ!\xfffeトライアルハウスに おまねきするわ!
-まあ あなた!\xfffeどうみても Trainerね!\xf000\xbe01\x0000\xfffeだけど この トライアルハウスに\xfffeはいれるのは もっと つよい ひと\xf000\xbe01\x0000\xfffeそう チャンピオンに かてば ここ!\xfffeトライアルハウスに おまねきするわ!
-Nimbasa City\xfffeThe town of brightly-flashing lightning!
+Ingo: This is such an irregular\xfffeplace for a battle for me...\xf000\xbe01\x0000\xfffeThis must be some kind of fate.\xfffeIt feels like you can learn something\xf000\xbe00\x0000\xfffejust from watching the fighting all around us.\xf000\xbe01\x0000\xfffeWell then, Emmet,\xfffeif there's anything you want to do, go for it!\xf000\xbe01\x0000
+Emmet: Follow the rules\xfffeand drive safely!\xf000\xbe01\x0000\xfffeWe're aiming for victory!\xfffeHere we go!\xf000\xbe01\x0000
+Ingo: Bravo!!\xf000\xbe01\x0000\xfffeThe combination of you and\xfffeyour Pokémon is phenominal!!\xf000\xbe01\x0000
+Emmet: I'm Emmet\xf000\xbe01\x0000\xfffeYou guys beat me,\xf000\xbe01\x0000\xfffebut the battle was a lot of fun!\xfffeLet's do it again sometime!\xf000\xbe01\x0000
+Ingo: Yes! Of course! Next time\xfffeyou ride the subway,\xf000\xbe00\x0000\xfffeplease battle us again!\xf000\xbe01\x0000\xfffeNow let's get moving!!\xf000\xbe01\x0000
+What?! There's a trainer\xfffewho's looking for a Pokémon\xf000\xbe00\x0000\xfffein Kanawa Town!?\xf000\xbe01\x0000
+You\xfffereally came a long way.\xf000\xbe01\x0000
+All right! I'll take this little guy\xfffeto Kanawa Town then!\xf000\xbe01\x0000\xfffeThanks for letting me know!
+Ukyaa!
+Being a partner with a Pokémon\xfffeis like Super Mode!\xf000\xbe01\x0000\xfffeWhat do you have your eyes set on? If you want,\xfffeyou can go to the Big Stadium or the Little Court!
+All over Nimbasa,\xfffePokémon are being trained.
+I want to go to Kanawa Town,\xfffebut where's the Gear Station?
+\xf000\x0139\x0001\x0000に\xfffeMy new store isn't doing\xf000\xbe00\x0000\xfffeas well as I expected!
+We'll challenge with 3 Pokémon!\xfffeIt will be a\xf000\xbe00\x0000\xfffea Triple Rotation Battle!\xf000\xbe01\x0000\xfffeWhat do I do? I only have\xfffe2 Pokémon for partners right now.
+I got to go to the Amusement Park\xfffeas a reward for being good!\xf000\xbe00\x0000\xfffeThis time, I have Pansear, too!
+Puoba!
+You know how roller coasters\xfffego "Whizooooom", right?\xf000\xbe01\x0000\xfffeWell Pokémon moves, you know\xfffethey can go at the speed of light!
+Nimbasa's Gym Leader,\xfffeElesa-san, is a fashion model!\xf000\xbe01\x0000\xfffeI'd really like to see her\xfffegliding down the catwalk someday!
+Oh my!\xfffeYou've got a Battle Recorder!\xf000\xbe01\x0000\xfffeGreat! You,\xfffeなぞのオンナが ここ!\xf000\xbe00\x0000\xfffeI'll invite you into the Trial House!\xf000\xbe01\x0000
+Oh my!\xfffeYou've look like a trainer!\xf000\xbe01\x0000\xfffeWith that Battle Recorder,\xfffeYou can have a match with your friend\xf000\xbe01\x0000\xfffeor pair up with them and\xfffefight on the Subway!\xf000\xbe01\x0000\xfffeGreat! You,\xfffeなぞのオンナが ここ!\xf000\xbe00\x0000\xfffeI'll invite you to the Trail House!\xf000\xbe01\x0000
+Oh my!\xfffeYou ot a Battle Recorder!\xf000\xbe01\x0000\xfffeWith that Battle Recorder,\xfffeYou can have a match with your friend\xf000\xbe01\x0000\xfffeor pair up with them and\xfffefight on the Subway!\xf000\xbe01\x0000\xfffeBut to come into the Trial House,\xfffeyou need to be stronger.\xf000\xbe01\x0000\xfffeI know. If you beat the champion here!\xfffeI'll invite you into the Trial House!
+Oh my!\xfffeYou look like a trainer!\xf000\xbe01\x0000\xfffeBut to enter the Trial House,\xfffeyou need to be stronger.\xf000\xbe01\x0000\xfffeI know. If you beat the champion here,\xfffeI'll invite you into the Trial House!
+Nimbasa City\xfffeThe town that glitters and shines like lightning!
 Big Stadium\xfffeBaseball, Football, and Soccer
 Small Court\xfffeTennis and Basketball
 Battle Subway\xfffeBattle and Ride!
