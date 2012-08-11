@@ -1,4 +1,4 @@
-Hey! \xf000\x0100\x0001\x0000!\xf000\xbe01\x0000\xfffeDid you come to \xf000\x0100\x0001\x0001 \xfffeto brag about your pokémon again?
-Hey! \xf000\x0100\x0001\x0000!\xf000\xbe01\x0000\xfffeOhhh! You brought your pokémon with you.\xfffeThat's great!
-If you have a pokémon,\xfffeyou can leave the city!
-Take good care of your pokémon.\xf000\xbe01\x0000\xfffeThat little guy is sure\xfffeto show you a whole nother world.
+Hey! \xf000\x0100\x0001\x0000!\xf000\xbe01\x0000\xfffeDid you come to \xf000\x0100\x0001\x0001 \xfffeto brag about your Pokémon again?
+Hey! \xf000\x0100\x0001\x0000!\xf000\xbe01\x0000\xfffeOhhh! You brought your Pokémon with you.\xfffeThat's great!
+If you have a Pokémon,\xfffeyou can leave the city!
+Take good care of your Pokémon.\xf000\xbe01\x0000\xfffeThat little guy is sure\xfffeto show you a whole nother world.
