@@ -6,9 +6,9 @@ no data
 no data
 no data
 no data
-Takurou: Some people already decided to\xfffeget their hands on what they want!\xf000\xbe01\x0000\xfffeIf you have a Pokémon that you desire,\xfffenever give up!\xf000\xbe01\x0000\xfffeTrust your decision to be right\xfffeand give it your best!
-Takurou: This is our favorite shop.\xf000\xbe01\x0000\xfffeさいしんの アイテムが\xfffeにゅうか されたみたいだぜ!
-タクロウ: むかしは かねめあての\xfffeわるいやつらが ウロチョロしてたがな\xf000\xbe00\x0000\xfffeおれが ほとんど たいじしてやった!\xf000\xbe01\x0000\xfffeへっ! ブラックシティの へいわを\xfffeキメるのは おれだぜ!
+Takurou: Those who are decisive \xfffeare sure to get what they want.\xf000\xbe01\x0000\xfffeIf there's a pokemon you want, \xfffethen don't give up till you get it!\xf000\xbe01\x0000\xfffeGive in to your pure and true desires \xfffeand see it through decisively to the end!
+Takurou: We're the most decisive ones here \xfffe and this is our favorite shop. \xf000\xbe01\x0000\xfffeIt looks like the latest items \xfffehave been stocked!
+Takurou: In the past, \xfffesome punks who were after money used to hang around here. \xf000\xbe01\x0000\xfffeBut I wiped most of them out! \xf000\xbe01\x0000\xfffeHeh! I'm the one who will\xfffedecide the peace in Black City!
 no data
 no data
 no data
@@ -26,9 +26,9 @@ no data
 no data
 no data
 no data
-Karen: つわものたちが あつまる\xfffeしゅぎょうじょうが あると きいて\xf000\xbe00\x0000\xfffeポケモンたちを つれてきたの!\xf000\xbe01\x0000\xfffeあなたも Trainerね!\xfffeともに はげみましょう!
-Karen: You're \xf000\x0100\x0001\x0000, right!\xf000\xbe01\x0000\xfffeくろのまてんろうを だいぶ\xfffeこうりゃく したみたいだけど\xf000\xbe00\x0000\xfffeわたしも まけないから!
-Karen: くろのまてんろうの\xfffeクリアおめでとう \xf000\x0100\x0001\x0000!!\xf000\xbe00\x0000\xfffeあなたの うわさで もちきりよ!\xf000\xbe01\x0000\xfffeショップでも クリアきねんに\xfffeしんせいひんを にゅうかしたってさ!
+Karen: I heard there was a \xfffetraining ground where the soldiers come, \xf000\xbe00\x0000\xfffeso I brought my pokemon!\xf000\xbe01\x0000\xfffeYou're a trainer too, right?\xfffeLet's work hard together!
+Karen: You're　\xf000Ā\x0001\x0000, right?\xf000\xbe01\x0000\xfffeIt looks like you've cleared \xfffea lot of the Black Tower, \xf000\xbe00\x0000\xfffebut I'm not going to lose!
+Karen: Congratulations \xfffeon clearing the Black Tower!　\xf000Ā\x0001\x0000!!\xf000\xbe00\x0000\xfffeYou're the talk of the town!\xf000\xbe01\x0000\xfffeThe shop even has new items\xfffeto commemorate you clearing the tower!
 no data
 no data
 no data
@@ -38,8 +38,8 @@ no data
 no data
 no data
 no data
-Kazuho: ろんぶんを かくために\xfffeブラックシティに きたんです\xf000\xbe01\x0000\xfffeテーマは としせいかつと ポケモン!\xf000\xbe01\x0000\xfffeとかいで つかれた ひとびとに\xfffeポケモンが あたえる\xf000\xbe00\x0000\xfffeいやしの こうかを しらべにきたの!
-Kazuho: ブラックシティで\xfffeちょうさしていた けんきゅうが\xf000\xbe00\x0000\xfffeやっと まとまったの!\xf000\xbe01\x0000\xfffeやっぱり とかいでも いちばんの\xfffeストレスかいしょうほうは\xf000\xbe00\x0000\xfffeポケモンと ふれあうことだったのよ!
+Kazuho: I came to Black City \xfffeto write my thesis.\xf000\xbe01\x0000\xfffeMy theme is "City Life and Pokemon"!\xf000\xbe01\x0000\xfffeI've been giving the tired and worn out people pokemon\xfffeポケモンが　与える\xf000\xbe00\x0000\xfffeto investigate their healing effects!
+Kazuho: The research I've been pursuing \xfffehere in Black City \xf000\xbe00\x0000\xfffehas finally been completed!\xf000\xbe01\x0000\xfffeAs I expected, \xfffethe best way to relieve stress in the city \xf000\xbe00\x0000\xfffeis to interact with pokemon!
 no data
 no data
 no data
@@ -70,9 +70,9 @@ no data
 no data
 no data
 no data
-Yumiko: : なだたる かいしゃが あつまる\xfffeこの ブラックシティでも ゆびおりの\xf000\xbe00\x0000\xfffeきぎょうに しゅうしょく したの!\xf000\xbe01\x0000\xfffeバリバリ はたらいて\xfffeしゅっせ しちゃうんだから!
-Yumiko: : わたし もうだめ! だめなの!\xfffeうわぁああああああああああん!\xf000\xbe01\x0000\xfffeひぐっ... しごとでは しっぱいするし\xfffeこいびとには ふられちゃうし...\xf000\xbe01\x0000\xfffeホワイトフォレストに にげたい...\xfffeもりと ポケモンに いやされたい...
-Yumiko: The company in between us\xfffeおおきなトラブルを かいけつしてね\xf000\xbe00\x0000\xfffeみんなに ほめられちゃった♪\xf000\xbe01\x0000\xfffeI know a lot has happened, please don't\xfffestop. I'm glad that you continued!\xf000\xbe01\x0000\xfffeこれからも このブラックシティで\xfffeバリバリ おかねを かせいでいくわよ
+Yumiko: Here in Black City\xfffelots of famous companies have set up shop.\xf000\xbe00\x0000\xfffeI even found a job with a really well-to-do company.\xf000\xbe01\x0000\xfffeI'm going to work really hard\xfffeto earn a promotion!
+Yumiko: I can't take it anymore!　It's over!\xfffeWaaaaaaaaaaaaaaaaah!\xf000\xbe01\x0000\xfffe*sob*　If I fail at my job, \xfffeI'll never get a boyfriend!\xf000\xbe01\x0000\xfffeI want to run off and hide in the White Forest.\xfffeI want to be healed by the forest and pokemon!
+Yumiko: Just the other day,\xfffeI cleared up a big problem at my company.\xf000\xbe00\x0000\xfffeEveryone complimented me!♪\xf000\xbe01\x0000\xfffeA lot of things happened,\xfffebut I'm glad I didn't quit and run away!\xf000\xbe01\x0000\xfffeFrom now on, I'll work hard\xfffeand earn money here in Black City.
 no data
 no data
 no data
@@ -86,17 +86,17 @@ no data
 no data
 no data
 no data
-Eriza: とみと めいせいを もとめて\xfffeこの よくぼうの\xf000\xbe00\x0000\xfffeまちに やってきたの!\xf000\xbe01\x0000\xfffeまずは くろのまてんろう ってのを\xfffeだれよりも はやく クリアして\xf000\xbe00\x0000\xfffeゆうめいじんに なってやるんだから!\xf000\xbe01\x0000\xfffe...って うそ!\xfffeあなた クリアしたの?\xf000\xbe00\x0000\xfffeえー! わたしの けいかくがぁ!!
+Eliza: I came to the city in the persuit\xfffeof fame and fortune! \xf000\xbe01\x0000\xfffeI'll start by clearing Black Tower\xfffe faster than anyone else!\xf000\xbe00\x0000\xfffeI'm going to be famous!\xf000\xbe01\x0000\xfffeWhat?! No way! \xfffeYou cleared it?!\xf000\xbe00\x0000\xfffeWhat?! My plans...!
 no data
 no data
 no data
-Hironori: ほしいものが あるんスけど\xfffeなかなか ショップに\xf000\xbe00\x0000\xfffeにゅうか されないんスよね!\xf000\xbe01\x0000\xfffeしばらくしたら しいれてくれるって\xfffeショップの ひとは いってたッスけど\xf000\xbe00\x0000\xfffeまちきれないッス!
-Hironori: ショップに いってみたッスか?\xfffeしんしょうひんが にゅうかされてたッス!\xf000\xbe01\x0000\xfffeでも まだ オレのほしい\xfffeアレは にゅうかされて ないッス...\xf000\xbe01\x0000\xfffeはやく アレが てに はいらないと\xfffeオレは たいへんなことに なるッス!
-Hironori: やっとショップに\xfffeアレが にゅうかされたッス!\xf000\xbe00\x0000\xfffeずーっと まってたッスよぉ~\xf000\xbe01\x0000\xfffe...えっ アレってなにかって?\xf000\xbe01\x0000\xfffeプライバシー ッス!\xfffeぜったい おしえられないッス!
+Hironori: There's somethin' I want, \xfffebut it seems the shop's\xf000\xbe00\x0000\xfffe currently outta stock!\xf000\xbe01\x0000\xfffeThe shopkeeper told me\xfffeit would take a while to get in,\xf000\xbe00\x0000\xfffebut I jus' can't wait!
+Hironori: Have I gone to the shop?\xfffeThey got new items in stock?!\xf000\xbe01\x0000\xfffeBut they still don'\xfffehave what I want!!\xf000\xbe01\x0000\xfffeIf they don' hurry up an' get it in,\xfffeI'll really be in a jam!
+Hironori: They finally\xfffegot my item in stock!\xf000\xbe00\x0000\xfffeI've waited for soooooo long!\xf000\xbe01\x0000\xfffeHuh? What is it?\xf000\xbe01\x0000\xfffeHey! Tha's private!\xfffeI ain't gonna tell you!
 no data
-Ken: イッシュのなんかん\xfffeくろのまてんろう に\xf000\xbe00\x0000\xfffeいどもうって トレーナーが\xf000\xbe00\x0000\xfffeせかいじゅうから あつまってきてる\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000も ちょうせんするのか?\xf000\xbe01\x0000\xfffeハードな たたかいが まっているぞ\xfffeとびきりの ポケモンを つれていけよ
-Ken: イッシュのなんかん\xfffeくろのまてんろう での\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000の かつやく きいてるぜ\xf000\xbe01\x0000\xfffeだけど ゆだんするなよ\xfffeエリアが あがれば あがるほど\xf000\xbe00\x0000\xfffeひとくせある あいてが ふえてくる...\xf000\xbe01\x0000\xfffeまっ けいけんしゃの ちゅうこくさ\xfffeがんばって うえを めざせよ
-Ken: イッシュのなんかん\xfffeくろのまてんろうを\xf000\xbe00\x0000\xfffeついに せいは したんだってな!\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000...\xfffeすごいよ おまえ...\xf000\xbe01\x0000\xfffeおれだって なんども ちょうせんした\xfffeだけど そのたびに しっぱいして\xf000\xbe00\x0000\xfffeいつしか あきらめちまってた...\xf000\xbe01\x0000\xfffeポケモンと じぶんを しんじつづけた\xfffeおまえを そんけい するぜ!
+Ken: The Unova Barrier,\xfffeThe Black Tower...\xf000\xbe00\x0000\xfffeMany trainers from\xf000\xbe00\x0000\xfffearound the world come to take it on.\xf000\xbe01\x0000\xfffe\xf000Ā\x0001\x0000You're going to try it?\xf000\xbe01\x0000\xfffeYou'll face lots of hard battles there.\xfffeYou'd better take some really good pokemon.
+Ken: The Unova Barrier,\xfffeThe Black Tower...\xf000\xbe00\x0000\xfffe\xf000Ā\x0001\x0000there's been lots of activity there.\xf000\xbe01\x0000\xfffeBut don't let your guard down!\xfffeThe higher you go up,\xf000\xbe00\x0000\xfffethe more trainers you'll run into.\xf000\xbe01\x0000\xfffeWell, that's what I've heard from a veteran.\xfffeGood luck getting to the top!
+Ken: The Unova Barrier,\xfffeThe Black Tower...\xf000\xbe00\x0000\xfffeyou've finally conquered it!\xf000\xbe01\x0000\xfffe\xf000Ā\x0001\x0000……\xfffeThat's great!\xf000\xbe01\x0000\xfffeI've tried to clear it many times,\xfffebut I failed every one of them.\xf000\xbe00\x0000\xfffeBefore I knew it, I just gave up.\xf000\xbe01\x0000\xfffeYou believed in yourself and your pokemon.\xfffeFor that, you have my respect!
 no data
 no data
 no data
@@ -110,9 +110,9 @@ no data
 no data
 no data
 no data
-Emi: アルバイトを してないときは\xfffeくろのまてんろうで しょうきんを\xf000\xbe00\x0000\xfffeがっぽり かせいでいるの!\xf000\xbe01\x0000\xfffeこっちにきて よかったわ\xfffeのどかな ところは すきだけど\xf000\xbe01\x0000\xfffeホワイトフォレストじゃ\xfffeこうは もうけられないもの
-Emi: \xf000\x0100\x0001\x0000って\xfffeくろのまてんろうで\xf000\xbe00\x0000\xfffeかなり うえまで いったんだって?\xf000\xbe01\x0000\xfffeすごいよね わたしなんか\xfffeさいしょのエリアで げんかい!\xf000\xbe01\x0000\xfffeそれでも じゅうぶん おこづかいは\xfffeかせげるから いいけどさ!
-Emi: おかねを かせぐためとはいえ\xfffeこんなに おなじまちに いたのは\xf000\xbe00\x0000\xfffeはじめてだな...\xf000\xbe01\x0000\xfffeいろんなひととも しりあったし\xfffeおきにいりの おみせもできた...\xf000\xbe01\x0000\xfffeでも そろそろ たびにでなきゃ\xfffeつぎは ホワイトフォレストで\xf000\xbe00\x0000\xfffeのんびりってのも いいかもね!
+Emi: Whenever I'm not working, \xfffeI go to Black Tower\xf000\xbe00\x0000\xfffeand rake in the battle reward money!\xf000\xbe01\x0000\xfffeI'm so glad I came here.\xfffeI much prefer calm, peaceful places though!\xf000\xbe01\x0000\xfffeYou just can't earn anything\xfffein White Forest.
+Emi: \xf000Ā\x0001\x0000, you say you've gotten\xfffequite high in Black Tower?\xf000\xbe01\x0000\xfffeThat's incredible!\xfffeThe entry area is my limit!\xf000\xbe01\x0000\xfffeBut even just that area\xfffeis enough to really boost my allowance!
+Emi: This is the first time\xfffeI've been in the same city for so long\xf000\xbe00\x0000\xfffelet alone been out to earn money.\xf000\xbe01\x0000\xfffeI've met a lot of different people,\xfffe and I even have my favorite stores now.……\xf000\xbe01\x0000\xfffeBut I've got to travel again soon.\xfffeNext, I'll probably take it easy\xf000\xbe00\x0000\xfffein White Forest!
 no data
 no data
 no data
