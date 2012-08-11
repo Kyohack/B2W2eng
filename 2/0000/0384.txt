@@ -325,4 +325,4 @@ Bye Bye\xf000\xbe01\x0000
 では さようなら\xf000\xbe01\x0000
 Bye\xf000\xbe01\x0000
 Later\xf000\xbe01\x0000
-...Well see you later\xf000\xbe01\x0000
+...Well, see you later.\xf000\xbe01\x0000
