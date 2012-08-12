@@ -20,7 +20,7 @@ Pant! Pant, pant, pant...\xfffeThat was some good training...
 You and I just met,\xfffeand we're already in competition!
 I'm sorta tough, so ya better know\xfffehow to handle me!\xf000\xbe01\x0000
 Well, nuts...
-ビッグスタジアムに\xfffeきてくれて サンキュ-な!\xf000\xbe01\x0000
+Big Stadiumに\xfffeきてくれて サンキュ-な!\xf000\xbe01\x0000
 You're pretty tough...\xfffeBetter than the little league!
 Hey there!\xfffeWanna be my practice partner?!\xf000\xbe01\x0000But keep in mind,\xfffeI'm serious about my practice!\xf000\xbe01\x0000
 I was no match...\xfffeSo there's someone better than the best!
@@ -432,7 +432,7 @@ Our teamwork is sooooo bad,\xfffeexcept when we cheer during games.\xf000\xbe01\
 No way! Argh, we are losing\xfffebecause you are not really trying!
 I am quite strong.\xfffeI will work out today, too!\xf000\xbe01\x0000
 I... I got worked over.
-ビッグスタジアムに また\xfffeきてくれて サンキュ-な!\xf000\xbe01\x0000
+Big Stadiumに また\xfffeきてくれて サンキュ-な!\xf000\xbe01\x0000
 Your strength!\xfffeYou pack quite a punch!
 POWER!!\xf000\xbe01\x0000\xfffeIf you have power that nobody can beat,\xfffeyou can win both Pokémon battles\xf000\xbe00\x0000\xfffeand football games!\xf000\xbe01\x0000
 I...still don't have enough power?
@@ -444,7 +444,7 @@ Aghhhhh! I am still such a rookie!\xfffeBut I have more guts than anybody else!
 My Pokémon and I still haven't\xfffepracticed enough...\xf000\xbe01\x0000\xfffeTo put it in levels, we're maybe a ten...
 I am stronger than ever.\xfffeI will work out today, too!!\xf000\xbe01\x0000
 I got worked over.
-ビッグスタジアムに\xfffeきてくれて サンキュ-な!\xf000\xbe01\x0000
+Big Stadiumに\xfffeきてくれて サンキュ-な!\xf000\xbe01\x0000
 A swing and a miss...\xfffeI can't keep up with your strength!
 POWER!!!\xf000\xbe01\x0000\xfffeWith my ripped muscles,\xfffeI will overcome everything!\xf000\xbe01\x0000
 I still don't have\xfffeenough muscles...?!
@@ -456,7 +456,7 @@ Aghhhhh! I'm still such a rookie!\xfffeI have more than enough guts, though!
 My Pokémon and I\xfffestill haven't practiced enough...\xf000\xbe00\x0000\xfffeTo put it in levels, we're about a 20...
 I am the strongest.\xfffeI will work out today, too!!\xf000\xbe01\x0000
 I...got worked over!
-ビッグスタジアムに いつも\xfffeきてくれて サンキュ-な!\xf000\xbe01\x0000
+Big Stadiumに いつも\xfffeきてくれて サンキュ-な!\xf000\xbe01\x0000
 Your strength is\xfffehome-run class!
 POWER!!!!\xf000\xbe01\x0000\xfffeI will win! My superior power\xfffecan blaze any trail!\xf000\xbe01\x0000
 Is it possible that just having power\xfffeis not enough...?
@@ -783,7 +783,7 @@ With a spin and a turn, it's my turn! ♪\xfffeWith a turn and a spin, it's your
 キミの ポケモン\xfffeさんびょうし そろっているッス!
 たたかえる ポケモンが 1ぴき?\xfffeなかまと いると たのしいッスよ!
 やきゅうと ポケモンは\xfffeすじがきの ない ドラマ ッス!\xf000\xbe01\x0000
-やきゅうせんしゅの さんびょうしは\xfffeうって まもって はしって ッス!
+Infielderの さんびょうしは\xfffeうって まもって はしって ッス!
 スポ-ツマンシップから みて\xfffe2vs1じゃあ キミが ふりだよ!
 だいとかいの そばに ひっそりと\xfffeひろがる みどりの くうかん\xf000\xbe01\x0000\xfffeまさに オアシス! いやされた\xfffeぼくが ねがうのは しょうぶかな?\xf000\xbe01\x0000
 こんな けっか じゃ!\xfffeオアシスって かんじ しない!
@@ -793,7 +793,7 @@ With a spin and a turn, it's my turn! ♪\xfffeWith a turn and a spin, it's your
 ひとも ポケモンも それぞれ\xfffeすみやすい ばしょは ちがうでしょ\xf000\xbe01\x0000\xfffeわたしの すみやすい ばしょは\xfffeもちろん ふとんの なかよ!
 でんしゃの なまえは しょうぶ!\xfffeこれより はっしゃ いたします!\xf000\xbe01\x0000
 きみは ノンストップとっきゅう!\xfffeわたしは かくえきていしゃ...
-バトルサブウェイには のりましたか?\xfffeライモンシティに あるんですけど\xf000\xbe01\x0000\xfffeユニ-クな トレ-ナ-たちと\xfffeたたかえて エキサイティング です
+Battle Subwayには のりましたか?\xfffeライモンシティに あるんですけど\xf000\xbe01\x0000\xfffeユニ-クな トレ-ナ-たちと\xfffeたたかえて エキサイティング です
 じてんしゃに のってるほうが\xfffeなんとなく てごわそうだろ?\xf000\xbe01\x0000
 ここちよい かぜが とまった...!\xfffeじてんしゃも とまった...!
 サイクリングも スポ-ツ!\xfffeマナ-を まもって あんぜんうんてん!
@@ -1117,7 +1117,7 @@ Wow!\xfffeMore!!
 いまは つりたて ホヤホヤでも\xfffeちゃんと そだてれば つよくなる!\xf000\xbe01\x0000\xfffeおじさんと ポケモンの\xfffeせいしゅんが はじまるんだよ!
 ソヤッ! ソヤッ!\xf000\xbe01\x0000\xfffeうみに むかって せいけんづき!\xfffeさあ きみも やってみよう!\xf000\xbe01\x0000
 ソヤッ! ソヤッ!\xfffeまけても せいけんづきは やめない!
-ビキニのおねえさんに\xfffeまどわされないよう しゅぎょう!\xf000\xbe01\x0000\xfffeビキニのおねえさんを\xfffeみている わけでは ないッス!!
+Swimmer ⑮に\xfffeまどわされないよう しゅぎょう!\xf000\xbe01\x0000\xfffeSwimmer ⑮を\xfffeみている わけでは ないッス!!
 うみでは そうぞういじょうに\xfffeたいりょくを つかうけれど\xf000\xbe00\x0000\xfffeきみの ポケモン だいじょうぶかい?\xf000\xbe01\x0000
 なるほど...!\xfffeげんきが みなぎっているね!
 では ポケモンに\xfffeげんき ちゅうにゅう!\xf000\xbe01\x0000
@@ -1216,7 +1216,7 @@ Please!!
 たぎる たましい!\xfffeオレの ミネズミ すっげ-ぜ!!\xf000\xbe01\x0000
 しぼむ たましい...\xfffeこんなはずじゃ なかったのに
 ふたたび たぎる たましい!\xfffeまけたって きにしない!\xf000\xbe00\x0000\xfffeまえに すすむことが だいじだぜ!
-トリプルバトルは ポケモン\xfffe3びきでの ポケモンしょうぶ だよ!
+Triple Battles use\xfffethree Pokémon!
 トリプルバトルを きわめた\xfffeぼくの つよさを みなさい!\xf000\xbe01\x0000
 そんな...\xfffeきわめたはず なのに...
 きわめるために トリプルバトルむきの\xfffeわざとか とくせいを しらべなきゃ!
@@ -1537,13 +1537,13 @@ My psychic Pokémon\xfffeseem somehow alarmed...\xf000\xbe01\x0000Is it because 
 あいての こころを よみ\xfffeうごきを よみきってみせる!\xf000\xbe01\x0000
 おまえの うごき...\xfffeまさに へんげんじざい...!
 ながれる くもの ように\xfffeじゆうに たたかう トレ-ナ-よ\xf000\xbe00\x0000\xfffeかたちに とらわれるなよ!
-トリプルバトルは ポケモン\xfffe3びきでの しょうぶ です!
+Triple Battles are battles with\xfffethree Pokémon!
 ウフフ! 3びき どうじに\xfffeこうげきしたら どうなるかな?\xf000\xbe01\x0000
 ねらいを しぼれなかった...\xfffeいえ しぼらせて もらえなかった!
 3びきの ポケモンで\xfffeながれるような こうげきを...!\xf000\xbe01\x0000\xfffeそう! なづけるなら\xfffeジェットストリ-ムてきな アタック!
-キミ もしかして...\xfffeかざんのおきいしを さがしてる?\xf000\xbe01\x0000
-かざんのおきいしに ついて\xfffeしってることを おしえるよ!
-ハ-ドマウンテンには\xfffeかざんのおきいしが あってな\xf000\xbe01\x0000\xfffeそれを うごかすだか もとにもどすと\xfffeでんせつの ポケモン ヒ-ドランが\xf000\xbe00\x0000\xfffeあらわれると いわれてたんだ
+キミ もしかして...\xfffeMagma Stoneを さがしてる?\xf000\xbe01\x0000
+Magma Stoneに ついて\xfffeしってることを おしえるよ!
+ハ-ドマウンテンには\xfffeMagma Stoneが あってな\xf000\xbe01\x0000\xfffeそれを うごかすだか もとにもどすと\xfffeでんせつの ポケモン ヒ-ドランが\xf000\xbe00\x0000\xfffeあらわれると いわれてたんだ
 あちらこちらの とがった いし...\xfffeあなた あれを ごぞんじかしら?\xf000\xbe01\x0000
 あなたの その つよさ...\xfffeぞんじあげませんでしたわ!
 せっかいを ふくんだ すいてきが\xfffeなんびゃくねんも かけて\xf000\xbe00\x0000\xfffeかたまったのが いしの たけのこ...\xf000\xbe00\x0000\xfffeせきじゅんと いうのよ
@@ -1555,9 +1555,9 @@ My psychic Pokémon\xfffeseem somehow alarmed...\xf000\xbe01\x0000Is it because 
 アンタ トッテモ ツヨイ-ノ!
 コレ アゲル-ノ!\xf000\xbe01\x0000
 カザンノ コト\xfffeボルケ-ノ イウ-ノ
-キミ もしかして...\xfffeかざんのおきいしを さがしてる?\xf000\xbe01\x0000
-かざんのおきいしに ついて\xfffeしってることを おしえるよ!
-ハ-ドマウンテンには\xfffeかざんのおきいしが あってね\xf000\xbe01\x0000\xfffeそれを うごかすだか もとにもどすと\xfffeでんせつの ポケモン ヒ-ドランが\xf000\xbe00\x0000\xfffeあらわれると いわれてたのよ
+キミ もしかして...\xfffeMagma Stoneを さがしてる?\xf000\xbe01\x0000
+Magma Stoneに ついて\xfffeしってることを おしえるよ!
+ハ-ドマウンテンには\xfffeMagma Stoneが あってね\xf000\xbe01\x0000\xfffeそれを うごかすだか もとにもどすと\xfffeでんせつの ポケモン ヒ-ドランが\xf000\xbe00\x0000\xfffeあらわれると いわれてたのよ
 だいちから あふれる\xfffeエネルギ- かんじるぜ!\xf000\xbe01\x0000
 ポケモンの エネルギ-\xfffeむちゃくちゃ かんじたぜ!
 うけとれ!\xfffeだいちの エネルギ-!\xf000\xbe01\x0000
@@ -1723,7 +1723,7 @@ The energy's dropping...\xfffeByoo-byoo-byoo-byoo...
 それ ポケモンずかん!?\xf000\xbe01\x0000\xfffeじゃあ いろんな ポケモンを\xfffeみせてくれると うれしいよ!\xf000\xbe01\x0000
 ...!\xfffeそんな ポケモン しらない
 むう... しつげんに いけば\xfffeあたらしい ポケモンと であえるかな?
-トリプルバトルは ポケモン\xfffe3びきでの あたらしい しょうぶよ!
+A Triple Battle is a new style of battle\xfffein which you use three Pokémon!
 Splish, splash!\xfffeThat's what your footsteps sound like!\xf000\xbe00\x0000Aw, that's adorable!\xf000\xbe01\x0000
 Okay, I think you're kinda\xfffetoo strong to be cute!
 I divine from the sound of your steps...\xf000\xbe01\x0000That you, splish-splashing trainer,\xfffeare quite adored by Pokémon!
@@ -2218,13 +2218,13 @@ I've seen this somewhere...\xfffea previous elegant trainer with gorgeous\xf000\
 うまれた ときから\xfffeポケモンと いっしょ だった\xf000\xbe00\x0000\xfffeずっと しょうぶ してきた\xf000\xbe01\x0000\xfffeそして いっしょに\xfffeせかいの おわりを むかえたいわ
 バックパッカ-で ありつつ\xfffeトレジャ-ハンタ-も してます!\xf000\xbe01\x0000
 しょうり という\xfffeおたからを とりのがしました!
-かざんのおきいしって しってる?\xf000\xbe01\x0000\xfffeかざんに ねむる といわれる\xfffeポケモンに かんけい あるらしいけど\xf000\xbe01\x0000\xfffeおくと ポケモンが めざめるのか\xfffeどかすと ポケモンが めざめるのか\xf000\xbe00\x0000\xfffeよく わかってないらしいの
+Magma Stoneって しってる?\xf000\xbe01\x0000\xfffeかざんに ねむる といわれる\xfffeポケモンに かんけい あるらしいけど\xf000\xbe01\x0000\xfffeおくと ポケモンが めざめるのか\xfffeどかすと ポケモンが めざめるのか\xf000\xbe00\x0000\xfffeよく わかってないらしいの
 レッツ トレ-ニング!\xfffeポケモンと ともに つよくなり\xf000\xbe01\x0000\xfffeソウリュウや セイガイハの\xfffeポケモンジムに いどむ!\xf000\xbe01\x0000
 まだ! まだまだ\xfffeじつりょくが ともなってないか!
 ぼくにとって ポケモンは\xfffeたいせつな たいせつな そんざい\xf000\xbe01\x0000\xfffeぼくの くやしなみだや えがおを\xfffeいつも そばで みていたからね
 バックパッカ-の ふりをした\xfffeトレジャ-ハンタ- なんだぜ!\xf000\xbe01\x0000
 しょうり という\xfffeおたからを とりのがしたか!
-かざんのおきいしって しってる?\xf000\xbe01\x0000\xfffeかざんに ねむる といわれる\xfffeポケモンに かんけい あるらしいけど\xf000\xbe01\x0000\xfffeおくと ポケモンが めざめるのか\xfffeどかすと ポケモンが めざめるのか\xf000\xbe00\x0000\xfffeよく わかってないらしいよ
+Magma Stoneって しってる?\xf000\xbe01\x0000\xfffeかざんに ねむる といわれる\xfffeポケモンに かんけい あるらしいけど\xf000\xbe01\x0000\xfffeおくと ポケモンが めざめるのか\xfffeどかすと ポケモンが めざめるのか\xf000\xbe00\x0000\xfffeよく わかってないらしいよ
 レッツ トレ-ニング!\xfffeポケモンと ともに つよくなり\xf000\xbe01\x0000\xfffeソウリュウや セイガイハの\xfffeポケモンジムに いどむの!\xf000\xbe01\x0000
 まだ! まだまだ\xfffeじつりょくが ともなってないわね
 あたしにとって ポケモンは\xfffeたいせつな たいせつな きょうだい\xf000\xbe01\x0000\xfffeだって うまれたときから\xfffeいっしょに ないて わらってきたもの

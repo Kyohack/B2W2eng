@@ -7,7 +7,7 @@ Faraway place
 サンヨウシティだと\xfffeレストランが おすすめ よ!\xf000\xbe01\x0000\xfffeなんたって もとジムリ-ダ-の\xfffeおみせ だもの! きっとすごいわ!\xf000\xbe01\x0000
 ママは シッポウシティの\xfffeそうこや カフェソ-コが すきよ\xf000\xbe01\x0000\xfffeもちろん いちばんの おすすめは\xfffeシッポウはくぶつかん だけどね!\xf000\xbe01\x0000
 ヒウンシティ!\xfffeもう みどころが ありすぎて\xf000\xbe01\x0000\xfffeヒウンラリ-の ひとを\xfffeさがしてみるのが いいかもね\xf000\xbe01\x0000\xfffeあとは...\xfffeじぶんで たんけんよ!\xf000\xbe01\x0000\xfffeしらない まちに ついたときの\xfffeたのしみの いちばんは たんけん!\xf000\xbe01\x0000
-ライモンシティは ごらくの まち!\xf000\xbe01\x0000\xfffeあそこの ポケモンセンタ-での\xfffeおしごとも たのしかったわね\xf000\xbe01\x0000\xfffeえ-とね\xf000\xbe01\x0000\xfffeビッグスタジアム リトルコ-トで\xfffeきたえる トレ-ナ-が おおいわよ!\xf000\xbe01\x0000\xfffeほかにも みどころが たくさんね\xfffeあなたの すきに してみなさい!\xf000\xbe01\x0000
+ライモンシティは ごらくの まち!\xf000\xbe01\x0000\xfffeあそこの ポケモンセンタ-での\xfffeおしごとも たのしかったわね\xf000\xbe01\x0000\xfffeえ-とね\xf000\xbe01\x0000\xfffeBig Stadium リトルコ-トで\xfffeきたえる トレ-ナ-が おおいわよ!\xf000\xbe01\x0000\xfffeほかにも みどころが たくさんね\xfffeあなたの すきに してみなさい!\xf000\xbe01\x0000
 ホドモエシティ!\xf000\xbe01\x0000\xfffeちかごろは ホテルが\xfffeいっぱい たちならぶんでしょ?\xf000\xbe01\x0000\xfffeそれいがいは\xfffeあまり しらないなあ\xf000\xbe01\x0000
 フキヨセシティ といえば\xfffeフウロちゃん!\xf000\xbe01\x0000\xfffeむかしは ポケモンジムの\xfffeしかけで きずついた ひとが\xf000\xbe00\x0000\xfffeポケセンに きてたわね!\xf000\xbe01\x0000
 セッカシティ ね...\xf000\xbe01\x0000\xfffeしきの うつろい というか\xfffeふゆげしきが すきな まちね\xf000\xbe01\x0000
@@ -37,7 +37,7 @@ Faraway place
 ポケモンワ-ルドト-ナメント?\xfffeああ ホドモエに いるのね\xf000\xbe01\x0000\xfffeで どうしたの?\xfffeあなた エントリ-したの?\xf000\xbe01\x0000\xfffeじゃあ ママ\xfffeテレビで おうえん するね!\xf000\xbe01\x0000
 なあに? なんだか\xfffeキ-ン っておとも するけど...\xf000\xbe01\x0000\xfffeえっ でんきいしのほらあな?\xf000\xbe01\x0000\xfffeへ- ライブキャスタ-が\xfffeつうじるんだ! はじめてしったわ!\xf000\xbe01\x0000
 ちょっと こえが とおいけど...\xf000\xbe01\x0000\xfffeネジやま?\xf000\xbe01\x0000\xfffeなっとく! ヤ-コンさんの\xfffeやま なのよね-\xf000\xbe01\x0000\xfffeカセキが みつかる ばしょって\xfffeママは きいてるわ!\xf000\xbe01\x0000
-リュウラセンのとう!\xfffeへ- なかに はいれるんだ?\xf000\xbe01\x0000\xfffeあれでしょ? でんせつの ポケモンが\xfffeねむっているかも しれない ばしょね\xf000\xbe01\x0000
+Dragonspiral Tower!\xfffeへ- なかに はいれるんだ?\xf000\xbe01\x0000\xfffeあれでしょ? でんせつの ポケモンが\xfffeねむっているかも しれない ばしょね\xf000\xbe01\x0000
 チャンピオンロ-ド!\xfffeしれんのみち ね!\xf000\xbe01\x0000\xfffeだいじょうぶ! あなたには\xfffeポケモンが いてくれるでしょ!\xf000\xbe01\x0000
 カゴメタウン かあ\xf000\xbe01\x0000\xfffeいったときの いんしょうだと\xfffeひると よるとで\xf000\xbe00\x0000\xfffeぜんぜん ちがう まち だったわ!\xf000\xbe01\x0000
 サザナミタウンね\xf000\xbe01\x0000\xfffeむかしは すっごい\xfffeおかねもちが いたんだけど\xf000\xbe00\x0000\xfffeひっこし なさったらしいわね\xf000\xbe01\x0000\xfffeでも マリンチュ-ブが\xfffeすごいって ウワサを きいたわ\xf000\xbe01\x0000
@@ -46,16 +46,16 @@ Faraway place
 ...えっ どこにいるの?\xf000\xbe01\x0000\xfffeNのしろ?\xf000\xbe01\x0000\xfffeゴメンね...\xfffeママ よく わからない\xf000\xbe01\x0000
 ロイヤルイッシュごう?\xf000\xbe01\x0000\xfffeヒウンからの クル-ズなんて\xfffeちょっと ゴキゲンね!\xf000\xbe01\x0000\xfffeで あなたは どっちなの?\xfffeしょうぶを たのしむの?\xf000\xbe00\x0000\xfffeそれとも ふうけいを たのしむの?\xf000\xbe01\x0000
 ギアステ-ションね\xf000\xbe01\x0000\xfffeカナワタウンいきの トレインを\xfffeいがいと みおとすのよ\xf000\xbe01\x0000\xfffeよゆうが あれば のってみなさいよ\xf000\xbe01\x0000
-バトルサブウェイ!\xfffeまあ チャレンジャ-ね!\xf000\xbe01\x0000\xfffeかちぬくのは かなり\xfffeたいへん だけど\xf000\xbe01\x0000\xfffeたたかった ちしきと けいけんが\xfffeあなたを つよくするはずよ!\xf000\xbe01\x0000
+Battle Subway!\xfffeまあ チャレンジャ-ね!\xf000\xbe01\x0000\xfffeかちぬくのは かなり\xfffeたいへん だけど\xf000\xbe01\x0000\xfffeたたかった ちしきと けいけんが\xfffeあなたを つよくするはずよ!\xf000\xbe01\x0000
 ミュ-ジカルホ-ル!\xf000\xbe01\x0000\xfffeふふふ...\xfffeじつは ママも かよっていたのよ!\xf000\xbe01\x0000\xfffeママは みるほう せんもん だけどね\xfffeアクセサリ-を つけた\xf000\xbe00\x0000\xfffeポケモンの ダンスが かわいくて!\xf000\xbe01\x0000
 ブラックシティ ねえ\xfffeいまは どう かわったのかしら?\xf000\xbe01\x0000
-ホワイトフォレスト ねえ\xfffeいまは どう かわったのかしら?\xf000\xbe01\x0000
+White Forest ねえ\xfffeいまは どう かわったのかしら?\xf000\xbe01\x0000
 ユナイテッドタワ- か\xf000\xbe01\x0000\xfffeがいこくの おともだちと\xfffeポケモンを こうかん したなら\xf000\xbe00\x0000\xfffeぜひ いってみなさいな!\xf000\xbe01\x0000
 ちかすいみゃくのあな ね...\xf000\xbe01\x0000\xfffeちいさな どうくつ だけど\xfffeおくまで たどりつくには\xf000\xbe00\x0000\xfffeいがいと くろう するかもね!\xf000\xbe01\x0000
-フキヨセのほらあな か\xf000\xbe01\x0000\xfffeキバゴって ポケモンを\xfffeつかまえよう とする\xf000\xbe00\x0000\xfffeトレ-ナ-が おおいのよね!\xf000\xbe01\x0000
+Mistralton Cave か\xf000\xbe01\x0000\xfffeキバゴって ポケモンを\xfffeつかまえよう とする\xf000\xbe00\x0000\xfffeトレ-ナ-が おおいのよね!\xf000\xbe01\x0000
 しさくのはら...?\xf000\xbe01\x0000\xfffeああ!\xfffeヤグルマのもりの おくね!\xf000\xbe01\x0000\xfffeで そんなところで\xfffeなに してるの?\xf000\xbe01\x0000
 タワ-オブヘブン...\xfffeポケモンの おはか なのよね\xf000\xbe01\x0000\xfffeきっと きょうも こころやさしい\xfffeひとが かねを ならしているのね\xf000\xbe01\x0000
-セッカのしつげん...\xf000\xbe01\x0000\xfffeセッカのしつげん...\xf000\xbe01\x0000\xfffeなんだっけ...?\xf000\xbe01\x0000\xfffeきいたことは あるけれど\xfffeいったことは ないのよね...\xf000\xbe01\x0000
+Moor of Icirrus...\xf000\xbe01\x0000\xfffeMoor of Icirrus...\xf000\xbe01\x0000\xfffeなんだっけ...?\xf000\xbe01\x0000\xfffeきいたことは あるけれど\xfffeいったことは ないのよね...\xf000\xbe01\x0000
 ショッピングモ-ル?\xf000\xbe01\x0000\xfffeう-ん なぜかな?\xfffeそうこのこと おもいだしちゃった!\xf000\xbe01\x0000
 Discipline Cavern
 シフトファクトリ-!\xf000\xbe01\x0000\xfffeパ-クはかせの\xfffeおてつだい たのしいわよね!\xf000\xbe01\x0000
@@ -63,33 +63,33 @@ Discipline Cavern
 いま どこなの?\xf000\xbe01\x0000\xfffeリバティガ-デンとう ね\xf000\xbe01\x0000\xfffe2ねんまえ まぼろしの ポケモンが\xfffeみつかったって わだい だったわ!\xf000\xbe01\x0000
 P2ラボ?\xfffeちょっと わからないわね...\xf000\xbe01\x0000\xfffeもしかしたら 17ばんすいどうの\xfffeけんきゅうじょの ことかな?\xf000\xbe01\x0000
 スカイアロ-ブリッジは\xfffeほんとうに すごいよね\xf000\xbe01\x0000\xfffeさいしょに みたとき...\xf000\xbe01\x0000\xfffeそう みたときよ\xfffeわたったとき じゃなくて\xf000\xbe01\x0000\xfffeあっけに とられる って\xfffeああいうことを いうのね!\xf000\xbe01\x0000
-ホドモエのはねばし か\xf000\xbe01\x0000\xfffeママも あの はしが\xfffeあがったり さがるところを\xf000\xbe00\x0000\xfffeみてみたいんだけどな...\xf000\xbe01\x0000
+Driftveil Drawbridge か\xf000\xbe01\x0000\xfffeママも あの はしが\xfffeあがったり さがるところを\xf000\xbe00\x0000\xfffeみてみたいんだけどな...\xf000\xbe01\x0000
 シリンダ-ブリッジの\xfffeあしの うらに つたわる しんどう\xf000\xbe01\x0000\xfffeエネルギ-が はいりこんでくる...\xfffeそんな かんじで すきなのよ!\xf000\xbe01\x0000
-ビレッジブリッジ ね\xfffeさいきん ようすが かわって\xf000\xbe00\x0000\xfffeテニスコ-トとか できたのよ\xf000\xbe01\x0000\xfffeただ ポケモンセンタ-が ないから\xfffeあんまり なじみが なくて...\xf000\xbe01\x0000
+Village Bridge ね\xfffeさいきん ようすが かわって\xf000\xbe00\x0000\xfffeテニスコ-トとか できたのよ\xf000\xbe01\x0000\xfffeただ ポケモンセンタ-が ないから\xfffeあんまり なじみが なくて...\xf000\xbe01\x0000
 ワンダ-ブリッジは\xfffeみらいっぽい デザインなのに\xf000\xbe01\x0000\xfffeゆうれいが いるって\xfffeウワサが あるのよ...\xf000\xbe01\x0000
 ハイリンク?\xf000\xbe01\x0000\xfffeちょっと わからないな...\xf000\xbe01\x0000\xfffeイッシュちほうに\xfffeそんな ばしょが あるの?\xf000\xbe01\x0000
-ほうじょうのやしろ かあ\xf000\xbe01\x0000\xfffeはたけの かみさまと いわれる\xfffeてんきの ポケモンを まつる\xf000\xbe00\x0000\xfffeおやしろが あるのよねえ...\xf000\xbe01\x0000
+Abundant Shrine かあ\xf000\xbe01\x0000\xfffeはたけの かみさまと いわれる\xfffeてんきの ポケモンを まつる\xf000\xbe00\x0000\xfffeおやしろが あるのよねえ...\xf000\xbe01\x0000
 サザナミわん!\xf000\xbe01\x0000\xfffeダイビングスポット として\xfffeゆうめいな ばしょね\xf000\xbe01\x0000\xfffeそして かいていには...\xfffeあとは じぶんで たしかめてね!\xf000\xbe01\x0000
 まよいのもり...\xf000\xbe01\x0000\xfffeママ おもうんだけど\xfffeポケモンの しわざ なのかもね?\xf000\xbe01\x0000
 しれんのむろ...?\xf000\xbe01\x0000\xfffeむかし トレ-ナ-から\xfffeきいた きおくが あるような...\xf000\xbe01\x0000\xfffeチャンピオンロ-ドに あった\xfffeいわの こべや だっけ?\xf000\xbe01\x0000
-しるべのま...\xf000\xbe01\x0000\xfffeあっ おもいだした!\xf000\xbe01\x0000\xfffeフキヨセのほらあなの\xfffeいちばん おく だっけ?\xf000\xbe01\x0000\xfffeめずらしい ポケモンの すみか って\xfffeかんがえている ひとも いるんだよね\xf000\xbe01\x0000
-ハイリンクのもり?\xf000\xbe01\x0000\xfffeちょっと わからないな...\xf000\xbe01\x0000\xfffeイッシュちほうに\xfffeそんな ばしょが あるの?\xf000\xbe01\x0000
-ライモンシティは ごらくの まち!\xf000\xbe01\x0000\xfffeあそこの ポケモンセンタ-での\xfffeおしごとも たのしかったわね\xf000\xbe01\x0000\xfffeえ-とね\xf000\xbe01\x0000\xfffeビッグスタジアム リトルコ-トで\xfffeきたえる トレ-ナ-が おおいわよ!\xf000\xbe01\x0000\xfffeほかにも みどころが たくさんね\xfffeあなたの すきに してみなさい!\xf000\xbe01\x0000
+しるべのま...\xf000\xbe01\x0000\xfffeあっ おもいだした!\xf000\xbe01\x0000\xfffeMistralton Caveの\xfffeいちばん おく だっけ?\xf000\xbe01\x0000\xfffeめずらしい ポケモンの すみか って\xfffeかんがえている ひとも いるんだよね\xf000\xbe01\x0000
+Entree Forest?\xf000\xbe01\x0000\xfffeちょっと わからないな...\xf000\xbe01\x0000\xfffeイッシュちほうに\xfffeそんな ばしょが あるの?\xf000\xbe01\x0000
+ライモンシティは ごらくの まち!\xf000\xbe01\x0000\xfffeあそこの ポケモンセンタ-での\xfffeおしごとも たのしかったわね\xf000\xbe01\x0000\xfffeえ-とね\xf000\xbe01\x0000\xfffeBig Stadium リトルコ-トで\xfffeきたえる トレ-ナ-が おおいわよ!\xf000\xbe01\x0000\xfffeほかにも みどころが たくさんね\xfffeあなたの すきに してみなさい!\xf000\xbe01\x0000
 ホドモエシティ!\xf000\xbe01\x0000\xfffeちかごろは ホテルが\xfffeいっぱい たちならぶんでしょ?\xf000\xbe01\x0000\xfffeそれいがいは\xfffeあまり しらないなあ\xf000\xbe01\x0000
 フキヨセシティ といえば\xfffeフウロちゃん!\xf000\xbe01\x0000\xfffeむかしは ポケモンジムの\xfffeしかけで きずついた ひとが\xf000\xbe00\x0000\xfffeポケセンに きてたわね!\xf000\xbe01\x0000
 セッカシティ ね...\xf000\xbe01\x0000\xfffeしきの うつろい というか\xfffeふゆげしきが すきな まちね\xf000\xbe01\x0000
 ソウリュウシティ!\xfffeいい まちよ\xf000\xbe01\x0000\xfffeあたしが きいた はなしだと\xfffeしちょうの シャガさんが\xf000\xbe01\x0000\xfffeドラゴンタイプの すごい\xfffeわざを おしえてくださるって!\xf000\xbe01\x0000
 へ- カノコタウン?\xfffeじゃあ ポケモンけんきゅうじょ ね?\xf000\xbe01\x0000\xfffeそれとも ママの おともだちの\xfffeいえに あそびに いくのかな?\xf000\xbe01\x0000
-ホワイトフォレスト ねえ\xfffeいまは どう かわったのかしら?\xf000\xbe01\x0000
+White Forest ねえ\xfffeいまは どう かわったのかしら?\xf000\xbe01\x0000
 ブラックシティ ねえ\xfffeいまは どう かわったのかしら?\xf000\xbe01\x0000
 ポケモンワ-ルドト-ナメント?\xfffeああ ホドモエに いるのね\xf000\xbe01\x0000\xfffeで どうしたの?\xfffeあなた エントリ-したの?\xf000\xbe01\x0000\xfffeじゃあ ママ\xfffeテレビで おうえん するね!
 なあに? なんだか\xfffeキ-ン っておとも するけど...\xf000\xbe01\x0000\xfffeえっ でんきいしのほらあな?\xf000\xbe01\x0000\xfffeへ- ライブキャスタ-が\xfffeつうじるんだ! はじめてしったわ!\xf000\xbe01\x0000
 ちょっと こえが とおいけど...\xf000\xbe01\x0000\xfffeネジやま?\xf000\xbe01\x0000\xfffeなっとく! ヤ-コンさんの\xfffeやま なのよね-\xf000\xbe01\x0000\xfffeカセキが みつかる ばしょって\xfffeママは きいてるわ!\xf000\xbe01\x0000
-リュウラセンのとう!\xfffeへ- なかに はいれるんだ?\xf000\xbe01\x0000\xfffeあれでしょ? でんせつの ポケモンが\xfffeねむっているかも しれない ばしょね\xf000\xbe01\x0000
+Dragonspiral Tower!\xfffeへ- なかに はいれるんだ?\xf000\xbe01\x0000\xfffeあれでしょ? でんせつの ポケモンが\xfffeねむっているかも しれない ばしょね\xf000\xbe01\x0000
 ジャイアントホ-ル?\xf000\xbe01\x0000\xfffeどこだっけ...?\xfffeいんせきが おちた ばしょ?\xf000\xbe01\x0000\xfffeあれ ちがったっけ?\xf000\xbe01\x0000\xfffeアララギはかせに そんな\xfffeはなしを きいた きがするけど...\xf000\xbe01\x0000
-ホドモエのはねばし か\xf000\xbe01\x0000\xfffeママも あの はしが\xfffeあがったり さがるところを\xf000\xbe00\x0000\xfffeみてみたいんだけどな...\xf000\xbe01\x0000
+Driftveil Drawbridge か\xf000\xbe01\x0000\xfffeママも あの はしが\xfffeあがったり さがるところを\xf000\xbe00\x0000\xfffeみてみたいんだけどな...\xf000\xbe01\x0000
 シリンダ-ブリッジの\xfffeあしの うらに つたわる しんどう\xf000\xbe01\x0000\xfffeエネルギ-が はいりこんでくる...\xfffeそんな かんじで すきなのよ!\xf000\xbe01\x0000
-ビレッジブリッジ ね\xfffeさいきん ようすが かわって\xf000\xbe00\x0000\xfffeテニスコ-トとか できたのよ\xf000\xbe01\x0000\xfffeただ ポケモンセンタ-が ないから\xfffeあんまり なじみが なくて...\xf000\xbe01\x0000
+Village Bridge ね\xfffeさいきん ようすが かわって\xf000\xbe00\x0000\xfffeテニスコ-トとか できたのよ\xf000\xbe01\x0000\xfffeただ ポケモンセンタ-が ないから\xfffeあんまり なじみが なくて...\xf000\xbe01\x0000
 ワンダ-ブリッジは\xfffeみらいっぽい デザインなのに\xf000\xbe01\x0000\xfffeゆうれいが いるって\xfffeウワサが あるのよ...\xf000\xbe01\x0000
 5ばんどうろの\xfffeパフォ-マ-を みるため\xf000\xbe01\x0000\xfffeポケモンセンタ-を\xfffeぬけだしたわね...\xf000\xbe01\x0000\xfffeたしか どうぐを かいとってくれる\xfffeおんなのこが いるんじゃない?\xf000\xbe01\x0000
 6ばんどうろの\xfffeきせつけんきゅうじょに いった?\xf000\xbe00\x0000\xfffeそれに どうくつも あったっけ?\xf000\xbe01\x0000\xfffeあとは...\xfffeそうね たまげるかもね!\xf000\xbe01\x0000
@@ -111,7 +111,7 @@ P2ラボ?\xfffeちょっと わからないわね...\xf000\xbe01\x0000\xfffeも�
 ライモンゲ-トは 3つも あるの!\xf000\xbe01\x0000\xfffeでも どれも かわりは ないかもね\xf000\xbe01\x0000
 ソウリュウゲ-ト ねえ\xf000\xbe01\x0000\xfffeどちらかの ゲ-トに\xfffeいつも なにか たべてる\xf000\xbe00\x0000\xfffeおとこのひとが いたような...?\xf000\xbe01\x0000
 ブラックゲ-ト!\xf000\xbe01\x0000\xfffeぬければ ひろがる\xfffeブラックシティ!\xf000\xbe01\x0000\xfffeう-ん ゲ-トって あまり\xfffeかたることが ないわね...\xf000\xbe01\x0000
-ホワイトゲ-ト!\xf000\xbe01\x0000\xfffeぬければ ひろがる\xfffeホワイトフォレスト!\xf000\xbe01\x0000\xfffeう-ん ゲ-トって あまり\xfffeかたることが ないわね...\xf000\xbe01\x0000
+ホワイトゲ-ト!\xf000\xbe01\x0000\xfffeぬければ ひろがる\xfffeWhite Forest!\xf000\xbe01\x0000\xfffeう-ん ゲ-トって あまり\xfffeかたることが ないわね...\xf000\xbe01\x0000
 ブリッジゲ-ト ね\xf000\xbe01\x0000\xfffeイッシュちほうに ある おおくの\xfffeはしに つながる ゲ-トは\xf000\xbe00\x0000\xfffeすべて ブリッジゲ-ト なのよ!\xf000\xbe01\x0000
 ロ-ドゲ-ト?\xf000\xbe01\x0000\xfffeふふふ ロ-ドゲ-トと よばれる\xfffeゲ-トは 2つ あるのよ\xf000\xbe01\x0000\xfffeいちばんどうろの ちかくと\xfffeリゾ-トデザ-トの ちかくね!\xf000\xbe01\x0000
 かいていいせき!\xf000\xbe01\x0000\xfffeなぞの こだいもじ!\xf000\xbe01\x0000\xfffeひみつを ときあかしたら\xfffeママにも おしえてね!\xf000\xbe01\x0000
