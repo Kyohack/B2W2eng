@@ -1482,7 +1482,7 @@ Pride doesn't come from just\xfffethinking you're high and mighty!\xf000\xbe01\x
 いわタイプや はがねタイプは\xfffeゴツい イメ-ジが あるけど\xf000\xbe01\x0000\xfffeコロコロしてて かわいい\xfffeポケモンも いるんだよ
 ネジやまへの トンネルが できた!\xfffeそうきいて とんできた やまおとこ\xf000\xbe01\x0000
 こんなに つよい トレ-ナ-が\xfffeいるとは きいていなかった...
-この トンネルの ちしつは\xfffeホウエンちほうの いせきに\xf000\xbe00\x0000\xfffeよく にているらしいけど...
+この トンネルの ちしつは\xfffeHoennの いせきに\xf000\xbe00\x0000\xfffeよく にているらしいけど...
 クッ! サクッ!\xf000\xbe01\x0000
 サク ガ-ン!
 くっさく さくがん!\xfffeことばの ひびきが おとこらしいな!
@@ -1720,7 +1720,7 @@ The energy's dropping...\xfffeByoo-byoo-byoo-byoo...
 オレの ポケモン\xfffeジットリ しめって いくぜ!\xf000\xbe01\x0000
 うるおいでは まけてない...\xfffeそう しんじることに するぜ
 ジメジメしてるのが いいんだ\xf000\xbe01\x0000\xfffeあかるいことが いいことって\xfffeだれが きめたんだよな!
-それ ポケモンずかん!?\xf000\xbe01\x0000\xfffeじゃあ いろんな ポケモンを\xfffeみせてくれると うれしいよ!\xf000\xbe01\x0000
+それ Pokédex!?\xf000\xbe01\x0000\xfffeじゃあ いろんな ポケモンを\xfffeみせてくれると うれしいよ!\xf000\xbe01\x0000
 ...!\xfffeそんな ポケモン しらない
 むう... しつげんに いけば\xfffeあたらしい ポケモンと であえるかな?
 A Triple Battle is a new style of battle\xfffein which you use three Pokémon!
@@ -2066,7 +2066,7 @@ Awww... Just what am I\xfffesupposed to do at a time like this...?
 こやつらから うける\xfffeプレッシャ-... なにごとだ!?
 ヴィオさまの おそばで\xfffeなんたる しったい だ...!
 ジムリ-ダ-を こえるのが\xfffeオレの もくひょう なんだぜ!\xf000\xbe01\x0000
-がんばったよな\xfffeオレの ポケモン!
+My Pokémon fought well, didn't they?
 サンヨウレストランの みつごが\xfffeジムリ-ダ-に もどったら オレ\xf000\xbe00\x0000\xfffeまっさきに しょうぶを いどむんだ!
 じっせん こそが\xfffeさいこうの べんきょう です!\xf000\xbe01\x0000
 まけたことも\xfffeべんきょうに するのです!

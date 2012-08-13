@@ -279,7 +279,7 @@ Restored Pokémon's HP for \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffe\xf000Ā\x0
 -
 -
 \xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
 Squeak!\xfffeIt seems to be after something.
 Grrrrr!\xfffeIt seems to be after something.
 It seems to be after something.
