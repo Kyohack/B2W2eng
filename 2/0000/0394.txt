@@ -3,12 +3,12 @@ Mystery Zone
 Faraway place
 \xf000\x0100\x0001\x0000の \xf000\x0105\x0001\x0001
 へ- カノコタウン?\xfffeじゃあ ポケモンけんきゅうじょ ね?\xf000\xbe01\x0000\xfffeそれとも ママの おともだちの\xfffeいえに あそびに いくのかな?\xf000\xbe01\x0000
-カラクサタウン!\xf000\xbe01\x0000\xfffeだれかが かなでていた\xfffeがっきの ねいろを おもいだすわ\xf000\xbe01\x0000
-サンヨウシティだと\xfffeレストランが おすすめ よ!\xf000\xbe01\x0000\xfffeなんたって もとジムリ-ダ-の\xfffeおみせ だもの! きっとすごいわ!\xf000\xbe01\x0000
-ママは シッポウシティの\xfffeそうこや カフェソ-コが すきよ\xf000\xbe01\x0000\xfffeもちろん いちばんの おすすめは\xfffeシッポウはくぶつかん だけどね!\xf000\xbe01\x0000
+Accumula Town!\xf000\xbe01\x0000\xfffeだれかが かなでていた\xfffeがっきの ねいろを おもいだすわ\xf000\xbe01\x0000
+Striaton Cityだと\xfffeレストランが おすすめ よ!\xf000\xbe01\x0000\xfffeなんたって もとジムリ-ダ-の\xfffeおみせ だもの! きっとすごいわ!\xf000\xbe01\x0000
+ママは Nacrene Cityの\xfffeそうこや カフェソ-コが すきよ\xf000\xbe01\x0000\xfffeもちろん いちばんの おすすめは\xfffeシッポウはくぶつかん だけどね!\xf000\xbe01\x0000
 ヒウンシティ!\xfffeもう みどころが ありすぎて\xf000\xbe01\x0000\xfffeヒウンラリ-の ひとを\xfffeさがしてみるのが いいかもね\xf000\xbe01\x0000\xfffeあとは...\xfffeじぶんで たんけんよ!\xf000\xbe01\x0000\xfffeしらない まちに ついたときの\xfffeたのしみの いちばんは たんけん!\xf000\xbe01\x0000
-ライモンシティは ごらくの まち!\xf000\xbe01\x0000\xfffeあそこの ポケモンセンタ-での\xfffeおしごとも たのしかったわね\xf000\xbe01\x0000\xfffeえ-とね\xf000\xbe01\x0000\xfffeBig Stadium リトルコ-トで\xfffeきたえる トレ-ナ-が おおいわよ!\xf000\xbe01\x0000\xfffeほかにも みどころが たくさんね\xfffeあなたの すきに してみなさい!\xf000\xbe01\x0000
-ホドモエシティ!\xf000\xbe01\x0000\xfffeちかごろは ホテルが\xfffeいっぱい たちならぶんでしょ?\xf000\xbe01\x0000\xfffeそれいがいは\xfffeあまり しらないなあ\xf000\xbe01\x0000
+Nimbasa Cityは ごらくの まち!\xf000\xbe01\x0000\xfffeあそこの ポケモンセンタ-での\xfffeおしごとも たのしかったわね\xf000\xbe01\x0000\xfffeえ-とね\xf000\xbe01\x0000\xfffeBig Stadium リトルコ-トで\xfffeきたえる トレ-ナ-が おおいわよ!\xf000\xbe01\x0000\xfffeほかにも みどころが たくさんね\xfffeあなたの すきに してみなさい!\xf000\xbe01\x0000
+Driftveil City!\xf000\xbe01\x0000\xfffeちかごろは ホテルが\xfffeいっぱい たちならぶんでしょ?\xf000\xbe01\x0000\xfffeそれいがいは\xfffeあまり しらないなあ\xf000\xbe01\x0000
 フキヨセシティ といえば\xfffeフウロちゃん!\xf000\xbe01\x0000\xfffeむかしは ポケモンジムの\xfffeしかけで きずついた ひとが\xf000\xbe00\x0000\xfffeポケセンに きてたわね!\xf000\xbe01\x0000
 セッカシティ ね...\xf000\xbe01\x0000\xfffeしきの うつろい というか\xfffeふゆげしきが すきな まちね\xf000\xbe01\x0000
 ソウリュウシティ!\xfffeいい まちよ\xf000\xbe01\x0000\xfffeあたしが きいた はなしだと\xfffeしちょうの シャガさんが\xf000\xbe01\x0000\xfffeドラゴンタイプの すごい\xfffeわざを おしえてくださるって!\xf000\xbe01\x0000
@@ -27,7 +27,7 @@ Faraway place
 13ばんどうろ といえば\xfffeとにかく ながい いんしょうね!\xf000\xbe01\x0000\xfffeメインル-トが わかりにくかった\xfffeきおくが あるけれど ぎゃくに\xf000\xbe00\x0000\xfffeいろんな ところに いけば いいの!\xf000\xbe01\x0000
 14ばんどうろに いるの?\xfffeなら たきのぼり よね!\xf000\xbe01\x0000
 15ばんどうろ かあ...\xf000\xbe01\x0000\xfffeいちばんの めだまは\xfffeシフトファクトリ- よね\xf000\xbe01\x0000\xfffeあと ポケモンこうかんを してくれる\xfffeおねえさんが いたような\xf000\xbe01\x0000\xfffeん- きおくちがい かも...?\xf000\xbe01\x0000
-16ばんどうろ ね...\xf000\xbe01\x0000\xfffeライモンシティの そばに\xfffeあんな もりが ひろがるなんて\xf000\xbe00\x0000\xfffeけっこう いがい よね\xf000\xbe01\x0000\xfffeまよいのもり って\xfffeいまは どうなっているのかしら?\xf000\xbe01\x0000
+16ばんどうろ ね...\xf000\xbe01\x0000\xfffeNimbasa Cityの そばに\xfffeあんな もりが ひろがるなんて\xf000\xbe00\x0000\xfffeけっこう いがい よね\xf000\xbe01\x0000\xfffeまよいのもり って\xfffeいまは どうなっているのかしら?\xf000\xbe01\x0000
 17ばんすいどう ね\xf000\xbe01\x0000\xfffeあそこは みずの ながれが\xfffeはげしくて なかなか おもいどおりに\xf000\xbe00\x0000\xfffeすすめなかったわ...\xf000\xbe01\x0000
 18ばんどうろ!\xf000\xbe01\x0000\xfffeあそこの とくちょうって...\xf000\xbe01\x0000\xfffeなにが あったかしら?\xf000\xbe01\x0000
 ゆめのあとち...\xf000\xbe01\x0000\xfffeそこに のこされた\xfffeふしぎな ちからに ひきよせられ\xf000\xbe01\x0000\xfffeめずらしい ポケモンが\xfffeやってくるって きいたわ!\xf000\xbe01\x0000
@@ -74,8 +74,8 @@ Abundant Shrine かあ\xf000\xbe01\x0000\xfffeはたけの かみさまと い�
 しれんのむろ...?\xf000\xbe01\x0000\xfffeむかし トレ-ナ-から\xfffeきいた きおくが あるような...\xf000\xbe01\x0000\xfffeチャンピオンロ-ドに あった\xfffeいわの こべや だっけ?\xf000\xbe01\x0000
 しるべのま...\xf000\xbe01\x0000\xfffeあっ おもいだした!\xf000\xbe01\x0000\xfffeMistralton Caveの\xfffeいちばん おく だっけ?\xf000\xbe01\x0000\xfffeめずらしい ポケモンの すみか って\xfffeかんがえている ひとも いるんだよね\xf000\xbe01\x0000
 Entree Forest?\xf000\xbe01\x0000\xfffeちょっと わからないな...\xf000\xbe01\x0000\xfffeイッシュちほうに\xfffeそんな ばしょが あるの?\xf000\xbe01\x0000
-ライモンシティは ごらくの まち!\xf000\xbe01\x0000\xfffeあそこの ポケモンセンタ-での\xfffeおしごとも たのしかったわね\xf000\xbe01\x0000\xfffeえ-とね\xf000\xbe01\x0000\xfffeBig Stadium リトルコ-トで\xfffeきたえる トレ-ナ-が おおいわよ!\xf000\xbe01\x0000\xfffeほかにも みどころが たくさんね\xfffeあなたの すきに してみなさい!\xf000\xbe01\x0000
-ホドモエシティ!\xf000\xbe01\x0000\xfffeちかごろは ホテルが\xfffeいっぱい たちならぶんでしょ?\xf000\xbe01\x0000\xfffeそれいがいは\xfffeあまり しらないなあ\xf000\xbe01\x0000
+Nimbasa Cityは ごらくの まち!\xf000\xbe01\x0000\xfffeあそこの ポケモンセンタ-での\xfffeおしごとも たのしかったわね\xf000\xbe01\x0000\xfffeえ-とね\xf000\xbe01\x0000\xfffeBig Stadium リトルコ-トで\xfffeきたえる トレ-ナ-が おおいわよ!\xf000\xbe01\x0000\xfffeほかにも みどころが たくさんね\xfffeあなたの すきに してみなさい!\xf000\xbe01\x0000
+Driftveil City!\xf000\xbe01\x0000\xfffeちかごろは ホテルが\xfffeいっぱい たちならぶんでしょ?\xf000\xbe01\x0000\xfffeそれいがいは\xfffeあまり しらないなあ\xf000\xbe01\x0000
 フキヨセシティ といえば\xfffeフウロちゃん!\xf000\xbe01\x0000\xfffeむかしは ポケモンジムの\xfffeしかけで きずついた ひとが\xf000\xbe00\x0000\xfffeポケセンに きてたわね!\xf000\xbe01\x0000
 セッカシティ ね...\xf000\xbe01\x0000\xfffeしきの うつろい というか\xfffeふゆげしきが すきな まちね\xf000\xbe01\x0000
 ソウリュウシティ!\xfffeいい まちよ\xf000\xbe01\x0000\xfffeあたしが きいた はなしだと\xfffeしちょうの シャガさんが\xf000\xbe01\x0000\xfffeドラゴンタイプの すごい\xfffeわざを おしえてくださるって!\xf000\xbe01\x0000
