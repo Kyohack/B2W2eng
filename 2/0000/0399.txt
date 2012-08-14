@@ -195,7 +195,7 @@ You can chat with other people\xfffeby selecting "CHAT" in the menu.\xf000\xbe01
 だれも こないと\xfffeひまですね\xf000\xbe01\x0000\xfffeなにか おもしろいこと\xfffeないかな...\xf000\xbe01\x0000
 あなたって \xf000\x010e\x0001\x0000に\xfffeみまちがえられた ことないですか?\xf000\xbe01\x0000\xfffeなんとなく そんな\xfffeふんいきが するんですよね-\xf000\xbe01\x0000
 こんにちは!\xf000\xbe01\x0000\xfffeそうです!\xfffeあいさつが じゅうようなんです!\xf000\xbe01\x0000\xfffeだれかが きたら\xfffeもっと アピ-ル アピ-ル!\xf000\xbe01\x0000
-はじめまして!\xf000\xbe01\x0000\xfffe\xf000\x011c\x0001\x0000 は\xfffeいいですよね-\xf000\xbe00\x0000\xfffeわたしも だいすき なんです!\xf000\xbe01\x0000\xfffeはじめて あったひとには\xfffeきちんと じこしょうかいを するのが\xf000\xbe00\x0000\xfffeマナ-ですよ!\xf000\xbe01\x0000\xfffeじぶんを しょうかい することで\xfffeあいてのことも わかって くるんです!\xf000\xbe01\x0000
+はじめまして!\xf000\xbe01\x0000\xfffe\xf000\x011c\x0001\x0000 は\xfffeいいですよね-\xf000\xbe00\x0000\xfffeわたしも だいすき なんです!\xf000\xbe01\x0000\xfffeはじめて あったひとには\xfffeきちんと TRAINER'S QUOTEを するのが\xf000\xbe00\x0000\xfffeマナ-ですよ!\xf000\xbe01\x0000\xfffeじぶんを しょうかい することで\xfffeあいてのことも わかって くるんです!\xf000\xbe01\x0000
 へ- \xf000\x011c\x0001\x0000 トレ-ナ-\xfffeなんですか!?\xf000\xbe00\x0000\xfffeすごい ですね-\xf000\xbe01\x0000\xfffeでも I'm sorry!\xfffeわたし ポケモン もってないんです...\xf000\xbe01\x0000\xfffeたいせんは するよりも\xfffeみてるほうが すきなので!\xf000\xbe01\x0000
 あ!\xfffeわたし \xf000\x011c\x0001\x0000 ほしいです!\xf000\xbe00\x0000\xfffeわたしのと こうかん してください\xf000\xbe01\x0000\xfffe...\xf000\xbe01\x0000\xfffeあ いまの うそです\xf000\xbe01\x0000\xfffeわたし ほんとは ポケモン もって\xfffeないので こうかん できないんです...\xf000\xbe01\x0000
 \xf000\x011c\x0001\x0000が ほしいのは\xfffeわかりますが\xf000\xbe01\x0000\xfffeこうかんを するときは\xfffeむりを いっちゃ だめですよ!\xf000\xbe01\x0000\xfffeあいての ほしいポケモンの ことも\xfffeかんがえなきゃね!\xf000\xbe01\x0000
