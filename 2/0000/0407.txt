@@ -3,8 +3,8 @@
 ぼくの しじ ひとつで\xfffeポケモンは きずついても たたかう\xf000\xbe01\x0000\xfffeその いみを ふかく うけとめる\xf000\xbe01\x0000\xfffeそのように たたかう ポケモンを\xfffeより いとおしく たのもしく おもう\xf000\xbe01\x0000\xfffeそんな ポケモンのため トレ-ナ-は\xfffeなにができるか? なにをすべきか?\xf000\xbe01\x0000\xfffeそう! ポケモンと ひとの\xfffeりそうの かんけいを もとめるため\xf000\xbe00\x0000\xfffeぼくは ぜんりょくで たたかうよ!\xf000\xbe01\x0000
 ありがとう...!!\xf000\xbe01\x0000\xfffeりそうに ちかづくための みち...\xfffeすこし みえた きがする\xf000\xbe01\x0000
 まけても きみの ポケモンたちの\xfffeとうしは まだ みなぎっているね\xf000\xbe01\x0000
-チェレン: こうして おおくの ひとや\xfffeポケモンの そんざいに ふれて\xf000\xbe01\x0000\xfffeじぶんが なにものか みさだめれば\xfffeいっぽんの みちが ひらけてくる\xf000\xbe01\x0000\xfffeきっと それは\xfffeぼくが ぼくで あるための みち\xf000\xbe01\x0000\xfffeぼくにも きみにも\xfffeポケモンが いてくれる\xf000\xbe01\x0000\xfffeともに みちを あるいてくれる\xfffeだいじな ポケモンたちが\xf000\xbe01\x0000
-チェレン: きみにも ぼくにも\xfffeそして トレ-ナ-の そばには\xf000\xbe01\x0000\xfffeポケモンが いてくれる!\xfffeだから さきに すすめる\xf000\xbe01\x0000\xfffeともに あゆんでくれる そんざいが\xfffeおおきな ちからを くれるんだ\xf000\xbe01\x0000
+Cheren: こうして おおくの ひとや\xfffeポケモンの そんざいに ふれて\xf000\xbe01\x0000\xfffeじぶんが なにものか みさだめれば\xfffeいっぽんの みちが ひらけてくる\xf000\xbe01\x0000\xfffeきっと それは\xfffeぼくが ぼくで あるための みち\xf000\xbe01\x0000\xfffeぼくにも きみにも\xfffeポケモンが いてくれる\xf000\xbe01\x0000\xfffeともに みちを あるいてくれる\xfffeだいじな ポケモンたちが\xf000\xbe01\x0000
+Cheren: きみにも ぼくにも\xfffeそして トレ-ナ-の そばには\xf000\xbe01\x0000\xfffeポケモンが いてくれる!\xfffeだから さきに すすめる\xf000\xbe01\x0000\xfffeともに あゆんでくれる そんざいが\xfffeおおきな ちからを くれるんだ\xf000\xbe01\x0000
 りそうを もとめ たたかいつづける!\xfffeわかき ポケモントレ-ナ- Cheren\xf000\xbe01\x0000
 いくよ! あんたの りせい\xfffeぶっとばして あ・げ・る!\xf000\xbe01\x0000
 この ポケモンは こう たたかう\xfffeこの どうぐは こう つかう...\xf000\xbe00\x0000\xfffeだれかの いけんで きめてない?\xf000\xbe01\x0000\xfffeそれでも いいけど だいじなのは\xfffeあんたが どうしたいか ってこと!\xf000\xbe01\x0000\xfffeいくよ! あんたの じょ-しき\xfffeぶっとばして あたらしい せかいに\xf000\xbe00\x0000\xfffeつれていって あ・げ・る!\xf000\xbe01\x0000
@@ -19,8 +19,8 @@
 んうん...\xf000\xbe01\x0000\xfffeこの たたかいに かてば\xfffeいままでに ない えを かける\xf000\xbe00\x0000\xfffeそんな イメ-ジが あるんだ...\xf000\xbe01\x0000\xfffeうん! たたかいかたの\xfffeイマジネ-ション いっぱい!\xf000\xbe01\x0000\xfffeではでは\xfffeさっそくだけど しょうぶ だね\xf000\xbe01\x0000
 Ooh...?!\xfffeCould this be the end?!
 うわあ...\xfffeなんだか... うつくしいね...\xf000\xbe01\x0000
-ア-ティ: あうう\xfffeまけちゃったよ...\xf000\xbe01\x0000\xfffeそれにしても きみ\xfffeすっごく つよいんだねえ\xf000\xbe01\x0000
-ア-ティ: ときどき さあ\xfffeかっこわるい かちかた ってきくけど\xf000\xbe00\x0000\xfffeいっしょうけんめい なら\xf000\xbe01\x0000\xfffeどんな たたかいかた だって\xfffeきれいに みえると おもうんだよね\xf000\xbe01\x0000
+Arty: あうう\xfffeまけちゃったよ...\xf000\xbe01\x0000\xfffeそれにしても きみ\xfffeすっごく つよいんだねえ\xf000\xbe01\x0000
+Arty: ときどき さあ\xfffeかっこわるい かちかた ってきくけど\xf000\xbe00\x0000\xfffeいっしょうけんめい なら\xf000\xbe01\x0000\xfffeどんな たたかいかた だって\xfffeきれいに みえると おもうんだよね\xf000\xbe01\x0000
 モスト インセクト ア-ティスト!\xfffeア-ティ! キャンバスは ここだあ!\xf000\xbe01\x0000
 いとしの ポケモンたちで\xfffeあなたを クラクラ させちゃうけど\xf000\xbe01\x0000
 わたしが わたしで あること!\xfffeポケモンが ポケモンで あること!\xf000\xbe01\x0000\xfffeそれを かんじるために\xfffeポケモンの わざを やりとりするの\xf000\xbe01\x0000\xfffeさあ! いとしの ポケモンたちで\xfffeあなたを クラクラ させちゃうけど\xf000\xbe01\x0000
@@ -43,8 +43,8 @@ Well, I give up... And keep in mind\xfffeI wasn't goin' easy on ya!
 いよいよ けっしょうせん!\xf000\xbe01\x0000\xfffeそれって テッペンを きめる\xfffeポケモンしょうぶ って ことでしょ?\xf000\xbe01\x0000\xfffeアタシ テッペンって だいすき!\xfffeたかい ところ からだと\xf000\xbe00\x0000\xfffeとおくとおく まで みえちゃうもん!\xf000\xbe01\x0000\xfffeさ! アタシと アナタで\xfffeたのしいこと しましょう!\xf000\xbe01\x0000
 I feel stronger just battling\xfffewith you... thanks!
 かっても まけても\xfffeたたかうことで えること あるよね\xf000\xbe01\x0000
-フウロ: アナタって すごい\xfffeポケモントレ-ナ- なのね!\xf000\xbe01\x0000\xfffeひさしぶりに ほんきで\xfffeポケモンしょうぶ できて\xf000\xbe00\x0000\xfffeアタシも ポケモンも しあわせ\xf000\xbe01\x0000
-フウロ: ホウエンちほうの\xfffeジムリ-ダ- ナギさん!\xf000\xbe01\x0000\xfffeあのひとと おおぞらで たたかえたら\xfffeきっと たのしいと おもうの!\xf000\xbe01\x0000
+Fuuro: アナタって すごい\xfffeポケモントレ-ナ- なのね!\xf000\xbe01\x0000\xfffeひさしぶりに ほんきで\xfffeポケモンしょうぶ できて\xf000\xbe00\x0000\xfffeアタシも ポケモンも しあわせ\xf000\xbe01\x0000
+Fuuro: Hoennの\xfffeジムリ-ダ- ナギさん!\xf000\xbe01\x0000\xfffeあのひとと おおぞらで たたかえたら\xfffeきっと たのしいと おもうの!\xf000\xbe01\x0000
 おおぞらの ぶっとびガ-ル Skyla!\xfffeじまんの わざで ぶっとばせ-ッ!!\xf000\xbe01\x0000
 いま わたしが もとめるのは\xfffeあかるい みらいを みせてくれる\xf000\xbe00\x0000\xfffeわかい トレ-ナ-の そんざい\xf000\xbe01\x0000
 としおいて かんがえるのは\xfffeじぶんに のこされた じかんのこと\xf000\xbe01\x0000\xfffeできることが へっていく いま\xfffeわたしが もとめるのは\xf000\xbe01\x0000\xfffeあかるい みらいを みせてくれる\xfffeわかい トレ-ナ-の そんざい\xf000\xbe01\x0000
@@ -108,7 +108,7 @@ Now that was really something!\xfffeAin't you just charming!
 You and your Pokémon...!\xfffeThey are a stellar combination!\xf000\xbe00\x0000What a beautiful friendship you've built!
 I shall try you at my limits!\xfffeYou shall be schooled!
 Hachiku: You are strong!\xfffeNo, both you and your Pokémon are strong!
-ハチク: いちどは すてた\xfffeやくしゃの みち...\xf000\xbe01\x0000\xfffeだからこそ みえた たいせつなもの\xfffeそれを しょうぶに つぎこめた!\xf000\xbe01\x0000
+ハチク: いちどは すてた\xfffeやくしゃの みち...\xf000\xbe01\x0000\xfffeだからこそ みえた KEY ITEMS\xfffeそれを しょうぶに つぎこめた!\xf000\xbe01\x0000
 しずかなる アイス マスク!\xfffeハチク! アクションッ スタ-トッ!\xf000\xbe01\x0000
 いまは むしょうに\xfffeたたかいたい きぶん だぜ!\xf000\xbe01\x0000
 オレは トレ-ナ- だからな\xf000\xbe01\x0000\xfffeつよい ヤツが いたら\xfffeたたかいたく なっちまうんだ\xf000\xbe01\x0000
@@ -597,7 +597,7 @@ Alder: Never stop thinking about training.\xf000\xbe01\x0000\xfffeさすれば �
 ふはははっ! みたか!\xfffeこれぞ わが けんきゅうの せいか!\xf000\xbe01\x0000
 シュウイチ: ちがう...\xfffeけんきゅうは まちがっていなかった\xf000\xbe00\x0000\xfffeおまえが すぐれていただけだ...\xf000\xbe01\x0000
 シュウイチ: ふははっ!\xfffeわが ポケモンの ちからは\xf000\xbe00\x0000\xfffeまだまだ こんなものではない!\xf000\xbe01\x0000
-ポケモンはかせ! シュウイチ!\xfffeやしんを いだき とうじょうだァ!\xf000\xbe01\x0000
+Professor! シュウイチ!\xfffeやしんを いだき とうじょうだァ!\xf000\xbe01\x0000
 いよいよ わたしの ポケモンの\xfffeおひろめです! まけませんよ!\xf000\xbe01\x0000
 このしあいも かちぬいて\xfffeみんなに わたしの ポケモンを\xf000\xbe00\x0000\xfffeみてもらうんですっ!\xf000\xbe01\x0000
 おお-! これって\xfffeテレビに うつってますよね?\xf000\xbe01\x0000\xfffeいよいよ わたしの ポケモンが\xfffeテレビデビュ- しちゃいますよっ!\xf000\xbe01\x0000
@@ -668,7 +668,7 @@ Well, I give up... And keep in mind\xfffeI wasn't goin' easy on ya!
 I feel stronger just battling\xfffewith you... thanks!
 かっても まけても\xfffeたたかうことで えること あるよね\xf000\xbe01\x0000
 フウロ: アナタって すごい\xfffeポケモントレ-ナ- なのね!\xf000\xbe01\x0000\xfffeひさしぶりに ほんきで\xfffeポケモンしょうぶ できて\xf000\xbe00\x0000\xfffeアタシも ポケモンも しあわせ\xf000\xbe01\x0000
-フウロ: ホウエンちほうの\xfffeジムリ-ダ- ナギさん!\xf000\xbe01\x0000\xfffeあのひとと おおぞらで たたかえたら\xfffeきっと たのしいと おもうの!\xf000\xbe01\x0000
+フウロ: Hoennの\xfffeジムリ-ダ- ナギさん!\xf000\xbe01\x0000\xfffeあのひとと おおぞらで たたかえたら\xfffeきっと たのしいと おもうの!\xf000\xbe01\x0000
 いつもと ちがう なかまとでも\xfffeしょうりを めざす フウロだ!\xf000\xbe01\x0000
 いま わたしが もとめるのは\xfffeあかるい みらいを みせてくれる\xf000\xbe00\x0000\xfffeわかい トレ-ナ-の そんざい\xf000\xbe01\x0000
 としおいて かんがえるのは\xfffeじぶんに のこされた じかんのこと\xf000\xbe01\x0000\xfffeできることが へっていく いま\xfffeわたしが もとめるのは\xf000\xbe01\x0000\xfffeあかるい みらいを みせてくれる\xfffeわかい トレ-ナ-の そんざい\xf000\xbe01\x0000
@@ -732,7 +732,7 @@ Now that was really something!\xfffeAin't you just charming!
 You and your Pokémon...!\xfffeThey are a stellar combination!\xf000\xbe00\x0000What a beautiful friendship you've built!
 I shall try you at my limits!\xfffeYou shall be schooled!
 Hachiku: You are strong!\xfffeNo, both you and your Pokémon are strong!
-ハチク: いちどは すてた\xfffeやくしゃの みち...\xf000\xbe01\x0000\xfffeだからこそ みえた たいせつなもの\xfffeそれを しょうぶに つぎこめた!\xf000\xbe01\x0000
+ハチク: いちどは すてた\xfffeやくしゃの みち...\xf000\xbe01\x0000\xfffeだからこそ みえた KEY ITEMS\xfffeそれを しょうぶに つぎこめた!\xf000\xbe01\x0000
 ポケモンの つよさを ひきだせ!\xfffeハチクなら それが できるはず!\xf000\xbe01\x0000
 おれは タケシ!\xfffeいわタイプの エキスパ-トさ!\xf000\xbe01\x0000
 おれは タケシ!\xfffeいわタイプの エキスパ-トさ!\xf000\xbe00\x0000\xfffeおれの まもりは かたいぜ!\xf000\xbe01\x0000
@@ -987,8 +987,8 @@ Hachiku: You are strong!\xfffeNo, both you and your Pokémon are strong!
 あなたが スズナの あいて?\xf000\xbe01\x0000\xfffeいいよ! つよい ひと まってたし\xf000\xbe01\x0000\xfffeだけど あたしも\xfffeきあい はいってるから つよいよ?\xf000\xbe01\x0000\xfffeポケモンも オシャレも れんあいも\xfffeぜんぶ きあい なのッ!\xf000\xbe01\x0000\xfffeそこんとこ みせたげるから\xfffeかくご しちゃってよね!\xf000\xbe01\x0000
 すごいんだ!\xfffeちょっと そんけい するかも\xf000\xbe01\x0000
 あなたの きあい\xfffeつたわってきたけど まけないから!\xf000\xbe01\x0000
-スズナ: すごいんだ!\xfffeあなたのこと そんけい しちゃう!\xf000\xbe01\x0000\xfffeうん なんだか あなたの きあい\xfffeそういうものに おしきられちゃった\xf000\xbe01\x0000\xfffeでも つぎは もっと きあい いれて\xfffeぜったいに まけないからね!\xf000\xbe01\x0000
-スズナ: どう? スズナの きあい!\xfffeポケモンも きあい たっぷり でしょ!\xf000\xbe01\x0000
+Suzuna: すごいんだ!\xfffeあなたのこと そんけい しちゃう!\xf000\xbe01\x0000\xfffeうん なんだか あなたの きあい\xfffeそういうものに おしきられちゃった\xf000\xbe01\x0000\xfffeでも つぎは もっと きあい いれて\xfffeぜったいに まけないからね!\xf000\xbe01\x0000
+Suzuna: どう? スズナの きあい!\xfffeポケモンも きあい たっぷり でしょ!\xf000\xbe01\x0000
 レンタルで どう たたかう!?\xfffeスズナ とうじょうッ!!\xf000\xbe01\x0000
 オレに ポケモンしょうぶの\xfffeたのしさを おもいださせてくれる\xf000\xbe00\x0000\xfffeトレ-ナ-で あってくれ!\xf000\xbe01\x0000
 つぎの あいては きみか...\xf000\xbe01\x0000\xfffeオレに ポケモンしょうぶの\xfffeたのしさを おもいださせてくれる\xf000\xbe00\x0000\xfffeトレ-ナ-で あってくれ!\xf000\xbe01\x0000
@@ -1003,6 +1003,6 @@ Hachiku: You are strong!\xfffeNo, both you and your Pokémon are strong!
 ... ... ...\xf000\xbe01\x0000
 ...!\xf000\xbe01\x0000
 ...?\xf000\xbe01\x0000
-レッド: ...!!\xf000\xbe01\x0000
-レッド: ...!?\xf000\xbe01\x0000
+Red: ...!!\xf000\xbe01\x0000
+Red: ...!?\xf000\xbe01\x0000
 リビング レジェンド レッド!\xfffeその つよさ ほんもの なのかあ!?\xf000\xbe01\x0000
