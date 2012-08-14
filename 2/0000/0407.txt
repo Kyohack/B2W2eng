@@ -67,8 +67,8 @@ I'm worn out, but\xfffeboiling over with emotions...\xf000\xbe00\x0000What can I
 あたしね いろいろ あったけれど\xfffeポケモンと イッシュちほうを めぐる\xf000\xbe00\x0000\xfffeたびを して ほんと よかったよお!\xf000\xbe01\x0000\xfffeおおくの ポケモンと であって\xfffeやりたいことも みつかって...\xf000\xbe01\x0000\xfffeうまく いえないけれど\xfffeこの きもち あたしの ポケモンを\xf000\xbe00\x0000\xfffeつうじて あなたに とどけたいな!\xf000\xbe01\x0000
 ふえええ!\xf000\xbe01\x0000\xfffeやっぱり あなたは\xfffeすごく つよい トレ-ナ-だよね!\xf000\xbe01\x0000
 どっちの ポケモンも\xfffeすごく がんばったよね!!\xf000\xbe01\x0000
-ベル: あいてしてくれて ありがとう!\xfffeうん! べんきょうに なったよ!\xf000\xbe01\x0000\xfffeあたしね ポケモンは\xfffeひとと ひとを なかよくさせるため\xf000\xbe00\x0000\xfffeあたしたちの そばに いてくれる...\xf000\xbe01\x0000\xfffeさいきん そう かんがえていて\xfffeけんきゅう しようと してるんだよ!\xf000\xbe01\x0000
-ベル: あたし あなたが する\xfffeポケモンしょうぶ だいすきだよ\xf000\xbe01\x0000\xfffeなんだか ポケモンも\xfffeとても うれしそうなんだもん!\xf000\xbe01\x0000
+Bianca: あいてしてくれて ありがとう!\xfffeうん! べんきょうに なったよ!\xf000\xbe01\x0000\xfffeあたしね ポケモンは\xfffeひとと ひとを なかよくさせるため\xf000\xbe00\x0000\xfffeあたしたちの そばに いてくれる...\xf000\xbe01\x0000\xfffeさいきん そう かんがえていて\xfffeけんきゅう しようと してるんだよ!\xf000\xbe01\x0000
+Bianca: あたし あなたが する\xfffeポケモンしょうぶ だいすきだよ\xf000\xbe01\x0000\xfffeなんだか ポケモンも\xfffeとても うれしそうなんだもん!\xf000\xbe01\x0000
 しんじつを もとめて すすみつづける\xfffeわかき けんきゅうしゃ ベルゥッ!!\xf000\xbe01\x0000
 ほのおタイプで もやしまくる\xfffeオレ ポッドが あいてをするぜ!\xf000\xbe01\x0000
 Ya-HOO!\xf000\xbe01\x0000\xfffeC'mon, play with me,\xfffeand give it your all!!\xf000\xbe01\x0000
@@ -86,9 +86,9 @@ I give up...\xf000\xbe01\x0000I am B-U-R-N-T O-U-T!
 コ-ン: すごいですね!\xf000\xbe01\x0000\xfffeいろいろ りゆうが あったとはいえ\xfffeこの コ-ンに かったのですよ!\xf000\xbe01\x0000
 コ-ン: すごいですね!\xf000\xbe01\x0000\xfffeいろいろ りゆうが あったとはいえ\xfffeこの コ-ンの あいてを するとは!\xf000\xbe01\x0000
 トライアル トライアングルッ!\xfffeみずポケモン マスタ- コ-ン!!\xf000\xbe01\x0000
-はい... それでは\xfffeくさタイプの ポケモンが すきな\xf000\xbe00\x0000\xfffeぼく デントが おあいてします\xf000\xbe01\x0000
-はい... ぼくで よろしければ\xfffeまごころを こめて\xf000\xbe00\x0000\xfffeおあいて させていただきます\xf000\xbe01\x0000
-はい... それでは\xfffeくさタイプの ポケモンが すきな\xf000\xbe00\x0000\xfffeぼく デントが おあいてします\xf000\xbe01\x0000\xfffeよろしく おねがい いたしますね\xf000\xbe01\x0000
+yes... それでは\xfffeくさタイプの ポケモンが すきな\xf000\xbe00\x0000\xfffeぼく デントが おあいてします\xf000\xbe01\x0000
+yes... ぼくで よろしければ\xfffeまごころを こめて\xf000\xbe00\x0000\xfffeおあいて させていただきます\xf000\xbe01\x0000
+yes... それでは\xfffeくさタイプの ポケモンが すきな\xf000\xbe00\x0000\xfffeぼく デントが おあいてします\xf000\xbe01\x0000\xfffeよろしく おねがい いたしますね\xf000\xbe01\x0000
 ...Er, is it over?
 ...え-っと\xfffeぼく かっちゃいました?\xf000\xbe01\x0000
 デント: ...おどろいた\xfffeきみ すっごく つよいんだね\xf000\xbe01\x0000\xfffeきょうだいの ポッドや コ-ンでも\xfffeかてない あいて だったみたい...\xf000\xbe01\x0000
@@ -99,8 +99,8 @@ I give up...\xf000\xbe01\x0000I am B-U-R-N-T O-U-T!
 いらっしゃい!\xf000\xbe01\x0000\xfffeもと ジムリ-ダ-にして\xfffeいまは シッポウはくぶつかん の\xf000\xbe00\x0000\xfffeかんちょうの アロエさ\xf000\xbe01\x0000\xfffeさあて トレ-ナ-さん\xf000\xbe01\x0000\xfffeあいじょう こめて\xfffeそだてた ポケモンで\xf000\xbe01\x0000\xfffeどんな たたかいかたを するのか\xfffeけんきゅう させて もらうよ!\xf000\xbe01\x0000
 Now that was really something!\xfffeAin't you just charming!
 なんだいなんだい? もしかして\xfffeわざを よみちがえたのかい?\xf000\xbe01\x0000
-アロエ: ウットリ するほどの\xfffeえもいわれぬ たたかいっぷり!\xf000\xbe00\x0000\xfffeアンタと であえて よかったよ!\xf000\xbe01\x0000
-アロエ: あはは! まけたなら\xfffeその りゆうを ぶんせき して\xf000\xbe00\x0000\xfffeつぎの たいせんに いかしなよ!\xf000\xbe01\x0000
+Aloe: ウットリ するほどの\xfffeえもいわれぬ たたかいっぷり!\xf000\xbe00\x0000\xfffeアンタと であえて よかったよ!\xf000\xbe01\x0000
+Aloe: あはは! まけたなら\xfffeその りゆうを ぶんせき して\xf000\xbe00\x0000\xfffeつぎの たいせんに いかしなよ!\xf000\xbe01\x0000
 たたかう はくぶつかん かんちょう!\xfffeナチュラル ボ-ン Mom アロエ!!\xf000\xbe01\x0000
 たたかいに いどむ こころの\xfffeじゅんび できているようだな\xf000\xbe01\x0000
 たたかいに いどむ こころの\xfffeじゅんび できているようだな\xf000\xbe01\x0000\xfffeでは いざ!\xf000\xbe01\x0000
@@ -108,7 +108,7 @@ Now that was really something!\xfffeAin't you just charming!
 You and your Pokémon...!\xfffeThey are a stellar combination!\xf000\xbe00\x0000What a beautiful friendship you've built!
 I shall try you at my limits!\xfffeYou shall be schooled!
 Hachiku: You are strong!\xfffeNo, both you and your Pokémon are strong!
-ハチク: いちどは すてた\xfffeやくしゃの みち...\xf000\xbe01\x0000\xfffeだからこそ みえた KEY ITEMS\xfffeそれを しょうぶに つぎこめた!\xf000\xbe01\x0000
+Hachiku: いちどは すてた\xfffeやくしゃの みち...\xf000\xbe01\x0000\xfffeだからこそ みえた KEY ITEMS\xfffeそれを しょうぶに つぎこめた!\xf000\xbe01\x0000
 しずかなる アイス マスク!\xfffeハチク! アクションッ スタ-トッ!\xf000\xbe01\x0000
 いまは むしょうに\xfffeたたかいたい きぶん だぜ!\xf000\xbe01\x0000
 オレは トレ-ナ- だからな\xf000\xbe01\x0000\xfffeつよい ヤツが いたら\xfffeたたかいたく なっちまうんだ\xf000\xbe01\x0000
@@ -155,7 +155,7 @@ Ahh!\xf000\xbe01\x0000\xfffeあんなに たのしい しょうぶも\xfffeか�
 トレ-ナ-と あいまみえるとき\xfffeどちらが つよいのか そうぞうすると\xf000\xbe00\x0000\xfffeむねが あつくなる\xf000\xbe01\x0000\xfffeそして じっさいに たちあうと その\xfffeあつさは さいこうに なるよな!\xf000\xbe01\x0000
 あっぱれ!\xfffeまさに てんかむそう よな!\xf000\xbe01\x0000
 ひぼんな たたかいぶり だったぞ\xfffeきみも! きみの ポケモンも!\xf000\xbe01\x0000
-Alder: : やるでは ないか!\xf000\xbe01\x0000\xfffeそうだな\xfffeいつだって せかいを かえるのは\xf000\xbe00\x0000\xfffeゆめを ほんきで おいもとめる ヤツだ\xf000\xbe00\x0000\xfffeそう! きみの ような!!\xf000\xbe01\x0000
+Alder: やるでは ないか!\xf000\xbe01\x0000\xfffeそうだな\xfffeいつだって せかいを かえるのは\xf000\xbe00\x0000\xfffeゆめを ほんきで おいもとめる ヤツだ\xf000\xbe00\x0000\xfffeそう! きみの ような!!\xf000\xbe01\x0000
 Alder: Never stop thinking about training.\xf000\xbe01\x0000\xfffeさすれば いつのひか\xfffeおのれのことも ポケモンのことも\xf000\xbe00\x0000\xfffeわかり おもうように たたかえる\xf000\xbe01\x0000
 ウルガモスとの おもいでを むねに\xfffeつよさ やさしさを つたえよ アデク\xf000\xbe01\x0000
 おれは タケシ!\xfffeいわタイプの エキスパ-トさ!\xf000\xbe01\x0000
@@ -667,8 +667,8 @@ Well, I give up... And keep in mind\xfffeI wasn't goin' easy on ya!
 いよいよ けっしょうせん!\xf000\xbe01\x0000\xfffeそれって テッペンを きめる\xfffeポケモンしょうぶ って ことでしょ?\xf000\xbe01\x0000\xfffeアタシ テッペンって だいすき!\xfffeたかい ところ からだと\xf000\xbe00\x0000\xfffeとおくとおく まで みえちゃうもん!\xf000\xbe01\x0000\xfffeさ! アタシと アナタで\xfffeたのしいこと しましょう!\xf000\xbe01\x0000
 I feel stronger just battling\xfffewith you... thanks!
 かっても まけても\xfffeたたかうことで えること あるよね\xf000\xbe01\x0000
-フウロ: アナタって すごい\xfffeポケモントレ-ナ- なのね!\xf000\xbe01\x0000\xfffeひさしぶりに ほんきで\xfffeポケモンしょうぶ できて\xf000\xbe00\x0000\xfffeアタシも ポケモンも しあわせ\xf000\xbe01\x0000
-フウロ: Hoennの\xfffeジムリ-ダ- ナギさん!\xf000\xbe01\x0000\xfffeあのひとと おおぞらで たたかえたら\xfffeきっと たのしいと おもうの!\xf000\xbe01\x0000
+Fuuro: アナタって すごい\xfffeポケモントレ-ナ- なのね!\xf000\xbe01\x0000\xfffeひさしぶりに ほんきで\xfffeポケモンしょうぶ できて\xf000\xbe00\x0000\xfffeアタシも ポケモンも しあわせ\xf000\xbe01\x0000
+Fuuro: Hoennの\xfffeジムリ-ダ- ナギさん!\xf000\xbe01\x0000\xfffeあのひとと おおぞらで たたかえたら\xfffeきっと たのしいと おもうの!\xf000\xbe01\x0000
 いつもと ちがう なかまとでも\xfffeしょうりを めざす フウロだ!\xf000\xbe01\x0000
 いま わたしが もとめるのは\xfffeあかるい みらいを みせてくれる\xf000\xbe00\x0000\xfffeわかい トレ-ナ-の そんざい\xf000\xbe01\x0000
 としおいて かんがえるのは\xfffeじぶんに のこされた じかんのこと\xf000\xbe01\x0000\xfffeできることが へっていく いま\xfffeわたしが もとめるのは\xf000\xbe01\x0000\xfffeあかるい みらいを みせてくれる\xfffeわかい トレ-ナ-の そんざい\xf000\xbe01\x0000
