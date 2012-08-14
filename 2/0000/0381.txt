@@ -805,7 +805,7 @@ Battle Subwayには のりましたか?\xfffeNimbasa Cityに あるんですけ�
 このまえの やりかたが\xfffeまた つうようするとは かぎらない\xf000\xbe01\x0000\xfffeいつも トライ アンド エラ-\xfffeそれが サイエンスかな?
 I will unlock the mechanism and find the\xfffesecret of the relationship\xf000\xbe01\x0000\xfffebetween trainer and Pokémon!\xf000\xbe01\x0000
 なぜ ポケモンは トレ-ナ-の\xfffeめいれいを りかい できるの?
-ポケモンが しんかする メカニズム\xf000\xbe01\x0000\xfffeシンオウちほうの ナナカマドはかせは\xfffeその ひみつを ときあかせたのかな?
+ポケモンが しんかする メカニズム\xf000\xbe01\x0000\xfffeSinnohの ナナカマドはかせは\xfffeその ひみつを ときあかせたのかな?
 ぼくにとって たたかいは\xfffeまなびの ばしょ なんです!\xf000\xbe01\x0000
 まっ まってください!\xfffeいまの まけを ぶんせき しないと!
 まけることで じぶんの いまの\xfffeつよさが みえてくるんです! フフン!
@@ -845,9 +845,9 @@ I LOVE me summa\xfffethese bridge things!\xf000\xbe01\x0000It takes balance!\xff
 I lost, but\xfffeI cannot be stopped!
 If you walk on a raised walkway, you can\xfffemove without encountering wild Pokémon!
 たたかえる ポケモンが\xfffe3ひき いじょう いたら\xf000\xbe00\x0000\xfffeキミの あいて してあげる!
-3vs3の トリプルバトル...\xf000\xbe01\x0000\xfffeかくごは できてる?\xfffeわたしは できてる! いくよっ!\xf000\xbe01\x0000
+3vs3の Triple Battle...\xf000\xbe01\x0000\xfffeかくごは できてる?\xfffeわたしは できてる! いくよっ!\xf000\xbe01\x0000
 なによ! まけることを かんがえて\xfffeしょうぶ するわけ ないでしょ!
-ポケモンが すくないと \xfffeトリプルバトルも たのしめないし\xf000\xbe00\x0000\xfffeなにより ピンチに なりやすいかもね
+ポケモンが すくないと \xfffeTriple Battleも たのしめないし\xf000\xbe00\x0000\xfffeなにより ピンチに なりやすいかもね
 Rotation Battles are Pokémon battles\xfffewith three Pokémon!\xf000\xbe01\x0000Get three Pokémon ready!
 クルクルまわって ロ-テ-ション!\xf000\xbe01\x0000\xfffeめを まわさずに ついてこれるか?\xfffeやろうぜ ロ-テ-ションバトル!\xf000\xbe01\x0000
 めを まわしたのは\xfffeおいら だったぜ-!
@@ -870,7 +870,7 @@ Guh!
 いけ-! おいらの ともだち!\xfffeむしポケモンたち-ッ!!\xf000\xbe01\x0000
 かっこいいだろ?\xfffeおいらの むしポケモンたち!
 こんちゅうさいしゅう じゃないけど\xfffeむしポケモンが たくさん いると\xf000\xbe00\x0000\xfffeおいらの ロマンが みたされるんよ!
-いま トリプルバトルを\xfffeきわめたい きぶん なの!\xf000\xbe01\x0000\xfffeたたかえる ポケモンが\xfffe3ひきいじょう いると うれしいな!
+いま Triple Battleを\xfffeきわめたい きぶん なの!\xf000\xbe01\x0000\xfffeたたかえる ポケモンが\xfffe3ひきいじょう いると うれしいな!
 How do you fight? What works?\xfffeLet me test you!\xf000\xbe01\x0000
 Could... could you be\xfffesome kind of Triple Battle genius?!
 You should Triple Battle\xfffeall your friends, too!
@@ -1009,11 +1009,11 @@ I heard you needed a parasol\xfffefor the beach, but, uh...\xf000\xbe00\x0000Am 
 ベストな ポケモン\xfffeベストな ポジションを あやまった!
 ナイスな チ-ムワ-クに\xfffeけいいを ひょうして\xf000\xbe00\x0000\xfffeこの きのみを あげよう!\xf000\xbe01\x0000
 ロ-テ-ションバトルなら\xfffeいつも いじょうの よみが いる!\xf000\xbe00\x0000\xfffeトレ-ナ-の うでが ためされるね!
-たたかえる ポケモンを\xfffe3ひきいじょう つれていたら\xf000\xbe00\x0000\xfffeレッツ トリプルバトルよ!
-3ひきの ちからを あわせて\xfffeレッツ トリプルバトルっ!!\xf000\xbe01\x0000
+たたかえる ポケモンを\xfffe3ひきいじょう つれていたら\xf000\xbe00\x0000\xfffeレッツ Triple Battleよ!
+3ひきの ちからを あわせて\xfffeレッツ Triple Battleっ!!\xf000\xbe01\x0000
 みんなは ひとりの ためにね!\xfffeいけてる チ-ムプレ-だったわ!
 グレイトな チ-ムワ-クに\xfffeかんどうしたから これを あげるわ!\xf000\xbe01\x0000
-トリプルバトルなら ポケモンの\xfffeちからは いつもの 3ばいいじょう!\xf000\xbe00\x0000\xfffeトレ-ナ-の うでが ためされるわ!
+Triple Battleなら ポケモンの\xfffeちからは いつもの 3ばいいじょう!\xf000\xbe00\x0000\xfffeトレ-ナ-の うでが ためされるわ!
 エリ-トに ふさわしい\xfffeきたえぬかれた にくたい で!\xf000\xbe01\x0000
 ぼくの にくたいに\xfffeポケモンが ついてこれなかったか?
 けんこう というか\xfffeげんき なら ムチャできるからね!
@@ -1217,9 +1217,9 @@ Please!!
 しぼむ たましい...\xfffeこんなはずじゃ なかったのに
 ふたたび たぎる たましい!\xfffeまけたって きにしない!\xf000\xbe00\x0000\xfffeまえに すすむことが だいじだぜ!
 Triple Battles use\xfffethree Pokémon!
-トリプルバトルを きわめた\xfffeぼくの つよさを みなさい!\xf000\xbe01\x0000
+Triple Battleを きわめた\xfffeぼくの つよさを みなさい!\xf000\xbe01\x0000
 そんな...\xfffeきわめたはず なのに...
-きわめるために トリプルバトルむきの\xfffeわざとか とくせいを しらべなきゃ!
+きわめるために Triple Battleむきの\xfffeわざとか とくせいを しらべなきゃ!
 ロ-テ-ションは ポケモン\xfffe3びきで たたかう しょうぶ です!
 ロ-テ-ションバトル!\xfffeみぎにまわす? ひだりにまわす?\xf000\xbe01\x0000
 どちらに まわすか まようのは\xfffeけいけんが たりないからなの?
@@ -1944,7 +1944,7 @@ Together with my Pokémon,\xfffeI push rocks with my fists!\xf000\xbe01\x0000The
 We still haven't\xfffebuilt up enough punches!
 Together with my Pokémon,\xfffeI push rocks with my fists!\xf000\xbe01\x0000How about you try pushing rocks\xfffewith your own fighting-type Pokémon?
 From corner to corner, I patrol\xfffePinwheel Forest every day! A battle\xf000\xbe01\x0000\xfffehere is a piece of cake!\xf000\xbe01\x0000
-...ヤグルマのもりで\xfffeまけるとは ふかく だ!
+...Pinwheel Forestで\xfffeまけるとは ふかく だ!
 A Ranger always carries one of these...\xfffeI'll give it to you...!\xf000\xbe01\x0000
 The forest is alive...\xf000\xbe01\x0000Every day, something seems to change,\xfffeso patrolling is all the more enjoyable!
 Blend into the wilderness!\xfffeThat is a Ranger!\xf000\xbe01\x0000

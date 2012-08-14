@@ -138,7 +138,7 @@ To play in the Pokémon Dream World,\xfffeyou must set up the following items:\x
 You can move to the center of the Unova\xffferegion, called the Entralink, by tapping the\xfffeyellow frame with “WIRELESS"\xfffeon it on your C-Gear.\xfffe\xfffeIn the center of your Entralink is a tree\xfffecalled the Entree.
 ハイルツリーに　むかって\xfffeＡボタンを　おすと　フェスミッションを\xfffeうけることが　できます。\xfffe\xfffeミッションには　さまざまな\xfffeもくひょうが　あります。\xfffeせいげんじかんの　なかで\xfffeどうぐを　さがしたり\xfffeポケモンしょうぶを　します。
 ミッションは　スコアを\xfffeためることで　クリアできます。\xfffeミッションせつめいに　かかれた\xfffeクリアもくひょうを　たっせいしましょう。\xfffe\xfffeスコアが　おおいほど\xfffeミッションを　クリアしたときの\xfffeほうしゅうが　おおくなります。
-フェスミッションは\xfffeちかくに　いる　ひとと　いっしょに\xfffeあそぶことが　できます。\xfffe\xfffeだれかが　フェスミッションを　はじめると\xfffeすれちがいログが　ひかるので\xfffeタッチして　すきな　フェスミッションに\xfffeさんかすることが　できます。
+フェスミッションは\xfffeちかくに　いる　ひとと　いっしょに\xfffeあそぶことが　できます。\xfffe\xfffeだれかが　フェスミッションを　はじめると\xfffeTAG LOGが　ひかるので\xfffeタッチして　すきな　フェスミッションに\xfffeさんかすることが　できます。
 A Pass Power is a mysterious power you\xfffereceive from the Entree in your Entralink.\xfffe\xfffeデルパワーは　つかうことで\xfffeけいけんちが　おおく　もらえたり\xfffeポケモンが　つかまえやすくなったりと\xfffeさまざまな　こうかが　あります。\xfffeどうじに　３つまで　うけとれます。
 You cannot use a Pass Power in your Entralink\xfffeor in someone else's world.\xfffe\xfffeIf you want to use your Pass Power, please\xfffeexit the Entralink and tap the Tag Log at the\xfffebottom of your C-Gear, then tap the\xfffetriangle icon.
 ハイルツリーが　せいちょうし\xfffeレベルが　あがることで\xfffeあたらしい　デルパワーを\xfffeうけとれるように　なります。\xfffe\xfffeレベルを　あげるには\xfffeフェスミッションを　うけて\xfffeスコアを　たくさん　ためます。

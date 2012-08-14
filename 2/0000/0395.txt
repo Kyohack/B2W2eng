@@ -14,10 +14,10 @@
 このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffe2しゅるいの ポケモンに\xfffeしんかする かのうせいが あるけれど\xf000\xbe01\x0000\xfffeどちらに しんかするかは\xfffeしんか するまで わからないのよね\xf000\xbe01\x0000
 このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000
 このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffeそのとき てもちに\xfffeよゆうが あれば\xf000\xbe01\x0000\xfffeべつの ポケモンが\xfffeみつかることが あるようね\xf000\xbe01\x0000
-このコに きれいなウロコを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコが ♂なら\xfffeめざめいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコが ♀なら\xfffeめざめいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに まんまるいしを もたせて\xfffeレベルアップ させるでしょ\xf000\xbe01\x0000\xfffeそのときの じかんたいに よって\xfffeしんかすることが あるわね\xf000\xbe01\x0000
+このコに Prism Scaleを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコが ♂なら\xfffeDawn Stoneを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコが ♀なら\xfffeDawn Stoneを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに Oval Stoneを もたせて\xfffeレベルアップ させるでしょ\xf000\xbe01\x0000\xfffeそのときの じかんたいに よって\xfffeしんかすることが あるわね\xf000\xbe01\x0000
 ダミ-
 ダミ-
 このコは レベルアップの ときに\xfffeてもちに テッポウオが いると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
@@ -30,37 +30,37 @@
 このコに アップグレ-ドを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
 このコに King's Rockを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
 このコに DeepSeaScaleを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに しんかいのキバを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに DeepSeaToothを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
 このコに メタルコ-トを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
 このコに Dragon Scaleを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
 このコに プロテクタ-を\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
 このコに エレキブ-スタ-を\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
 このコに マグマブ-スタ-を\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに あやしいパッチを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに れいかいのぬのを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに するどいキバを もたせて\xfffeレベルアップ させるでしょ\xf000\xbe01\x0000\xfffeそのときの じかんたいに よって\xfffeしんかすることが あるわね\xf000\xbe01\x0000
-このコに するどいツメを もたせて\xfffeレベルアップ させるでしょ\xf000\xbe01\x0000\xfffeそのときの じかんたいに よって\xfffeしんかすることが あるわね\xf000\xbe01\x0000
-このコに\xfffeかみなりのいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに\xfffeたいようのいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに\xfffeつきのいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに\xfffeほのおのいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに\xfffeみずのいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに Dubious Discを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに Reaper Clothを\xfffeもたせて つうしんこうかん すると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに Razor Fangを もたせて\xfffeレベルアップ させるでしょ\xf000\xbe01\x0000\xfffeそのときの じかんたいに よって\xfffeしんかすることが あるわね\xf000\xbe01\x0000
+このコに Razor Clawを もたせて\xfffeレベルアップ させるでしょ\xf000\xbe01\x0000\xfffeそのときの じかんたいに よって\xfffeしんかすることが あるわね\xf000\xbe01\x0000
+このコに\xfffeThunderstoneを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに\xfffeSun Stoneを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに\xfffeMoon Stoneを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに\xfffeFire Stoneを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに\xfffeWater Stoneを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
 このコに\xfffeリ-フのいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに\xfffeひかりのいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに\xfffeやみのいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに\xfffeShiny Stoneを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに\xfffeDusk Stoneを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわよ\xf000\xbe01\x0000
 このコは\xfffeものまねを おぼえていると\xf000\xbe01\x0000\xfffeレベルアップの ときに\xfffeしんか するわよ\xf000\xbe01\x0000
 このコは\xfffeダブルアタックを おぼえていると\xf000\xbe01\x0000\xfffeレベルアップの ときに\xfffeしんか するわよ\xf000\xbe01\x0000
 このコは\xfffeころがるを おぼえていると\xf000\xbe01\x0000\xfffeレベルアップの ときに\xfffeしんか するわよ\xf000\xbe01\x0000
 このコは げんしのちからを\xfffeおぼえていると\xf000\xbe01\x0000\xfffeレベルアップの ときに\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに リ-フのいしか\xfffeたいようのいしを つかってあげると\xf000\xbe01\x0000\xfffeそれぞれ ちがう ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
-このコに\xfffeみずのいしを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわ\xf000\xbe01\x0000\xfffeあと King's Rockを\xfffeもたせて つうしんこうかん すると\xf000\xbe01\x0000\xfffeそのときは ちがう ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに リ-フのいしか\xfffeSun Stoneを つかってあげると\xf000\xbe01\x0000\xfffeそれぞれ ちがう ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
+このコに\xfffeWater Stoneを つかってあげると\xf000\xbe00\x0000\xfffeしんか するわ\xf000\xbe01\x0000\xfffeあと King's Rockを\xfffeもたせて つうしんこうかん すると\xf000\xbe01\x0000\xfffeそのときは ちがう ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
 このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffeあと King's Rockを\xfffeもたせて つうしんこうかん すると\xf000\xbe01\x0000\xfffeそのときは ちがう ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
-このコには いろいろな\xfffeしんかの ほうほうが あるわね\xf000\xbe01\x0000\xfffeみずのいし かみなりのいし\xfffeほのおのいし を つかってあげると\xf000\xbe01\x0000\xfffeそれぞれ ちがうポケモンに\xfffeしんか するし\xf000\xbe01\x0000\xfffeよく なついている ときに\xfffeレベルアップすると\xf000\xbe01\x0000\xfffeじかんたいに よって\xfffeちがう ポケモンに しんか するの\xf000\xbe01\x0000\xfffeあと コケに おおわれた ばしょや\xfffeこおりで おおわれた ばしょで\xf000\xbe01\x0000\xfffeレベルアップした ときも\xfffeべつの ポケモンに しんか するわ\xf000\xbe01\x0000
+このコには いろいろな\xfffeしんかの ほうほうが あるわね\xf000\xbe01\x0000\xfffeWater Stone Thunderstone\xfffeFire Stone を つかってあげると\xf000\xbe01\x0000\xfffeそれぞれ ちがうポケモンに\xfffeしんか するし\xf000\xbe01\x0000\xfffeよく なついている ときに\xfffeレベルアップすると\xf000\xbe01\x0000\xfffeじかんたいに よって\xfffeちがう ポケモンに しんか するの\xf000\xbe01\x0000\xfffeあと コケに おおわれた ばしょや\xfffeこおりで おおわれた ばしょで\xf000\xbe01\x0000\xfffeレベルアップした ときも\xfffeべつの ポケモンに しんか するわ\xf000\xbe01\x0000
 このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffe3しゅるいの ポケモンに\xfffeしんかする かのうせいが あるけれど\xf000\xbe01\x0000\xfffeどれに しんか するかは\xfffeこうげきと ぼうぎょの\xf000\xbe00\x0000\xfffeバランスで きまるようね\xf000\xbe01\x0000
 このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffe2しゅるいの ポケモンに\xfffeしんかする かのうせいが あるけれど\xf000\xbe01\x0000\xfffeどちらに しんかするかは\xfffeしんか するまで わからないのよね\xf000\xbe01\x0000
-このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffeでも ♂なら\xfffeめざめいしを つかってあげると\xf000\xbe01\x0000\xfffeちがう ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
+このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffeでも ♂なら\xfffeDawn Stoneを つかってあげると\xf000\xbe01\x0000\xfffeちがう ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
 このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffeそのとき てもちに\xfffeよゆうが あれば\xf000\xbe01\x0000\xfffeべつの ポケモンが\xfffeみつかることが あるようね\xf000\xbe01\x0000
-このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffeでも ♀なら\xfffeめざめいしを つかってあげると\xf000\xbe01\x0000\xfffeちがう ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
-このコは どうぐを もたせて\xfffeつうしんこうかん すると\xf000\xbe00\x0000\xfffeしんかすることが あるわね\xf000\xbe01\x0000\xfffeもたせてあげる どうぐが\xfffeしんかいのキバか\xf000\xbe00\x0000\xfffeDeepSeaScaleかで\xf000\xbe01\x0000\xfffeことなる ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
+このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffeでも ♀なら\xfffeDawn Stoneを つかってあげると\xf000\xbe01\x0000\xfffeちがう ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
+このコは どうぐを もたせて\xfffeつうしんこうかん すると\xf000\xbe00\x0000\xfffeしんかすることが あるわね\xf000\xbe01\x0000\xfffeもたせてあげる どうぐが\xfffeDeepSeaToothか\xf000\xbe00\x0000\xfffeDeepSeaScaleかで\xf000\xbe01\x0000\xfffeことなる ポケモンに\xfffeしんか するわよ\xf000\xbe01\x0000
 このコは レベルアップすると\xfffeしんか することが あるわね\xf000\xbe01\x0000\xfffeしかも ♂と♀で ちがう\xfffeポケモンに しんか するわよ\xf000\xbe01\x0000\xfffe♀なら しんかする まえの\xfffeすがたに よって\xf000\xbe01\x0000\xfffeしんかした あとの\xfffeすがたも かわるのよ\xf000\xbe01\x0000
 う-ん...\xfffe2つ いわせてくれる?\xf000\xbe01\x0000\xfffe1つめ\xfffeタマゴは しんか しないわ\xf000\xbe01\x0000\xfffe2つめ\xfffeだから ふかしたら みせてね!\xf000\xbe01\x0000

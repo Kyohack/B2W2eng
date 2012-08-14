@@ -189,7 +189,7 @@ Alder: Never stop thinking about training.\xf000\xbe01\x0000\xfffeさすれば �
 つい ウトウト\xfffeねむって しまいそうでしたわ...\xf000\xbe01\x0000
 エリカ: まいり ましたわ\xfffeおつよい ですのね...\xf000\xbe01\x0000\xfffeそれにしても とても\xfffeすばらしい しあい でした\xf000\xbe00\x0000\xfffeわたくし かんどう いたしましたわ\xf000\xbe01\x0000
 エリカ: わたくし かてて\xfffeかんどう いたしております\xf000\xbe01\x0000\xfffeあいする ポケモンと ともにたたかい\xfffeしょうりを える... これが\xf000\xbe00\x0000\xfffeトレ-ナ-の よろこび ですわ\xf000\xbe01\x0000
-しぜんを あいする おじょうさま!\xfffeエリカ! いざ まいりますッ!!\xf000\xbe01\x0000
+しぜんを あいする Lady!\xfffeエリカ! いざ まいりますッ!!\xf000\xbe01\x0000
 あなたと たたかう よかんは\xfffe3ねんまえ から あったのよ\xf000\xbe01\x0000
 あなたと たたかう よかんは\xfffe3ねんまえ から あったのよ\xf000\xbe01\x0000\xfffeだって わたし エスパ-だから...\xfffeそれでも たたかうのね?\xf000\xbe01\x0000
 あなたと たたかう よかんは\xfffe3ねんまえ から あったのよ\xf000\xbe01\x0000\xfffeあなたが のぞむなら\xfffeわたしの エスパ- のうりょく\xf000\xbe00\x0000\xfffeみせて あげるわ!\xf000\xbe01\x0000
@@ -363,7 +363,7 @@ Alder: Never stop thinking about training.\xf000\xbe01\x0000\xfffeさすれば �
 いくよ! これが じまんの\xfffeロックな ポケモンたち だよ!\xf000\xbe01\x0000
 まっ まさか!\xfffeきたえた ポケモンたちが!!\xf000\xbe01\x0000
 どう? これが じまんの\xfffeロックな ポケモンたち だよ!\xf000\xbe01\x0000
-ヒョウタ: ...まけちゃったか\xf000\xbe01\x0000\xfffeう-ん こんどは\xfffeシンオウちほうにある ちかつうろで\xf000\xbe00\x0000\xfffeかせきほり しょうぶを したいな\xf000\xbe01\x0000
+ヒョウタ: ...まけちゃったか\xf000\xbe01\x0000\xfffeう-ん こんどは\xfffeSinnohにある ちかつうろで\xf000\xbe00\x0000\xfffeかせきほり しょうぶを したいな\xf000\xbe01\x0000
 ヒョウタ: ありがとう!\xf000\xbe01\x0000\xfffeこれで とうさんに いどんでも\xfffeかてそうな... じしんが ついたよ!\xf000\xbe01\x0000
 ザ・ロック といわれる おとこ\xfffeヒョウタ! いわポケモンと すすめ!\xf000\xbe01\x0000
 う-ん! とにかく\xfffeポケモンしょうぶ しよ-よ!\xf000\xbe01\x0000
@@ -376,7 +376,7 @@ Alder: Never stop thinking about training.\xf000\xbe01\x0000\xfffeさすれば �
 しげる みどりの ポケモンつかいは\xfffeみどりの ゆびを もつ ナタネだぁ!\xf000\xbe01\x0000
 アナタ チャレンジ しなさい\xf000\xbe01\x0000\xfffeアタシ かってみせます\xfffeそれが ヨスガの ジムリ-ダ-!\xf000\xbe01\x0000
 ポケモンのことも べんきょ- した\xfffeそしたら ジムリ-ダ-に なりました\xf000\xbe01\x0000\xfffeえ-と だから\xfffeアナタ チャレンジ しなさい\xf000\xbe01\x0000\xfffeアタシ かってみせます\xfffeそれが ヨスガの ジムリ-ダ-!\xf000\xbe01\x0000
-アタシ シンオウちほう で\xfffeいっぱい べんきょ- しました\xf000\xbe01\x0000\xfffeポケモンのことも べんきょ- した\xfffeそしたら ジムリ-ダ-に なりました\xf000\xbe01\x0000\xfffeえ-と だから\xfffeアナタ チャレンジ しなさい\xf000\xbe01\x0000\xfffeアタシ かってみせます\xfffeそれが ヨスガの ジムリ-ダ-!\xf000\xbe01\x0000
+アタシ Sinnoh で\xfffeいっぱい べんきょ- しました\xf000\xbe01\x0000\xfffeポケモンのことも べんきょ- した\xfffeそしたら ジムリ-ダ-に なりました\xf000\xbe01\x0000\xfffeえ-と だから\xfffeアナタ チャレンジ しなさい\xf000\xbe01\x0000\xfffeアタシ かってみせます\xfffeそれが ヨスガの ジムリ-ダ-!\xf000\xbe01\x0000
 アナタ さいこうに つよいデス\xfffeアタシ まけたの わかります\xf000\xbe01\x0000
 アナタ つよいデス\xfffeでも かったのは アタシ\xf000\xbe01\x0000
 メリッサ: アタシ ビックリ です!\xf000\xbe01\x0000\xfffeアナタも アナタの ポケモンも\xfffeとても つよ-い!\xf000\xbe01\x0000\xfffeその つよさを たたえます\xf000\xbe01\x0000
@@ -939,7 +939,7 @@ Hachiku: You are strong!\xfffeNo, both you and your Pokémon are strong!
 いくよ!\xfffeロックな しょうぶ だよ!\xf000\xbe01\x0000
 まっ まさか!\xf000\xbe01\x0000
 どう? これが じまんの\xfffeロックな しょうぶ だよ!\xf000\xbe01\x0000
-ヒョウタ: ...まけちゃったか\xf000\xbe01\x0000\xfffeう-ん こんどは\xfffeシンオウちほうにある ちかつうろで\xf000\xbe00\x0000\xfffeかせきほり しょうぶを したいな\xf000\xbe01\x0000
+ヒョウタ: ...まけちゃったか\xf000\xbe01\x0000\xfffeう-ん こんどは\xfffeSinnohにある ちかつうろで\xf000\xbe00\x0000\xfffeかせきほり しょうぶを したいな\xf000\xbe01\x0000
 ヒョウタ: ありがとう!\xf000\xbe01\x0000\xfffeこれで とうさんに いどんでも\xfffeかてそうな... じしんが ついたよ!\xf000\xbe01\x0000
 ポケモンの つよさを ひきだせ!\xfffeヒョウタなら それが できるはず!\xf000\xbe01\x0000
 う-ん! とにかく\xfffeポケモンしょうぶ しよ-よ!\xf000\xbe01\x0000
@@ -952,7 +952,7 @@ Hachiku: You are strong!\xfffeNo, both you and your Pokémon are strong!
 レンタルで どう たたかう!?\xfffeナタネ とうじょうッ!!\xf000\xbe01\x0000
 アナタ チャレンジ しなさい\xf000\xbe01\x0000\xfffeアタシ かってみせます\xfffeそれが ヨスガの ジムリ-ダ-!\xf000\xbe01\x0000
 ポケモンのことも べんきょ- した\xfffeそしたら ジムリ-ダ-に なりました\xf000\xbe01\x0000\xfffeえ-と だから\xfffeアナタ チャレンジ しなさい\xf000\xbe01\x0000\xfffeアタシ かってみせます\xfffeそれが ヨスガの ジムリ-ダ-!\xf000\xbe01\x0000
-アタシ シンオウちほう で\xfffeいっぱい べんきょ- しました\xf000\xbe01\x0000\xfffeポケモンのことも べんきょ- した\xfffeそしたら ジムリ-ダ-に なりました\xf000\xbe01\x0000\xfffeえ-と だから\xfffeアナタ チャレンジ しなさい\xf000\xbe01\x0000\xfffeアタシ かってみせます\xfffeそれが ヨスガの ジムリ-ダ-!\xf000\xbe01\x0000
+アタシ Sinnoh で\xfffeいっぱい べんきょ- しました\xf000\xbe01\x0000\xfffeポケモンのことも べんきょ- した\xfffeそしたら ジムリ-ダ-に なりました\xf000\xbe01\x0000\xfffeえ-と だから\xfffeアナタ チャレンジ しなさい\xf000\xbe01\x0000\xfffeアタシ かってみせます\xfffeそれが ヨスガの ジムリ-ダ-!\xf000\xbe01\x0000
 アナタ さいこうに つよいデス\xfffeアタシ まけたの わかります\xf000\xbe01\x0000
 アナタ つよいデス\xfffeでも かったのは アタシ\xf000\xbe01\x0000
 メリッサ: アタシ ビックリ です!\xf000\xbe01\x0000\xfffeアナタ とても つよ-い!\xfffeその つよさを たたえます\xf000\xbe01\x0000
