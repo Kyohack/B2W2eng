@@ -559,7 +559,7 @@ My heart is racing\xfffeafter having experienced\xf000\xbe00\x0000such a tempest
 What do you think? This Pokémon Gym...\xfffeHow should I say? Isn't it full of...\xf000\xbe00\x0000\xfffeoutrageous and mysterious charms?\xf000\xbe01\x0000
 ポケモンジムに まけずおとらず\xfffeきみも みりょく たっぷり だな!
 マユから いとが どっちに\xfffeのびているのか よく みてごらん\xf000\xbe01\x0000\xfffeいとが つながっている さき...\xfffeそれこそが すすむ ほうこうなのさ!
-...そうなんだよ\xfffeマユに くるまれ ねていたんだよ 
+...そうなんだよ\xfffeマユに くるまれ ねていたんだよ
 いきどまり...\xf000\xbe01\x0000\xfffeと みせかけて\xfffeとおせんぼ や-!\xf000\xbe01\x0000
 ありゃりゃりゃ\xfffeあんさん つよすぎやない?
 ここだけの ヒミツ...\xf000\xbe01\x0000\xfffeマユに はいる むきによって\xfffeどこに すすむのか ちがうんよ
@@ -618,7 +618,7 @@ I didn't let them win...\xfffeThis is making me feel bad!
 おまえの かちたい きもち\xfffeすごく つたわってきたぜ!
 もっと ポケモンしょうぶを して\xfffeおいらの ポケモン そだてるよ!
 Waaaaa! My Pokémon is\xfffesooo cute!\xf000\xbe01\x0000
-...まけても かわいいもん\xfffeあたしの チョロネコ!
+...まけても かわいいもん\xfffeあたしの Purrloin!
 つぎは かてるように\xfffeやせいの ポケモンと たたかおっかな?
 Come on! I know we're buddies,\xfffebut you can't hold back!
 You'll be fine!\xfffeIt's only a battle!
@@ -798,14 +798,14 @@ Battle Subwayには のりましたか?\xfffeNimbasa Cityに あるんですけ�
 ここちよい かぜが とまった...!\xfffeじてんしゃも とまった...!
 サイクリングも スポ-ツ!\xfffeマナ-を まもって あんぜんうんてん!
 チャリンチャリン♪\xfffeスピ-ドに のった アタックよ!\xf000\xbe01\x0000
-チャリンチャリン♪\xfffeチャリン♪ チャリンチャリン♪ 
+チャリンチャリン♪\xfffeチャリン♪ チャリンチャリン♪
 はしっている ひとって\xfffeどうしても ちゅうもく しちゃうよね!
 かんがえていることが つうようするか\xfffeためすのも サイエンス!\xf000\xbe01\x0000
 この じょうきょうを\xfffeぶんせき するのが サイエンス
 このまえの やりかたが\xfffeまた つうようするとは かぎらない\xf000\xbe01\x0000\xfffeいつも トライ アンド エラ-\xfffeそれが サイエンスかな?
 I will unlock the mechanism and find the\xfffesecret of the relationship\xf000\xbe01\x0000\xfffebetween trainer and Pokémon!\xf000\xbe01\x0000
 なぜ ポケモンは トレ-ナ-の\xfffeめいれいを りかい できるの?
-ポケモンが しんかする メカニズム\xf000\xbe01\x0000\xfffeシンオウちほうの ナナカマドはかせは\xfffeその ひみつを ときあかせたのかな?
+ポケモンが しんかする メカニズム\xf000\xbe01\x0000\xfffeSinnohの ナナカマドはかせは\xfffeその ひみつを ときあかせたのかな?
 ぼくにとって たたかいは\xfffeまなびの ばしょ なんです!\xf000\xbe01\x0000
 まっ まってください!\xfffeいまの まけを ぶんせき しないと!
 まけることで じぶんの いまの\xfffeつよさが みえてくるんです! フフン!
@@ -845,9 +845,9 @@ I LOVE me summa\xfffethese bridge things!\xf000\xbe01\x0000It takes balance!\xff
 I lost, but\xfffeI cannot be stopped!
 If you walk on a raised walkway, you can\xfffemove without encountering wild Pokémon!
 たたかえる ポケモンが\xfffe3ひき いじょう いたら\xf000\xbe00\x0000\xfffeキミの あいて してあげる!
-3vs3の トリプルバトル...\xf000\xbe01\x0000\xfffeかくごは できてる?\xfffeわたしは できてる! いくよっ!\xf000\xbe01\x0000
+3vs3の Triple Battle...\xf000\xbe01\x0000\xfffeかくごは できてる?\xfffeわたしは できてる! いくよっ!\xf000\xbe01\x0000
 なによ! まけることを かんがえて\xfffeしょうぶ するわけ ないでしょ!
-ポケモンが すくないと \xfffeトリプルバトルも たのしめないし\xf000\xbe00\x0000\xfffeなにより ピンチに なりやすいかもね
+ポケモンが すくないと \xfffeTriple Battleも たのしめないし\xf000\xbe00\x0000\xfffeなにより ピンチに なりやすいかもね
 Rotation Battles are Pokémon battles\xfffewith three Pokémon!\xf000\xbe01\x0000Get three Pokémon ready!
 クルクルまわって ロ-テ-ション!\xf000\xbe01\x0000\xfffeめを まわさずに ついてこれるか?\xfffeやろうぜ ロ-テ-ションバトル!\xf000\xbe01\x0000
 めを まわしたのは\xfffeおいら だったぜ-!
@@ -870,7 +870,7 @@ Guh!
 いけ-! おいらの ともだち!\xfffeむしポケモンたち-ッ!!\xf000\xbe01\x0000
 かっこいいだろ?\xfffeおいらの むしポケモンたち!
 こんちゅうさいしゅう じゃないけど\xfffeむしポケモンが たくさん いると\xf000\xbe00\x0000\xfffeおいらの ロマンが みたされるんよ!
-いま トリプルバトルを\xfffeきわめたい きぶん なの!\xf000\xbe01\x0000\xfffeたたかえる ポケモンが\xfffe3ひきいじょう いると うれしいな!
+いま Triple Battleを\xfffeきわめたい きぶん なの!\xf000\xbe01\x0000\xfffeたたかえる ポケモンが\xfffe3ひきいじょう いると うれしいな!
 How do you fight? What works?\xfffeLet me test you!\xf000\xbe01\x0000
 Could... could you be\xfffesome kind of Triple Battle genius?!
 You should Triple Battle\xfffeall your friends, too!
@@ -1009,11 +1009,11 @@ I heard you needed a parasol\xfffefor the beach, but, uh...\xf000\xbe00\x0000Am 
 ベストな ポケモン\xfffeベストな ポジションを あやまった!
 ナイスな チ-ムワ-クに\xfffeけいいを ひょうして\xf000\xbe00\x0000\xfffeこの きのみを あげよう!\xf000\xbe01\x0000
 ロ-テ-ションバトルなら\xfffeいつも いじょうの よみが いる!\xf000\xbe00\x0000\xfffeトレ-ナ-の うでが ためされるね!
-たたかえる ポケモンを\xfffe3ひきいじょう つれていたら\xf000\xbe00\x0000\xfffeレッツ トリプルバトルよ!
-3ひきの ちからを あわせて\xfffeレッツ トリプルバトルっ!!\xf000\xbe01\x0000
+たたかえる ポケモンを\xfffe3ひきいじょう つれていたら\xf000\xbe00\x0000\xfffeレッツ Triple Battleよ!
+3ひきの ちからを あわせて\xfffeレッツ Triple Battleっ!!\xf000\xbe01\x0000
 みんなは ひとりの ためにね!\xfffeいけてる チ-ムプレ-だったわ!
 グレイトな チ-ムワ-クに\xfffeかんどうしたから これを あげるわ!\xf000\xbe01\x0000
-トリプルバトルなら ポケモンの\xfffeちからは いつもの 3ばいいじょう!\xf000\xbe00\x0000\xfffeトレ-ナ-の うでが ためされるわ!
+Triple Battleなら ポケモンの\xfffeちからは いつもの 3ばいいじょう!\xf000\xbe00\x0000\xfffeトレ-ナ-の うでが ためされるわ!
 エリ-トに ふさわしい\xfffeきたえぬかれた にくたい で!\xf000\xbe01\x0000
 ぼくの にくたいに\xfffeポケモンが ついてこれなかったか?
 けんこう というか\xfffeげんき なら ムチャできるからね!
@@ -1028,8 +1028,8 @@ I heard you needed a parasol\xfffefor the beach, but, uh...\xf000\xbe00\x0000Am 
 なかよしの ともだちと\xfffeちからを あわせて しょうぶって\xf000\xbe00\x0000\xfffeすごく ステキな ことだよね!
 あなた たたかえる ポケモンが\xfffe1ぴきしか いないの?\xf000\xbe01\x0000\xfffe2vs2の ポケモンしょうぶ\xfffeとっても たのしいのに!
 デコボコみちで おのれを みがく!\xfffeこんじょうを きたえるのだ!\xf000\xbe01\x0000
-こんじょう だけでは かてない!\xfffeそれも また じじつ...
-こんじょう だけでは かてないが\xfffeこんじょうも ひつよう!\xf000\xbe00\x0000\xfffeなあ わしの ヘラクロスよ!
+Guts だけでは かてない!\xfffeそれも また じじつ...
+Guts だけでは かてないが\xfffeこんじょうも ひつよう!\xf000\xbe00\x0000\xfffeなあ わしの ヘラクロスよ!
 スタミナ-ッ!\xf000\xbe01\x0000\xfffeいのちの ほのおを もやし!\xfffeどこまでも ノンストップ!\xf000\xbe01\x0000
 スタミナぎれ-!
 ノンストップ なんて ウソウソ!\xf000\xbe01\x0000\xfffeときには たちどまって\xfffeこころと からだを やすめないとね!
@@ -1049,7 +1049,7 @@ I recognize your strength!\xfffeI give you this!\xf000\xbe01\x0000
 たきに うたれて\xfffeせいしんを きたえなおすか!\xf000\xbe01\x0000\xfffeついでに からだも あらおう!
 せかいを たびする りゆうは\xfffeきけんを もとめているから!\xf000\xbe00\x0000\xfffeきみは きけんな トレ-ナ-かい?\xf000\xbe01\x0000
 きけんな ヤツ...\xfffeこの しょうぶ きけん したかった
-なぜ きけんを もとめるか?\xf000\xbe01\x0000\xfffeだって ゾクゾクすると\xfffeいきている じっかんが わくからね! 
+なぜ きけんを もとめるか?\xf000\xbe01\x0000\xfffeだって ゾクゾクすると\xfffeいきている じっかんが わくからね!
 まよったまま\xfffeあなたと しょうぶ!\xf000\xbe01\x0000
 まよったままじゃ\xfffeかてっこ ないのね!
 ここが どんな ばしょだか\xfffeいまいち わかってないんだ!\xf000\xbe01\x0000\xfffeだって あたし\xfffeマップとか みない ひとだし!
@@ -1217,9 +1217,9 @@ Please!!
 しぼむ たましい...\xfffeこんなはずじゃ なかったのに
 ふたたび たぎる たましい!\xfffeまけたって きにしない!\xf000\xbe00\x0000\xfffeまえに すすむことが だいじだぜ!
 Triple Battles use\xfffethree Pokémon!
-トリプルバトルを きわめた\xfffeぼくの つよさを みなさい!\xf000\xbe01\x0000
+Triple Battleを きわめた\xfffeぼくの つよさを みなさい!\xf000\xbe01\x0000
 そんな...\xfffeきわめたはず なのに...
-きわめるために トリプルバトルむきの\xfffeわざとか とくせいを しらべなきゃ!
+きわめるために Triple Battleむきの\xfffeわざとか とくせいを しらべなきゃ!
 ロ-テ-ションは ポケモン\xfffe3びきで たたかう しょうぶ です!
 ロ-テ-ションバトル!\xfffeみぎにまわす? ひだりにまわす?\xf000\xbe01\x0000
 どちらに まわすか まようのは\xfffeけいけんが たりないからなの?
@@ -1340,7 +1340,7 @@ Battling is about rhythm!\xf000\xbe01\x0000Whose Pokémon can fight\xfffeto the 
 ...プラズマだんの せいぎのため\xfffe2ねんかん ずっと きたえていた\xf000\xbe01\x0000\xfffeもう だれにも まけない!\xf000\xbe01\x0000
 ...まけちまったら\xfffeせいぎを つらぬけない!
 おれの せいぎ!\xf000\xbe01\x0000\xfffeだれかに なにを いわれようと\xfffeつらぬきとおす! ぜったい ぜったい!\xf000\xbe01\x0000\xfffeおまえらなんか しったことか!
-たたかう しゅうだん\xfffeそれが プラズマだん!\xf000\xbe01\x0000
+たたかう しゅうだん\xfffeそれが Team Plasma!\xf000\xbe01\x0000
 つよい トレ-ナ-って なんだ!?\xfffeポケモンを こきつかえることか!?
 つよい トレ-ナ-とは\xfffeポケモンのことを きにせず\xf000\xbe01\x0000\xfffeむりを させてでも つよくする\xfffeひどい ヤツの ことだろ!?
 プラズマだんの かがくりょくで!\xf000\xbe01\x0000\xfffeポケモンの ちからを\xfffeさいだいげんに はっきしてやる!\xf000\xbe01\x0000
@@ -1349,13 +1349,13 @@ Battling is about rhythm!\xf000\xbe01\x0000Whose Pokémon can fight\xfffeto the 
 ポケモントレ-ナ-は\xfffeポケモンの あしかせと なっている!\xf000\xbe01\x0000
 なぬ!? おまえは ポケモンの\xfffeちからを ひきだしている!?
 ...ポケモンは トレ-ナ-の\xfffeそばに いると あまえて\xf000\xbe00\x0000\xfffeしんの ちからを はっきできない\xf000\xbe01\x0000\xfffe...おまえ ほんとうだと おもうか?
-プラズマだん いがいは\xfffeぜんいん てき だぜ!\xf000\xbe01\x0000
+Team Plasma いがいは\xfffeぜんいん てき だぜ!\xf000\xbe01\x0000
 ...おまえを にくむ!
 おれはな せかいが にくい!\xfffeおれを みとめない せかいは いらん\xf000\xbe01\x0000\xfffeだから プラズマだんの メンバ-として\xfffeみんなを めちゃくちゃに する!
 しんにゅうしゃ はっけん!\xf000\xbe01\x0000\xfffeこれから だすのは\xfffeこどもから とりあげた ポケモンよ!\xf000\xbe01\x0000
 ...よわい ポケモンね\xfffeべつの ポケモンを うばわなきゃ!
 あたしたちが ポケモンを うばえば\xfffeせかいから トレ-ナ-が へる!\xf000\xbe00\x0000\xfffeそれって てきが いなくなることよ
-アタイ このなかで\xfffeか-な-り つよい プラズマだん!\xf000\xbe00\x0000\xfffeひとよんで おんなキリキザン!\xf000\xbe01\x0000
+アタイ このなかで\xfffeか-な-り つよい Team Plasma!\xf000\xbe00\x0000\xfffeひとよんで おんなキリキザン!\xf000\xbe01\x0000
 You're such a figurative thorn in our\xfffemagnificent plan's metaphorical side!
 ジャマがある ってことは\xfffeあいてに されているということ\xf000\xbe01\x0000\xfffe...むし されるって かなしいもの\xf000\xbe01\x0000\xfffeじゃなくて ジャマされても\xfffeこんどこそ せかいせいふく よ!!
 えいゆう なんか いなくても\xfffeあたしたちは まけないのよ!\xf000\xbe01\x0000
@@ -1385,7 +1385,7 @@ I repeat! We won't tolerate people\xfffewho have different ideas!\xf000\xbe01\x0
 ...プラズマだんの せいぎのため\xfffe2ねんかん ずっと きたえていた\xf000\xbe01\x0000\xfffeもう だれにも まけない!\xf000\xbe01\x0000
 ...まけちまったら\xfffeせいぎを つらぬけない!
 おれの せいぎ!\xf000\xbe01\x0000\xfffeだれかに なにを いわれようと\xfffeつらぬきとおす! ぜったい ぜったい!\xf000\xbe01\x0000\xfffeおまえらなんか しったことか!
-たたかう しゅうだん\xfffeそれが プラズマだん!\xf000\xbe01\x0000
+たたかう しゅうだん\xfffeそれが Team Plasma!\xf000\xbe01\x0000
 つよい トレ-ナ-って なんだ!?\xfffeポケモンを こきつかえることか!?
 つよい トレ-ナ-とは\xfffeポケモンのことを きにせず\xf000\xbe01\x0000\xfffeむりを させてでも つよくする\xfffeひどい ヤツの ことだろ!?
 プラズマだんの かがくりょくで!\xf000\xbe01\x0000\xfffeポケモンの ちからを\xfffeさいだいげんに はっきしてやる!\xf000\xbe01\x0000
@@ -1394,13 +1394,13 @@ I repeat! We won't tolerate people\xfffewho have different ideas!\xf000\xbe01\x0
 ポケモントレ-ナ-は\xfffeポケモンの あしかせと なっている!\xf000\xbe01\x0000
 なぬ!? おまえは ポケモンの\xfffeちからを ひきだしている!?
 ...ポケモンは トレ-ナ-の\xfffeそばに いると あまえて\xf000\xbe00\x0000\xfffeしんの ちからを はっきできない\xf000\xbe01\x0000\xfffe...おまえ ほんとうだと おもうか?
-プラズマだん いがいは\xfffeぜんいん てき だぜ!\xf000\xbe01\x0000
+Team Plasma いがいは\xfffeぜんいん てき だぜ!\xf000\xbe01\x0000
 ...おまえを にくむ!
 おれはな せかいが にくい!\xfffeおれを みとめない せかいは いらん\xf000\xbe01\x0000\xfffeだから プラズマだんの メンバ-として\xfffeみんなを めちゃくちゃに する!
 しんにゅうしゃ はっけん!\xf000\xbe01\x0000\xfffeこれから だすのは\xfffeこどもから とりあげた ポケモンよ!\xf000\xbe01\x0000
 ...よわい ポケモンね\xfffeべつの ポケモンを うばわなきゃ!
 あたしたちが ポケモンを うばえば\xfffeせかいから トレ-ナ-が へる!\xf000\xbe00\x0000\xfffeそれって てきが いなくなることよ
-アタイ このなかで\xfffeか-な-り つよい プラズマだん!\xf000\xbe00\x0000\xfffeひとよんで おんなキリキザン!\xf000\xbe01\x0000
+アタイ このなかで\xfffeか-な-り つよい Team Plasma!\xf000\xbe00\x0000\xfffeひとよんで おんなキリキザン!\xf000\xbe01\x0000
 You're such a figurative thorn in our\xfffemagnificent plan's metaphorical side!
 ジャマがある ってことは\xfffeあいてに されているということ\xf000\xbe01\x0000\xfffe...むし されるって かなしいもの\xf000\xbe01\x0000\xfffeじゃなくて ジャマされても\xfffeこんどこそ せかいせいふく よ!!
 えいゆう なんか いなくても\xfffeあたしたちは まけないのよ!\xf000\xbe01\x0000
@@ -1482,7 +1482,7 @@ Pride doesn't come from just\xfffethinking you're high and mighty!\xf000\xbe01\x
 いわタイプや はがねタイプは\xfffeゴツい イメ-ジが あるけど\xf000\xbe01\x0000\xfffeコロコロしてて かわいい\xfffeポケモンも いるんだよ
 ネジやまへの トンネルが できた!\xfffeそうきいて とんできた やまおとこ\xf000\xbe01\x0000
 こんなに つよい トレ-ナ-が\xfffeいるとは きいていなかった...
-この トンネルの ちしつは\xfffeホウエンちほうの いせきに\xf000\xbe00\x0000\xfffeよく にているらしいけど...
+この トンネルの ちしつは\xfffeHoennの いせきに\xf000\xbe00\x0000\xfffeよく にているらしいけど...
 クッ! サクッ!\xf000\xbe01\x0000
 サク ガ-ン!
 くっさく さくがん!\xfffeことばの ひびきが おとこらしいな!
@@ -1523,7 +1523,7 @@ You, too, are full of\xfffethis mysterious power...
 A mystical energy remains\xfffein historical locations...\xf000\xbe01\x0000This I know.\xfffeThe many sorrows and joys...
 My psychic Pokémon\xfffeseem somehow alarmed...\xf000\xbe01\x0000Is it because we're in a ruin,\xfffeor are you the cause?\xf000\xbe01\x0000
 ...Such power!\xfffeJust what are you?!
-こだいのしろ...\xf000\xbe01\x0000\xfffeここに ひとや ポケモンが つどい\xfffeイッシュは はってん したらしいね
+Relic Castle...\xf000\xbe01\x0000\xfffeここに ひとや ポケモンが つどい\xfffeイッシュは はってん したらしいね
 ...ここに いると\xfffeかなしみで おしつぶされそうだ\xf000\xbe01\x0000\xfffeきみ...\xfffeてあわせを たのむ!\xf000\xbe01\x0000
 この てあわせ...\xfffeおれは わすれないよ...
 この しろも すなに うもれ\xfffeいつか わすれさられていく...\xf000\xbe01\x0000\xfffeその かなしみが つたわってきて\xfffeしぜんと なみだが こぼれるんだ...
@@ -1592,7 +1592,7 @@ I personally like winter best.\xf000\xbe01\x0000The snow piled up on Mt. Helix..
 さわって たしかめても いいよ?\xfffeほら アセで ぐっしょり...
 エスパ-ポケモンに\xfffeしごとを おまかせ すれば\xf000\xbe01\x0000\xfffeちからしごとも ラクチン!\xfffeアタクシ サボれるって きづいたの!\xf000\xbe01\x0000
 そっか! トレ-ナ-が サボったら\xfffeポケモン こまっちゃうよな
-ポケモンと いっしょに\xfffeしごとを するのが さぎょういん\xf000\xbe01\x0000\xfffeポケモンに まかせきりで\xfffeサボっていては ダメなのです!
+ポケモンと いっしょに\xfffeしごとを するのが Worker\xf000\xbe01\x0000\xfffeポケモンに まかせきりで\xfffeサボっていては ダメなのです!
 ネジやまに こもって\xfffeはや 2ねん...\xf000\xbe01\x0000\xfffeしゅぎょうの せいかを\xfffeいま ためさせて いただこう!\xf000\xbe01\x0000
 じゅくれん したものが\xfffeかならず かつとも かぎらない...
 ひたすら しゅぎょうに あけくれる\xfffeわたしのような ものも いれば\xf000\xbe01\x0000\xfffeたびを つうじて せいちょうする\xfffeきみのような ものもいる... か
@@ -1720,7 +1720,7 @@ The energy's dropping...\xfffeByoo-byoo-byoo-byoo...
 オレの ポケモン\xfffeジットリ しめって いくぜ!\xf000\xbe01\x0000
 うるおいでは まけてない...\xfffeそう しんじることに するぜ
 ジメジメしてるのが いいんだ\xf000\xbe01\x0000\xfffeあかるいことが いいことって\xfffeだれが きめたんだよな!
-それ ポケモンずかん!?\xf000\xbe01\x0000\xfffeじゃあ いろんな ポケモンを\xfffeみせてくれると うれしいよ!\xf000\xbe01\x0000
+それ Pokédex!?\xf000\xbe01\x0000\xfffeじゃあ いろんな ポケモンを\xfffeみせてくれると うれしいよ!\xf000\xbe01\x0000
 ...!\xfffeそんな ポケモン しらない
 むう... しつげんに いけば\xfffeあたらしい ポケモンと であえるかな?
 A Triple Battle is a new style of battle\xfffein which you use three Pokémon!
@@ -1905,7 +1905,7 @@ Looking for dreams? Wander here...\xfffeLooking for victory? Fight!\xf000\xbe01\
 I guess I wasn't\xfffeable to dream...!
 この ほらあなには\xfffeでんせつの ポケモンが ひそんでいた\xf000\xbe01\x0000\xfffeそいつは なにを おもい\xfffeなにを のぞんでいたのだろう?
 If there's a cave to the east,\xfffeI'll go and train my Pokémon!\xf000\xbe01\x0000If there's a trainer to the west,\xfffeI'll go and challenge them!\xf000\xbe01\x0000
-たりてない! きたえかたが\xfffeあっとうてきに たりてない!!
+たりてない! My Pokémon clearly lack\xfffeproper training!!
 Pokémon training Pokémon...\xf000\xbe01\x0000Living in the harsh wild,\xfffeit's of course a possibility.
 ちょっと まって!\xf000\xbe01\x0000\xfffeもうすこし モンスタ-ボ-ルを\xfffeギュッと にぎりしめさせて\xf000\xbe01\x0000\xfffe...うん! だいじょうぶ!\xf000\xbe01\x0000
 ギュッ!
@@ -1944,7 +1944,7 @@ Together with my Pokémon,\xfffeI push rocks with my fists!\xf000\xbe01\x0000The
 We still haven't\xfffebuilt up enough punches!
 Together with my Pokémon,\xfffeI push rocks with my fists!\xf000\xbe01\x0000How about you try pushing rocks\xfffewith your own fighting-type Pokémon?
 From corner to corner, I patrol\xfffePinwheel Forest every day! A battle\xf000\xbe01\x0000\xfffehere is a piece of cake!\xf000\xbe01\x0000
-...ヤグルマのもりで\xfffeまけるとは ふかく だ!
+...Pinwheel Forestで\xfffeまけるとは ふかく だ!
 A Ranger always carries one of these...\xfffeI'll give it to you...!\xf000\xbe01\x0000
 The forest is alive...\xf000\xbe01\x0000Every day, something seems to change,\xfffeso patrolling is all the more enjoyable!
 Blend into the wilderness!\xfffeThat is a Ranger!\xf000\xbe01\x0000
@@ -2066,7 +2066,7 @@ Awww... Just what am I\xfffesupposed to do at a time like this...?
 こやつらから うける\xfffeプレッシャ-... なにごとだ!?
 ヴィオさまの おそばで\xfffeなんたる しったい だ...!
 ジムリ-ダ-を こえるのが\xfffeオレの もくひょう なんだぜ!\xf000\xbe01\x0000
-がんばったよな\xfffeオレの ポケモン!
+My Pokémon fought well, didn't they?
 サンヨウレストランの みつごが\xfffeジムリ-ダ-に もどったら オレ\xf000\xbe00\x0000\xfffeまっさきに しょうぶを いどむんだ!
 じっせん こそが\xfffeさいこうの べんきょう です!\xf000\xbe01\x0000
 まけたことも\xfffeべんきょうに するのです!
@@ -2201,7 +2201,7 @@ I've seen this somewhere...\xfffea previous elegant trainer with gorgeous\xf000\
 ヤッホ-!\xf000\xbe01\x0000
 ヤッホ-!
 のぼった マウンテンは\xfffeいつか くだらなければ ならない\xf000\xbe01\x0000\xfffeじんせい やまあり たにあり
-お-っす!\xfffeみらいの チャンピオン!\xf000\xbe01\x0000
+お-っす!\xfffeみらいの Champion!\xf000\xbe01\x0000
 がはは! だれかが かてば\xfffeあいては まけてる ってことだ
 ポケモンが いなければ\xfffeつよい よわいは きにならないが\xf000\xbe01\x0000\xfffeおまえさんと であうことも\xfffeあいてを することも なかったか
 たのも-!\xf000\xbe01\x0000
@@ -2311,7 +2311,7 @@ Ah...the challenger pursued happiness\xfffe...and won the challenge.\xf000\xbe00
 ファイティング スイ-パ-!\xfffeおまえという ゴミを そうじ!\xf000\xbe01\x0000
 しくじったか...
 しんにゅうを ゆるしたことで\xfffeポケモンを とりあげられるだろう...\xf000\xbe01\x0000\xfffe2ねんまえの さくせんで なかまも\xfffeうばった ポケモンも へったからな
-プラズマだんの レパルダス! と\xfffeよばれる この アタシ!\xf000\xbe00\x0000\xfffeきづかれずに アンタを たおす!\xf000\xbe01\x0000
+プラズマだんの Liepard! と\xfffeよばれる この アタシ!\xf000\xbe00\x0000\xfffeきづかれずに アンタを たおす!\xf000\xbe01\x0000
 あなたたちは 100パ-セント\xfffeパ-フェクトに しんにゅうしゃ!
 アタシはね せかいせいふくを して\xfffeNって やろうを いためるのさ!\xf000\xbe01\x0000\xfffeあの うらぎりもの...\xfffeすかした かおが ムカつくんだよ!
 さきに いっておくわ!\xfffeプラ-ズマ-!!\xf000\xbe01\x0000
