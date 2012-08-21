@@ -120,7 +120,7 @@ Virbank City
 Seigaiha City
 PokéStar Studios
 Join Avenue
-Sangi Town
+Floccesy Town
 Yamaji Town
 Route 19
 Route 20
@@ -128,7 +128,7 @@ Route 21
 Route 22
 Route 23
 Castelia Sewer
-Sangi Ranch
+Floccesy Ranch
 Virbank Industrial Complex
 Rebirth Mountain
 Stranger's House
