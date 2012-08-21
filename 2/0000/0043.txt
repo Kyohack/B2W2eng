@@ -1,4 +1,4 @@
-\xf000\x0180\x0001\x0000 \xf000\x0201\x0001\x0001, 20\xf000\x0201\x0001\x0002
+\xf000ȁ\x0001\x0000月\xf000ȁ\x0001\x0001日
 
 
 ◇ A Trainer from Aspertia City challenged and successfully beat Cheren, the Aspertia Gym Leader!
