@@ -64,9 +64,9 @@ Maria
 Stuffed
 Jujube
 Monica
-グアイ
-グアイ
-グアイ
+Guay
+Guay
+Guay
 Red Wear
 Red Wear
 Red Wear
@@ -146,9 +146,9 @@ Antonio
 Stuffed
 Jujube
 Monica
-グアイ
-グアイ
-グアイ
+Guay
+Guay
+Guay
 Red Wear
 Red Wear
 Red Wear
@@ -166,7 +166,7 @@ UFO
 Brycen Man
 M・B
 M・B2
-てんそうき
+Time Machine
 Monica
 Puppet
 Monster
@@ -174,25 +174,25 @@ F-00
 Devil
 White door
 Black door
-セット
-セット
-セット
-セット
-セット
-セット
-セット
-セット
-セット
-セット
-セット
-セット
-セット
-セット
-セット
-セット
+Set
+Set
+Set
+Set
+Set
+Set
+Set
+Set
+Set
+Set
+Set
+Set
+Set
+Set
+Set
+Set
 UFO
 Monica
 F-00
-Karateou
+Blackbelt
 Smeargle
 Homikapapa
