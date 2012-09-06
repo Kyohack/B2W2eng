@@ -1,7 +1,7 @@
 BrycenMan Corps
 Heroes of Justice
-\xf000\x0101\x0001\x0000Kid
-\xf000\x0101\x0001\x0000Girl
+\xf000ā\x0001\x0000Kid
+\xf000ā\x0001\x0000Girl
 Minccino Amusement Park Visitor A
 Hironobu
 Minccino Amuesment Park Visitor B
@@ -15,8 +15,8 @@ None
 N-Suguru
 BrycenMan Corps
 Heroes of Justice
-\xf000\x0101\x0001\x0000Kid
-\xf000\x0101\x0001\x0000Girl
+\xf000ā\x0001\x0000Kid
+\xf000ā\x0001\x0000Girl
 Announcement
 MIYUKI
 None
@@ -30,9 +30,9 @@ None
 N-Suguru
 BrycenMan Corps
 Heroes of Justice
-\xf000\x0101\x0001\x0000Kid
-\xf000\x0101\x0001\x0000Girl
-I run around trying to escape
+\xf000ā\x0001\x0000Kid
+\xf000ā\x0001\x0000Girl
+People trying to flee
 The Akito Troupe
 None
 None
@@ -45,8 +45,8 @@ None
 N-Suguru
 Mecha Police Partner
 Finger of Kakiuchi
-\xf000\x0101\x0001\x0000Ninja
-\xf000\x0101\x0001\x0000Kunoichi
+\xf000ā\x0001\x0000Ninja
+\xf000ā\x0001\x0000Kunoichi
 None
 None
 None
@@ -60,8 +60,8 @@ None
 I-Hiroto
 Mecha Police Partner
 Finger of Kakiuchi
-\xf000\x0101\x0001\x0000Ninja
-\xf000\x0101\x0001\x0000Kunoichi
+\xf000ā\x0001\x0000Ninja
+\xf000ā\x0001\x0000Kunoichi
 None
 None
 None
@@ -75,8 +75,8 @@ None
 I-Hiroto
 Mecha Police Partner
 Finger of Kakiuchi
-\xf000\x0101\x0001\x0000Ninja
-\xf000\x0101\x0001\x0000Kunoichi
+\xf000ā\x0001\x0000Ninja
+\xf000ā\x0001\x0000Kunoichi
 None
 None
 None
@@ -89,9 +89,9 @@ None
 None
 I-Hiroto
 Mecha Police Partner
-かいとうのてさき
-\xf000\x0101\x0001\x0000Ninja
-\xf000\x0101\x0001\x0000Kunoichi
+Kakiuchi minions
+\xf000ā\x0001\x0000Ninja
+\xf000ā\x0001\x0000Kunoichi
 Communication
 Hironobu
 Starting Discharge
@@ -107,7 +107,7 @@ UFO Servant
 Pokémon Guard
 Guard Crew
 Guard Crew
-I run around trying to escape
+trying to flee
 The Akito Troupe
 Aimed at the Elderly
 MAYO
@@ -137,7 +137,7 @@ UFO Servant
 Pokémon Guard
 Guard Crew
 Guard Crew
-I run around trying to escape
+trying to flee
 The Akito Troupe
 None
 None
@@ -152,7 +152,7 @@ E's Invention
 Pokémon Guard
 Guard Crew
 Guard Crew
-I run around trying to escape
+trying to flee
 The Akito Troupe
 None
 None
@@ -167,7 +167,7 @@ Huge Creature
 Pokémon Guard
 Guard Crew
 Guard Crew
-Guard's Cap
+Guard's Capt.
 Hironobu
 None
 None
@@ -178,11 +178,11 @@ None
 None
 None
 N-Suguru
-Monster of an opprotunity
-Pokémon Guard
+Monster of opportunity
+pokémon Guard
 Guard Crew
 Guard Crew
-Guard's Cap
+Guard's Capt.
 Hironobu
 None
 None
@@ -197,7 +197,7 @@ Big Tyranita knob
 Pokémon Guard
 Guard Crew
 Guard Crew
-Guard's Cap
+Guard's Capt.
 Hironobu
 None
 None
@@ -209,20 +209,20 @@ None
 None
 N-Suguru
 きかいのかいぶつ2
-ぼうえいたいポケモン
-ぼうえいたいクル-
-ぼうえいたいクル-
-ぼうえいたいキャップ
+Pokemon Guard
+Guard Crew
+Guard Crew
+Guard's Capt.
 Hironobu
-にげまどうしみん
-げきだんアキト
+Trying to flee
+Akito troupe
 None
 None
 None
 None
 None
 None
-N・スグル
+N・Suguru
 せいきのはつめい
 はかせの パ-トナ-
 てんさいかがくしゃ
@@ -237,7 +237,7 @@ None
 None
 None
 None
-I・ヒロト
+I・Hiroto
 レディアンのニンゲン
 はかせのパ-トナ-
 てんさいかがくしゃ
@@ -252,7 +252,7 @@ None
 None
 None
 None
-I・ヒロト
+I・Hiroto
 れきしをかえるカギ
 はかせのパ-トナ-
 てんさいかがくしゃ
@@ -267,7 +267,7 @@ None
 None
 None
 None
-I・ヒロト
+I・Hiroto
 なまいきポケモン
 イケてるポケモン
 ハンサムなしょうねん
@@ -282,7 +282,7 @@ None
 None
 None
 None
-N・スグル
+N・Suguru
 エリ-トポケモン
 さえないポケモン
 さえない しょうねん
@@ -297,7 +297,7 @@ None
 None
 None
 None
-I・ヒロト
+I・Hiroto
 しゃべるド-ブル
 エリ-トポケモン
 Ace Trainer
@@ -327,7 +327,7 @@ None
 None
 None
 None
-S・ヒトミ
+S・Hitomi
 まほうの とびら
 おともポケモン
 Prince
@@ -342,7 +342,7 @@ None
 None
 None
 None
-S・ヒトミ
+S・Hitomi
 まほうの とびら
 おともポケモン
 Prince
@@ -357,7 +357,7 @@ None
 None
 None
 None
-S・ヒトミ
+S・Hitomi
 モニカのポケモン
 マニアの ポケモン
 モニカのこいびと
@@ -372,7 +372,7 @@ None
 None
 None
 None
-N・スグル
+N・Suguru
 おとこの なかま
 マニアの ポケモン
 モニカのこいびと
@@ -387,7 +387,7 @@ None
 None
 None
 None
-N・スグル
+N・Suguru
 きょだいOL
 マニアの ポケモン
 モニカのこいびと
@@ -402,7 +402,7 @@ None
 None
 None
 None
-N・スグル
+N・Suguru
 きょだいOL
 マニアの ポケモン
 モニカのこいびと
@@ -417,7 +417,7 @@ None
 None
 None
 None
-N・スグル
+N・Suguru
 かいきげんしょう
 たびの あいぼう
 たびびと
@@ -432,7 +432,7 @@ None
 None
 None
 None
-I・ヒロト
+I・Hiroto
 かいきげんしょう
 たびのあいぼう
 たびびと
@@ -447,7 +447,7 @@ None
 None
 None
 None
-I・ヒロト
+I・Hiroto
 かいきげんしょう
 たびのあいぼう
 たびびと
@@ -462,7 +462,7 @@ None
 None
 None
 None
-I・ヒロト
+I・Hiroto
 こころをもつ ロボ
 はかせのパ-トナ-
 しょうねんはつめいか
@@ -477,7 +477,7 @@ None
 None
 None
 None
-N・スグル
+N・Suguru
 こころをもつ ロボ
 はかせのパ-トナ-
 しょうねんはつめいか
@@ -492,7 +492,7 @@ None
 None
 None
 None
-N・スグル
+N・Suguru
 こころをもつ ロボ
 はかせのパ-トナ-
 しょうねんはつめいか
@@ -507,7 +507,7 @@ None
 None
 None
 None
-N・スグル
+N・Suguru
 こころをもつ ロボ
 はかせのパ-トナ-
 しょうねんはつめいか
@@ -522,7 +522,7 @@ None
 None
 None
 None
-N・スグル
+N・Suguru
 ゆうれいたち
 Ghost Erasers
 Ghost Eraser
@@ -572,9 +572,9 @@ Devil of Destruction
 Ghost Erasers\xfffe
 Ghost Eraser
 Ghost Eraser
-I run around trying to escape
+trying to escape
 Hironobu
-I run around trying to escape
+trying to escape
 P Casting
 None
 None
@@ -585,8 +585,8 @@ None
 S・Teriyuki
 BrycenMan Corps
 Heroes of Justice
-\xf000\x0101\x0001\x0000Kid
-\xf000\x0101\x0001\x0000Girl
+\xf000ā\x0001\x0000Kid
+\xf000ā\x0001\x0000Girl
 None
 None
 None
@@ -600,8 +600,8 @@ None
 N-Suguru
 BrycenMan Corps
 Heores of Justice
-\xf000\x0101\x0001\x0000Man
-\xf000\x0101\x0001\x0000Man
+\xf000ā\x0001\x0000Man
+\xf000ā\x0001\x0000Man
 Minccino Amusement Park Visitor A
 Hironobu
 Minccino Amusement Park Visitor B
