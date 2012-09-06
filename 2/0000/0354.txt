@@ -1,32 +1,32 @@
-かいじんに ねらわれる ゆうえんち\xfffeそこに せいぎのみかたが とうじょう
+In a theme park targeted by a mysterious figure,\xfffean ally of justice appears!
 ごうかきゃくせんの とまる はとばに\xfffeあくの かいじんが しゅつげん
 あく VS せいぎの ゆくえ\xfffeうんめいを かけた たたかい
 ゆめの エネルギ-を めぐって\xfffeぶつかる ひみつけいじと かいとう
 かいとうからの ちょうせんじょう\xfffeそれは こうみょうな ワナ
 かいとうの つぎなる えもの\xfffeねらわれた けいじの いもうと
 ひみつけいじと かいとうの\xfffeついせきげきが ついに けっちゃく
-だいとかいに UFO しゅつげん\xfffeしゅつどうする イッシュぼうえいたい
-なぞの おんなの じっけん\xfffeあかされる デコイさくせん
-ふたたび しゅつげんする UFOと\xfffeデコイさくせんの ゆくえ
-なぞの おんなの しょうたい\xfffeじんるい さいごの たたかい
+In a great metropolis, a UFO is spotted.\xfffeSortie! Unova Defence Force
+Test a mysterious\xfffewoman's decoy strategy.
+The UFO appears again,\xfffeand the fate of the decoy strategy
+The mysterious woman's real identity,\xfffeand humanity's final battle
 なぞの きょだいせいぶつ しゅつげん\xfffeしゅつどうする イッシュぼうえいたい
 パトロ-ルちゅうに なぞの ひめい\xfffeきゅうこうする イッシュぼうえいたい
 だいバンギラス ふたたび\xfffeなぞの ひかりの しょうたい
 M・Bが ふたたび しゅつげん\xfffeけっせん イッシュぼうえいたい
-せいきの だいじっけん!\xfffeめざせ まだみぬ みらいの せかい\xfffe
-しょうげきの みらい!\xfffeポケモンが にんげんを しはいする
-みらいを かえろ!\xfffeさいごの きぼうは かこへの とびら\xfffe
+The greatest discovery of the ages!\xfffeTo the yet unseen future...\xfffe
+The shocking future!\xfffePokemon control humans!
+Change the future!\xfffeThe final hope is the door to the past\xfffe
 トレ-ナ-たちの れんあいもよう\xfffeまちかどで であう ふたりといっぴき 
 トレ-ナ-たちの れんあいもよう\xfffeふつりあいな こい\xfffe
 トレ-ナ-たちの れんあいもよう\xfffeゆうえんちで さいかいする ふたり
-まほうせかいの クイ-ンの ワナ\xfffeあやしいとびらの むこうへ\xfffe
+The Queen of Magicworld's trap,\xfffeBeyond the strange door!\xfffe
 とじこめられた まほうのオリ\xfffeもんばんとの であい
 もとのせかいに つながる とびら\xfffeうんめいを かけた せんたく
 OLとの おおゲンカ\xfffeあやしいボ-ルが まねく ひげき
 あやしい ほうもんしゃ\xfffeぬすまれる OLと ボ-ル
 きょだいな OL しゅつげん\xfffeパニックに おちいる まち\xfffe
 きょだいかした OLの うんめい\xfffeうんめいの カギは 「あい」
-なにもの? どこから? なんのため?\xfffeひとの かたちをした かいぶつ
+Who? What? \xfffeThis monster is shaped like a human?
 まよなかの ゆうえんちを\xfffeひめいと ぜつぼうが みたす!
 しょうたいふめい りかいふのう!\xfffeいじげんからの ほうもんしゃ
 てんさいはつめいかの じっけん\xfffeこころをもつ ロボットの たんじょう 
@@ -61,9 +61,9 @@ Time Gate Traveler 3
 Trainer & Pokémon Love
 Trainer & Pokémon Love 2
 Trainer & Pokémon Love 3
-まほうのくにの ふしぎなとびら
-まほうのくにの ふしぎなとびら2
-まほうのくにの ふしぎなとびら3
+Die Pforten des Zauberreichs
+Die Pforten des Zauberreichs 2
+Die Pforten des Zauberreichs 3
 OL The Giant!!
 OL The Giant!! Part 2
 OL The Giant!! Part 3
@@ -82,34 +82,34 @@ Ghost Erasers 4
 Brycenman's Revenge Returns
 Brycenman
 Defeat your opponent in every take
-5TAKE の あいだ いきのこれ\xfffeあいてを たおすと NG
-15TAKE いないにセットH1をたおせ\xfffeほかの あいては むししても OK
+Survive for 5 TAKEs.\xfffeBeating the opponent is NG
+Defeat Set H1 within 15 TAKEs\xfffeYou can ignore the other opponents.
 5TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
 8TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
 10TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
 20TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
-7TAKE いないに リグレ-をたおせ\xfffeほかのあいてを たおすと NG
-でんじほう で セットU1を たおせ\xfffeそれいがいの わざで たおすと NG
-7TAKE いないに オ-ベムをたおせ\xfffeほかのあいてを たおすと NG
-10TAKE いないにセットU2をたおせ\xfffeほかのあいてを たおすと NG
+Defeat Elgyem within 7 TAKEs.\xfffeDefeating the other opponent is NG.
+Defeat Set U1 with Zap Cannon.\xfffeDefeating it with any other move is NG
+Defeat Beheeyem within 7 TAKEs.\xfffeDefeating the other opponent is NG
+Defeat Set U2 within 10 TAKEs\xfffeDefeating the other opponent is NG
 4TAKE の あいだ いきのこれ\xfffeあいてを たおすと NG
 15TAKE いないにセットM1をたおせ
 15TAKE いないに\xfffeすべての あいてを たおせ
 15TAKE いないにセットM2をたおせ
-4TAKE いないにセットT1をたおせ
-5TAKE の あいだ いきのこれ\xfffeセットK1を たおすと NG
-かみなり で セットT1を たおせ\xfffeそれいがいの わざで たおすと NG
+Defeat Set T1 within 4 TAKEs.
+Survive for 5 TAKEs.\xfffeBeating Set K1 is NG.
+Defeat Set T1 with Thunder.\xfffeDefeating it with any other move is NG
 8TAKE いないに あいてを たおせ
 4TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
 6TAKE いないに あいてを たおせ
-7TAKE いないに\xfffeすべての あいてを たおせ
+Defeat all enemies\xfffewithin 7 TAKEs.
 おどろかす で セットW2をたおせ\xfffeそれいがいの わざで たおすと NG
 20TAKE いないにセットW2をたおせ\xfffeほかの あいてを たおすと NG
 8TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
 10TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
 6TAKE の あいだ いきのこれ\xfffeあいてを たおすと NG
 6TAKE の あいだ いきのこれ\xfffeあいてを たおすと NG
-10TAKE いないに\xfffeすべての あいてを たおせ
+Defeat the opponent\xfffewithin 10 TAKEs.
 20TAKE いないに\xfffeすべての あいてを たおせ
 15TAKE いないにセットC2をたおせ\xfffeほかの あいてを たおしても OK
 5TAKE の あいだ いきのこれ\xfffeあいてを たおすと NG
@@ -130,19 +130,19 @@ Co-Star
 CAST Co-Star
 BAG
 Ability
-\xf000\x0102\x0001\x0000
+\xf000Ă\x0001\x0000
 ♂
 ♀
-Lv.\xf000\x0202\x0001\x0000
-\xf000\x0109\x0001\x0000
-\xf000\x0106\x0001\x0000
-\xf000\x0107\x0001\x0000
-\xf000\x0107\x0001\x0000
-\xf000\x0107\x0001\x0000
-\xf000\x0107\x0001\x0000
+Lv.\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+\xf000Ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
 /
 Official Title
-\xf000\xff00\x0001\x0001\xf000\x013f\x0001\x0000\xf000\xff00\x0001\x0000\xfffewant to attempt the shoot?
+\xf000\xff00\x0001\x0001\xf000Ŀ\x0001\x0000\xf000\xff00\x0001\x0000\xfffewant to attempt the shoot?
 Challenge
 DETAILS
 CLOSE
@@ -168,20 +168,20 @@ Box Office
 Synopsis
 Best Record of Films
 Box Office Record
-\xf000\x0203\x0001\x0002 Billion 円
+\xf000ȃ\x0001\x0002 Billion 円
 Featured Cast
-\xf000\x0100\x0001\x0001
-\xf000\x0203\x0001\x0000/\xf000\x0201\x0001\x0001/\xf000\x0201\x0001\x0002
-\xf000\x0201\x0001\x0000:\xf000\x0201\x0001\x0001
+\xf000Ā\x0001\x0001
+\xf000ȃ\x0001\x0000/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002
+\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 release Date
 ??? Billion 円
-VS \xf000\x010c\x0001\x0000 Kid
-VS \xf000\x010c\x0001\x0000 Kid\xfffeBrycenman Returns
-VS \xf000\x010c\x0001\x0000 Kid\xfffeハチクマンの さいご
-さんじょう! \xf000\x010c\x0001\x0000 Ninja
-\xf000\x010c\x0001\x0000ニンジャの ワナ
-\xf000\x010c\x0001\x0000ニンジャVSいもうとポリス
-\xf000\x010c\x0001\x0000ニンジャ さいごのじけん
+VS \xf000Č\x0001\x0000 Kid
+VS \xf000Č\x0001\x0000 Kid\xfffeBrycenman Returns
+VS \xf000Č\x0001\x0000 Kid\xfffeハチクマンの さいご
+さんじょう! \xf000Č\x0001\x0000 Ninja
+\xf000Č\x0001\x0000ニンジャの ワナ
+\xf000Č\x0001\x0000ニンジャVSいもうとポリス
+\xf000Č\x0001\x0000ニンジャ さいごのじけん
 Fear in the Sky
 The UFO and Mysterious Woman
 Decoy Strategy
@@ -216,13 +216,13 @@ Ghost Eraser - FILE 3\xfffeDemon Treasures
 Ghost Eraser - FILE 4\xfffeDestructive Spirit
 The Dream Match!!
 VS Wise Man
-VS \xf000\x010c\x0001\x0000 Girl
-VS \xf000\x010c\x0001\x0000 Girl\xfffeかえって きた ハチクマン
-VS \xf000\x010c\x0001\x0000 Girl\xfffeハチクマンの さいご
-さんじょう! \xf000\x010c\x0001\x0000クノイチ
-\xf000\x010c\x0001\x0000クノイチの ワナ
-\xf000\x010c\x0001\x0000クノイチVSいもうとポリス
-\xf000\x010c\x0001\x0000クノイチ さいごのじけん
+VS \xf000Č\x0001\x0000 Girl
+VS \xf000Č\x0001\x0000 Girl\xfffeかえって きた ハチクマン
+VS \xf000Č\x0001\x0000 Girl\xfffeハチクマンの さいご
+さんじょう! \xf000Č\x0001\x0000クノイチ
+\xf000Č\x0001\x0000クノイチの ワナ
+\xf000Č\x0001\x0000クノイチVSいもうとポリス
+\xf000Č\x0001\x0000クノイチ さいごのじけん
 Fear in the Sky
 The UFO and Mysterious Woman
 Decoy Strategy
