@@ -1,22 +1,22 @@
-ディレクタ-
+Director
 うんの たかお
-プランニング ディレクタ-
+Planning Director
 さいとう まさふみ
-プログラム ディレクタ-
+Program Director
 たまだ そうすけ
-ア-ト ディレクタ-
+Art Director
 うんの たかお
-シナリオ
+Scenario
 まつみや としのぶ
-プログラム
-リ-ダ-
+Program
+Leader
 もり あきと
 いわさわ みゆき
 なぎはし とおる
 いちらく かつひこ
 おのうえ まさゆき
 たなか りょうた
-ポケモンBW プログラム
+Pokemon BW program
 わたなべ てつや
 そがべ ひさし
 おおの かつみ
@@ -30,9 +30,9 @@
 かわだ こうじ
 まつだ よしのり
 かがや けいた
-ポケモン キャラクタ- ディレクタ-
+Pokemon Characters Director
 すぎもり けん
-ポケモン デザイン
+Pokemon Design
 すぎもり けん
 うんの たかお
 ふじわら もとふみ
@@ -51,15 +51,15 @@
 にしだ あつこ
 もりつぐ けいこ
 きたかぜ ともひろ
-2D グラフィック デザイン
-リ-ダ-
+2D Graphic Design
+Leader
 よしだ ひろのぶ
 とやま けんきち
 つるた さや
 みずたに めぐみ
 おおむら ゆうすけ
-3D グラフィック デザイン
-リ-ダ-
+3D Graphic Design
+Leader
 おおくぼ ともひこ
 ふちの ひろき
 いべ まな
@@ -70,34 +70,34 @@
 しいやま ゆきこ
 たかお ゆういちろう
 わたなべ あつし
-トレ-ナ- メイン デザイン
+Main Trainer Design
 おおむら ゆうすけ
-トレ-ナ- デザイン
+Trainer Design
 いべ まな
 みずたに めぐみ
-バトル グラフィック デザイン
+Battle Graphic Design
 よしだ ひろのぶ
-バトル エフェクト デザイン
+Battle Effect Design
 ふじわら もとふみ
-UI グラフィック メイン デザイン
+Main UI Graphic Design
 とやま けんきち
-デモ ム-ビ- デザイン
+Demo Movie Design
 うんの たかお
-ポケモンBW グラフィック デザイン
+Pokemon BW Graphic Design
 リ ヒョンジョン
 たのうえ れいこ
 ふじわら まいこ
 ジェイムス タ-ナ-
 もりつぐ けいこ
 きたかぜ ともひろ
-ポケモン せってい & ずかん テキスト
+Pokedex Settings & Text
 まつみや としのぶ
-おんがく
+Music
 いちのせ ごう
 さとう ひとみ
 ポケモン ボイス
 いちのせ ごう
-サウンド エフェクト
+Sound Effects
 さとう ひとみ
 たにぐち てるお
 Seigaiha City
@@ -108,16 +108,16 @@ Route 23など
 さっきょく & へんきょく
 いちのせ ごう
 さとう ひとみ
-ポケモンBW おんがく
+Pokemon BW Music
 ますだ じゅんいち
 かげやま しょうた
 あだち みなこ
-ゲ-ムデザイン
-リ-ダ-
+Game Design
+Leader
 しもやまだ てるゆき
-リ-ダ-
+Leader
 なかつい すぐる
-リ-ダ-
+Leader
 まつみや としのぶ
 にしの こうじ
 みずぐち まい
@@ -125,35 +125,35 @@ Route 23など
 なかむら あきら
 いとう ひろと
 むらかみ なおと
-テキスト
+Text
 まつみや としのぶ
 なかつい すぐる
 いとう ひろと
 よしかわ ひかる
-スクリプトせってい
+Script Configuration
 みずぐち まい
 すぎなか かつのり
 ふじむら そういちろう
-マップデザイン
+Map Design
 なかつい すぐる
 すぎなか かつのり
 なかむら あきら
 にしの こうじ
 あさおか ようへい
 むろい かずき
-パラメ-タ-せっけい
+Parametric Design
 にしの こうじ
 いとう ひろと
 ポケウッド せっけい
 なかつい すぐる
-ポケモンワ-ルドト-ナメント せっけい
+Al Pokemon Tournament Design
 すぎなか かつのり
 まつみや としのぶ
 ハイリンクフェス せっけい
 さいとう まさふみ
-ジョインアベニュ- せっけい
+Join Avenue Design
 しもやまだ てるゆき
-ポケモンBW ゲ-ムデザイン
+Pokemon BW Game Design
 もりもと しげき
 まつしま けんじ
 おおた てつじ
@@ -163,32 +163,32 @@ Route 23など
 ほずみ ゆきこ
 かわちまる たけし
 たかはし ただし
-3DSれんどう せっけい
+3DS Interlocking Design
 うんの たかお
 さいとう まさふみ
-3DSれんどう プログラム
+3DS Link Program
 いさり やすのり
-ポケモンBW Wi-Fi サ-バ- かいはつ
+Pokemon BW Wi-Fi Server Development
 やまぐち たかひろ
 やまぐち りょう
 にわ かずとも
 たけうち たかあき
 いしかわ みきひろ
-ポケモングロ-バルリンク せっけい
+Pokemon Global Link Design
 たかはし まきこ
 よしかわ けいいち
 うわい しん
-ベ-スメントファクトリ-プロダクション
-デバッグマネ-ジメント
+Basement Factory Production
+Debug management
 たにかわ ゆうき
 なかじま もとき
 おおはし あきこ
 たむら たけし
-デバッグ
+Debug
 マリオクラブ
-B & W こうそう
+B & W Concept
 ますだ じゅんいち
-スペシャルサンクス
+Special Thanks
 とみなが けんじ
 もり ゆういちろう
 たじり よしお
@@ -226,35 +226,35 @@ B & W こうそう
 こまい だいすけ
 むかい としお
 たかはら ちあき
-ア-トワ-ク
+Artwork
 いたに きよみ
 なかみち さちこ
-グロ-バライズ
+Globalize
 なかお のりこ
 いちばやし ひろのり
 ふるかわ しゅうへい
 にのみや けい
 まつしま けんじ
-じょうほうかんり
+Information Manager
 よねだ とうや
 はらぐち しほ
 なかい ゆうた
 さくらい ゆうり
-コ-ディネ-タ-
+Coordinator
 こほり しゅんすけ
 かじわら あやこ
 きなし あきら
 あらき ひであき
 おかだ ゆうき
-プロデュ-サ-
+Producer
 ますだ じゅんいち
 やまがみ ひとし
 えがみ しゅうさく
-エグゼクティブ プロデュ-サ-
+Executive Producer
 たじり さとし
 いわた さとる
 いしはら つねかず
 かいはつ
 GAME FREAK
-ポケットモンスタ-ブラック2
-ポケットモンスタ-ホワイト2
+Pokemon Black 2
+Pokemon White 2
