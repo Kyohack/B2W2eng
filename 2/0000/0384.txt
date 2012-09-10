@@ -9,21 +9,21 @@ Mom
 ？？？
 Speak
 しんかを おしえて
-ずかんチェック
+Check the pokedex
 Goodbye
-しんかについて しりたいのは\xfffeどの ポケモンかな?
+I want ot know the evolution\xfffeof which pokemon?
 What's the matter?
 Speak
-なに してる?
+What are you doing?
 Goodbye
-なにか あるのかよ?
+Is there something you need?
 Speak
-タイプを おしえて
-とくせいを おしえて
+Tell me the type of
+Tell me the characterics of
 Goodbye
-どの タイプに ついて\xfffeせつめい すれば いいのかな?
-どの とくせいに ついて\xfffeせつめい すれば いいのかな?
-なにか ききたいの?
+For which type\xfffeshould I explain?
+For which characteristics\xfffeshould I explain?
+Want to ask something?
 Speak
 なかよしか みて
 がんばりを みて
