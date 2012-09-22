@@ -48,7 +48,7 @@ Do you want to participate in the\xfffePokémon Wifi Battle Tournament?
 Participate
 Info
 CLOSE
-Wi-Fiたいかいは\xfffeポケモングロ-バルリンクで\xf000\xbe00\x0000\xfffeとうろく すると さんか できます\xf000\xbe01\x0000\xfffeたいかいの ル-ルや\xfffeかいさい きかんは\xf000\xbe01\x0000\xfffeポケモングロバ-ルリンクを\xfffehttp://www.pokemon-gl.com/\xf000\xbe00\x0000\xfffeかくにん してください\xf000\xbe01\x0000
+Wi-Fi Pokemon\xf000\xbe00\x0000\xfffeTo register and take part in\xf000\xbe01\x0000\xfffeDo you want the rules?\xfffeThe conference\xf000\xbe01\x0000\xfffePokemon Link\xfffehttp://www.pokemon-gl.com/\xf000\xbe00\x0000\xfffePlease be sure\xf000\xbe01\x0000
 Do you want to stop\xfffeparticipating?
 YES
 NO
@@ -61,7 +61,7 @@ There are no current competitions\xfffethat you can participate in.\xf000\xbe01\
 To participate in the Wi-Fi Competition,\xfffeyou need to update your Digital Player ID.\xf000\xbe01\x0000\xfffeIs it OK to update it?
 To participate in the Wi-Fi Competition,\xfffethe Digital Player ID will be updated.\xf000\xbe01\x0000\xfffeThe Battle Box from the previous\xfffetournament will be unregistered.\xf000\xbe01\x0000\xfffeIs it OK to update your Digital Player ID?
 You cannot participate\xfffewithout updating your Digital Player ID.\xf000\xbe01\x0000\xfffeCancel this update?
-デジタルせんしゅしょうを\xfffeこうしん しています\xf000\xbe01\x0000\xfffeでんげんを きらないでください
+Your Digital ID\xfffeis updating,\xf000\xbe01\x0000\xfffeDo not turn off the power
 Unable to update your Digital Player ID.
 Your Battle Box will be registered\xfffefor the tournament.\xf000\xbe01\x0000\xfffeCaution!\xfffeOnce registered,\xf000\xbe00\x0000\xfffeyou will not be able to\xf000\xbe00\x0000\xfffemove your Pokémon to or from\xf000\xbe00\x0000\xfffeyour Battle Box.\xf000\xbe01\x0000\xfffeWill you still register the Pokémon\xfffein your Battle Box?
 YES
@@ -96,7 +96,7 @@ Cancel participation
 CLOSE
 The competition you've registered\xfffeis not currently held.\xf000\xbe01\x0000\xfffePlease check the competition schedule\xfffeand wait for it.\xf000\xbe01\x0000
 There are no Pokémon in\xfffeyour Battle Box.\xf000\xbe01\x0000\xfffePlease check the tournament\xffferules to place Pokémon\xf000\xbe00\x0000\xfffein your Battle Box.\xf000\xbe01\x0000
-たいせんの けっかを\xfffeサ-バ-に おくりました\xf000\xbe01\x0000
+The results of the fight were sent to the Object Board\xf000\xbe01\x0000
 L\xf000\x0202\x0001\x0000
 ♂
 ♀
