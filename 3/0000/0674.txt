@@ -11,11 +11,10 @@ Communication error.
 Go to Wi-Fi Club
 Info
 Cancel
-ポケモンセンター Wi-Fiひろばへの\xfffeごあんないは こちらです!\xf000\xbe01\x0000\xfffeWi-Fiコネクションを\xfffeごりよう ですか?\xf000\x0200\x0001\x0000
-Wi-Fi せつぞくを\xfffeかいし しますか?\xf000\x0200\x0001\x0000
-それでは こちらに どうぞ!\xf000\xbe01\x0000
-またの ごりようを\xfffeおまちして おります
-Wi-Fiひろば は \xfffeせかいの ポケモンTrainerと\xf000\xbe00\x0000\xfffeこうりゅう できる しせつです\xf000\xbe01\x0000\xfffeおしゃべり や ひろばゲーム\xfffeWi-Fiひろば だけの どうぐ\xf000\xbe00\x0000\xfffeタッチトイ などで あそべます\xf000\xbe01\x0000\xfffeなお Wi-Fiひろば は\xfffe1かいの せつぞくで あそべる\xf000\xbe00\x0000\xfffeじかんが きまって います\xf000\xbe01\x0000\xfffeしゅうりょう までの あいだ\xfffeたくさん たのしんで くださいね!\xf000\xbe01\x0000\xfffeWi-Fiコネクションを\xfffeごりよう ですか?\xf000\x0200\x0001\x0000
+Pokemon Center Wi-Fi Plaza\xfffeguide is here!\xf000\xbe01\x0000\xfffeWi-Fi Connection\xfffeごりよう ですか?\xf000\x0200\x0001\x0000
+Wi-Fi Connection\xfffeDo you want to start?\xf000\x0200\x0001\x0000
+Over here please!\xf000\xbe01\x0000
+We look forward to\xfffemeeting you again!Wi-Fiひろば は \xfffeせかいの ポケモンTrainerと\xf000\xbe00\x0000\xfffeこうりゅう できる しせつです\xf000\xbe01\x0000\xfffeおしゃべり や ひろばゲーム\xfffeWi-Fiひろば だけの どうぐ\xf000\xbe00\x0000\xfffeタッチトイ などで あそべます\xf000\xbe01\x0000\xfffeなお Wi-Fiひろば は\xfffe1かいの せつぞくで あそべる\xf000\xbe00\x0000\xfffeじかんが きまって います\xf000\xbe01\x0000\xfffeしゅうりょう までの あいだ\xfffeたくさん たのしんで くださいね!\xf000\xbe01\x0000\xfffeWi-Fiコネクションを\xfffeごりよう ですか?\xf000\x0200\x0001\x0000
 Go to Wi-Fi Plaza
 Info
 おきゃくさま\xfffeこちらへ どうぞ!\xf000\xbe01\x0000
